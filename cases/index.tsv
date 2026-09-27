@@ -1,0 +1,3 @@
+seed	area	terrain	generator	capture	truth	tile_hash	truth_hash	verified	status
+1	Coral Hideout	-	dgr	captures/stages_20260927_190535.csv	-	2815062652	-	no	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20260927_191807.csv	captures/cases/1/truth_43a572f43f0.tsv	805187908	805187908	yes	dungeon trace
