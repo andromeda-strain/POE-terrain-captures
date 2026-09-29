@@ -1,0 +1,708 @@
+x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
+0	0	0x3d5d6515040	0xde957fea02	214	3	-3984	0	0	59920	1275	982	0	0xde957fea02	0x3d604fbed40	0xde957fea02	1275	
+1	0	0xde957fea02	0x3d605db9a60	246	127	1680	0	0	12464	5964	32758	0	0x3d605e012a0	0x7ff6174e50d0	0x3d60592f940	5962	
+2	0	0x3d5e0a4c7d0	0x7ff616cf47a0	214	3	-13088	0	0	48	0	0	0	0x29000400000000	0x24c	0x448c55cc4a41fd2a	1462	
+3	0	0x0	0x9	69	223	14029	160	182	15	0	0	0	0x30	0x29000400000000	0x2d54	49860	
+4	0	0x3d604d6e3e0	0x0	214	3	17760	0	0	14	0	0	0	0xf	0x3d604f95ca0	0x7ff6174c30b0	1277	
+5	0	0x7ff6174e50d0	0x3d604b12cc0	4	0	0	41	0	1680	5962	32758	0	0x3d5e09ead50	0x7ff616cf47a0	0x30	0	
+6	0	0x24c	0x448c55cc4a41fd2a	0	0	48	0	0	30656	1462	982	0	0x0	0x9	0xf	0	
+7	0	0x29000400000000	0x2d54	0	0	15	0	0	14029	49860	57157	46752	0x3d604d69840	0x0	0xe	0	
+8	0	0x3d604fa3ef0	0x7ff6174c30b0	213	3	26832	0	0	64336	1277	982	0	0x7ff6174e50d0	0x3d604b46e40	0x7ff6174a0690	57503	
+9	0	0x7ff616cf47a0	0x30	0	0	0	0	0	0	0	4	41	0x2d54	0xb6a0df45c2c436cd	0x3d605245ea0	0	
+10	0	0xe	0xf	111	0	95	100	0	80	97	114	97	0x65007400690073	0x7300730065006c	0x68007300690046	98	
+11	0	0x61006800530079	0x650070	115	0	70	104	0	1	0	0	0	0x61007200610050	0x65007400690073	0x7300730065006c	105	
+12	0	0x6e00690066005f	0x70006100680053	214	3	-6384	0	0	101	0	981	0	0x1	0x3d604fb6430	0x7ff6174c30b0	1278	
+13	0	0x7ff6174e50d0	0x3d604b49230	246	127	12464	0	0	1680	5962	32758	0	0x3d5e0a01c80	0x7ff616cf47a0	0x3d604f93cc0	5964	
+14	0	0x3d604fd2bc0	0x7ff6174e50d0	214	3	-23312	0	0	10656	1201	982	0	0x7ff6174a0690	0x3d5e09e9db0	0x7ff616cf47a0	1498	
+15	0	0x7ff6174c30b0	0x3d605df4d50	246	127	18336	0	0	20688	5966	32758	0	0x3d60592db90	0x7ff6174a0690	0x3d5e0a43360	5839	
+16	0	0x30	0x29000400000000	0	0	14	0	0	11604	0	0	0	0xb6a0df45c2c436cd	0x3d605243d00	0x0	0	
+17	0	0xf	0x3d6054a27a0	222	0	-5630	0	0	59906	38271	222	0	0x3d6054a2ad0	0xde957fea02	0x3d6054a3460	38271	
+18	0	0x3d6054a3790	0xde957fea02	214	3	20048	0	0	9888	1355	982	0	0x7ff6174c30b0	0x3d6054e8360	0x7ff6174e50d0	1424	
+19	0	0x7ff6174a0690	0x3d5e0a29d20	246	127	20688	0	0	18336	5839	32758	0	0x3d604fb6760	0x7ff6174c30b0	0x3d604fee9a0	5966	
+20	0	0x3d604b493c0	0x7ff6174a0690	0	0	11604	0	0	9296	57504	981	0	0x7ff616cf47a0	0x30	0x29000400000000	0	
+21	0	0xb6a0df45c2c436cd	0x3d605243f20	4	0	0	41	0	0	0	0	0	0xe	0xf	0x30	0	
+22	0	0x2d54	0xb6a0df45c2c436cd	0	0	48	0	0	58368	1462	982	0	0x0	0xe	0xf	0	
+23	0	0x29000400000000	0x2d54	0	0	15	0	0	14029	49860	57157	46752	0x3d605b66820	0x0	0xe	0	
+24	0	0x3d604fb6a90	0x7ff6174c30b0	213	3	11296	0	0	60464	1278	982	0	0x7ff6174e50d0	0x3d604b49550	0x7ff6174a0690	57504	
+25	0	0x7ff616cf47a0	0x61007200610050	97	0	83	112	0	115	105	116	101	0x7300730065006c	0x68007300690046	0x6e00690066005f	104	
+26	0	0x3d500000065	0x1	214	3	-26688	0	0	48	0	0	0	0x29000400000000	0x2d54	0xb6a0df45c2c436cd	1238	
+27	0	0x0	0xe	204	85	-726	140	68	15	0	0	0	0x30	0x29000400000000	0x24c	19009	
+28	0	0x3d605242a20	0x0	214	3	11856	0	0	9	0	0	0	0xf	0x3d604f93ff0	0x7ff6174c30b0	1277	
+29	0	0x7ff6174e50d0	0x3d604b12b30	4	0	0	41	0	1680	5962	32758	0	0x3d5e09ea580	0x7ff616cf47a0	0x30	0	
+30	0	0x2d54	0xb6a0df45c2c436cd	0	0	48	0	0	15936	1316	982	0	0x0	0xe	0xf	0	
+31	0	0x29000400000000	0x24c	0	0	15	0	0	64810	19009	21964	17548	0x3d606130fa0	0x0	0x9	0	
+32	0	0x3d604fa91d0	0x7ff6174c30b0	213	3	-28704	0	0	15856	1278	982	0	0x7ff6174e50d0	0x3d604b47610	0x7ff6174a0690	57503	
+33	0	0x7ff616cf47a0	0x3d5d651c7c0	222	0	-5630	0	0	59906	38271	222	0	0x3d605db3ac0	0xde957fea02	0x3d605db3df0	38271	
+34	0	0x3d605db4120	0xde957fea02	111	0	95	100	0	80	97	114	97	0x65007400690073	0x7300730065006c	0x68007300690046	98	
+35	0	0x61006800530079	0x650070	204	85	-726	140	68	1	0	0	0	0x30	0x29000400000000	0x24c	19009	
+36	0	0x3d604d6ff80	0x0	214	3	23456	0	0	9	0	0	0	0xf	0x3d5d6514fc0	0xde957fea02	1274	
+37	0	0xde957fea02	0x3d604fa5ed0	4	0	0	41	0	59906	38271	222	0	0x3d604fa8b70	0xde957fea02	0x30	0	
+38	0	0x2d54	0xb6a0df45c2c436cd	0	0	48	0	0	14208	1555	982	0	0x0	0xe	0xf	0	
+39	0	0x29000400000000	0x24c	0	0	15	0	0	64810	19009	21964	17548	0x3d604d69d40	0x0	0x9	0	
+40	0	0x30	0x29000400000000	0	0	14	0	0	11604	0	0	0	0xb6a0df45c2c436cd	0x3d605b6d540	0x0	0	
+41	0	0xf	0x30	0	0	0	0	0	0	0	4	41	0x24c	0x448c55cc4a41fd2a	0x3d605b67920	0	
+42	0	0x9	0xf	214	3	11248	0	0	15856	1354	982	0	0x7ff6174c30b0	0x3d6054dc850	0x7ff6174e50d0	1424	
+43	0	0x7ff6174a0690	0x3d5e0a1f140	204	85	-726	140	68	18336	5839	32758	0	0x30	0x29000400000000	0x24c	19009	
+44	0	0x3d6052465a0	0x0	0	0	11604	0	0	9	0	0	0	0xf	0x30	0x29000400000000	0	
+45	0	0xb6a0df45c2c436cd	0x3d605b67640	246	127	12464	0	0	0	0	0	0	0xe	0xf	0x3d6054a3ac0	5964	
+46	0	0x3d6054dc5c0	0x7ff6174e50d0	0	0	48	0	0	10848	1424	982	0	0x7ff6174a0690	0x3d5e0a1e970	0x7ff616cf47a0	0	
+47	0	0x29000400000000	0x2d54	0	0	15	0	0	14029	49860	57157	46752	0x3d605b610a0	0x0	0xe	0	
+48	0	0x3d605db1150	0x7ff6174c30b0	213	3	-32384	0	0	42096	1503	982	0	0x7ff6174e50d0	0x3d60592eb30	0x7ff6174a0690	57508	
+49	0	0x7ff616cf47a0	0x30	0	0	0	0	0	0	0	4	41	0x2d54	0xb6a0df45c2c436cd	0x3d604d699c0	0	
+50	0	0xe	0xf	214	3	30624	0	0	38960	1274	982	0	0x7ff6174c30b0	0x3d604fe4310	0x7ff6174e50d0	1204	
+51	0	0x7ff6174a0690	0x3d5e09f97b0	246	127	20688	0	0	18336	5839	32758	0	0x3d605da7520	0x7ff6174c30b0	0x3d605df26e0	5966	
+52	0	0x3d60592d230	0x7ff6174a0690	0	0	11604	0	0	1152	57508	981	0	0x7ff616cf47a0	0x30	0x29000400000000	0	
+53	0	0xb6a0df45c2c436cd	0x3d604d6f8a0	246	127	12464	0	0	0	0	0	0	0xe	0xf	0x3d605d93ff0	5964	
+54	0	0x3d605de2e50	0x7ff6174e50d0	0	0	48	0	0	24848	1424	982	0	0x7ff6174a0690	0x3d5e0a2fae0	0x7ff616cf47a0	0	
+55	0	0x29000400000000	0x24c	0	0	15	0	0	64810	19009	21964	17548	0x3d605b6e5a0	0x0	0x9	0	
+56	0	0x30	0x29000400000000	0	0	14	0	0	11604	0	0	0	0xb6a0df45c2c436cd	0x3d604d69bc0	0x0	0	
+57	0	0xf	0x30	0	0	0	0	0	0	0	4	41	0x24c	0x448c55cc4a41fd2a	0x3d605b67a80	0	
+58	0	0x9	0xf	214	3	25632	0	0	48	0	0	0	0x29000400000000	0x24c	0x448c55cc4a41fd2a	1316	
+59	0	0x0	0x9	69	223	14029	160	182	15	0	0	0	0x30	0x29000400000000	0x2d54	49860	
+60	0	0x3d605b61ae0	0x0	115	0	108	115	0	14	0	0	0	0xf	0x61007200610050	0x65007400690073	101	
+61	0	0x68007300690046	0x64006f0062005f	4	0	0	41	0	121	83	104	97	0x650070	0x0	0x30	0	
+62	0	0x24c	0x448c55cc4a41fd2a	0	0	48	0	0	31712	1462	982	0	0x0	0x9	0xf	0	
+63	0	0x29000400000000	0x2d54	0	0	15	0	0	14029	49860	57157	46752	0x3d606133a00	0x0	0xe	0	
+64	0	0x3d605d929a0	0x7ff6174c30b0	213	3	-5312	0	0	7264	1502	982	0	0x7ff6174e50d0	0x3d605905df0	0x7ff6174a0690	57506	
+65	0	0x7ff616cf47a0	0x3d604f96c90	246	127	1680	0	0	12464	5964	32758	0	0x3d604fd5230	0x7ff6174e50d0	0x3d604b12e50	5962	
+66	0	0x3d5e09eb520	0x7ff616cf47a0	214	3	-22688	0	0	48	0	0	0	0x29000400000000	0x2d54	0xb6a0df45c2c436cd	1238	
+67	0	0x0	0xe	115	0	70	104	0	15	0	0	0	0x61007200610050	0x65007400690073	0x7300730065006c	105	
+68	0	0x64006f0062005f	0x61006800530079	115	0	108	115	0	112	101	0	0	0x0	0x61007200610050	0x65007400690073	101	
+69	0	0x68007300690046	0x6e00690066005f	4	0	0	34	0	83	104	97	112	0x65	0x0	0xae900	0	
+70	0	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+71	0	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+72	0	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+73	0	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+74	0	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+75	0	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+76	0	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+77	0	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+78	0	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+79	0	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+80	0	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+81	0	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+82	0	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+83	0	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+84	0	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+85	0	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+86	0	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+87	0	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+88	0	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+89	0	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+90	0	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+91	0	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+92	0	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+93	0	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+94	0	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+95	0	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+96	0	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+97	0	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+98	0	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+99	0	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+100	0	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+0	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+1	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+2	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+3	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+4	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+5	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+6	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+7	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+8	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+9	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+10	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+11	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+12	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+13	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+14	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+15	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+16	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+17	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+18	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+19	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+20	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+21	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+22	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+23	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+24	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+25	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+26	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+27	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+28	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+29	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+30	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+31	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+32	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+33	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+34	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+35	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+36	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+37	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+38	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+39	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+40	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+41	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+42	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+43	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+44	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+45	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+46	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+47	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+48	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+49	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+50	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+51	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+52	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+53	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+54	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+55	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+56	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+57	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+58	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+59	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+60	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+61	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+62	1	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+63	1	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+64	1	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+65	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+66	1	0x3d59351c010	0x3d5f8188fa0	0	0	0	0	8	37200	47981	981	0	0x3d5bb6d9160	0x3d5bb6d9160	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+67	1	0x3d59351c048	0x3d5f8188fa0	1	0	0	0	8	36736	47981	981	0	0x3d5bb6d8f90	0x3d5bb6d8f90	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+68	1	0x3d59351c080	0x3d5f8188fa0	2	0	0	0	8	36928	47981	981	0	0x3d5bb6d9050	0x3d5bb6d9050	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+69	1	0x3d59351c0b8	0x3d5f8188fa0	3	0	0	0	8	36960	47981	981	0	0x3d5bb6d9070	0x3d5bb6d9070	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+70	1	0x3d59351c0f0	0x3d5f8188fa0	4	0	0	0	8	37232	47981	981	0	0x3d5bb6d9180	0x3d5bb6d9180	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+71	1	0x3d59351c128	0x3d5f8188fa0	5	0	0	0	8	37024	47981	981	0	0x3d5bb6d90b0	0x3d5bb6d90b0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+72	1	0x3d59351c160	0x3d5f8188fa0	6	0	0	0	8	37152	47981	981	0	0x3d5bb6d9130	0x3d5bb6d9130	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+73	1	0x3d59351c198	0x3d5f8188fa0	7	0	0	0	8	36992	47981	981	0	0x3d5bb6d9090	0x3d5bb6d9090	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+74	1	0x3d59351c1d0	0x3d5f8188fa0	8	0	0	0	8	37056	47981	981	0	0x3d5bb6d90d0	0x3d5bb6d90d0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+75	1	0x3d59351c208	0x3d5f8188fa0	9	0	0	0	8	37264	47981	981	0	0x3d5bb6d91a0	0x3d5bb6d91a0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+76	1	0x3d59351c240	0x3d5f8188fa0	10	0	0	0	8	37360	47981	981	0	0x3d5bb6d9200	0x3d5bb6d9200	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+77	1	0x3d59351c278	0x3d5f8188fa0	11	0	0	0	8	37424	47981	981	0	0x3d5bb6d9240	0x3d5bb6d9240	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+78	1	0x3d59351c2b0	0x3d5f8188fa0	12	0	0	0	8	37520	47981	981	0	0x3d5bb6d92a0	0x3d5bb6d92a0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+79	1	0x3d59351c2e8	0x3d5f8188fa0	13	0	0	0	8	37184	47981	981	0	0x3d5bb6d9150	0x3d5bb6d9150	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+80	1	0x3d59351c320	0x3d5f8188fa0	14	0	0	0	8	37104	47981	981	0	0x3d5bb6d9100	0x3d5bb6d9100	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+81	1	0x3d59351c358	0x3d5f8188fa0	15	0	0	0	8	37312	47981	981	0	0x3d5bb6d91d0	0x3d5bb6d91d0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+82	1	0x3d59351c390	0x3d5f8188fa0	16	0	0	0	8	37280	47981	981	0	0x3d5bb6d91b0	0x3d5bb6d91b0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+83	1	0x3d59351c3c8	0x3d5f8188fa0	17	0	0	0	8	37440	47981	981	0	0x3d5bb6d9250	0x3d5bb6d9250	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+84	1	0x3d59351c400	0x3d5f8188fa0	18	0	0	0	8	37456	47981	981	0	0x3d5bb6d9260	0x3d5bb6d9260	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+85	1	0x3d59351c438	0x3d5f8188fa0	19	0	0	0	8	37504	47981	981	0	0x3d5bb6d9290	0x3d5bb6d9290	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+86	1	0x3d59351c470	0x3d5f8188fa0	20	0	0	0	8	37472	47981	981	0	0x3d5bb6d9270	0x3d5bb6d9270	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+87	1	0x3d59351c4a8	0x3d5f8188fa0	21	0	0	0	8	37408	47981	981	0	0x3d5bb6d9230	0x3d5bb6d9230	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+88	1	0x3d59351c4e0	0x3d5f8188fa0	22	0	0	0	8	37616	47981	981	0	0x3d5bb6d9300	0x3d5bb6d9300	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+89	1	0x3d59351c518	0x3d5f8188fa0	23	0	0	0	8	37776	47981	981	0	0x3d5bb6d93a0	0x3d5bb6d93a0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+90	1	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+91	1	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+92	1	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+93	1	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+94	1	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+95	1	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+96	1	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+97	1	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+98	1	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+99	1	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+100	1	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+0	2	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+1	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+2	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+3	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+4	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+5	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+6	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+7	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+8	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+9	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+10	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+11	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+12	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+13	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+14	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+15	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+16	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+17	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+18	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+19	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+20	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+21	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+22	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+23	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+24	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+25	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+26	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+27	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+28	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+29	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+30	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+31	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+32	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+33	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+34	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+35	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+36	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+37	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+38	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+39	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+40	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+41	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+42	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+43	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+44	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+45	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+46	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+47	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+48	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+49	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+50	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+51	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+52	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+53	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+54	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+55	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+56	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+57	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+58	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+59	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+60	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+61	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+62	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+63	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+64	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+65	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+66	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+67	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+68	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+69	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+70	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+71	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+72	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+73	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+74	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+75	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+76	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+77	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+78	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+79	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+80	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+81	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+82	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+83	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+84	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+85	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+86	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+87	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+88	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+89	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+90	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+91	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+92	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+93	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+94	2	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+95	2	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+96	2	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+97	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+98	2	0x3d59351c550	0x3d5f8188fa0	0	1	0	0	8	37328	47981	981	0	0x3d5bb6d91e0	0x3d5bb6d91e0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+99	2	0x3d59351c588	0x3d5f8188fa0	1	1	0	0	8	37392	47981	981	0	0x3d5bb6d9220	0x3d5bb6d9220	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+100	2	0x3d59351c5c0	0x3d5f8188fa0	2	1	0	0	8	37248	47981	981	0	0x3d5bb6d9190	0x3d5bb6d9190	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+0	3	0x3d59351c5f8	0x3d5f8188fa0	3	1	0	0	8	37216	47981	981	0	0x3d5bb6d9170	0x3d5bb6d9170	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+1	3	0x3d59351c630	0x3d5f8188fa0	4	1	0	0	8	37664	47981	981	0	0x3d5bb6d9330	0x3d5bb6d9330	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+2	3	0x3d59351c668	0x3d5f8188fa0	5	1	0	0	8	37712	47981	981	0	0x3d5bb6d9360	0x3d5bb6d9360	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+3	3	0x3d59351c6a0	0x3d5f8188fa0	6	1	0	0	8	37568	47981	981	0	0x3d5bb6d92d0	0x3d5bb6d92d0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+4	3	0x3d59351c6d8	0x3d5f8188fa0	7	1	0	0	8	37744	47981	981	0	0x3d5bb6d9380	0x3d5bb6d9380	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+5	3	0x3d59351c710	0x3d5f8188fa0	8	1	0	0	8	38000	47981	981	0	0x3d5bb6d9480	0x3d5bb6d9480	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+6	3	0x3d59351c748	0x3d5f8188fa0	9	1	0	0	8	37792	47981	981	0	0x3d5bb6d93b0	0x3d5bb6d93b0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+7	3	0x3d59351c780	0x3d5f8188fa0	10	1	0	0	8	37920	47981	981	0	0x3d5bb6d9430	0x3d5bb6d9430	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+8	3	0x3d59351c7b8	0x3d5f8188fa0	11	1	0	0	8	37760	47981	981	0	0x3d5bb6d9390	0x3d5bb6d9390	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+9	3	0x3d59351c7f0	0x3d5f8188fa0	12	1	0	0	8	38080	47981	981	0	0x3d5bb6d94d0	0x3d5bb6d94d0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+10	3	0x3d59351c828	0x3d5f8188fa0	13	1	0	0	8	37808	47981	981	0	0x3d5bb6d93c0	0x3d5bb6d93c0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+11	3	0x3d59351c860	0x3d5f8188fa0	14	1	0	0	8	38096	47981	981	0	0x3d5bb6d94e0	0x3d5bb6d94e0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+12	3	0x3d59351c898	0x3d5f8188fa0	15	1	0	0	8	37968	47981	981	0	0x3d5bb6d9460	0x3d5bb6d9460	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+13	3	0x3d59351c8d0	0x3d5f8188fa0	16	1	0	0	8	38064	47981	981	0	0x3d5bb6d94c0	0x3d5bb6d94c0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+14	3	0x3d59351c908	0x3d5f8188fa0	17	1	0	0	8	38032	47981	981	0	0x3d5bb6d94a0	0x3d5bb6d94a0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+15	3	0x3d59351c940	0x3d5f8188fa0	18	1	0	0	8	38016	47981	981	0	0x3d5bb6d9490	0x3d5bb6d9490	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+16	3	0x3d59351c978	0x3d5f8188fa0	19	1	0	0	8	38160	47981	981	0	0x3d5bb6d9520	0x3d5bb6d9520	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+17	3	0x3d59351c9b0	0x3d5f8188fa0	20	1	0	0	8	37952	47981	981	0	0x3d5bb6d9450	0x3d5bb6d9450	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+18	3	0x3d59351c9e8	0x3d5f8188fa0	21	1	0	0	8	38112	47981	981	0	0x3d5bb6d94f0	0x3d5bb6d94f0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+19	3	0x3d59351ca20	0x3d5f8188fa0	22	1	0	0	8	38256	47981	981	0	0x3d5bb6d9580	0x3d5bb6d9580	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+20	3	0x3d59351ca58	0x3d5f8188fa0	23	1	0	0	8	38128	47981	981	0	0x3d5bb6d9500	0x3d5bb6d9500	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+21	3	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+22	3	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+23	3	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+24	3	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+25	3	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+26	3	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+27	3	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+28	3	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+29	3	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+30	3	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+31	3	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+32	3	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+33	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+34	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+35	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+36	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+37	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+38	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+39	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+40	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+41	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+42	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+43	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+44	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+45	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+46	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+47	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+48	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+49	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+50	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+51	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+52	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+53	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+54	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+55	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+56	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+57	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+58	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+59	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+60	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+61	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+62	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+63	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+64	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+65	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+66	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+67	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+68	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+69	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+70	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+71	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+72	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+73	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+74	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+75	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+76	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+77	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+78	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+79	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+80	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+81	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+82	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+83	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+84	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+85	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+86	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+87	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+88	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+89	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+90	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+91	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+92	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+93	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+94	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+95	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+96	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+97	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+98	3	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+99	3	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+100	3	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+0	4	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+1	4	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+2	4	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+3	4	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+4	4	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+5	4	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+6	4	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+7	4	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+8	4	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+9	4	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+10	4	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+11	4	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+12	4	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+13	4	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+14	4	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+15	4	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+16	4	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+17	4	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+18	4	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+19	4	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+20	4	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+21	4	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+22	4	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+23	4	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+24	4	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+25	4	0x3d5dae168e0	0x3d5cd8d6b20	0	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+26	4	0x3d5dae16918	0x3d5cd8d6b20	1	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+27	4	0x3d5dae16950	0x3d5cd8d6b20	2	2	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+28	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+29	4	0x3d59351ca90	0x3d5f8188fa0	0	2	0	0	8	38224	47981	981	0	0x3d5bb6d9560	0x3d5bb6d9560	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+30	4	0x3d59351cac8	0x3d5f8188fa0	1	2	0	0	8	38240	47981	981	0	0x3d5bb6d9570	0x3d5bb6d9570	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+31	4	0x3d59351cb00	0x3d5f8188fa0	2	2	0	0	8	38272	47981	981	0	0x3d5bb6d9590	0x3d5bb6d9590	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+32	4	0x3d59351cb38	0x3d5f8188fa0	3	2	0	0	8	38288	47981	981	0	0x3d5bb6d95a0	0x3d5bb6d95a0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+33	4	0x3d59351cb70	0x3d5f8188fa0	4	2	0	0	8	38336	47981	981	0	0x3d5bb6d95d0	0x3d5bb6d95d0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+34	4	0x3d59351cba8	0x3d5f8188fa0	5	2	0	0	8	38400	47981	981	0	0x3d5bb6d9610	0x3d5bb6d9610	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+35	4	0x3d59351cbe0	0x3d5f8188fa0	6	2	0	0	8	38368	47981	981	0	0x3d5bb6d95f0	0x3d5bb6d95f0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+36	4	0x3d59351cc18	0x3d5f8188fa0	7	2	0	0	8	38144	47981	981	0	0x3d5bb6d9510	0x3d5bb6d9510	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+37	4	0x3d59351cc50	0x3d5f8188fa0	8	2	0	0	8	38384	47981	981	0	0x3d5bb6d9600	0x3d5bb6d9600	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+38	4	0x3d59351cc88	0x3d5f8188fa0	9	2	0	0	8	38304	47981	981	0	0x3d5bb6d95b0	0x3d5bb6d95b0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+39	4	0x3d59351ccc0	0x3d5f8188fa0	10	2	0	0	8	38464	47981	981	0	0x3d5bb6d9650	0x3d5bb6d9650	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+40	4	0x3d59351ccf8	0x3d5f8188fa0	11	2	0	0	8	38320	47981	981	0	0x3d5bb6d95c0	0x3d5bb6d95c0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+41	4	0x3d59351cd30	0x3d5f8188fa0	12	2	0	0	8	38352	47981	981	0	0x3d5bb6d95e0	0x3d5bb6d95e0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+42	4	0x3d59351cd68	0x3d5f8188fa0	13	2	0	0	8	38448	47981	981	0	0x3d5bb6d9640	0x3d5bb6d9640	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+43	4	0x3d59351cda0	0x3d5f8188fa0	14	2	0	0	8	38496	47981	981	0	0x3d5bb6d9670	0x3d5bb6d9670	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+44	4	0x3d59351cdd8	0x3d5f8188fa0	15	2	0	0	8	37872	47981	981	0	0x3d5bb6d9400	0x3d5bb6d9400	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+45	4	0x3d59351ce10	0x3d5f8188fa0	16	2	0	0	8	38592	47981	981	0	0x3d5bb6d96d0	0x3d5bb6d96d0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+46	4	0x3d59351ce48	0x3d5f8188fa0	17	2	0	0	8	38416	47981	981	0	0x3d5bb6d9620	0x3d5bb6d9620	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+47	4	0x3d59351ce80	0x3d5f8188fa0	18	2	0	0	8	38432	47981	981	0	0x3d5bb6d9630	0x3d5bb6d9630	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+48	4	0x3d59351ceb8	0x3d5f8188fa0	19	2	0	0	8	38624	47981	981	0	0x3d5bb6d96f0	0x3d5bb6d96f0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+49	4	0x3d59351cef0	0x3d5f8188fa0	20	2	0	0	8	38656	47981	981	0	0x3d5bb6d9710	0x3d5bb6d9710	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+50	4	0x3d59351cf28	0x3d5f8188fa0	21	2	0	0	8	38528	47981	981	0	0x3d5bb6d9690	0x3d5bb6d9690	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+51	4	0x3d59351cf60	0x3d5f8188fa0	22	2	0	0	8	38704	47981	981	0	0x3d5bb6d9740	0x3d5bb6d9740	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+52	4	0x3d59351cf98	0x3d5f8188fa0	23	2	0	0	8	38576	47981	981	0	0x3d5bb6d96c0	0x3d5bb6d96c0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+53	4	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+54	4	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+55	4	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+56	4	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+57	4	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+58	4	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+59	4	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+60	4	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+61	4	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+62	4	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+63	4	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+64	4	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+65	4	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+66	4	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+67	4	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+68	4	0x3d5dae16950	0x3d5cd8d6b20	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+69	4	0x3d5dae168a8	0x3d5cd8d6b20	1	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+70	4	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+71	4	0x3d5dae16bd0	0x3d5cd8d6520	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+72	4	0x3d5dae16b98	0x3d5cd8d6520	1	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+73	4	0x3d5dae16b60	0x3d5cd8d6520	2	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+74	4	0x3d5dae16800	0x3d5cd8d6b20	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+75	4	0x3d5dae168a8	0x3d5cd8d6b20	1	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+76	4	0x3d5dae16950	0x3d5cd8d6b20	2	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+77	4	0x3d5dae16b60	0x3d5cd8d6520	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+78	4	0x3d5dae16b98	0x3d5cd8d6520	1	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+79	4	0x3d5dae16bd0	0x3d5cd8d6520	2	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+80	4	0x3d5dae16950	0x3d5cd8d6b20	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+81	4	0x3d5dae168a8	0x3d5cd8d6b20	1	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+82	4	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+83	4	0x3d5dae16a80	0x3d5cd8d6520	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+84	4	0x3d5dae16a48	0x3d5cd8d6520	1	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+85	4	0x3d5dae16a10	0x3d5cd8d6520	2	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+86	4	0x3d5dae16a10	0x3d5cd8d6520	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+87	4	0x3d5dae16a48	0x3d5cd8d6520	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+88	4	0x3d5dae16a80	0x3d5cd8d6520	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+89	4	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+90	4	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+91	4	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+92	4	0x3d5dae16950	0x3d5cd8d6b20	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+93	4	0x3d5dae16918	0x3d5cd8d6b20	1	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+94	4	0x3d5dae168e0	0x3d5cd8d6b20	2	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+95	4	0x3d5dae16bd0	0x3d5cd8d6520	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+96	4	0x3d5dae16b98	0x3d5cd8d6520	1	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+97	4	0x3d5dae16b60	0x3d5cd8d6520	2	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+98	4	0x3d5dae16a10	0x3d5cd8d6520	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+99	4	0x3d5dae16a48	0x3d5cd8d6520	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+100	4	0x3d5dae16a80	0x3d5cd8d6520	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+0	5	0x3d5dae16a80	0x3d5cd8d6520	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+1	5	0x3d5dae16b28	0x3d5cd8d6520	1	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+2	5	0x3d5dae16bd0	0x3d5cd8d6520	2	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+3	5	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+4	5	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+5	5	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+6	5	0x3d5dae168e0	0x3d5cd8d6b20	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+7	5	0x3d5dae16918	0x3d5cd8d6b20	1	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+8	5	0x3d5dae16950	0x3d5cd8d6b20	2	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+9	5	0x3d5dae16bd0	0x3d5cd8d6520	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+10	5	0x3d5dae16b98	0x3d5cd8d6520	1	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+11	5	0x3d5dae16b60	0x3d5cd8d6520	2	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+12	5	0x3d5dae16800	0x3d5cd8d6b20	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+13	5	0x3d5dae168a8	0x3d5cd8d6b20	1	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+14	5	0x3d5dae16950	0x3d5cd8d6b20	2	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+15	5	0x3d5dae16bd0	0x3d5cd8d6520	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+16	5	0x3d5dae16b28	0x3d5cd8d6520	1	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+17	5	0x3d5dae16a80	0x3d5cd8d6520	2	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+18	5	0x3d5dae16800	0x3d5cd8d6b20	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+19	5	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+20	5	0x3d5dae16790	0x3d5cd8d6b20	2	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+21	5	0x3d5dae16a10	0x3d5cd8d6520	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+22	5	0x3d5dae16ab8	0x3d5cd8d6520	1	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+23	5	0x3d5dae16b60	0x3d5cd8d6520	2	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+24	5	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+25	5	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+26	5	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+27	5	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+28	5	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+29	5	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+30	5	0x3d5dae16bd0	0x3d5cd8d6520	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+31	5	0x3d5dae16b98	0x3d5cd8d6520	1	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+32	5	0x3d5dae16b60	0x3d5cd8d6520	2	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+33	5	0x3d5dae16a10	0x3d5cd8d6520	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+34	5	0x3d5dae16a48	0x3d5cd8d6520	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+35	5	0x3d5dae16a80	0x3d5cd8d6520	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+36	5	0x3d5dae168e0	0x3d5cd8d6b20	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+37	5	0x3d5dae16838	0x3d5cd8d6b20	1	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+38	5	0x3d5dae16790	0x3d5cd8d6b20	2	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+39	5	0x3d5dae16a80	0x3d5cd8d6520	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+40	5	0x3d5dae16a48	0x3d5cd8d6520	1	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+41	5	0x3d5dae16a10	0x3d5cd8d6520	2	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+42	5	0x3d5dae16b60	0x3d5cd8d6520	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+43	5	0x3d5dae16ab8	0x3d5cd8d6520	1	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+44	5	0x3d5dae16a10	0x3d5cd8d6520	2	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+45	5	0x3d5dae16b60	0x3d5cd8d6520	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+46	5	0x3d5dae16b98	0x3d5cd8d6520	1	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+47	5	0x3d5dae16bd0	0x3d5cd8d6520	2	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+48	5	0x3d5dae16800	0x3d5cd8d6b20	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+49	5	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+50	5	0x3d5dae16790	0x3d5cd8d6b20	2	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+51	5	0x3d5dae16bd0	0x3d5cd8d6520	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+52	5	0x3d5dae16b28	0x3d5cd8d6520	1	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+53	5	0x3d5dae16a80	0x3d5cd8d6520	2	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+54	5	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+55	5	0x3d5dae16838	0x3d5cd8d6b20	1	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+56	5	0x3d5dae168e0	0x3d5cd8d6b20	2	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+57	5	0x3d5dae16790	0x3d5cd8d6b20	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+58	5	0x3d5dae167c8	0x3d5cd8d6b20	1	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+59	5	0x3d5dae16800	0x3d5cd8d6b20	2	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+60	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+61	5	0x3d59351cfd0	0x3d5f8188fa0	0	3	0	0	8	38512	47981	981	0	0x3d5bb6d9680	0x3d5bb6d9680	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+62	5	0x3d59351d008	0x3d5f8188fa0	1	3	0	0	8	38688	47981	981	0	0x3d5bb6d9730	0x3d5bb6d9730	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+63	5	0x3d59351d040	0x3d5f8188fa0	2	3	0	0	8	38480	47981	981	0	0x3d5bb6d9660	0x3d5bb6d9660	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+64	5	0x3d59351d078	0x3d5f8188fa0	3	3	0	0	8	38608	47981	981	0	0x3d5bb6d96e0	0x3d5bb6d96e0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+65	5	0x3d59351d0b0	0x3d5f8188fa0	4	3	0	0	8	11936	47981	981	0	0x3d5bb6d2eb0	0x3d5bb6d2eb0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+66	5	0x3d59351d0e8	0x3d5f8188fa0	5	3	0	0	8	38560	47981	981	0	0x3d5bb6d96b0	0x3d5bb6d96b0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+67	5	0x3d59351d120	0x3d5f8188fa0	6	3	0	0	8	14928	47981	981	0	0x3d5bb6d3a60	0x3d5bb6d3a60	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+68	5	0x3d59351d158	0x3d5f8188fa0	7	3	0	0	8	10784	47981	981	0	0x3d5bb6d2a30	0x3d5bb6d2a30	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+69	5	0x3d59351d190	0x3d5f8188fa0	8	3	0	0	8	14880	47981	981	0	0x3d5bb6d3a30	0x3d5bb6d3a30	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+70	5	0x3d59351d1c8	0x3d5f8188fa0	9	3	0	0	8	14912	47981	981	0	0x3d5bb6d3a50	0x3d5bb6d3a50	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+71	5	0x3d59351d200	0x3d5f8188fa0	10	3	0	0	8	11040	47981	981	0	0x3d5bb6d2b30	0x3d5bb6d2b30	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+72	5	0x3d59351d238	0x3d5f8188fa0	11	3	0	0	8	10816	47981	981	0	0x3d5bb6d2a50	0x3d5bb6d2a50	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+73	5	0x3d59351d270	0x3d5f8188fa0	12	3	0	0	8	45376	47946	981	0	0x3d5bb4ab160	0x3d5bb4ab160	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+74	5	0x3d59351d2a8	0x3d5f8188fa0	13	3	0	0	8	11072	47981	981	0	0x3d5bb6d2b50	0x3d5bb6d2b50	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+75	5	0x3d59351d2e0	0x3d5f8188fa0	14	3	0	0	8	15040	47981	981	0	0x3d5bb6d3ad0	0x3d5bb6d3ad0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+76	5	0x3d59351d318	0x3d5f8188fa0	15	3	0	0	8	15024	47981	981	0	0x3d5bb6d3ac0	0x3d5bb6d3ac0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+77	5	0x3d59351d350	0x3d5f8188fa0	16	3	0	0	8	10656	47981	981	0	0x3d5bb6d29b0	0x3d5bb6d29b0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+78	5	0x3d59351d388	0x3d5f8188fa0	17	3	0	0	8	15056	47981	981	0	0x3d5bb6d3ae0	0x3d5bb6d3ae0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+79	5	0x3d59351d3c0	0x3d5f8188fa0	18	3	0	0	8	10448	47981	981	0	0x3d5bb6d28e0	0x3d5bb6d28e0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+80	5	0x3d59351d3f8	0x3d5f8188fa0	19	3	0	0	8	10464	47981	981	0	0x3d5bb6d28f0	0x3d5bb6d28f0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+81	5	0x3d59351d430	0x3d5f8188fa0	20	3	0	0	8	9280	47981	981	0	0x3d5bb6d2450	0x3d5bb6d2450	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+82	5	0x3d59351d468	0x3d5f8188fa0	21	3	0	0	8	10432	47981	981	0	0x3d5bb6d28d0	0x3d5bb6d28d0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+83	5	0x3d59351d4a0	0x3d5f8188fa0	22	3	0	0	8	9552	47981	981	0	0x3d5bb6d2560	0x3d5bb6d2560	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+84	5	0x3d59351d4d8	0x3d5f8188fa0	23	3	0	0	8	9152	47981	981	0	0x3d5bb6d23d0	0x3d5bb6d23d0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+85	5	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+86	5	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+87	5	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+88	5	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+89	5	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+90	5	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+91	5	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+92	5	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+93	5	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+94	5	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+95	5	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+96	5	0x3d5c4b3dc50	0x3d5f8187aa0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubOceanFill.tdt
+97	5	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+98	5	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+99	5	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+100	5	0x3d5dae16918	0x3d5cd8d6b20	0	1	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+0	6	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+1	6	0x3d5dae167c8	0x3d5cd8d6b20	2	1	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+2	6	0x3d5dae16b28	0x3d5cd8d6520	0	1	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+3	6	0x3d5dae16af0	0x3d5cd8d6520	1	1	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+4	6	0x3d5dae16ab8	0x3d5cd8d6520	2	1	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+5	6	0x3d5dae167c8	0x3d5cd8d6b20	0	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+6	6	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+7	6	0x3d5dae16918	0x3d5cd8d6b20	2	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+8	6	0x3d5dae16ab8	0x3d5cd8d6520	0	1	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+9	6	0x3d5dae16af0	0x3d5cd8d6520	1	1	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+10	6	0x3d5dae16b28	0x3d5cd8d6520	2	1	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+11	6	0x3d5dae16918	0x3d5cd8d6b20	0	1	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+12	6	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+13	6	0x3d5dae167c8	0x3d5cd8d6b20	2	1	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+14	6	0x3d5dae16b28	0x3d5cd8d6520	0	1	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+15	6	0x3d5dae16af0	0x3d5cd8d6520	1	1	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+16	6	0x3d5dae16ab8	0x3d5cd8d6520	2	1	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+17	6	0x3d5dae16ab8	0x3d5cd8d6520	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+18	6	0x3d5dae16af0	0x3d5cd8d6520	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+19	6	0x3d5dae16b28	0x3d5cd8d6520	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+20	6	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+21	6	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+22	6	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+23	6	0x3d5dae168a8	0x3d5cd8d6b20	0	1	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+24	6	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+25	6	0x3d5dae16838	0x3d5cd8d6b20	2	1	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+26	6	0x3d5dae16b28	0x3d5cd8d6520	0	1	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+27	6	0x3d5dae16af0	0x3d5cd8d6520	1	1	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+28	6	0x3d5dae16ab8	0x3d5cd8d6520	2	1	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+29	6	0x3d5dae16ab8	0x3d5cd8d6520	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+30	6	0x3d5dae16af0	0x3d5cd8d6520	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+31	6	0x3d5dae16b28	0x3d5cd8d6520	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+32	6	0x3d5dae16a48	0x3d5cd8d6520	0	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+33	6	0x3d5dae16af0	0x3d5cd8d6520	1	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+34	6	0x3d5dae16b98	0x3d5cd8d6520	2	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+35	6	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+36	6	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+37	6	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+38	6	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+39	6	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+40	6	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+41	6	0x3d5dae16b28	0x3d5cd8d6520	0	1	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+42	6	0x3d5dae16af0	0x3d5cd8d6520	1	1	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+43	6	0x3d5dae16ab8	0x3d5cd8d6520	2	1	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+44	6	0x3d5dae167c8	0x3d5cd8d6b20	0	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+45	6	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+46	6	0x3d5dae16918	0x3d5cd8d6b20	2	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+47	6	0x3d5dae16b98	0x3d5cd8d6520	0	1	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+48	6	0x3d5dae16af0	0x3d5cd8d6520	1	1	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+49	6	0x3d5dae16a48	0x3d5cd8d6520	2	1	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+50	6	0x3d5dae168a8	0x3d5cd8d6b20	0	1	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+51	6	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+52	6	0x3d5dae16838	0x3d5cd8d6b20	2	1	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+53	6	0x3d5dae16a48	0x3d5cd8d6520	0	1	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+54	6	0x3d5dae16af0	0x3d5cd8d6520	1	1	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+55	6	0x3d5dae16b98	0x3d5cd8d6520	2	1	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+56	6	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+57	6	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+58	6	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+59	6	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+60	6	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+61	6	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+62	6	0x3d5dae16b28	0x3d5cd8d6520	0	1	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+63	6	0x3d5dae16af0	0x3d5cd8d6520	1	1	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+64	6	0x3d5dae16ab8	0x3d5cd8d6520	2	1	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+65	6	0x3d5dae16ab8	0x3d5cd8d6520	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+66	6	0x3d5dae16af0	0x3d5cd8d6520	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+67	6	0x3d5dae16b28	0x3d5cd8d6520	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+68	6	0x3d5dae16918	0x3d5cd8d6b20	0	1	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+69	6	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+70	6	0x3d5dae167c8	0x3d5cd8d6b20	2	1	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+71	6	0x3d5dae16b28	0x3d5cd8d6520	0	1	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+72	6	0x3d5dae16af0	0x3d5cd8d6520	1	1	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+73	6	0x3d5dae16ab8	0x3d5cd8d6520	2	1	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+74	6	0x3d5dae16b98	0x3d5cd8d6520	0	1	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+75	6	0x3d5dae16af0	0x3d5cd8d6520	1	1	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+76	6	0x3d5dae16a48	0x3d5cd8d6520	2	1	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+77	6	0x3d5dae16ab8	0x3d5cd8d6520	0	1	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+78	6	0x3d5dae16af0	0x3d5cd8d6520	1	1	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+79	6	0x3d5dae16b28	0x3d5cd8d6520	2	1	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+80	6	0x3d5dae168a8	0x3d5cd8d6b20	0	1	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+81	6	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+82	6	0x3d5dae16838	0x3d5cd8d6b20	2	1	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+83	6	0x3d5dae16b98	0x3d5cd8d6520	0	1	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+84	6	0x3d5dae16af0	0x3d5cd8d6520	1	1	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+85	6	0x3d5dae16a48	0x3d5cd8d6520	2	1	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_02.tdt
+86	6	0x3d5dae167c8	0x3d5cd8d6b20	0	1	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+87	6	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+88	6	0x3d5dae16918	0x3d5cd8d6b20	2	1	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+89	6	0x3d5dae16838	0x3d5cd8d6b20	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+90	6	0x3d5dae16870	0x3d5cd8d6b20	1	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+91	6	0x3d5dae168a8	0x3d5cd8d6b20	2	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/Cliffs/Cliff_InsideFill_01.tdt
+92	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+93	6	0x3d59351d510	0x3d5f8188fa0	0	4	0	0	8	10736	47981	981	0	0x3d5bb6d2a00	0x3d5bb6d2a00	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+94	6	0x3d59351d548	0x3d5f8188fa0	1	4	0	0	8	10768	47981	981	0	0x3d5bb6d2a20	0x3d5bb6d2a20	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+95	6	0x3d59351d580	0x3d5f8188fa0	2	4	0	0	8	10688	47981	981	0	0x3d5bb6d29d0	0x3d5bb6d29d0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+96	6	0x3d59351d5b8	0x3d5f8188fa0	3	4	0	0	8	9216	47981	981	0	0x3d5bb6d2410	0x3d5bb6d2410	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+97	6	0x3d59351d5f0	0x3d5f8188fa0	4	4	0	0	8	14992	47981	981	0	0x3d5bb6d3aa0	0x3d5bb6d3aa0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+98	6	0x3d59351d628	0x3d5f8188fa0	5	4	0	0	8	14976	47981	981	0	0x3d5bb6d3a90	0x3d5bb6d3a90	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+99	6	0x3d59351d660	0x3d5f8188fa0	6	4	0	0	8	8928	47981	981	0	0x3d5bb6d22f0	0x3d5bb6d22f0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt
+100	6	0x3d59351d698	0x3d5f8188fa0	7	4	0	0	8	55744	47946	981	0	0x3d5bb4ad9e0	0x3d5bb4ad9e0	0x0	0	Metadata/Terrain/Leagues/Deepwater/Tiles/DeepwaterHubBoatInterior.tdt

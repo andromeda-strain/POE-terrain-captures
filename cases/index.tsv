@@ -1,3 +1,25 @@
 seed	area	terrain	generator	capture	truth	tile_hash	truth_hash	verified	status
 1	Coral Hideout	-	dgr	captures/stages_20260927_190535.csv	-	2815062652	-	no	dungeon trace
 1	Coral Hideout	-	dgr	captures/stages_20260927_191807.csv	captures/cases/1/truth_43a572f43f0.tsv	805187908	805187908	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20260927_193946.csv	captures/cases/1/truth_327cec183f0.tsv	805187908	805187908	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20260927_212935.csv	captures/cases/1/truth_3d5e8b72bf0.tsv	805187908	805187908	yes	dungeon trace
+1236335712	The Sovereign	-	dgr	captures/stages_20260927_213129.csv	captures/cases/1236335712/truth_3d5341bbbf0.tsv	111657580	111657580	yes	dungeon trace
+1510637994	The Fathomless Depths	-	dgr	captures/stages_20260927_213733.csv	captures/cases/1510637994/truth_3d5e8b7bbf0.tsv	3276533165	3276533165	yes	dungeon trace
+1236335712	The Sovereign	-	dgr	captures/stages_20260927_221744.csv	captures/cases/1236335712/truth_3d59a3b9bf0.tsv	111657580	111657580	yes	dungeon trace
+603495457	The Fathomless Depths	-	dgr	captures/stages_20260927_221810.csv	captures/cases/603495457/truth_3d59824f3f0.tsv	823218229	823218229	yes	dungeon trace
+1	Coral Hideout	-	?	captures/stages_20260927_221138.csv	-	805187908	-	no	no stages
+1	Karui Shores	-	dgr	captures/stages_20260927_224934.csv	captures/cases/1/truth_3d608699bf0.tsv	2815062652	2815062652	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20260927_230444.csv	captures/cases/1/truth_4707a989bf0.tsv	805187908	805187908	yes	dungeon trace
+1	Karui Shores	-	dgr	captures/stages_20260927_230512.csv	captures/cases/1/truth_470d9858bf0.tsv	2815062652	2815062652	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20260927_233336.csv	captures/cases/1/truth_3bb05795bf0.tsv	805187908	805187908	yes	dungeon trace
+1	Karui Shores	-	dgr	captures/stages_20260927_233418.csv	captures/cases/1/truth_3bb0f1a83f0.tsv	2815062652	2815062652	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20260928_203223.csv	captures/cases/1/truth_517316f1bf0.tsv	805187908	805187908	yes	dungeon trace
+1	The Forest Encampment	-	dgr	captures/stages_20260928_214532.csv	captures/cases/1/truth_51689f91bf0.tsv	3884967862	3884967862	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20260929_114852.csv	captures/cases/1/truth_26c35893bf0.tsv	805187908	805187908	yes	dungeon trace
+1	Karui Shores	-	dgr	captures/stages_20260929_115047.csv	captures/cases/1/truth_26be3897bf0.tsv	2815062652	2815062652	yes	dungeon trace
+3041957014	The Fathomless Depths	-	dgr	captures/stages_20260929_120945.csv	-	1941862320	-	no	dungeon trace
+82573316	The Sovereign	-	dgr	captures/stages_20260929_120835.csv	captures/cases/82573316/truth_26c44434bf0.tsv	1941862320	1941862320	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20260929_120807.csv	captures/cases/1/truth_26be37e0bf0.tsv	805187908	805187908	yes	dungeon trace
+1	Karui Shores	-	dgr	captures/stages_20260929_120934.csv	captures/cases/1/truth_26be2769bf0.tsv	2815062652	2815062652	yes	dungeon trace
+82573316	The Sovereign	-	dgr	captures/stages_20260929_121556.csv	captures/cases/82573316/truth_25988aaebf0.tsv	1941862320	1941862320	yes	dungeon trace
+3041957014	The Fathomless Depths	-	dgr	captures/stages_20260929_121614.csv	captures/cases/3041957014/truth_258b1c623f0.tsv	2897792557	2897792557	yes	dungeon trace

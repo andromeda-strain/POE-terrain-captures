@@ -1,0 +1,14 @@
+2026/09/29 12:09:34 1202022921 1186a8a3 [DEBUG Client 24088] Generating level 69 area "2_11_endgame_town" with seed 1
+2026/09/29 12:09:34 1202022953 152491fa [WARN Client 24088] Could not find row for MeleeAttackActionClient skill..
+2026/09/29 12:09:38 1202026875 f22b6a02 [INFO Client 24088] Tile hash: 2815062652
+2026/09/29 12:09:38 1202026875 f22b6a0d [INFO Client 24088] Doodad hash: 42057352
+2026/09/29 12:09:38 1202026890 e001b752 [INFO Client 24088] [SCENE] Set Source [Karui Shores]
+2026/09/29 12:09:38 1202026937 df74e03b [DEBUG Client 24088] [SCENE] Static Walkability Texture: 621 x 414
+2026/09/29 12:09:39 1202027250 cffb065b [INFO Client 24088] : You have entered Karui Shores.
+2026/09/29 12:09:39 1202027453 cffb065b [INFO Client 24088] : You have joined global chat channel 820 English.
+2026/09/29 12:09:39 1202027578 a15e960c [INFO Client 24088] [LOADING SCREEN] (Karui Shores) Duration = 4.83063 seconds
+2026/09/29 12:09:39 1202027609 374e0d27 [INFO Client 24088] [Item Filter] Preparing to download online filter Vmlrk4HM
+2026/09/29 12:09:39 1202027609 374e0cc6 [INFO Client 24088] [Item Filter] Hash for online filter Vmlrk4HM is: 072dcb7d9e80d0f49bef873e7a8e505d
+2026/09/29 12:09:40 1202028250 374e0ce3 [INFO Client 24088] [Item Filter] Online item filter Vmlrk4HM returned status: 304
+2026/09/29 12:09:40 1202028250 374e0ce8 [DEBUG Client 24088] [Item Filter] Online item filter request resolved to: 86.124.128.155
+2026/09/29 12:09:40 1202028265 788474e7 [INFO Client 24088] [Item Filter] Finished reloading online filter Vmlrk4HM. Result: true. Hash: 072dcb7d9e80d0f49bef873e7a8e505d. Type: Normal. Message: 
