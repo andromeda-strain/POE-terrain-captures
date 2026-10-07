@@ -1,0 +1,251 @@
+seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
+1	Coral Hideout	dgr	MATCH	0	71x71	805187908	805187908	4.8	
+1	Karui Shores	dgr	MATCH	0	81x54	2815062652	2815062652	7.0	
+1	The Forest Encampment	dgr	CELLS	252	21x29	3884967862	1354742156	2.8	
+1313028449	The Crypt Level 1	dgr	MATCH	0	59x59	1157800364	1157800364	1.7	
+2870800707	The Crypt Level 2	dgr	MATCH	0	59x59	69030426	69030426	1.6	
+2578194133	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	2891150790	2891150790	1.7	
+3761032693	The Chamber of Sins Level 2	dgr	MATCH	0	65x83	2022733049	2022733049	1.8	
+469932766	The Submerged Passage	dgr	MATCH	0	65x49	240112645	240112645	2.9	
+191589194	The Flooded Depths	dgr	MATCH	0	45x45	2222667986	2222667986	2.2	
+1	Lioneye's Watch	dgr	MATCH	0	30x18	1139181677	1139181677	2.6	
+1920541619	The Lower Prison	dgr	MATCH	0	59x43	1651551080	1651551080	1.5	
+742553449	The Upper Prison	dgr	MATCH	0	125x55	3917393174	3917393174	2.4	
+2039359877	The Weaver's Chambers	dgr	MATCH	0	47x51	817362184	817362184	1.6	
+3517148271	The Vaal Ruins	dgr	MATCH	0	67x67	2940475866	2940475866	2.0	
+1929370058	The Caverns	dgr	MATCH	0	71x63	4054197555	4054197555	2.9	
+612200276	The Ancient Pyramid	dgr	MATCH	0	111x39	2043394585	2043394585	2.2	
+1412296438	Atoll	dgr	ERROR			1253442074		2.2	RuntimeError: No possible rooms found for room at (0, 36) with type "entrance" @ dungeon_graph.py:1034 place_typed
+1123901509	Side Chapel	dgr	MATCH	0	79x79	3537605935	3537605935	2.3	
+2263660961	Neglected Cellar	dgr	MATCH	0	39x30	4044548570	4044548570	1.7	
+3330632830	The Reliquary	dgr	MATCH	0	61x67	2900745617	2900745617	1.8	
+2778897016	Evacuated Quarter	dgr	MATCH	0	66x90	3645364594	3645364594	5.4	
+3733581862	Grotto	dgr	MATCH	0	103x67	838396737	838396737	2.6	
+2621831292	Strand	dgr	ERROR			4257126006		2.3	RuntimeError: Failed to find room that fits at room 6,3 (3x3 thin_shoreline.et) @ dungeon_graph.py:1803 pick_room
+1224335210	Plaza	dgr	CELLS	1504	63x129	2284832134	3880642058	5.0	first draw-stage not OK: overlap; first mismatch: sim 0x1420f6875 sub_1420F5FB0 edge-combination tiling draw(400) = 312 [word 1056] subgraph 0 overlap stage vs log 0x1420f6875 draw(200) = 112
+3088556257	Strange Sinkhole	dgr	MATCH	0	41x37	4228456130	4228456130	2.1	
+1839010650	The Dried Lake	dgr	CELLS	2493	54x60	4086432158	606448750	2.7	first draw-stage not OK: graph; first mismatch: sim 0x1420ff711 ? draw(10) = 3 [word 1176] subgraph 0 graph stage vs log 0x1420efc0c draw(200) = 73
+1	Highgate	dgr	CELLS	1353	41x33	3059197251	3389837055	1.0	first draw-stage not OK: fill; first mismatch: sim 0x141febf93 sub_141FEB970 fill draw(100) = 39 [word 1] subgraph 0 fill cell (0,0) aqueduct_sky.gt vs log 0x1420efc0c draw(1) = 0
+4089459784	The Dried Lake	dgr	MATCH	0	54x78	3799672527	3799672527	2.8	
+1	Cartographer's Hideout	dgr	MATCH	0	31x31	3713433821	3713433821	1.4	
+1	Cosmic Turtle Hideout	dgr	MATCH	0	78x78	2300128614	2300128614	1.7	
+1	Desert Hideout	dgr	MATCH	0	30x30	3903144892	3903144892	4.7	
+1	Skeletal Hideout	dgr	MATCH	0	27x27	3427174740	3427174740	2.4	
+271424479	The Dried Lake	dgr	MATCH	0	54x60	3650255859	3650255859	2.9	
+1910660251	The Mines Level 1	dgr	MATCH	0	49x65	4150859652	4150859652	2.3	
+2405821288	The Mines Level 2	dgr	MATCH	0	57x65	1605729696	1605729696	2.4	
+3347084340	The Crystal Veins	dgr	MATCH	0	57x87	389407264	389407264	3.2	
+1	The Sarn Encampment	dgr	MATCH	0	39x35	1244512620	1244512620	2.1	
+2850793387	Aspirants' Plaza	dgr	MATCH	0	31x31	349488689	349488689	3.7	
+2533087454	Estate Path	dgr	CELLS	2093	85x73	2495292827	1649793952	5.6	first draw-stage not OK: graph; first mismatch: sim 0x14203a8e0 ? draw(100) = 18 [word 3] subgraph 0 graph stage vs log 0x142032a2b draw(2) = 0
+1334335857	Aspirant's Trial	dgr	ERROR			750211733		2.9	RuntimeError: No possible rooms found for room at (0, 3) with type "secret" @ dungeon_graph.py:1034 place_typed
+3842264324	Basilica Halls	dgr	CELLS	1599	65x65	2053571771	3103454446	2.2	first draw-stage not OK: graph; first mismatch: sim 0x14203a8e0 ? draw(100) = 13 [word 2] subgraph 0 graph stage vs log 0x142032a2b draw(2) = 1
+446294120	Aspirant's Trial	dgr	ERROR			3472233919		2.8	RuntimeError: No possible rooms found for room at (0, 3) with type "secret" @ dungeon_graph.py:1034 place_typed
+909720328	Mansion Halls	dgr	ERROR			15549283		3.3	RuntimeError: No possible rooms found for room at (0, 2) with type "secret" @ dungeon_graph.py:1034 place_typed
+2172888983	Estate Crossing	dgr	CELLS	1468	67x85	2091862474	1457873455	5.3	first draw-stage not OK: graph; first mismatch: sim 0x142105ee9 sub_142105A70+0x479 room chooser draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x142105ee9 draw(100) = 44
+3970501215	Aspirant's Trial	dgr	ERROR			3555777409		2.8	RuntimeError: No possible rooms found for room at (3, 3) with type "labyrinth_final_boss" @ dungeon_graph.py:1034 place_typed
+634165571	The Crystal Veins	dgr	MATCH	0	87x65	2177833885	2177833885	3.2	
+3037135357	The Crystal Veins	dgr	MATCH	0	57x87	2211240638	2211240638	3.2	
+3742948269	Daresso's Dream	dgr	MATCH	0	91x82	4073996085	4073996085	3.5	
+1868260667	The Grand Arena	dgr	MATCH	0	91x157	1198174165	1198174165	3.0	
+800997670	The Crystal Veins	dgr	MATCH	0	87x65	2351249093	2351249093	3.2	
+3050197844	The Belly of the Beast Level 1	dgr	MATCH	0	61x77	158355008	158355008	1.4	
+1573602159	The Crystal Veins	dgr	MATCH	0	57x87	4155931109	4155931109	3.2	
+1464712583	The Belly of the Beast Level 1	dgr	MATCH	0	61x77	3306318637	3306318637	1.3	
+880066129	The Belly of the Beast Level 2	dgr	MATCH	0	77x77	605931699	605931699	1.4	
+1250879645	The Harvest	dgr	MATCH	0	93x101	2544826441	2544826441	3.7	
+3441163522	The Aqueduct	dgr	MATCH	0	48x168	1557957727	1557957727	3.1	
+3795107622	The Slave Pens	dgr	MATCH	0	67x73	3199277502	3199277502	2.0	
+1	Overseer's Tower	dgr	MATCH	0	37x31	705703268	705703268	1.7	
+3553902466	The Control Blocks	dgr	MATCH	0	85x85	1651264513	1651264513	2.0	first draw-stage not OK: fill; first mismatch: sim 0x141fe90a5 sub_141FE89E0 fill room: ground cell group total draw(400) = 340 [word 2239] subgraph 0 fill cell (17,41) SlaveDens_lower_floor.gt vs log 0x141fe90a5 draw(200) = 140
+2584021816	Aspirants' Plaza	dgr	MATCH	0	31x31	1551230963	1551230963	3.5	
+1697191265	The Control Blocks	dgr	MATCH	0	85x85	3823909229	3823909229	2.0	first draw-stage not OK: fill; first mismatch: sim 0x141fe90a5 sub_141FE89E0 fill room: ground cell group total draw(400) = 14 [word 2162] subgraph 0 fill cell (13,42) SlaveDens_lower_floor.gt vs log 0x141fe90a5 draw(200) = 14
+4248805045	The Submerged Passage	dgr	MATCH	0	57x65	3821526790	3821526790	3.0	
+1309195284	The Flooded Depths	dgr	MATCH	0	41x41	573429291	573429291	2.1	
+1	Celestial Hideout	dgr	CELLS	6	55x55	3478684984	2440107777	3.6	first draw-stage not OK: overlap; first mismatch: sim 0x1420f6875 sub_1420F5FB0 edge-combination tiling draw(1) = 0 [word None] subgraph 2 overlap stage vs log 0x1420f6875 draw(4) = 0
+1	Backstreet Hideout	dgr	CELLS	18	33x33	2407509049	1598591225	3.5	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(100) = 0 [word 14] hideout.arm o0 at (6,6) vs log 0x1420efc0c draw(200) = 0
+3284226330	The Lower Prison	dgr	MATCH	0	55x59	1192538762	1192538762	1.7	
+2251881681	The Upper Prison	dgr	MATCH	0	125x55	2204444027	2204444027	2.5	
+1068567250	Monastery of the Keepers	dgr	MATCH	0	30x36	739522572	739522572	1.9	
+2625967781	The Cavern of Wrath	dgr	CELLS	1047	69x49	4016286671	26418189	2.9	first draw-stage not OK: graph; first mismatch: sim 0x14210862e ? draw(15) = 9 [word 539] subgraph 0 graph stage vs log 0x14210862e draw(10) = 9
+1891345365	The Cavern of Anger	dgr	MATCH	0	69x61	449445949	449445949	3.1	first draw-stage not OK: graph; first mismatch: sim 0x14210862e ? draw(21) = 1 [word 460] subgraph 0 graph stage vs log 0x14210862e draw(16) = 6
+2530695710	The Crypt Level 1	dgr	MATCH	0	59x59	2263762444	2263762444	1.7	
+968431668	The Crypt Level 2	dgr	MATCH	0	59x59	2499091845	2499091845	1.6	
+4191653966	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	1642318018	1642318018	1.7	
+283554011	The Chamber of Sins Level 2	dgr	MATCH	0	71x59	2748572369	2748572369	1.8	
+774439067	The Den	dgr	MATCH	0	59x59	2825555511	2825555511	1.5	
+514194972	The Weaver's Chambers	dgr	MATCH	0	47x47	114173358	114173358	1.5	
+1	Luxurious Hideout	dgr	MATCH	0	27x27	3779661124	3779661124	1.8	
+2385204892	The Vaal Ruins	dgr	MATCH	0	59x75	4064405383	4064405383	2.1	
+2501019992	The Dread Thicket	dgr	MATCH	0	81x39	4035435092	4035435092	4.8	
+3420277925	The Caverns	dgr	CELLS	5	63x63	2199474282	86086883	2.9	
+2286220489	The Ancient Pyramid	dgr	MATCH	0	111x39	4066457169	4066457169	2.3	
+4131175462	The Slums	dgr	ERROR			2488184710		3.8	IndexError: list index out of range @ dungeon_fill.py:661 room_cells
+936822562	The Crematorium	dgr	MATCH	0	59x43	2148918050	2148918050	2.0	
+2897425878	The Sewers	dgr	CELLS	1514	59x109	3608206696	3485397302	3.0	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(400) = 331 [word 567] entrance_dry_2.arm o6 at (4,19) vs log 0x1420efc0c draw(260) = 151
+2536577949	The Marketplace	dgr	CELLS	1047	63x81	3095624708	743066579	5.4	first draw-stage not OK: post; first mismatch: sim 0x14202795d sub_142027670+0x2ed post-tile pass draw(100) = 85 [word 7177] subgraph 0 post-tile pass vs log 0x1420f8fc1 draw(107) = 69
+2402341252	The Battlefront	dgr	CELLS	3838	102x72	4196015547	3066964294	6.7	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(200) = 146 [word 1898] ledge_stream_stairs_small_1.arm o3 at (36,30) vs log 0x1420efc0c draw(400) = 346
+3273436718	The Solaris Temple Level 1	dgr	MATCH	0	65x65	1224538654	1224538654	9.0	
+1706325493	The Solaris Temple Level 2	dgr	MATCH	0	105x99	3273443509	3273443509	3.5	
+2253563939	The Marketplace	dgr	CELLS	3607	57x81	4126215522	2817387860	4.9	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(100) = 51 [word 819] marketthickwall_place_dock_1.arm o0 at (10,52) vs log 0x142001ee5 draw(1) = 0
+3639631365	The Marketplace	dgr	CELLS	3484	57x81	3701885475	1314175016	5.0	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(100) = 40 [word 819] marketthickwall_place_dock_1.arm o0 at (10,52) vs log 0x142001ee5 draw(1) = 0
+1712038915	The Catacombs	dgr	CELLS	1	59x59	41140647	2312843778	1.7	
+3062702846	The Battlefront	dgr	CELLS	2840	84x78	1003604186	967741144	6.7	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(200) = 116 [word 1797] wall_concave.arm o4 at (48,60) vs log 0x1420efc0c draw(600) = 516
+3364277146	The Docks	dgr	CELLS	1936	87x77	791632261	3778237936	4.4	first draw-stage not OK: fill; first mismatch: sim 0x141febf93 sub_141FEB970 fill draw(1) = 0 [word None] subgraph 0 fill cell (8,8) city_water.gt vs log 0x141feddbe draw(100) = 0
+1555985664	The Solaris Temple Level 2	dgr	MATCH	0	111x87	559975316	559975316	3.4	
+3203442564	The Sewers	dgr	CELLS	1714	59x109	568037625	2123224423	2.8	first draw-stage not OK: graph; first mismatch: sim 0x142107272 ? draw(3770) = 3729 [word 31] subgraph 0 graph stage vs log 0x142105ee9 draw(1) = 0
+2855540965	The Ebony Barracks	dgr	MATCH	0	75x120	2512417395	2512417395	6.2	
+1571611194	The Lunaris Temple Level 1	dgr	MATCH	0	55x109	446747484	446747484	6.8	
+3858230140	The Lunaris Temple Level 2	dgr	CELLS	7601	71x173	477534427	1792408880	3.0	first draw-stage not OK: graph; first mismatch: sim 0x1420fd640 ? draw(641) = 335 [word 1297] subgraph 0 graph stage vs log 0x1420fd640 draw(5650) = 3151
+2351266055	The Lunaris Temple Level 1	dgr	MATCH	0	55x109	3251821080	3251821080	6.4	
+1144347631	The Ebony Barracks	dgr	MATCH	0	75x120	2879092417	2879092417	6.2	
+1067921378	The Imperial Gardens	dgr	CELLS	1815	87x93	1447338577	3188674038	5.9	first draw-stage not OK: fill; first mismatch: sim 0x141febf93 sub_141FEB970 fill draw(100) = 91 [word 4477] subgraph 0 fill cell (24,16) city_ground.gt vs log 0x141febf93 draw(1) = 0
+623609042	The Imperial Gardens	dgr	CELLS	1955	99x87	3371348297	2851159972	6.1	first draw-stage not OK: fill; first mismatch: sim 0x141febf93 sub_141FEB970 fill draw(100) = 91 [word 4869] subgraph 0 fill cell (27,30) city_ground.gt vs log 0x141febf93 draw(1) = 0
+2335162514	The Sceptre of God	dgr	ERROR			2116269406		1.7	RuntimeError: Failed to find room that fits at room 6,4 (1x2 sceptre_exterior_wall_border.et) @ dungeon_graph.py:1803 pick_room
+2000054802	The Upper Sceptre of God	dgr	ERROR			4220530291		1.7	RuntimeError: Failed to find room that fits at room 4,2 (1x2 sceptre_exterior_wall_border.et) @ dungeon_graph.py:1803 pick_room
+2037400561	The Aqueduct	dgr	MATCH	0	48x168	1761958165	1761958165	3.1	
+4172490063	The Docks	dgr	CELLS	1754	87x77	4015351991	3774605683	4.3	first draw-stage not OK: fill; first mismatch: sim 0x141febf93 sub_141FEB970 fill draw(1) = 0 [word None] subgraph 0 fill cell (8,8) city_water.gt vs log 0x141feddbe draw(100) = 25
+1266525413	The Dried Lake	dgr	MATCH	0	60x66	2117403902	2117403902	2.8	
+1149825838	Abandoned Dam	dgr	MATCH	0	48x60	4240077958	4240077958	2.6	
+3784847736	The Mines Level 1	dgr	MATCH	0	57x65	2709488756	2709488756	2.1	
+1805111026	The Mines Level 1	dgr	MATCH	0	49x65	4227430229	4227430229	2.1	
+301677685	The Mines Level 2	dgr	MATCH	0	57x65	1971905377	1971905377	2.3	
+1934321993	The Mines Level 1	dgr	MATCH	0	57x73	3864297400	3864297400	2.1	
+803169832	The Mines Level 2	dgr	MATCH	0	57x65	3023494141	3023494141	2.1	
+2093007158	The Crystal Veins	dgr	MATCH	0	57x87	1759487534	1759487534	3.1	
+2853070089	The Crystal Veins	dgr	MATCH	0	87x65	3267336992	3267336992	2.9	
+360522370	Daresso's Dream	dgr	MATCH	0	109x82	2726426886	2726426886	3.4	
+737367190	The Grand Arena	dgr	MATCH	0	97x151	2093610799	2093610799	2.8	
+3828488805	The Crystal Veins	dgr	MATCH	0	57x87	3587195174	3587195174	3.0	
+2747912267	The Belly of the Beast Level 1	dgr	MATCH	0	61x77	3024534366	3024534366	1.3	
+3725921790	The Belly of the Beast Level 2	dgr	MATCH	0	61x77	3154621212	3154621212	1.3	
+1724881022	The Harvest	dgr	MATCH	0	93x101	954088109	954088109	3.8	
+3911205585	The Slave Pens	dgr	MATCH	0	67x85	3504192106	3504192106	2.1	
+4289595801	The Control Blocks	dgr	CELLS	1817	85x85	2647497598	3389840595	1.9	first draw-stage not OK: graph; first mismatch: sim 0x1420fd640 ? draw(900) = 479 [word 465] subgraph 0 graph stage vs log 0x1420fd640 draw(2800) = 679
+3191711317	Oriath Square	dgr	MATCH	0	157x81	2748914618	2748914618	6.5	
+2723826775	The Templar Courts	dgr	CELLS	1340	77x77	2385234822	3389730876	1.7	first draw-stage not OK: graph; first mismatch: sim 0x1420fd640 ? draw(454) = 136 [word 437] subgraph 0 graph stage vs log 0x1420fd640 draw(270) = 110
+2558389244	The Chamber of Innocence	dgr	CELLS	15	101x93	97370136	2195811374	1.6	
+3674222332	The Chamber of Innocence	dgr	CELLS	15	85x93	1623697606	2599488506	1.4	
+2661217741	The Torched Courts	dgr	MATCH	0	77x77	249720497	249720497	1.8	
+427465413	The Ruined Square	dgr	MATCH	0	157x81	653264300	653264300	6.1	
+2144030410	The Ossuary	dgr	MATCH	0	53x53	2215249136	2215249136	2.4	
+1754240847	The Ruined Square	dgr	MATCH	0	157x81	1025419615	1025419615	6.3	
+3540356521	The Reliquary	dgr	MATCH	0	61x67	3468195324	3468195324	1.7	
+1482223029	The Ruined Square	dgr	MATCH	0	157x81	3907314149	3907314149	6.3	
+2072172649	The Cathedral Rooftop	dgr	MATCH	0	121x157	3324307379	3324307379	5.2	
+1	Lioneye's Watch	dgr	MATCH	0	30x24	2746767467	2746767467	2.7	
+1	Sunspire Hideout	dgr	MATCH	0	39x39	738244828	738244828	2.2	
+1	Synthesis Hideout	dgr	MATCH	0	21x21	4251354619	4251354619	1.3	
+1	Lush Hideout	dgr	MATCH	0	33x33	3482012158	3482012158	3.5	
+3891475801	The Karui Fortress	dgr	MATCH	0	78x51	2368626775	2368626775	4.8	
+1909704826	The Karui Fortress	dgr	MATCH	0	78x51	1066646842	1066646842	5.0	
+3738874253	The Lower Prison	dgr	MATCH	0	43x75	4175847380	4175847380	1.6	
+403574281	The Lower Prison	dgr	MATCH	0	43x75	1540426058	1540426058	1.6	
+4231822657	Shavronne's Tower	dgr	MATCH	0	171x51	4075024961	4075024961	2.6	
+2555187645	Secluded Copse	dgr	MATCH	0	39x31	4254452920	4254452920	1.4	
+599246530	The Cavern of Anger	dgr	CELLS	211	133x71	3650738342	1009527068	7.6	first draw-stage not OK: graph; first mismatch: sim 0x14210862e ? draw(2270) = 332 [word 652] subgraph 0 graph stage vs log 0x142108799 draw(850) = 182
+2877759920	Secluded Copse	dgr	MATCH	0	39x31	3928051857	3928051857	1.3	
+4024180023	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	2481291711	2481291711	1.6	
+1981184456	The Crypt	dgr	MATCH	0	71x71	2021194995	2021194995	2.1	
+2533715097	Maligaro's Sanctum	dgr	CELLS	6341	105x87	314450607	1393820262	3.5	first draw-stage not OK: graph; first mismatch: sim 0x142105ee9 sub_142105A70+0x479 room chooser draw(8) = 6 [word 47] subgraph 0 graph stage vs log 0x142105ee9 draw(2) = 0
+1607794472	The Chamber of Sins Level 2	dgr	MATCH	0	59x106	1920017863	1920017863	2.6	
+3694988849	The Den	dgr	MATCH	0	59x59	144818764	144818764	1.3	
+2550931616	Covered-up Hollow	dgr	MATCH	0	43x35	1879773356	1879773356	1.5	
+432732553	The Dread Thicket	dgr	CELLS	4118	187x47	1883037049	1632646900	2.5	first draw-stage not OK: graph; first mismatch: sim 0x142105ee9 sub_142105A70+0x479 room chooser draw(100) = 21 [word 1826] subgraph 1 graph stage vs log 0x142105ee9 draw(1) = 0
+783592476	Secluded Copse	dgr	MATCH	0	39x31	1409908282	1409908282	1.4	
+3182851902	The Causeway	dgr	MATCH	0	157x61	3351560268	3351560268	2.5	
+2393322748	The Vaal City	dgr	MATCH	0	78x120	3052310771	3052310771	3.1	
+1011166828	The Temple of Decay Level 1	dgr	ERROR			1242027185		1.0	struct.error: unpack_from requires a buffer of at least 28 bytes for unpacking 28 bytes at offset 0 (actual buffer size is 11) @ tdtfile.py:35 __init__
+1784571183	The Temple of Decay Level 2	dgr	MATCH	0	55x131	4088528523	4088528523	2.6	
+1906049691	The Sarn Ramparts	dgr	ERROR			3836528409		3.5	RuntimeError: Failed to find room that fits at room 1,4 (1x1 ramparts_wall.et) @ dungeon_graph.py:1803 pick_room
+1	The Sarn Encampment	dgr	MATCH	0	39x35	3615437189	3615437189	1.6	
+993420394	Aspirants' Plaza	dgr	MATCH	0	31x31	2646271961	2646271961	3.6	
+3795292572	The Toxic Conduits	dgr	CELLS	4977	59x168	2881309162	2529015403	3.3	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(80) = 60 [word 479] exit_1.arm o3 at (39,34) vs log 0x1420efc0c draw(400) = 60
+1225503678	Doedre's Cesspool	dgr	MATCH	0	69x69	1853879041	1853879041	2.0	
+3233060856	The Toxic Conduits	dgr	CELLS	5420	59x168	719177272	584461889	3.5	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(80) = 68 [word 500] exit_1.arm o3 at (39,9) vs log 0x1420efc0c draw(400) = 68
+438094231	Walled-off Ducts	dgr	CELLS	402	39x39	4286032062	2902001757	2.1	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(80) = 40 [word 132] var_3_6_1.arm o5 at (14,4) vs log 0x1420efc0c draw(200) = 0
+375337592	Doedre's Cesspool	dgr	MATCH	0	69x69	3556033391	3556033391	1.9	
+3974747963	The Quay	dgr	MATCH	0	102x126	3003177446	3003177446	5.4	
+774780952	The Grain Gate	dgr	CELLS	2622	78x108	3043379673	1020190789	4.7	first draw-stage not OK: fill; first mismatch: sim 0x141febd7f ? draw(719) = 497 [word 5754] subgraph 0 fill cell (20,50) city_ground.gt vs log 0x141febf93 draw(300) = 178
+2432663001	Neglected Cellar	dgr	MATCH	0	39x30	1901156714	1901156714	1.6	
+2556106696	The Solaris Temple Level 1	dgr	MATCH	0	89x77	4102415752	4102415752	10.3	
+464544080	The Solaris Temple Level 2	dgr	MATCH	0	93x93	3976814062	3976814062	3.8	
+1	ExileCon 2023 Hideout	dgr	MATCH	0	44x60	2546197278	2546197278	3.6	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(4) = 0 [word 1] hideout_level2.arm o0 at (6,22) vs log 0x1420efc0c draw(1) = 0
+657210394	The Solaris Temple Level 1	dgr	MATCH	0	89x77	3161500419	3161500419	11.7	
+2210125432	The Solaris Temple Level 2	dgr	MATCH	0	93x93	19476010	19476010	3.8	
+2370636568	Sacred Chambers	dgr	MATCH	0	35x41	3525423438	3525423438	2.1	
+1876677163	The Solaris Concourse	dgr	CELLS	3739	78x96	3554542888	3866093026	7.7	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(260) = 78 [word 1910] deepstream_straight_1.arm o2 at (48,30) vs log 0x1420efc0c draw(400) = 218
+1068480893	The Harbour Bridge	dgr	MATCH	0	168x96	3417105572	3417105572	5.6	
+2391431120	The Lunaris Concourse	dgr	MATCH	0	75x150	3324198366	3324198366	6.7	
+730588532	The Lunaris Temple Level 1	dgr	CELLS	6045	61x229	3512266583	658315112	8.4	first draw-stage not OK: graph; first mismatch: sim 0x142105ee9 sub_142105A70+0x479 room chooser draw(100) = 97 [word 15] subgraph 1 graph stage vs log 0x142105ee9 draw(1) = 0
+1510624776	Moonlit Chambers	dgr	MATCH	0	49x37	784856076	784856076	2.7	
+439290303	The Lunaris Temple Level 2	dgr	CELLS	7196	71x167	2867383623	3208213307	4.0	first draw-stage not OK: graph; first mismatch: sim 0x1420fd640 ? draw(1251) = 351 [word 1382] subgraph 0 graph stage vs log 0x1420fd640 draw(5650) = 512
+2733731916	The Lunaris Concourse	dgr	MATCH	0	75x150	141873562	141873562	6.6	
+2782365286	The Harbour Bridge	dgr	MATCH	0	168x96	3730713352	3730713352	5.5	
+1877788454	Stagnant Canal	dgr	CELLS	357	60x33	128702675	1410006114	3.4	first draw-stage not OK: fill; first mismatch: sim 0x141febf93 sub_141FEB970 fill draw(1) = 0 [word None] subgraph 0 fill cell (7,10) city_water.gt vs log 0x141fed896 draw(1) = 0
+896657505	The Blood Aqueduct	dgr	MATCH	0	48x180	3362388430	3362388430	3.1	
+1	Highgate	dgr	CELLS	1353	41x33	1434073308	3389837055	1.1	first draw-stage not OK: fill; first mismatch: sim 0x141febf93 sub_141FEB970 fill draw(100) = 39 [word 1] subgraph 0 fill cell (0,0) aqueduct_sky.gt vs log 0x1420efc0c draw(1) = 0
+2609346257	The Vastiri Desert	dgr	MATCH	0	84x72	1844785887	1844785887	3.9	
+907963433	The Vastiri Desert	dgr	MATCH	0	84x72	369089336	369089336	4.0	
+228834132	The Tunnel	dgr	MATCH	0	73x105	3517079195	3517079195	2.1	first draw-stage not OK: graph; first mismatch: sim 0x142105ee9 sub_142105A70+0x479 room chooser draw(100) = 9 [word 30] subgraph 0 graph stage vs log 0x142105ee9 draw(200) = 9
+3998619120	Haunted Mineshaft	dgr	MATCH	0	49x49	2799420866	2799420866	2.3	
+2145317682	The Quarry	dgr	MATCH	0	102x84	2938400564	2938400564	5.4	
+2621271165	The Refinery	dgr	MATCH	0	117x85	354030528	354030528	5.7	
+4240779025	The Quarry	dgr	MATCH	0	102x84	1604473495	1604473495	5.6	
+2043022934	The Belly of the Beast	dgr	CELLS	2586	73x103	2932764974	2638928846	1.4	first draw-stage not OK: graph; first mismatch: sim 0x14210862e ? draw(328) = 265 [word 129] subgraph 0 graph stage vs log 0x14210862e draw(182) = 73
+780755267	The Rotting Core	dgr	CELLS	5328	141x109	17407324	1979286765	5.4	first draw-stage not OK: graph; first mismatch: sim 0x142102c41 ? draw(840) = 259 [word 197] subgraph 0 graph stage vs log 0x1421029c7 draw(3) = 1
+1	Oriath Docks	dgr	MATCH	0	37x37	3320054456	3320054456	2.5	
+3599178296	The Cathedral Rooftop	dgr	MATCH	0	121x157	2232891092	2232891092	4.4	
+1837405360	Side Chapel	dgr	MATCH	0	79x79	4217226278	4217226278	2.2	
+2139050272	The Ravaged Square	dgr	MATCH	0	129x81	2728443893	2728443893	4.7	
+462968388	The Control Blocks	dgr	MATCH	0	85x85	3509728473	3509728473	2.1	first draw-stage not OK: fill; first mismatch: sim 0x141fe90a5 sub_141FE89E0 fill room: ground cell group total draw(400) = 86 [word 1990] subgraph 0 fill cell (18,47) SlaveDens_lower_floor.gt vs log 0x141fe90a5 draw(200) = 86
+1913361106	The Control Blocks	dgr	MATCH	0	91x85	3115849383	3115849383	2.3	first draw-stage not OK: fill; first mismatch: sim 0x141fe90a5 sub_141FE89E0 fill room: ground cell group total draw(400) = 261 [word 2374] subgraph 0 fill cell (23,54) SlaveDens_lower_floor.gt vs log 0x141fe90a5 draw(200) = 61
+2181307310	Reclaimed Barracks	dgr	MATCH	0	61x55	3454844210	3454844210	1.9	first draw-stage not OK: fill; first mismatch: sim 0x141fe90a5 sub_141FE89E0 fill room: ground cell group total draw(400) = 204 [word 837] subgraph 0 fill cell (48,17) SlaveDens_lower_floor.gt vs log 0x141fe90a5 draw(200) = 4
+1842674717	The Ravaged Square	dgr	MATCH	0	129x81	252435474	252435474	4.8	
+1595576018	The Ossuary	dgr	MATCH	0	110x82	863241202	863241202	3.8	
+4152842669	The Reliquary	dgr	MATCH	0	61x67	2719794227	2719794227	1.8	
+2219835840	The Torched Courts	dgr	MATCH	0	77x77	2593344709	2593344709	1.9	
+3685162311	The Desecrated Chambers	dgr	MATCH	0	85x93	53037679	53037679	1.5	
+3321828212	The Ravaged Square	dgr	CELLS	4210	217x81	2178349546	2795668665	6.2	first draw-stage not OK: graph; first mismatch: sim 0x142105ee9 sub_142105A70+0x479 room chooser draw(100) = 14 [word 13868] subgraph 1 graph stage vs log 0x142105ee9 draw(1) = 0
+331904297	The Canals	dgr	MATCH	0	57x135	253417315	253417315	3.0	
+3508426414	The Feeding Trough	dgr	MATCH	0	147x159	131995204	131995204	4.9	
+2124104930	The Quarry	dgr	CELLS	4113	102x114	3013035528	776230929	5.9	first draw-stage not OK: tiliser; first mismatch: sim 0x141fe9a73 sub_141FE89E0 fill room: store pick draw(8) = 4 [word 1657] mission_1.arm o1 at (60,54) ExternalFeature vs log 0x141fe9f09 draw(1) = 0
+559510352	Haunted Mineshaft	dgr	MATCH	0	49x49	2029911990	2029911990	2.3	
+3376791209	The Vastiri Desert	dgr	CELLS	5085	84x72	3432629108	1490983741	4.1	first draw-stage not OK: graph; first mismatch: sim 0x1420ff711 ? draw(18) = 17 [word 1798] subgraph 0 graph stage vs log 0x1420efc0c draw(400) = 217
+3536082317	Doedre's Cesspool	dgr	MATCH	0	69x69	945915212	945915212	2.1	
+717193377	The Grand Promenade	dgr	MATCH	0	138x90	757908612	757908612	5.2	
+1263665994	The Bath House	dgr	CELLS	16	91x63	676576427	4165039941	3.4	
+1	Glimmerwood Hideout	dgr	MATCH	0	30x30	165724475	165724475	1.6	
+1	Battle-scarred Hideout	dgr	MATCH	0	33x33	2479215559	2479215559	3.1	first draw-stage not OK: fill; first mismatch: sim 0x141febf93 sub_141FEB970 fill draw(100) = 0 [word 95] subgraph 0 fill cell (11,20) city_ground.gt vs log 0x141febf93 draw(200) = 0
+2400635400	Alleyways	dgr	CELLS	4756	197x75	1095433766	4286660607	4.7	first draw-stage not OK: post; first mismatch: sim 0x14202795d sub_142027670+0x2ed post-tile pass draw(197) = 54 [word 3184] subgraph 0 post-tile pass vs log 0x14202795d draw(3) = 1
+2565914107	Chateau	dgr	MATCH	0	121x79	2907803743	2907803743	5.7	
+1	The Dreadnought Hideout	dgr	CELLS	675	72x48	3576881561	474594840	1.7	first draw-stage not OK: graph; first mismatch: sim 0x14210862e ? draw(3003) = 0 [word 53] subgraph 0 graph stage vs log 0x14210862e draw(4004) = 0
+1	Vast Plains Hideout	dgr	MATCH	0	31x31	2330516475	2330516475	0.8	
+2210596230	The Ravaged Square	dgr	CELLS	4133	217x81	1418227854	1681087222	6.1	first draw-stage not OK: graph; first mismatch: sim 0x142105ee9 sub_142105A70+0x479 room chooser draw(100) = 21 [word 13840] subgraph 1 graph stage vs log 0x142105ee9 draw(1) = 0
+286111229	Aspirants' Plaza	dgr	MATCH	0	31x31	2256494012	2256494012	3.5	
+2579957462	Estate Path	dgr	CELLS	1645	85x73	3541621928	3146348301	4.8	first draw-stage not OK: graph; first mismatch: sim 0x14203a8e0 ? draw(100) = 18 [word 3] subgraph 0 graph stage vs log 0x142032a2b draw(2) = 0
+2866914294	Aspirant's Trial	dgr	ERROR			2929733642		2.6	RuntimeError: No possible rooms found for room at (0, 3) with type "secret" @ dungeon_graph.py:1034 place_typed
+2555006977	Sanitorium Halls	dgr	CELLS	678	47x47	297879765	604121947	2.1	first draw-stage not OK: graph; first mismatch: sim 0x14203a8e0 ? draw(100) = 59 [word 2] subgraph 0 graph stage vs log 0x142032a2b draw(2) = 1
+417028868	Aspirant's Trial	dgr	ERROR			2206223273		2.4	RuntimeError: No possible rooms found for room at (0, 3) with type "secret" @ dungeon_graph.py:1034 place_typed
+3831569174	Mansion Halls	dgr	ERROR			102232560		3.0	RuntimeError: No possible rooms found for room at (0, 2) with type "secret" @ dungeon_graph.py:1034 place_typed
+609657111	Estate Crossing	dgr	CELLS	1768	67x85	1636822132	1805720764	4.9	first draw-stage not OK: graph; first mismatch: sim 0x14203a8e0 ? draw(100) = 49 [word 2] subgraph 0 graph stage vs log 0x142032a2b draw(2) = 1
+4117083578	Aspirant's Trial	dgr	ERROR			1844463951		2.4	RuntimeError: No possible rooms found for room at (3, 3) with type "labyrinth_final_boss" @ dungeon_graph.py:1034 place_typed
+1426617778	Aspirants' Plaza	dgr	MATCH	0	31x31	2279280259	2279280259	3.4	
+3103363698	Estate Walkways	dgr	CELLS	2047	85x73	1995255546	277126079	4.9	first draw-stage not OK: graph; first mismatch: sim 0x14203a8e0 ? draw(100) = 17 [word 2] subgraph 0 graph stage vs log 0x142032a2b draw(2) = 1
+2291623195	Domain Walkways	dgr	ERROR			1395951277		2.3	RuntimeError: No possible rooms found for room at (7, 7) with type "secret" @ dungeon_graph.py:1034 place_typed
+4234693681	Sanitorium Halls	dgr	CELLS	558	47x47	938147403	292692038	2.1	first draw-stage not OK: graph; first mismatch: sim 0x14203a8e0 ? draw(100) = 89 [word 2] subgraph 0 graph stage vs log 0x142032a2b draw(2) = 1
+2118311704	Aspirant's Trial	dgr	ERROR			1108902604		2.5	RuntimeError: No possible rooms found for room at (0, 3) with type "secret" @ dungeon_graph.py:1034 place_typed
+1449463803	Sanitorium Halls	dgr	CELLS	703	47x47	2748140019	3750538817	2.1	first draw-stage not OK: graph; first mismatch: sim 0x14203a8e0 ? draw(100) = 53 [word 2] subgraph 0 graph stage vs log 0x142032a2b draw(2) = 1
+259205661	Estate Crossing	dgr	CELLS	1497	67x85	4080815929	911906630	4.8	first draw-stage not OK: graph; first mismatch: sim 0x142105ee9 sub_142105A70+0x479 room chooser draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x142105ee9 draw(100) = 65
+1866444512	Aspirant's Trial	dgr	ERROR			3196040367		2.5	RuntimeError: No possible rooms found for room at (3, 3) with type "labyrinth_final_boss" @ dungeon_graph.py:1034 place_typed
+335384607	Aspirants' Plaza	dgr	MATCH	0	31x31	3903009552	3903009552	3.5	
+2245694802	Estate Path	dgr	CELLS	1761	85x73	1775558441	2634416501	4.8	first draw-stage not OK: graph; first mismatch: sim 0x14203a8e0 ? draw(100) = 98 [word 2] subgraph 0 graph stage vs log 0x142032a2b draw(2) = 0
+1759117330	Aspirant's Trial	dgr	ERROR			1415103873		2.4	RuntimeError: No possible rooms found for room at (0, 3) with type "secret" @ dungeon_graph.py:1034 place_typed
+841827259	Mansion Passage	dgr	ERROR			2698971466		3.0	RuntimeError: No possible rooms found for room at (4, 4) with type "secret" @ dungeon_graph.py:1034 place_typed
+725554027	Sanitorium Halls	dgr	ERROR			2687346413		2.0	RuntimeError: No possible rooms found for room at (0, 3) with type "secret2" @ dungeon_graph.py:1034 place_typed
+1467770897	Sanitorium Passage	dgr	CELLS	715	47x47	3939685222	1169160455	2.2	first draw-stage not OK: graph; first mismatch: sim 0x14203a8e0 ? draw(100) = 26 [word 2] subgraph 0 graph stage vs log 0x142032a2b draw(2) = 0
+2112044984	Aspirant's Trial	dgr	ERROR			409214662		2.5	RuntimeError: No possible rooms found for room at (0, 3) with type "secret" @ dungeon_graph.py:1034 place_typed
+2604101915	Domain Walkways	dgr	ERROR			2071139196		2.2	RuntimeError: No possible rooms found for room at (7, 1) with type "secret" @ dungeon_graph.py:1034 place_typed
+3102021708	Sepulchre Halls	dgr	ERROR			2605021167		1.7	RuntimeError: No possible rooms found for room at (6, 1) with type "secret" @ dungeon_graph.py:1034 place_typed
+1601677706	Aspirant's Trial	dgr	ERROR			1206592261		2.4	RuntimeError: No possible rooms found for room at (3, 3) with type "labyrinth_final_boss" @ dungeon_graph.py:1034 place_typed
+1	Enigma Hideout	dgr	MATCH	0	24x59	4094111914	4094111914	4.1	

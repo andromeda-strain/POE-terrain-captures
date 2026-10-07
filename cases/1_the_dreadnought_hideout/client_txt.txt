@@ -1,0 +1,9 @@
+2026/10/06 22:00:41 368984328 1186a8a3 [DEBUG Client 11484] Generating level 60 area "HideoutDreadnought" with seed 1
+2026/10/06 22:00:42 368985656 3023e556 [CRIT Client 11484] Error executing GEAL on [3221226340] (663, 786) Metadata/Terrain/Gallows/Act2/2_12_1/Objects/ChainBuilder_Anchor_Side: Expression passed to function gave an empty result, expected a location or object
+2026/10/06 22:00:42 368985656 3023e556 [CRIT Client 11484] Error executing GEAL on [3221226341] (647, 786) Metadata/Terrain/Gallows/Act2/2_12_1/Objects/ChainBuilder_Anchor_Side: Expression passed to function gave an empty result, expected a location or object
+2026/10/06 22:00:42 368986062 f22b6a02 [INFO Client 11484] Tile hash: 3576881561
+2026/10/06 22:00:42 368986062 f22b6a0d [INFO Client 11484] Doodad hash: 671618085
+2026/10/06 22:00:42 368986062 e001b752 [INFO Client 11484] [SCENE] Set Source [(null)]
+2026/10/06 22:00:42 368986078 e001b752 [INFO Client 11484] [SCENE] Set Source [The Dreadnought Hideout]
+2026/10/06 22:00:42 368986109 df74e03b [DEBUG Client 11484] [SCENE] Static Walkability Texture: 552 x 368
+2026/10/06 22:00:44 368987187 cffb065b [INFO Client 11484] : You have entered The Dreadnought Hideout.

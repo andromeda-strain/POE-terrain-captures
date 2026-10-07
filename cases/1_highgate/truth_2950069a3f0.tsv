@@ -1,0 +1,1354 @@
+x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
+0	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+3	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+4	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+5	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+6	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+7	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+8	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+9	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+10	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+11	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+12	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+13	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+14	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+15	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+16	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+17	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+18	0	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+19	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+20	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+21	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+22	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+23	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+24	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+25	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+26	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+27	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+28	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+30	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+31	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+32	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+33	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	0	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+3	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+4	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+5	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+6	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+7	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+8	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+9	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+10	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+11	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+12	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+13	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+14	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+15	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+16	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+17	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+18	1	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+19	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+20	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+21	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+22	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+23	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+24	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+25	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+26	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+27	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+28	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+30	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+31	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+32	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+33	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	1	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+3	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+4	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+5	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+6	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+7	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+8	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+9	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+10	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+11	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+12	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+13	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+14	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+15	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+16	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+17	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+18	2	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+19	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+20	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+21	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+22	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+23	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+24	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+25	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+26	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+27	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+28	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+30	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+31	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+32	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+33	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	2	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+3	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+4	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+5	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+6	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+7	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+8	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+9	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+10	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+11	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+12	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+13	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+14	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+15	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+16	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+17	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+18	3	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+19	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+20	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+21	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+22	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+23	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+24	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+25	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+26	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+27	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+28	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+30	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+31	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+32	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+33	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	3	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+3	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+4	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+5	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+6	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+7	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+8	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+9	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+10	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+11	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+12	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+13	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+14	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+15	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+16	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+17	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+18	4	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+19	4	0x29538236000	0x294fcdf30a0	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+20	4	0x29538235fc8	0x294fcdf30a0	1	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+21	4	0x29538235f90	0x294fcdf30a0	2	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+22	4	0x29538235f90	0x294fcdf30a0	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+23	4	0x29538235fc8	0x294fcdf30a0	1	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+24	4	0x29538236000	0x294fcdf30a0	2	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+25	4	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+26	4	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+27	4	0x29538236000	0x294fcdf30a0	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+28	4	0x295382360a8	0x294fcdf30a0	1	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+29	4	0x29538236150	0x294fcdf30a0	2	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+30	4	0x29538235f90	0x294fcdf30a0	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+31	4	0x29538235fc8	0x294fcdf30a0	1	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+32	4	0x29538236000	0x294fcdf30a0	2	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+33	4	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	4	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	4	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	4	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	4	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	4	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	4	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	4	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+3	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+4	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+5	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+6	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+7	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+8	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+9	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+10	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+11	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+12	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+13	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+14	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+15	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+16	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+17	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+18	5	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+19	5	0x295382360a8	0x294fcdf30a0	0	1	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+20	5	0x29538236070	0x294fcdf30a0	1	1	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+21	5	0x29538236038	0x294fcdf30a0	2	1	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+22	5	0x29538236038	0x294fcdf30a0	0	1	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+23	5	0x29538236070	0x294fcdf30a0	1	1	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+24	5	0x295382360a8	0x294fcdf30a0	2	1	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+25	5	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+26	5	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+27	5	0x29538235fc8	0x294fcdf30a0	0	1	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+28	5	0x29538236070	0x294fcdf30a0	1	1	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+29	5	0x29538236118	0x294fcdf30a0	2	1	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+30	5	0x29538236038	0x294fcdf30a0	0	1	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+31	5	0x29538236070	0x294fcdf30a0	1	1	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+32	5	0x295382360a8	0x294fcdf30a0	2	1	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+33	5	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	5	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	5	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	5	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	5	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	5	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	5	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	5	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+3	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+4	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+5	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+6	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+7	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+8	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+9	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+10	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+11	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+12	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+13	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+14	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+15	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+16	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+17	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+18	6	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+19	6	0x29538236150	0x294fcdf30a0	0	2	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+20	6	0x29538236118	0x294fcdf30a0	1	2	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+21	6	0x295382360e0	0x294fcdf30a0	2	2	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+22	6	0x295382360e0	0x294fcdf30a0	0	2	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+23	6	0x29538236118	0x294fcdf30a0	1	2	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+24	6	0x29538236150	0x294fcdf30a0	2	2	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+25	6	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+26	6	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+27	6	0x29538235f90	0x294fcdf30a0	0	2	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+28	6	0x29538236038	0x294fcdf30a0	1	2	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+29	6	0x295382360e0	0x294fcdf30a0	2	2	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+30	6	0x295382360e0	0x294fcdf30a0	0	2	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+31	6	0x29538236118	0x294fcdf30a0	1	2	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+32	6	0x29538236150	0x294fcdf30a0	2	2	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+33	6	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	6	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	6	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	6	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	6	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	6	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	6	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	6	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+3	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+4	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+5	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+6	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+7	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+8	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+9	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+10	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+11	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+12	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+13	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+14	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+15	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+16	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+17	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+18	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+19	7	0x29538235f90	0x294fcdf30a0	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+20	7	0x29538236038	0x294fcdf30a0	1	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+21	7	0x295382360e0	0x294fcdf30a0	2	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+22	7	0x295382360e0	0x294fcdf30a0	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+23	7	0x29538236118	0x294fcdf30a0	1	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+24	7	0x29538236150	0x294fcdf30a0	2	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+25	7	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+26	7	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+27	7	0x29538235f90	0x294fcdf30a0	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+28	7	0x29538236038	0x294fcdf30a0	1	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+29	7	0x295382360e0	0x294fcdf30a0	2	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+30	7	0x295382360e0	0x294fcdf30a0	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+31	7	0x29538236038	0x294fcdf30a0	1	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+32	7	0x29538235f90	0x294fcdf30a0	2	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+33	7	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	7	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	7	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	7	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	7	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	7	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	7	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	7	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+3	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+4	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+5	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+6	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+7	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+8	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+9	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+10	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+11	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+12	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+13	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+14	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+15	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+16	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+17	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+18	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+19	8	0x29538235fc8	0x294fcdf30a0	0	1	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+20	8	0x29538236070	0x294fcdf30a0	1	1	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+21	8	0x29538236118	0x294fcdf30a0	2	1	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+22	8	0x29538236038	0x294fcdf30a0	0	1	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+23	8	0x29538236070	0x294fcdf30a0	1	1	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+24	8	0x295382360a8	0x294fcdf30a0	2	1	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+25	8	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+26	8	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+27	8	0x29538235fc8	0x294fcdf30a0	0	1	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+28	8	0x29538236070	0x294fcdf30a0	1	1	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+29	8	0x29538236118	0x294fcdf30a0	2	1	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+30	8	0x29538236118	0x294fcdf30a0	0	1	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+31	8	0x29538236070	0x294fcdf30a0	1	1	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+32	8	0x29538235fc8	0x294fcdf30a0	2	1	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+33	8	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	8	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	8	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	8	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	8	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	8	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	8	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	8	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+3	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+4	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+5	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+6	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+7	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+8	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+9	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+10	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+11	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+12	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+13	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+14	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+15	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+16	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+17	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+18	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+19	9	0x29538236000	0x294fcdf30a0	0	2	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+20	9	0x295382360a8	0x294fcdf30a0	1	2	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+21	9	0x29538236150	0x294fcdf30a0	2	2	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+22	9	0x29538235f90	0x294fcdf30a0	0	2	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+23	9	0x29538235fc8	0x294fcdf30a0	1	2	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+24	9	0x29538236000	0x294fcdf30a0	2	2	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+25	9	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+26	9	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+27	9	0x29538236000	0x294fcdf30a0	0	2	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+28	9	0x295382360a8	0x294fcdf30a0	1	2	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+29	9	0x29538236150	0x294fcdf30a0	2	2	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+30	9	0x29538236150	0x294fcdf30a0	0	2	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+31	9	0x295382360a8	0x294fcdf30a0	1	2	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+32	9	0x29538236000	0x294fcdf30a0	2	2	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+33	9	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	9	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	9	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	9	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	9	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	9	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	9	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	9	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+3	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+4	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+5	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+6	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+7	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+8	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+9	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+10	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+11	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+12	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+13	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+14	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+15	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+16	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+17	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+18	10	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+19	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+20	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+21	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+22	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+23	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+24	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+25	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+26	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+27	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+28	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+30	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+31	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+32	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+33	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	10	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	11	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	11	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	11	0x2949fc95400	0x294fda7bba0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	11	0x2949fc95828	0x294fda7bba0	1	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	11	0x2949fc95c50	0x294fda7bba0	2	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	11	0x2949fc96078	0x294fda7bba0	3	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	11	0x2949fc964a0	0x294fda7bba0	4	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	11	0x2949fc968c8	0x294fda7bba0	5	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	11	0x2949fc96cf0	0x294fda7bba0	6	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	11	0x2949fc97118	0x294fda7bba0	7	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	11	0x2949fc97540	0x294fda7bba0	8	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	11	0x2949fc97968	0x294fda7bba0	9	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	11	0x2949fc97d90	0x294fda7bba0	10	0	0	3	8	6464	40450	660	0	0x2949e021950	0x2949e021950	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	11	0x2949fc981b8	0x294fda7bba0	11	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	11	0x2949fc985e0	0x294fda7bba0	12	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	11	0x2949fc98a08	0x294fda7bba0	13	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	11	0x2949fc98e30	0x294fda7bba0	14	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	11	0x2949fc99258	0x294fda7bba0	15	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	11	0x2949fc99680	0x294fda7bba0	16	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	11	0x2949fc99aa8	0x294fda7bba0	17	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	11	0x2949fc99ed0	0x294fda7bba0	18	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	11	0x2949fc9a2f8	0x294fda7bba0	19	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	11	0x2949fc9a720	0x294fda7bba0	20	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	11	0x2949fc9ab48	0x294fda7bba0	21	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	11	0x2949fc9af70	0x294fda7bba0	22	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	11	0x2949fc9b398	0x294fda7bba0	23	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	11	0x2949fc9b7c0	0x294fda7bba0	24	0	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	11	0x2949fc9bbe8	0x294fda7bba0	25	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	11	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	11	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+30	11	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+31	11	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+32	11	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+33	11	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	11	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	11	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	11	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	11	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	11	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	11	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	11	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	12	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	12	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	12	0x2949fc953c8	0x294fda7bba0	0	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	12	0x2949fc957f0	0x294fda7bba0	1	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	12	0x2949fc95c18	0x294fda7bba0	2	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	12	0x2949fc96040	0x294fda7bba0	3	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	12	0x2949fc96468	0x294fda7bba0	4	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	12	0x2949fc96890	0x294fda7bba0	5	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	12	0x2949fc96cb8	0x294fda7bba0	6	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	12	0x2949fc970e0	0x294fda7bba0	7	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	12	0x2949fc97508	0x294fda7bba0	8	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	12	0x2949fc97930	0x294fda7bba0	9	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	12	0x2949fc97d58	0x294fda7bba0	10	1	0	3	8	6112	40450	660	0	0x2949e0217f0	0x2949e0217f0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	12	0x2949fc98180	0x294fda7bba0	11	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	12	0x2949fc985a8	0x294fda7bba0	12	1	0	3	8	13488	40450	660	0	0x2949e0234c0	0x2949e0234c0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	12	0x2949fc989d0	0x294fda7bba0	13	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	12	0x2949fc98df8	0x294fda7bba0	14	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	12	0x2949fc99220	0x294fda7bba0	15	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	12	0x2949fc99648	0x294fda7bba0	16	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	12	0x2949fc99a70	0x294fda7bba0	17	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	12	0x2949fc99e98	0x294fda7bba0	18	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	12	0x2949fc9a2c0	0x294fda7bba0	19	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	12	0x2949fc9a6e8	0x294fda7bba0	20	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	12	0x2949fc9ab10	0x294fda7bba0	21	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	12	0x2949fc9af38	0x294fda7bba0	22	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	12	0x2949fc9b360	0x294fda7bba0	23	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	12	0x2949fc9b788	0x294fda7bba0	24	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	12	0x2949fc9bbb0	0x294fda7bba0	25	1	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	12	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	12	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+30	12	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+31	12	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+32	12	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+33	12	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+34	12	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+35	12	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	12	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	12	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	12	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	12	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	12	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	13	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	13	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	13	0x2949fc95390	0x294fda7bba0	0	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	13	0x2949fc957b8	0x294fda7bba0	1	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	13	0x2949fc95be0	0x294fda7bba0	2	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	13	0x2949fc96008	0x294fda7bba0	3	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	13	0x2949fc96430	0x294fda7bba0	4	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	13	0x2949fc96858	0x294fda7bba0	5	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	13	0x2949fc96c80	0x294fda7bba0	6	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	13	0x2949fc970a8	0x294fda7bba0	7	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	13	0x2949fc974d0	0x294fda7bba0	8	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	13	0x2949fc978f8	0x294fda7bba0	9	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	13	0x2949fc97d20	0x294fda7bba0	10	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	13	0x2949fc98148	0x294fda7bba0	11	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	13	0x2949fc98570	0x294fda7bba0	12	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	13	0x2949fc98998	0x294fda7bba0	13	2	0	3	8	6144	40450	660	0	0x2949e021810	0x2949e021810	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	13	0x2949fc98dc0	0x294fda7bba0	14	2	0	3	8	5424	40450	660	0	0x2949e021540	0x2949e021540	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	13	0x2949fc991e8	0x294fda7bba0	15	2	0	3	8	576	64523	660	0	0x294fc0b0260	0x294fc0b0260	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	13	0x2949fc99610	0x294fda7bba0	16	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	13	0x2949fc99a38	0x294fda7bba0	17	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	13	0x2949fc99e60	0x294fda7bba0	18	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	13	0x2949fc9a288	0x294fda7bba0	19	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	13	0x2949fc9a6b0	0x294fda7bba0	20	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	13	0x2949fc9aad8	0x294fda7bba0	21	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	13	0x2949fc9af00	0x294fda7bba0	22	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	13	0x2949fc9b328	0x294fda7bba0	23	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	13	0x2949fc9b750	0x294fda7bba0	24	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	13	0x2949fc9bb78	0x294fda7bba0	25	2	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	13	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	13	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+30	13	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+31	13	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+32	13	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+33	13	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+34	13	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+35	13	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	13	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	13	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	13	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	13	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	13	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	14	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	14	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	14	0x2949fc95358	0x294fda7bba0	0	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	14	0x2949fc95780	0x294fda7bba0	1	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	14	0x2949fc95ba8	0x294fda7bba0	2	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	14	0x2949fc95fd0	0x294fda7bba0	3	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	14	0x2949fc963f8	0x294fda7bba0	4	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	14	0x2949fc96820	0x294fda7bba0	5	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	14	0x2949fc96c48	0x294fda7bba0	6	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	14	0x2949fc97070	0x294fda7bba0	7	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	14	0x2949fc97498	0x294fda7bba0	8	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	14	0x2949fc978c0	0x294fda7bba0	9	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	14	0x2949fc97ce8	0x294fda7bba0	10	3	0	3	8	7568	40450	660	0	0x2949e021da0	0x2949e021da0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	14	0x2949fc98110	0x294fda7bba0	11	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	14	0x2949fc98538	0x294fda7bba0	12	3	0	3	8	22944	64741	660	0	0x294fce559c0	0x294fce559c0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	14	0x2949fc98960	0x294fda7bba0	13	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	14	0x2949fc98d88	0x294fda7bba0	14	3	0	3	8	6592	40450	660	0	0x2949e0219d0	0x2949e0219d0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	14	0x2949fc991b0	0x294fda7bba0	15	3	0	3	8	5840	40450	660	0	0x2949e0216e0	0x2949e0216e0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	14	0x2949fc995d8	0x294fda7bba0	16	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	14	0x2949fc99a00	0x294fda7bba0	17	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	14	0x2949fc99e28	0x294fda7bba0	18	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	14	0x2949fc9a250	0x294fda7bba0	19	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	14	0x2949fc9a678	0x294fda7bba0	20	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	14	0x2949fc9aaa0	0x294fda7bba0	21	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	14	0x2949fc9aec8	0x294fda7bba0	22	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	14	0x2949fc9b2f0	0x294fda7bba0	23	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	14	0x2949fc9b718	0x294fda7bba0	24	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	14	0x2949fc9bb40	0x294fda7bba0	25	3	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	14	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	14	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+30	14	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+31	14	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+32	14	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+33	14	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+34	14	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+35	14	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	14	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	14	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	14	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	14	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	14	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	15	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	15	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	15	0x2949fc95320	0x294fda7bba0	0	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	15	0x2949fc95748	0x294fda7bba0	1	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	15	0x2949fc95b70	0x294fda7bba0	2	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	15	0x2949fc95f98	0x294fda7bba0	3	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	15	0x2949fc963c0	0x294fda7bba0	4	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	15	0x2949fc967e8	0x294fda7bba0	5	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	15	0x2949fc96c10	0x294fda7bba0	6	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	15	0x2949fc97038	0x294fda7bba0	7	4	0	3	8	8560	40450	660	0	0x2949e022180	0x2949e022180	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	15	0x2949fc97460	0x294fda7bba0	8	4	0	3	8	25216	64741	660	0	0x294fce562a0	0x294fce562a0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	15	0x2949fc97888	0x294fda7bba0	9	4	0	3	8	5808	40450	660	0	0x2949e0216c0	0x2949e0216c0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	15	0x2949fc97cb0	0x294fda7bba0	10	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	15	0x2949fc980d8	0x294fda7bba0	11	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	15	0x2949fc98500	0x294fda7bba0	12	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	15	0x2949fc98928	0x294fda7bba0	13	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	15	0x2949fc98d50	0x294fda7bba0	14	4	0	3	8	6160	40450	660	0	0x2949e021820	0x2949e021820	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	15	0x2949fc99178	0x294fda7bba0	15	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	15	0x2949fc995a0	0x294fda7bba0	16	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	15	0x2949fc999c8	0x294fda7bba0	17	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	15	0x2949fc99df0	0x294fda7bba0	18	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	15	0x2949fc9a218	0x294fda7bba0	19	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	15	0x2949fc9a640	0x294fda7bba0	20	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	15	0x2949fc9aa68	0x294fda7bba0	21	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	15	0x2949fc9ae90	0x294fda7bba0	22	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	15	0x2949fc9b2b8	0x294fda7bba0	23	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	15	0x2949fc9b6e0	0x294fda7bba0	24	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	15	0x2949fc9bb08	0x294fda7bba0	25	4	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	15	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	15	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+30	15	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+31	15	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+32	15	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+33	15	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+34	15	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+35	15	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	15	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	15	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	15	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	15	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	15	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	16	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	16	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	16	0x2949fc952e8	0x294fda7bba0	0	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	16	0x2949fc95710	0x294fda7bba0	1	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	16	0x2949fc95b38	0x294fda7bba0	2	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	16	0x2949fc95f60	0x294fda7bba0	3	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	16	0x2949fc96388	0x294fda7bba0	4	5	0	3	8	12304	40450	660	0	0x2949e023020	0x2949e023020	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	16	0x2949fc967b0	0x294fda7bba0	5	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	16	0x2949fc96bd8	0x294fda7bba0	6	5	0	3	8	19968	64701	660	0	0x294fcbd4e50	0x294fcbd4e60	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	16	0x2949fc97000	0x294fda7bba0	7	5	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	16	0x2949fc97428	0x294fda7bba0	8	5	0	3	0	9744	40450	660	0	0x2949e022620	0x2949e022620	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	16	0x2949fc97850	0x294fda7bba0	9	5	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	16	0x2949fc97c78	0x294fda7bba0	10	5	0	3	8	22336	64741	660	0	0x294fce55760	0x294fce55760	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	16	0x2949fc980a0	0x294fda7bba0	11	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	16	0x2949fc984c8	0x294fda7bba0	12	5	0	3	8	22592	64741	660	0	0x294fce55860	0x294fce55860	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	16	0x2949fc988f0	0x294fda7bba0	13	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	16	0x2949fc98d18	0x294fda7bba0	14	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	16	0x2949fc99140	0x294fda7bba0	15	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	16	0x2949fc99568	0x294fda7bba0	16	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	16	0x2949fc99990	0x294fda7bba0	17	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	16	0x2949fc99db8	0x294fda7bba0	18	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	16	0x2949fc9a1e0	0x294fda7bba0	19	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	16	0x2949fc9a608	0x294fda7bba0	20	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	16	0x2949fc9aa30	0x294fda7bba0	21	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	16	0x2949fc9ae58	0x294fda7bba0	22	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	16	0x2949fc9b280	0x294fda7bba0	23	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	16	0x2949fc9b6a8	0x294fda7bba0	24	5	0	3	8	10784	40450	660	0	0x2949e022a30	0x2949e022a30	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	16	0x2949fc9bad0	0x294fda7bba0	25	5	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	16	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	16	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+30	16	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+31	16	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+32	16	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+33	16	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+34	16	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+35	16	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	16	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	16	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	16	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	16	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	16	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	17	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	17	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	17	0x2949fc952b0	0x294fda7bba0	0	6	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	17	0x2949fc956d8	0x294fda7bba0	1	6	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	17	0x2949fc95b00	0x294fda7bba0	2	6	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	17	0x2949fc95f28	0x294fda7bba0	3	6	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	17	0x2949fc96350	0x294fda7bba0	4	6	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	17	0x2949fc96778	0x294fda7bba0	5	6	0	3	0	21024	64701	660	0	0x294fcbd5280	0x294fcbd5280	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	17	0x2949fc96ba0	0x294fda7bba0	6	6	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	17	0x2949fc96fc8	0x294fda7bba0	7	6	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	17	0x2949fc973f0	0x294fda7bba0	8	6	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	17	0x2949fc97818	0x294fda7bba0	9	6	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	17	0x2949fc97c40	0x294fda7bba0	10	6	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	17	0x2949fc98068	0x294fda7bba0	11	6	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	17	0x2949fc98490	0x294fda7bba0	12	6	0	3	8	4560	40450	660	0	0x2949e0211e0	0x2949e0211e0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	17	0x2949fc988b8	0x294fda7bba0	13	6	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	17	0x2949fc98ce0	0x294fda7bba0	14	6	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	17	0x2949fc99108	0x294fda7bba0	15	6	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	17	0x2949fc99530	0x294fda7bba0	16	6	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	17	0x2949fc99958	0x294fda7bba0	17	6	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	17	0x2949fc99d80	0x294fda7bba0	18	6	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	17	0x2949fc9a1a8	0x294fda7bba0	19	6	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	17	0x2949fc9a5d0	0x294fda7bba0	20	6	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	17	0x2949fc9a9f8	0x294fda7bba0	21	6	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	17	0x2949fc9ae20	0x294fda7bba0	22	6	0	3	0	10816	40450	660	0	0x2949e022a50	0x2949e022a50	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	17	0x2949fc9b248	0x294fda7bba0	23	6	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	17	0x2949fc9b670	0x294fda7bba0	24	6	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	17	0x2949fc9ba98	0x294fda7bba0	25	6	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	17	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	17	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+30	17	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+31	17	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+32	17	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+33	17	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+34	17	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+35	17	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	17	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	17	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	17	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	17	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	17	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	18	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	18	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	18	0x2949fc95278	0x294fda7bba0	0	7	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	18	0x2949fc956a0	0x294fda7bba0	1	7	0	3	0	18336	64701	660	0	0x294fcbd47f0	0x294fcbd4800	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	18	0x2949fc95ac8	0x294fda7bba0	2	7	0	3	0	48288	64701	660	0	0x294fcbdbd00	0x294fcbdbd00	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	18	0x2949fc95ef0	0x294fda7bba0	3	7	0	3	0	22656	64701	660	0	0x294fcbd58d0	0x294fcbd58e0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	18	0x2949fc96318	0x294fda7bba0	4	7	0	3	0	7136	64741	660	0	0x294fce51c00	0x294fce51c00	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	18	0x2949fc96740	0x294fda7bba0	5	7	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	18	0x2949fc96b68	0x294fda7bba0	6	7	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	18	0x2949fc96f90	0x294fda7bba0	7	7	0	3	0	11632	40450	660	0	0x2949e022d80	0x2949e022d80	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	18	0x2949fc973b8	0x294fda7bba0	8	7	0	3	8	10224	40450	660	0	0x2949e022800	0x2949e022800	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	18	0x2949fc977e0	0x294fda7bba0	9	7	0	3	8	7504	40450	660	0	0x2949e021d60	0x2949e021d60	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	18	0x2949fc97c08	0x294fda7bba0	10	7	0	3	8	7632	40450	660	0	0x2949e021de0	0x2949e021de0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	18	0x2949fc98030	0x294fda7bba0	11	7	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	18	0x2949fc98458	0x294fda7bba0	12	7	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	18	0x2949fc98880	0x294fda7bba0	13	7	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	18	0x2949fc98ca8	0x294fda7bba0	14	7	0	3	8	21536	64741	660	0	0x294fce55440	0x294fce55440	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	18	0x2949fc990d0	0x294fda7bba0	15	7	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	18	0x2949fc994f8	0x294fda7bba0	16	7	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	18	0x2949fc99920	0x294fda7bba0	17	7	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	18	0x2949fc99d48	0x294fda7bba0	18	7	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	18	0x2949fc9a170	0x294fda7bba0	19	7	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	18	0x2949fc9a598	0x294fda7bba0	20	7	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	18	0x2949fc9a9c0	0x294fda7bba0	21	7	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	18	0x2949fc9ade8	0x294fda7bba0	22	7	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	18	0x2949fc9b210	0x294fda7bba0	23	7	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	18	0x2949fc9b638	0x294fda7bba0	24	7	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	18	0x2949fc9ba60	0x294fda7bba0	25	7	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	18	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	18	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+30	18	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+31	18	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+32	18	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+33	18	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	18	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	18	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	18	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	18	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	18	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	18	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	18	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	19	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	19	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	19	0x2949fc95240	0x294fda7bba0	0	8	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	19	0x2949fc95668	0x294fda7bba0	1	8	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	19	0x2949fc95a90	0x294fda7bba0	2	8	0	3	0	8848	40450	660	0	0x2949e0222a0	0x2949e0222a0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	19	0x2949fc95eb8	0x294fda7bba0	3	8	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	19	0x2949fc962e0	0x294fda7bba0	4	8	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	19	0x2949fc96708	0x294fda7bba0	5	8	0	3	0	13280	40450	660	0	0x2949e0233f0	0x2949e0233f0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	19	0x2949fc96b30	0x294fda7bba0	6	8	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	19	0x2949fc96f58	0x294fda7bba0	7	8	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	19	0x2949fc97380	0x294fda7bba0	8	8	0	3	8	9456	40450	660	0	0x2949e022500	0x2949e022500	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	19	0x2949fc977a8	0x294fda7bba0	9	8	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	19	0x2949fc97bd0	0x294fda7bba0	10	8	0	3	8	6960	40450	660	0	0x2949e021b40	0x2949e021b40	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	19	0x2949fc97ff8	0x294fda7bba0	11	8	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	19	0x2949fc98420	0x294fda7bba0	12	8	0	3	8	39008	64741	660	0	0x294fce59880	0x294fce59880	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	19	0x2949fc98848	0x294fda7bba0	13	8	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	19	0x2949fc98c70	0x294fda7bba0	14	8	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	19	0x2949fc99098	0x294fda7bba0	15	8	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	19	0x2949fc994c0	0x294fda7bba0	16	8	0	3	8	9792	40450	660	0	0x2949e022650	0x2949e022650	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	19	0x2949fc998e8	0x294fda7bba0	17	8	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	19	0x2949fc99d10	0x294fda7bba0	18	8	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	19	0x2949fc9a138	0x294fda7bba0	19	8	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	19	0x2949fc9a560	0x294fda7bba0	20	8	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	19	0x2949fc9a988	0x294fda7bba0	21	8	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	19	0x2949fc9adb0	0x294fda7bba0	22	8	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	19	0x2949fc9b1d8	0x294fda7bba0	23	8	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	19	0x2949fc9b600	0x294fda7bba0	24	8	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	19	0x2949fc9ba28	0x294fda7bba0	25	8	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	19	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	19	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+30	19	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+31	19	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+32	19	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+33	19	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	19	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	19	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	19	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	19	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	19	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	19	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	19	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	20	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	20	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	20	0x2949fc95208	0x294fda7bba0	0	9	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	20	0x2949fc95630	0x294fda7bba0	1	9	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	20	0x2949fc95a58	0x294fda7bba0	2	9	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	20	0x2949fc95e80	0x294fda7bba0	3	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	20	0x2949fc962a8	0x294fda7bba0	4	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	20	0x2949fc966d0	0x294fda7bba0	5	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	20	0x2949fc96af8	0x294fda7bba0	6	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	20	0x2949fc96f20	0x294fda7bba0	7	9	0	3	0	13632	40450	660	0	0x2949e023550	0x2949e023550	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	20	0x2949fc97348	0x294fda7bba0	8	9	0	3	8	4240	40450	660	0	0x2949e0210a0	0x2949e0210a0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	20	0x2949fc97770	0x294fda7bba0	9	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	20	0x2949fc97b98	0x294fda7bba0	10	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	20	0x2949fc97fc0	0x294fda7bba0	11	9	0	3	0	10352	40450	660	0	0x2949e022880	0x2949e022880	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	20	0x2949fc983e8	0x294fda7bba0	12	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	20	0x2949fc98810	0x294fda7bba0	13	9	0	3	0	6288	40450	660	0	0x2949e0218a0	0x2949e0218a0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	20	0x2949fc98c38	0x294fda7bba0	14	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	20	0x2949fc99060	0x294fda7bba0	15	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	20	0x2949fc99488	0x294fda7bba0	16	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	20	0x2949fc998b0	0x294fda7bba0	17	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	20	0x2949fc99cd8	0x294fda7bba0	18	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	20	0x2949fc9a100	0x294fda7bba0	19	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	20	0x2949fc9a528	0x294fda7bba0	20	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	20	0x2949fc9a950	0x294fda7bba0	21	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	20	0x2949fc9ad78	0x294fda7bba0	22	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	20	0x2949fc9b1a0	0x294fda7bba0	23	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	20	0x2949fc9b5c8	0x294fda7bba0	24	9	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	20	0x2949fc9b9f0	0x294fda7bba0	25	9	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	20	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	20	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+30	20	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+31	20	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+32	20	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+33	20	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	20	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	20	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	20	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	20	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	20	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	20	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	20	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	21	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	21	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	21	0x2949fc951d0	0x294fda7bba0	0	10	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	21	0x2949fc955f8	0x294fda7bba0	1	10	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	21	0x2949fc95a20	0x294fda7bba0	2	10	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	21	0x2949fc95e48	0x294fda7bba0	3	10	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	21	0x2949fc96270	0x294fda7bba0	4	10	0	3	0	4960	40450	660	0	0x2949e021370	0x2949e021370	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	21	0x2949fc96698	0x294fda7bba0	5	10	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	21	0x2949fc96ac0	0x294fda7bba0	6	10	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	21	0x2949fc96ee8	0x294fda7bba0	7	10	0	3	0	10800	40450	660	0	0x2949e022a40	0x2949e022a40	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	21	0x2949fc97310	0x294fda7bba0	8	10	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	21	0x2949fc97738	0x294fda7bba0	9	10	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	21	0x2949fc97b60	0x294fda7bba0	10	10	0	3	0	26608	40450	660	0	0x2949e026800	0x2949e026800	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	21	0x2949fc97f88	0x294fda7bba0	11	10	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	21	0x2949fc983b0	0x294fda7bba0	12	10	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	21	0x2949fc987d8	0x294fda7bba0	13	10	0	3	0	7616	40450	660	0	0x2949e021dd0	0x2949e021dd0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	21	0x2949fc98c00	0x294fda7bba0	14	10	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	21	0x2949fc99028	0x294fda7bba0	15	10	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	21	0x2949fc99450	0x294fda7bba0	16	10	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	21	0x2949fc99878	0x294fda7bba0	17	10	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	21	0x2949fc99ca0	0x294fda7bba0	18	10	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	21	0x2949fc9a0c8	0x294fda7bba0	19	10	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	21	0x2949fc9a4f0	0x294fda7bba0	20	10	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	21	0x2949fc9a918	0x294fda7bba0	21	10	0	3	0	10896	40450	660	0	0x2949e022aa0	0x2949e022aa0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	21	0x2949fc9ad40	0x294fda7bba0	22	10	0	3	0	3456	64861	660	0	0x294fd5d0da0	0x294fd5d0da0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	21	0x2949fc9b168	0x294fda7bba0	23	10	0	3	0	7392	40450	660	0	0x2949e021cf0	0x2949e021cf0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	21	0x2949fc9b590	0x294fda7bba0	24	10	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	21	0x2949fc9b9b8	0x294fda7bba0	25	10	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	21	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	21	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+30	21	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+31	21	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+32	21	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+33	21	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	21	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	21	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	21	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	21	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	21	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	21	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	21	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	22	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	22	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	22	0x2949fc95198	0x294fda7bba0	0	11	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	22	0x2949fc955c0	0x294fda7bba0	1	11	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	22	0x2949fc959e8	0x294fda7bba0	2	11	0	3	8	27008	40450	660	0	0x2949e026990	0x2949e026990	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	22	0x2949fc95e10	0x294fda7bba0	3	11	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	22	0x2949fc96238	0x294fda7bba0	4	11	0	3	0	14224	40450	660	0	0x2949e0237a0	0x2949e0237a0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	22	0x2949fc96660	0x294fda7bba0	5	11	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	22	0x2949fc96a88	0x294fda7bba0	6	11	0	3	0	7216	40450	660	0	0x2949e021c40	0x2949e021c40	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	22	0x2949fc96eb0	0x294fda7bba0	7	11	0	3	0	13904	40450	660	0	0x2949e023660	0x2949e023660	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	22	0x2949fc972d8	0x294fda7bba0	8	11	0	3	0	7824	40450	660	0	0x2949e021ea0	0x2949e021ea0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	22	0x2949fc97700	0x294fda7bba0	9	11	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	22	0x2949fc97b28	0x294fda7bba0	10	11	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	22	0x2949fc97f50	0x294fda7bba0	11	11	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	22	0x2949fc98378	0x294fda7bba0	12	11	0	3	0	13120	64741	660	0	0x294fce53360	0x294fce53360	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	22	0x2949fc987a0	0x294fda7bba0	13	11	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	22	0x2949fc98bc8	0x294fda7bba0	14	11	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	22	0x2949fc98ff0	0x294fda7bba0	15	11	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	22	0x2949fc99418	0x294fda7bba0	16	11	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	22	0x2949fc99840	0x294fda7bba0	17	11	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	22	0x2949fc99c68	0x294fda7bba0	18	11	0	3	0	928	64861	660	0	0x294fd5d03c0	0x294fd5d03c0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	22	0x2949fc9a090	0x294fda7bba0	19	11	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	22	0x2949fc9a4b8	0x294fda7bba0	20	11	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	22	0x2949fc9a8e0	0x294fda7bba0	21	11	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	22	0x2949fc9ad08	0x294fda7bba0	22	11	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	22	0x2949fc9b130	0x294fda7bba0	23	11	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	22	0x2949fc9b558	0x294fda7bba0	24	11	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	22	0x2949fc9b980	0x294fda7bba0	25	11	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	22	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	22	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+30	22	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+31	22	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+32	22	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+33	22	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	22	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	22	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	22	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	22	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	22	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	22	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	22	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	23	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	23	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	23	0x2949fc95160	0x294fda7bba0	0	12	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	23	0x2949fc95588	0x294fda7bba0	1	12	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	23	0x2949fc959b0	0x294fda7bba0	2	12	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	23	0x2949fc95dd8	0x294fda7bba0	3	12	0	3	8	5120	40450	660	0	0x2949e021410	0x2949e021410	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	23	0x2949fc96200	0x294fda7bba0	4	12	0	3	0	13824	40450	660	0	0x2949e023610	0x2949e023610	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	23	0x2949fc96628	0x294fda7bba0	5	12	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	23	0x2949fc96a50	0x294fda7bba0	6	12	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	23	0x2949fc96e78	0x294fda7bba0	7	12	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	23	0x2949fc972a0	0x294fda7bba0	8	12	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	23	0x2949fc976c8	0x294fda7bba0	9	12	0	3	8	44960	64741	660	0	0x294fce5afc0	0x294fce5afc0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	23	0x2949fc97af0	0x294fda7bba0	10	12	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	23	0x2949fc97f18	0x294fda7bba0	11	12	0	3	8	16896	64741	660	0	0x294fce54220	0x294fce54220	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	23	0x2949fc98340	0x294fda7bba0	12	12	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	23	0x2949fc98768	0x294fda7bba0	13	12	0	3	8	4496	40450	660	0	0x2949e0211a0	0x2949e0211a0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	23	0x2949fc98b90	0x294fda7bba0	14	12	0	3	8	4464	40450	660	0	0x2949e021180	0x2949e021180	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	23	0x2949fc98fb8	0x294fda7bba0	15	12	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	23	0x2949fc993e0	0x294fda7bba0	16	12	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	23	0x2949fc99808	0x294fda7bba0	17	12	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	23	0x2949fc99c30	0x294fda7bba0	18	12	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	23	0x2949fc9a058	0x294fda7bba0	19	12	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	23	0x2949fc9a480	0x294fda7bba0	20	12	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	23	0x2949fc9a8a8	0x294fda7bba0	21	12	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	23	0x2949fc9acd0	0x294fda7bba0	22	12	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	23	0x2949fc9b0f8	0x294fda7bba0	23	12	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	23	0x2949fc9b520	0x294fda7bba0	24	12	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	23	0x2949fc9b948	0x294fda7bba0	25	12	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	23	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	23	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+30	23	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+31	23	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+32	23	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+33	23	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+34	23	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+35	23	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	23	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	23	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	23	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	23	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	23	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	24	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	24	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	24	0x2949fc95128	0x294fda7bba0	0	13	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	24	0x2949fc95550	0x294fda7bba0	1	13	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	24	0x2949fc95978	0x294fda7bba0	2	13	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	24	0x2949fc95da0	0x294fda7bba0	3	13	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	24	0x2949fc961c8	0x294fda7bba0	4	13	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	24	0x2949fc965f0	0x294fda7bba0	5	13	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	24	0x2949fc96a18	0x294fda7bba0	6	13	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	24	0x2949fc96e40	0x294fda7bba0	7	13	0	3	0	12208	40450	660	0	0x2949e022fc0	0x2949e022fc0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	24	0x2949fc97268	0x294fda7bba0	8	13	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	24	0x2949fc97690	0x294fda7bba0	9	13	0	3	8	8448	64741	660	0	0x294fce52120	0x294fce52120	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	24	0x2949fc97ab8	0x294fda7bba0	10	13	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	24	0x2949fc97ee0	0x294fda7bba0	11	13	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	24	0x2949fc98308	0x294fda7bba0	12	13	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	24	0x2949fc98730	0x294fda7bba0	13	13	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	24	0x2949fc98b58	0x294fda7bba0	14	13	0	3	8	5744	40450	660	0	0x2949e021680	0x2949e021680	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	24	0x2949fc98f80	0x294fda7bba0	15	13	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	24	0x2949fc993a8	0x294fda7bba0	16	13	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	24	0x2949fc997d0	0x294fda7bba0	17	13	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	24	0x2949fc99bf8	0x294fda7bba0	18	13	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	24	0x2949fc9a020	0x294fda7bba0	19	13	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	24	0x2949fc9a448	0x294fda7bba0	20	13	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	24	0x2949fc9a870	0x294fda7bba0	21	13	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	24	0x2949fc9ac98	0x294fda7bba0	22	13	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	24	0x2949fc9b0c0	0x294fda7bba0	23	13	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	24	0x2949fc9b4e8	0x294fda7bba0	24	13	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	24	0x2949fc9b910	0x294fda7bba0	25	13	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	24	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	24	0x29538236000	0x294fcdf30a0	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+30	24	0x29538235fc8	0x294fcdf30a0	1	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+31	24	0x29538235f90	0x294fcdf30a0	2	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+32	24	0x29538236150	0x294fcdf30a0	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+33	24	0x295382360a8	0x294fcdf30a0	1	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+34	24	0x29538236000	0x294fcdf30a0	2	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+35	24	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	24	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	24	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	24	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	24	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	24	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	25	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	25	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	25	0x2949fc950f0	0x294fda7bba0	0	14	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	25	0x2949fc95518	0x294fda7bba0	1	14	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	25	0x2949fc95940	0x294fda7bba0	2	14	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	25	0x2949fc95d68	0x294fda7bba0	3	14	0	3	8	27120	40450	660	0	0x2949e026a00	0x2949e026a00	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	25	0x2949fc96190	0x294fda7bba0	4	14	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	25	0x2949fc965b8	0x294fda7bba0	5	14	0	3	8	14288	40450	660	0	0x2949e0237e0	0x2949e0237e0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	25	0x2949fc969e0	0x294fda7bba0	6	14	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	25	0x2949fc96e08	0x294fda7bba0	7	14	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	25	0x2949fc97230	0x294fda7bba0	8	14	0	3	0	26368	40450	660	0	0x2949e026710	0x2949e026710	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	25	0x2949fc97658	0x294fda7bba0	9	14	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	25	0x2949fc97a80	0x294fda7bba0	10	14	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	25	0x2949fc97ea8	0x294fda7bba0	11	14	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	25	0x2949fc982d0	0x294fda7bba0	12	14	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	25	0x2949fc986f8	0x294fda7bba0	13	14	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	25	0x2949fc98b20	0x294fda7bba0	14	14	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	25	0x2949fc98f48	0x294fda7bba0	15	14	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	25	0x2949fc99370	0x294fda7bba0	16	14	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	25	0x2949fc99798	0x294fda7bba0	17	14	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	25	0x2949fc99bc0	0x294fda7bba0	18	14	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	25	0x2949fc99fe8	0x294fda7bba0	19	14	0	3	8	11088	40450	660	0	0x2949e022b60	0x2949e022b60	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	25	0x2949fc9a410	0x294fda7bba0	20	14	0	3	8	6224	40450	660	0	0x2949e021860	0x2949e021860	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	25	0x2949fc9a838	0x294fda7bba0	21	14	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	25	0x2949fc9ac60	0x294fda7bba0	22	14	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	25	0x2949fc9b088	0x294fda7bba0	23	14	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	25	0x2949fc9b4b0	0x294fda7bba0	24	14	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	25	0x2949fc9b8d8	0x294fda7bba0	25	14	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	25	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	25	0x295382360a8	0x294fcdf30a0	0	1	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+30	25	0x29538236070	0x294fcdf30a0	1	1	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+31	25	0x29538236038	0x294fcdf30a0	2	1	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+32	25	0x29538236118	0x294fcdf30a0	0	1	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+33	25	0x29538236070	0x294fcdf30a0	1	1	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+34	25	0x29538235fc8	0x294fcdf30a0	2	1	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+35	25	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	25	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	25	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	25	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	25	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	25	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	26	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	26	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	26	0x2949fc950b8	0x294fda7bba0	0	15	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	26	0x2949fc954e0	0x294fda7bba0	1	15	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	26	0x2949fc95908	0x294fda7bba0	2	15	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	26	0x2949fc95d30	0x294fda7bba0	3	15	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	26	0x2949fc96158	0x294fda7bba0	4	15	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	26	0x2949fc96580	0x294fda7bba0	5	15	0	3	8	26592	40450	660	0	0x2949e0267f0	0x2949e0267f0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	26	0x2949fc969a8	0x294fda7bba0	6	15	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	26	0x2949fc96dd0	0x294fda7bba0	7	15	0	3	0	14256	40450	660	0	0x2949e0237c0	0x2949e0237c0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	26	0x2949fc971f8	0x294fda7bba0	8	15	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	26	0x2949fc97620	0x294fda7bba0	9	15	0	3	0	11552	40450	660	0	0x2949e022d30	0x2949e022d30	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	26	0x2949fc97a48	0x294fda7bba0	10	15	0	3	0	6512	40450	660	0	0x2949e021980	0x2949e021980	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	26	0x2949fc97e70	0x294fda7bba0	11	15	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	26	0x2949fc98298	0x294fda7bba0	12	15	0	3	0	9888	40450	660	0	0x2949e0226b0	0x2949e0226b0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	26	0x2949fc986c0	0x294fda7bba0	13	15	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	26	0x2949fc98ae8	0x294fda7bba0	14	15	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	26	0x2949fc98f10	0x294fda7bba0	15	15	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	26	0x2949fc99338	0x294fda7bba0	16	15	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	26	0x2949fc99760	0x294fda7bba0	17	15	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	26	0x2949fc99b88	0x294fda7bba0	18	15	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	26	0x2949fc99fb0	0x294fda7bba0	19	15	0	3	8	9984	40450	660	0	0x2949e022710	0x2949e022710	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	26	0x2949fc9a3d8	0x294fda7bba0	20	15	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	26	0x2949fc9a800	0x294fda7bba0	21	15	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	26	0x2949fc9ac28	0x294fda7bba0	22	15	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	26	0x2949fc9b050	0x294fda7bba0	23	15	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	26	0x2949fc9b478	0x294fda7bba0	24	15	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	26	0x2949fc9b8a0	0x294fda7bba0	25	15	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	26	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+29	26	0x29538236150	0x294fcdf30a0	0	2	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+30	26	0x29538236118	0x294fcdf30a0	1	2	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+31	26	0x295382360e0	0x294fcdf30a0	2	2	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+32	26	0x295382360e0	0x294fcdf30a0	0	2	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+33	26	0x29538236038	0x294fcdf30a0	1	2	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+34	26	0x29538235f90	0x294fcdf30a0	2	2	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+35	26	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	26	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	26	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	26	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	26	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	26	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	27	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	27	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	27	0x2949fc95080	0x294fda7bba0	0	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	27	0x2949fc954a8	0x294fda7bba0	1	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	27	0x2949fc958d0	0x294fda7bba0	2	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	27	0x2949fc95cf8	0x294fda7bba0	3	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	27	0x2949fc96120	0x294fda7bba0	4	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	27	0x2949fc96548	0x294fda7bba0	5	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	27	0x2949fc96970	0x294fda7bba0	6	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	27	0x2949fc96d98	0x294fda7bba0	7	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	27	0x2949fc971c0	0x294fda7bba0	8	16	0	3	0	6096	40450	660	0	0x2949e0217e0	0x2949e0217e0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	27	0x2949fc975e8	0x294fda7bba0	9	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	27	0x2949fc97a10	0x294fda7bba0	10	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	27	0x2949fc97e38	0x294fda7bba0	11	16	0	3	0	24160	64741	660	0	0x294fce55e80	0x294fce55e80	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	27	0x2949fc98260	0x294fda7bba0	12	16	0	3	0	17632	64514	660	0	0x294fc024510	0x294fc024510	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	27	0x2949fc98688	0x294fda7bba0	13	16	0	3	0	10736	40450	660	0	0x2949e022a00	0x2949e022a00	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	27	0x2949fc98ab0	0x294fda7bba0	14	16	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	27	0x2949fc98ed8	0x294fda7bba0	15	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	27	0x2949fc99300	0x294fda7bba0	16	16	0	3	8	12128	40450	660	0	0x2949e022f70	0x2949e022f70	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	27	0x2949fc99728	0x294fda7bba0	17	16	0	3	8	24192	64741	660	0	0x294fce55ea0	0x294fce55ea0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	27	0x2949fc99b50	0x294fda7bba0	18	16	0	3	8	10064	40450	660	0	0x2949e022760	0x2949e022760	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	27	0x2949fc99f78	0x294fda7bba0	19	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	27	0x2949fc9a3a0	0x294fda7bba0	20	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	27	0x2949fc9a7c8	0x294fda7bba0	21	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	27	0x2949fc9abf0	0x294fda7bba0	22	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	27	0x2949fc9b018	0x294fda7bba0	23	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	27	0x2949fc9b440	0x294fda7bba0	24	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	27	0x2949fc9b868	0x294fda7bba0	25	16	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	27	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+29	27	0x29538235f90	0x294fcdf30a0	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+30	27	0x29538236038	0x294fcdf30a0	1	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+31	27	0x295382360e0	0x294fcdf30a0	2	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+32	27	0x295382360e0	0x294fcdf30a0	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+33	27	0x29538236038	0x294fcdf30a0	1	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+34	27	0x29538235f90	0x294fcdf30a0	2	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+35	27	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	27	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	27	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	27	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	27	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	27	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	28	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	28	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	28	0x2949fc95048	0x294fda7bba0	0	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	28	0x2949fc95470	0x294fda7bba0	1	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	28	0x2949fc95898	0x294fda7bba0	2	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	28	0x2949fc95cc0	0x294fda7bba0	3	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	28	0x2949fc960e8	0x294fda7bba0	4	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	28	0x2949fc96510	0x294fda7bba0	5	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	28	0x2949fc96938	0x294fda7bba0	6	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	28	0x2949fc96d60	0x294fda7bba0	7	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	28	0x2949fc97188	0x294fda7bba0	8	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	28	0x2949fc975b0	0x294fda7bba0	9	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	28	0x2949fc979d8	0x294fda7bba0	10	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	28	0x2949fc97e00	0x294fda7bba0	11	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	28	0x2949fc98228	0x294fda7bba0	12	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	28	0x2949fc98650	0x294fda7bba0	13	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	28	0x2949fc98a78	0x294fda7bba0	14	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	28	0x2949fc98ea0	0x294fda7bba0	15	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	28	0x2949fc992c8	0x294fda7bba0	16	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	28	0x2949fc996f0	0x294fda7bba0	17	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	28	0x2949fc99b18	0x294fda7bba0	18	17	0	3	8	4928	40450	660	0	0x2949e021350	0x2949e021350	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	28	0x2949fc99f40	0x294fda7bba0	19	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	28	0x2949fc9a368	0x294fda7bba0	20	17	0	3	8	6352	40450	660	0	0x2949e0218e0	0x2949e0218e0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	28	0x2949fc9a790	0x294fda7bba0	21	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	28	0x2949fc9abb8	0x294fda7bba0	22	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	28	0x2949fc9afe0	0x294fda7bba0	23	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	28	0x2949fc9b408	0x294fda7bba0	24	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	28	0x2949fc9b830	0x294fda7bba0	25	17	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	28	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+29	28	0x29538235fc8	0x294fcdf30a0	0	1	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+30	28	0x29538236070	0x294fcdf30a0	1	1	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+31	28	0x29538236118	0x294fcdf30a0	2	1	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+32	28	0x29538236118	0x294fcdf30a0	0	1	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+33	28	0x29538236070	0x294fcdf30a0	1	1	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+34	28	0x29538235fc8	0x294fcdf30a0	2	1	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+35	28	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	28	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	28	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	28	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	28	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	28	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	29	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	29	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	29	0x2949fc95010	0x294fda7bba0	0	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+3	29	0x2949fc95438	0x294fda7bba0	1	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+4	29	0x2949fc95860	0x294fda7bba0	2	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+5	29	0x2949fc95c88	0x294fda7bba0	3	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+6	29	0x2949fc960b0	0x294fda7bba0	4	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+7	29	0x2949fc964d8	0x294fda7bba0	5	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+8	29	0x2949fc96900	0x294fda7bba0	6	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+9	29	0x2949fc96d28	0x294fda7bba0	7	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+10	29	0x2949fc97150	0x294fda7bba0	8	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+11	29	0x2949fc97578	0x294fda7bba0	9	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+12	29	0x2949fc979a0	0x294fda7bba0	10	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+13	29	0x2949fc97dc8	0x294fda7bba0	11	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+14	29	0x2949fc981f0	0x294fda7bba0	12	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+15	29	0x2949fc98618	0x294fda7bba0	13	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+16	29	0x2949fc98a40	0x294fda7bba0	14	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+17	29	0x2949fc98e68	0x294fda7bba0	15	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+18	29	0x2949fc99290	0x294fda7bba0	16	18	0	3	8	6800	40450	660	0	0x2949e021aa0	0x2949e021aa0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+19	29	0x2949fc996b8	0x294fda7bba0	17	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+20	29	0x2949fc99ae0	0x294fda7bba0	18	18	0	3	0	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+21	29	0x2949fc99f08	0x294fda7bba0	19	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+22	29	0x2949fc9a330	0x294fda7bba0	20	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+23	29	0x2949fc9a758	0x294fda7bba0	21	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+24	29	0x2949fc9ab80	0x294fda7bba0	22	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+25	29	0x2949fc9afa8	0x294fda7bba0	23	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+26	29	0x2949fc9b3d0	0x294fda7bba0	24	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+27	29	0x2949fc9b7f8	0x294fda7bba0	25	18	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Special/Town/mountian_town_v01_01.tdt
+28	29	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+29	29	0x29538236000	0x294fcdf30a0	0	2	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+30	29	0x295382360a8	0x294fcdf30a0	1	2	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+31	29	0x29538236150	0x294fcdf30a0	2	2	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+32	29	0x29538236150	0x294fcdf30a0	0	2	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+33	29	0x295382360a8	0x294fcdf30a0	1	2	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+34	29	0x29538236000	0x294fcdf30a0	2	2	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/Skyfill/bellow_cliff_v02_01.tdt
+35	29	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	29	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	29	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	29	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	29	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	29	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+3	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+4	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+5	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+6	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+7	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+8	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+9	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+10	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+11	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+12	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+13	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+14	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+15	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+16	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+17	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+18	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+19	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+20	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+21	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+22	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+23	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+24	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+25	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+26	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+27	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+28	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+29	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+30	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+31	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+32	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+33	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+34	30	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+35	30	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	30	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	30	0x294fcc03e50	0x294fcdf3e20	0	0	48	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	30	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	30	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	30	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+3	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+4	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+5	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+6	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+7	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+8	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+9	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+10	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+11	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+12	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+13	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+14	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+15	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+16	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+17	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+18	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+19	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+20	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+21	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+22	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+23	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+24	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+25	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+26	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+27	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+28	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+29	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+30	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+31	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+32	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+33	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+34	31	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+35	31	0x294fcc03e50	0x294fcdf3e20	0	0	48	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	31	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	31	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	31	0x294fcc03e50	0x294fcdf3e20	0	0	48	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	31	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	31	0x294fcc03e50	0x294fcdf3e20	0	0	48	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+0	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+1	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+2	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+3	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+4	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+5	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+6	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+7	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+8	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+9	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+10	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+11	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+12	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+13	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+14	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+15	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+16	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+17	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+18	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+19	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+20	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+21	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+22	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+23	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+24	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+25	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+26	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+27	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+28	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+29	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+30	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+31	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+32	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+33	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+34	32	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	
+35	32	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+36	32	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+37	32	0x294fcc03e50	0x294fcdf3e20	0	0	48	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+38	32	0x294fcc03e50	0x294fcdf3e20	0	0	48	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+39	32	0x294fcc03e50	0x294fcdf3e20	0	0	48	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt
+40	32	0x294fcc03e50	0x294fcdf3e20	0	0	48	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Aqueduct/aqueduct_ground.tdt

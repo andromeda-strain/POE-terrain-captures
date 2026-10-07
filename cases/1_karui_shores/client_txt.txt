@@ -1,9 +1,8 @@
-2026/09/29 22:10:27 1238075328 1186a8a3 [DEBUG Client 12932] Generating level 69 area "2_11_endgame_town" with seed 1
-2026/09/29 22:10:27 1238075328 152491fa [WARN Client 12932] Could not find row for MeleeAttackActionClient skill..
-2026/09/29 22:10:30 1238078593 f22b6a02 [INFO Client 12932] Tile hash: 2815062652
-2026/09/29 22:10:30 1238078593 f22b6a0d [INFO Client 12932] Doodad hash: 42057352
-2026/09/29 22:10:30 1238078609 e001b752 [INFO Client 12932] [SCENE] Set Source [(null)]
-2026/09/29 22:10:30 1238078609 e001b752 [INFO Client 12932] [SCENE] Set Source [Karui Shores]
-2026/09/29 22:10:30 1238078656 df74e03b [DEBUG Client 12932] [SCENE] Static Walkability Texture: 621 x 414
-2026/09/29 22:10:31 1238079046 cffb065b [INFO Client 12932] : You have entered Karui Shores.
-2026/09/29 22:10:31 1238079375 a15e960c [INFO Client 12932] [LOADING SCREEN] (Karui Shores) Duration = 4.22129 seconds
+2026/10/05 17:21:28 265831718 1186a8a3 [DEBUG Client 11916] Generating level 60 area "HideoutCoral" with seed 1
+2026/10/05 17:21:32 265835343 f22b6a02 [INFO Client 11916] Tile hash: 805187908
+2026/10/05 17:21:32 265835343 f22b6a0d [INFO Client 11916] Doodad hash: 0
+2026/10/05 17:21:32 265835359 e001b752 [INFO Client 11916] [SCENE] Set Source [(null)]
+2026/10/05 17:21:32 265835359 e001b752 [INFO Client 11916] [SCENE] Set Source [Coral Hideout]
+2026/10/05 17:21:32 265835421 df74e03b [DEBUG Client 11916] [SCENE] Static Walkability Texture: 545 x 545
+2026/10/05 17:21:32 265835796 cffb065b [INFO Client 11916] : You have entered Coral Hideout.
+2026/10/05 17:21:33 265836187 a15e960c [INFO Client 11916] [LOADING SCREEN] (Coral Hideout) Duration = 4.59021 seconds

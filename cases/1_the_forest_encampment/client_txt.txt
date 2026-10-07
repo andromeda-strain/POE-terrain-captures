@@ -1,9 +1,9 @@
-2026/09/30 12:19:00 1288987984 1186a8a3 [DEBUG Client 30488] Generating level 23 area "1_2_town" with seed 1
-2026/09/30 12:19:00 1288988000 152491fa [WARN Client 30488] Could not find row for MeleeAttackActionClient skill..
-2026/09/30 12:19:01 1288989281 f22b6a02 [INFO Client 30488] Tile hash: 3884967862
-2026/09/30 12:19:01 1288989281 f22b6a0d [INFO Client 30488] Doodad hash: 3788077593
-2026/09/30 12:19:01 1288989296 e001b752 [INFO Client 30488] [SCENE] Set Source [(null)]
-2026/09/30 12:19:01 1288989296 e001b752 [INFO Client 30488] [SCENE] Set Source [The Forest Encampment]
-2026/09/30 12:19:01 1288989312 df74e03b [DEBUG Client 30488] [SCENE] Static Walkability Texture: 161 x 223
-2026/09/30 12:19:02 1288989671 cffb065b [INFO Client 30488] : You have entered The Forest Encampment.
-2026/09/30 12:19:02 1288989921 a15e960c [INFO Client 30488] [LOADING SCREEN] (The Forest Encampment) Duration = 2.06409 seconds
+2026/10/01 20:49:54 1406041171 1186a8a3 [DEBUG Client 27696] Generating level 23 area "1_2_town" with seed 1
+2026/10/01 20:49:54 1406041171 152491fa [WARN Client 27696] Could not find row for MeleeAttackActionClient skill..
+2026/10/01 20:49:54 1406041546 f22b6a02 [INFO Client 27696] Tile hash: 3884967862
+2026/10/01 20:49:54 1406041546 f22b6a0d [INFO Client 27696] Doodad hash: 3788077593
+2026/10/01 20:49:54 1406041562 e001b752 [INFO Client 27696] [SCENE] Set Source [(null)]
+2026/10/01 20:49:54 1406041562 e001b752 [INFO Client 27696] [SCENE] Set Source [The Forest Encampment]
+2026/10/01 20:49:54 1406041578 df74e03b [DEBUG Client 27696] [SCENE] Static Walkability Texture: 161 x 223
+2026/10/01 20:49:55 1406042328 cffb065b [INFO Client 27696] : You have entered The Forest Encampment.
+2026/10/01 20:49:55 1406042546 a15e960c [INFO Client 27696] [LOADING SCREEN] (The Forest Encampment) Duration = 1.53043 seconds

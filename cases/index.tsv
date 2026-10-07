@@ -149,3 +149,536 @@ seed	area	terrain	generator	capture	truth	tile_hash	truth_hash	verified	status
 1224335210	Plaza	-	dgr	captures/stages_20260930_203745.csv	captures/cases/1224335210_plaza/truth_4aeaa8333f0.tsv	2284832134	2284832134	yes	dungeon trace
 3088556257	Strange Sinkhole	-	dgr	captures/stages_20260930_210056.csv	captures/cases/3088556257_strange_sinkhole/truth_4aeab7f1bf0.tsv	4228456130	4228456130	yes	dungeon trace
 1224335210	Plaza	-	dgr	captures/stages_20260930_210209.csv	captures/cases/1224335210_plaza/truth_4ae652f63f0.tsv	2284832134	2284832134	yes	dungeon trace
+1	Highgate	-	?	captures/stages_20261001_100031.csv	-	3059197251	-	no	no stages
+1839010650	The Dried Lake	-	dgr	captures/stages_20261001_100724.csv	captures/cases/1839010650_the_dried_lake/truth_294988f43f0.tsv	4086432158	4086432158	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261001_100754.csv	captures/cases/1_highgate/truth_2950069a3f0.tsv	3059197251	3059197251	yes	dungeon trace
+1839010650	The Dried Lake	-	dgr	captures/stages_20261001_100800.csv	captures/cases/1839010650_the_dried_lake/truth_2954d711bf0.tsv	4086432158	4086432158	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261001_100939.csv	captures/cases/1_highgate/truth_295402733f0.tsv	3059197251	3059197251	yes	dungeon trace
+4089459784	The Dried Lake	-	dgr	captures/stages_20261001_101821.csv	captures/cases/4089459784_the_dried_lake/truth_294988fd3f0.tsv	3799672527	3799672527	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261001_102309.csv	captures/cases/1_highgate/truth_2954027f3f0.tsv	3059197251	3059197251	yes	dungeon trace
+1	Cartographer's Hideout	-	dgr	captures/stages_20261001_102501.csv	captures/cases/1_cartographer_s_hideout/truth_2954d71c3f0.tsv	3713433821	3713433821	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261001_102513.csv	captures/cases/1_coral_hideout/truth_295651823f0.tsv	805187908	805187908	yes	dungeon trace
+1	Cartographer's Hideout	-	dgr	captures/stages_20261001_102651.csv	captures/cases/1_cartographer_s_hideout/truth_294988f8bf0.tsv	3713433821	3713433821	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261001_102702.csv	captures/cases/1_coral_hideout/truth_2954d0a2bf0.tsv	805187908	805187908	yes	dungeon trace
+1	Cosmic Turtle Hideout	-	dgr	captures/stages_20261001_102802.csv	captures/cases/1_cosmic_turtle_hideout/truth_2950043c3f0.tsv	2300128614	2300128614	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261001_102822.csv	captures/cases/1_coral_hideout/truth_29565186bf0.tsv	805187908	805187908	yes	dungeon trace
+1	Desert Hideout	-	dgr	captures/stages_20261001_103139.csv	captures/cases/1_desert_hideout/truth_2954d0a43f0.tsv	3903144892	3903144892	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261001_103152.csv	captures/cases/1_coral_hideout/truth_2954d7193f0.tsv	805187908	805187908	yes	dungeon trace
+1	Skeletal Hideout	-	dgr	captures/stages_20261001_103205.csv	captures/cases/1_skeletal_hideout/truth_294f78e7bf0.tsv	3427174740	3427174740	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261001_103221.csv	captures/cases/1_coral_hideout/truth_2954d71c3f0.tsv	805187908	805187908	yes	dungeon trace
+271424479	The Dried Lake	-	dgr	captures/stages_20261001_103944.csv	captures/cases/271424479_the_dried_lake/truth_2950069bbf0.tsv	3650255859	3650255859	yes	dungeon trace
+1910660251	The Mines Level 1	-	dgr	captures/stages_20261001_111510.csv	captures/cases/1910660251_the_mines_level_1/truth_2954d0abbf0.tsv	4150859652	4150859652	yes	dungeon trace
+2405821288	The Mines Level 2	-	dgr	captures/stages_20261001_112010.csv	captures/cases/2405821288_the_mines_level_2/truth_2954027c3f0.tsv	1605729696	1605729696	yes	dungeon trace
+3347084340	The Crystal Veins	-	dgr	captures/stages_20261001_112547.csv	captures/cases/3347084340_the_crystal_veins/truth_294988f5bf0.tsv	389407264	389407264	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261001_112853.csv	captures/cases/1_the_sarn_encampment/truth_29565186bf0.tsv	1244512620	1244512620	yes	dungeon trace
+2850793387	Aspirants' Plaza	-	dgr	captures/stages_20261001_112903.csv	captures/cases/2850793387_aspirants_plaza/truth_2954121cbf0.tsv	349488689	349488689	yes	dungeon trace
+2533087454	Estate Path	-	dgr	captures/stages_20261001_112931.csv	captures/cases/2533087454_estate_path/truth_29540271bf0.tsv	2495292827	2495292827	yes	dungeon trace
+1334335857	Aspirant's Trial	-	dgr	captures/stages_20261001_113119.csv	captures/cases/1334335857_aspirant_s_trial/truth_294f78edbf0.tsv	750211733	750211733	yes	dungeon trace
+3842264324	Basilica Halls	-	dgr	captures/stages_20261001_113240.csv	captures/cases/3842264324_basilica_halls/truth_2954d0a43f0.tsv	2053571771	2053571771	yes	dungeon trace
+446294120	Aspirant's Trial	-	dgr	captures/stages_20261001_113430.csv	captures/cases/446294120_aspirant_s_trial/truth_294f78ec3f0.tsv	3472233919	3472233919	yes	dungeon trace
+909720328	Mansion Halls	-	dgr	captures/stages_20261001_113549.csv	captures/cases/909720328_mansion_halls/truth_294988f13f0.tsv	15549283	15549283	yes	dungeon trace
+2172888983	Estate Crossing	-	dgr	captures/stages_20261001_113821.csv	captures/cases/2172888983_estate_crossing/truth_2950069ebf0.tsv	2091862474	2091862474	yes	dungeon trace
+3970501215	Aspirant's Trial	-	dgr	captures/stages_20261001_113948.csv	captures/cases/3970501215_aspirant_s_trial/truth_295412153f0.tsv	3555777409	3555777409	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261001_114314.csv	captures/cases/1_the_sarn_encampment/truth_2954121cbf0.tsv	1244512620	1244512620	yes	dungeon trace
+634165571	The Crystal Veins	-	dgr	captures/stages_20261001_114336.csv	captures/cases/634165571_the_crystal_veins/truth_2950069ebf0.tsv	2177833885	2177833885	yes	dungeon trace
+4021489705	Kaom's Dream	act4/area4level1/	tgr	captures/stages_20261001_114349.csv	captures/cases/4021489705_kaom_s_dream/truth_294989d23f0.tsv	3075838719	3075838719	yes	generator failed
+808855001	Kaom's Stronghold	act4/area4level3/	tgr	captures/stages_20261001_114902.csv	captures/cases/808855001_kaom_s_stronghold/truth_295006973f0.tsv	3087778686	3087778686	yes	generator failed
+1	Highgate	-	dgr	captures/stages_20261001_120515.csv	captures/cases/1_highgate/truth_2954d0a8bf0.tsv	3059197251	3059197251	yes	dungeon trace
+3037135357	The Crystal Veins	-	dgr	captures/stages_20261001_120533.csv	captures/cases/3037135357_the_crystal_veins/truth_2954d9113f0.tsv	2211240638	2211240638	yes	dungeon trace
+3742948269	Daresso's Dream	-	dgr	captures/stages_20261001_120548.csv	captures/cases/3742948269_daresso_s_dream/truth_2954d918bf0.tsv	4073996085	4073996085	yes	dungeon trace
+1868260667	The Grand Arena	-	dgr	captures/stages_20261001_121054.csv	captures/cases/1868260667_the_grand_arena/truth_2954d0abbf0.tsv	1198174165	1198174165	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261001_121742.csv	captures/cases/1_highgate/truth_294989d0bf0.tsv	3059197251	3059197251	yes	dungeon trace
+800997670	The Crystal Veins	-	dgr	captures/stages_20261001_122034.csv	captures/cases/800997670_the_crystal_veins/truth_2954d0a8bf0.tsv	2351249093	2351249093	yes	dungeon trace
+3050197844	The Belly of the Beast Level 1	-	dgr	captures/stages_20261001_122056.csv	captures/cases/3050197844_the_belly_of_the_beast_level_1/truth_295006973f0.tsv	158355008	158355008	yes	dungeon trace
+1573602159	The Crystal Veins	-	dgr	captures/stages_20261001_133019.csv	captures/cases/1573602159_the_crystal_veins/truth_2956518cbf0.tsv	4155931109	4155931109	yes	dungeon trace
+1464712583	The Belly of the Beast Level 1	-	dgr	captures/stages_20261001_133040.csv	captures/cases/1464712583_the_belly_of_the_beast_level_1/truth_29541210bf0.tsv	3306318637	3306318637	yes	dungeon trace
+880066129	The Belly of the Beast Level 2	-	dgr	captures/stages_20261001_133640.csv	captures/cases/880066129_the_belly_of_the_beast_level_2/truth_294988fd3f0.tsv	605931699	605931699	yes	dungeon trace
+1250879645	The Harvest	-	dgr	captures/stages_20261001_134236.csv	captures/cases/1250879645_the_harvest/truth_294f66d5bf0.tsv	2544826441	2544826441	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261001_135646.csv	captures/cases/1_highgate/truth_294988f5bf0.tsv	3059197251	3059197251	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261001_135909.csv	captures/cases/1_highgate/truth_294f78e7bf0.tsv	3059197251	3059197251	yes	dungeon trace
+3441163522	The Aqueduct	-	dgr	captures/stages_20261001_135859.csv	captures/cases/3441163522_the_aqueduct/truth_2954d0a43f0.tsv	1557957727	1557957727	yes	dungeon trace
+1853619251	The Ascent	act4/area7/	tgr	captures/stages_20261001_135935.csv	captures/cases/1853619251_the_ascent/truth_2954d0a13f0.tsv	1533087404	1533087404	yes	generator failed
+3795107622	The Slave Pens	-	dgr	captures/stages_20261001_140538.csv	captures/cases/3795107622_the_slave_pens/truth_295402733f0.tsv	3199277502	3199277502	yes	dungeon trace
+1	Overseer's Tower	-	dgr	captures/stages_20261001_140943.csv	captures/cases/1_overseer_s_tower/truth_2954d0aa3f0.tsv	705703268	705703268	yes	dungeon trace
+3553902466	The Control Blocks	-	dgr	captures/stages_20261001_141023.csv	captures/cases/3553902466_the_control_blocks/truth_295412153f0.tsv	1651264513	1651264513	yes	dungeon trace
+1	The Sarn Encampment	-	?	captures/stages_20261001_143635.csv	-	1244512620	-	no	no stages
+2584021816	Aspirants' Plaza	-	dgr	captures/stages_20261001_143743.csv	captures/cases/2584021816_aspirants_plaza/truth_295651853f0.tsv	1551230963	1551230963	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261001_145812.csv	captures/cases/1_coral_hideout/truth_294f78e93f0.tsv	805187908	805187908	yes	dungeon trace
+1	Overseer's Tower	-	dgr	captures/stages_20261001_145822.csv	captures/cases/1_overseer_s_tower/truth_29540b6ebf0.tsv	705703268	705703268	yes	dungeon trace
+1697191265	The Control Blocks	-	dgr	captures/stages_20261001_145829.csv	captures/cases/1697191265_the_control_blocks/truth_2950069d3f0.tsv	3823909229	3823909229	yes	dungeon trace
+3578756518	The Twilight Strand	-	?	captures/stages_20261001_151901.csv	-	2955176731	-	no	no stages
+1	Lioneye's Watch	-	dgr	captures/stages_20261001_152212.csv	captures/cases/1_lioneye_s_watch/truth_315e98a33f0.tsv	1139181677	1139181677	yes	dungeon trace
+4248805045	The Submerged Passage	-	dgr	captures/stages_20261001_161759.csv	captures/cases/4248805045_the_submerged_passage/truth_3dba42463f0.tsv	3821526790	3821526790	yes	dungeon trace
+1309195284	The Flooded Depths	-	dgr	captures/stages_20261001_161913.csv	captures/cases/1309195284_the_flooded_depths/truth_3dba001dbf0.tsv	573429291	573429291	yes	dungeon trace
+4248805045	The Submerged Passage	-	dgr	captures/stages_20261001_162303.csv	captures/cases/4248805045_the_submerged_passage/truth_3db55044bf0.tsv	3821526790	3821526790	yes	dungeon trace
+556721298	The Ledge	act1/area5/	tgr	captures/stages_20261001_162529.csv	captures/cases/556721298_the_ledge/truth_3db4e6773f0.tsv	216717887	216717887	yes	generator failed
+1800507917	The Climb	act1/area6/	tgr	captures/stages_20261001_163028.csv	captures/cases/1800507917_the_climb/truth_3db55044bf0.tsv	2341871594	2341871594	yes	generator failed
+1	Coral Hideout	-	dgr	captures/stages_20261001_163334.csv	captures/cases/1_coral_hideout/truth_3db4e6323f0.tsv	805187908	805187908	yes	dungeon trace
+1	Celestial Hideout	-	dgr	captures/stages_20261001_163628.csv	captures/cases/1_celestial_hideout/truth_3dba1c04bf0.tsv	3478684984	3478684984	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261001_163651.csv	captures/cases/1_coral_hideout/truth_3dba1361bf0.tsv	805187908	805187908	yes	dungeon trace
+1	Backstreet Hideout	-	dgr	captures/stages_20261001_163718.csv	captures/cases/1_backstreet_hideout/truth_3dba13693f0.tsv	2407509049	2407509049	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261001_163732.csv	captures/cases/1_coral_hideout/truth_3db4f9febf0.tsv	805187908	805187908	yes	dungeon trace
+2130982566	The Climb	act1/area6/	tgr	captures/stages_20261001_165639.csv	captures/cases/2130982566_the_climb/truth_3db4e67ebf0.tsv	806503697	806503697	yes	generator failed
+3284226330	The Lower Prison	-	dgr	captures/stages_20261001_170235.csv	captures/cases/3284226330_the_lower_prison/truth_3db54e6f3f0.tsv	1192538762	1192538762	yes	dungeon trace
+2251881681	The Upper Prison	-	dgr	captures/stages_20261001_170938.csv	captures/cases/2251881681_the_upper_prison/truth_3db4f9f2bf0.tsv	2204444027	2204444027	yes	dungeon trace
+1068567250	Monastery of the Keepers	-	dgr	captures/stages_20261001_171522.csv	captures/cases/1068567250_monastery_of_the_keepers/truth_3db4f9f43f0.tsv	739522572	739522572	yes	dungeon trace
+1475174401	Prisoner's Gate	act1/area8/	tgr	captures/stages_20261001_171513.csv	captures/cases/1475174401_prisoner_s_gate/truth_3db54e6f3f0.tsv	1086046921	1086046921	yes	generator failed
+1475174401	Prisoner's Gate	act1/area8/	tgr	captures/stages_20261001_171528.csv	captures/cases/1475174401_prisoner_s_gate/truth_3db54e67bf0.tsv	1086046921	1086046921	yes	generator failed
+2683172332	The Ship Graveyard	leagues/deepwater/act1_shipgraveyard/	tgr	captures/stages_20261001_171935.csv	captures/cases/2683172332_the_ship_graveyard/truth_3db4f9fbbf0.tsv	694397120	694397120	yes	generator failed
+2625967781	The Cavern of Wrath	-	dgr	captures/stages_20261001_172323.csv	captures/cases/2625967781_the_cavern_of_wrath/truth_3db4e6323f0.tsv	4016286671	4016286671	yes	dungeon trace
+1891345365	The Cavern of Anger	-	dgr	captures/stages_20261001_173503.csv	captures/cases/1891345365_the_cavern_of_anger/truth_3dba40cdbf0.tsv	449445949	449445949	yes	dungeon trace
+2479631266	The Southern Forest	act2/area1/	tgr	captures/stages_20261001_174215.csv	captures/cases/2479631266_the_southern_forest/truth_3dba136c3f0.tsv	3716329429	3716329429	yes	generator failed
+1	The Forest Encampment	-	dgr	captures/stages_20261001_174443.csv	captures/cases/1_the_forest_encampment/truth_3dba42433f0.tsv	3884967862	3884967862	yes	dungeon trace
+947348485	The Old Fields	act2/area2/	tgr	captures/stages_20261001_174638.csv	captures/cases/947348485_the_old_fields/truth_3dba40c33f0.tsv	229464661	229464661	yes	DIFF
+1018383981	The Crossroads	act2/area3/	tgr	captures/stages_20261001_174944.csv	captures/cases/1018383981_the_crossroads/truth_3db4e63b3f0.tsv	2003188477	2003188477	yes	generator failed
+3113180255	The Broken Bridge	act2/area4/	tgr	captures/stages_20261001_175025.csv	captures/cases/3113180255_the_broken_bridge/truth_3db54e633f0.tsv	1347971609	1347971609	yes	generator failed
+1018383981	The Crossroads	act2/area3/	tgr	captures/stages_20261001_175357.csv	captures/cases/1018383981_the_crossroads/truth_3db4e63e3f0.tsv	2003188477	2003188477	yes	generator failed
+4044540761	The Fellshrine Ruins	act2/area15/	tgr	captures/stages_20261001_175446.csv	captures/cases/4044540761_the_fellshrine_ruins/truth_3db54e64bf0.tsv	691804038	691804038	yes	DIFF
+2530695710	The Crypt Level 1	-	dgr	captures/stages_20261001_175721.csv	captures/cases/2530695710_the_crypt_level_1/truth_3dba40c7bf0.tsv	2263762444	2263762444	yes	dungeon trace
+968431668	The Crypt Level 2	-	dgr	captures/stages_20261001_175923.csv	captures/cases/968431668_the_crypt_level_2/truth_3dba136c3f0.tsv	2499091845	2499091845	yes	dungeon trace
+1	The Forest Encampment	-	dgr	captures/stages_20261001_180321.csv	captures/cases/1_the_forest_encampment/truth_3db4e6323f0.tsv	3884967862	3884967862	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261001_180356.csv	captures/cases/1_coral_hideout/truth_3daee9c23f0.tsv	805187908	805187908	yes	dungeon trace
+1018383981	The Crossroads	act2/area3/	tgr	captures/stages_20261001_180759.csv	captures/cases/1018383981_the_crossroads/truth_3dbc1ed8bf0.tsv	2003188477	2003188477	yes	generator failed
+4191653966	The Chamber of Sins Level 1	-	dgr	captures/stages_20261001_180832.csv	captures/cases/4191653966_the_chamber_of_sins_level_1/truth_3dbc1ff8bf0.tsv	1642318018	1642318018	yes	dungeon trace
+1	The Forest Encampment	-	dgr	captures/stages_20261001_180903.csv	captures/cases/1_the_forest_encampment/truth_3db4f9f8bf0.tsv	3884967862	3884967862	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261001_180913.csv	captures/cases/1_coral_hideout/truth_3dba13663f0.tsv	805187908	805187908	yes	dungeon trace
+1	The Forest Encampment	-	dgr	captures/stages_20261001_181501.csv	captures/cases/1_the_forest_encampment/truth_3db55044bf0.tsv	3884967862	3884967862	yes	dungeon trace
+4191653966	The Chamber of Sins Level 1	-	dgr	captures/stages_20261001_181642.csv	captures/cases/4191653966_the_chamber_of_sins_level_1/truth_3dbc1ff73f0.tsv	1642318018	1642318018	yes	dungeon trace
+283554011	The Chamber of Sins Level 2	-	dgr	captures/stages_20261001_182148.csv	captures/cases/283554011_the_chamber_of_sins_level_2/truth_3db4e6383f0.tsv	2748572369	2748572369	yes	dungeon trace
+1	The Forest Encampment	-	dgr	captures/stages_20261001_182750.csv	captures/cases/1_the_forest_encampment/truth_3dbc1d37bf0.tsv	3884967862	3884967862	yes	dungeon trace
+2226661651	The Old Fields	act2/area2/	tgr	captures/stages_20261001_182930.csv	captures/cases/2226661651_the_old_fields/truth_3dba40cabf0.tsv	4031710147	4031710147	yes	DIFF
+774439067	The Den	-	dgr	captures/stages_20261001_183159.csv	captures/cases/774439067_the_den/truth_3dba40c63f0.tsv	2825555511	2825555511	yes	dungeon trace
+2226661651	The Old Fields	act2/area2/	tgr	captures/stages_20261001_183354.csv	captures/cases/2226661651_the_old_fields/truth_3dba40c33f0.tsv	4031710147	4031710147	yes	DIFF
+1	The Forest Encampment	-	dgr	captures/stages_20261001_183420.csv	captures/cases/1_the_forest_encampment/truth_3db4e630bf0.tsv	3884967862	3884967862	yes	dungeon trace
+1008253913	The Riverways	act2/area7/	tgr	captures/stages_20261001_183611.csv	captures/cases/1008253913_the_riverways/truth_3dba0a993f0.tsv	1355430214	1355430214	yes	generator failed
+1594771754	The Western Forest	act2/area9/	tgr	captures/stages_20261001_184121.csv	captures/cases/1594771754_the_western_forest/truth_3dbc0f18bf0.tsv	3174309766	3174309766	yes	DIFF
+514194972	The Weaver's Chambers	-	dgr	captures/stages_20261001_184747.csv	captures/cases/514194972_the_weaver_s_chambers/truth_3dbc1d31bf0.tsv	114173358	114173358	yes	dungeon trace
+1594771754	The Western Forest	act2/area9/	tgr	captures/stages_20261001_185224.csv	captures/cases/1594771754_the_western_forest/truth_3dba1364bf0.tsv	3174309766	3174309766	yes	DIFF
+2922025329	The Riverways	act2/area7/	tgr	captures/stages_20261001_185345.csv	captures/cases/2922025329_the_riverways/truth_3dbc1d333f0.tsv	1223104191	1223104191	yes	generator failed
+2797004204	The Wetlands	act2/area12/	tgr	captures/stages_20261001_185406.csv	captures/cases/2797004204_the_wetlands/truth_3dba11c9bf0.tsv	2557214493	2557214493	yes	generator failed
+1	The Forest Encampment	-	dgr	captures/stages_20261001_202913.csv	captures/cases/1_the_forest_encampment/truth_3dba11ccbf0.tsv	3884967862	3884967862	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261001_202936.csv	captures/cases/1_coral_hideout/truth_3dba0a933f0.tsv	805187908	805187908	yes	dungeon trace
+1	The Forest Encampment	-	dgr	captures/stages_20261001_203438.csv	captures/cases/1_the_forest_encampment/truth_3dba0a9f3f0.tsv	3884967862	3884967862	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261001_203603.csv	captures/cases/1_coral_hideout/truth_3dba0a963f0.tsv	805187908	805187908	yes	dungeon trace
+1	Luxurious Hideout	-	dgr	captures/stages_20261001_203634.csv	captures/cases/1_luxurious_hideout/truth_3db54e6dbf0.tsv	3779661124	3779661124	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261001_203708.csv	captures/cases/1_coral_hideout/truth_3dba40c33f0.tsv	805187908	805187908	yes	dungeon trace
+1519000875	The Riverways	act2/area7/	tgr	captures/stages_20261001_203850.csv	captures/cases/1519000875_the_riverways/truth_3dba0a9f3f0.tsv	736978362	736978362	yes	generator failed
+2797004204	The Wetlands	act2/area12/	tgr	captures/stages_20261001_204052.csv	captures/cases/2797004204_the_wetlands/truth_3dbb453abf0.tsv	2557214493	2557214493	yes	generator failed
+1	Coral Hideout	-	dgr	captures/stages_20261001_204226.csv	captures/cases/1_coral_hideout/truth_3db54e64bf0.tsv	805187908	805187908	yes	dungeon trace
+3276846349	The Sovereign	-	dgr	captures/stages_20261001_204324.csv	captures/cases/3276846349_the_sovereign/truth_3db54e693f0.tsv	1739673554	1739673554	yes	dungeon trace
+1	Lioneye's Watch	-	dgr	captures/stages_20261001_204418.csv	captures/cases/1_lioneye_s_watch/truth_3dba11c23f0.tsv	1139181677	1139181677	yes	dungeon trace
+1	The Forest Encampment	-	dgr	captures/stages_20261001_204953.csv	captures/cases/1_the_forest_encampment/truth_3dbc0f173f0.tsv	3884967862	3884967862	yes	dungeon trace
+2797004204	The Wetlands	act2/area12/	tgr	captures/stages_20261001_205012.csv	captures/cases/2797004204_the_wetlands/truth_3dbc1d34bf0.tsv	2557214493	2557214493	yes	generator failed
+2385204892	The Vaal Ruins	-	dgr	captures/stages_20261001_205018.csv	captures/cases/2385204892_the_vaal_ruins/truth_3db4f9f43f0.tsv	4064405383	4064405383	yes	dungeon trace
+3907043827	The Northern Forest	act2/area8/	tgr	captures/stages_20261001_210122.csv	captures/cases/3907043827_the_northern_forest/truth_3dba42493f0.tsv	2807117195	2807117195	yes	generator failed
+2501019992	The Dread Thicket	-	dgr	captures/stages_20261001_210233.csv	captures/cases/2501019992_the_dread_thicket/truth_3dbc0f18bf0.tsv	4035435092	4035435092	yes	dungeon trace
+3907043827	The Northern Forest	act2/area8/	tgr	captures/stages_20261001_210854.csv	captures/cases/3907043827_the_northern_forest/truth_3dba16843f0.tsv	2807117195	2807117195	yes	generator failed
+3420277925	The Caverns	-	dgr	captures/stages_20261001_211329.csv	captures/cases/3420277925_the_caverns/truth_3db54e663f0.tsv	2199474282	2199474282	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261001_211619.csv	captures/cases/1_coral_hideout/truth_3dba11c53f0.tsv	805187908	805187908	yes	dungeon trace
+3420277925	The Caverns	-	dgr	captures/stages_20261001_211704.csv	captures/cases/3420277925_the_caverns/truth_3dbc0f1ebf0.tsv	2199474282	2199474282	yes	dungeon trace
+2286220489	The Ancient Pyramid	-	dgr	captures/stages_20261001_212016.csv	captures/cases/2286220489_the_ancient_pyramid/truth_3dba1682bf0.tsv	4066457169	4066457169	yes	dungeon trace
+2166854683	The City of Sarn	act3/area1/	tgr	captures/stages_20261001_212519.csv	captures/cases/2166854683_the_city_of_sarn/truth_3db4f9fbbf0.tsv	592359497	592359497	yes	generator failed
+1	The Sarn Encampment	-	dgr	captures/stages_20261001_212728.csv	captures/cases/1_the_sarn_encampment/truth_3dba11c3bf0.tsv	1244512620	1244512620	yes	dungeon trace
+4131175462	The Slums	-	dgr	captures/stages_20261001_213619.csv	captures/cases/4131175462_the_slums/truth_3db4e672bf0.tsv	2488184710	2488184710	yes	dungeon trace
+936822562	The Crematorium	-	dgr	captures/stages_20261001_213834.csv	captures/cases/936822562_the_crematorium/truth_3dba1685bf0.tsv	2148918050	2148918050	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261001_214303.csv	captures/cases/1_the_sarn_encampment/truth_3db54e693f0.tsv	1244512620	1244512620	yes	dungeon trace
+4131175462	The Slums	-	dgr	captures/stages_20261001_214434.csv	captures/cases/4131175462_the_slums/truth_3dba4244bf0.tsv	2488184710	2488184710	yes	dungeon trace
+2897425878	The Sewers	-	dgr	captures/stages_20261001_214520.csv	captures/cases/2897425878_the_sewers/truth_3dba1685bf0.tsv	3608206696	3608206696	yes	dungeon trace
+2536577949	The Marketplace	-	dgr	captures/stages_20261001_214747.csv	captures/cases/2536577949_the_marketplace/truth_3dba16813f0.tsv	3095624708	3095624708	yes	dungeon trace
+2897425878	The Sewers	-	dgr	captures/stages_20261001_214939.csv	captures/cases/2897425878_the_sewers/truth_3dbc0f173f0.tsv	3608206696	3608206696	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261001_215340.csv	captures/cases/1_the_sarn_encampment/truth_3dbc0f113f0.tsv	1244512620	1244512620	yes	dungeon trace
+2536577949	The Marketplace	-	?	captures/stages_20261001_215551.csv	-	3095624708	-	no	no stages
+2402341252	The Battlefront	-	dgr	captures/stages_20261001_215743.csv	captures/cases/2402341252_the_battlefront/truth_3dba136c3f0.tsv	4196015547	4196015547	yes	dungeon trace
+3273436718	The Solaris Temple Level 1	-	dgr	captures/stages_20261001_220040.csv	captures/cases/3273436718_the_solaris_temple_level_1/truth_3dbc0f1ebf0.tsv	1224538654	1224538654	yes	dungeon trace
+1706325493	The Solaris Temple Level 2	-	dgr	captures/stages_20261001_220322.csv	captures/cases/1706325493_the_solaris_temple_level_2/truth_3db55041bf0.tsv	3273443509	3273443509	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261001_220529.csv	captures/cases/1_the_sarn_encampment/truth_3dba11ccbf0.tsv	1244512620	1244512620	yes	dungeon trace
+2253563939	The Marketplace	-	dgr	captures/stages_20261002_093345.csv	captures/cases/2253563939_the_marketplace/truth_4ecb2188bf0.tsv	4126215522	4126215522	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261002_093854.csv	captures/cases/1_coral_hideout/truth_4ec625583f0.tsv	805187908	805187908	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261002_095134.csv	captures/cases/1_coral_hideout/truth_4eccc4b9bf0.tsv	805187908	805187908	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261002_095153.csv	captures/cases/1_coral_hideout/truth_4ecb218bbf0.tsv	805187908	805187908	yes	dungeon trace
+3639631365	The Marketplace	-	dgr	captures/stages_20261002_095850.csv	captures/cases/3639631365_the_marketplace/truth_4ecca01abf0.tsv	3701885475	3701885475	yes	dungeon trace
+1712038915	The Catacombs	-	dgr	captures/stages_20261002_095907.csv	captures/cases/1712038915_the_catacombs/truth_4eccf0aebf0.tsv	41140647	41140647	yes	dungeon trace
+3639631365	The Marketplace	-	dgr	captures/stages_20261002_100627.csv	captures/cases/3639631365_the_marketplace/truth_4ecca01c3f0.tsv	3701885475	3701885475	yes	dungeon trace
+3062702846	The Battlefront	-	dgr	captures/stages_20261002_100911.csv	captures/cases/3062702846_the_battlefront/truth_4ecb3a9e3f0.tsv	1003604186	1003604186	yes	dungeon trace
+3364277146	The Docks	-	dgr	captures/stages_20261002_101133.csv	captures/cases/3364277146_the_docks/truth_4ec63c473f0.tsv	791632261	791632261	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261002_101659.csv	captures/cases/1_the_sarn_encampment/truth_4ecca014bf0.tsv	1244512620	1244512620	yes	dungeon trace
+3089773424	The Sovereign	-	dgr	captures/stages_20261002_101704.csv	captures/cases/3089773424_the_sovereign/truth_4eccc4b53f0.tsv	2273790087	2273790087	yes	dungeon trace
+1555985664	The Solaris Temple Level 2	-	dgr	captures/stages_20261002_101823.csv	captures/cases/1555985664_the_solaris_temple_level_2/truth_4ecabf27bf0.tsv	559975316	559975316	yes	dungeon trace
+3203442564	The Sewers	-	dgr	captures/stages_20261002_101850.csv	captures/cases/3203442564_the_sewers/truth_4ec6255cbf0.tsv	568037625	568037625	yes	dungeon trace
+2855540965	The Ebony Barracks	-	dgr	captures/stages_20261002_102623.csv	captures/cases/2855540965_the_ebony_barracks/truth_4ecca01dbf0.tsv	2512417395	2512417395	yes	dungeon trace
+1571611194	The Lunaris Temple Level 1	-	dgr	captures/stages_20261002_102741.csv	captures/cases/1571611194_the_lunaris_temple_level_1/truth_4ecabf27bf0.tsv	446747484	446747484	yes	dungeon trace
+3858230140	The Lunaris Temple Level 2	-	dgr	captures/stages_20261002_102929.csv	captures/cases/3858230140_the_lunaris_temple_level_2/truth_4ec625523f0.tsv	477534427	477534427	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261002_105949.csv	captures/cases/1_the_sarn_encampment/truth_4ecb218d3f0.tsv	1244512620	1244512620	yes	dungeon trace
+2351266055	The Lunaris Temple Level 1	-	dgr	captures/stages_20261002_111427.csv	captures/cases/2351266055_the_lunaris_temple_level_1/truth_4d27d62abf0.tsv	3251821080	3251821080	yes	dungeon trace
+1144347631	The Ebony Barracks	-	dgr	captures/stages_20261002_111451.csv	captures/cases/1144347631_the_ebony_barracks/truth_4d23addebf0.tsv	2879092417	2879092417	yes	dungeon trace
+1067921378	The Imperial Gardens	-	dgr	captures/stages_20261002_111532.csv	captures/cases/1067921378_the_imperial_gardens/truth_4d24b9df3f0.tsv	1447338577	1447338577	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261002_132356.csv	captures/cases/1_the_sarn_encampment/truth_4d24b9ddbf0.tsv	1244512620	1244512620	yes	dungeon trace
+623609042	The Imperial Gardens	-	dgr	captures/stages_20261002_132417.csv	captures/cases/623609042_the_imperial_gardens/truth_4d27d33e3f0.tsv	3371348297	3371348297	yes	dungeon trace
+2335162514	The Sceptre of God	-	dgr	captures/stages_20261002_133316.csv	captures/cases/2335162514_the_sceptre_of_god/truth_4d24bb06bf0.tsv	2116269406	2116269406	yes	dungeon trace
+2000054802	The Upper Sceptre of God	-	dgr	captures/stages_20261002_133524.csv	captures/cases/2000054802_the_upper_sceptre_of_god/truth_4d24b9ddbf0.tsv	4220530291	4220530291	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261002_134126.csv	captures/cases/1_the_sarn_encampment/truth_4d27d624bf0.tsv	1244512620	1244512620	yes	dungeon trace
+2037400561	The Aqueduct	-	dgr	captures/stages_20261002_134110.csv	captures/cases/2037400561_the_aqueduct/truth_4d233c9ebf0.tsv	1761958165	1761958165	yes	dungeon trace
+4172490063	The Docks	-	dgr	captures/stages_20261002_134213.csv	captures/cases/4172490063_the_docks/truth_4d23b087bf0.tsv	4015351991	4015351991	yes	dungeon trace
+2037400561	The Aqueduct	-	dgr	captures/stages_20261002_134305.csv	captures/cases/2037400561_the_aqueduct/truth_4d27c80a3f0.tsv	1761958165	1761958165	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261002_134602.csv	captures/cases/1_highgate/truth_4d23b08abf0.tsv	3059197251	3059197251	yes	dungeon trace
+1266525413	The Dried Lake	-	dgr	captures/stages_20261002_134646.csv	captures/cases/1266525413_the_dried_lake/truth_4d27cb223f0.tsv	2117403902	2117403902	yes	dungeon trace
+1149825838	Abandoned Dam	-	dgr	captures/stages_20261002_135128.csv	captures/cases/1149825838_abandoned_dam/truth_4d27d9e33f0.tsv	4240077958	4240077958	yes	dungeon trace
+1266525413	The Dried Lake	-	dgr	captures/stages_20261002_135258.csv	captures/cases/1266525413_the_dried_lake/truth_4d27cb223f0.tsv	2117403902	2117403902	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261002_135333.csv	captures/cases/1_highgate/truth_4d27cb253f0.tsv	3059197251	3059197251	yes	dungeon trace
+3784847736	The Mines Level 1	-	dgr	captures/stages_20261002_135432.csv	captures/cases/3784847736_the_mines_level_1/truth_4d27cb2cbf0.tsv	2709488756	2709488756	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261002_135842.csv	captures/cases/1_highgate/truth_4d233c9a3f0.tsv	3059197251	3059197251	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261002_152046.csv	captures/cases/1_highgate/truth_584b0a6f3f0.tsv	3059197251	3059197251	yes	dungeon trace
+1805111026	The Mines Level 1	-	dgr	captures/stages_20261002_152029.csv	captures/cases/1805111026_the_mines_level_1/truth_5855bac93f0.tsv	4227430229	4227430229	yes	dungeon trace
+1805111026	The Mines Level 1	-	dgr	captures/stages_20261002_152131.csv	captures/cases/1805111026_the_mines_level_1/truth_585197723f0.tsv	4227430229	4227430229	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261002_152207.csv	captures/cases/1_highgate/truth_584e7e523f0.tsv	3059197251	3059197251	yes	dungeon trace
+1805111026	The Mines Level 1	-	dgr	captures/stages_20261002_152343.csv	captures/cases/1805111026_the_mines_level_1/truth_58519770bf0.tsv	4227430229	4227430229	yes	dungeon trace
+301677685	The Mines Level 2	-	dgr	captures/stages_20261002_152829.csv	captures/cases/301677685_the_mines_level_2/truth_585197723f0.tsv	1971905377	1971905377	yes	dungeon trace
+1	Highgate	-	?	captures/stages_20261002_153723.csv	-	3059197251	-	no	no stages
+1934321993	The Mines Level 1	-	dgr	captures/stages_20261002_153837.csv	captures/cases/1934321993_the_mines_level_1/truth_5f779d1e3f0.tsv	3864297400	3864297400	yes	dungeon trace
+803169832	The Mines Level 2	-	dgr	captures/stages_20261002_154051.csv	captures/cases/803169832_the_mines_level_2/truth_5f709da93f0.tsv	3023494141	3023494141	yes	dungeon trace
+2093007158	The Crystal Veins	-	dgr	captures/stages_20261002_154307.csv	captures/cases/2093007158_the_crystal_veins/truth_5f73bfed3f0.tsv	1759487534	1759487534	yes	dungeon trace
+298619422	Kaom's Dream	act4/area4level1/	tgr	captures/stages_20261002_154609.csv	captures/cases/298619422_kaom_s_dream/truth_5f73a875bf0.tsv	2444695433	2444695433	yes	generator failed
+4224061469	Kaom's Stronghold	act4/area4level3/	tgr	captures/stages_20261002_155128.csv	captures/cases/4224061469_kaom_s_stronghold/truth_5f74277c3f0.tsv	2847230753	2847230753	yes	generator failed
+1	Highgate	-	dgr	captures/stages_20261002_155458.csv	captures/cases/1_highgate/truth_5f709eb2bf0.tsv	3059197251	3059197251	yes	dungeon trace
+2853070089	The Crystal Veins	-	dgr	captures/stages_20261002_155503.csv	captures/cases/2853070089_the_crystal_veins/truth_5f779ad0bf0.tsv	3267336992	3267336992	yes	dungeon trace
+360522370	Daresso's Dream	-	dgr	captures/stages_20261002_155511.csv	captures/cases/360522370_daresso_s_dream/truth_5f7826973f0.tsv	2726426886	2726426886	yes	dungeon trace
+737367190	The Grand Arena	-	dgr	captures/stages_20261002_155951.csv	captures/cases/737367190_the_grand_arena/truth_5f73a89e3f0.tsv	2093610799	2093610799	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261002_160434.csv	captures/cases/1_highgate/truth_5f73a89b3f0.tsv	3059197251	3059197251	yes	dungeon trace
+3828488805	The Crystal Veins	-	dgr	captures/stages_20261002_160447.csv	captures/cases/3828488805_the_crystal_veins/truth_5f73a87a3f0.tsv	3587195174	3587195174	yes	dungeon trace
+2747912267	The Belly of the Beast Level 1	-	dgr	captures/stages_20261002_160505.csv	captures/cases/2747912267_the_belly_of_the_beast_level_1/truth_5f779ad0bf0.tsv	3024534366	3024534366	yes	dungeon trace
+3725921790	The Belly of the Beast Level 2	-	dgr	captures/stages_20261002_160657.csv	captures/cases/3725921790_the_belly_of_the_beast_level_2/truth_5f779adb3f0.tsv	3154621212	3154621212	yes	dungeon trace
+1724881022	The Harvest	-	dgr	captures/stages_20261002_160935.csv	captures/cases/1724881022_the_harvest/truth_5f73aa8ebf0.tsv	954088109	954088109	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261002_161559.csv	captures/cases/1_highgate/truth_5f779adb3f0.tsv	3059197251	3059197251	yes	dungeon trace
+2619343703	The Ascent	act4/area7/	tgr	captures/stages_20261002_161713.csv	captures/cases/2619343703_the_ascent/truth_5f73a87d3f0.tsv	4095770750	4095770750	yes	generator failed
+2619343703	The Ascent	act4/area7/	tgr	captures/stages_20261002_162311.csv	captures/cases/2619343703_the_ascent/truth_2f678fd6bf0.tsv	4095770750	4095770750	yes	generator failed
+3911205585	The Slave Pens	-	dgr	captures/stages_20261002_162928.csv	captures/cases/3911205585_the_slave_pens/truth_2f6d39c83f0.tsv	3504192106	3504192106	yes	dungeon trace
+1	Overseer's Tower	-	dgr	captures/stages_20261002_163253.csv	captures/cases/1_overseer_s_tower/truth_2f6dda3c3f0.tsv	705703268	705703268	yes	dungeon trace
+4289595801	The Control Blocks	-	dgr	captures/stages_20261002_163431.csv	captures/cases/4289595801_the_control_blocks/truth_2f6d39c53f0.tsv	2647497598	2647497598	yes	dungeon trace
+1	Overseer's Tower	-	dgr	captures/stages_20261002_163632.csv	captures/cases/1_overseer_s_tower/truth_2f6e5e10bf0.tsv	705703268	705703268	yes	dungeon trace
+4289595801	The Control Blocks	-	dgr	captures/stages_20261002_163723.csv	captures/cases/4289595801_the_control_blocks/truth_2f6e4070bf0.tsv	2647497598	2647497598	yes	dungeon trace
+3191711317	Oriath Square	-	dgr	captures/stages_20261002_163950.csv	captures/cases/3191711317_oriath_square/truth_2f6dda3abf0.tsv	2748914618	2748914618	yes	dungeon trace
+2723826775	The Templar Courts	-	dgr	captures/stages_20261002_164255.csv	captures/cases/2723826775_the_templar_courts/truth_2f72c802bf0.tsv	2385234822	2385234822	yes	dungeon trace
+2558389244	The Chamber of Innocence	-	dgr	captures/stages_20261002_164617.csv	captures/cases/2558389244_the_chamber_of_innocence/truth_2f71cf0bbf0.tsv	97370136	97370136	yes	dungeon trace
+1	Overseer's Tower	-	dgr	captures/stages_20261002_165248.csv	captures/cases/1_overseer_s_tower/truth_2f6e5e10bf0.tsv	705703268	705703268	yes	dungeon trace
+1	Overseer's Tower	-	?	captures/stages_20261002_170133.csv	-	705703268	-	no	no stages
+3674222332	The Chamber of Innocence	-	dgr	captures/stages_20261002_170618.csv	captures/cases/3674222332_the_chamber_of_innocence/truth_59ae3a00bf0.tsv	1623697606	1623697606	yes	dungeon trace
+2661217741	The Torched Courts	-	dgr	captures/stages_20261002_170638.csv	captures/cases/2661217741_the_torched_courts/truth_59ae3a06bf0.tsv	249720497	249720497	yes	dungeon trace
+3674222332	The Chamber of Innocence	-	dgr	captures/stages_20261002_171128.csv	captures/cases/3674222332_the_chamber_of_innocence/truth_59ae2b653f0.tsv	1623697606	1623697606	yes	dungeon trace
+2661217741	The Torched Courts	-	dgr	captures/stages_20261002_171142.csv	captures/cases/2661217741_the_torched_courts/truth_59ae2f553f0.tsv	249720497	249720497	yes	dungeon trace
+427465413	The Ruined Square	-	dgr	captures/stages_20261002_172409.csv	captures/cases/427465413_the_ruined_square/truth_59ae2f50bf0.tsv	653264300	653264300	yes	dungeon trace
+2144030410	The Ossuary	-	dgr	captures/stages_20261002_172531.csv	captures/cases/2144030410_the_ossuary/truth_59ae2b66bf0.tsv	2215249136	2215249136	yes	dungeon trace
+1	Overseer's Tower	-	?	captures/stages_20261002_200337.csv	-	705703268	-	no	no stages
+1754240847	The Ruined Square	-	dgr	captures/stages_20261002_200529.csv	captures/cases/1754240847_the_ruined_square/truth_53dff8b8bf0.tsv	1025419615	1025419615	yes	dungeon trace
+3540356521	The Reliquary	-	dgr	captures/stages_20261002_201116.csv	captures/cases/3540356521_the_reliquary/truth_53dffbc93f0.tsv	3468195324	3468195324	yes	dungeon trace
+1	Overseer's Tower	-	dgr	captures/stages_20261002_201355.csv	captures/cases/1_overseer_s_tower/truth_53dff8b13f0.tsv	705703268	705703268	yes	dungeon trace
+3795600533	The Sovereign	-	dgr	captures/stages_20261002_201548.csv	captures/cases/3795600533_the_sovereign/truth_53dc17933f0.tsv	3914858880	3914858880	yes	dungeon trace
+1	Overseer's Tower	-	dgr	captures/stages_20261002_201629.csv	captures/cases/1_overseer_s_tower/truth_53dfe9d6bf0.tsv	705703268	705703268	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261002_201619.csv	captures/cases/1_coral_hideout/truth_53dc17993f0.tsv	805187908	805187908	yes	dungeon trace
+3540356521	The Reliquary	-	?	captures/stages_20261002_201743.csv	-	3468195324	-	no	no stages
+1	Overseer's Tower	-	dgr	captures/stages_20261002_202056.csv	captures/cases/1_overseer_s_tower/truth_53db66273f0.tsv	705703268	705703268	yes	dungeon trace
+1482223029	The Ruined Square	-	dgr	captures/stages_20261002_202123.csv	captures/cases/1482223029_the_ruined_square/truth_53db6622bf0.tsv	3907314149	3907314149	yes	dungeon trace
+2072172649	The Cathedral Rooftop	-	dgr	captures/stages_20261002_202228.csv	captures/cases/2072172649_the_cathedral_rooftop/truth_53db662d3f0.tsv	3324307379	3324307379	yes	dungeon trace
+1	Lioneye's Watch	-	dgr	captures/stages_20261002_202858.csv	captures/cases/1_lioneye_s_watch/truth_53dc179c3f0.tsv	2746767467	2746767467	yes	dungeon trace
+573879234	The Coast	act6/area2/	tgr	captures/stages_20261002_202950.csv	captures/cases/573879234_the_coast/truth_53dc1f77bf0.tsv	3103396315	3103396315	yes	generator failed
+1	Lioneye's Watch	-	dgr	captures/stages_20261002_204734.csv	captures/cases/1_lioneye_s_watch/truth_53dc213b3f0.tsv	2746767467	2746767467	yes	dungeon trace
+1	Celestial Hideout	-	dgr	captures/stages_20261002_204818.csv	captures/cases/1_celestial_hideout/truth_53dc1f74bf0.tsv	3478684984	3478684984	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261002_204834.csv	captures/cases/1_coral_hideout/truth_53dc214d3f0.tsv	805187908	805187908	yes	dungeon trace
+1	Sunspire Hideout	-	dgr	captures/stages_20261002_205746.csv	captures/cases/1_sunspire_hideout/truth_53dffe40bf0.tsv	738244828	738244828	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261002_205821.csv	captures/cases/1_coral_hideout/truth_53dc179f3f0.tsv	805187908	805187908	yes	dungeon trace
+1	Synthesis Hideout	-	dgr	captures/stages_20261002_205931.csv	captures/cases/1_synthesis_hideout/truth_53dc1035bf0.tsv	4251354619	4251354619	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261002_205946.csv	captures/cases/1_coral_hideout/truth_53dfed593f0.tsv	805187908	805187908	yes	dungeon trace
+1	Lioneye's Watch	-	dgr	captures/stages_20261002_210104.csv	captures/cases/1_lioneye_s_watch/truth_53e2644dbf0.tsv	2746767467	2746767467	yes	dungeon trace
+2615028650	The Coast	act6/area2/	tgr	captures/stages_20261002_210110.csv	captures/cases/2615028650_the_coast/truth_53db662d3f0.tsv	1570894170	1570894170	yes	generator failed
+1	Lioneye's Watch	-	dgr	captures/stages_20261002_210136.csv	captures/cases/1_lioneye_s_watch/truth_53e106f7bf0.tsv	2746767467	2746767467	yes	dungeon trace
+1	Lush Hideout	-	dgr	captures/stages_20261002_210223.csv	captures/cases/1_lush_hideout/truth_53dffbc1bf0.tsv	3482012158	3482012158	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261002_210232.csv	captures/cases/1_coral_hideout/truth_53e264433f0.tsv	805187908	805187908	yes	dungeon trace
+1	Desert Hideout	-	dgr	captures/stages_20261002_210335.csv	captures/cases/1_desert_hideout/truth_53dfed5f3f0.tsv	3903144892	3903144892	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261002_210345.csv	captures/cases/1_coral_hideout/truth_53e276e83f0.tsv	805187908	805187908	yes	dungeon trace
+1	Cartographer's Hideout	-	dgr	captures/stages_20261002_210959.csv	captures/cases/1_cartographer_s_hideout/truth_53dc214ebf0.tsv	3713433821	3713433821	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261002_211017.csv	captures/cases/1_coral_hideout/truth_53dc103a3f0.tsv	805187908	805187908	yes	dungeon trace
+1	Lioneye's Watch	-	dgr	captures/stages_20261002_211046.csv	captures/cases/1_lioneye_s_watch/truth_53e264463f0.tsv	2746767467	2746767467	yes	dungeon trace
+2012248676	The Coast	act6/area2/	tgr	captures/stages_20261002_211109.csv	captures/cases/2012248676_the_coast/truth_53dfeeadbf0.tsv	3266985064	3266985064	yes	DIFF
+1	Lioneye's Watch	-	dgr	captures/stages_20261002_211611.csv	captures/cases/1_lioneye_s_watch/truth_53db6628bf0.tsv	2746767467	2746767467	yes	dungeon trace
+1	Luxurious Hideout	-	dgr	captures/stages_20261002_211712.csv	captures/cases/1_luxurious_hideout/truth_53dc21413f0.tsv	3779661124	3779661124	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261002_211755.csv	captures/cases/1_coral_hideout/truth_53dffbc33f0.tsv	805187908	805187908	yes	dungeon trace
+1	Lioneye's Watch	-	dgr	captures/stages_20261002_211807.csv	captures/cases/1_lioneye_s_watch/truth_53dc179f3f0.tsv	2746767467	2746767467	yes	dungeon trace
+2012248676	The Coast	act6/area2/	tgr	captures/stages_20261002_211816.csv	captures/cases/2012248676_the_coast/truth_53dfed593f0.tsv	3266985064	3266985064	yes	DIFF
+261715282	The Mud Flats	act6/area4/	tgr	captures/stages_20261002_211848.csv	captures/cases/261715282_the_mud_flats/truth_53dfeeaf3f0.tsv	2322674456	2322674456	yes	generator failed
+3891475801	The Karui Fortress	-	dgr	captures/stages_20261002_212318.csv	captures/cases/3891475801_the_karui_fortress/truth_53dc213b3f0.tsv	2368626775	2368626775	yes	dungeon trace
+1674264912	Radiant Pools	act6/sideradiantpool/	tgr	captures/stages_20261002_212347.csv	captures/cases/1674264912_radiant_pools/truth_53db662bbf0.tsv	3647047670	3647047670	yes	generator failed
+3891475801	The Karui Fortress	-	dgr	captures/stages_20261002_212445.csv	captures/cases/3891475801_the_karui_fortress/truth_53e264463f0.tsv	2368626775	2368626775	yes	dungeon trace
+261715282	The Mud Flats	act6/area4/	tgr	captures/stages_20261002_212811.csv	captures/cases/261715282_the_mud_flats/truth_53dfed51bf0.tsv	2322674456	2322674456	yes	generator failed
+1	Lioneye's Watch	-	dgr	captures/stages_20261002_212905.csv	captures/cases/1_lioneye_s_watch/truth_53db66213f0.tsv	2746767467	2746767467	yes	dungeon trace
+1363251047	The Twilight Strand	act6/area1/	tgr	captures/stages_20261002_212945.csv	captures/cases/1363251047_the_twilight_strand/truth_53dc12fe3f0.tsv	776092988	776092988	yes	DIFF
+1	Lioneye's Watch	-	dgr	captures/stages_20261002_213218.csv	captures/cases/1_lioneye_s_watch/truth_53dfeea7bf0.tsv	2746767467	2746767467	yes	dungeon trace
+3684453189	The Coast	act6/area2/	tgr	captures/stages_20261002_213229.csv	captures/cases/3684453189_the_coast/truth_53dffbc93f0.tsv	3709964821	3709964821	yes	generator failed
+1143220754	The Tidal Island	act6/area3/	tgr	captures/stages_20261002_213237.csv	captures/cases/1143220754_the_tidal_island/truth_53db662bbf0.tsv	3709616832	3709616832	yes	DIFF
+3684453189	The Coast	act6/area2/	tgr	captures/stages_20261002_213410.csv	captures/cases/3684453189_the_coast/truth_53dfeeaf3f0.tsv	3709964821	3709964821	yes	generator failed
+261715282	The Mud Flats	act6/area4/	tgr	captures/stages_20261002_213418.csv	captures/cases/261715282_the_mud_flats/truth_53dc12fcbf0.tsv	2322674456	2322674456	yes	generator failed
+1	Lioneye's Watch	-	dgr	captures/stages_20261002_213501.csv	captures/cases/1_lioneye_s_watch/truth_53dc103d3f0.tsv	2746767467	2746767467	yes	dungeon trace
+1363251047	The Twilight Strand	act6/area1/	tgr	captures/stages_20261002_213550.csv	captures/cases/1363251047_the_twilight_strand/truth_53dfe78f3f0.tsv	776092988	776092988	yes	DIFF
+1	Lioneye's Watch	-	dgr	captures/stages_20261002_213646.csv	captures/cases/1_lioneye_s_watch/truth_53dfee6d3f0.tsv	2746767467	2746767467	yes	dungeon trace
+3684453189	The Coast	act6/area2/	tgr	captures/stages_20261002_213731.csv	captures/cases/3684453189_the_coast/truth_53dc071c3f0.tsv	3709964821	3709964821	yes	generator failed
+3684453189	The Coast	act6/area2/	tgr	captures/stages_20261002_213737.csv	captures/cases/3684453189_the_coast/truth_53dfeeac3f0.tsv	3709964821	3709964821	yes	generator failed
+261715282	The Mud Flats	act6/area4/	tgr	captures/stages_20261002_213759.csv	captures/cases/261715282_the_mud_flats/truth_53dc21323f0.tsv	2322674456	2322674456	yes	generator failed
+1909704826	The Karui Fortress	-	dgr	captures/stages_20261002_213816.csv	captures/cases/1909704826_the_karui_fortress/truth_53e2644f3f0.tsv	1066646842	1066646842	yes	dungeon trace
+1000094353	The Ridge	act6/area6/	tgr	captures/stages_20261002_213909.csv	captures/cases/1000094353_the_ridge/truth_53dffe4cbf0.tsv	1335019800	1335019800	yes	generator failed
+3738874253	The Lower Prison	-	dgr	captures/stages_20261002_214324.csv	captures/cases/3738874253_the_lower_prison/truth_53dc103d3f0.tsv	4175847380	4175847380	yes	dungeon trace
+4232339628	The Sovereign	-	dgr	captures/stages_20261003_182927.csv	captures/cases/4232339628_the_sovereign/truth_24030eb8bf0.tsv	2422003186	2422003186	yes	dungeon trace
+1981003104	The Fathomless Depths	-	dgr	captures/stages_20261003_183016.csv	captures/cases/1981003104_the_fathomless_depths/truth_2407c68b3f0.tsv	917500374	917500374	yes	dungeon trace
+403574281	The Lower Prison	-	dgr	captures/stages_20261003_222415.csv	captures/cases/403574281_the_lower_prison/truth_24030eb5bf0.tsv	1540426058	1540426058	yes	dungeon trace
+4231822657	Shavronne's Tower	-	dgr	captures/stages_20261003_222804.csv	captures/cases/4231822657_shavronne_s_tower/truth_240624dbbf0.tsv	4075024961	4075024961	yes	dungeon trace
+1594593724	Prisoner's Gate	act6/area8/	tgr	captures/stages_20261003_223555.csv	captures/cases/1594593724_prisoner_s_gate/truth_23fcd9dbbf0.tsv	2594050326	2594050326	yes	generator failed
+2946423389	The Western Forest	act6/area9/	tgr	captures/stages_20261003_223708.csv	captures/cases/2946423389_the_western_forest/truth_2408c7cb3f0.tsv	1577687285	1577687285	yes	DIFF
+2545505819	The Riverways	act6/area10/	tgr	captures/stages_20261003_224410.csv	captures/cases/2545505819_the_riverways/truth_2402b5713f0.tsv	768176795	768176795	yes	generator failed
+940927949	The Southern Forest	act6/area12/	tgr	captures/stages_20261003_224703.csv	captures/cases/940927949_the_southern_forest/truth_2407c6823f0.tsv	534497896	534497896	yes	generator failed
+2555187645	Secluded Copse	-	dgr	captures/stages_20261003_224915.csv	captures/cases/2555187645_secluded_copse/truth_2407c9163f0.tsv	4254452920	4254452920	yes	dungeon trace
+940927949	The Southern Forest	act6/area12/	tgr	captures/stages_20261003_225013.csv	captures/cases/940927949_the_southern_forest/truth_240624dbbf0.tsv	534497896	534497896	yes	generator failed
+599246530	The Cavern of Anger	-	dgr	captures/stages_20261003_225256.csv	captures/cases/599246530_the_cavern_of_anger/truth_23fcd9dbbf0.tsv	3650738342	3650738342	yes	dungeon trace
+2273242513	The Beacon	act6/area14/	tgr	captures/stages_20261003_225737.csv	captures/cases/2273242513_the_beacon/truth_2407c8c23f0.tsv	548745989	548745989	yes	generator failed
+1	Lioneye's Watch	-	dgr	captures/stages_20261003_230147.csv	captures/cases/1_lioneye_s_watch/truth_23fcd9debf0.tsv	2746767467	2746767467	yes	dungeon trace
+2273242513	The Beacon	act6/area14/	tgr	captures/stages_20261003_230356.csv	captures/cases/2273242513_the_beacon/truth_2407c8c23f0.tsv	548745989	548745989	yes	generator failed
+2877759920	Secluded Copse	-	dgr	captures/stages_20261003_230456.csv	captures/cases/2877759920_secluded_copse/truth_2408df9b3f0.tsv	3928051857	3928051857	yes	dungeon trace
+2273242513	The Beacon	act6/area14/	tgr	captures/stages_20261003_230547.csv	captures/cases/2273242513_the_beacon/truth_2408c7c9bf0.tsv	548745989	548745989	yes	generator failed
+1	Lioneye's Watch	-	dgr	captures/stages_20261003_231020.csv	captures/cases/1_lioneye_s_watch/truth_2407c8c23f0.tsv	2746767467	2746767467	yes	dungeon trace
+2273242513	The Beacon	act6/area14/	tgr	captures/stages_20261003_231048.csv	captures/cases/2273242513_the_beacon/truth_24030ebd3f0.tsv	548745989	548745989	yes	generator failed
+2951854765	The Brine King's Reef	act6/area15/	tgr	captures/stages_20261003_231106.csv	captures/cases/2951854765_the_brine_king_s_reef/truth_24030eb5bf0.tsv	4191511973	4191511973	yes	generator failed
+826909937	Sunken Shingle	act1/sidebeach1/	tgr	captures/stages_20261003_231204.csv	captures/cases/826909937_sunken_shingle/truth_2407c91c3f0.tsv	1446955763	1446955763	yes	generator failed
+2951854765	The Brine King's Reef	act6/area15/	tgr	captures/stages_20261003_231234.csv	captures/cases/2951854765_the_brine_king_s_reef/truth_2407c8c9bf0.tsv	4191511973	4191511973	yes	generator failed
+826909937	Sunken Shingle	-	?	captures/stages_20261003_231238.csv	-	1446955763	-	no	no stages
+2951854765	The Brine King's Reef	act6/area15/	tgr	captures/stages_20261003_231328.csv	captures/cases/2951854765_the_brine_king_s_reef/truth_2407c911bf0.tsv	4191511973	4191511973	yes	generator failed
+1	The Bridge Encampment	-	?	captures/stages_20261003_232315.csv	captures/cases/1_the_bridge_encampment/truth_2402bf6bbf0.tsv	651500549	651500549	yes	no stages
+1617114203	The Broken Bridge	act7/area1/	tgr	captures/stages_20261003_232355.csv	captures/cases/1617114203_the_broken_bridge/truth_2402b8eabf0.tsv	1501504445	1501504445	yes	DIFF
+1793766400	The Crossroads	act7/area2/	tgr	captures/stages_20261003_232622.csv	captures/cases/1793766400_the_crossroads/truth_2402bf6bbf0.tsv	1515278809	1515278809	yes	generator failed
+4024180023	The Chamber of Sins Level 1	-	dgr	captures/stages_20261003_232845.csv	captures/cases/4024180023_the_chamber_of_sins_level_1/truth_23fcd9debf0.tsv	2481291711	2481291711	yes	dungeon trace
+1793766400	The Crossroads	act7/area2/	tgr	captures/stages_20261003_233407.csv	captures/cases/1793766400_the_crossroads/truth_2406320abf0.tsv	1515278809	1515278809	yes	generator failed
+4180396544	The Fellshrine Ruins	act7/area3/	tgr	captures/stages_20261003_233431.csv	captures/cases/4180396544_the_fellshrine_ruins/truth_2407c6853f0.tsv	396502492	396502492	yes	DIFF
+1981184456	The Crypt	-	dgr	captures/stages_20261003_233645.csv	captures/cases/1981184456_the_crypt/truth_2406213cbf0.tsv	2021194995	2021194995	yes	dungeon trace
+4024180023	The Chamber of Sins Level 1	-	dgr	captures/stages_20261003_234145.csv	captures/cases/4024180023_the_chamber_of_sins_level_1/truth_24030eb73f0.tsv	2481291711	2481291711	yes	dungeon trace
+2533715097	Maligaro's Sanctum	-	dgr	captures/stages_20261003_234214.csv	captures/cases/2533715097_maligaro_s_sanctum/truth_240624dbbf0.tsv	314450607	314450607	yes	dungeon trace
+4024180023	The Chamber of Sins Level 1	-	dgr	captures/stages_20261003_234705.csv	captures/cases/4024180023_the_chamber_of_sins_level_1/truth_23fcda883f0.tsv	2481291711	2481291711	yes	dungeon trace
+1	The Bridge Encampment	-	?	captures/stages_20261003_234728.csv	captures/cases/1_the_bridge_encampment/truth_2408c7c83f0.tsv	651500549	651500549	yes	no stages
+4024180023	The Chamber of Sins Level 1	-	dgr	captures/stages_20261003_234906.csv	captures/cases/4024180023_the_chamber_of_sins_level_1/truth_2408c7ce3f0.tsv	2481291711	2481291711	yes	dungeon trace
+1607794472	The Chamber of Sins Level 2	-	dgr	captures/stages_20261003_234921.csv	captures/cases/1607794472_the_chamber_of_sins_level_2/truth_24030eb8bf0.tsv	1920017863	1920017863	yes	dungeon trace
+3694988849	The Den	-	dgr	captures/stages_20261003_235304.csv	captures/cases/3694988849_the_den/truth_240624debf0.tsv	144818764	144818764	yes	dungeon trace
+2550931616	Covered-up Hollow	-	dgr	captures/stages_20261003_235335.csv	captures/cases/2550931616_covered_up_hollow/truth_2408c7ce3f0.tsv	1879773356	1879773356	yes	dungeon trace
+3694988849	The Den	-	dgr	captures/stages_20261003_235508.csv	captures/cases/3694988849_the_den/truth_2402b5773f0.tsv	144818764	144818764	yes	dungeon trace
+1449694259	The Ashen Fields	act7/area7/	tgr	captures/stages_20261003_235859.csv	captures/cases/1449694259_the_ashen_fields/truth_2407c6823f0.tsv	3061917637	3061917637	yes	DIFF
+773500154	The Northern Forest	act7/area8/	tgr	captures/stages_20261004_000245.csv	captures/cases/773500154_the_northern_forest/truth_2407c8c23f0.tsv	3876175309	3876175309	yes	generator failed
+432732553	The Dread Thicket	-	dgr	captures/stages_20261004_000349.csv	captures/cases/432732553_the_dread_thicket/truth_2408df9cbf0.tsv	1883037049	1883037049	yes	dungeon trace
+783592476	Secluded Copse	-	dgr	captures/stages_20261004_000618.csv	captures/cases/783592476_secluded_copse/truth_24030eba3f0.tsv	1409908282	1409908282	yes	dungeon trace
+432732553	The Dread Thicket	-	dgr	captures/stages_20261004_000718.csv	captures/cases/432732553_the_dread_thicket/truth_2406320f3f0.tsv	1883037049	1883037049	yes	dungeon trace
+1	The Bridge Encampment	-	?	captures/stages_20261004_000909.csv	captures/cases/1_the_bridge_encampment/truth_2406320dbf0.tsv	651500549	651500549	yes	no stages
+866127088	The Sovereign	-	dgr	captures/stages_20261004_000931.csv	captures/cases/866127088_the_sovereign/truth_2402b6a33f0.tsv	3688244998	3688244998	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261004_000955.csv	captures/cases/1_coral_hideout/truth_2407c6823f0.tsv	805187908	805187908	yes	dungeon trace
+1	The Bridge Encampment	-	?	captures/stages_20261004_001145.csv	captures/cases/1_the_bridge_encampment/truth_2406320dbf0.tsv	651500549	651500549	yes	no stages
+432732553	The Dread Thicket	-	dgr	captures/stages_20261004_001220.csv	captures/cases/432732553_the_dread_thicket/truth_2407c680bf0.tsv	1883037049	1883037049	yes	dungeon trace
+701080060	The Northern Forest	act7/area8/	tgr	captures/stages_20261004_001553.csv	captures/cases/701080060_the_northern_forest/truth_24063204bf0.tsv	1418380221	1418380221	yes	generator failed
+3182851902	The Causeway	-	dgr	captures/stages_20261004_001802.csv	captures/cases/3182851902_the_causeway/truth_2408cf10bf0.tsv	3351560268	3351560268	yes	dungeon trace
+2393322748	The Vaal City	-	dgr	captures/stages_20261004_002123.csv	captures/cases/2393322748_the_vaal_city/truth_2407c680bf0.tsv	3052310771	3052310771	yes	dungeon trace
+1011166828	The Temple of Decay Level 1	-	dgr	captures/stages_20261004_002535.csv	captures/cases/1011166828_the_temple_of_decay_level_1/truth_2408c7c53f0.tsv	1242027185	1242027185	yes	dungeon trace
+1784571183	The Temple of Decay Level 2	-	dgr	captures/stages_20261004_002845.csv	captures/cases/1784571183_the_temple_of_decay_level_2/truth_2408df9cbf0.tsv	4088528523	4088528523	yes	dungeon trace
+1906049691	The Sarn Ramparts	-	dgr	captures/stages_20261004_003324.csv	captures/cases/1906049691_the_sarn_ramparts/truth_2408df96bf0.tsv	3836528409	3836528409	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261004_003615.csv	captures/cases/1_the_sarn_encampment/truth_2408c7c53f0.tsv	3615437189	3615437189	yes	dungeon trace
+1	The Bridge Encampment	-	?	captures/stages_20261004_003641.csv	captures/cases/1_the_bridge_encampment/truth_2408df9e3f0.tsv	651500549	651500549	yes	no stages
+1	The Sarn Encampment	-	dgr	captures/stages_20261004_003721.csv	captures/cases/1_the_sarn_encampment/truth_24031d61bf0.tsv	3615437189	3615437189	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261004_093508.csv	captures/cases/1_coral_hideout/truth_43f50072bf0.tsv	805187908	805187908	yes	dungeon trace
+993420394	Aspirants' Plaza	-	dgr	captures/stages_20261004_095246.csv	captures/cases/993420394_aspirants_plaza/truth_252ba9c83f0.tsv	2646271961	2646271961	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261004_103356.csv	captures/cases/1_the_sarn_encampment/truth_25279f05bf0.tsv	3615437189	3615437189	yes	dungeon trace
+3795292572	The Toxic Conduits	-	dgr	captures/stages_20261004_103424.csv	captures/cases/3795292572_the_toxic_conduits/truth_2520e4713f0.tsv	2881309162	2881309162	yes	dungeon trace
+1225503678	Doedre's Cesspool	-	dgr	captures/stages_20261004_103742.csv	captures/cases/1225503678_doedre_s_cesspool/truth_252b6fa53f0.tsv	1853879041	1853879041	yes	dungeon trace
+3233060856	The Toxic Conduits	-	dgr	captures/stages_20261004_162519.csv	captures/cases/3233060856_the_toxic_conduits/truth_252ba9cb3f0.tsv	719177272	719177272	yes	dungeon trace
+438094231	Walled-off Ducts	-	dgr	captures/stages_20261004_204832.csv	captures/cases/438094231_walled_off_ducts/truth_252b7fdbbf0.tsv	4286032062	4286032062	yes	dungeon trace
+3233060856	The Toxic Conduits	-	dgr	captures/stages_20261004_204921.csv	captures/cases/3233060856_the_toxic_conduits/truth_252d6c7f3f0.tsv	719177272	719177272	yes	dungeon trace
+375337592	Doedre's Cesspool	-	dgr	captures/stages_20261004_210147.csv	captures/cases/375337592_doedre_s_cesspool/truth_2529641f3f0.tsv	3556033391	3556033391	yes	dungeon trace
+3974747963	The Quay	-	dgr	captures/stages_20261004_210450.csv	captures/cases/3974747963_the_quay/truth_252e8965bf0.tsv	3003177446	3003177446	yes	dungeon trace
+774780952	The Grain Gate	-	dgr	captures/stages_20261004_211428.csv	captures/cases/774780952_the_grain_gate/truth_252e8d033f0.tsv	3043379673	3043379673	yes	dungeon trace
+2432663001	Neglected Cellar	-	dgr	captures/stages_20261004_211723.csv	captures/cases/2432663001_neglected_cellar/truth_252e89673f0.tsv	1901156714	1901156714	yes	dungeon trace
+774780952	The Grain Gate	-	dgr	captures/stages_20261004_211819.csv	captures/cases/774780952_the_grain_gate/truth_2520f71f3f0.tsv	3043379673	3043379673	yes	dungeon trace
+748072072	The Imperial Fields	act8/area10/	tgr	captures/stages_20261004_212152.csv	captures/cases/748072072_the_imperial_fields/truth_252b66a6bf0.tsv	3735547732	3735547732	yes	generator failed
+1	The Sarn Encampment	-	dgr	captures/stages_20261004_212326.csv	captures/cases/1_the_sarn_encampment/truth_252ba1d33f0.tsv	3615437189	3615437189	yes	dungeon trace
+748072072	The Imperial Fields	act8/area10/	tgr	captures/stages_20261004_212453.csv	captures/cases/748072072_the_imperial_fields/truth_252ba1d93f0.tsv	3735547732	3735547732	yes	generator failed
+2556106696	The Solaris Temple Level 1	-	dgr	captures/stages_20261004_212643.csv	captures/cases/2556106696_the_solaris_temple_level_1/truth_252b66b2bf0.tsv	4102415752	4102415752	yes	dungeon trace
+464544080	The Solaris Temple Level 2	-	dgr	captures/stages_20261004_212848.csv	captures/cases/464544080_the_solaris_temple_level_2/truth_252e8d063f0.tsv	3976814062	3976814062	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261004_213214.csv	captures/cases/1_the_sarn_encampment/truth_252b66ba3f0.tsv	3615437189	3615437189	yes	dungeon trace
+1	Celestial Hideout	-	dgr	captures/stages_20261004_213845.csv	captures/cases/1_celestial_hideout/truth_252b74e23f0.tsv	3478684984	3478684984	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261004_213919.csv	captures/cases/1_coral_hideout/truth_252b73d2bf0.tsv	805187908	805187908	yes	dungeon trace
+1	ExileCon 2023 Hideout	-	dgr	captures/stages_20261004_214401.csv	captures/cases/1_exilecon_2023_hideout/truth_252ed4673f0.tsv	2546197278	2546197278	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261004_214606.csv	captures/cases/1_coral_hideout/truth_252b66b5bf0.tsv	805187908	805187908	yes	dungeon trace
+657210394	The Solaris Temple Level 1	-	dgr	captures/stages_20261004_214646.csv	captures/cases/657210394_the_solaris_temple_level_1/truth_252b74ee3f0.tsv	3161500419	3161500419	yes	dungeon trace
+2210125432	The Solaris Temple Level 2	-	dgr	captures/stages_20261004_214713.csv	captures/cases/2210125432_the_solaris_temple_level_2/truth_252e8d0c3f0.tsv	19476010	19476010	yes	dungeon trace
+657210394	The Solaris Temple Level 1	-	dgr	captures/stages_20261004_214805.csv	captures/cases/657210394_the_solaris_temple_level_1/truth_25296a1f3f0.tsv	3161500419	3161500419	yes	dungeon trace
+2370636568	Sacred Chambers	-	dgr	captures/stages_20261004_214859.csv	captures/cases/2370636568_sacred_chambers/truth_252e89673f0.tsv	3525423438	3525423438	yes	dungeon trace
+657210394	The Solaris Temple Level 1	-	dgr	captures/stages_20261004_214953.csv	captures/cases/657210394_the_solaris_temple_level_1/truth_252e8d033f0.tsv	3161500419	3161500419	yes	dungeon trace
+1876677163	The Solaris Concourse	-	dgr	captures/stages_20261004_215250.csv	captures/cases/1876677163_the_solaris_concourse/truth_2529641c3f0.tsv	3554542888	3554542888	yes	dungeon trace
+1876677163	The Solaris Concourse	-	dgr	captures/stages_20261004_215647.csv	captures/cases/1876677163_the_solaris_concourse/truth_21a3c48a3f0.tsv	3554542888	3554542888	yes	dungeon trace
+1068480893	The Harbour Bridge	-	dgr	captures/stages_20261004_215722.csv	captures/cases/1068480893_the_harbour_bridge/truth_21a3c4813f0.tsv	3417105572	3417105572	yes	dungeon trace
+2391431120	The Lunaris Concourse	-	dgr	captures/stages_20261004_220042.csv	captures/cases/2391431120_the_lunaris_concourse/truth_21aebdf0bf0.tsv	3324198366	3324198366	yes	dungeon trace
+730588532	The Lunaris Temple Level 1	-	dgr	captures/stages_20261004_220448.csv	captures/cases/730588532_the_lunaris_temple_level_1/truth_21a3da5f3f0.tsv	3512266583	3512266583	yes	dungeon trace
+1510624776	Moonlit Chambers	-	dgr	captures/stages_20261004_220608.csv	captures/cases/1510624776_moonlit_chambers/truth_21a3da593f0.tsv	784856076	784856076	yes	dungeon trace
+730588532	The Lunaris Temple Level 1	-	dgr	captures/stages_20261004_220646.csv	captures/cases/730588532_the_lunaris_temple_level_1/truth_21a3c914bf0.tsv	3512266583	3512266583	yes	dungeon trace
+439290303	The Lunaris Temple Level 2	-	dgr	captures/stages_20261004_221304.csv	captures/cases/439290303_the_lunaris_temple_level_2/truth_21aebdf9bf0.tsv	2867383623	2867383623	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261004_221955.csv	captures/cases/1_the_sarn_encampment/truth_21af15283f0.tsv	3615437189	3615437189	yes	dungeon trace
+2733731916	The Lunaris Concourse	-	dgr	captures/stages_20261004_222021.csv	captures/cases/2733731916_the_lunaris_concourse/truth_21af190f3f0.tsv	141873562	141873562	yes	dungeon trace
+2782365286	The Harbour Bridge	-	dgr	captures/stages_20261004_222335.csv	captures/cases/2782365286_the_harbour_bridge/truth_21aead633f0.tsv	3730713352	3730713352	yes	dungeon trace
+1877788454	Stagnant Canal	-	dgr	captures/stages_20261004_222446.csv	captures/cases/1877788454_stagnant_canal/truth_21aa7f57bf0.tsv	128702675	128702675	yes	dungeon trace
+2782365286	The Harbour Bridge	-	dgr	captures/stages_20261004_222530.csv	captures/cases/2782365286_the_harbour_bridge/truth_21aa71d33f0.tsv	3730713352	3730713352	yes	dungeon trace
+896657505	The Blood Aqueduct	-	dgr	captures/stages_20261004_222736.csv	captures/cases/896657505_the_blood_aqueduct/truth_21aead67bf0.tsv	3362388430	3362388430	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261004_223641.csv	captures/cases/1_highgate/truth_21a3c482bf0.tsv	1434073308	1434073308	yes	dungeon trace
+1550935145	The Descent	act9/area2/	tgr	captures/stages_20261004_223807.csv	captures/cases/1550935145_the_descent/truth_21a3c914bf0.tsv	3145125938	3145125938	yes	generator failed
+2609346257	The Vastiri Desert	-	dgr	captures/stages_20261004_224753.csv	captures/cases/2609346257_the_vastiri_desert/truth_21aa7f57bf0.tsv	1844785887	1844785887	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261004_225153.csv	captures/cases/1_highgate/truth_21aebd6cbf0.tsv	1434073308	1434073308	yes	dungeon trace
+309493809	The Sovereign	-	dgr	captures/stages_20261004_225301.csv	captures/cases/309493809_the_sovereign/truth_21af152cbf0.tsv	3071734900	3071734900	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261004_225326.csv	captures/cases/1_coral_hideout/truth_21b0fe17bf0.tsv	805187908	805187908	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261004_225334.csv	captures/cases/1_highgate/truth_21aead61bf0.tsv	1434073308	1434073308	yes	dungeon trace
+2609346257	The Vastiri Desert	-	?	captures/stages_20261004_225341.csv	-	1844785887	-	no	no stages
+3827215630	The Foothills	act9/area5/	tgr	captures/stages_20261004_225456.csv	captures/cases/3827215630_the_foothills/truth_21a9bcccbf0.tsv	3461867600	3461867600	yes	generator failed
+981678077	The Boiling Lake	act9/area6/	tgr	captures/stages_20261004_225857.csv	captures/cases/981678077_the_boiling_lake/truth_21af15283f0.tsv	1779646633	1779646633	yes	generator failed
+1	Highgate	-	dgr	captures/stages_20261004_230329.csv	captures/cases/1_highgate/truth_21af1529bf0.tsv	1434073308	1434073308	yes	dungeon trace
+907963433	The Vastiri Desert	-	dgr	captures/stages_20261004_230435.csv	captures/cases/907963433_the_vastiri_desert/truth_21aead61bf0.tsv	369089336	369089336	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261004_230555.csv	captures/cases/1_highgate/truth_21b0ffdcbf0.tsv	1434073308	1434073308	yes	dungeon trace
+3827215630	The Foothills	act9/area5/	tgr	captures/stages_20261004_230602.csv	captures/cases/3827215630_the_foothills/truth_21af1520bf0.tsv	3461867600	3461867600	yes	generator failed
+228834132	The Tunnel	-	dgr	captures/stages_20261004_230832.csv	captures/cases/228834132_the_tunnel/truth_21a3c914bf0.tsv	3517079195	3517079195	yes	dungeon trace
+3998619120	Haunted Mineshaft	-	dgr	captures/stages_20261004_230906.csv	captures/cases/3998619120_haunted_mineshaft/truth_21aa71d1bf0.tsv	2799420866	2799420866	yes	dungeon trace
+228834132	The Tunnel	-	dgr	captures/stages_20261004_231035.csv	captures/cases/228834132_the_tunnel/truth_21b0ffdcbf0.tsv	3517079195	3517079195	yes	dungeon trace
+2145317682	The Quarry	-	dgr	captures/stages_20261004_231254.csv	captures/cases/2145317682_the_quarry/truth_21b0fe133f0.tsv	2938400564	2938400564	yes	dungeon trace
+2621271165	The Refinery	-	dgr	captures/stages_20261004_231556.csv	-	-	-	no	dungeon trace
+2145317682	The Quarry	-	dgr	captures/stages_20261004_231814.csv	captures/cases/2145317682_the_quarry/truth_5b8395c4bf0.tsv	2938400564	2938400564	yes	dungeon trace
+2621271165	The Refinery	-	dgr	captures/stages_20261004_231851.csv	captures/cases/2621271165_the_refinery/truth_5b8395c7bf0.tsv	354030528	354030528	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261004_232519.csv	captures/cases/1_highgate/truth_5b805eb83f0.tsv	1434073308	1434073308	yes	dungeon trace
+3379021372	The Foothills	act9/area5/	tgr	captures/stages_20261004_232526.csv	captures/cases/3379021372_the_foothills/truth_5b838bcbbf0.tsv	1704573570	1704573570	yes	generator failed
+80730307	The Boiling Lake	act9/area6/	tgr	captures/stages_20261004_232548.csv	captures/cases/80730307_the_boiling_lake/truth_5b8395c4bf0.tsv	226452543	226452543	yes	generator failed
+1	Highgate	-	dgr	captures/stages_20261004_233321.csv	captures/cases/1_highgate/truth_5b805eb9bf0.tsv	1434073308	1434073308	yes	dungeon trace
+4240779025	The Quarry	-	dgr	captures/stages_20261004_233407.csv	captures/cases/4240779025_the_quarry/truth_5b7f8e3cbf0.tsv	1604473495	1604473495	yes	dungeon trace
+2043022934	The Belly of the Beast	-	dgr	captures/stages_20261004_233425.csv	captures/cases/2043022934_the_belly_of_the_beast/truth_5b7eddfcbf0.tsv	2932764974	2932764974	yes	dungeon trace
+780755267	The Rotting Core	-	dgr	captures/stages_20261004_233811.csv	captures/cases/780755267_the_rotting_core/truth_5b838bc73f0.tsv	17407324	17407324	yes	dungeon trace
+1	Oriath Docks	-	dgr	captures/stages_20261004_234705.csv	captures/cases/1_oriath_docks/truth_5b838bca3f0.tsv	3320054456	3320054456	yes	dungeon trace
+3599178296	The Cathedral Rooftop	-	dgr	captures/stages_20261005_102400.csv	captures/cases/3599178296_the_cathedral_rooftop/truth_29af1fb53f0.tsv	2232891092	2232891092	yes	dungeon trace
+1837405360	Side Chapel	-	dgr	captures/stages_20261005_102838.csv	captures/cases/1837405360_side_chapel/truth_29b34139bf0.tsv	4217226278	4217226278	yes	dungeon trace
+3599178296	The Cathedral Rooftop	-	dgr	captures/stages_20261005_103254.csv	captures/cases/3599178296_the_cathedral_rooftop/truth_29af0ea53f0.tsv	2232891092	2232891092	yes	dungeon trace
+2139050272	The Ravaged Square	-	dgr	captures/stages_20261005_110812.csv	captures/cases/2139050272_the_ravaged_square/truth_29b341323f0.tsv	2728443893	2728443893	yes	dungeon trace
+462968388	The Control Blocks	-	dgr	captures/stages_20261005_111555.csv	captures/cases/462968388_the_control_blocks/truth_29b09e60bf0.tsv	3509728473	3509728473	yes	dungeon trace
+2139050272	The Ravaged Square	-	dgr	captures/stages_20261005_111623.csv	captures/cases/2139050272_the_ravaged_square/truth_29af0eab3f0.tsv	2728443893	2728443893	yes	dungeon trace
+1	Oriath Docks	-	dgr	captures/stages_20261005_112510.csv	captures/cases/1_oriath_docks/truth_29b341323f0.tsv	3320054456	3320054456	yes	dungeon trace
+1913361106	The Control Blocks	-	dgr	captures/stages_20261005_112630.csv	captures/cases/1913361106_the_control_blocks/truth_29abfff33f0.tsv	3115849383	3115849383	yes	dungeon trace
+2181307310	Reclaimed Barracks	-	dgr	captures/stages_20261005_113324.csv	captures/cases/2181307310_reclaimed_barracks/truth_29af0da93f0.tsv	3454844210	3454844210	yes	dungeon trace
+1913361106	The Control Blocks	-	dgr	captures/stages_20261005_113429.csv	captures/cases/1913361106_the_control_blocks/truth_29af00683f0.tsv	3115849383	3115849383	yes	dungeon trace
+2181307310	Reclaimed Barracks	-	dgr	captures/stages_20261005_113441.csv	captures/cases/2181307310_reclaimed_barracks/truth_29b355243f0.tsv	3454844210	3454844210	yes	dungeon trace
+1913361106	The Control Blocks	-	dgr	captures/stages_20261005_113527.csv	captures/cases/1913361106_the_control_blocks/truth_29b34139bf0.tsv	3115849383	3115849383	yes	dungeon trace
+1	Oriath Docks	-	dgr	captures/stages_20261005_113743.csv	captures/cases/1_oriath_docks/truth_29b35594bf0.tsv	3320054456	3320054456	yes	dungeon trace
+1842674717	The Ravaged Square	-	dgr	captures/stages_20261005_113959.csv	captures/cases/1842674717_the_ravaged_square/truth_29b489823f0.tsv	252435474	252435474	yes	dungeon trace
+1595576018	The Ossuary	-	dgr	captures/stages_20261005_114015.csv	captures/cases/1595576018_the_ossuary/truth_29b35528bf0.tsv	863241202	863241202	yes	dungeon trace
+1	Oriath Docks	-	dgr	captures/stages_20261005_114246.csv	captures/cases/1_oriath_docks/truth_29abfff93f0.tsv	3320054456	3320054456	yes	dungeon trace
+1842674717	The Ravaged Square	-	dgr	captures/stages_20261005_114328.csv	captures/cases/1842674717_the_ravaged_square/truth_29b355993f0.tsv	252435474	252435474	yes	dungeon trace
+4152842669	The Reliquary	-	dgr	captures/stages_20261005_114713.csv	captures/cases/4152842669_the_reliquary/truth_29af0d013f0.tsv	2719794227	2719794227	yes	dungeon trace
+1	Oriath Docks	-	dgr	captures/stages_20261005_114916.csv	captures/cases/1_oriath_docks/truth_29b09e653f0.tsv	3320054456	3320054456	yes	dungeon trace
+1842674717	The Ravaged Square	-	dgr	captures/stages_20261005_114956.csv	captures/cases/1842674717_the_ravaged_square/truth_29b35525bf0.tsv	252435474	252435474	yes	dungeon trace
+2219835840	The Torched Courts	-	dgr	captures/stages_20261005_115703.csv	captures/cases/2219835840_the_torched_courts/truth_29b09e69bf0.tsv	2593344709	2593344709	yes	dungeon trace
+3685162311	The Desecrated Chambers	-	dgr	captures/stages_20261005_120257.csv	captures/cases/3685162311_the_desecrated_chambers/truth_29af0d02bf0.tsv	53037679	53037679	yes	dungeon trace
+1	Oriath Docks	-	dgr	captures/stages_20261005_120923.csv	captures/cases/1_oriath_docks/truth_29b3559f3f0.tsv	3320054456	3320054456	yes	dungeon trace
+3321828212	The Ravaged Square	-	dgr	captures/stages_20261005_121020.csv	captures/cases/3321828212_the_ravaged_square/truth_29b35516bf0.tsv	2178349546	2178349546	yes	dungeon trace
+331904297	The Canals	-	dgr	captures/stages_20261005_121055.csv	captures/cases/331904297_the_canals/truth_29b355993f0.tsv	253417315	253417315	yes	dungeon trace
+3508426414	The Feeding Trough	-	dgr	captures/stages_20261005_121741.csv	captures/cases/3508426414_the_feeding_trough/truth_29b09e6cbf0.tsv	131995204	131995204	yes	dungeon trace
+1	Oriath Docks	-	dgr	captures/stages_20261005_122707.csv	captures/cases/1_oriath_docks/truth_29abfff93f0.tsv	3320054456	3320054456	yes	dungeon trace
+1	Karui Shores	-	dgr	captures/stages_20261005_122726.csv	captures/cases/1_karui_shores/truth_29af0d013f0.tsv	2815062652	2815062652	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261005_123608.csv	captures/cases/1_coral_hideout/truth_357f1a0f3f0.tsv	805187908	805187908	yes	dungeon trace
+2124104930	The Quarry	-	dgr	captures/stages_20261005_123730.csv	captures/cases/2124104930_the_quarry/truth_3585dffebf0.tsv	3013035528	3013035528	yes	dungeon trace
+559510352	Haunted Mineshaft	-	dgr	captures/stages_20261005_123804.csv	captures/cases/559510352_haunted_mineshaft/truth_3585c6aa3f0.tsv	2029911990	2029911990	yes	dungeon trace
+2124104930	The Quarry	-	dgr	captures/stages_20261005_123926.csv	captures/cases/2124104930_the_quarry/truth_3585d557bf0.tsv	3013035528	3013035528	yes	dungeon trace
+1	Highgate	-	dgr	captures/stages_20261005_124348.csv	captures/cases/1_highgate/truth_3585dffbbf0.tsv	1434073308	1434073308	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261005_124356.csv	captures/cases/1_coral_hideout/truth_358759cebf0.tsv	805187908	805187908	yes	dungeon trace
+3376791209	The Vastiri Desert	-	dgr	captures/stages_20261005_124431.csv	captures/cases/3376791209_the_vastiri_desert/truth_357f1a063f0.tsv	3432629108	3432629108	yes	dungeon trace
+2057659728	The Oasis	act9/area4/	tgr	captures/stages_20261005_124856.csv	captures/cases/2057659728_the_oasis/truth_35875917bf0.tsv	4148216990	4148216990	yes	DIFF
+3149224873	Dusty Bluff	act9/sidearearefinery/	tgr	captures/stages_20261005_125052.csv	captures/cases/3149224873_dusty_bluff/truth_357f4fdf3f0.tsv	2748218734	2748218734	yes	DIFF
+2057659728	The Oasis	act9/area4/	tgr	captures/stages_20261005_125158.csv	captures/cases/2057659728_the_oasis/truth_358759133f0.tsv	4148216990	4148216990	yes	DIFF
+1	Highgate	-	dgr	captures/stages_20261005_125455.csv	captures/cases/1_highgate/truth_358a79f53f0.tsv	1434073308	1434073308	yes	dungeon trace
+3536082317	Doedre's Cesspool	-	dgr	captures/stages_20261005_125709.csv	captures/cases/3536082317_doedre_s_cesspool/truth_357f1a0dbf0.tsv	945915212	945915212	yes	dungeon trace
+717193377	The Grand Promenade	-	dgr	captures/stages_20261005_125724.csv	captures/cases/717193377_the_grand_promenade/truth_3585c6a43f0.tsv	757908612	757908612	yes	dungeon trace
+1263665994	The Bath House	-	dgr	captures/stages_20261005_130014.csv	captures/cases/1263665994_the_bath_house/truth_3585d55f3f0.tsv	676576427	676576427	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261005_130116.csv	captures/cases/1_the_sarn_encampment/truth_3585c6aa3f0.tsv	3615437189	3615437189	yes	dungeon trace
+1	The Bridge Encampment	-	?	captures/stages_20261005_130202.csv	captures/cases/1_the_bridge_encampment/truth_35875911bf0.tsv	651500549	651500549	yes	no stages
+1	The Bridge Encampment	-	?	captures/stages_20261005_130241.csv	captures/cases/1_the_bridge_encampment/truth_3585c6aa3f0.tsv	651500549	651500549	yes	no stages
+1	Lioneye's Watch	-	dgr	captures/stages_20261005_130317.csv	captures/cases/1_lioneye_s_watch/truth_358a79f83f0.tsv	2746767467	2746767467	yes	dungeon trace
+1653703409	Prisoner's Gate	act6/area8/	tgr	captures/stages_20261005_130425.csv	captures/cases/1653703409_prisoner_s_gate/truth_3589988f3f0.tsv	1531167769	1531167769	yes	generator failed
+3063800985	The Broken Bridge	act7/area1/	tgr	captures/stages_20261005_130209.csv	captures/cases/3063800985_the_broken_bridge/truth_3585dffbbf0.tsv	2662979387	2662979387	yes	DIFF
+1	Lioneye's Watch	-	dgr	captures/stages_20261005_130726.csv	captures/cases/1_lioneye_s_watch/truth_35875eeabf0.tsv	2746767467	2746767467	yes	dungeon trace
+1327120653	Narrow Ravine	act2/sidecliff1/	tgr	captures/stages_20261005_130913.csv	captures/cases/1327120653_narrow_ravine/truth_358744b53f0.tsv	673030557	673030557	yes	DIFF
+3285807558	The Riverways	act6/area10/	tgr	captures/stages_20261005_130815.csv	captures/cases/3285807558_the_riverways/truth_3585c5eebf0.tsv	1296025244	1296025244	yes	generator failed
+3498432223	The Wetlands	act6/area11/	tgr	captures/stages_20261005_130844.csv	captures/cases/3498432223_the_wetlands/truth_3585d557bf0.tsv	1386278695	1386278695	yes	generator failed
+3498432223	The Wetlands	act6/area11/	tgr	captures/stages_20261005_130944.csv	captures/cases/3498432223_the_wetlands/truth_358759193f0.tsv	1386278695	1386278695	yes	generator failed
+1	Lioneye's Watch	-	dgr	captures/stages_20261005_131057.csv	captures/cases/1_lioneye_s_watch/truth_3585dffebf0.tsv	2746767467	2746767467	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261005_131204.csv	captures/cases/1_coral_hideout/truth_358744bcbf0.tsv	805187908	805187908	yes	dungeon trace
+1	Karui Shores	-	dgr	captures/stages_20261005_132913.csv	captures/cases/1_karui_shores/truth_24aef474bf0.tsv	2815062652	2815062652	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261005_132938.csv	captures/cases/1_coral_hideout/truth_24abdfcebf0.tsv	805187908	805187908	yes	dungeon trace
+1	Luxurious Hideout	-	dgr	captures/stages_20261005_133529.csv	captures/cases/1_luxurious_hideout/truth_24b3e458bf0.tsv	3779661124	3779661124	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261005_133542.csv	captures/cases/1_coral_hideout/truth_24b3b05e3f0.tsv	805187908	805187908	yes	dungeon trace
+2372426144	The Sovereign	-	dgr	captures/stages_20261005_134127.csv	captures/cases/2372426144_the_sovereign/truth_24abdfcebf0.tsv	674500213	674500213	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261005_134150.csv	captures/cases/1_coral_hideout/truth_24b2b3e33f0.tsv	805187908	805187908	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261005_135443.csv	captures/cases/1_the_sarn_encampment/truth_20dd91d0bf0.tsv	3615437189	3615437189	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261005_135937.csv	captures/cases/1_coral_hideout/truth_20df035dbf0.tsv	805187908	805187908	yes	dungeon trace
+2742815401	The Tidal Island	act1/area2a/	tgr	captures/stages_20261005_151942.csv	captures/cases/2742815401_the_tidal_island/truth_20df0351bf0.tsv	746164926	746164926	yes	generator failed
+1	Lioneye's Watch	-	dgr	captures/stages_20261005_160441.csv	captures/cases/1_lioneye_s_watch/truth_20d9df073f0.tsv	1139181677	1139181677	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261005_161141.csv	captures/cases/1_coral_hideout/truth_20da3e0e3f0.tsv	805187908	805187908	yes	dungeon trace
+1	Glimmerwood Hideout	-	dgr	captures/stages_20261005_162143.csv	captures/cases/1_glimmerwood_hideout/truth_20df5d84bf0.tsv	165724475	165724475	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261005_162202.csv	captures/cases/1_coral_hideout/truth_20da3f53bf0.tsv	805187908	805187908	yes	dungeon trace
+1	Celestial Hideout	-	dgr	captures/stages_20261005_162429.csv	captures/cases/1_celestial_hideout/truth_20e3dca53f0.tsv	3478684984	3478684984	yes	dungeon trace
+1	Battle-scarred Hideout	-	dgr	captures/stages_20261005_162451.csv	captures/cases/1_battle_scarred_hideout/truth_20df5037bf0.tsv	2479215559	2479215559	yes	dungeon trace
+1	Celestial Hideout	-	dgr	captures/stages_20261005_162514.csv	captures/cases/1_celestial_hideout/truth_20d9df0bbf0.tsv	3478684984	3478684984	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261005_162533.csv	captures/cases/1_coral_hideout/truth_20da2501bf0.tsv	805187908	805187908	yes	dungeon trace
+2445327803	The Ship Graveyard	leagues/deepwater/act1_shipgraveyard/	tgr	captures/stages_20261005_164239.csv	captures/cases/2445327803_the_ship_graveyard/truth_20da25063f0.tsv	4282217149	4282217149	yes	generator failed
+1	Coral Hideout	-	dgr	captures/stages_20261005_164349.csv	captures/cases/1_coral_hideout/truth_20df5d8f3f0.tsv	805187908	805187908	yes	dungeon trace
+1	Karui Shores	-	dgr	captures/stages_20261005_164404.csv	captures/cases/1_karui_shores/truth_20df4b0cbf0.tsv	2815062652	2815062652	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261005_164415.csv	captures/cases/1_coral_hideout/truth_20d416663f0.tsv	805187908	805187908	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261005_164543.csv	captures/cases/1_coral_hideout/truth_20df06fe3f0.tsv	805187908	805187908	yes	dungeon trace
+2400635400	Alleyways	-	dgr	captures/stages_20261005_164519.csv	captures/cases/2400635400_alleyways/truth_20da250c3f0.tsv	1095433766	1095433766	yes	dungeon trace
+2400635400	Alleyways	-	dgr	captures/stages_20261005_164549.csv	captures/cases/2400635400_alleyways/truth_20da25063f0.tsv	1095433766	1095433766	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261005_164627.csv	captures/cases/1_coral_hideout/truth_20e3d6ba3f0.tsv	805187908	805187908	yes	dungeon trace
+2565914107	Chateau	-	dgr	captures/stages_20261005_164658.csv	captures/cases/2565914107_chateau/truth_20da250dbf0.tsv	2907803743	2907803743	yes	dungeon trace
+1	Karui Shores	-	dgr	captures/stages_20261005_172109.csv	-	2815062652	-	no	dungeon trace
+1	Coral Hideout	-	?	captures/stages_20261005_172148.csv	-	805187908	-	no	no stages
+1	Coral Hideout	-	?	captures/stages_20261006_213541.csv	-	805187908	-	no	no stages
+1	Lush Hideout	-	dgr	captures/stages_20261006_215907.csv	captures/cases/1_lush_hideout/truth_297af6913f0.tsv	3482012158	3482012158	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261006_215921.csv	captures/cases/1_coral_hideout/truth_2977ee9abf0.tsv	805187908	805187908	yes	dungeon trace
+1	The Dreadnought Hideout	-	dgr	captures/stages_20261006_220038.csv	captures/cases/1_the_dreadnought_hideout/truth_297ce8193f0.tsv	3576881561	3576881561	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261006_220142.csv	captures/cases/1_coral_hideout/truth_297cf7583f0.tsv	805187908	805187908	yes	dungeon trace
+1	Lush Hideout	-	dgr	captures/stages_20261006_220436.csv	captures/cases/1_lush_hideout/truth_2977f5e33f0.tsv	3482012158	3482012158	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261006_220509.csv	captures/cases/1_coral_hideout/truth_297afa2ebf0.tsv	805187908	805187908	yes	dungeon trace
+1	Vast Plains Hideout	-	dgr	captures/stages_20261006_221412.csv	captures/cases/1_vast_plains_hideout/truth_2977fa58bf0.tsv	2330516475	2330516475	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261006_221431.csv	captures/cases/1_coral_hideout/truth_2977ee9f3f0.tsv	805187908	805187908	yes	dungeon trace
+2210596230	The Ravaged Square	-	dgr	captures/stages_20261006_221450.csv	captures/cases/2210596230_the_ravaged_square/truth_297af731bf0.tsv	1418227854	1418227854	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261006_221548.csv	captures/cases/1_coral_hideout/truth_297afaba3f0.tsv	805187908	805187908	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261006_221909.csv	captures/cases/1_the_sarn_encampment/truth_297cf645bf0.tsv	1244512620	1244512620	yes	dungeon trace
+286111229	Aspirants' Plaza	-	dgr	captures/stages_20261006_221934.csv	captures/cases/286111229_aspirants_plaza/truth_2977ee9c3f0.tsv	2256494012	2256494012	yes	dungeon trace
+2579957462	Estate Path	-	dgr	captures/stages_20261006_221951.csv	captures/cases/2579957462_estate_path/truth_2977efbf3f0.tsv	3541621928	3541621928	yes	dungeon trace
+2866914294	Aspirant's Trial	-	dgr	captures/stages_20261006_222054.csv	captures/cases/2866914294_aspirant_s_trial/truth_297af7363f0.tsv	2929733642	2929733642	yes	dungeon trace
+2555006977	Sanitorium Halls	-	dgr	captures/stages_20261006_222129.csv	captures/cases/2555006977_sanitorium_halls/truth_2977efbf3f0.tsv	297879765	297879765	yes	dungeon trace
+417028868	Aspirant's Trial	-	dgr	captures/stages_20261006_222212.csv	captures/cases/417028868_aspirant_s_trial/truth_2977e81cbf0.tsv	2206223273	2206223273	yes	dungeon trace
+3831569174	Mansion Halls	-	dgr	captures/stages_20261006_222246.csv	captures/cases/3831569174_mansion_halls/truth_297afa2ebf0.tsv	102232560	102232560	yes	dungeon trace
+609657111	Estate Crossing	-	dgr	captures/stages_20261006_222502.csv	captures/cases/609657111_estate_crossing/truth_297af69ebf0.tsv	1636822132	1636822132	yes	dungeon trace
+4117083578	Aspirant's Trial	-	dgr	captures/stages_20261006_222610.csv	captures/cases/4117083578_aspirant_s_trial/truth_297cf75cbf0.tsv	1844463951	1844463951	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261006_222757.csv	captures/cases/1_the_sarn_encampment/truth_297afa273f0.tsv	1244512620	1244512620	yes	dungeon trace
+1	Coral Hideout	-	dgr	captures/stages_20261006_222813.csv	captures/cases/1_coral_hideout/truth_2977e8153f0.tsv	805187908	805187908	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261006_223646.csv	captures/cases/1_the_sarn_encampment/truth_2977efb4bf0.tsv	1244512620	1244512620	yes	dungeon trace
+1426617778	Aspirants' Plaza	-	dgr	captures/stages_20261006_223841.csv	captures/cases/1426617778_aspirants_plaza/truth_2977ee9abf0.tsv	2279280259	2279280259	yes	dungeon trace
+3103363698	Estate Walkways	-	dgr	captures/stages_20261006_223858.csv	captures/cases/3103363698_estate_walkways/truth_297cf645bf0.tsv	1995255546	1995255546	yes	dungeon trace
+994093646	Aspirant's Trial	-	?	captures/stages_20261006_224021.csv	-	1832715015	-	no	no stages
+2291623195	Domain Walkways	-	dgr	captures/stages_20261006_224120.csv	captures/cases/2291623195_domain_walkways/truth_297cf64a3f0.tsv	1395951277	1395951277	yes	dungeon trace
+4234693681	Sanitorium Halls	-	dgr	captures/stages_20261006_224309.csv	captures/cases/4234693681_sanitorium_halls/truth_297be9adbf0.tsv	938147403	938147403	yes	dungeon trace
+2118311704	Aspirant's Trial	-	dgr	captures/stages_20261006_224358.csv	captures/cases/2118311704_aspirant_s_trial/truth_297cf7553f0.tsv	1108902604	1108902604	yes	dungeon trace
+1449463803	Sanitorium Halls	-	dgr	captures/stages_20261006_224432.csv	captures/cases/1449463803_sanitorium_halls/truth_297cf642bf0.tsv	2748140019	2748140019	yes	dungeon trace
+259205661	Estate Crossing	-	dgr	captures/stages_20261006_224524.csv	captures/cases/259205661_estate_crossing/truth_2977efbc3f0.tsv	4080815929	4080815929	yes	dungeon trace
+1866444512	Aspirant's Trial	-	dgr	captures/stages_20261006_224659.csv	captures/cases/1866444512_aspirant_s_trial/truth_2977e8183f0.tsv	3196040367	3196040367	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261006_224815.csv	captures/cases/1_the_sarn_encampment/truth_297cf645bf0.tsv	1244512620	1244512620	yes	dungeon trace
+335384607	Aspirants' Plaza	-	dgr	captures/stages_20261006_224823.csv	captures/cases/335384607_aspirants_plaza/truth_297ce811bf0.tsv	3903009552	3903009552	yes	dungeon trace
+2245694802	Estate Path	-	dgr	captures/stages_20261006_224839.csv	captures/cases/2245694802_estate_path/truth_2977fa5a3f0.tsv	1775558441	1775558441	yes	dungeon trace
+3512740507	Sepulchre Halls	-	?	captures/stages_20261006_224934.csv	-	2089956511	-	no	no stages
+1759117330	Aspirant's Trial	-	dgr	captures/stages_20261006_225046.csv	captures/cases/1759117330_aspirant_s_trial/truth_2977e8183f0.tsv	1415103873	1415103873	yes	dungeon trace
+841827259	Mansion Passage	-	dgr	captures/stages_20261006_225124.csv	captures/cases/841827259_mansion_passage/truth_297af7393f0.tsv	2698971466	2698971466	yes	dungeon trace
+725554027	Sanitorium Halls	-	dgr	captures/stages_20261006_225321.csv	captures/cases/725554027_sanitorium_halls/truth_297afa25bf0.tsv	2687346413	2687346413	yes	dungeon trace
+1467770897	Sanitorium Passage	-	dgr	captures/stages_20261006_225619.csv	captures/cases/1467770897_sanitorium_passage/truth_297af32e3f0.tsv	3939685222	3939685222	yes	dungeon trace
+2112044984	Aspirant's Trial	-	dgr	captures/stages_20261006_225654.csv	captures/cases/2112044984_aspirant_s_trial/truth_297cf64ebf0.tsv	409214662	409214662	yes	dungeon trace
+2604101915	Domain Walkways	-	dgr	captures/stages_20261006_225732.csv	captures/cases/2604101915_domain_walkways/truth_2977e813bf0.tsv	2071139196	2071139196	yes	dungeon trace
+3102021708	Sepulchre Halls	-	dgr	captures/stages_20261006_225821.csv	captures/cases/3102021708_sepulchre_halls/truth_297ce811bf0.tsv	2605021167	2605021167	yes	dungeon trace
+1601677706	Aspirant's Trial	-	dgr	captures/stages_20261006_225906.csv	captures/cases/1601677706_aspirant_s_trial/truth_297cf7583f0.tsv	1206592261	1206592261	yes	dungeon trace
+1	The Sarn Encampment	-	dgr	captures/stages_20261006_230136.csv	captures/cases/1_the_sarn_encampment/truth_297af73dbf0.tsv	1244512620	1244512620	yes	dungeon trace
+1	Enigma Hideout	-	dgr	captures/stages_20261006_230718.csv	captures/cases/1_enigma_hideout/truth_2977e813bf0.tsv	4094111914	4094111914	yes	dungeon trace
