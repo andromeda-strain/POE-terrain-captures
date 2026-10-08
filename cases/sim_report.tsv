@@ -1,372 +1,387 @@
 seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
-1	Coral Hideout	dgr	MATCH	0	71x71	805187908	805187908	4.9	
+1	Coral Hideout	dgr	MATCH	0	71x71	805187908	805187908	6.7	
 1236335712	The Sovereign	depths	MATCH	0	36x36	111657580	111657580	1.6	
-1510637994	The Fathomless Depths	depths	MATCH	0	133x96	3276533165	3276533165	11.2	first draw-stage not OK: seed
-603495457	The Fathomless Depths	depths	MATCH	0	133x96	823218229	823218229	11.4	
-1	Karui Shores	dgr	MATCH	0	81x54	2815062652	2815062652	6.9	
-1	The Forest Encampment	dgr	CELLS	252	21x29	3884967862	1354742156	2.8	
+1510637994	The Fathomless Depths	depths	MATCH	0	133x96	3276533165	3276533165	20.3	first draw-stage not OK: seed
+603495457	The Fathomless Depths	depths	MATCH	0	133x96	823218229	823218229	20.6	
+1	Karui Shores	dgr	MATCH	0	81x54	2815062652	2815062652	11.2	
+1	The Forest Encampment	dgr	MATCH	0	21x29	3884967862	3884967862	2.8	
 82573316	The Sovereign	depths	MATCH	0	36x36	1941862320	1941862320	1.6	first draw-stage not OK: seed
-3041957014	The Fathomless Depths	depths	MATCH	0	73x36	2897792557	2897792557	5.2	first draw-stage not OK: seed
-3098285421	The Sovereign	depths	MATCH	0	36x36	1231693686	1231693686	1.6	
-996796624	The Fathomless Depths	depths	MATCH	0	73x36	1377246030	1377246030	5.4	first draw-stage not OK: seed
-2560043430	The Fathomless Depths	depths	MATCH	0	73x36	3654404617	3654404617	5.1	first draw-stage not OK: seed
-1086746852	The Fathomless Depths	depths	MATCH	0	73x36	3433342938	3433342938	5.4	first draw-stage not OK: seed
-1935058490	The Fathomless Depths	depths	MATCH	0	73x36	1024397933	1024397933	5.0	first draw-stage not OK: seed
-3606213797	The Fathomless Depths	depths	MATCH	0	73x36	4025964470	4025964470	5.5	first draw-stage not OK: seed
-3173679565	The Fathomless Depths	depths	MATCH	0	73x36	531210892	531210892	5.3	first draw-stage not OK: seed
-675368202	The Fathomless Depths	depths	MATCH	0	73x36	198059805	198059805	5.5	
+3041957014	The Fathomless Depths	depths	MATCH	0	73x36	2897792557	2897792557	7.0	first draw-stage not OK: seed
+3098285421	The Sovereign	depths	MATCH	0	36x36	1231693686	1231693686	1.7	
+996796624	The Fathomless Depths	depths	MATCH	0	73x36	1377246030	1377246030	7.0	first draw-stage not OK: seed
+2560043430	The Fathomless Depths	depths	MATCH	0	73x36	3654404617	3654404617	6.3	first draw-stage not OK: seed
+1086746852	The Fathomless Depths	depths	MATCH	0	73x36	3433342938	3433342938	7.1	first draw-stage not OK: seed
+1935058490	The Fathomless Depths	depths	MATCH	0	73x36	1024397933	1024397933	6.5	first draw-stage not OK: seed
+3606213797	The Fathomless Depths	depths	MATCH	0	73x36	4025964470	4025964470	7.3	first draw-stage not OK: seed
+3173679565	The Fathomless Depths	depths	MATCH	0	73x36	531210892	531210892	7.0	first draw-stage not OK: seed
+675368202	The Fathomless Depths	depths	MATCH	0	73x36	198059805	198059805	7.4	
 3912774796	The Fathomless Depths	other	SKIP			224259695		0.0	generator ?
-4100923300	The Fathomless Depths	depths	MATCH	0	73x36	2040753280	2040753280	5.5	
-557474562	The Fathomless Depths	depths	MATCH	0	73x36	199374833	199374833	5.5	
-2463482592	The Fathomless Depths	depths	MATCH	0	73x36	652801019	652801019	5.7	
-1071011641	The Fathomless Depths	depths	MATCH	0	73x36	3132784797	3132784797	5.0	
-2265638241	The Fathomless Depths	depths	MATCH	0	73x36	345465612	345465612	5.1	
-3362130874	The Fathomless Depths	depths	MATCH	0	73x36	1001537381	1001537381	5.3	
-2298244275	The Fathomless Depths	depths	MATCH	0	73x36	208392220	208392220	5.3	
-3773251612	The Fathomless Depths	depths	MATCH	0	73x36	3654904657	3654904657	5.3	
-4086326514	The Sovereign	depths	MATCH	0	36x36	842742842	842742842	1.7	
-3477971055	The Fathomless Depths	depths	MATCH	0	73x36	880630213	880630213	5.5	
-34032998	The Fathomless Depths	depths	MATCH	0	73x36	1817261203	1817261203	5.2	
-3733212936	The Fathomless Depths	depths	MATCH	0	133x96	1216363765	1216363765	12.1	
-1286939179	The Sovereign	depths	MATCH	0	36x36	3465624301	3465624301	1.7	
-1237338389	The Fathomless Depths	depths	MATCH	0	73x36	2661754272	2661754272	5.4	
-1136236336	The Fathomless Depths	depths	MATCH	0	73x36	1970181499	1970181499	5.1	
-3750120311	The Fathomless Depths	depths	MATCH	0	73x36	465029040	465029040	4.9	
-3236956940	The Fathomless Depths	depths	MATCH	0	73x36	2236745032	2236745032	5.2	
-1929474145	The Fathomless Depths	depths	MATCH	0	73x36	1337427519	1337427519	5.5	
-1093815452	The Fathomless Depths	depths	MATCH	0	73x36	2518153729	2518153729	5.5	
-4107278925	The Fathomless Depths	depths	MATCH	0	73x36	2837117388	2837117388	5.8	
-1313239538	The Fathomless Depths	depths	MATCH	0	73x36	1304518086	1304518086	5.5	
-497744117	The Fathomless Depths	depths	MATCH	0	73x36	1211151174	1211151174	5.2	
-3985957920	The Fathomless Depths	depths	MATCH	0	73x36	3317418583	3317418583	5.5	
-2131446133	The Fathomless Depths	depths	MATCH	0	73x36	3984246720	3984246720	5.6	
-4036869190	The Fathomless Depths	depths	MATCH	0	73x36	1854979610	1854979610	5.2	
-1020565801	The Fathomless Depths	depths	MATCH	0	73x36	2034768428	2034768428	5.4	
-4173762619	The Fathomless Depths	depths	MATCH	0	73x36	1310008944	1310008944	5.5	
-2754307973	The Fathomless Depths	depths	MATCH	0	73x36	722981011	722981011	5.6	
-3593961739	The Fathomless Depths	depths	MATCH	0	73x36	2139986639	2139986639	5.4	
-2651850708	The Fathomless Depths	depths	MATCH	0	73x36	2791270950	2791270950	5.4	
+4100923300	The Fathomless Depths	depths	MATCH	0	73x36	2040753280	2040753280	7.2	
+557474562	The Fathomless Depths	depths	MATCH	0	73x36	199374833	199374833	7.2	
+2463482592	The Fathomless Depths	depths	MATCH	0	73x36	652801019	652801019	7.5	
+1071011641	The Fathomless Depths	depths	MATCH	0	73x36	3132784797	3132784797	6.2	
+2265638241	The Fathomless Depths	depths	MATCH	0	73x36	345465612	345465612	6.6	
+3362130874	The Fathomless Depths	depths	MATCH	0	73x36	1001537381	1001537381	7.2	
+2298244275	The Fathomless Depths	depths	MATCH	0	73x36	208392220	208392220	6.7	
+3773251612	The Fathomless Depths	depths	MATCH	0	73x36	3654904657	3654904657	6.5	
+4086326514	The Sovereign	depths	MATCH	0	36x36	842742842	842742842	1.6	
+3477971055	The Fathomless Depths	depths	MATCH	0	73x36	880630213	880630213	7.3	
+34032998	The Fathomless Depths	depths	MATCH	0	73x36	1817261203	1817261203	6.8	
+3733212936	The Fathomless Depths	depths	MATCH	0	133x96	1216363765	1216363765	21.2	
+1286939179	The Sovereign	depths	MATCH	0	36x36	3465624301	3465624301	1.6	
+1237338389	The Fathomless Depths	depths	MATCH	0	73x36	2661754272	2661754272	7.3	
+1136236336	The Fathomless Depths	depths	MATCH	0	73x36	1970181499	1970181499	7.1	
+3750120311	The Fathomless Depths	depths	MATCH	0	73x36	465029040	465029040	6.7	
+3236956940	The Fathomless Depths	depths	MATCH	0	73x36	2236745032	2236745032	7.1	
+1929474145	The Fathomless Depths	depths	MATCH	0	73x36	1337427519	1337427519	7.3	
+1093815452	The Fathomless Depths	depths	MATCH	0	73x36	2518153729	2518153729	7.6	
+4107278925	The Fathomless Depths	depths	MATCH	0	73x36	2837117388	2837117388	7.5	
+1313239538	The Fathomless Depths	depths	MATCH	0	73x36	1304518086	1304518086	7.4	
+497744117	The Fathomless Depths	depths	MATCH	0	73x36	1211151174	1211151174	6.7	
+3985957920	The Fathomless Depths	depths	MATCH	0	73x36	3317418583	3317418583	7.3	
+2131446133	The Fathomless Depths	depths	MATCH	0	73x36	3984246720	3984246720	7.3	
+4036869190	The Fathomless Depths	depths	MATCH	0	73x36	1854979610	1854979610	6.7	
+1020565801	The Fathomless Depths	depths	MATCH	0	73x36	2034768428	2034768428	7.1	
+4173762619	The Fathomless Depths	depths	MATCH	0	73x36	1310008944	1310008944	7.3	
+2754307973	The Fathomless Depths	depths	MATCH	0	73x36	722981011	722981011	7.3	
+3593961739	The Fathomless Depths	depths	MATCH	0	73x36	2139986639	2139986639	7.4	
+2651850708	The Fathomless Depths	depths	MATCH	0	73x36	2791270950	2791270950	7.0	
 2589720705	The Sovereign	depths	MATCH	0	36x36	2933444716	2933444716	1.6	
-3154916023	The Fathomless Depths	depths	MATCH	0	133x96	733395531	733395531	12.4	
-1313028449	The Crypt Level 1	dgr	MATCH	0	59x59	1157800364	1157800364	1.7	
-2870800707	The Crypt Level 2	dgr	MATCH	0	59x59	69030426	69030426	1.6	
-2578194133	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	2891150790	2891150790	1.6	
-3761032693	The Chamber of Sins Level 2	dgr	MATCH	0	65x83	2022733049	2022733049	1.8	
-469932766	The Submerged Passage	dgr	MATCH	0	65x49	240112645	240112645	2.9	
-191589194	The Flooded Depths	dgr	MATCH	0	45x45	2222667986	2222667986	2.3	
+3154916023	The Fathomless Depths	depths	MATCH	0	133x96	733395531	733395531	19.3	
+1313028449	The Crypt Level 1	dgr	MATCH	0	59x59	1157800364	1157800364	1.5	
+2870800707	The Crypt Level 2	dgr	MATCH	0	59x59	69030426	69030426	1.5	
+2578194133	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	2891150790	2891150790	1.5	
+3761032693	The Chamber of Sins Level 2	dgr	MATCH	0	65x83	2022733049	2022733049	1.7	
+469932766	The Submerged Passage	dgr	MATCH	0	65x49	240112645	240112645	2.8	
+191589194	The Flooded Depths	dgr	MATCH	0	45x45	2222667986	2222667986	2.1	
 1	Lioneye's Watch	dgr	MATCH	0	30x18	1139181677	1139181677	2.5	
-1920541619	The Lower Prison	dgr	MATCH	0	59x43	1651551080	1651551080	1.7	
-742553449	The Upper Prison	dgr	MATCH	0	125x55	3917393174	3917393174	2.5	
+1920541619	The Lower Prison	dgr	MATCH	0	59x43	1651551080	1651551080	1.6	
+742553449	The Upper Prison	dgr	MATCH	0	125x55	3917393174	3917393174	2.4	
 2818139909	The Western Forest	tgr	NOINST			3337390678		0.0	no outdoor instance for this seed (index status: unidentified)
-2039359877	The Weaver's Chambers	dgr	MATCH	0	47x51	817362184	817362184	1.6	
+2039359877	The Weaver's Chambers	dgr	MATCH	0	47x51	817362184	817362184	1.3	
 407489641	The Wetlands	tgr	NOINST			534786920		0.0	no outdoor instance for this seed (index status: unidentified)
-3517148271	The Vaal Ruins	dgr	MATCH	0	67x67	2940475866	2940475866	2.1	
-1929370058	The Caverns	dgr	MATCH	0	71x63	4054197555	4054197555	2.8	
+3517148271	The Vaal Ruins	dgr	MATCH	0	67x67	2940475866	2940475866	2.2	
+1929370058	The Caverns	dgr	MATCH	0	71x63	4054197555	4054197555	2.9	
 612200276	The Ancient Pyramid	dgr	MATCH	0	111x39	2043394585	2043394585	2.5	
-1412296438	Atoll	dgr	ERROR			1253442074		2.3	RuntimeError: No possible rooms found for room at (0, 36) with type "entrance" @ dungeon_graph.py:1088 place_typed
+1412296438	Atoll	dgr	ERROR			1253442074		1.9	RuntimeError: No possible rooms found for room at (0, 36) with type "entrance" @ dungeon_graph.py:1187 place_typed
 1123901509	Side Chapel	dgr	MATCH	0	79x79	3537605935	3537605935	2.3	
 1878280121	Atoll	tgr	NOINST			2168707350		0.0	no outdoor instance for this seed (index status: generator failed)
 2263660961	Neglected Cellar	dgr	MATCH	0	39x30	4044548570	4044548570	1.7	
-3330632830	The Reliquary	dgr	MATCH	0	61x67	2900745617	2900745617	1.9	
+3330632830	The Reliquary	dgr	MATCH	0	61x67	2900745617	2900745617	1.8	
 2310821503	Atoll	tgr	NOINST			2803321911		0.0	no outdoor instance for this seed (index status: generator failed)
-2778897016	Evacuated Quarter	dgr	MATCH	0	66x90	3645364594	3645364594	5.8	
-3733581862	Grotto	dgr	MATCH	0	103x67	838396737	838396737	2.7	
-2621831292	Strand	dgr	ERROR			4257126006		2.5	RuntimeError: Failed to find room that fits at room 6,3 (3x3 thin_shoreline.et) @ dungeon_graph.py:1860 pick_room
+2778897016	Evacuated Quarter	dgr	MATCH	0	66x90	3645364594	3645364594	7.4	
+3733581862	Grotto	dgr	MATCH	0	103x67	838396737	838396737	2.5	
+2621831292	Strand	dgr	ERROR			4257126006		2.0	RuntimeError: Failed to find room that fits at room 6,3 (3x3 thin_shoreline.et) @ dungeon_graph.py:2023 pick_room
 2969939979	Remote Gulch	tgr	NOINST			2429684383		0.0	no outdoor instance for this seed (index status: generator failed)
-1224335210	Plaza	dgr	CELLS	1703	63x129	2284832134	3571197073	5.9	first draw-stage not OK: overlap; first mismatch: sim 0x1420f6875 sub_1420F5FB0 edge-combination tiling draw(400) = 312 [word 1056] subgraph 0 overlap stage vs log 0x1420f6875 draw(200) = 112
-3088556257	Strange Sinkhole	dgr	MATCH	0	41x37	4228456130	4228456130	2.2	
-1839010650	The Dried Lake	dgr	CELLS	2493	54x60	4086432158	606448750	2.9	first draw-stage not OK: graph; first mismatch: sim 0x1420ff711 ? draw(10) = 3 [word 1176] subgraph 0 graph stage vs log 0x1420efc0c draw(200) = 73
-1	Highgate	dgr	CELLS	1353	41x33	3059197251	3389837055	1.1	first draw-stage not OK: fill; first mismatch: sim 0x141febf93 sub_141FEB970 fill draw(100) = 39 [word 1] subgraph 0 fill cell (0,0) aqueduct_sky.gt vs log 0x1420efc0c draw(1) = 0
-4089459784	The Dried Lake	dgr	MATCH	0	54x78	3799672527	3799672527	3.0	
-1	Cartographer's Hideout	dgr	MATCH	0	31x31	3713433821	3713433821	1.4	
-1	Cosmic Turtle Hideout	dgr	MATCH	0	78x78	2300128614	2300128614	1.8	
-1	Desert Hideout	dgr	MATCH	0	30x30	3903144892	3903144892	4.5	
-1	Skeletal Hideout	dgr	MATCH	0	27x27	3427174740	3427174740	2.5	
-271424479	The Dried Lake	dgr	MATCH	0	54x60	3650255859	3650255859	2.8	
-1910660251	The Mines Level 1	dgr	MATCH	0	49x65	4150859652	4150859652	2.2	
-2405821288	The Mines Level 2	dgr	MATCH	0	57x65	1605729696	1605729696	2.5	
-3347084340	The Crystal Veins	dgr	MATCH	0	57x87	389407264	389407264	3.1	
-1	The Sarn Encampment	dgr	MATCH	0	39x35	1244512620	1244512620	2.0	
-2850793387	Aspirants' Plaza	dgr	MATCH	0	31x31	349488689	349488689	3.7	
-2533087454	Estate Path	dgr	MATCH	0	85x73	2495292827	2495292827	5.0	
+1224335210	Plaza	dgr	CELLS	1703	63x129	2284832134	3571197073	7.1	first draw-stage not OK: overlap; first mismatch: sim 0x1420f6875 sub_1420F5FB0 edge-combination tiling draw(400) = 312 [word 1056] subgraph 0 overlap stage vs log 0x1420f6875 draw(200) = 112
+3088556257	Strange Sinkhole	dgr	MATCH	0	41x37	4228456130	4228456130	2.1	
+1839010650	The Dried Lake	dgr	MATCH	0	54x60	4086432158	4086432158	2.7	
+1	Highgate	dgr	MATCH	0	41x33	3059197251	3059197251	2.2	
+4089459784	The Dried Lake	dgr	MATCH	0	54x78	3799672527	3799672527	2.7	
+1	Cartographer's Hideout	dgr	MATCH	0	31x31	3713433821	3713433821	1.3	
+1	Cosmic Turtle Hideout	dgr	MATCH	0	78x78	2300128614	2300128614	1.6	
+1	Desert Hideout	dgr	MATCH	0	30x30	3903144892	3903144892	5.4	
+1	Skeletal Hideout	dgr	MATCH	0	27x27	3427174740	3427174740	2.2	
+271424479	The Dried Lake	dgr	MATCH	0	54x60	3650255859	3650255859	2.6	
+1910660251	The Mines Level 1	dgr	MATCH	0	49x65	4150859652	4150859652	2.1	
+2405821288	The Mines Level 2	dgr	MATCH	0	57x65	1605729696	1605729696	2.2	
+3347084340	The Crystal Veins	dgr	MATCH	0	57x87	389407264	389407264	2.9	
+1	The Sarn Encampment	dgr	MATCH	0	39x35	1244512620	1244512620	1.9	
+2850793387	Aspirants' Plaza	dgr	MATCH	0	31x31	349488689	349488689	4.5	
+2533087454	Estate Path	dgr	MATCH	0	85x73	2495292827	2495292827	7.0	
 1334335857	Aspirant's Trial	dgr	MATCH	0	25x49	750211733	750211733	3.0	
-3842264324	Basilica Halls	dgr	CELLS	53	65x65	2053571771	2064279259	2.2	
+3842264324	Basilica Halls	dgr	CELLS	53	65x65	2053571771	2064279259	2.1	
 446294120	Aspirant's Trial	dgr	MATCH	0	25x49	3472233919	3472233919	3.0	
-909720328	Mansion Halls	dgr	MATCH	0	73x65	15549283	15549283	3.6	
-2172888983	Estate Crossing	dgr	MATCH	0	67x85	2091862474	2091862474	5.0	
-3970501215	Aspirant's Trial	dgr	MATCH	0	49x57	3555777409	3555777409	3.1	
+909720328	Mansion Halls	dgr	MATCH	0	73x65	15549283	15549283	4.3	
+2172888983	Estate Crossing	dgr	MATCH	0	67x85	2091862474	2091862474	6.6	
+3970501215	Aspirant's Trial	dgr	MATCH	0	49x57	3555777409	3555777409	3.0	
 634165571	The Crystal Veins	dgr	MATCH	0	87x65	2177833885	2177833885	2.9	
 4021489705	Kaom's Dream	tgr	NOINST			3075838719		0.0	no outdoor instance for this seed (index status: generator failed)
 808855001	Kaom's Stronghold	tgr	NOINST			3087778686		0.0	no outdoor instance for this seed (index status: generator failed)
-3037135357	The Crystal Veins	dgr	MATCH	0	57x87	2211240638	2211240638	2.9	
-3742948269	Daresso's Dream	dgr	MATCH	0	91x82	4073996085	4073996085	3.4	
-1868260667	The Grand Arena	dgr	MATCH	0	91x157	1198174165	1198174165	2.9	
-800997670	The Crystal Veins	dgr	MATCH	0	87x65	2351249093	2351249093	3.0	
-3050197844	The Belly of the Beast Level 1	dgr	MATCH	0	61x77	158355008	158355008	1.3	
-1573602159	The Crystal Veins	dgr	MATCH	0	57x87	4155931109	4155931109	3.1	
-1464712583	The Belly of the Beast Level 1	dgr	MATCH	0	61x77	3306318637	3306318637	1.4	
-880066129	The Belly of the Beast Level 2	dgr	MATCH	0	77x77	605931699	605931699	1.4	
-1250879645	The Harvest	dgr	MATCH	0	93x101	2544826441	2544826441	3.7	
-3441163522	The Aqueduct	dgr	MATCH	0	48x168	1557957727	1557957727	2.9	
+3037135357	The Crystal Veins	dgr	MATCH	0	57x87	2211240638	2211240638	3.0	
+3742948269	Daresso's Dream	dgr	MATCH	0	91x82	4073996085	4073996085	3.5	
+1868260667	The Grand Arena	dgr	MATCH	0	91x157	1198174165	1198174165	2.8	
+800997670	The Crystal Veins	dgr	MATCH	0	87x65	2351249093	2351249093	3.5	
+3050197844	The Belly of the Beast Level 1	dgr	MATCH	0	61x77	158355008	158355008	1.4	
+1573602159	The Crystal Veins	dgr	MATCH	0	57x87	4155931109	4155931109	3.4	
+1464712583	The Belly of the Beast Level 1	dgr	MATCH	0	61x77	3306318637	3306318637	1.5	
+880066129	The Belly of the Beast Level 2	dgr	MATCH	0	77x77	605931699	605931699	1.6	
+1250879645	The Harvest	dgr	MATCH	0	93x101	2544826441	2544826441	4.8	
+3441163522	The Aqueduct	dgr	MATCH	0	48x168	1557957727	1557957727	3.4	
 1853619251	The Ascent	tgr	NOINST			1533087404		0.0	no outdoor instance for this seed (index status: generator failed)
-3795107622	The Slave Pens	dgr	MATCH	0	67x73	3199277502	3199277502	2.0	
-1	Overseer's Tower	dgr	MATCH	0	37x31	705703268	705703268	1.9	
-3553902466	The Control Blocks	dgr	MATCH	0	85x85	1651264513	1651264513	2.3	
-2584021816	Aspirants' Plaza	dgr	MATCH	0	31x31	1551230963	1551230963	3.8	
-1697191265	The Control Blocks	dgr	MATCH	0	85x85	3823909229	3823909229	2.3	
-4248805045	The Submerged Passage	dgr	MATCH	0	57x65	3821526790	3821526790	2.9	
-1309195284	The Flooded Depths	dgr	MATCH	0	41x41	573429291	573429291	2.1	
+3795107622	The Slave Pens	dgr	MATCH	0	67x73	3199277502	3199277502	2.4	
+1	Overseer's Tower	dgr	MATCH	0	37x31	705703268	705703268	2.1	
+3553902466	The Control Blocks	dgr	MATCH	0	85x85	1651264513	1651264513	2.5	
+2584021816	Aspirants' Plaza	dgr	MATCH	0	31x31	1551230963	1551230963	4.5	
+1697191265	The Control Blocks	dgr	MATCH	0	85x85	3823909229	3823909229	2.5	
+4248805045	The Submerged Passage	dgr	MATCH	0	57x65	3821526790	3821526790	3.2	
+1309195284	The Flooded Depths	dgr	MATCH	0	41x41	573429291	573429291	2.3	
 556721298	The Ledge	tgr	NOINST			216717887		0.0	no outdoor instance for this seed (index status: generator failed)
 1800507917	The Climb	tgr	NOINST			2341871594		0.0	no outdoor instance for this seed (index status: generator failed)
-1	Celestial Hideout	dgr	CELLS	6	55x55	3478684984	2440107777	3.6	first draw-stage not OK: overlap; first mismatch: sim 0x1420f6875 sub_1420F5FB0 edge-combination tiling draw(1) = 0 [word None] subgraph 2 overlap stage vs log 0x1420f6875 draw(4) = 0
-1	Backstreet Hideout	dgr	CELLS	18	33x33	2407509049	1598591225	3.3	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(100) = 0 [word 14] hideout.arm o0 at (6,6) vs log 0x1420efc0c draw(200) = 0
+1	Celestial Hideout	dgr	CELLS	6	55x55	3478684984	2440107777	4.1	first draw-stage not OK: overlap; first mismatch: sim 0x1420f6875 sub_1420F5FB0 edge-combination tiling draw(1) = 0 [word None] subgraph 2 overlap stage vs log 0x1420f6875 draw(4) = 0
+1	Backstreet Hideout	dgr	MATCH	0	33x33	2407509049	2407509049	3.9	
 2130982566	The Climb	tgr	NOINST			806503697		0.0	no outdoor instance for this seed (index status: generator failed)
-3284226330	The Lower Prison	dgr	MATCH	0	55x59	1192538762	1192538762	1.6	
+3284226330	The Lower Prison	dgr	MATCH	0	55x59	1192538762	1192538762	1.7	
 2251881681	The Upper Prison	dgr	MATCH	0	125x55	2204444027	2204444027	2.4	
-1068567250	Monastery of the Keepers	dgr	MATCH	0	30x36	739522572	739522572	1.8	
+1068567250	Monastery of the Keepers	dgr	MATCH	0	30x36	739522572	739522572	2.0	
 1475174401	Prisoner's Gate	tgr	NOINST			1086046921		0.0	no outdoor instance for this seed (index status: generator failed)
 2683172332	The Ship Graveyard	tgr	NOINST			694397120		0.0	no outdoor instance for this seed (index status: generator failed)
-2625967781	The Cavern of Wrath	dgr	CELLS	1047	69x49	4016286671	26418189	3.0	first draw-stage not OK: graph; first mismatch: sim 0x14210862e ? draw(15) = 9 [word 539] subgraph 0 graph stage vs log 0x14210862e draw(10) = 9
-1891345365	The Cavern of Anger	dgr	MATCH	0	69x61	449445949	449445949	3.1	first draw-stage not OK: graph; first mismatch: sim 0x14210862e ? draw(21) = 1 [word 460] subgraph 0 graph stage vs log 0x14210862e draw(16) = 6
+2625967781	The Cavern of Wrath	dgr	MATCH	0	69x49	4016286671	4016286671	2.9	
+1891345365	The Cavern of Anger	dgr	MATCH	0	69x61	449445949	449445949	3.2	
 2479631266	The Southern Forest	tgr	NOINST			3716329429		0.0	no outdoor instance for this seed (index status: generator failed)
-947348485	The Old Fields	tgr	ERROR			229464661		2.3	TypeError: 'NoneType' object is not subscriptable @ edge_sim.py:1697 make_node
+947348485	The Old Fields	tgr	ERROR			229464661		2.4	TypeError: 'NoneType' object is not subscriptable @ edge_sim.py:1697 make_node
 1018383981	The Crossroads	tgr	NOINST			2003188477		0.0	no outdoor instance for this seed (index status: generator failed)
 3113180255	The Broken Bridge	tgr	NOINST			1347971609		0.0	no outdoor instance for this seed (index status: generator failed)
-4044540761	The Fellshrine Ruins	tgr	ERROR			691804038		2.6	IndexError: pop from empty list @ edge_sim.py:172 draw
-2530695710	The Crypt Level 1	dgr	MATCH	0	59x59	2263762444	2263762444	1.6	
-968431668	The Crypt Level 2	dgr	MATCH	0	59x59	2499091845	2499091845	1.6	
+4044540761	The Fellshrine Ruins	tgr	ERROR			691804038		2.8	IndexError: pop from empty list @ edge_sim.py:172 draw
+2530695710	The Crypt Level 1	dgr	MATCH	0	59x59	2263762444	2263762444	1.7	
+968431668	The Crypt Level 2	dgr	MATCH	0	59x59	2499091845	2499091845	1.7	
 4191653966	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	1642318018	1642318018	1.6	
-283554011	The Chamber of Sins Level 2	dgr	MATCH	0	71x59	2748572369	2748572369	1.7	
-2226661651	The Old Fields	tgr	ERROR			4031710147		2.4	RuntimeError: Could not permute edges: 1 @ permute.py:269 permute
-774439067	The Den	dgr	MATCH	0	59x59	2825555511	2825555511	1.4	
+283554011	The Chamber of Sins Level 2	dgr	MATCH	0	71x59	2748572369	2748572369	1.8	
+2226661651	The Old Fields	tgr	ERROR			4031710147		2.3	RuntimeError: Could not permute edges: 1 @ permute.py:269 permute
+774439067	The Den	dgr	MATCH	0	59x59	2825555511	2825555511	1.5	
 1008253913	The Riverways	tgr	NOINST			1355430214		0.0	no outdoor instance for this seed (index status: generator failed)
-1594771754	The Western Forest	tgr	ERROR			3174309766		2.8	TypeError: 'NoneType' object is not subscriptable @ edge_sim.py:1697 make_node
-514194972	The Weaver's Chambers	dgr	MATCH	0	47x47	114173358	114173358	1.5	
+1594771754	The Western Forest	tgr	ERROR			3174309766		2.9	TypeError: 'NoneType' object is not subscriptable @ edge_sim.py:1697 make_node
+514194972	The Weaver's Chambers	dgr	MATCH	0	47x47	114173358	114173358	1.3	
 2922025329	The Riverways	tgr	NOINST			1223104191		0.0	no outdoor instance for this seed (index status: generator failed)
 2797004204	The Wetlands	tgr	NOINST			2557214493		0.0	no outdoor instance for this seed (index status: generator failed)
-1	Luxurious Hideout	dgr	MATCH	0	27x27	3779661124	3779661124	1.7	
+1	Luxurious Hideout	dgr	MATCH	0	27x27	3779661124	3779661124	1.8	
 1519000875	The Riverways	tgr	NOINST			736978362		0.0	no outdoor instance for this seed (index status: generator failed)
 3276846349	The Sovereign	depths	MATCH	0	36x36	1739673554	1739673554	1.7	
-2385204892	The Vaal Ruins	dgr	MATCH	0	59x75	4064405383	4064405383	2.0	
+2385204892	The Vaal Ruins	dgr	MATCH	0	59x75	4064405383	4064405383	2.1	
 3907043827	The Northern Forest	tgr	NOINST			2807117195		0.0	no outdoor instance for this seed (index status: generator failed)
-2501019992	The Dread Thicket	dgr	MATCH	0	81x39	4035435092	4035435092	5.1	
-3420277925	The Caverns	dgr	CELLS	5	63x63	2199474282	86086883	2.8	
-2286220489	The Ancient Pyramid	dgr	MATCH	0	111x39	4066457169	4066457169	2.5	
+2501019992	The Dread Thicket	dgr	MATCH	0	81x39	4035435092	4035435092	7.4	
+3420277925	The Caverns	dgr	MATCH	0	63x63	2199474282	2199474282	3.0	
+2286220489	The Ancient Pyramid	dgr	MATCH	0	111x39	4066457169	4066457169	2.6	
 2166854683	The City of Sarn	tgr	NOINST			592359497		0.0	no outdoor instance for this seed (index status: generator failed)
-4131175462	The Slums	dgr	ERROR			2488184710		3.6	IndexError: list index out of range @ dungeon_fill.py:701 room_cells
-936822562	The Crematorium	dgr	MATCH	0	59x43	2148918050	2148918050	1.9	
-2897425878	The Sewers	dgr	CELLS	113	59x109	3608206696	1616958144	2.9	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(400) = 73 [word 1974] hideout_claim.arm o0 at (4,84) vs log 0x1420efc0c draw(200) = 73
-2536577949	The Marketplace	dgr	CELLS	1047	63x81	3095624708	743066579	5.1	first draw-stage not OK: post; first mismatch: sim 0x14202795d sub_142027670+0x2ed post-tile pass draw(100) = 85 [word 7177] subgraph 0 post-tile pass vs log 0x1420f8fc1 draw(107) = 69
-2402341252	The Battlefront	dgr	CELLS	4	102x72	4196015547	1837417229	6.9	first draw-stage not OK: buffer; first mismatch: sim 0x14202205d sub_14201FFA0 outer buffer bottom edge tile draw(200) = 90 [word 9961] outer buffer bottom edge tile at (15,66) city_large_wall_water.et candidates [('battlefield_wall_water_straight_v01_01.tdt', 1, 100),
-3273436718	The Solaris Temple Level 1	dgr	MATCH	0	65x65	1224538654	1224538654	9.3	
-1706325493	The Solaris Temple Level 2	dgr	MATCH	0	105x99	3273443509	3273443509	3.3	
-2253563939	The Marketplace	dgr	CELLS	3607	57x81	4126215522	2817387860	4.9	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(100) = 51 [word 819] marketthickwall_place_dock_1.arm o0 at (10,52) vs log 0x142001ee5 draw(1) = 0
-3639631365	The Marketplace	dgr	CELLS	3484	57x81	3701885475	1314175016	4.8	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(100) = 40 [word 819] marketthickwall_place_dock_1.arm o0 at (10,52) vs log 0x142001ee5 draw(1) = 0
-1712038915	The Catacombs	dgr	CELLS	1	59x59	41140647	2312843778	1.7	
-3062702846	The Battlefront	dgr	CELLS	22	84x78	1003604186	3607787996	6.9	first draw-stage not OK: buffer; first mismatch: sim 0x14202205d sub_14201FFA0 outer buffer bottom edge tile draw(200) = 198 [word 8419] outer buffer bottom edge tile at (30,72) city_large_wall_water.et candidates [('battlefield_wall_water_straight_v01_01.tdt', 3, 100)
-3364277146	The Docks	dgr	CELLS	1936	87x77	791632261	3778237936	4.4	first draw-stage not OK: fill; first mismatch: sim 0x141febf93 sub_141FEB970 fill draw(1) = 0 [word None] subgraph 0 fill cell (8,8) city_water.gt vs log 0x141feddbe draw(100) = 0
-3089773424	The Sovereign	depths	MATCH	0	36x36	2273790087	2273790087	1.7	
-1555985664	The Solaris Temple Level 2	dgr	MATCH	0	111x87	559975316	559975316	3.3	
-3203442564	The Sewers	dgr	CELLS	79	59x109	568037625	551127434	3.0	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(400) = 236 [word 1997] hideout_claim.arm o0 at (4,84) vs log 0x1420efc0c draw(200) = 36
-2855540965	The Ebony Barracks	dgr	MATCH	0	75x120	2512417395	2512417395	6.1	
-1571611194	The Lunaris Temple Level 1	dgr	MATCH	0	55x109	446747484	446747484	6.7	
-3858230140	The Lunaris Temple Level 2	dgr	CELLS	7601	71x173	477534427	1792408880	3.4	first draw-stage not OK: graph; first mismatch: sim 0x1420fd640 ? draw(641) = 335 [word 1297] subgraph 0 graph stage vs log 0x1420fd640 draw(5650) = 3151
-2351266055	The Lunaris Temple Level 1	dgr	MATCH	0	55x109	3251821080	3251821080	6.4	
-1144347631	The Ebony Barracks	dgr	MATCH	0	75x120	2879092417	2879092417	6.3	
-1067921378	The Imperial Gardens	dgr	CELLS	14	87x93	1447338577	3280204719	5.9	
-623609042	The Imperial Gardens	dgr	CELLS	22	99x87	3371348297	4157570494	6.1	
-2335162514	The Sceptre of God	dgr	ERROR			2116269406		1.6	RuntimeError: Failed to find room that fits at room 6,4 (1x2 sceptre_exterior_wall_border.et) @ dungeon_graph.py:1860 pick_room
-2000054802	The Upper Sceptre of God	dgr	ERROR			4220530291		1.6	RuntimeError: Failed to find room that fits at room 4,2 (1x2 sceptre_exterior_wall_border.et) @ dungeon_graph.py:1860 pick_room
+4131175462	The Slums	dgr	CELLS	1245	81x69	2488184710	488850942	5.5	first draw-stage not OK: fill; first mismatch: sim 0x141febd7f ? draw(409) = 61 [word 5248] subgraph 0 fill cell (24,54) city_ground.gt vs log 0x141febf93 draw(300) = 294
+936822562	The Crematorium	dgr	MATCH	0	59x43	2148918050	2148918050	2.0	
+2897425878	The Sewers	dgr	MATCH	0	59x109	3608206696	3608206696	3.0	
+2536577949	The Marketplace	dgr	MATCH	0	63x81	3095624708	3095624708	7.3	
+2402341252	The Battlefront	dgr	MATCH	0	102x72	4196015547	4196015547	10.1	
+3273436718	The Solaris Temple Level 1	dgr	MATCH	0	65x65	1224538654	1224538654	15.9	
+1706325493	The Solaris Temple Level 2	dgr	MATCH	0	105x99	3273443509	3273443509	3.8	
+2253563939	The Marketplace	dgr	MATCH	0	57x81	4126215522	4126215522	7.1	
+3639631365	The Marketplace	dgr	MATCH	0	57x81	3701885475	3701885475	6.8	
+1712038915	The Catacombs	dgr	MATCH	0	59x59	41140647	41140647	1.6	
+3062702846	The Battlefront	dgr	MATCH	0	84x78	1003604186	1003604186	10.2	
+3364277146	The Docks	dgr	MATCH	0	87x77	791632261	791632261	5.7	
+3089773424	The Sovereign	depths	MATCH	0	36x36	2273790087	2273790087	1.6	
+1555985664	The Solaris Temple Level 2	dgr	MATCH	0	111x87	559975316	559975316	3.6	
+3203442564	The Sewers	dgr	MATCH	0	59x109	568037625	568037625	2.8	
+2855540965	The Ebony Barracks	dgr	MATCH	0	75x120	2512417395	2512417395	9.4	
+1571611194	The Lunaris Temple Level 1	dgr	MATCH	0	55x109	446747484	446747484	10.4	
+3858230140	The Lunaris Temple Level 2	dgr	CELLS	5799	71x173	477534427	2804176961	5.8	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(320) = 210 [word 2111] ledge_walkway_1.arm o3 at (32,104) vs log 0x1420efc0c draw(200) = 170
+2351266055	The Lunaris Temple Level 1	dgr	MATCH	0	55x109	3251821080	3251821080	9.2	
+1144347631	The Ebony Barracks	dgr	MATCH	0	75x120	2879092417	2879092417	8.9	
+1067921378	The Imperial Gardens	dgr	MATCH	0	87x93	1447338577	1447338577	8.9	
+623609042	The Imperial Gardens	dgr	CELLS	12	99x87	3371348297	2865196288	8.4	
+2335162514	The Sceptre of God	dgr	ERROR			2116269406		1.5	RuntimeError: Failed to find room that fits at room 5,4 (1x2 sceptre_exterior_wall_border.et) @ dungeon_graph.py:2023 pick_room
+2000054802	The Upper Sceptre of God	dgr	ERROR			4220530291		1.6	RuntimeError: Failed to find room that fits at room 4,4 (1x2 sceptre_exterior_wall_border.et) @ dungeon_graph.py:2023 pick_room
 2037400561	The Aqueduct	dgr	MATCH	0	48x168	1761958165	1761958165	3.0	
-4172490063	The Docks	dgr	CELLS	1754	87x77	4015351991	3774605683	4.4	first draw-stage not OK: fill; first mismatch: sim 0x141febf93 sub_141FEB970 fill draw(1) = 0 [word None] subgraph 0 fill cell (8,8) city_water.gt vs log 0x141feddbe draw(100) = 25
-1266525413	The Dried Lake	dgr	MATCH	0	60x66	2117403902	2117403902	2.9	
-1149825838	Abandoned Dam	dgr	MATCH	0	48x60	4240077958	4240077958	2.8	
+4172490063	The Docks	dgr	MATCH	0	87x77	4015351991	4015351991	5.7	
+1266525413	The Dried Lake	dgr	MATCH	0	60x66	2117403902	2117403902	2.7	
+1149825838	Abandoned Dam	dgr	MATCH	0	48x60	4240077958	4240077958	2.6	
 3784847736	The Mines Level 1	dgr	MATCH	0	57x65	2709488756	2709488756	2.1	
-1805111026	The Mines Level 1	dgr	MATCH	0	49x65	4227430229	4227430229	2.3	
-301677685	The Mines Level 2	dgr	MATCH	0	57x65	1971905377	1971905377	2.3	
+1805111026	The Mines Level 1	dgr	MATCH	0	49x65	4227430229	4227430229	2.1	
+301677685	The Mines Level 2	dgr	MATCH	0	57x65	1971905377	1971905377	2.2	
 1934321993	The Mines Level 1	dgr	MATCH	0	57x73	3864297400	3864297400	2.2	
-803169832	The Mines Level 2	dgr	MATCH	0	57x65	3023494141	3023494141	2.2	
-2093007158	The Crystal Veins	dgr	MATCH	0	57x87	1759487534	1759487534	3.0	
+803169832	The Mines Level 2	dgr	MATCH	0	57x65	3023494141	3023494141	2.3	
+2093007158	The Crystal Veins	dgr	MATCH	0	57x87	1759487534	1759487534	3.1	
 298619422	Kaom's Dream	tgr	NOINST			2444695433		0.0	no outdoor instance for this seed (index status: generator failed)
 4224061469	Kaom's Stronghold	tgr	NOINST			2847230753		0.0	no outdoor instance for this seed (index status: generator failed)
-2853070089	The Crystal Veins	dgr	MATCH	0	87x65	3267336992	3267336992	3.0	
-360522370	Daresso's Dream	dgr	MATCH	0	109x82	2726426886	2726426886	3.4	
-737367190	The Grand Arena	dgr	MATCH	0	97x151	2093610799	2093610799	2.8	
-3828488805	The Crystal Veins	dgr	MATCH	0	57x87	3587195174	3587195174	2.9	
+2853070089	The Crystal Veins	dgr	MATCH	0	87x65	3267336992	3267336992	3.1	
+360522370	Daresso's Dream	dgr	MATCH	0	109x82	2726426886	2726426886	3.9	
+737367190	The Grand Arena	dgr	MATCH	0	97x151	2093610799	2093610799	2.9	
+3828488805	The Crystal Veins	dgr	MATCH	0	57x87	3587195174	3587195174	3.1	
 2747912267	The Belly of the Beast Level 1	dgr	MATCH	0	61x77	3024534366	3024534366	1.4	
 3725921790	The Belly of the Beast Level 2	dgr	MATCH	0	61x77	3154621212	3154621212	1.4	
-1724881022	The Harvest	dgr	MATCH	0	93x101	954088109	954088109	3.7	
+1724881022	The Harvest	dgr	MATCH	0	93x101	954088109	954088109	4.3	
 2619343703	The Ascent	tgr	NOINST			4095770750		0.0	no outdoor instance for this seed (index status: generator failed)
-3911205585	The Slave Pens	dgr	MATCH	0	67x85	3504192106	3504192106	2.0	
+3911205585	The Slave Pens	dgr	MATCH	0	67x85	3504192106	3504192106	2.2	
 4289595801	The Control Blocks	dgr	CELLS	1817	85x85	2647497598	3389840595	2.4	first draw-stage not OK: graph; first mismatch: sim 0x1420fd640 ? draw(900) = 479 [word 465] subgraph 0 graph stage vs log 0x1420fd640 draw(2800) = 679
-3191711317	Oriath Square	dgr	MATCH	0	157x81	2748914618	2748914618	6.7	
-2723826775	The Templar Courts	dgr	CELLS	1340	77x77	2385234822	3389730876	1.8	first draw-stage not OK: graph; first mismatch: sim 0x1420fd640 ? draw(454) = 136 [word 437] subgraph 0 graph stage vs log 0x1420fd640 draw(270) = 110
-2558389244	The Chamber of Innocence	dgr	CELLS	15	101x93	97370136	2195811374	1.6	
-3674222332	The Chamber of Innocence	dgr	CELLS	15	85x93	1623697606	2599488506	1.5	
-2661217741	The Torched Courts	dgr	MATCH	0	77x77	249720497	249720497	1.8	
-427465413	The Ruined Square	dgr	MATCH	0	157x81	653264300	653264300	6.3	
+3191711317	Oriath Square	dgr	MATCH	0	157x81	2748914618	2748914618	10.0	
+2723826775	The Templar Courts	dgr	MATCH	0	77x77	2385234822	2385234822	1.8	
+2558389244	The Chamber of Innocence	dgr	MATCH	0	101x93	97370136	97370136	1.8	
+3674222332	The Chamber of Innocence	dgr	MATCH	0	85x93	1623697606	1623697606	1.7	
+2661217741	The Torched Courts	dgr	MATCH	0	77x77	249720497	249720497	1.9	
+427465413	The Ruined Square	dgr	MATCH	0	157x81	653264300	653264300	10.2	
 2144030410	The Ossuary	dgr	MATCH	0	53x53	2215249136	2215249136	2.5	
-1754240847	The Ruined Square	dgr	MATCH	0	157x81	1025419615	1025419615	6.4	
-3540356521	The Reliquary	dgr	MATCH	0	61x67	3468195324	3468195324	1.7	
-3795600533	The Sovereign	depths	MATCH	0	36x36	3914858880	3914858880	1.6	
-1482223029	The Ruined Square	dgr	MATCH	0	157x81	3907314149	3907314149	6.6	
-2072172649	The Cathedral Rooftop	dgr	MATCH	0	121x157	3324307379	3324307379	5.5	
-1	Lioneye's Watch	dgr	MATCH	0	30x24	2746767467	2746767467	2.9	
+1754240847	The Ruined Square	dgr	MATCH	0	157x81	1025419615	1025419615	10.2	
+3540356521	The Reliquary	dgr	MATCH	0	61x67	3468195324	3468195324	1.8	
+3795600533	The Sovereign	depths	MATCH	0	36x36	3914858880	3914858880	1.8	
+1482223029	The Ruined Square	dgr	MATCH	0	157x81	3907314149	3907314149	9.8	
+2072172649	The Cathedral Rooftop	dgr	MATCH	0	121x157	3324307379	3324307379	7.9	
+1	Lioneye's Watch	dgr	MATCH	0	30x24	2746767467	2746767467	2.7	
 573879234	The Coast	tgr	NOINST			3103396315		0.0	no outdoor instance for this seed (index status: generator failed)
-1	Sunspire Hideout	dgr	MATCH	0	39x39	738244828	738244828	2.3	
+1	Sunspire Hideout	dgr	MATCH	0	39x39	738244828	738244828	2.2	
 1	Synthesis Hideout	dgr	MATCH	0	21x21	4251354619	4251354619	1.3	
 2615028650	The Coast	tgr	NOINST			1570894170		0.0	no outdoor instance for this seed (index status: generator failed)
 1	Lush Hideout	dgr	MATCH	0	33x33	3482012158	3482012158	3.9	
-2012248676	The Coast	tgr	ERROR			3266985064		2.9	RuntimeError: Could not permute edges: 3 @ permute.py:269 permute
+2012248676	The Coast	tgr	ERROR			3266985064		2.7	RuntimeError: Could not permute edges: 3 @ permute.py:269 permute
 261715282	The Mud Flats	tgr	NOINST			2322674456		0.0	no outdoor instance for this seed (index status: generator failed)
-3891475801	The Karui Fortress	dgr	MATCH	0	78x51	2368626775	2368626775	5.0	
+3891475801	The Karui Fortress	dgr	MATCH	0	78x51	2368626775	2368626775	5.2	
 1674264912	Radiant Pools	tgr	NOINST			3647047670		0.0	no outdoor instance for this seed (index status: generator failed)
-1363251047	The Twilight Strand	tgr	ERROR			776092988		1.9	TypeError: 'NoneType' object is not subscriptable @ edge_sim.py:1697 make_node
+1363251047	The Twilight Strand	tgr	ERROR			776092988		1.8	TypeError: 'NoneType' object is not subscriptable @ edge_sim.py:1697 make_node
 3684453189	The Coast	tgr	NOINST			3709964821		0.0	no outdoor instance for this seed (index status: generator failed)
-1143220754	The Tidal Island	tgr	ERROR			3709616832		2.1	RuntimeError: Failed to tilise the non-virtual node 3 (348, 501) @ edge_sim.py:1603 setup
-1909704826	The Karui Fortress	dgr	MATCH	0	78x51	1066646842	1066646842	5.1	
+1143220754	The Tidal Island	tgr	ERROR			3709616832		1.8	RuntimeError: Failed to tilise the non-virtual node 3 (348, 501) @ edge_sim.py:1603 setup
+1909704826	The Karui Fortress	dgr	MATCH	0	78x51	1066646842	1066646842	4.9	
 1000094353	The Ridge	tgr	NOINST			1335019800		0.0	no outdoor instance for this seed (index status: generator failed)
 3738874253	The Lower Prison	dgr	MATCH	0	43x75	4175847380	4175847380	1.6	
-4232339628	The Sovereign	depths	MATCH	0	36x36	2422003186	2422003186	1.7	
-1981003104	The Fathomless Depths	depths	MATCH	0	73x36	917500374	917500374	5.3	
-403574281	The Lower Prison	dgr	MATCH	0	43x75	1540426058	1540426058	1.5	
-4231822657	Shavronne's Tower	dgr	MATCH	0	171x51	4075024961	4075024961	2.7	
+4232339628	The Sovereign	depths	MATCH	0	36x36	2422003186	2422003186	1.6	
+1981003104	The Fathomless Depths	depths	MATCH	0	73x36	917500374	917500374	7.5	
+403574281	The Lower Prison	dgr	MATCH	0	43x75	1540426058	1540426058	1.6	
+4231822657	Shavronne's Tower	dgr	MATCH	0	171x51	4075024961	4075024961	2.5	
 1594593724	Prisoner's Gate	tgr	NOINST			2594050326		0.0	no outdoor instance for this seed (index status: generator failed)
-2946423389	The Western Forest	tgr	ERROR			1577687285		2.8	TypeError: 'NoneType' object is not subscriptable @ edge_sim.py:1697 make_node
+2946423389	The Western Forest	tgr	ERROR			1577687285		2.9	TypeError: 'NoneType' object is not subscriptable @ edge_sim.py:1697 make_node
 2545505819	The Riverways	tgr	NOINST			768176795		0.0	no outdoor instance for this seed (index status: generator failed)
 940927949	The Southern Forest	tgr	NOINST			534497896		0.0	no outdoor instance for this seed (index status: generator failed)
 2555187645	Secluded Copse	dgr	MATCH	0	39x31	4254452920	4254452920	1.4	
-599246530	The Cavern of Anger	dgr	CELLS	211	133x71	3650738342	1009527068	7.6	first draw-stage not OK: graph; first mismatch: sim 0x14210862e ? draw(2270) = 332 [word 652] subgraph 0 graph stage vs log 0x142108799 draw(850) = 182
+599246530	The Cavern of Anger	dgr	MATCH	0	133x71	3650738342	3650738342	11.7	
 2273242513	The Beacon	tgr	NOINST			548745989		0.0	no outdoor instance for this seed (index status: generator failed)
-2877759920	Secluded Copse	dgr	MATCH	0	39x31	3928051857	3928051857	1.3	
+2877759920	Secluded Copse	dgr	MATCH	0	39x31	3928051857	3928051857	1.4	
 2951854765	The Brine King's Reef	tgr	NOINST			4191511973		0.0	no outdoor instance for this seed (index status: generator failed)
 826909937	Sunken Shingle	tgr	NOINST			1446955763		0.0	no outdoor instance for this seed (index status: generator failed)
 1	The Bridge Encampment	other	SKIP			651500549		0.0	generator ?
 1617114203	The Broken Bridge	tgr	ERROR			1501504445		2.0	TypeError: 'NoneType' object is not subscriptable @ edge_sim.py:1697 make_node
 1793766400	The Crossroads	tgr	NOINST			1515278809		0.0	no outdoor instance for this seed (index status: generator failed)
-4024180023	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	2481291711	2481291711	1.6	
-4180396544	The Fellshrine Ruins	tgr	ERROR			396502492		2.5	TypeError: 'NoneType' object is not subscriptable @ edge_sim.py:1697 make_node
-1981184456	The Crypt	dgr	MATCH	0	71x71	2021194995	2021194995	2.3	
-2533715097	Maligaro's Sanctum	dgr	CELLS	6341	105x87	314450607	1393820262	4.0	first draw-stage not OK: graph; first mismatch: sim 0x142105ee9 sub_142105A70+0x479 room chooser draw(8) = 6 [word 47] subgraph 0 graph stage vs log 0x142105ee9 draw(2) = 0
+4024180023	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	2481291711	2481291711	1.7	
+4180396544	The Fellshrine Ruins	tgr	ERROR			396502492		2.6	TypeError: 'NoneType' object is not subscriptable @ edge_sim.py:1697 make_node
+1981184456	The Crypt	dgr	MATCH	0	71x71	2021194995	2021194995	2.4	
+2533715097	Maligaro's Sanctum	dgr	ERROR			314450607		2.4	RuntimeError: Failed to find room that fits at room 5,2 (1x1 swamp_deep_pool_rooms.et) @ dungeon_graph.py:2023 pick_room
 1607794472	The Chamber of Sins Level 2	dgr	MATCH	0	59x106	1920017863	1920017863	2.6	
 3694988849	The Den	dgr	MATCH	0	59x59	144818764	144818764	1.4	
-2550931616	Covered-up Hollow	dgr	MATCH	0	43x35	1879773356	1879773356	1.5	
+2550931616	Covered-up Hollow	dgr	MATCH	0	43x35	1879773356	1879773356	1.4	
 1449694259	The Ashen Fields	tgr	ERROR			3061917637		2.8	RuntimeError: Could not permute edges: 7 @ permute.py:269 permute
 773500154	The Northern Forest	tgr	NOINST			3876175309		0.0	no outdoor instance for this seed (index status: generator failed)
-432732553	The Dread Thicket	dgr	CELLS	4118	187x47	1883037049	1632646900	3.0	first draw-stage not OK: graph; first mismatch: sim 0x142105ee9 sub_142105A70+0x479 room chooser draw(100) = 21 [word 1826] subgraph 1 graph stage vs log 0x142105ee9 draw(1) = 0
-783592476	Secluded Copse	dgr	MATCH	0	39x31	1409908282	1409908282	1.5	
+432732553	The Dread Thicket	dgr	MATCH	0	187x47	1883037049	1883037049	3.1	
+783592476	Secluded Copse	dgr	MATCH	0	39x31	1409908282	1409908282	1.4	
 866127088	The Sovereign	depths	MATCH	0	36x36	3688244998	3688244998	1.6	
 701080060	The Northern Forest	tgr	NOINST			1418380221		0.0	no outdoor instance for this seed (index status: generator failed)
-3182851902	The Causeway	dgr	MATCH	0	157x61	3351560268	3351560268	2.8	
-2393322748	The Vaal City	dgr	MATCH	0	78x120	3052310771	3052310771	3.8	
+3182851902	The Causeway	dgr	MATCH	0	157x61	3351560268	3351560268	2.6	
+2393322748	The Vaal City	dgr	MATCH	0	78x120	3052310771	3052310771	4.5	
 1011166828	The Temple of Decay Level 1	dgr	MATCH	0	63x115	1242027185	1242027185	2.4	
-1784571183	The Temple of Decay Level 2	dgr	MATCH	0	55x131	4088528523	4088528523	2.7	
-1906049691	The Sarn Ramparts	dgr	ERROR			3836528409		3.4	RuntimeError: Failed to find room that fits at room 1,4 (1x1 ramparts_wall.et) @ dungeon_graph.py:1860 pick_room
-1	The Sarn Encampment	dgr	MATCH	0	39x35	3615437189	3615437189	1.7	
-993420394	Aspirants' Plaza	dgr	MATCH	0	31x31	2646271961	2646271961	3.8	
-3795292572	The Toxic Conduits	dgr	CELLS	4124	59x168	2881309162	684131354	3.3	first draw-stage not OK: graph; first mismatch: sim 0x142105ee9 sub_142105A70+0x479 room chooser draw(100) = 34 [word 1540] subgraph 1 graph stage vs log 0x142105ee9 draw(1) = 0
-1225503678	Doedre's Cesspool	dgr	MATCH	0	69x69	1853879041	1853879041	2.1	
-3233060856	The Toxic Conduits	dgr	CELLS	4125	59x168	719177272	40979902	3.3	first draw-stage not OK: graph; first mismatch: sim 0x142105ee9 sub_142105A70+0x479 room chooser draw(100) = 29 [word 2012] subgraph 1 graph stage vs log 0x142105ee9 draw(1) = 0
-438094231	Walled-off Ducts	dgr	MATCH	0	39x39	4286032062	4286032062	2.1	
-375337592	Doedre's Cesspool	dgr	MATCH	0	69x69	3556033391	3556033391	2.0	
-3974747963	The Quay	dgr	MATCH	0	102x126	3003177446	3003177446	5.3	
-774780952	The Grain Gate	dgr	MATCH	0	78x108	3043379673	3043379673	5.4	
-2432663001	Neglected Cellar	dgr	MATCH	0	39x30	1901156714	1901156714	1.7	
+1784571183	The Temple of Decay Level 2	dgr	MATCH	0	55x131	4088528523	4088528523	3.0	
+1906049691	The Sarn Ramparts	dgr	CELLS	6091	96x172	3836528409	2995462763	10.8	first draw-stage not OK: fill; first mismatch: sim 0x141febfcf sub_141FEB970 fill draw(8) = 0 [word 16520] subgraph 0 fill cell (69,94) city_slums.gt vs log 0x141fec0ea draw(100) = 68
+1	The Sarn Encampment	dgr	MATCH	0	39x35	3615437189	3615437189	1.6	
+993420394	Aspirants' Plaza	dgr	MATCH	0	31x31	2646271961	2646271961	4.4	
+3795292572	The Toxic Conduits	dgr	MATCH	0	59x168	2881309162	2881309162	3.9	
+1225503678	Doedre's Cesspool	dgr	MATCH	0	69x69	1853879041	1853879041	2.0	
+3233060856	The Toxic Conduits	dgr	MATCH	0	59x168	719177272	719177272	3.6	
+438094231	Walled-off Ducts	dgr	MATCH	0	39x39	4286032062	4286032062	2.0	
+375337592	Doedre's Cesspool	dgr	MATCH	0	69x69	3556033391	3556033391	1.9	
+3974747963	The Quay	dgr	MATCH	0	102x126	3003177446	3003177446	6.9	
+774780952	The Grain Gate	dgr	MATCH	0	78x108	3043379673	3043379673	7.1	
+2432663001	Neglected Cellar	dgr	MATCH	0	39x30	1901156714	1901156714	1.8	
 748072072	The Imperial Fields	tgr	NOINST			3735547732		0.0	no outdoor instance for this seed (index status: generator failed)
-2556106696	The Solaris Temple Level 1	dgr	MATCH	0	89x77	4102415752	4102415752	10.3	
-464544080	The Solaris Temple Level 2	dgr	MATCH	0	93x93	3976814062	3976814062	3.8	
-1	ExileCon 2023 Hideout	dgr	MATCH	0	44x60	2546197278	2546197278	3.6	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(4) = 0 [word 1] hideout_level2.arm o0 at (6,22) vs log 0x1420efc0c draw(1) = 0
-657210394	The Solaris Temple Level 1	dgr	MATCH	0	89x77	3161500419	3161500419	12.0	
-2210125432	The Solaris Temple Level 2	dgr	MATCH	0	93x93	19476010	19476010	3.9	
+2556106696	The Solaris Temple Level 1	dgr	MATCH	0	89x77	4102415752	4102415752	16.0	
+464544080	The Solaris Temple Level 2	dgr	MATCH	0	93x93	3976814062	3976814062	4.5	
+1	ExileCon 2023 Hideout	dgr	MATCH	0	44x60	2546197278	2546197278	4.0	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(4) = 0 [word 1] hideout_level2.arm o0 at (6,22) vs log 0x1420efc0c draw(1) = 0
+657210394	The Solaris Temple Level 1	dgr	MATCH	0	89x77	3161500419	3161500419	18.2	
+2210125432	The Solaris Temple Level 2	dgr	MATCH	0	93x93	19476010	19476010	4.2	
 2370636568	Sacred Chambers	dgr	MATCH	0	35x41	3525423438	3525423438	2.0	
-1876677163	The Solaris Concourse	dgr	MATCH	0	78x96	3554542888	3554542888	7.6	
-1068480893	The Harbour Bridge	dgr	MATCH	0	168x96	3417105572	3417105572	5.6	
-2391431120	The Lunaris Concourse	dgr	MATCH	0	75x150	3324198366	3324198366	6.8	
-730588532	The Lunaris Temple Level 1	dgr	CELLS	6045	61x229	3512266583	658315112	8.5	first draw-stage not OK: graph; first mismatch: sim 0x142105ee9 sub_142105A70+0x479 room chooser draw(100) = 97 [word 15] subgraph 1 graph stage vs log 0x142105ee9 draw(1) = 0
-1510624776	Moonlit Chambers	dgr	MATCH	0	49x37	784856076	784856076	2.9	
-439290303	The Lunaris Temple Level 2	dgr	CELLS	7196	71x167	2867383623	3208213307	4.0	first draw-stage not OK: graph; first mismatch: sim 0x1420fd640 ? draw(1251) = 351 [word 1382] subgraph 0 graph stage vs log 0x1420fd640 draw(5650) = 512
-2733731916	The Lunaris Concourse	dgr	MATCH	0	75x150	141873562	141873562	6.7	
-2782365286	The Harbour Bridge	dgr	MATCH	0	168x96	3730713352	3730713352	5.7	
-1877788454	Stagnant Canal	dgr	CELLS	357	60x33	128702675	1410006114	3.5	first draw-stage not OK: fill; first mismatch: sim 0x141febf93 sub_141FEB970 fill draw(1) = 0 [word None] subgraph 0 fill cell (7,10) city_water.gt vs log 0x141fed896 draw(1) = 0
-896657505	The Blood Aqueduct	dgr	MATCH	0	48x180	3362388430	3362388430	3.4	
-1	Highgate	dgr	CELLS	1353	41x33	1434073308	3389837055	1.2	first draw-stage not OK: fill; first mismatch: sim 0x141febf93 sub_141FEB970 fill draw(100) = 39 [word 1] subgraph 0 fill cell (0,0) aqueduct_sky.gt vs log 0x1420efc0c draw(1) = 0
+1876677163	The Solaris Concourse	dgr	MATCH	0	78x96	3554542888	3554542888	11.4	
+1068480893	The Harbour Bridge	dgr	MATCH	0	168x96	3417105572	3417105572	6.8	
+2391431120	The Lunaris Concourse	dgr	MATCH	0	75x150	3324198366	3324198366	10.0	
+730588532	The Lunaris Temple Level 1	dgr	MATCH	0	61x229	3512266583	3512266583	11.6	
+1510624776	Moonlit Chambers	dgr	MATCH	0	49x37	784856076	784856076	2.6	
+439290303	The Lunaris Temple Level 2	dgr	CELLS	6454	71x167	2867383623	2157110433	6.8	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(320) = 3 [word 2225] walkway_highway_1.arm o2 at (44,80) vs log 0x1420efc0c draw(200) = 163
+2733731916	The Lunaris Concourse	dgr	MATCH	0	75x150	141873562	141873562	9.3	
+2782365286	The Harbour Bridge	dgr	MATCH	0	168x96	3730713352	3730713352	6.1	
+1877788454	Stagnant Canal	dgr	MATCH	0	60x33	128702675	128702675	3.7	
+896657505	The Blood Aqueduct	dgr	MATCH	0	48x180	3362388430	3362388430	3.1	
+1	Highgate	dgr	MATCH	0	41x33	1434073308	1434073308	2.5	
 1550935145	The Descent	tgr	NOINST			3145125938		0.0	no outdoor instance for this seed (index status: generator failed)
-2609346257	The Vastiri Desert	dgr	MATCH	0	84x72	1844785887	1844785887	4.2	
-309493809	The Sovereign	depths	MATCH	0	36x36	3071734900	3071734900	1.6	
+2609346257	The Vastiri Desert	dgr	MATCH	0	84x72	1844785887	1844785887	4.8	
+309493809	The Sovereign	depths	MATCH	0	36x36	3071734900	3071734900	1.7	
 3827215630	The Foothills	tgr	NOINST			3461867600		0.0	no outdoor instance for this seed (index status: generator failed)
 981678077	The Boiling Lake	tgr	NOINST			1779646633		0.0	no outdoor instance for this seed (index status: generator failed)
-907963433	The Vastiri Desert	dgr	MATCH	0	84x72	369089336	369089336	3.9	
-228834132	The Tunnel	dgr	MATCH	0	73x105	3517079195	3517079195	2.1	
-3998619120	Haunted Mineshaft	dgr	MATCH	0	49x49	2799420866	2799420866	2.3	
-2145317682	The Quarry	dgr	MATCH	0	102x84	2938400564	2938400564	5.5	
-2621271165	The Refinery	dgr	MATCH	0	117x85	354030528	354030528	5.6	
+907963433	The Vastiri Desert	dgr	MATCH	0	84x72	369089336	369089336	5.3	
+228834132	The Tunnel	dgr	MATCH	0	73x105	3517079195	3517079195	2.4	
+3998619120	Haunted Mineshaft	dgr	MATCH	0	49x49	2799420866	2799420866	2.7	
+2145317682	The Quarry	dgr	MATCH	0	102x84	2938400564	2938400564	8.5	
+2621271165	The Refinery	dgr	MATCH	0	117x85	354030528	354030528	9.4	
 3379021372	The Foothills	tgr	NOINST			1704573570		0.0	no outdoor instance for this seed (index status: generator failed)
 80730307	The Boiling Lake	tgr	NOINST			226452543		0.0	no outdoor instance for this seed (index status: generator failed)
-4240779025	The Quarry	dgr	MATCH	0	102x84	1604473495	1604473495	5.5	
-2043022934	The Belly of the Beast	dgr	CELLS	2586	73x103	2932764974	2638928846	1.4	first draw-stage not OK: graph; first mismatch: sim 0x14210862e ? draw(328) = 265 [word 129] subgraph 0 graph stage vs log 0x14210862e draw(182) = 73
-780755267	The Rotting Core	dgr	CELLS	5328	141x109	17407324	1979286765	5.6	first draw-stage not OK: graph; first mismatch: sim 0x142102c41 ? draw(840) = 259 [word 197] subgraph 0 graph stage vs log 0x1421029c7 draw(3) = 1
-1	Oriath Docks	dgr	MATCH	0	37x37	3320054456	3320054456	2.6	
-3599178296	The Cathedral Rooftop	dgr	MATCH	0	121x157	2232891092	2232891092	4.3	
-1837405360	Side Chapel	dgr	MATCH	0	79x79	4217226278	4217226278	2.3	
-2139050272	The Ravaged Square	dgr	MATCH	0	129x81	2728443893	2728443893	4.7	
-462968388	The Control Blocks	dgr	MATCH	0	85x85	3509728473	3509728473	2.2	
-1913361106	The Control Blocks	dgr	MATCH	0	91x85	3115849383	3115849383	2.3	
-2181307310	Reclaimed Barracks	dgr	MATCH	0	61x55	3454844210	3454844210	1.9	
-1842674717	The Ravaged Square	dgr	MATCH	0	129x81	252435474	252435474	4.9	
-1595576018	The Ossuary	dgr	MATCH	0	110x82	863241202	863241202	4.1	
-4152842669	The Reliquary	dgr	MATCH	0	61x67	2719794227	2719794227	1.7	
-2219835840	The Torched Courts	dgr	MATCH	0	77x77	2593344709	2593344709	1.8	
-3685162311	The Desecrated Chambers	dgr	MATCH	0	85x93	53037679	53037679	1.5	
-3321828212	The Ravaged Square	dgr	CELLS	4210	217x81	2178349546	2795668665	6.1	first draw-stage not OK: graph; first mismatch: sim 0x142105ee9 sub_142105A70+0x479 room chooser draw(100) = 14 [word 13868] subgraph 1 graph stage vs log 0x142105ee9 draw(1) = 0
-331904297	The Canals	dgr	MATCH	0	57x135	253417315	253417315	3.1	
-3508426414	The Feeding Trough	dgr	MATCH	0	147x159	131995204	131995204	5.0	
-2124104930	The Quarry	dgr	CELLS	4113	102x114	3013035528	776230929	5.9	first draw-stage not OK: tiliser; first mismatch: sim 0x141fe9a73 sub_141FE89E0 fill room: store pick draw(8) = 4 [word 1657] mission_1.arm o1 at (60,54) ExternalFeature vs log 0x141fe9f09 draw(1) = 0
-559510352	Haunted Mineshaft	dgr	MATCH	0	49x49	2029911990	2029911990	2.3	
-3376791209	The Vastiri Desert	dgr	CELLS	5085	84x72	3432629108	1490983741	4.0	first draw-stage not OK: graph; first mismatch: sim 0x1420ff711 ? draw(18) = 17 [word 1798] subgraph 0 graph stage vs log 0x1420efc0c draw(400) = 217
+4240779025	The Quarry	dgr	MATCH	0	102x84	1604473495	1604473495	8.3	
+2043022934	The Belly of the Beast	dgr	MATCH	0	73x103	2932764974	2932764974	1.7	
+780755267	The Rotting Core	dgr	CELLS	5328	141x109	17407324	1979286765	7.9	first draw-stage not OK: graph; first mismatch: sim 0x142102c41 ? draw(840) = 259 [word 197] subgraph 0 graph stage vs log 0x1421029c7 draw(3) = 1
+1	Oriath Docks	dgr	MATCH	0	37x37	3320054456	3320054456	2.8	
+3599178296	The Cathedral Rooftop	dgr	MATCH	0	121x157	2232891092	2232891092	6.1	
+1837405360	Side Chapel	dgr	MATCH	0	79x79	4217226278	4217226278	2.2	
+2139050272	The Ravaged Square	dgr	MATCH	0	129x81	2728443893	2728443893	6.2	
+462968388	The Control Blocks	dgr	MATCH	0	85x85	3509728473	3509728473	2.1	
+1913361106	The Control Blocks	dgr	MATCH	0	91x85	3115849383	3115849383	2.1	
+2181307310	Reclaimed Barracks	dgr	MATCH	0	61x55	3454844210	3454844210	1.7	
+1842674717	The Ravaged Square	dgr	MATCH	0	129x81	252435474	252435474	6.4	
+1595576018	The Ossuary	dgr	MATCH	0	110x82	863241202	863241202	5.0	
+4152842669	The Reliquary	dgr	MATCH	0	61x67	2719794227	2719794227	1.8	
+2219835840	The Torched Courts	dgr	MATCH	0	77x77	2593344709	2593344709	1.9	
+3685162311	The Desecrated Chambers	dgr	MATCH	0	85x93	53037679	53037679	1.6	
+3321828212	The Ravaged Square	dgr	MATCH	0	217x81	2178349546	2178349546	9.8	
+331904297	The Canals	dgr	MATCH	0	57x135	253417315	253417315	3.2	
+3508426414	The Feeding Trough	dgr	MATCH	0	147x159	131995204	131995204	6.9	
+2124104930	The Quarry	dgr	CELLS	4113	102x114	3013035528	776230929	8.7	first draw-stage not OK: tiliser; first mismatch: sim 0x141fe9a73 sub_141FE89E0 fill room: store pick draw(8) = 4 [word 1657] mission_1.arm o1 at (60,54) ExternalFeature vs log 0x141fe9f09 draw(1) = 0
+559510352	Haunted Mineshaft	dgr	MATCH	0	49x49	2029911990	2029911990	2.4	
+3376791209	The Vastiri Desert	dgr	MATCH	0	84x72	3432629108	3432629108	5.2	
 2057659728	The Oasis	tgr	ERROR			4148216990		2.5	RuntimeError: Failed to tilise the non-virtual node 1 (583, 516) @ edge_sim.py:1603 setup
-3149224873	Dusty Bluff	tgr	ERROR			2748218734		1.1	RuntimeError: Could not permute edges: 4 @ permute.py:269 permute
-3536082317	Doedre's Cesspool	dgr	MATCH	0	69x69	945915212	945915212	1.9	
-717193377	The Grand Promenade	dgr	MATCH	0	138x90	757908612	757908612	5.0	
-1263665994	The Bath House	dgr	CELLS	16	91x63	676576427	4165039941	3.3	
+3149224873	Dusty Bluff	tgr	ERROR			2748218734		1.0	RuntimeError: Could not permute edges: 4 @ permute.py:269 permute
+3536082317	Doedre's Cesspool	dgr	MATCH	0	69x69	945915212	945915212	2.0	
+717193377	The Grand Promenade	dgr	MATCH	0	138x90	757908612	757908612	6.5	
+1263665994	The Bath House	dgr	MATCH	0	91x63	676576427	676576427	3.7	
 1653703409	Prisoner's Gate	tgr	NOINST			1531167769		0.0	no outdoor instance for this seed (index status: generator failed)
-3063800985	The Broken Bridge	tgr	ERROR			2662979387		1.9	TypeError: 'NoneType' object is not subscriptable @ edge_sim.py:1697 make_node
+3063800985	The Broken Bridge	tgr	ERROR			2662979387		2.0	TypeError: 'NoneType' object is not subscriptable @ edge_sim.py:1697 make_node
 1327120653	Narrow Ravine	tgr	PARTIAL			673030557		1.0	room tiles 0/0; junction records 0/2; edge tiles 0/8
 3285807558	The Riverways	tgr	NOINST			1296025244		0.0	no outdoor instance for this seed (index status: generator failed)
 3498432223	The Wetlands	tgr	NOINST			1386278695		0.0	no outdoor instance for this seed (index status: generator failed)
 2372426144	The Sovereign	depths	MATCH	0	36x36	674500213	674500213	1.7	
 2742815401	The Tidal Island	tgr	NOINST			746164926		0.0	no outdoor instance for this seed (index status: generator failed)
-1	Glimmerwood Hideout	dgr	MATCH	0	30x30	165724475	165724475	2.0	
-1	Battle-scarred Hideout	dgr	MATCH	0	33x33	2479215559	2479215559	3.1	
+1	Glimmerwood Hideout	dgr	MATCH	0	30x30	165724475	165724475	2.1	
+1	Battle-scarred Hideout	dgr	MATCH	0	33x33	2479215559	2479215559	3.6	
 2445327803	The Ship Graveyard	tgr	NOINST			4282217149		0.0	no outdoor instance for this seed (index status: generator failed)
-2400635400	Alleyways	dgr	CELLS	4756	197x75	1095433766	4286660607	4.9	first draw-stage not OK: post; first mismatch: sim 0x14202795d sub_142027670+0x2ed post-tile pass draw(197) = 54 [word 3184] subgraph 0 post-tile pass vs log 0x14202795d draw(3) = 1
-2565914107	Chateau	dgr	MATCH	0	121x79	2907803743	2907803743	5.7	
+2400635400	Alleyways	dgr	MATCH	0	197x75	1095433766	1095433766	7.5	
+2565914107	Chateau	dgr	MATCH	0	121x79	2907803743	2907803743	8.1	
 1	The Dreadnought Hideout	dgr	CELLS	675	72x48	3576881561	474594840	1.8	first draw-stage not OK: graph; first mismatch: sim 0x14210862e ? draw(3003) = 0 [word 53] subgraph 0 graph stage vs log 0x14210862e draw(4004) = 0
 1	Vast Plains Hideout	dgr	MATCH	0	31x31	2330516475	2330516475	0.8	
-2210596230	The Ravaged Square	dgr	CELLS	4133	217x81	1418227854	1681087222	6.3	first draw-stage not OK: graph; first mismatch: sim 0x142105ee9 sub_142105A70+0x479 room chooser draw(100) = 21 [word 13840] subgraph 1 graph stage vs log 0x142105ee9 draw(1) = 0
-286111229	Aspirants' Plaza	dgr	MATCH	0	31x31	2256494012	2256494012	3.7	
-2579957462	Estate Path	dgr	MATCH	0	85x73	3541621928	3541621928	5.1	
+2210596230	The Ravaged Square	dgr	MATCH	0	217x81	1418227854	1418227854	10.2	
+286111229	Aspirants' Plaza	dgr	MATCH	0	31x31	2256494012	2256494012	4.5	
+2579957462	Estate Path	dgr	MATCH	0	85x73	3541621928	3541621928	6.9	
 2866914294	Aspirant's Trial	dgr	MATCH	0	25x49	2929733642	2929733642	2.9	
 2555006977	Sanitorium Halls	dgr	MATCH	0	47x47	297879765	297879765	2.2	
-417028868	Aspirant's Trial	dgr	MATCH	0	25x49	2206223273	2206223273	3.0	
-3831569174	Mansion Halls	dgr	MATCH	0	73x65	102232560	102232560	3.6	
-609657111	Estate Crossing	dgr	MATCH	0	67x85	1636822132	1636822132	4.9	
+417028868	Aspirant's Trial	dgr	MATCH	0	25x49	2206223273	2206223273	2.9	
+3831569174	Mansion Halls	dgr	MATCH	0	73x65	102232560	102232560	3.9	
+609657111	Estate Crossing	dgr	MATCH	0	67x85	1636822132	1636822132	7.0	
 4117083578	Aspirant's Trial	dgr	MATCH	0	49x57	1844463951	1844463951	3.1	
-1426617778	Aspirants' Plaza	dgr	MATCH	0	31x31	2279280259	2279280259	3.7	
-3103363698	Estate Walkways	dgr	MATCH	0	85x73	1995255546	1995255546	5.1	
-2291623195	Domain Walkways	dgr	CELLS	2023	87x81	1395951277	1956026431	4.4	first draw-stage not OK: graph; first mismatch: sim 0x142001ee5 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(202) = 10
+1426617778	Aspirants' Plaza	dgr	MATCH	0	31x31	2279280259	2279280259	4.5	
+3103363698	Estate Walkways	dgr	MATCH	0	85x73	1995255546	1995255546	6.7	
+2291623195	Domain Walkways	dgr	CELLS	2023	87x81	1395951277	1956026431	5.5	first draw-stage not OK: graph; first mismatch: sim 0x142001ee5 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(202) = 10
 4234693681	Sanitorium Halls	dgr	MATCH	0	47x47	938147403	938147403	2.2	
-2118311704	Aspirant's Trial	dgr	MATCH	0	25x49	1108902604	1108902604	2.9	
-1449463803	Sanitorium Halls	dgr	MATCH	0	47x47	2748140019	2748140019	2.3	first draw-stage not OK: graph; first mismatch: sim 0x14210862e ? draw(6058) = 1716 [word 170] subgraph 0 graph stage vs log 0x14210862e draw(4126) = 1202
-259205661	Estate Crossing	dgr	MATCH	0	67x85	4080815929	4080815929	5.1	
-1866444512	Aspirant's Trial	dgr	MATCH	0	49x57	3196040367	3196040367	3.0	
-335384607	Aspirants' Plaza	dgr	MATCH	0	31x31	3903009552	3903009552	3.6	
-2245694802	Estate Path	dgr	MATCH	0	85x73	1775558441	1775558441	5.0	
-1759117330	Aspirant's Trial	dgr	MATCH	0	25x49	1415103873	1415103873	3.0	
-841827259	Mansion Passage	dgr	MATCH	0	65x65	2698971466	2698971466	3.5	
-725554027	Sanitorium Halls	dgr	MATCH	0	47x47	2687346413	2687346413	2.4	
-1467770897	Sanitorium Passage	dgr	MATCH	0	47x47	3939685222	3939685222	2.2	
-2112044984	Aspirant's Trial	dgr	MATCH	0	25x49	409214662	409214662	2.9	
-2604101915	Domain Walkways	dgr	ERROR			2071139196		2.4	RuntimeError: Failed to find room that fits at room 4,3 (1x1 drygarden_large_wall_rooms.et) @ dungeon_graph.py:1860 pick_room
-3102021708	Sepulchre Halls	dgr	CELLS	20	47x47	2605021167	1749197170	1.9	
-1601677706	Aspirant's Trial	dgr	MATCH	0	49x57	1206592261	1206592261	2.7	
-1	Enigma Hideout	dgr	MATCH	0	24x59	4094111914	4094111914	4.1	
+2118311704	Aspirant's Trial	dgr	MATCH	0	25x49	1108902604	1108902604	3.0	
+1449463803	Sanitorium Halls	dgr	MATCH	0	47x47	2748140019	2748140019	2.2	
+259205661	Estate Crossing	dgr	MATCH	0	67x85	4080815929	4080815929	7.1	
+1866444512	Aspirant's Trial	dgr	MATCH	0	49x57	3196040367	3196040367	3.4	
+335384607	Aspirants' Plaza	dgr	MATCH	0	31x31	3903009552	3903009552	4.8	
+2245694802	Estate Path	dgr	MATCH	0	85x73	1775558441	1775558441	7.2	
+1759117330	Aspirant's Trial	dgr	MATCH	0	25x49	1415103873	1415103873	3.3	
+841827259	Mansion Passage	dgr	MATCH	0	65x65	2698971466	2698971466	4.6	
+725554027	Sanitorium Halls	dgr	MATCH	0	47x47	2687346413	2687346413	2.6	
+1467770897	Sanitorium Passage	dgr	MATCH	0	47x47	3939685222	3939685222	2.4	
+2112044984	Aspirant's Trial	dgr	MATCH	0	25x49	409214662	409214662	3.1	
+2604101915	Domain Walkways	dgr	ERROR			2071139196		2.5	RuntimeError: Failed to find room that fits at room 4,3 (1x1 drygarden_large_wall_rooms.et) @ dungeon_graph.py:2023 pick_room
+3102021708	Sepulchre Halls	dgr	MATCH	0	47x47	2605021167	2605021167	2.0	
+1601677706	Aspirant's Trial	dgr	MATCH	0	49x57	1206592261	1206592261	3.1	
+1	Enigma Hideout	dgr	MATCH	0	24x59	4094111914	4094111914	8.6	
+1689548851	Absence of Patience and Wisdom	dgr	MATCH	0	37x37	2843309688	2843309688	1.1	
+226142710	Syndicate Hideout	dgr	MATCH	0	39x147	347846035	347846035	6.0	
+3781505654	Fields	tgr	NOINST			3038873634		0.0	no outdoor instance for this seed (index status: generator failed)
+497910778	Blind Alley	dgr	MATCH	0	42x36	2641150544	2641150544	2.6	
+3221396953	Aspirants' Plaza	dgr	MATCH	0	31x31	70921370	70921370	4.4	
+4177797557	Estate Path	dgr	MATCH	0	85x73	3931653087	3931653087	7.1	
+2874527771	Aspirant's Trial	dgr	MATCH	0	25x49	2513669921	2513669921	2.9	
+53159711	Sepulchre Halls	dgr	MATCH	0	47x47	687179366	687179366	1.9	
+3101912795	Aspirant's Trial	dgr	MATCH	0	25x49	2863147108	2863147108	3.0	
+701672647	Mansion Halls	dgr	MATCH	0	73x65	917673758	917673758	4.1	
+2611254805	Sepulchre Halls	dgr	MATCH	0	47x47	2905834459	2905834459	1.9	
+546547562	Aspirant's Trial	dgr	MATCH	0	49x57	2890614182	2890614182	3.0	
+1	Stately Hideout	dgr	MATCH	0	81x81	3474430180	3474430180	2.2	
+3883261409	Cemetery	dgr	MATCH	0	71x71	805187908	805187908	5.0	
+3883261409	Cemetery	tgr	ERROR			3766429721		1.6	NotImplementedError: loop edge @ edge_sim.py:715 tilise_entry

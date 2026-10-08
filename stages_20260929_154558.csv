@@ -1,0 +1,3 @@
+seq,time,tid,kind,caller,bound_or_min,max,result,data
+0,1215038.3289567,28320,DUNGEON,0x1420455ab,0,0,0,dungeon pipeline entry
+1,1215038.329625,28320,DUNGEON_RET,0x1420455ab,0,0,2329960608,
