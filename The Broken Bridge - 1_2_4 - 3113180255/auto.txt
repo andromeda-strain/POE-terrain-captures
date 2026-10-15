@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1347971609 doodad hash 195312160 (CLI_ACTIVATE_MAP)
+AUTO seed 3113180255 The Broken Bridge: terrain act2/area4/ graph macro_broken_bridge1_4.tgr (16 locked nodes match; capture 47 nodes, graph 41)
+   typed nodes never placed by the client (untilised): [1, 2, 11, 12, 14, 15, 16, 17, 18, 19, 28, 31, 32, 36, 40]
+   deletion candidates: certain [1, 12, 36], uncertain [14, 15, 16]; 1 option(s) for -6 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\3113180255_the_broken_bridge\truth_3db54e633f0.tsv (66x96, 6336 cells) VERIFIED against tile hash 1347971609
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_3113180255.png

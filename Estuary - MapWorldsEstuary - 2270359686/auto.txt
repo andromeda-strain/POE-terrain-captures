@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3704644399 doodad hash 3983617936 (CLI_ACTIVATE_MAP)
+AUTO seed 2270359686 Estuary: terrain endgame/mapestuary/ graph estuary_3.tgr (9 locked nodes match; capture 39 nodes, graph 22)
+   typed nodes never placed by the client (untilised): [0, 3, 4, 5, 11, 12, 16, 17, 18, 19, 20]
+   deletion candidates: certain [0, 3, 4, 5, 12, 16, 17, 18, 19], uncertain []; 1 option(s) for -17 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\2270359686_estuary\truth_3466e17f3f0.tsv (123x81, 8272 cells) VERIFIED against tile hash 3704644399
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2270359686.png

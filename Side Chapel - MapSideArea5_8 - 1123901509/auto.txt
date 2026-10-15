@@ -1,0 +1,24 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3537605935 doodad hash 1832884006 (CLI_ACTIVATE_MAP)
+AUTO seed 1123901509 Side Chapel: dungeon area (capture captures/stages_20260930_131450.csv)
+   dungeon (.dgr) pipeline: 1342 draws in 17 call sites (2 generator draws before it, 7723 after it - the post passes); no generator model yet
+   0x14203a8e0: 7 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 1
+   0x142107272: 5 draws, bounds 38
+   0x1420fd32a: 25 draws, bounds 128
+   0x142012839: 1 draws, bounds 7
+   0x1420fd640: 18 draws, bounds 38
+   0x142001ee5: 9 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 7 draws, bounds 66,246,984
+   0x14210871c: 7 draws, bounds 840
+   0x1420efc0c: 201 draws, bounds 1,2,4,8,120
+   0x1420f6875: 33 draws, bounds 2,6
+   0x141febf93: 342 draws, bounds 100
+   0x141febfcf: 342 draws, bounds 8
+   0x141febd7f: 169 draws, bounds 100200
+   0x141fed1ec: 169 draws, bounds 8
+   0x14202795d: 4 draws, bounds 1
+   tile grid: captures\cases\1123901509_side_chapel\truth_26230527bf0.tsv (79x79, 6241 cells) VERIFIED against tile hash 3537605935
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1123901509.png

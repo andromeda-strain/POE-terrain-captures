@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2206223273 doodad hash 2407756799 (CLI_ACTIVATE_MAP)
+AUTO seed 417028868 Aspirant's Trial: dungeon area (capture captures/stages_20261006_222212.csv)
+   dungeon (.dgr) pipeline: 940 draws in 5 call sites (1 generator draws before it, 1516 after it - the post passes); no generator model yet
+   0x142032a2b: 1 draws, bounds 1
+   0x142105ee9: 2 draws, bounds 1
+   0x1420efc0c: 103 draws, bounds 8,100,200,400,600,800,1000
+   0x141febf93: 417 draws, bounds 100
+   0x141febfcf: 417 draws, bounds 8
+   tile grid: captures\cases\417028868_aspirant_s_trial\truth_2977e81cbf0.tsv (25x49, 1225 cells) VERIFIED against tile hash 2206223273
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_417028868.png

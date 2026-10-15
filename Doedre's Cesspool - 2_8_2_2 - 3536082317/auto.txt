@@ -1,0 +1,21 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 945915212 doodad hash 1506925444 (CLI_ACTIVATE_MAP)
+AUTO seed 3536082317 Doedre's Cesspool: dungeon area (capture captures/stages_20261005_125709.csv)
+   dungeon (.dgr) pipeline: 2511 draws in 14 call sites (4 generator draws before it, 9071 after it - the post passes); no generator model yet
+   0x14203a8e0: 25 draws, bounds 100
+   0x142105ee9: 7 draws, bounds 1
+   0x142107272: 12 draws, bounds 950,3494
+   0x1420fd32a: 102 draws, bounds 128
+   0x142012839: 2 draws, bounds 1,14
+   0x1420fd640: 205 draws, bounds 3494
+   0x142001ee5: 21 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 13 draws, bounds 4410,17120,95582,160802,170722,317102
+   0x14210871c: 13 draws, bounds 840
+   0x1420efc0c: 595 draws, bounds 2,80,100,120,200,220,260,400,420,600,800,900,...
+   0x1420f6875: 97 draws, bounds 40,80,120,200,400,1980
+   0x141febf93: 709 draws, bounds 1,130
+   0x141febfcf: 709 draws, bounds 8
+   tile grid: captures\cases\3536082317_doedre_s_cesspool\truth_357f1a0dbf0.tsv (69x69, 4761 cells) VERIFIED against tile hash 945915212
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_3536082317.png

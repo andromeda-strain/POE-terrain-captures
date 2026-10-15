@@ -1,0 +1,14 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 475509189 doodad hash 3762312480 (CLI_ACTIVATE_MAP)
+AUTO seed 1495617907 Cemetery: terrain endgame/mapcemetary/ graph cemetery_3.tgr (0 locked nodes match; capture 22 nodes, graph 24)
+   typed nodes never placed by the client (untilised): [1, 2, 9, 10]
+   deletion candidates: certain [2, 10], uncertain [1, 6, 7, 8, 9]; 1 option(s) for 2 deleted node(s)
+   removed nodes [2, 10], pre-mover words 0: free nodes 0/5 match
+   tile grid: captures\cases\1495617907_cemetery\truth_2f3a6453bf0.tsv (178x60, 9685 cells) VERIFIED against tile hash 475509189
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1495617907.png
+   FAIL: permute-in 0/14 ERROR RuntimeError: Could not permute edges: 1, 4
+   layout: not rendered: \repos\POE 3.29.3b\Work\tools\permute.py", line 269, in permute
+    raise RuntimeError('Could not permute edges: ' + ', '.join(str(e.label) for e in again))
+RuntimeError: Could not permute edges: 1, 4; minimap captures\minimap_1495617907.png
+   corpus row already present

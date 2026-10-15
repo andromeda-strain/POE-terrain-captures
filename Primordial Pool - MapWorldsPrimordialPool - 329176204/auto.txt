@@ -1,0 +1,36 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2123245014 doodad hash 3269651593 (CLI_ACTIVATE_MAP)
+AUTO seed 329176204 Primordial Pool: dungeon area (capture captures/Primordial Pool - MapWorldsPrimordialPool - 329176204/stages_20261014_220813.csv)
+   dungeon (.dgr) pipeline: 4464 draws in 29 call sites (9 generator draws before it, 24141 after it - the post passes); no generator model yet
+   0x14203a8e0: 14 draws, bounds 100
+   0x142105ee9: 4 draws, bounds 1,100
+   0x142107272: 8 draws, bounds 18,416,775
+   0x1420fd32a: 153 draws, bounds 128
+   0x142012839: 3 draws, bounds 2,4,6
+   0x1420fd640: 479 draws, bounds 89,416,775
+   0x142001ee5: 28 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 3
+   0x14210862e: 23 draws, bounds 11,41,82,123,361,722,2008,7581
+   0x14210871c: 23 draws, bounds 840
+   0x142109942: 74 draws, bounds 1
+   0x142109cdf: 74 draws, bounds 1
+   0x142109cf6: 74 draws, bounds 840
+   0x1420ff711: 1 draws, bounds 3
+   0x1420ff72b: 1 draws, bounds 1
+   0x1420efc0c: 505 draws, bounds 1,2,4,6,8,24
+   0x1420f6875: 82 draws, bounds 1,2,4,8
+   0x1420f7228: 8 draws, bounds 8
+   0x1420f16eb: 1 draws, bounds 8045
+   0x1420f1d73: 4 draws, bounds 1
+   0x141fe9a73: 28 draws, bounds 8
+   0x141fe90a5: 8 draws, bounds 631
+   0x141fe9173: 8 draws, bounds 8
+   0x141febf93: 1413 draws, bounds 1,3,8,13,631
+   0x141febfcf: 1386 draws, bounds 8
+   0x141fec0ea: 22 draws, bounds 629,630
+   0x141fec1d8: 20 draws, bounds 8
+   0x141fece63: 7 draws, bounds 840
+   0x14202795d: 12 draws, bounds 1
+   tile grid: captures\Primordial Pool - MapWorldsPrimordialPool - 329176204\truth_5622dd723f0.tsv (135x75, 8650 cells) VERIFIED against tile hash 2123245014
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\Primordial Pool - MapWorldsPrimordialPool - 329176204\minimap.png

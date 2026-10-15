@@ -1,0 +1,20 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1930972173 doodad hash 193409974 (CLI_ACTIVATE_MAP)
+AUTO seed 1561632758 Concealed Cavity: dungeon area (capture captures/Concealed Cavity - MapSideArea1_2 - 1561632758/stages_20261013_152541.csv)
+   dungeon (.dgr) pipeline: 724 draws in 13 call sites (2 generator draws before it, 11786 after it - the post passes); no generator model yet
+   0x14203a8e0: 1 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 1,6
+   0x1420fd32a: 21 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 44 draws, bounds 101
+   0x142001ee5: 6 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 5 draws, bounds 130,205,2984,3847
+   0x14210871c: 5 draws, bounds 840
+   0x1420efc0c: 196 draws, bounds 1,2,4,8,10,12,800
+   0x1420f6875: 54 draws, bounds 4,10,12
+   0x141febf93: 194 draws, bounds 1,100
+   0x141febfcf: 194 draws, bounds 8
+   tile grid: captures\Concealed Cavity - MapSideArea1_2 - 1561632758\truth_3a442f783f0.tsv (41x37, 1517 cells) VERIFIED against tile hash 1930972173
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\Concealed Cavity - MapSideArea1_2 - 1561632758\minimap.png

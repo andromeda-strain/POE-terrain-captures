@@ -1,0 +1,13 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2846838185 doodad hash 4066892472 (CLI_ACTIVATE_MAP)
+AUTO seed 512272274 Gambling District: dungeon area (capture captures/stages_20261009_190633.csv)
+   dungeon (.dgr) pipeline: 481 draws in 6 call sites (1 generator draws before it, 123 after it - the post passes); no generator model yet
+   0x142105ee9: 1 draws, bounds 1
+   0x1420efc0c: 31 draws, bounds 1,2,4,8
+   0x1420f6875: 4 draws, bounds 4
+   0x141febf93: 221 draws, bounds 1
+   0x141febfcf: 221 draws, bounds 8
+   0x14202795d: 3 draws, bounds 1
+   tile grid: captures\cases\512272274_gambling_district\truth_346f14533f0.tsv (27x36, 972 cells) VERIFIED against tile hash 2846838185
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_512272274.png

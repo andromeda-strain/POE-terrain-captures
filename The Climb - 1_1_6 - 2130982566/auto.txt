@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 806503697 doodad hash 3209592444 (CLI_ACTIVATE_MAP)
+AUTO seed 2130982566 The Climb: terrain act1/area6/ graph macro_climb2_3.tgr (2 locked nodes match; capture 32 nodes, graph 17)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16]
+   deletion candidates: certain [0, 1, 2, 3, 4, 5, 7, 8, 10, 11, 13, 15, 16], uncertain []; 1 option(s) for -15 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\2130982566_the_climb\truth_3db4e67ebf0.tsv (51x102, 5202 cells) VERIFIED against tile hash 806503697
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2130982566.png

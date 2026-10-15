@@ -1,0 +1,16 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3174309766 doodad hash 1813095347 (CLI_ACTIVATE_MAP)
+AUTO seed 1594771754 The Western Forest: terrain act2/area9/ graph macro_bandit_camp1_1_1.tgr (3 locked nodes match; capture 40 nodes, graph 23)
+   typed nodes never placed by the client (untilised): [0, 1, 4, 5, 13, 14, 15, 17, 21]
+   deletion candidates: certain [1, 14, 15, 21], uncertain [13]; 1 option(s) for -17 deleted node(s)
+   removed nodes [1, 14, 15, 21], pre-mover words 0: free nodes 0/8 match
+   tile grid: captures\cases\1594771754_the_western_forest\truth_3dba1364bf0.tsv (102x81, 8262 cells) VERIFIED against tile hash 3174309766
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap render failed: captures\minimap_1594771754.png is held open by another process; the render was not written
+   FAIL: permute-in 0/19, permute-out 0/19, rounder-in-1 0/19, rounder-in-2 0/19 ERROR TypeError: 'NoneType' object is not subscriptable
+   layout: not rendered: j, like=nd)
+  File "D:\repos\POE 3.29.3b\Work\tools\edge_sim.py", line 1697, in make_node
+    nn = Node(nid, pos[0], pos[1])
+                   ~~~^^^
+TypeError: 'NoneType' object is not subscriptable; minimap captures\minimap_1594771754.png
+   corpus row already present

@@ -1,0 +1,37 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3799672527 doodad hash 3844548121 (CLI_ACTIVATE_MAP)
+AUTO seed 4089459784 The Dried Lake: dungeon area (capture captures/stages_20261001_101821.csv)
+   dungeon (.dgr) pipeline: 3944 draws in 30 call sites (5 generator draws before it, 4582 after it - the post passes); no generator model yet
+   0x14203a8e0: 15 draws, bounds 100
+   0x142105ee9: 9 draws, bounds 100,800
+   0x142107272: 4 draws, bounds 500,1800
+   0x1420fd32a: 539 draws, bounds 128
+   0x142012839: 8 draws, bounds 1,2,3
+   0x1420fd640: 622 draws, bounds 200,300,500,600,1800
+   0x142001ee5: 59 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 6
+   0x14210862e: 49 draws, bounds 4100,8200,16400,36100,72200
+   0x14210871c: 49 draws, bounds 840
+   0x142109942: 35 draws, bounds 100,500
+   0x142109cdf: 35 draws, bounds 100,200,300
+   0x142109cf6: 35 draws, bounds 840
+   0x142109a4b: 4 draws, bounds 300
+   0x1421029c7: 1 draws, bounds 1
+   0x1420ff711: 1 draws, bounds 13
+   0x1420ff72b: 1 draws, bounds 1
+   0x142102c41: 1 draws, bounds 840
+   0x1420efc0c: 401 draws, bounds 8,100,200,400,800
+   0x141d8b5ab: 1 draws, bounds 1
+   0x141fe9a73: 474 draws, bounds 8,100,200,320,400
+   0x141febf93: 168 draws, bounds 1
+   0x141febfcf: 168 draws, bounds 8
+   0x141febd7f: 665 draws, bounds 556,557,562,566,567,569,572,574,576,577,582,584,...
+   0x141fed1ec: 414 draws, bounds 8
+   0x141fed0cc: 6 draws, bounds 840
+   0x141fe90a5: 29 draws, bounds 400
+   0x141fe9173: 29 draws, bounds 8
+   0x141fed087: 94 draws, bounds 8
+   0x14202795d: 27 draws, bounds 100,200,300
+   tile grid: captures\cases\4089459784_the_dried_lake\truth_294988fd3f0.tsv (54x78, 4212 cells) VERIFIED against tile hash 3799672527
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_4089459784.png

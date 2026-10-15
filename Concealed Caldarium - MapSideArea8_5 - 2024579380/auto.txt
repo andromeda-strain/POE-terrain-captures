@@ -1,0 +1,27 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1167527109 doodad hash 1082179920 (CLI_ACTIVATE_MAP)
+AUTO seed 2024579380 Concealed Caldarium: dungeon area (capture captures/Concealed Caldarium - MapSideArea8_5 - 2024579380/stages_20261013_163503.csv)
+   dungeon (.dgr) pipeline: 1433 draws in 20 call sites (2 generator draws before it, 6811 after it - the post passes); no generator model yet
+   0x14203a8e0: 6 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 100
+   0x1420038a1: 2 draws, bounds 100
+   0x1420fd32a: 25 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 57 draws, bounds 2800
+   0x142001ee5: 14 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x1420fcc6c: 1 draws, bounds 2
+   0x1420fce8c: 1 draws, bounds 100
+   0x142100f13: 11 draws, bounds 0,1,2,3
+   0x142101086: 4 draws, bounds 100
+   0x14210862e: 9 draws, bounds 180,300,1980,7380,165700
+   0x14210871c: 9 draws, bounds 840
+   0x1420efc0c: 415 draws, bounds 2,8,100,200,400,600,800,1000,1600
+   0x1420f6875: 71 draws, bounds 100,200,400,1000
+   0x1420f45dc: 14 draws, bounds 1
+   0x1420f4807: 14 draws, bounds 400
+   0x141febf93: 388 draws, bounds 1,100
+   0x141febfcf: 388 draws, bounds 8
+   tile grid: captures\Concealed Caldarium - MapSideArea8_5 - 2024579380\truth_3a3fe4f13f0.tsv (45x45, 2025 cells) VERIFIED against tile hash 1167527109
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\Concealed Caldarium - MapSideArea8_5 - 2024579380\minimap.png

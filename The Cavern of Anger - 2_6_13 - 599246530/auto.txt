@@ -1,0 +1,41 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3650738342 doodad hash 3617611870 (CLI_ACTIVATE_MAP)
+AUTO seed 599246530 The Cavern of Anger: dungeon area (capture captures/stages_20261003_225256.csv)
+   dungeon (.dgr) pipeline: 4657 draws in 34 call sites (8 generator draws before it, 24462 after it - the post passes); no generator model yet
+   0x14203a8e0: 15 draws, bounds 100
+   0x142105ee9: 22 draws, bounds 1,8
+   0x142105f65: 10 draws, bounds 8
+   0x142107272: 4 draws, bounds 502,785,865
+   0x1420038a1: 2 draws, bounds 100
+   0x1420fd32a: 210 draws, bounds 128
+   0x142012839: 2 draws, bounds 2,7
+   0x1420fd640: 347 draws, bounds 865,1167
+   0x142001ee5: 41 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 2
+   0x1420fc444: 3 draws, bounds 100
+   0x1420fc477: 3 draws, bounds 0,2,4
+   0x1420fcc6c: 2 draws, bounds 1
+   0x1420fce8c: 2 draws, bounds 100
+   0x142100f13: 4 draws, bounds 1,2
+   0x142101086: 4 draws, bounds 100
+   0x14210862e: 25 draws, bounds 1,4,66,76,117,240,372,850,1003,2270,3180,7290,...
+   0x14210871c: 25 draws, bounds 840
+   0x142108799: 4 draws, bounds 76,850,13940
+   0x1421087b9: 4 draws, bounds 840
+   0x1421029c7: 2 draws, bounds 4
+   0x1420ff711: 2 draws, bounds 15,16
+   0x1420ff72b: 2 draws, bounds 1
+   0x142102c41: 2 draws, bounds 840
+   0x1420efc0c: 885 draws, bounds 1,2,4,8,10,12,16,48,840
+   0x141d8b5ab: 2 draws, bounds 1,2
+   0x141fe9a73: 18 draws, bounds 8
+   0x1420f6875: 374 draws, bounds 1,2,4,10,12,16
+   0x141febf93: 1290 draws, bounds 1,8,100,120,760
+   0x141febfcf: 1245 draws, bounds 8
+   0x141fec0ea: 59 draws, bounds 340,410,480,550,620,690
+   0x141fec1d8: 25 draws, bounds 8
+   0x141fece63: 20 draws, bounds 840
+   0x14202795d: 1 draws, bounds 1
+   tile grid: captures\cases\599246530_the_cavern_of_anger\truth_23fcd9dbbf0.tsv (133x71, 8762 cells) VERIFIED against tile hash 3650738342
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_599246530.png

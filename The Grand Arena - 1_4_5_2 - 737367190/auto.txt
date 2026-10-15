@@ -1,0 +1,24 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2093610799 doodad hash 3522232012 (CLI_ACTIVATE_MAP)
+AUTO seed 737367190 The Grand Arena: dungeon area (capture captures/stages_20261002_155951.csv)
+   dungeon (.dgr) pipeline: 5721 draws in 17 call sites (5 generator draws before it, 1206 after it - the post passes); no generator model yet
+   0x14203a8e0: 9 draws, bounds 100
+   0x142105ee9: 18 draws, bounds 100,200,300
+   0x1420fd32a: 481 draws, bounds 128
+   0x142012839: 2 draws, bounds 2,7
+   0x1420fd640: 463 draws, bounds 751,3702
+   0x142001ee5: 15 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 2
+   0x14210862e: 6 draws, bounds 4100,41012
+   0x14210871c: 6 draws, bounds 840
+   0x1420efc0c: 870 draws, bounds 100,200,400,800,1000,2400
+   0x1420f6875: 33 draws, bounds 200
+   0x1420f16eb: 1 draws, bounds 1975
+   0x1420f1d73: 2 draws, bounds 1
+   0x141fe9a73: 18 draws, bounds 800
+   0x141febf93: 1897 draws, bounds 100,300
+   0x141febfcf: 1897 draws, bounds 8
+   0x14202795d: 2 draws, bounds 100
+   tile grid: captures\cases\737367190_the_grand_arena\truth_5f73a89e3f0.tsv (97x151, 14647 cells) VERIFIED against tile hash 2093610799
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_737367190.png

@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3224415484 doodad hash 1873513751 (CLI_ACTIVATE_MAP)
+AUTO seed 270326391 Cold River: terrain endgame/mapcoldriver/ graph coldriver_02.tgr (2 locked nodes match; capture 30 nodes, graph 25)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 8, 12, 13]
+   deletion candidates: certain [0, 1, 3, 13], uncertain [2, 12]; 1 option(s) for -5 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\270326391_cold_river\truth_22166970bf0.tsv (120x84, 8281 cells) VERIFIED against tile hash 3224415484
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_270326391.png

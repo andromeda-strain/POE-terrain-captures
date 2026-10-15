@@ -1,0 +1,14 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3517004770 doodad hash 2208223044 (CLI_ACTIVATE_MAP)
+AUTO seed 4142920631 Strand: terrain leagues/azmeri/azmeriwoods/ graph woods_01.tgr (11 locked nodes match; capture 26 nodes, graph 18)
+   typed nodes never placed by the client (untilised): [1, 7, 12, 13, 14]
+   deletion candidates: certain [0, 5, 8, 9], uncertain []; 1 option(s) for -8 deleted node(s)
+   removed nodes [0, 5, 8, 9], pre-mover words 0: free nodes 0/5 match
+   tile grid: captures\cases\4142920631_strand\truth_46d1a0b3bf0.tsv (123x190, 20692 cells) VERIFIED against tile hash 3517004770
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_4142920631.png
+   FAIL: permute-in 1/15, permute-out 0/15, rounder-in-1 0/15, rounder-in-2 0/15 ERROR NotImplementedError: virtual edges not reached by any chain: ['2', '3']
+   layout: not rendered: tools\edge_sim.py", line 1726, in virtual_stage
+    raise NotImplementedError(f'virtual edges not reached by any chain: {left}')
+NotImplementedError: virtual edges not reached by any chain: ['2', '3']; minimap captures\minimap_4142920631.png
+   corpus row already present

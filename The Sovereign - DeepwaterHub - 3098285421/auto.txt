@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1231693686 doodad hash 832597477 (CLI_ACTIVATE_MAP)
+AUTO seed 3098285421 The Sovereign: dungeon area (capture captures/stages_20260929_185747.csv)
+   dungeon (.dgr) pipeline: 580 draws in 4 call sites (1 generator draws before it, 6 after it - the post passes); no generator model yet
+   0x142105ee9: 2 draws, bounds 1
+   0x1420efc0c: 2 draws, bounds 1
+   0x141febf93: 288 draws, bounds 1
+   0x141febfcf: 288 draws, bounds 8
+   tile grid: captures\cases\3098285421_the_sovereign\truth_22812d793f0.tsv (36x36, 1296 cells) VERIFIED against tile hash 1231693686
+   walkable field: not read (  D:\repos\POE 3.29.3b\Work\captures\cases\3098285421_the_sovereign\walk_0.png: values [(0, 136693), (1, 2653), (2, 2850)
+   minimap (the client's grid): captures\minimap_3098285421.png

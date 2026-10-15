@@ -1,0 +1,39 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3043379673 doodad hash 3480154539 (CLI_ACTIVATE_MAP)
+AUTO seed 774780952 The Grain Gate: dungeon area (capture captures/stages_20261004_211819.csv)
+   dungeon (.dgr) pipeline: 3387 draws in 32 call sites (6 generator draws before it, 44374 after it - the post passes); no generator model yet
+   0x142031e88: 1 draws, bounds 2
+   0x142031ea6: 1 draws, bounds 1
+   0x14203a8e0: 22 draws, bounds 100
+   0x142030de5: 1 draws, bounds 2
+   0x142105ee9: 9 draws, bounds 100,1600
+   0x142107272: 13 draws, bounds 3,3403
+   0x1420fd32a: 130 draws, bounds 128
+   0x142012839: 2 draws, bounds 5,14
+   0x1420fd640: 451 draws, bounds 3403
+   0x142001ee5: 32 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 23 draws, bounds 41,36100,108300
+   0x14210871c: 23 draws, bounds 840
+   0x142109942: 75 draws, bounds 100,2570
+   0x142109cdf: 75 draws, bounds 100,480,690
+   0x142109cf6: 75 draws, bounds 840
+   0x142109a4b: 20 draws, bounds 1140,1180,1280,1370,1740,1780,1880,1970,2010,2110,2240,2340,...
+   0x142101b93: 1 draws, bounds 2
+   0x1420ff711: 1 draws, bounds 2
+   0x1420ff72b: 1 draws, bounds 1
+   0x1420efc0c: 661 draws, bounds 8,100,200,300,400,500,720,800,900,960,1200,2400
+   0x1420f16eb: 1 draws, bounds 3920
+   0x1420f1d73: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 800
+   0x141febf93: 499 draws, bounds 1,300,380
+   0x141febfcf: 485 draws, bounds 8
+   0x141febd7f: 474 draws, bounds 466,489,511,516,524,531,534,539,541,549,554,561,...
+   0x141fed1ec: 248 draws, bounds 8
+   0x141fec0ea: 22 draws, bounds 335,342,350,357,365,372
+   0x141fec1d8: 14 draws, bounds 8
+   0x141fed232: 1 draws, bounds 840
+   0x14202795d: 15 draws, bounds 100,200,750
+   tile grid: captures\cases\774780952_the_grain_gate\truth_2520f71f3f0.tsv (78x108, 8424 cells) VERIFIED against tile hash 3043379673
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_774780952.png

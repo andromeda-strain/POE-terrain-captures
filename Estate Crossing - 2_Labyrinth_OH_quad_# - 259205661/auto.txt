@@ -1,0 +1,28 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 4080815929 doodad hash 50791157 (CLI_ACTIVATE_MAP)
+AUTO seed 259205661 Estate Crossing: dungeon area (capture captures/stages_20261006_224524.csv)
+   dungeon (.dgr) pipeline: 2402 draws in 21 call sites (3 generator draws before it, 1478 after it - the post passes); no generator model yet
+   0x14203a8e0: 24 draws, bounds 100
+   0x142105ee9: 8 draws, bounds 1,3,100,320
+   0x142105f65: 1 draws, bounds 100
+   0x142107272: 10 draws, bounds 322,954,2078,2303,4156
+   0x1420fd32a: 147 draws, bounds 128
+   0x142012839: 3 draws, bounds 5,6,8
+   0x1420fd640: 232 draws, bounds 954,2078,4156
+   0x142001ee5: 29 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 3
+   0x14210862e: 17 draws, bounds 278,1089,4059,5764,8396,9758,10036,23150,29425,50200,55965
+   0x14210871c: 17 draws, bounds 840
+   0x1420ff711: 1 draws, bounds 5
+   0x1420ff72b: 1 draws, bounds 1
+   0x1420efc0c: 728 draws, bounds 8,100,200,400,600,800,1000,1200,1400,1600,2400
+   0x1420f6875: 172 draws, bounds 100,200,400,800,1000
+   0x1420f7228: 10 draws, bounds 800
+   0x1420f45dc: 1 draws, bounds 1
+   0x1420f47d8: 1 draws, bounds 1
+   0x1420f4807: 1 draws, bounds 400
+   0x141febf93: 499 draws, bounds 1,100
+   0x141febfcf: 499 draws, bounds 8
+   tile grid: captures\cases\259205661_estate_crossing\truth_2977efbc3f0.tsv (67x85, 5695 cells) VERIFIED against tile hash 4080815929
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_259205661.png

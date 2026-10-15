@@ -1,0 +1,33 @@
+2026/10/15 13:17:14 1115176781 1186a8a3 [DEBUG Client 19004] Generating level 60 area "HideoutCoral" with seed 1
+2026/10/15 13:17:14 1115176953 f22b6a02 [INFO Client 19004] Tile hash: 805187908
+2026/10/15 13:17:14 1115176953 f22b6a0d [INFO Client 19004] Doodad hash: 0
+2026/10/15 13:17:14 1115176968 e001b752 [INFO Client 19004] [SCENE] Set Source [(null)]
+2026/10/15 13:17:14 1115176968 e001b752 [INFO Client 19004] [SCENE] Set Source [Coral Hideout]
+2026/10/15 13:17:15 1115177015 df74e03b [DEBUG Client 19004] [SCENE] Static Walkability Texture: 545 x 545
+2026/10/15 13:17:15 1115177906 cffb065b [INFO Client 19004] : You have entered Coral Hideout.
+2026/10/15 13:17:16 1115178156 a15e960c [INFO Client 19004] [LOADING SCREEN] (Coral Hideout) Duration = 1.50034 seconds
+2026/10/15 13:17:30 1115192625 50ff6b68 [DEBUG Client 19004] [ETrade] Requesting to instance for api type 0, request_id = 1
+2026/10/15 13:17:30 1115192625 50ff6b68 [DEBUG Client 19004] [ETrade] Requesting to instance for api type 1, request_id = 2
+2026/10/15 13:17:30 1115192625 50ff6b68 [DEBUG Client 19004] [ETrade] Requesting to instance for api type 3, request_id = 3
+2026/10/15 13:17:31 1115193250 50ff808a [DEBUG Client 19004] [ETrade] Response from instance for request_id 3, error = 0, took 623 ms
+2026/10/15 13:17:31 1115193812 50ff808a [DEBUG Client 19004] [ETrade] Response from instance for request_id 1, error = 0, took 1187 ms
+2026/10/15 13:17:31 1115193906 ca86fd18 [DEBUG Client 19004] Core::OpenVirtualKeyboard called with mode '0', default text '' and title 'Search Items'
+2026/10/15 13:17:32 1115194500 50ff808a [DEBUG Client 19004] [ETrade] Response from instance for request_id 2, error = 0, took 1874 ms
+2026/10/15 13:17:43 1115205968 50ff6b68 [DEBUG Client 19004] [ETrade] Requesting to instance for api type 4, request_id = 4
+2026/10/15 13:17:44 1115206187 50ff808a [DEBUG Client 19004] [ETrade] Response from instance for request_id 4, error = 0, took 218 ms
+2026/10/15 13:17:44 1115206187 50ff6b68 [DEBUG Client 19004] [ETrade] Requesting to instance for api type 5, request_id = 5
+2026/10/15 13:17:44 1115206437 50ff808a [DEBUG Client 19004] [ETrade] Response from instance for request_id 5, error = 0, took 250 ms
+2026/10/15 13:17:47 1115209343 50ff6b68 [DEBUG Client 19004] [ETrade] Requesting to instance for api type 4, request_id = 6
+2026/10/15 13:17:47 1115209562 50ff808a [DEBUG Client 19004] [ETrade] Response from instance for request_id 6, error = 0, took 216 ms
+2026/10/15 13:17:47 1115209562 50ff6b68 [DEBUG Client 19004] [ETrade] Requesting to instance for api type 5, request_id = 7
+2026/10/15 13:17:47 1115209906 50ff808a [DEBUG Client 19004] [ETrade] Response from instance for request_id 7, error = 0, took 337 ms
+2026/10/15 13:17:52 1115214781 50ff6b68 [DEBUG Client 19004] [ETrade] Requesting to instance for api type 5, request_id = 8
+2026/10/15 13:17:52 1115215000 50ff808a [DEBUG Client 19004] [ETrade] Response from instance for request_id 8, error = 0, took 216 ms
+2026/10/15 13:17:58 1115220031 50ff6b68 [DEBUG Client 19004] [ETrade] Requesting to instance for api type 4, request_id = 9
+2026/10/15 13:17:58 1115220250 50ff808a [DEBUG Client 19004] [ETrade] Response from instance for request_id 9, error = 0, took 218 ms
+2026/10/15 13:17:58 1115220250 50ff6b68 [DEBUG Client 19004] [ETrade] Requesting to instance for api type 5, request_id = 10
+2026/10/15 13:17:58 1115220500 50ff808a [DEBUG Client 19004] [ETrade] Response from instance for request_id 10, error = 0, took 240 ms
+2026/10/15 13:18:02 1115224750 50ff6b68 [DEBUG Client 19004] [ETrade] Requesting to instance for api type 5, request_id = 11
+2026/10/15 13:18:03 1115225093 50ff808a [DEBUG Client 19004] [ETrade] Response from instance for request_id 11, error = 0, took 340 ms
+2026/10/15 13:18:10 1115232468 50ff6b68 [DEBUG Client 19004] [ETrade] Requesting to instance for api type 5, request_id = 12
+2026/10/15 13:18:10 1115232687 50ff808a [DEBUG Client 19004] [ETrade] Response from instance for request_id 12, error = 0, took 216 ms

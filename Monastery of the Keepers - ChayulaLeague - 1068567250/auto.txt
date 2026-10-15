@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 739522572 doodad hash 3027715398 (CLI_ACTIVATE_MAP)
+AUTO seed 1068567250 Monastery of the Keepers: dungeon area (capture captures/stages_20261001_171522.csv)
+   dungeon (.dgr) pipeline: 2 draws in 2 call sites (1 generator draws before it, 491 after it - the post passes); no generator model yet
+   0x142105ee9: 1 draws, bounds 1
+   0x1420efc0c: 1 draws, bounds 1
+   tile grid: captures\cases\1068567250_monastery_of_the_keepers\truth_3db4f9f43f0.tsv (30x36, 1080 cells) VERIFIED against tile hash 739522572
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1068567250.png

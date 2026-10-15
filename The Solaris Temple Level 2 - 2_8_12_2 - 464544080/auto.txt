@@ -1,0 +1,32 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3976814062 doodad hash 2796000013 (CLI_ACTIVATE_MAP)
+AUTO seed 464544080 The Solaris Temple Level 2: dungeon area (capture captures/stages_20261004_212848.csv)
+   dungeon (.dgr) pipeline: 7821 draws in 25 call sites (6 generator draws before it, 27143 after it - the post passes); no generator model yet
+   0x14203a8e0: 8 draws, bounds 100
+   0x142105ee9: 3 draws, bounds 100
+   0x142107272: 1 draws, bounds 639
+   0x1420fd32a: 53 draws, bounds 128
+   0x142012839: 1 draws, bounds 2
+   0x1420fd640: 166 draws, bounds 639
+   0x142001ee5: 11 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 10 draws, bounds 80,490,12954
+   0x14210871c: 10 draws, bounds 840
+   0x142108799: 1 draws, bounds 490
+   0x1421087b9: 1 draws, bounds 840
+   0x142109942: 100 draws, bounds 30
+   0x142109cdf: 100 draws, bounds 30
+   0x142109cf6: 100 draws, bounds 840
+   0x1421029c7: 1 draws, bounds 9
+   0x1420ff711: 1 draws, bounds 10
+   0x1420ff72b: 1 draws, bounds 2
+   0x142102c41: 1 draws, bounds 840
+   0x1420efc0c: 2432 draws, bounds 1,2,8,12,100,200,400,800,6000
+   0x141d8b5ab: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 8
+   0x1420f6875: 901 draws, bounds 100,200,400
+   0x141febf93: 1954 draws, bounds 1,100
+   0x141febfcf: 1954 draws, bounds 8
+   tile grid: captures\cases\464544080_the_solaris_temple_level_2\truth_252e8d063f0.tsv (93x93, 8649 cells) VERIFIED against tile hash 3976814062
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_464544080.png

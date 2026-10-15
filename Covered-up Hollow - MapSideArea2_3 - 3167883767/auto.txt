@@ -1,0 +1,27 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2259042046 doodad hash 1638860234 (CLI_ACTIVATE_MAP)
+AUTO seed 3167883767 Covered-up Hollow: dungeon area (capture captures/Covered-up Hollow - MapSideArea2_3 - 3167883767/stages_20261013_231138.csv)
+   dungeon (.dgr) pipeline: 994 draws in 20 call sites (2 generator draws before it, 8576 after it - the post passes); no generator model yet
+   0x14203a8e0: 1 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 100
+   0x1420fd32a: 12 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 13 draws, bounds 3700
+   0x142001ee5: 8 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x1420fcc6c: 1 draws, bounds 2
+   0x1420fce8c: 1 draws, bounds 100
+   0x14210862e: 7 draws, bounds 100,9200,9400,26700,135200
+   0x14210871c: 7 draws, bounds 840
+   0x142108799: 1 draws, bounds 26700
+   0x1421087b9: 1 draws, bounds 840
+   0x1420efc0c: 127 draws, bounds 1,2,4,6,8
+   0x1420f6875: 51 draws, bounds 2,6,8
+   0x141febf93: 371 draws, bounds 1,237
+   0x141febfcf: 351 draws, bounds 8
+   0x141fece63: 12 draws, bounds 840
+   0x141fec0ea: 18 draws, bounds 177,197,217,227,229
+   0x141fec1d8: 8 draws, bounds 8
+   tile grid: captures\Covered-up Hollow - MapSideArea2_3 - 3167883767\truth_21ee9f02bf0.tsv (43x35, 1505 cells) VERIFIED against tile hash 2259042046
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\Covered-up Hollow - MapSideArea2_3 - 3167883767\minimap.png

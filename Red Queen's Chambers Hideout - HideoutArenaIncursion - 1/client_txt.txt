@@ -1,0 +1,10 @@
+2026/10/15 15:50:09 1124351531 1186a8a3 [DEBUG Client 21464] Generating level 60 area "HideoutArenaIncursion" with seed 1
+2026/10/15 15:50:10 1124352109 f22b6a02 [INFO Client 21464] Tile hash: 1290178186
+2026/10/15 15:50:10 1124352109 f22b6a0d [INFO Client 21464] Doodad hash: 1711887842
+2026/10/15 15:50:10 1124352109 e001b752 [INFO Client 21464] [SCENE] Set Source [(null)]
+2026/10/15 15:50:10 1124352125 e001b752 [INFO Client 21464] [SCENE] Set Source [Red Queen's Chambers Hideout]
+2026/10/15 15:50:10 1124352140 df74e03b [DEBUG Client 21464] [SCENE] Static Walkability Texture: 468 x 315
+2026/10/15 15:50:10 1124352812 cffb065b [INFO Client 21464] : You have entered Red Queen's Chambers Hideout.
+2026/10/15 15:50:11 1124353562 a15e960c [INFO Client 21464] [LOADING SCREEN] (Red Queen's Chambers Hideout) Duration = 2.2145 seconds
+2026/10/15 15:50:11 1124353562 13cb2f92 [WARN Client 21464] Failed to create effect graph node (ID: 70207256). Node type does not exist
+2026/10/15 15:50:11 1124353562 5c7c661 [WARN Client 21464] Failed to create effect graph node "WaterFlowUvField" in graph "Metadata/Effects/Environment/League_Incursion/Blood_Pool/graphs/AGG_FlowingBlood.fxgraph"

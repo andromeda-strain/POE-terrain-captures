@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1779646633 doodad hash 2121418194 (CLI_ACTIVATE_MAP)
+AUTO seed 981678077 The Boiling Lake: terrain act9/area6/ graph boiling_lake_02.tgr (10 locked nodes match; capture 70 nodes, graph 32)
+   typed nodes never placed by the client (untilised): [3, 4, 5, 6, 7, 8, 9, 11, 14, 15, 16, 17, 18, 19, 20, 21, 24, 25, 27, 30, 31]
+   deletion candidates: certain [3, 4, 5, 6, 7, 8, 9, 11, 14, 15, 16, 17, 18, 19, 20, 21, 24, 25, 27, 30], uncertain []; 1 option(s) for -38 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\981678077_the_boiling_lake\truth_21af15283f0.tsv (78x57, 4446 cells) VERIFIED against tile hash 1779646633
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_981678077.png

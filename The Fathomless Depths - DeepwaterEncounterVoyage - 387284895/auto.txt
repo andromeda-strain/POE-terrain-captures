@@ -1,0 +1,16 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2187623842 doodad hash 650684455 (CLI_ACTIVATE_MAP)
+AUTO seed 387284895 The Fathomless Depths: dungeon area (capture captures/The Fathomless Depths - DeepwaterEncounterVoyage - 387284895/stages_20261013_221117.csv)
+   dungeon (.dgr) pipeline: 2348 draws in 9 call sites (3 generator draws before it, 22727 after it - the post passes); no generator model yet
+   0x141f2c29d: 9 draws, bounds 1
+   0x142105ee9: 11 draws, bounds 1
+   0x1420efc0c: 636 draws, bounds 1,2,4,6,8,16
+   0x141febf93: 805 draws, bounds 1,2,20,82,111
+   0x141febfcf: 752 draws, bounds 8
+   0x141fec0ea: 67 draws, bounds 12,14,16,18,78,79,80,81,109,110
+   0x141fec1d8: 40 draws, bounds 8
+   0x141fece63: 13 draws, bounds 840
+   0x14202795d: 15 draws, bounds 1,3
+   tile grid: captures\The Fathomless Depths - DeepwaterEncounterVoyage - 387284895\truth_21ee9f02bf0.tsv (133x96, 10512 cells) VERIFIED against tile hash 2187623842
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\The Fathomless Depths - DeepwaterEncounterVoyage - 387284895\minimap.png

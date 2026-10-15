@@ -1,0 +1,5 @@
+KNOWN Remote Gulch [MapSideArea1_6] seed 2523320384: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain act1/sidecliff1/, tile hash 1399818573 (1 of 1 rows), last capture captures/Remote Gulch - MapSideArea1_6 - 2523320384/stages_20261015_172658.csv (generator failed)
+   this load's tile hash 1399818573 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   walkable field: none stored and not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the stored grid captures\Remote Gulch - MapSideArea1_6 - 2523320384\truth_4299eea1bf0.tsv): captures\Remote Gulch - MapSideArea1_6 - 2523320384\minimap.png

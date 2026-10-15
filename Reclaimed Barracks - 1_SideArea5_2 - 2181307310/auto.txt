@@ -1,0 +1,27 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3454844210 doodad hash 2758009762 (CLI_ACTIVATE_MAP)
+AUTO seed 2181307310 Reclaimed Barracks: dungeon area (capture captures/stages_20261005_113441.csv)
+   dungeon (.dgr) pipeline: 958 draws in 20 call sites (2 generator draws before it, 10647 after it - the post passes); no generator model yet
+   0x14203a8e0: 3 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 100
+   0x1420fd32a: 32 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 54 draws, bounds 800
+   0x142001ee5: 4 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 3 draws, bounds 200,2120,32400
+   0x14210871c: 3 draws, bounds 840
+   0x1420efc0c: 220 draws, bounds 1,2,4,8,86,198,800
+   0x1420f6875: 70 draws, bounds 1,2,4,198
+   0x1420f45dc: 4 draws, bounds 1
+   0x1420f4807: 4 draws, bounds 8
+   0x141febf93: 260 draws, bounds 1,100,200
+   0x141febfcf: 260 draws, bounds 8
+   0x141febd7f: 16 draws, bounds 500,520
+   0x141fed1ec: 12 draws, bounds 8
+   0x141fed087: 3 draws, bounds 8
+   0x141fe90a5: 3 draws, bounds 200
+   0x141fe9173: 3 draws, bounds 8
+   tile grid: captures\cases\2181307310_reclaimed_barracks\truth_29b355243f0.tsv (61x55, 3355 cells) VERIFIED against tile hash 3454844210
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2181307310.png

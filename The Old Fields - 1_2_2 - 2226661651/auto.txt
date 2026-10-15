@@ -1,0 +1,14 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 4031710147 doodad hash 1797625691 (CLI_ACTIVATE_MAP)
+AUTO seed 2226661651 The Old Fields: terrain act2/area2/ graph macro_old_fields2_1.tgr (15 locked nodes match; capture 51 nodes, graph 46)
+   typed nodes never placed by the client (untilised): [0, 3, 10, 14, 18, 19, 20, 21, 22, 23, 25, 26, 28, 30, 31]
+   deletion candidates: certain [0, 10, 14, 19, 20, 22, 23, 25], uncertain [18, 28]; 1 option(s) for -5 deleted node(s)
+   removed nodes [0, 10, 14, 19, 20, 22, 23, 25], pre-mover words 0: free nodes 0/21 match
+   tile grid: captures\cases\2226661651_the_old_fields\truth_3dba40c33f0.tsv (72x57, 4104 cells) VERIFIED against tile hash 4031710147
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap render failed: captures\minimap_2226661651.png is held open by another process; the render was not written
+   FAIL: permute-in 2/21 ERROR RuntimeError: Could not permute edges: 1
+   layout: not rendered: "D:\repos\POE 3.29.3b\Work\tools\permute.py", line 269, in permute
+    raise RuntimeError('Could not permute edges: ' + ', '.join(str(e.label) for e in again))
+RuntimeError: Could not permute edges: 1; minimap captures\minimap_2226661651.png
+   corpus row already present

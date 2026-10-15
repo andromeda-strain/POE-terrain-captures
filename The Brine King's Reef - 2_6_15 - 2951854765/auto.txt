@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 4191511973 doodad hash 123370683 (CLI_ACTIVATE_MAP)
+AUTO seed 2951854765 The Brine King's Reef: terrain act6/area15/ graph brine_reef_01.tgr (4 locked nodes match; capture 50 nodes, graph 35)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 4, 5, 6, 13, 23, 28, 32, 34]
+   deletion candidates: certain [0, 1, 4, 5, 6, 13, 23, 32], uncertain [28]; 1 option(s) for -15 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\2951854765_the_brine_king_s_reef\truth_2407c911bf0.tsv (105x93, 9765 cells) VERIFIED against tile hash 4191511973
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2951854765.png

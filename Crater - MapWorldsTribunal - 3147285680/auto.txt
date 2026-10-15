@@ -1,0 +1,4 @@
+KNOWN Crater [MapWorldsTribunal] seed 3147285680: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 1320928540 (1 of 1 rows), last capture captures/Crater - MapWorldsTribunal - 3147285680/stages_20261013_152823.csv (dungeon trace)
+   this load's tile hash 1320928540 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Crater - MapWorldsTribunal - 3147285680\truth_3a442f73bf0.tsv): captures\Crater - MapWorldsTribunal - 3147285680\minimap.png

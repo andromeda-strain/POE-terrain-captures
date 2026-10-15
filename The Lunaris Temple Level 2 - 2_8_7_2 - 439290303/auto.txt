@@ -1,0 +1,38 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2867383623 doodad hash 3525980695 (CLI_ACTIVATE_MAP)
+AUTO seed 439290303 The Lunaris Temple Level 2: dungeon area (capture captures/stages_20261004_221304.csv)
+   dungeon (.dgr) pipeline: 14408 draws in 31 call sites (6 generator draws before it, 75562 after it - the post passes); no generator model yet
+   0x14203a8e0: 43 draws, bounds 100
+   0x142105ee9: 14 draws, bounds 100
+   0x142107272: 8 draws, bounds 580,5650
+   0x1420fd32a: 670 draws, bounds 128
+   0x142012839: 6 draws, bounds 1,2,7,11
+   0x1420fd640: 1053 draws, bounds 580,641,1251,5650
+   0x142001ee5: 92 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 4
+   0x1420fcc6c: 2 draws, bounds 4,7
+   0x1420fce8c: 3 draws, bounds 100
+   0x14210862e: 75 draws, bounds 1,120,410,530,1440,4100,7380,9350,36900,57400,80501,104690,...
+   0x14210871c: 75 draws, bounds 840
+   0x142108799: 8 draws, bounds 1440,7380,9350,36900,57400,145600
+   0x1421087b9: 8 draws, bounds 840
+   0x142109942: 82 draws, bounds 6
+   0x142109cdf: 82 draws, bounds 6
+   0x142109cf6: 82 draws, bounds 840
+   0x1421029c7: 1 draws, bounds 11
+   0x1420ff711: 1 draws, bounds 43
+   0x1420ff72b: 1 draws, bounds 1
+   0x142102c41: 1 draws, bounds 840
+   0x1420efc0c: 3254 draws, bounds 2,4,8,50,100,125,200,250,260,280,320,400,...
+   0x141d8b5ab: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 800
+   0x1420f6875: 444 draws, bounds 4,100,125,200,250,260,280,320,400,480,500,520,...
+   0x1420f45dc: 4 draws, bounds 1
+   0x1420f4807: 4 draws, bounds 800
+   0x141fed896: 348 draws, bounds 20
+   0x141fed8d4: 348 draws, bounds 8
+   0x141febf93: 3844 draws, bounds 1,20,100
+   0x141febfcf: 3844 draws, bounds 8
+   tile grid: captures\cases\439290303_the_lunaris_temple_level_2\truth_21aebdf9bf0.tsv (71x167, 11857 cells) VERIFIED against tile hash 2867383623
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_439290303.png

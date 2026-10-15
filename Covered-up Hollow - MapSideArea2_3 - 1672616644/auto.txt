@@ -1,0 +1,4 @@
+KNOWN Covered-up Hollow [MapSideArea2_3] seed 1672616644: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 4134982330 (1 of 1 rows), last capture captures/Covered-up Hollow - MapSideArea2_3 - 1672616644/stages_20261015_213815.csv (dungeon trace)
+   this load's tile hash 4134982330 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (rendered from the stored grid captures\Covered-up Hollow - MapSideArea2_3 - 1672616644\truth_203efc733f0.tsv with the walkable field walk_2.png (matches the tiles' hull field at IoU 0.967)): captures\Covered-up Hollow - MapSideArea2_3 - 1672616644\minimap.png

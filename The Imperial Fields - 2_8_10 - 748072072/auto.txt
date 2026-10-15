@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3735547732 doodad hash 2246375291 (CLI_ACTIVATE_MAP)
+AUTO seed 748072072 The Imperial Fields: terrain act8/area10/ graph imperial_fields_1.tgr (9 locked nodes match; capture 42 nodes, graph 28)
+   typed nodes never placed by the client (untilised): [0, 1, 3, 4, 6, 7, 8, 9, 10, 12, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27]
+   deletion candidates: certain [0, 1, 3, 4, 6, 7, 8, 9, 10, 12, 18, 22], uncertain [16, 17, 19, 20, 21]; 1 option(s) for -14 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\748072072_the_imperial_fields\truth_252ba1d93f0.tsv (66x132, 8712 cells) VERIFIED against tile hash 3735547732
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_748072072.png

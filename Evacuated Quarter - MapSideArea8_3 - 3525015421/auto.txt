@@ -1,0 +1,4 @@
+KNOWN Evacuated Quarter [MapSideArea8_3] seed 3525015421: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 2199749060 (1 of 1 rows), last capture captures/Evacuated Quarter - MapSideArea8_3 - 3525015421/stages_20261011_204436.csv (dungeon trace)
+   this load's tile hash 2199749060 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Evacuated Quarter - MapSideArea8_3 - 3525015421\truth_433f76eebf0.tsv): captures\Evacuated Quarter - MapSideArea8_3 - 3525015421\minimap.png

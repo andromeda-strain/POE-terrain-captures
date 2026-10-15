@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3145125938 doodad hash 2275834273 (CLI_ACTIVATE_MAP)
+AUTO seed 1550935145 The Descent: terrain act9/area2/ graph descent_03.tgr (27 locked nodes match; capture 104 nodes, graph 55)
+   typed nodes never placed by the client (untilised): [0, 2, 4, 5, 6, 7, 8, 9, 10, 22, 23, 24, 25, 27, 28, 30, 31, 32, 35, 36, 41, 46, 47, 48, 50]
+   deletion candidates: certain [0, 2, 4, 5, 6, 7, 9, 10, 22, 23, 24, 25, 27, 28, 30, 31, 32, 35, 36, 41, 48, 50], uncertain []; 1 option(s) for -49 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\1550935145_the_descent\truth_21a3c914bf0.tsv (72x164, 10663 cells) VERIFIED against tile hash 3145125938
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1550935145.png

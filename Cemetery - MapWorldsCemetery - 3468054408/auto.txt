@@ -1,0 +1,16 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 367962474 doodad hash 3360536635 (CLI_ACTIVATE_MAP)
+AUTO seed 3468054408 Cemetery: terrain endgame/mapcemetary/ graph cemetery_3.tgr (1 locked nodes match; capture 22 nodes, graph 24)
+   typed nodes never placed by the client (untilised): [1, 2, 6, 7, 8, 9, 10]
+   deletion candidates: certain [10], uncertain [1, 6, 7, 8, 9]; 5 option(s) for 2 deleted node(s)
+   removed nodes [1, 10], pre-mover words 10: free nodes 5/16 match
+   tile grid: captures\Cemetery - MapWorldsCemetery - 3468054408\truth_22fd85053f0.tsv (171x60, 8258 cells) VERIFIED against tile hash 367962474
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\Cemetery - MapWorldsCemetery - 3468054408\minimap.png
+   FAIL: permute-in 0/4, permute-out 0/4, rounder-in-1 0/4, rounder-in-2 0/4, rounder-in-3 0/4
+   layout: not rendered: tilise_entry(e, s)
+    ~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\repos\POE 3.29.3b\Work\tools\edge_sim.py", line 715, in tilise_entry
+    raise NotImplementedError('loop edge')
+NotImplementedError: loop edge; minimap captures\Cemetery - MapWorldsCemetery - 3468054408\minimap.png
+   corpus row appended

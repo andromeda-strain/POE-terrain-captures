@@ -1,0 +1,24 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2905834459 doodad hash 1106705496 (CLI_ACTIVATE_MAP)
+AUTO seed 2611254805 Sepulchre Halls: dungeon area (capture captures/stages_20261007_221125.csv)
+   dungeon (.dgr) pipeline: 1606 draws in 17 call sites (2 generator draws before it, 9092 after it - the post passes); no generator model yet
+   0x142032a2b: 1 draws, bounds 2
+   0x14203a8e0: 18 draws, bounds 100
+   0x142105ee9: 7 draws, bounds 100,800,1000
+   0x142107272: 10 draws, bounds 15040,16920,19640
+   0x1420fd32a: 29 draws, bounds 128
+   0x142012839: 1 draws, bounds 14
+   0x1420fd640: 55 draws, bounds 19640
+   0x142001ee5: 17 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 9 draws, bounds 100,500,16900,25100,46500,61700
+   0x14210871c: 9 draws, bounds 840
+   0x1420efc0c: 367 draws, bounds 1,2,4,8,10,14,16,28,200,2940
+   0x1420f6875: 104 draws, bounds 1,2,4,14,28
+   0x1420f45dc: 17 draws, bounds 1
+   0x1420f4807: 17 draws, bounds 8
+   0x141febf93: 472 draws, bounds 1
+   0x141febfcf: 472 draws, bounds 8
+   tile grid: captures\cases\2611254805_sepulchre_halls\truth_4f3707dd3f0.tsv (47x47, 2209 cells) VERIFIED against tile hash 2905834459
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2611254805.png

@@ -1,0 +1,34 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2148918050 doodad hash 2190935601 (CLI_ACTIVATE_MAP)
+AUTO seed 936822562 The Crematorium: dungeon area (capture captures/stages_20261001_213834.csv)
+   dungeon (.dgr) pipeline: 1820 draws in 27 call sites (4 generator draws before it, 6955 after it - the post passes); no generator model yet
+   0x142031e88: 1 draws, bounds 1
+   0x142031ea6: 1 draws, bounds 2
+   0x14203a8e0: 17 draws, bounds 100
+   0x142105ee9: 4 draws, bounds 1
+   0x142107272: 13 draws, bounds 31,46,53,68,84,100,116
+   0x1420fd32a: 59 draws, bounds 128
+   0x142012839: 1 draws, bounds 6
+   0x1420fd640: 169 draws, bounds 116
+   0x142001ee5: 15 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x1420fcc6c: 1 draws, bounds 1
+   0x1420fce8c: 1 draws, bounds 100
+   0x14210862e: 12 draws, bounds 4,52,216,592,1056
+   0x14210871c: 12 draws, bounds 840
+   0x1420ff711: 3 draws, bounds 7,8,9
+   0x1420ff72b: 3 draws, bounds 1
+   0x1421029c7: 2 draws, bounds 4
+   0x142102c41: 2 draws, bounds 840
+   0x1420efc0c: 372 draws, bounds 4,8,100,200,400,700,800,1000,1200,1600
+   0x141d8b5ab: 2 draws, bounds 1,2
+   0x141fe9a73: 18 draws, bounds 800
+   0x1420f6875: 191 draws, bounds 100,200,300,400,800,1600
+   0x1420f45dc: 18 draws, bounds 1,2,3
+   0x1420f4807: 18 draws, bounds 700,6400
+   0x1420f47d8: 8 draws, bounds 1,2
+   0x141febf93: 438 draws, bounds 1
+   0x141febfcf: 438 draws, bounds 8
+   tile grid: captures\cases\936822562_the_crematorium\truth_3dba1685bf0.tsv (59x43, 2537 cells) VERIFIED against tile hash 2148918050
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_936822562.png

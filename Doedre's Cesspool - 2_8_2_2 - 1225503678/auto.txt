@@ -1,0 +1,29 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1853879041 doodad hash 4088076228 (CLI_ACTIVATE_MAP)
+AUTO seed 1225503678 Doedre's Cesspool: dungeon area (capture captures/stages_20261004_103742.csv)
+   dungeon (.dgr) pipeline: 2601 draws in 22 call sites (6 generator draws before it, 9437 after it - the post passes); no generator model yet
+   0x14203a8e0: 27 draws, bounds 100
+   0x142105ee9: 7 draws, bounds 1
+   0x142107272: 12 draws, bounds 950,3494
+   0x1420fd32a: 128 draws, bounds 128
+   0x142012839: 2 draws, bounds 1,14
+   0x1420fd640: 262 draws, bounds 3494
+   0x142001ee5: 25 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x1420fcc6c: 1 draws, bounds 1
+   0x1420fce8c: 1 draws, bounds 100
+   0x14210862e: 18 draws, bounds 160,2360,4410,17120,35550,55422,160802
+   0x14210871c: 18 draws, bounds 840
+   0x1421029c7: 1 draws, bounds 4
+   0x1420ff711: 1 draws, bounds 17
+   0x1420ff72b: 1 draws, bounds 2
+   0x142102c41: 1 draws, bounds 840
+   0x1420efc0c: 642 draws, bounds 2,40,80,100,120,200,220,240,260,400,420,600,...
+   0x141d8b5ab: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 800
+   0x1420f6875: 119 draws, bounds 40,80,120,200,400,1200,1980
+   0x141febf93: 662 draws, bounds 1,130
+   0x141febfcf: 662 draws, bounds 8
+   tile grid: captures\cases\1225503678_doedre_s_cesspool\truth_252b6fa53f0.tsv (69x69, 4761 cells) VERIFIED against tile hash 1853879041
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1225503678.png

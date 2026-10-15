@@ -1,0 +1,31 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2071139196 doodad hash 4176714942 (CLI_ACTIVATE_MAP)
+AUTO seed 2604101915 Domain Walkways: dungeon area (capture captures/stages_20261006_225732.csv)
+   dungeon (.dgr) pipeline: 3179 draws in 24 call sites (4 generator draws before it, 5545 after it - the post passes); no generator model yet
+   0x142032a2b: 1 draws, bounds 2
+   0x14203a8e0: 8 draws, bounds 100
+   0x142105ee9: 6 draws, bounds 1,4,80
+   0x1420fd32a: 235 draws, bounds 128
+   0x142012839: 2 draws, bounds 2,5
+   0x1420fd640: 229 draws, bounds 202
+   0x142001ee5: 33 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 26 draws, bounds 1845,2255
+   0x14210871c: 26 draws, bounds 840
+   0x142108799: 1 draws, bounds 1845
+   0x1421087b9: 1 draws, bounds 840
+   0x142109942: 4 draws, bounds 712
+   0x142109cdf: 4 draws, bounds 250
+   0x142109cf6: 4 draws, bounds 840
+   0x142109a4b: 6 draws, bounds 514,580,646
+   0x1420ff711: 2 draws, bounds 3,4
+   0x1420ff72b: 2 draws, bounds 1
+   0x1420efc0c: 439 draws, bounds 1,2,4,6,8,10,20,100,200,400,800,1000,...
+   0x1420f6875: 202 draws, bounds 100,200,400,800
+   0x1420f7228: 4 draws, bounds 1,400
+   0x141febf93: 970 draws, bounds 1,100,200
+   0x141febfcf: 970 draws, bounds 8
+   0x14202795d: 3 draws, bounds 100
+   tile grid: captures\cases\2604101915_domain_walkways\truth_2977e813bf0.tsv (87x81, 7047 cells) VERIFIED against tile hash 2071139196
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2604101915.png

@@ -1,0 +1,28 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 240112645 doodad hash 3320968017 (CLI_ACTIVATE_MAP)
+AUTO seed 469932766 The Submerged Passage: dungeon area (capture captures/stages_20260930_114712.csv)
+   dungeon (.dgr) pipeline: 1916 draws in 21 call sites (2 generator draws before it, 20294 after it - the post passes); no generator model yet
+   0x14203a8e0: 32 draws, bounds 100
+   0x142030b2c: 1 draws, bounds 2
+   0x142030b45: 1 draws, bounds 2
+   0x142105ee9: 6 draws, bounds 1,2
+   0x142107272: 2 draws, bounds 1012
+   0x1420fd32a: 100 draws, bounds 128
+   0x142012839: 1 draws, bounds 7
+   0x1420fd640: 168 draws, bounds 1012
+   0x142001ee5: 31 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x1420fcc6c: 3 draws, bounds 1,4
+   0x1420fce8c: 3 draws, bounds 100
+   0x14210862e: 24 draws, bounds 20,40,2000,2820,4080,6920,9560,13740,29080,62522
+   0x14210871c: 24 draws, bounds 840
+   0x142101b93: 1 draws, bounds 2
+   0x1420ff711: 2 draws, bounds 16,17
+   0x1420ff72b: 2 draws, bounds 1
+   0x1420efc0c: 464 draws, bounds 1,2,4,8,10,12,48,100,200,400,800
+   0x1420f6875: 192 draws, bounds 1,2,4,10,12
+   0x141febf93: 429 draws, bounds 1,100
+   0x141febfcf: 429 draws, bounds 8
+   tile grid: captures\cases\469932766_the_submerged_passage\truth_28aa66f9bf0.tsv (65x49, 3185 cells) VERIFIED against tile hash 240112645
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_469932766.png

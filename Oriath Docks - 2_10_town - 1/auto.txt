@@ -1,0 +1,4 @@
+KNOWN Oriath Docks [2_10_town] seed 1: 10 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 3320054456 (10 of 10 rows), last capture captures/Oriath Docks - 2_10_town - 1/stages_20261009_162426.csv (dungeon trace)
+   this load's tile hash 3320054456 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (rendered from the stored grid captures\Oriath Docks - 2_10_town - 1\truth_3466fcc5bf0.tsv with the walkable field walk_1.png (matches the tiles' hull field at IoU 1.000)): captures\Oriath Docks - 2_10_town - 1\minimap.png

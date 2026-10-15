@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3716329429 doodad hash 484504719 (CLI_ACTIVATE_MAP)
+AUTO seed 2479631266 The Southern Forest: terrain act2/area1/ graph macro_forest_intro2_waypoint.tgr (7 locked nodes match; capture 26 nodes, graph 16)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 6, 8, 11, 14, 15]
+   deletion candidates: certain [2, 6, 8, 11], uncertain []; 1 option(s) for -10 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\2479631266_the_southern_forest\truth_3dba136c3f0.tsv (51x84, 4284 cells) VERIFIED against tile hash 3716329429
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2479631266.png

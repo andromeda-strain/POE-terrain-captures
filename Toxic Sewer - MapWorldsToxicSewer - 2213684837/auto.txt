@@ -1,0 +1,4 @@
+KNOWN Toxic Sewer [MapWorldsToxicSewer] seed 2213684837: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 3994663944 (1 of 1 rows), last capture captures/Toxic Sewer - MapWorldsToxicSewer - 2213684837/stages_20261014_230241.csv (dungeon trace)
+   this load's tile hash 3994663944 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Toxic Sewer - MapWorldsToxicSewer - 2213684837\truth_56238552bf0.tsv): captures\Toxic Sewer - MapWorldsToxicSewer - 2213684837\minimap.png

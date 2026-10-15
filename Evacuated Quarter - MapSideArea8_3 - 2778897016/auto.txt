@@ -1,0 +1,30 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3645364594 doodad hash 233666611 (CLI_ACTIVATE_MAP)
+AUTO seed 2778897016 Evacuated Quarter: dungeon area (capture captures/stages_20260930_191337.csv)
+   dungeon (.dgr) pipeline: 6187 draws in 23 call sites (2 generator draws before it, 20097 after it - the post passes); no generator model yet
+   0x14203a8e0: 3 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 10
+   0x1420fd32a: 7 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 17 draws, bounds 220
+   0x142001ee5: 3 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 2 draws, bounds 7220
+   0x14210871c: 2 draws, bounds 840
+   0x142109942: 8 draws, bounds 100
+   0x142109cdf: 8 draws, bounds 100
+   0x142109cf6: 8 draws, bounds 840
+   0x1420efc0c: 244 draws, bounds 2,8,100,200,230,400
+   0x141febf93: 2425 draws, bounds 1
+   0x141febfcf: 2425 draws, bounds 8
+   0x141febd7f: 877 draws, bounds 2,5,12,15,22,25,32,35,42,45,52,55,...
+   0x141fed0cc: 3 draws, bounds 840
+   0x141fe9a73: 59 draws, bounds 2,4,8,200,400,2800
+   0x141fed1ec: 72 draws, bounds 8
+   0x141fed087: 3 draws, bounds 8
+   0x141fe90a5: 2 draws, bounds 200
+   0x141fe9173: 2 draws, bounds 8
+   0x14202795d: 13 draws, bounds 30,100,130
+   tile grid: captures\cases\2778897016_evacuated_quarter\truth_39aacf0abf0.tsv (66x90, 5940 cells) VERIFIED against tile hash 3645364594
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2778897016.png

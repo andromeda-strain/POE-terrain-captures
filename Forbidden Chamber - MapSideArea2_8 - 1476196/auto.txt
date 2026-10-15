@@ -1,0 +1,23 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 413488246 doodad hash 2880529309 (CLI_ACTIVATE_MAP)
+AUTO seed 1476196 Forbidden Chamber: dungeon area (capture captures/Forbidden Chamber - MapSideArea2_8 - 1476196/stages_20261015_171600.csv)
+   dungeon (.dgr) pipeline: 856 draws in 16 call sites (2 generator draws before it, 3527 after it - the post passes); no generator model yet
+   0x14203a8e0: 1 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 1,4
+   0x1420fd32a: 16 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 49 draws, bounds 29315
+   0x142001ee5: 6 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 5 draws, bounds 263,700,1411,54600,2370000
+   0x14210871c: 5 draws, bounds 840
+   0x1420efc0c: 178 draws, bounds 1,2,4,6,8,10,14,560,800
+   0x1420f6875: 81 draws, bounds 1,4,12,14
+   0x1420f45dc: 6 draws, bounds 1,2
+   0x1420f4807: 6 draws, bounds 8,16
+   0x1420f47d8: 1 draws, bounds 1
+   0x141febf93: 249 draws, bounds 1
+   0x141febfcf: 249 draws, bounds 8
+   tile grid: captures\Forbidden Chamber - MapSideArea2_8 - 1476196\truth_4293d665bf0.tsv (35x43, 1505 cells) VERIFIED against tile hash 413488246
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\Forbidden Chamber - MapSideArea2_8 - 1476196\minimap.png

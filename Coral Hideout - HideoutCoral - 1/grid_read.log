@@ -1,0 +1,6 @@
+pass1: 1301 .tdt path buffers
+pass2: 69 tiledef wstrings, 1980 cell sites
+pass3: runs 539@0x3d5fc7ba7c8 306@0x3d5fc7d6100 37@0x3d5fc7b6e08 37@0x3d5fc7b8b20 36@0x3d5fc7a1548 36@0x3d5fc7a3260
+  TileMap T=0x3d59824f3f0 cols=133 rows=96 cells@0x3d5fc7a0010 (~306 placed in run)
+--- TileMap T=0x3d59824f3f0 133x96: 10512 cells with a tile, 163 distinct tiles -> D:\repos\POE 3.29.3b\Work\captures\cases\1\truth_3d59824f3f0.tsv
+    tile hash over 2284 origin cells = 823218229; Client.txt last generation DeepwaterEncounterVoyage seed 603495457 -> 823218229 MATCH

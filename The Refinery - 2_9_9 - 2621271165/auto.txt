@@ -1,0 +1,38 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 354030528 doodad hash 773959275 (CLI_ACTIVATE_MAP)
+AUTO seed 2621271165 The Refinery: dungeon area (capture captures/stages_20261004_231851.csv)
+   dungeon (.dgr) pipeline: 3439 draws in 31 call sites (8 generator draws before it, 436392 after it - the post passes); no generator model yet
+   0x14203a8e0: 40 draws, bounds 100
+   0x142105ee9: 5 draws, bounds 1,100
+   0x142107272: 51 draws, bounds 111,1001,7411
+   0x1420fd32a: 256 draws, bounds 128
+   0x142012839: 3 draws, bounds 1,11,25
+   0x1420fd640: 430 draws, bounds 1001,7411
+   0x142001ee5: 39 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 2
+   0x14210862e: 35 draws, bounds 1,11,41,82,91,91001,361000,722000
+   0x14210871c: 35 draws, bounds 840
+   0x142108799: 2 draws, bounds 91001
+   0x1421087b9: 2 draws, bounds 840
+   0x142109942: 119 draws, bounds 1
+   0x142109cdf: 119 draws, bounds 1
+   0x142109cf6: 119 draws, bounds 840
+   0x1421029c7: 1 draws, bounds 1
+   0x1420ff711: 1 draws, bounds 11
+   0x1420ff72b: 1 draws, bounds 1
+   0x142102c41: 1 draws, bounds 840
+   0x1420efc0c: 542 draws, bounds 1,2,4,8,16,24,56,100,200,800,1600
+   0x141d8b5ab: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 8
+   0x1420f6875: 266 draws, bounds 1,2,4,200,400,1600
+   0x141febf93: 591 draws, bounds 1,5,100
+   0x141febfcf: 591 draws, bounds 8
+   0x141febd7f: 73 draws, bounds 1,101
+   0x141fed1ec: 36 draws, bounds 8
+   0x141fed087: 2 draws, bounds 8
+   0x141fe90a5: 18 draws, bounds 1
+   0x141fe9173: 18 draws, bounds 8
+   0x14202795d: 32 draws, bounds 1
+   tile grid: captures\cases\2621271165_the_refinery\truth_5b8395c7bf0.tsv (117x85, 8924 cells) VERIFIED against tile hash 354030528
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2621271165.png

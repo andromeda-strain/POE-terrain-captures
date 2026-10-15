@@ -1,0 +1,4 @@
+KNOWN Chateau [MapWorldsChateau] seed 2419044221: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 1242375366 (1 of 1 rows), last capture captures/Chateau - MapWorldsChateau - 2419044221/stages_20261011_220338.csv (dungeon trace)
+   this load's tile hash 1242375366 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Chateau - MapWorldsChateau - 2419044221\truth_4346c7f23f0.tsv): captures\Chateau - MapWorldsChateau - 2419044221\minimap.png

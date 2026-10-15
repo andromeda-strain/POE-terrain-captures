@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 746164926 doodad hash 2353283048 (CLI_ACTIVATE_MAP)
+AUTO seed 2742815401 The Tidal Island: terrain act1/area2a/ graph island2_1.tgr (0 locked nodes match; capture 13 nodes, graph 10)
+   typed nodes never placed by the client (untilised): [0, 1, 4, 5, 6]
+   deletion candidates: certain [0, 1, 4, 5, 6], uncertain []; 1 option(s) for -3 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\2742815401_the_tidal_island\truth_20df0351bf0.tsv (48x57, 2736 cells) VERIFIED against tile hash 746164926
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2742815401.png

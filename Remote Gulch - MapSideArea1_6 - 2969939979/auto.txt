@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2429684383 doodad hash 648305899 (CLI_ACTIVATE_MAP)
+AUTO seed 2969939979 Remote Gulch: terrain act1/sidecliff1/ graph cliff1.tgr (0 locked nodes match; capture 2 nodes, graph 2)
+   typed nodes never placed by the client (untilised): [0, 1]
+   deletion candidates: certain [0, 1], uncertain []; 1 option(s) for 0 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\2969939979_remote_gulch\truth_4aeab851bf0.tsv (69x24, 1656 cells) VERIFIED against tile hash 2429684383
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2969939979.png

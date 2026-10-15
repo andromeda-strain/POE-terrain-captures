@@ -1,0 +1,32 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2021194995 doodad hash 1676447189 (CLI_ACTIVATE_MAP)
+AUTO seed 1981184456 The Crypt: dungeon area (capture captures/stages_20261003_233645.csv)
+   dungeon (.dgr) pipeline: 2985 draws in 25 call sites (6 generator draws before it, 5958 after it - the post passes); no generator model yet
+   0x14203a8e0: 40 draws, bounds 100
+   0x142105ee9: 7 draws, bounds 1,2
+   0x142107272: 13 draws, bounds 56,77,600,822,1022,1444,2345
+   0x1420fd32a: 128 draws, bounds 128
+   0x142012839: 2 draws, bounds 8,9
+   0x1420fd640: 226 draws, bounds 77,2345
+   0x142001ee5: 55 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 2
+   0x14210862e: 26 draws, bounds 3,19,60,150,151,163,300,440,865,1640,2440,3220,...
+   0x14210871c: 26 draws, bounds 840
+   0x142108799: 1 draws, bounds 60
+   0x1421087b9: 1 draws, bounds 840
+   0x1421029c7: 1 draws, bounds 4
+   0x1420ff711: 1 draws, bounds 8
+   0x1420ff72b: 1 draws, bounds 3
+   0x142102c41: 1 draws, bounds 840
+   0x1420efc0c: 709 draws, bounds 1,2,4,100,200,260,300,400,800,1000,1200,1400,...
+   0x141d8b5ab: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 800
+   0x1420f6875: 329 draws, bounds 100,200,260,400,800,1200,1400,2800
+   0x1420f45dc: 44 draws, bounds 1,2
+   0x1420f4807: 44 draws, bounds 400,800
+   0x1420f47d8: 1 draws, bounds 2
+   0x141febf93: 659 draws, bounds 1
+   0x141febfcf: 659 draws, bounds 8
+   tile grid: captures\cases\1981184456_the_crypt\truth_2406213cbf0.tsv (71x71, 5041 cells) VERIFIED against tile hash 2021194995
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1981184456.png

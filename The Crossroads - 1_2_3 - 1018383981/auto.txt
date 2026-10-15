@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2003188477 doodad hash 3621151192 (CLI_ACTIVATE_MAP)
+AUTO seed 1018383981 The Crossroads: terrain act2/area3/ graph macro_crossroads.tgr (16 locked nodes match; capture 89 nodes, graph 53)
+   typed nodes never placed by the client (untilised): [1, 2, 3, 4, 5, 9, 11, 17, 18, 20, 21, 22, 24, 31, 32, 33, 38, 41, 42, 44, 50, 51]
+   deletion candidates: certain [1, 2, 3, 4, 5, 9, 18, 38], uncertain [41, 42, 44]; 1 option(s) for -36 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\1018383981_the_crossroads\truth_3dbc1ed8bf0.tsv (81x78, 6318 cells) VERIFIED against tile hash 2003188477
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap render failed: captures\minimap_1018383981.png is held open by another process; the render was not written

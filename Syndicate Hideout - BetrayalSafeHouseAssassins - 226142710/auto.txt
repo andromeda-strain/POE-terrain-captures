@@ -1,0 +1,28 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 347846035 doodad hash 1756214326 (CLI_ACTIVATE_MAP)
+AUTO seed 226142710 Syndicate Hideout: dungeon area (capture captures/stages_20261007_212607.csv)
+   dungeon (.dgr) pipeline: 3480 draws in 21 call sites (1 generator draws before it, 42712 after it - the post passes); no generator model yet
+   0x14203a8e0: 9 draws, bounds 100
+   0x142105ee9: 8 draws, bounds 100
+   0x142107272: 2 draws, bounds 400
+   0x1420fd32a: 98 draws, bounds 128
+   0x142012839: 3 draws, bounds 1,2,4
+   0x1420fd640: 211 draws, bounds 400,900
+   0x142001ee5: 12 draws, bounds 1,3
+   0x1420fc763: 2 draws, bounds 1,2
+   0x14210862e: 7 draws, bounds 4100,9100,100100,200200
+   0x14210871c: 7 draws, bounds 840
+   0x142109942: 22 draws, bounds 100
+   0x142109cdf: 22 draws, bounds 100
+   0x142109cf6: 22 draws, bounds 840
+   0x1420efc0c: 263 draws, bounds 1,2,4,100,200,400,800,1000,1400,1600
+   0x1420f6875: 56 draws, bounds 1,2,100,200,1400,2800
+   0x141febf93: 1357 draws, bounds 1,400,1000
+   0x141febfcf: 1357 draws, bounds 8
+   0x14202795d: 13 draws, bounds 1
+   0x141f29874: 1 draws, bounds 4
+   0x1420f45dc: 4 draws, bounds 1
+   0x1420f4807: 4 draws, bounds 800
+   tile grid: captures\cases\226142710_syndicate_hideout\truth_537593a3bf0.tsv (39x147, 5679 cells) VERIFIED against tile hash 347846035
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_226142710.png

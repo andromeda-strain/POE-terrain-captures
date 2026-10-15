@@ -1,0 +1,26 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2687346413 doodad hash 1436143740 (CLI_ACTIVATE_MAP)
+AUTO seed 725554027 Sanitorium Halls: dungeon area (capture captures/stages_20261006_225321.csv)
+   dungeon (.dgr) pipeline: 1102 draws in 19 call sites (2 generator draws before it, 6988 after it - the post passes); no generator model yet
+   0x14203a8e0: 14 draws, bounds 100
+   0x142105ee9: 6 draws, bounds 1
+   0x142107272: 9 draws, bounds 448,1052,1263,1867,2078,2682
+   0x1420fd32a: 37 draws, bounds 128
+   0x142012839: 1 draws, bounds 10
+   0x1420fd640: 87 draws, bounds 2682
+   0x142001ee5: 18 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 12 draws, bounds 5,1310,3975,7829
+   0x14210871c: 12 draws, bounds 840
+   0x142108799: 2 draws, bounds 3975,7829
+   0x1421087b9: 2 draws, bounds 840
+   0x1420efc0c: 210 draws, bounds 4,100,200,300,400,600,800,1000,1200,1600
+   0x1420f6875: 155 draws, bounds 100,200,1000,1600
+   0x1420f45dc: 18 draws, bounds 1,2,3
+   0x1420f47d8: 2 draws, bounds 1
+   0x1420f4807: 18 draws, bounds 300,400
+   0x141febf93: 249 draws, bounds 1,20
+   0x141febfcf: 249 draws, bounds 8
+   tile grid: captures\cases\725554027_sanitorium_halls\truth_297afa25bf0.tsv (47x47, 2209 cells) VERIFIED against tile hash 2687346413
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_725554027.png

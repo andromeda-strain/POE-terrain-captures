@@ -1,0 +1,4 @@
+KNOWN Fields [MapWorldsFields] seed 751119365: 3 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain endgame/mapfields/, tile hash 2827281348 (3 of 3 rows), last capture captures/Fields - MapWorldsFields - 751119365/stages_20261011_182732.csv (generator failed)
+   this load's tile hash 2827281348 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Fields - MapWorldsFields - 751119365\truth_433f76e73f0.tsv): captures\Fields - MapWorldsFields - 751119365\minimap.png

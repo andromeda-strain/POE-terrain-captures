@@ -1,0 +1,25 @@
+2026/10/08 21:26:37 539739906 1186a8a3 [DEBUG Client 21508] Generating level 33 area "1_3_town" with seed 1
+2026/10/08 21:26:37 539739953 152491fa [WARN Client 21508] Could not find row for MeleeAttackActionClient skill..
+2026/10/08 21:26:38 539740984 f22b6a02 [INFO Client 21508] Tile hash: 1244512620
+2026/10/08 21:26:38 539740984 f22b6a0d [INFO Client 21508] Doodad hash: 2013313320
+2026/10/08 21:26:39 539741000 e001b752 [INFO Client 21508] [SCENE] Set Source [The Sarn Encampment]
+2026/10/08 21:26:39 539741062 df74e03b [DEBUG Client 21508] [SCENE] Static Walkability Texture: 299 x 269
+2026/10/08 21:26:39 539741515 cffb065b [INFO Client 21508] : You have entered The Sarn Encampment.
+2026/10/08 21:26:39 539741859 cffb065b [INFO Client 21508] : You have joined global chat channel 820 English.
+2026/10/08 21:26:39 539741859 cffb065b [INFO Client 21508] : You have joined trade chat channel 1 English.
+2026/10/08 21:26:39 539741984 a15e960c [INFO Client 21508] [LOADING SCREEN] (The Sarn Encampment) Duration = 2.17724 seconds
+2026/10/08 21:26:40 539742000 374e0d27 [INFO Client 21508] [Item Filter] Preparing to download online filter Vmlrk4HM
+2026/10/08 21:26:40 539742000 374e0cc6 [INFO Client 21508] [Item Filter] Hash for online filter Vmlrk4HM is: 072dcb7d9e80d0f49bef873e7a8e505d
+2026/10/08 21:26:40 539742562 374e0ce3 [INFO Client 21508] [Item Filter] Online item filter Vmlrk4HM returned status: 304
+2026/10/08 21:26:40 539742562 374e0ce8 [DEBUG Client 21508] [Item Filter] Online item filter request resolved to: 86.124.128.162
+2026/10/08 21:26:40 539742578 788474e7 [INFO Client 21508] [Item Filter] Finished reloading online filter Vmlrk4HM. Result: true. Hash: 072dcb7d9e80d0f49bef873e7a8e505d. Type: Normal. Message: 
+2026/10/08 21:26:40 539742593 b2961dd3 [INFO Client 21508] PrecalcBaseTypeHashMap
+2026/10/08 21:26:40 539742609 b2961dd1 [INFO Client 21508] PrecalcModNameHashMap
+2026/10/08 21:26:40 539742796 b2961dd7 [INFO Client 21508] PrecalcItemClassMap
+2026/10/08 21:26:40 539742796 b2961dd5 [INFO Client 21508] PrecalcSoundEffects
+2026/10/08 21:26:40 539742796 b2961ddb [INFO Client 21508] PrecalcDropEffects
+2026/10/08 21:26:40 539742796 b2961df0 [INFO Client 21508] PrecalcNonEnchantModHashes
+2026/10/08 21:26:40 539742796 b2961df2 [INFO Client 21508] PrecalcRuleNameToTypeMap
+2026/10/08 21:26:40 539742796 b2961df4 [INFO Client 21508] PrecalcCJESPNIndexMap
+2026/10/08 21:26:40 539742796 b2961df6 [INFO Client 21508] PrecalcTransfiguredGemsIndexMap
+2026/10/08 21:26:55 539757500 54ee9dc3 [INFO Client 21508] [WINDOW] Lost focus

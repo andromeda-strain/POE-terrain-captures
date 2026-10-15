@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3461867600 doodad hash 1654890741 (CLI_ACTIVATE_MAP)
+AUTO seed 3827215630 The Foothills: terrain act9/area5/ graph foothills_01.tgr (21 locked nodes match; capture 60 nodes, graph 35)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 6, 7, 8, 13, 15, 16, 17, 18, 20, 22, 25, 27, 28]
+   deletion candidates: certain [0, 1, 2, 6, 7, 8, 13, 15, 17, 18, 20, 22, 25], uncertain []; 1 option(s) for -25 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\3827215630_the_foothills\truth_21af1520bf0.tsv (75x108, 8100 cells) VERIFIED against tile hash 3461867600
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_3827215630.png

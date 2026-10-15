@@ -1,0 +1,29 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 4257126006 doodad hash 2713205949 (CLI_ACTIVATE_MAP)
+AUTO seed 2621831292 Strand: dungeon area (capture captures/stages_20260930_203000.csv)
+   dungeon (.dgr) pipeline: 10542 draws in 22 call sites (9 generator draws before it, 31425 after it - the post passes); no generator model yet
+   0x142031e88: 1 draws, bounds 1
+   0x142031ea6: 1 draws, bounds 2
+   0x14203a8e0: 3 draws, bounds 100
+   0x142105ee9: 5 draws, bounds 1,100
+   0x1420fd32a: 54 draws, bounds 128
+   0x142012839: 1 draws, bounds 2
+   0x1420fd640: 184 draws, bounds 1905
+   0x142001ee5: 12 draws, bounds 1,3
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 10 draws, bounds 41,100100
+   0x14210871c: 10 draws, bounds 840
+   0x142109942: 73 draws, bounds 1
+   0x142109cdf: 73 draws, bounds 1
+   0x142109cf6: 73 draws, bounds 840
+   0x1420efc0c: 365 draws, bounds 1,2,4,6,8,100,170,200,340
+   0x1420f6875: 112 draws, bounds 1,2,4,100,170,200,340
+   0x1420f16eb: 1 draws, bounds 5706
+   0x1420f1d73: 4 draws, bounds 1
+   0x141fe9a73: 36 draws, bounds 8
+   0x141febf93: 4751 draws, bounds 1,3,8,112,200
+   0x141febfcf: 4751 draws, bounds 8
+   0x14202795d: 21 draws, bounds 1,2
+   tile grid: captures\cases\2621831292_strand\truth_4ae652f93f0.tsv (93x147, 11548 cells) VERIFIED against tile hash 4257126006
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2621831292.png

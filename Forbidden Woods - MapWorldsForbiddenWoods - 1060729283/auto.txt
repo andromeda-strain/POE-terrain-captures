@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2837225922 doodad hash 2947386808 (CLI_ACTIVATE_MAP)
+AUTO seed 1060729283 Forbidden Woods: terrain endgame/mapcoldwood/ graph forbiddenwoods_02.tgr (3 locked nodes match; capture 21 nodes, graph 18)
+   typed nodes never placed by the client (untilised): [0, 2, 5, 9, 10]
+   deletion candidates: certain [0, 2, 10], uncertain [9]; 1 option(s) for -3 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\1060729283_forbidden_woods\truth_46c6fa8ebf0.tsv (120x84, 8281 cells) VERIFIED against tile hash 2837225922
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1060729283.png

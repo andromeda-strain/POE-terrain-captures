@@ -1,0 +1,35 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3351560268 doodad hash 799293675 (CLI_ACTIVATE_MAP)
+AUTO seed 3182851902 The Causeway: dungeon area (capture captures/stages_20261004_001802.csv)
+   dungeon (.dgr) pipeline: 4682 draws in 28 call sites (6 generator draws before it, 45496 after it - the post passes); no generator model yet
+   0x14203a8e0: 12 draws, bounds 100
+   0x142105ee9: 11 draws, bounds 1
+   0x1420038a1: 5 draws, bounds 100,200
+   0x142107272: 2 draws, bounds 2233
+   0x1420fd32a: 153 draws, bounds 128
+   0x142012839: 1 draws, bounds 4
+   0x1420fd640: 285 draws, bounds 2233
+   0x142001ee5: 37 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x1420fcc6c: 2 draws, bounds 1,6
+   0x1420fce8c: 3 draws, bounds 100
+   0x142100f13: 28 draws, bounds 0,1,2,4
+   0x142101086: 10 draws, bounds 100
+   0x14210862e: 25 draws, bounds 168,359,605,964,1193,9656,19045,32490
+   0x14210871c: 25 draws, bounds 840
+   0x142108799: 3 draws, bounds 359,964
+   0x1421087b9: 3 draws, bounds 840
+   0x1421029c7: 1 draws, bounds 13
+   0x1420ff711: 1 draws, bounds 25
+   0x1420ff72b: 1 draws, bounds 2
+   0x142102c41: 1 draws, bounds 840
+   0x1420efc0c: 943 draws, bounds 1,2,4,6,8,14,16,100,200,800
+   0x141d8b5ab: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 800
+   0x1420f6875: 152 draws, bounds 2,4,6,16
+   0x141febf93: 1482 draws, bounds 1,5,150,1000
+   0x141febfcf: 1482 draws, bounds 8
+   0x14202795d: 3 draws, bounds 1
+   tile grid: captures\cases\3182851902_the_causeway\truth_2408cf10bf0.tsv (157x61, 9577 cells) VERIFIED against tile hash 3351560268
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_3182851902.png

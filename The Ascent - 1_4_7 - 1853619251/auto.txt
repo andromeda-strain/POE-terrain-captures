@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1533087404 doodad hash 2031111837 (CLI_ACTIVATE_MAP)
+AUTO seed 1853619251 The Ascent: terrain act4/area7/ graph ascent2.tgr (15 locked nodes match; capture 63 nodes, graph 29)
+   typed nodes never placed by the client (untilised): [0, 2, 3, 5, 6, 7, 9, 11, 14, 15, 16, 20, 24, 25]
+   deletion candidates: certain [0, 2, 3, 5, 6, 9, 11, 14, 20, 24, 25], uncertain []; 1 option(s) for -34 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\1853619251_the_ascent\truth_2954d0a13f0.tsv (51x96, 4896 cells) VERIFIED against tile hash 1533087404
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1853619251.png

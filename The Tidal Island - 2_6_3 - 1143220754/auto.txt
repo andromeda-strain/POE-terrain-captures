@@ -1,0 +1,14 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3709616832 doodad hash 2889943183 (CLI_ACTIVATE_MAP)
+AUTO seed 1143220754 The Tidal Island: terrain act6/area3/ graph tidal_island_05.tgr (2 locked nodes match; capture 11 nodes, graph 6)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 5]
+   deletion candidates: certain [0, 1, 2], uncertain [5]; 1 option(s) for -5 deleted node(s)
+   removed nodes [0, 1, 2], pre-mover words 0: free nodes 0/0 match
+   tile grid: captures\cases\1143220754_the_tidal_island\truth_53db662bbf0.tsv (48x63, 3024 cells) VERIFIED against tile hash 3709616832
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1143220754.png
+   FAIL: permute-in 0/7, permute-out 0/7, rounder-in-1 0/7, rounder-in-2 0/7, rounder-in-3 0/12, rounder-in-4 0/12 ERROR RuntimeError: Failed to tilise the non-virtual node 3 (348, 501)
+   layout: not rendered:  3.29.3b\Work\tools\edge_sim.py", line 1603, in setup
+    raise RuntimeError(f'Failed to tilise the non-virtual node {nd.id} {nd.pos}')
+RuntimeError: Failed to tilise the non-virtual node 3 (348, 501); minimap captures\minimap_1143220754.png
+   corpus row appended

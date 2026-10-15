@@ -1,0 +1,4 @@
+KNOWN Frozen Springs [MapSideAreaIceForest] seed 4085888185: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain endgame/mapcoldwood/sideareaiceforest/, tile hash 2385851167 (1 of 1 rows), last capture captures/Frozen Springs - MapSideAreaIceForest - 4085888185/stages_20261011_224810.csv (DIFF)
+   this load's tile hash 2385851167 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Frozen Springs - MapSideAreaIceForest - 4085888185\truth_4346cdc53f0.tsv): captures\Frozen Springs - MapSideAreaIceForest - 4085888185\minimap.png

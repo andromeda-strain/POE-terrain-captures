@@ -1,0 +1,30 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2940475866 doodad hash 982938614 (CLI_ACTIVATE_MAP)
+AUTO seed 3517148271 The Vaal Ruins: dungeon area (capture captures/stages_20260930_120734.csv)
+   dungeon (.dgr) pipeline: 3406 draws in 23 call sites (4 generator draws before it, 10723 after it - the post passes); no generator model yet
+   0x14203a8e0: 18 draws, bounds 100
+   0x142105ee9: 4 draws, bounds 1,8,100,200
+   0x142107272: 10 draws, bounds 1613,6314,7514,29714
+   0x1420fd32a: 86 draws, bounds 128
+   0x142012839: 1 draws, bounds 9
+   0x1420fd640: 282 draws, bounds 29714
+   0x142001ee5: 38 draws, bounds 1,2,3
+   0x1420fc763: 1 draws, bounds 1
+   0x1420fcc6c: 3 draws, bounds 2,4,10
+   0x1420fce8c: 3 draws, bounds 100
+   0x14210862e: 28 draws, bounds 263,700,1411,14500,18900,28793,49000,67200,101000,2039500,2360000
+   0x14210871c: 28 draws, bounds 840
+   0x142108799: 1 draws, bounds 28793
+   0x1421087b9: 1 draws, bounds 840
+   0x1420ff711: 1 draws, bounds 23
+   0x1420ff72b: 1 draws, bounds 1
+   0x1420efc0c: 716 draws, bounds 1,2,4,6,8,10,14,560,800
+   0x1420f6875: 298 draws, bounds 1,2,4,6,12,14
+   0x1420f45dc: 39 draws, bounds 1,2
+   0x1420f4807: 39 draws, bounds 8,16
+   0x1420f47d8: 4 draws, bounds 1,2
+   0x141febf93: 902 draws, bounds 1
+   0x141febfcf: 902 draws, bounds 8
+   tile grid: captures\cases\3517148271_the_vaal_ruins\truth_28a57f0c3f0.tsv (67x67, 4489 cells) VERIFIED against tile hash 2940475866
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_3517148271.png

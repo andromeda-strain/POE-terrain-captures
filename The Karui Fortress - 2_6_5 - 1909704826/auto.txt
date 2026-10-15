@@ -1,0 +1,31 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1066646842 doodad hash 1147066256 (CLI_ACTIVATE_MAP)
+AUTO seed 1909704826 The Karui Fortress: dungeon area (capture captures/stages_20261002_213816.csv)
+   dungeon (.dgr) pipeline: 1856 draws in 24 call sites (6 generator draws before it, 30381 after it - the post passes); no generator model yet
+   0x14203a8e0: 9 draws, bounds 100
+   0x142105ee9: 5 draws, bounds 100
+   0x142107272: 1 draws, bounds 4810
+   0x1420fd32a: 17 draws, bounds 128
+   0x142012839: 2 draws, bounds 1,6
+   0x1420fd640: 33 draws, bounds 4810
+   0x142001ee5: 16 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 2
+   0x14210862e: 10 draws, bounds 8200,12300,1083000
+   0x14210871c: 10 draws, bounds 840
+   0x142109942: 2 draws, bounds 100
+   0x142109cdf: 2 draws, bounds 100
+   0x142109cf6: 2 draws, bounds 840
+   0x1420efc0c: 585 draws, bounds 1,2,4,8,88,100
+   0x1420f6875: 96 draws, bounds 1,2,8
+   0x1420f7228: 3 draws, bounds 8
+   0x1420f16eb: 1 draws, bounds 1560
+   0x1420f1d73: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 8
+   0x141febf93: 500 draws, bounds 1,124
+   0x141febfcf: 462 draws, bounds 8
+   0x141fec0ea: 47 draws, bounds 88,100,112
+   0x141fec1d8: 38 draws, bounds 8
+   0x14202795d: 4 draws, bounds 1
+   tile grid: captures\cases\1909704826_the_karui_fortress\truth_53e2644f3f0.tsv (78x51, 3978 cells) VERIFIED against tile hash 1066646842
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1909704826.png

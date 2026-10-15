@@ -1,0 +1,4 @@
+KNOWN City Square [MapWorldsCitySquare] seed 3316592085: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 1643776927 (1 of 1 rows), last capture captures/City Square - MapWorldsCitySquare - 3316592085/stages_20261014_215337.csv (dungeon trace)
+   this load's tile hash 1643776927 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\City Square - MapWorldsCitySquare - 3316592085\truth_5622dd76bf0.tsv): captures\City Square - MapWorldsCitySquare - 3316592085\minimap.png

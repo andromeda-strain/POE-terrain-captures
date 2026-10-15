@@ -1,0 +1,5 @@
+KNOWN Alleyways [MapWorldsAlleyways] seed 2400635400: 2 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 1095433766 (2 of 2 rows), last capture captures/Alleyways - MapWorldsAlleyways - 2400635400/stages_20261005_164549.csv (dungeon trace)
+   walkable field: none stored and not read (--no-walk)
+   walkable field: captures\Alleyways - MapWorldsAlleyways - 2400635400\hull_melee.png composed from the tiles' hull planes (10.0% of the sub-cells walkable, agrees with the grid on 40.3% of the cells; the placed objects' hulls are not in it)
+   minimap (rendered from the stored grid captures\Alleyways - MapWorldsAlleyways - 2400635400\truth_20da25063f0.tsv with the walkable field hull_melee.png (40.3% agreement)): captures\Alleyways - MapWorldsAlleyways - 2400635400\minimap.png

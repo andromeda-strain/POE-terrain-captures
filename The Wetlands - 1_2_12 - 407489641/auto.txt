@@ -1,0 +1,6 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 534786920 doodad hash 369718315 (CLI_ACTIVATE_MAP)
+AUTO seed 407489641 The Wetlands: no graph matches the capture (best 9 nodes, 0.47)
+   tile grid: captures\cases\407489641_the_wetlands\truth_28a68188bf0.tsv (54x75, 4050 cells) VERIFIED against tile hash 534786920
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_407489641.png

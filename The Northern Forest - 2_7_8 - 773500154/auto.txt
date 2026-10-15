@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3876175309 doodad hash 6499623 (CLI_ACTIVATE_MAP)
+AUTO seed 773500154 The Northern Forest: terrain act7/area8/ graph northern_forest_10.tgr (17 locked nodes match; capture 45 nodes, graph 30)
+   typed nodes never placed by the client (untilised): [0, 4, 5, 8, 10, 11, 21, 22, 25, 26, 28]
+   deletion candidates: certain [0, 4, 5, 8, 10, 11, 21, 22, 25, 26], uncertain [28]; 1 option(s) for -15 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\773500154_the_northern_forest\truth_2407c8c23f0.tsv (60x90, 5400 cells) VERIFIED against tile hash 3876175309
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_773500154.png

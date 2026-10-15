@@ -1,0 +1,14 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 82583748 doodad hash 3034724932 (CLI_ACTIVATE_MAP)
+AUTO seed 3611361445 Dusty Bluff: terrain act9/sidearearefinery/ graph siderefinery5.tgr (3 locked nodes match; capture 20 nodes, graph 12)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 9, 10]
+   deletion candidates: certain [0, 1, 2, 9, 10], uncertain []; 1 option(s) for -8 deleted node(s)
+   removed nodes [0, 1, 2, 9, 10], pre-mover words 0: free nodes 0/1 match
+   tile grid: captures\Dusty Bluff - MapSideArea9_9 - 3611361445\truth_52c708eb3f0.tsv (36x66, 2376 cells) VERIFIED against tile hash 82583748
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\Dusty Bluff - MapSideArea9_9 - 3611361445\minimap.png
+   FAIL: permute-in 0/11, permute-out 0/11, rounder-in-1 0/11, rounder-in-2 0/11 ERROR NotImplementedError: virtual edges not reached by any chain: ['0', '3']
+   layout: not rendered: tools\edge_sim.py", line 1726, in virtual_stage
+    raise NotImplementedError(f'virtual edges not reached by any chain: {left}')
+NotImplementedError: virtual edges not reached by any chain: ['0', '3']; minimap captures\Dusty Bluff - MapSideArea9_9 - 3611361445\minimap.png
+   corpus row appended

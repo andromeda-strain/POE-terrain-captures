@@ -1,0 +1,16 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 776092988 doodad hash 3661312219 (CLI_ACTIVATE_MAP)
+AUTO seed 1363251047 The Twilight Strand: terrain act6/area1/ graph twilight_strand_01.tgr (8 locked nodes match; capture 29 nodes, graph 22)
+   typed nodes never placed by the client (untilised): [0, 1, 11, 12, 18, 19]
+   deletion candidates: certain [0, 1, 11, 12, 18, 19], uncertain []; 1 option(s) for -7 deleted node(s)
+   removed nodes [0, 1, 11, 12, 18, 19], pre-mover words 0: free nodes 0/7 match
+   tile grid: captures\cases\1363251047_the_twilight_strand\truth_53dfe78f3f0.tsv (78x42, 3276 cells) VERIFIED against tile hash 776092988
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1363251047.png
+   FAIL: permute-in 0/16, permute-out 0/16, rounder-in-1 0/16, rounder-in-2 0/16 ERROR TypeError: 'NoneType' object is not subscriptable
+   layout: not rendered: j, like=nd)
+  File "D:\repos\POE 3.29.3b\Work\tools\edge_sim.py", line 1697, in make_node
+    nn = Node(nid, pos[0], pos[1])
+                   ~~~^^^
+TypeError: 'NoneType' object is not subscriptable; minimap captures\minimap_1363251047.png
+   corpus row already present

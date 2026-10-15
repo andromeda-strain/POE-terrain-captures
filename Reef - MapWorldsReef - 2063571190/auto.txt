@@ -1,0 +1,14 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3089955312 doodad hash 1704942218 (CLI_ACTIVATE_MAP)
+AUTO seed 2063571190 Reef: terrain endgame/mapshipgraveyard/ graph ships_1_4.tgr (7 locked nodes match; capture 32 nodes, graph 30)
+   typed nodes never placed by the client (untilised): [5, 6, 8]
+   deletion candidates: certain [5, 6], uncertain []; 1 option(s) for -2 deleted node(s)
+   removed nodes [5, 6], pre-mover words 0: free nodes 0/21 match
+   tile grid: captures\cases\2063571190_reef\truth_3466fcbe3f0.tsv (129x93, 9874 cells) VERIFIED against tile hash 3089955312
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2063571190.png
+   FAIL: permute-in 0/9, permute-out 0/9, rounder-in-1 0/9, rounder-in-2 0/9, rounder-in-4 0/18 ERROR NotImplementedError: virtual edges not reached by any chain: ['0', '1', '2', '3', '4', '5', '6']
+   layout: not rendered: 1726, in virtual_stage
+    raise NotImplementedError(f'virtual edges not reached by any chain: {left}')
+NotImplementedError: virtual edges not reached by any chain: ['0', '1', '2', '3', '4', '5', '6']; minimap captures\minimap_2063571190.png
+   corpus row already present

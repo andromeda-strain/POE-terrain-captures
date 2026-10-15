@@ -1,0 +1,39 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3199277502 doodad hash 954752932 (CLI_ACTIVATE_MAP)
+AUTO seed 3795107622 The Slave Pens: dungeon area (capture captures/stages_20261001_140538.csv)
+   dungeon (.dgr) pipeline: 2432 draws in 32 call sites (3 generator draws before it, 15600 after it - the post passes); no generator model yet
+   0x14203a8e0: 14 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 100
+   0x1420038a1: 3 draws, bounds 100,200
+   0x142107272: 5 draws, bounds 200,750
+   0x1420fd32a: 54 draws, bounds 128
+   0x142012839: 1 draws, bounds 6
+   0x1420fd640: 114 draws, bounds 750
+   0x142001ee5: 26 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x1420fcc6c: 1 draws, bounds 4
+   0x1420fce8c: 1 draws, bounds 100
+   0x142100f13: 10 draws, bounds 0,1,2
+   0x142101086: 6 draws, bounds 100
+   0x14210862e: 14 draws, bounds 40,100,440,480,1640,2120,4200,10350
+   0x14210871c: 14 draws, bounds 840
+   0x1421029c7: 1 draws, bounds 7
+   0x1420ff711: 1 draws, bounds 14
+   0x1420ff72b: 1 draws, bounds 1
+   0x142102c41: 1 draws, bounds 840
+   0x1420efc0c: 758 draws, bounds 1,2,4,6,8,16,32,200,280,800
+   0x141d8b5ab: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 800
+   0x1420f6875: 256 draws, bounds 1,2,6,16,200,280
+   0x1420f45dc: 26 draws, bounds 1
+   0x1420f4807: 26 draws, bounds 4
+   0x141febf93: 483 draws, bounds 100,200
+   0x141febfcf: 483 draws, bounds 8
+   0x141febd7f: 61 draws, bounds 440,460,480,500
+   0x141fed087: 12 draws, bounds 8
+   0x141fe90a5: 12 draws, bounds 200
+   0x141fe9173: 12 draws, bounds 8
+   0x141fed1ec: 23 draws, bounds 8
+   tile grid: captures\cases\3795107622_the_slave_pens\truth_295402733f0.tsv (67x73, 4891 cells) VERIFIED against tile hash 3199277502
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_3795107622.png

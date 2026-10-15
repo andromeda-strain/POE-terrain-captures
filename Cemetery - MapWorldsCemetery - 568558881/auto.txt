@@ -1,0 +1,4 @@
+KNOWN Cemetery [MapWorldsCemetery] seed 568558881: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain endgame/mapcemetary/, tile hash 1714997564 (1 of 1 rows), last capture captures/Cemetery - MapWorldsCemetery - 568558881/stages_20261014_223718.csv (DIFF)
+   this load's tile hash 1714997564 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Cemetery - MapWorldsCemetery - 568558881\truth_56238393bf0.tsv): captures\Cemetery - MapWorldsCemetery - 568558881\minimap.png

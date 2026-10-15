@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2803321911 doodad hash 2995895374 (CLI_ACTIVATE_MAP)
+AUTO seed 2310821503 Atoll: terrain endgame/mapledge/ graph map_ledge2_2.tgr (19 locked nodes match; capture 59 nodes, graph 39)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 4, 6, 7, 21, 22, 27, 28, 35, 38]
+   deletion candidates: certain [0, 1, 2, 4, 6, 7, 21, 22, 27, 28, 35, 38], uncertain []; 1 option(s) for -20 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\2310821503_atoll\truth_399ec5373f0.tsv (117x75, 7300 cells) VERIFIED against tile hash 2803321911
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2310821503.png

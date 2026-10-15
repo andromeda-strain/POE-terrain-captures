@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1086046921 doodad hash 2933779808 (CLI_ACTIVATE_MAP)
+AUTO seed 1475174401 Prisoner's Gate: terrain act1/area8/ graph prisoners_gate_3_2.tgr (3 locked nodes match; capture 46 nodes, graph 30)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 3, 4, 5, 6, 7, 21, 22, 23, 27]
+   deletion candidates: certain [1, 2, 3, 4, 5, 6, 7, 21, 22, 27], uncertain []; 1 option(s) for -16 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\1475174401_prisoner_s_gate\truth_3db54e67bf0.tsv (63x84, 5292 cells) VERIFIED against tile hash 1086046921
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap render failed: captures\minimap_1475174401.png is held open by another process; the render was not written

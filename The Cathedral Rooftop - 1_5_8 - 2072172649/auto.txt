@@ -1,0 +1,33 @@
+   tile grid taken at the generator's return (no memory scan)
+AUTO seed 2072172649 The Cathedral Rooftop: dungeon area (capture captures/stages_20261002_202228.csv)
+   dungeon (.dgr) pipeline: 25313 draws in 27 call sites (4 generator draws before it, 22911 after it - the post passes); no generator model yet
+   0x14203a8e0: 5 draws, bounds 100
+   0x142105ee9: 21 draws, bounds 1,2,16
+   0x142105f65: 4 draws, bounds 2
+   0x1420fd32a: 92 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 255 draws, bounds 8
+   0x142001ee5: 5 draws, bounds 1,3
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 4 draws, bounds 1001,2002
+   0x14210871c: 4 draws, bounds 840
+   0x142108799: 1 draws, bounds 2002
+   0x1421087b9: 1 draws, bounds 840
+   0x142109942: 307 draws, bounds 1
+   0x142109cdf: 307 draws, bounds 1
+   0x142109cf6: 307 draws, bounds 840
+   0x1420efc0c: 385 draws, bounds 1,2,4,6,8,200
+   0x1420f7228: 61 draws, bounds 1,2,4
+   0x1420f6875: 216 draws, bounds 1,2,4,5,6,200
+   0x1420f16eb: 1 draws, bounds 16372
+   0x1420f1d73: 1 draws, bounds 1
+   0x141fe9a73: 72 draws, bounds 2,8
+   0x141febf93: 11593 draws, bounds 1,100
+   0x141febfcf: 11593 draws, bounds 8
+   0x141febd7f: 16 draws, bounds 1,101,201
+   0x141fed087: 7 draws, bounds 8
+   0x141fed1ec: 3 draws, bounds 8
+   0x14202795d: 50 draws, bounds 1,100
+   tile grid: captures\cases\2072172649_the_cathedral_rooftop\truth_53db662d3f0.tsv (121x157, 18997 cells) VERIFIED against tile hash 3324307379
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2072172649.png

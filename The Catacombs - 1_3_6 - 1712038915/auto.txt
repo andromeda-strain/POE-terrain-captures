@@ -1,0 +1,32 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 41140647 doodad hash 2983546376 (CLI_ACTIVATE_MAP)
+AUTO seed 1712038915 The Catacombs: dungeon area (capture captures/stages_20261002_095907.csv)
+   dungeon (.dgr) pipeline: 1989 draws in 25 call sites (4 generator draws before it, 7724 after it - the post passes); no generator model yet
+   0x14203a8e0: 11 draws, bounds 100
+   0x142105ee9: 4 draws, bounds 1
+   0x142107272: 3 draws, bounds 72
+   0x1420fd32a: 57 draws, bounds 128
+   0x142012839: 2 draws, bounds 1,7
+   0x142001ee5: 21 draws, bounds 1,2
+   0x1420fd640: 87 draws, bounds 72
+   0x1420fc763: 1 draws, bounds 2
+   0x14210862e: 15 draws, bounds 19,110,163,169,251,524,815,865
+   0x14210871c: 15 draws, bounds 840
+   0x142108799: 1 draws, bounds 19
+   0x1421087b9: 1 draws, bounds 840
+   0x1421029c7: 1 draws, bounds 4
+   0x1420ff711: 1 draws, bounds 6
+   0x1420ff72b: 1 draws, bounds 3
+   0x142102c41: 1 draws, bounds 840
+   0x1420efc0c: 475 draws, bounds 1,2,4,8,10,14,16,28,1200,2940
+   0x141d8b5ab: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 8
+   0x1420f6875: 147 draws, bounds 1,2,4,14,28
+   0x1420f45dc: 22 draws, bounds 1,2
+   0x1420f4807: 22 draws, bounds 4,8
+   0x1420f47d8: 1 draws, bounds 2
+   0x141febf93: 545 draws, bounds 1
+   0x141febfcf: 545 draws, bounds 8
+   tile grid: captures\cases\1712038915_the_catacombs\truth_4eccf0aebf0.tsv (59x59, 3481 cells) VERIFIED against tile hash 41140647
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1712038915.png

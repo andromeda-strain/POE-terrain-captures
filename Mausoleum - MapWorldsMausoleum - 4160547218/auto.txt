@@ -1,0 +1,4 @@
+KNOWN Mausoleum [MapWorldsMausoleum] seed 4160547218: 2 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 1225338081 (2 of 2 rows), last capture captures/Mausoleum - MapWorldsMausoleum - 4160547218/stages_20261012_214421.csv (dungeon trace)
+   this load's tile hash 1225338081 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Mausoleum - MapWorldsMausoleum - 4160547218\truth_4fb7386b3f0.tsv): captures\Mausoleum - MapWorldsMausoleum - 4160547218\minimap.png

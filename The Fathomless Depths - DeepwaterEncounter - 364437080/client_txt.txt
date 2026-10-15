@@ -1,0 +1,11 @@
+2026/10/12 22:37:03 889565281 1186a8a3 [DEBUG Client 9544] Generating level 83 area "DeepwaterEncounter" with seed 364437080
+2026/10/12 22:37:04 889566593 f22b6a02 [INFO Client 9544] Tile hash: 2860887164
+2026/10/12 22:37:04 889566593 f22b6a0d [INFO Client 9544] Doodad hash: 3564793317
+2026/10/12 22:37:04 889566609 e001b752 [INFO Client 9544] [SCENE] Set Source [(null)]
+2026/10/12 22:37:04 889566609 e001b752 [INFO Client 9544] [SCENE] Set Source [The Fathomless Depths]
+2026/10/12 22:37:04 889566656 df74e03b [DEBUG Client 9544] [SCENE] Static Walkability Texture: 560 x 276
+2026/10/12 22:37:05 889567062 cffb065b [INFO Client 9544] : You have entered The Fathomless Depths.
+2026/10/12 22:37:05 889567375 a15e960c [INFO Client 9544] [LOADING SCREEN] (The Fathomless Depths) Duration = 2.25643 seconds
+2026/10/12 22:37:07 889569734 13cb2f92 [WARN Client 9544] Failed to create effect graph node (ID: 70207256). Node type does not exist
+2026/10/12 22:37:07 889569734 5c7c661 [WARN Client 9544] Failed to create effect graph node "WaterFlowUvField" in graph "Metadata/Effects/Graphs/Environment/FlowingWater.fxgraph"
+2026/10/12 22:37:08 889570265 cffb065b [INFO Client 9544] Valerie, the Corsair: Hope you're ready for this!

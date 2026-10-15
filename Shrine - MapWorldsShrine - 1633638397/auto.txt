@@ -1,0 +1,42 @@
+   tile grid taken at the generator's return (no memory scan)
+AUTO seed 1633638397 Shrine: dungeon area (capture captures/stages_20261009_155149.csv)
+   dungeon (.dgr) pipeline: 8454 draws in 36 call sites (1 generator draws before it, 44100 after it - the post passes); no generator model yet
+   0x14203a8e0: 21 draws, bounds 100
+   0x142105ee9: 5 draws, bounds 100
+   0x142107272: 15 draws, bounds 140,441,1502
+   0x1420fd32a: 124 draws, bounds 128
+   0x142012839: 3 draws, bounds 1,6,8
+   0x1420fd640: 200 draws, bounds 441,480,1502
+   0x142001ee5: 25 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 3
+   0x14210862e: 17 draws, bounds 1,10,120,410,530,4100,7380,16101
+   0x14210871c: 17 draws, bounds 840
+   0x142108799: 1 draws, bounds 16101
+   0x1421087b9: 1 draws, bounds 840
+   0x142109942: 61 draws, bounds 6
+   0x142109cdf: 61 draws, bounds 6
+   0x142109cf6: 61 draws, bounds 840
+   0x1421029c7: 7 draws, bounds 9
+   0x1420ff711: 7 draws, bounds 3,4,5,6,7,8,9
+   0x1420ff72b: 7 draws, bounds 1,2,3
+   0x142102c41: 7 draws, bounds 840
+   0x1420efc0c: 2145 draws, bounds 100,200,280,320,400,520,600,800,1600,7200
+   0x141d8b5ab: 7 draws, bounds 1,2,3,4,5,6,7
+   0x141fe9a73: 63 draws, bounds 800
+   0x1420f6875: 143 draws, bounds 100,200,320,400
+   0x1420f45dc: 4 draws, bounds 1
+   0x1420f4807: 4 draws, bounds 800
+   0x1420f47d8: 2 draws, bounds 1
+   0x141feddbe: 140 draws, bounds 24,64
+   0x141fee88c: 69 draws, bounds 8
+   0x141fee98b: 25 draws, bounds 8
+   0x141fe90a5: 829 draws, bounds 20
+   0x141fe9173: 829 draws, bounds 8
+   0x141febd7f: 1796 draws, bounds 24,64
+   0x141fed1ec: 872 draws, bounds 8
+   0x141fed087: 327 draws, bounds 8
+   0x141febf93: 279 draws, bounds 1,100
+   0x141febfcf: 279 draws, bounds 8
+   tile grid: captures\cases\1633638397_shrine\truth_3c9101c7bf0.tsv (83x113, 9379 cells) VERIFIED against tile hash 1640070569
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1633638397.png

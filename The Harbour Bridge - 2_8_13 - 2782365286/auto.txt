@@ -1,0 +1,31 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3730713352 doodad hash 2633489105 (CLI_ACTIVATE_MAP)
+AUTO seed 2782365286 The Harbour Bridge: dungeon area (capture captures/stages_20261004_222530.csv)
+   dungeon (.dgr) pipeline: 5182 draws in 24 call sites (7 generator draws before it, 45442 after it - the post passes); no generator model yet
+   0x14203a8e0: 5 draws, bounds 100
+   0x142105ee9: 14 draws, bounds 1,8,10,50
+   0x1420fd32a: 60 draws, bounds 128
+   0x142012839: 2 draws, bounds 2
+   0x1420fd640: 45 draws, bounds 270
+   0x142001ee5: 7 draws, bounds 1
+   0x1420fc763: 2 draws, bounds 1
+   0x14210862e: 3 draws, bounds 8200
+   0x14210871c: 3 draws, bounds 840
+   0x1421029c7: 2 draws, bounds 1
+   0x1420ff711: 2 draws, bounds 1,2
+   0x1420ff72b: 2 draws, bounds 1
+   0x142102c41: 2 draws, bounds 840
+   0x1420efc0c: 495 draws, bounds 1,100,200,400,800,3500
+   0x141d8b5ab: 2 draws, bounds 1,2
+   0x141fe90a5: 8 draws, bounds 100
+   0x141fe9173: 8 draws, bounds 8
+   0x141fe9a73: 14 draws, bounds 800
+   0x1420f24d2: 1 draws, bounds 1911
+   0x1420f2ded: 1 draws, bounds 1
+   0x1420f2e01: 1 draws, bounds 840
+   0x141febf93: 2241 draws, bounds 1,100
+   0x141febfcf: 2241 draws, bounds 8
+   0x14202795d: 21 draws, bounds 100,300
+   tile grid: captures\cases\2782365286_the_harbour_bridge\truth_21aa71d33f0.tsv (168x96, 16128 cells) VERIFIED against tile hash 3730713352
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2782365286.png

@@ -1,0 +1,32 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1623697606 doodad hash 2326120009 (CLI_ACTIVATE_MAP)
+AUTO seed 3674222332 The Chamber of Innocence: dungeon area (capture captures/stages_20261002_171128.csv)
+   dungeon (.dgr) pipeline: 4930 draws in 25 call sites (5 generator draws before it, 8578 after it - the post passes); no generator model yet
+   0x142031e88: 1 draws, bounds 1
+   0x142031ea6: 1 draws, bounds 2
+   0x14203a8e0: 22 draws, bounds 100
+   0x142105ee9: 12 draws, bounds 25,33,50
+   0x1420038a1: 12 draws, bounds 100,200,300
+   0x142107272: 5 draws, bounds 633
+   0x1420fd32a: 80 draws, bounds 128
+   0x142012839: 2 draws, bounds 7,14
+   0x1420fd640: 123 draws, bounds 216,633
+   0x142001ee5: 34 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 2
+   0x142100f13: 16 draws, bounds 0,1,2
+   0x142101086: 2 draws, bounds 100
+   0x14210862e: 11 draws, bounds 100,2200,2300,6400,8200
+   0x14210871c: 11 draws, bounds 840
+   0x1421029c7: 1 draws, bounds 1
+   0x1420ff711: 1 draws, bounds 11
+   0x1420ff72b: 1 draws, bounds 1
+   0x142102c41: 1 draws, bounds 840
+   0x1420efc0c: 1005 draws, bounds 1,2,3,4,6,8,12,16,800
+   0x141d8b5ab: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 800
+   0x1420f6875: 92 draws, bounds 2,4,12
+   0x141febf93: 1743 draws, bounds 1,100
+   0x141febfcf: 1743 draws, bounds 8
+   tile grid: captures\cases\3674222332_the_chamber_of_innocence\truth_59ae2b653f0.tsv (85x93, 7905 cells) VERIFIED against tile hash 1623697606
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_3674222332.png

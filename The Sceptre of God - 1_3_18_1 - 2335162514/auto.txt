@@ -1,0 +1,39 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2116269406 doodad hash 1414545696 (CLI_ACTIVATE_MAP)
+AUTO seed 2335162514 The Sceptre of God: dungeon area (capture captures/stages_20261002_133316.csv)
+   dungeon (.dgr) pipeline: 6083 draws in 32 call sites (4 generator draws before it, 9929 after it - the post passes); no generator model yet
+   0x1421055f1: 3 draws, bounds 2,12
+   0x1420f16eb: 2 draws, bounds 0,963
+   0x1420f1d73: 7 draws, bounds 1
+   0x14203a8e0: 29 draws, bounds 100
+   0x142105ee9: 6 draws, bounds 1
+   0x1420038a1: 24 draws, bounds 200
+   0x142107da7: 18 draws, bounds 200,600
+   0x1420fd32a: 53 draws, bounds 128
+   0x142012839: 6 draws, bounds 0,1,2
+   0x1420fd640: 76 draws, bounds 9501,9503
+   0x142001ee5: 42 draws, bounds 1,2
+   0x1420fc763: 3 draws, bounds 1
+   0x1420fcc6c: 3 draws, bounds 1,2
+   0x1420fce8c: 3 draws, bounds 100
+   0x142100f13: 24 draws, bounds 0,1,2
+   0x142101086: 21 draws, bounds 100
+   0x14210862e: 34 draws, bounds 100,1200,4100,4200,7100,9200,13300,14400,16100,18300,32200,194600
+   0x14210871c: 34 draws, bounds 840
+   0x142109942: 6 draws, bounds 100
+   0x142109cdf: 6 draws, bounds 100
+   0x142109cf6: 6 draws, bounds 840
+   0x1420efc0c: 608 draws, bounds 8,20,100,200,400,600,640,800,1800,2400,6000
+   0x1420f6875: 428 draws, bounds 100,200,400,640,1800
+   0x1420f45dc: 47 draws, bounds 1
+   0x1420f4807: 47 draws, bounds 400
+   0x141fe9a73: 18 draws, bounds 8
+   0x141febf93: 2261 draws, bounds 1,160
+   0x141febfcf: 2261 draws, bounds 8
+   0x142107272: 1 draws, bounds 9503
+   0x142101b93: 2 draws, bounds 1,9
+   0x1420ff711: 2 draws, bounds 2
+   0x1420ff72b: 2 draws, bounds 1
+   tile grid: captures\cases\2335162514_the_sceptre_of_god\truth_4d24bb06bf0.tsv (127x37, 4699 cells) VERIFIED against tile hash 2116269406
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2335162514.png

@@ -1,0 +1,26 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3047698548 doodad hash 1239449719 (CLI_ACTIVATE_MAP)
+AUTO seed 2281782615 Secret Laboratory: dungeon area (capture captures/Secret Laboratory - MapSideArea2_6 - 2281782615/stages_20261014_175219.csv)
+   dungeon (.dgr) pipeline: 1098 draws in 19 call sites (2 generator draws before it, 5970 after it - the post passes); no generator model yet
+   0x14203a8e0: 1 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 1
+   0x1420fd32a: 20 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 41 draws, bounds 51
+   0x142001ee5: 4 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 3 draws, bounds 116,157,523
+   0x14210871c: 3 draws, bounds 840
+   0x1420efc0c: 189 draws, bounds 1,2,4,6,8
+   0x1420f6875: 34 draws, bounds 1,2,4,6
+   0x1420f45dc: 4 draws, bounds 1,2
+   0x1420f47d8: 2 draws, bounds 1
+   0x1420f4807: 4 draws, bounds 4,8
+   0x141febf93: 393 draws, bounds 1,460
+   0x141febfcf: 383 draws, bounds 8
+   0x141fece63: 7 draws, bounds 840
+   0x141fec0ea: 3 draws, bounds 430,440
+   0x141fec1d8: 3 draws, bounds 8
+   tile grid: captures\Secret Laboratory - MapSideArea2_6 - 2281782615\truth_22fd8fbe3f0.tsv (47x47, 2209 cells) VERIFIED against tile hash 3047698548
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\Secret Laboratory - MapSideArea2_6 - 2281782615\minimap.png

@@ -1,0 +1,20 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 4286032062 doodad hash 2185367592 (CLI_ACTIVATE_MAP)
+AUTO seed 438094231 Walled-off Ducts: dungeon area (capture captures/stages_20261004_204832.csv)
+   dungeon (.dgr) pipeline: 909 draws in 13 call sites (3 generator draws before it, 2707 after it - the post passes); no generator model yet
+   0x14203a8e0: 1 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 1
+   0x1420fd32a: 13 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 22 draws, bounds 3835
+   0x142001ee5: 4 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 3 draws, bounds 177394,218884,431134
+   0x14210871c: 3 draws, bounds 840
+   0x1420efc0c: 155 draws, bounds 2,40,80,100,180,200,220,240,400,460,500,600,...
+   0x1420f6875: 28 draws, bounds 40,80,100,240,400,1580
+   0x141febf93: 338 draws, bounds 1,120,130
+   0x141febfcf: 338 draws, bounds 8
+   tile grid: captures\cases\438094231_walled_off_ducts\truth_252b7fdbbf0.tsv (39x39, 1521 cells) VERIFIED against tile hash 4286032062
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_438094231.png

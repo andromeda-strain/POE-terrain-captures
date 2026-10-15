@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3087778686 doodad hash 4125134848 (CLI_ACTIVATE_MAP)
+AUTO seed 808855001 Kaom's Stronghold: terrain act4/area4level3/ graph kaom3_1.tgr (10 locked nodes match; capture 62 nodes, graph 27)
+   typed nodes never placed by the client (untilised): [0, 2, 3, 4, 5, 6, 9, 10, 13, 15, 16, 17, 18, 19, 22, 25]
+   deletion candidates: certain [0, 3, 4, 5, 6, 9, 10, 13, 16, 17, 18, 19, 22, 25], uncertain []; 1 option(s) for -35 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\808855001_kaom_s_stronghold\truth_295006973f0.tsv (84x117, 9828 cells) VERIFIED against tile hash 3087778686
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_808855001.png

@@ -1,0 +1,32 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 4175847380 doodad hash 2446525940 (CLI_ACTIVATE_MAP)
+AUTO seed 3738874253 The Lower Prison: dungeon area (capture captures/stages_20261002_214324.csv)
+   dungeon (.dgr) pipeline: 2072 draws in 25 call sites (5 generator draws before it, 10469 after it - the post passes); no generator model yet
+   0x14203a8e0: 14 draws, bounds 100
+   0x142105ee9: 4 draws, bounds 1,10
+   0x142107272: 11 draws, bounds 20,35,50,63,78,93
+   0x1420fd32a: 63 draws, bounds 128
+   0x142012839: 1 draws, bounds 10
+   0x1420fd640: 174 draws, bounds 93
+   0x142001ee5: 28 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 19 draws, bounds 5,74,279,507
+   0x14210871c: 19 draws, bounds 840
+   0x142108799: 2 draws, bounds 74
+   0x1421087b9: 2 draws, bounds 840
+   0x1420ff711: 2 draws, bounds 15,17
+   0x1420ff72b: 2 draws, bounds 1
+   0x1421029c7: 1 draws, bounds 2
+   0x142102c41: 1 draws, bounds 840
+   0x1420efc0c: 455 draws, bounds 1,4,100,200,400,540,600,800,1000,1200,1600
+   0x141d8b5ab: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 800
+   0x1420f6875: 263 draws, bounds 100,200,400,800,1000,1600
+   0x1420f45dc: 27 draws, bounds 1,2,3
+   0x1420f47d8: 14 draws, bounds 1,2
+   0x1420f4807: 27 draws, bounds 400,540
+   0x141febf93: 466 draws, bounds 1,20
+   0x141febfcf: 466 draws, bounds 8
+   tile grid: captures\cases\3738874253_the_lower_prison\truth_53dc103d3f0.tsv (43x75, 3225 cells) VERIFIED against tile hash 4175847380
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_3738874253.png

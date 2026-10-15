@@ -1,0 +1,29 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3267336992 doodad hash 4090377170 (CLI_ACTIVATE_MAP)
+AUTO seed 2853070089 The Crystal Veins: dungeon area (capture captures/stages_20261002_155503.csv)
+   dungeon (.dgr) pipeline: 3024 draws in 22 call sites (7 generator draws before it, 8038 after it - the post passes); no generator model yet
+   0x14203a8e0: 17 draws, bounds 100
+   0x142105ee9: 5 draws, bounds 1,100
+   0x142107272: 9 draws, bounds 1300,2060
+   0x1420fd32a: 34 draws, bounds 128
+   0x142012839: 1 draws, bounds 14
+   0x1420fd640: 35 draws, bounds 2060
+   0x142001ee5: 22 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 15 draws, bounds 3400,11600
+   0x14210871c: 15 draws, bounds 840
+   0x142108799: 1 draws, bounds 3400
+   0x1421087b9: 1 draws, bounds 840
+   0x1421029c7: 2 draws, bounds 1
+   0x1420ff711: 2 draws, bounds 14,15
+   0x1420ff72b: 2 draws, bounds 1
+   0x142102c41: 2 draws, bounds 840
+   0x1420efc0c: 859 draws, bounds 20,40,80,100,180,200,340,400,640,800,1200,1600,...
+   0x141d8b5ab: 2 draws, bounds 1,2
+   0x141fe9a73: 18 draws, bounds 800
+   0x1420f6875: 95 draws, bounds 200,640,1200
+   0x141febf93: 943 draws, bounds 100,110,300
+   0x141febfcf: 943 draws, bounds 8
+   tile grid: captures\cases\2853070089_the_crystal_veins\truth_5f779ad0bf0.tsv (87x65, 4666 cells) VERIFIED against tile hash 3267336992
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2853070089.png

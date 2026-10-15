@@ -1,0 +1,37 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3512266583 doodad hash 3088803228 (CLI_ACTIVATE_MAP)
+AUTO seed 730588532 The Lunaris Temple Level 1: dungeon area (capture captures/stages_20261004_220646.csv)
+   dungeon (.dgr) pipeline: 12625 draws in 30 call sites (11 generator draws before it, 34078 after it - the post passes); no generator model yet
+   0x1420f16eb: 2 draws, bounds 0,700
+   0x1420f1d73: 7 draws, bounds 1
+   0x14203a8e0: 23 draws, bounds 100
+   0x142105ee9: 23 draws, bounds 1,100,200
+   0x142107272: 14 draws, bounds 300,1382
+   0x1420fd32a: 140 draws, bounds 128
+   0x142012839: 5 draws, bounds 3,4,5
+   0x1420fd640: 113 draws, bounds 102,300,1382
+   0x142001ee5: 78 draws, bounds 1
+   0x1420fc763: 5 draws, bounds 1
+   0x14210862e: 72 draws, bounds 41,960,2276,4100,4170,46410
+   0x14210871c: 72 draws, bounds 840
+   0x142109942: 25 draws, bounds 100
+   0x142109cdf: 25 draws, bounds 100
+   0x142109cf6: 25 draws, bounds 840
+   0x1420efc0c: 1260 draws, bounds 1,2,4,6,8,12,14,100,200,400,460,660,...
+   0x1420f6875: 238 draws, bounds 1,2,4,8,14,200,460,660
+   0x141febf93: 5158 draws, bounds 1,100
+   0x141febfcf: 5158 draws, bounds 8
+   0x1420f45dc: 12 draws, bounds 1,2,3
+   0x1420f47d8: 9 draws, bounds 1,2
+   0x1420f4807: 12 draws, bounds 4,8
+   0x141fe9a73: 10 draws, bounds 800
+   0x141fe90a5: 8 draws, bounds 100
+   0x141fe9173: 8 draws, bounds 8
+   0x141fffc2c: 33 draws, bounds 100,200,300,400,500
+   0x141fffe22: 33 draws, bounds 100
+   0x142000103: 8 draws, bounds 100
+   0x14200016f: 8 draws, bounds 840
+   0x141feadce: 41 draws, bounds 2,4,800
+   tile grid: captures\cases\730588532_the_lunaris_temple_level_1\truth_21a3c914bf0.tsv (61x229, 11788 cells) VERIFIED against tile hash 3512266583
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_730588532.png

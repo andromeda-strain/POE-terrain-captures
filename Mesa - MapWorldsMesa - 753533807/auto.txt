@@ -1,0 +1,4 @@
+KNOWN Mesa [MapWorldsMesa] seed 753533807: 2 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain endgame/mapmesa/, tile hash 2423700097 (2 of 2 rows), last capture captures/Mesa - MapWorldsMesa - 753533807/stages_20261011_221819.csv (DIFF)
+   this load's tile hash 2423700097 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Mesa - MapWorldsMesa - 753533807\truth_4347092f3f0.tsv): captures\Mesa - MapWorldsMesa - 753533807\minimap.png

@@ -1,0 +1,17 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1296146835 doodad hash 1091707177 (CLI_ACTIVATE_MAP)
+AUTO seed 3098943194 Desolate Isle: terrain act9/sideareaboilinglake/ graph side_boilinglake_04.tgr (0 locked nodes match; capture 17 nodes, graph 12)
+   typed nodes never placed by the client (untilised): [0, 6, 7]
+   deletion candidates: certain [7], uncertain []; 1 option(s) for -5 deleted node(s)
+   removed nodes [7], pre-mover words 1: free nodes 4/8 match
+   tile grid: captures\stages_20261013_210347_truth_42af464e3f0.tsv (78x57, 4446 cells) VERIFIED against tile hash 1296146835
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap render failed: .py", line 162, in main
+    rows = [l.rstrip('\n').split('\t') for l in io.open(a.tsv, encoding='utf-8')]
+                                                ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'captures\\stages_20261013_210347_truth_42af464e3f0.tsv'
+   FAIL:  ERROR FileNotFoundError: [Errno 2] No such file or directory: 'captures\\stages_20261013_210347_truth_42af464e3f0.tsv'
+   layout: not rendered: utf-8')]
+                                                ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'captures\\stages_20261013_210347_truth_42af464e3f0.tsv'; minimap captures\Desolate Isle - MapSideArea9_6 - 3098943194\minimap.png
+   corpus row already present

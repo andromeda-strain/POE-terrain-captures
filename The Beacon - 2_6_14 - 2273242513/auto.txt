@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 548745989 doodad hash 3497969894 (CLI_ACTIVATE_MAP)
+AUTO seed 2273242513 The Beacon: terrain act6/area14/ graph beacon_3.tgr (13 locked nodes match; capture 36 nodes, graph 27)
+   typed nodes never placed by the client (untilised): [3, 8, 10, 13, 19, 20, 23, 24, 25, 26]
+   deletion candidates: certain [3, 10, 19, 20, 23, 25], uncertain [13, 24]; 1 option(s) for -9 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\2273242513_the_beacon\truth_24030ebd3f0.tsv (162x72, 11664 cells) VERIFIED against tile hash 548745989
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2273242513.png

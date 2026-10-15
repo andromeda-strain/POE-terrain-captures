@@ -1,0 +1,20 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 4254452920 doodad hash 840568699 (CLI_ACTIVATE_MAP)
+AUTO seed 2555187645 Secluded Copse: dungeon area (capture captures/stages_20261003_224915.csv)
+   dungeon (.dgr) pipeline: 832 draws in 13 call sites (2 generator draws before it, 2803 after it - the post passes); no generator model yet
+   0x14203a8e0: 1 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 1
+   0x1420fd32a: 17 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 41 draws, bounds 28
+   0x142001ee5: 5 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 4 draws, bounds 53,428,679
+   0x14210871c: 4 draws, bounds 840
+   0x1420efc0c: 198 draws, bounds 2,4,18,20,22
+   0x1420f6875: 56 draws, bounds 18,20,22
+   0x141febf93: 251 draws, bounds 1
+   0x141febfcf: 251 draws, bounds 8
+   tile grid: captures\cases\2555187645_secluded_copse\truth_2407c9163f0.tsv (39x31, 1209 cells) VERIFIED against tile hash 4254452920
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2555187645.png

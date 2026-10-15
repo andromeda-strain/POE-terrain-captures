@@ -1,0 +1,46 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3013035528 doodad hash 558165901 (CLI_ACTIVATE_MAP)
+AUTO seed 2124104930 The Quarry: dungeon area (capture captures/stages_20261005_123926.csv)
+   dungeon (.dgr) pipeline: 4648 draws in 39 call sites (7 generator draws before it, 15697 after it - the post passes); no generator model yet
+   0x142031e88: 1 draws, bounds 1
+   0x142031ea6: 1 draws, bounds 2
+   0x14203a8e0: 24 draws, bounds 100
+   0x142105ee9: 13 draws, bounds 10,100
+   0x142107272: 11 draws, bounds 35,70,800
+   0x1420fd32a: 255 draws, bounds 128
+   0x142012839: 3 draws, bounds 3,8,9
+   0x1420fd640: 263 draws, bounds 35,70,800
+   0x142001ee5: 41 draws, bounds 1,2
+   0x1420fc763: 2 draws, bounds 1,2
+   0x14210862e: 32 draws, bounds 360,410,615,820,1640,1890,5550,5985,16980
+   0x14210871c: 32 draws, bounds 840
+   0x142108799: 1 draws, bounds 1640
+   0x1421087b9: 1 draws, bounds 840
+   0x142109942: 97 draws, bounds 10,130
+   0x142109cdf: 97 draws, bounds 10,90
+   0x142109cf6: 97 draws, bounds 840
+   0x142109a4b: 1 draws, bounds 120
+   0x1421029c7: 3 draws, bounds 2
+   0x1420ff711: 3 draws, bounds 4,5,6
+   0x1420ff72b: 3 draws, bounds 1
+   0x142102c41: 3 draws, bounds 840
+   0x1420efc0c: 1323 draws, bounds 1,2,4,6,8,100,200,798,800,1600
+   0x141d8b5ab: 3 draws, bounds 1,2,3
+   0x141fe9f09: 1 draws, bounds 1
+   0x141fe9a73: 18 draws, bounds 8
+   0x141febf93: 1098 draws, bounds 1,5,100,200,232
+   0x141febfcf: 1085 draws, bounds 8
+   0x141fec0ea: 14 draws, bounds 230,231
+   0x141fec1d8: 13 draws, bounds 8
+   0x141febd7f: 5 draws, bounds 56,66,76,96,116
+   0x141fed1ec: 1 draws, bounds 8
+   0x14202795d: 15 draws, bounds 1
+   0x1420fcc6c: 1 draws, bounds 1
+   0x1420fce8c: 1 draws, bounds 100
+   0x1420f6875: 66 draws, bounds 1,2,4,6,798
+   0x1420f7228: 2 draws, bounds 6
+   0x1420f45dc: 9 draws, bounds 1
+   0x1420f4807: 9 draws, bounds 4
+   tile grid: captures\cases\2124104930_the_quarry\truth_3585d557bf0.tsv (102x114, 9757 cells) VERIFIED against tile hash 3013035528
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2124104930.png

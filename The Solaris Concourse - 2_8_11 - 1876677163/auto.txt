@@ -1,0 +1,31 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3554542888 doodad hash 1840880660 (CLI_ACTIVATE_MAP)
+AUTO seed 1876677163 The Solaris Concourse: dungeon area (capture captures/stages_20261004_215647.csv)
+   dungeon (.dgr) pipeline: 9363 draws in 24 call sites (6 generator draws before it, 34882 after it - the post passes); no generator model yet
+   0x14203a8e0: 30 draws, bounds 100
+   0x142030de5: 1 draws, bounds 2
+   0x142105ee9: 16 draws, bounds 100,200,300
+   0x142107272: 3 draws, bounds 860,2500
+   0x1420fd32a: 662 draws, bounds 128
+   0x142012839: 8 draws, bounds 1,2,3,4,5
+   0x1420fd640: 678 draws, bounds 860,1100,1300,1500,1800,2300,2500
+   0x142001ee5: 75 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 7
+   0x14210862e: 54 draws, bounds 100,4100,6560,8200,12300,16400,36100
+   0x14210871c: 54 draws, bounds 840
+   0x142109942: 61 draws, bounds 100,120
+   0x142109cdf: 61 draws, bounds 100,120
+   0x142109cf6: 61 draws, bounds 840
+   0x1420efc0c: 531 draws, bounds 1,8,100,200,230,240,260,300,400,600,800,1200,...
+   0x1420f16eb: 1 draws, bounds 3438
+   0x1420f1d73: 1 draws, bounds 1
+   0x141fe9a73: 90 draws, bounds 200,800
+   0x141febf93: 2826 draws, bounds 1,100,200
+   0x141febfcf: 2826 draws, bounds 8
+   0x141febd7f: 729 draws, bounds 222,227,232,234,239,240,242,244,263,268,273,278,...
+   0x141fed1ec: 509 draws, bounds 8
+   0x141fed087: 43 draws, bounds 8
+   0x14202795d: 42 draws, bounds 40,100,120,125,130,140
+   tile grid: captures\cases\1876677163_the_solaris_concourse\truth_21a3c48a3f0.tsv (78x96, 7488 cells) VERIFIED against tile hash 3554542888
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1876677163.png

@@ -1,0 +1,4 @@
+KNOWN Gardens [MapWorldsGardens] seed 2304401245: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 3161647020 (1 of 1 rows), last capture captures/Gardens - MapWorldsGardens - 2304401245/stages_20261014_225027.csv (dungeon trace)
+   this load's tile hash 3161647020 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Gardens - MapWorldsGardens - 2304401245\truth_5623847f3f0.tsv): captures\Gardens - MapWorldsGardens - 2304401245\minimap.png

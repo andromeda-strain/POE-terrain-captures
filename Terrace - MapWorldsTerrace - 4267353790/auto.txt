@@ -1,0 +1,4 @@
+KNOWN Terrace [MapWorldsTerrace] seed 4267353790: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 1931688320 (1 of 1 rows), last capture captures/Terrace - MapWorldsTerrace - 4267353790/stages_20261014_231221.csv (dungeon trace)
+   this load's tile hash 1931688320 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Terrace - MapWorldsTerrace - 4267353790\truth_5628ab023f0.tsv): captures\Terrace - MapWorldsTerrace - 4267353790\minimap.png

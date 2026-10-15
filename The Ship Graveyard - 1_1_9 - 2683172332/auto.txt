@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 694397120 doodad hash 369670926 (CLI_ACTIVATE_MAP)
+AUTO seed 2683172332 The Ship Graveyard: terrain leagues/deepwater/act1_shipgraveyard/ graph macro_ships5_3.tgr (8 locked nodes match; capture 26 nodes, graph 20)
+   typed nodes never placed by the client (untilised): [0, 1, 3, 4, 5, 7, 9, 12, 13, 16, 17, 18, 19]
+   deletion candidates: certain [0, 1, 4, 5, 7, 9, 12, 17, 18, 19], uncertain []; 1 option(s) for -6 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\2683172332_the_ship_graveyard\truth_3db4f9fbbf0.tsv (66x72, 4752 cells) VERIFIED against tile hash 694397120
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2683172332.png

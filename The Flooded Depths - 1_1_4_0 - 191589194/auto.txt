@@ -1,0 +1,27 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2222667986 doodad hash 1771079207 (CLI_ACTIVATE_MAP)
+AUTO seed 191589194 The Flooded Depths: dungeon area (capture captures/stages_20260930_115049.csv)
+   dungeon (.dgr) pipeline: 1541 draws in 20 call sites (2 generator draws before it, 13057 after it - the post passes); no generator model yet
+   0x14203a8e0: 8 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 100
+   0x142107272: 4 draws, bounds 226,1626
+   0x1420fd32a: 40 draws, bounds 128
+   0x142012839: 1 draws, bounds 4
+   0x1420fd640: 119 draws, bounds 1626
+   0x142001ee5: 14 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x1420fcc6c: 1 draws, bounds 5
+   0x1420fce8c: 1 draws, bounds 100
+   0x14210862e: 13 draws, bounds 30,116,2050,2260,22500,47600,186100
+   0x14210871c: 13 draws, bounds 840
+   0x142108799: 1 draws, bounds 22500
+   0x1421087b9: 1 draws, bounds 840
+   0x1420ff711: 1 draws, bounds 3
+   0x1420ff72b: 1 draws, bounds 1
+   0x1420efc0c: 506 draws, bounds 1,2,4,8,10,12,16,48,568
+   0x1420f6875: 118 draws, bounds 2,4,10,12
+   0x141febf93: 348 draws, bounds 1,100,120
+   0x141febfcf: 348 draws, bounds 8
+   tile grid: captures\cases\191589194_the_flooded_depths\truth_28a681813f0.tsv (45x45, 2025 cells) VERIFIED against tile hash 2222667986
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_191589194.png

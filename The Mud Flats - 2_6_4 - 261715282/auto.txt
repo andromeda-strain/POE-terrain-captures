@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2322674456 doodad hash 38396056 (CLI_ACTIVATE_MAP)
+AUTO seed 261715282 The Mud Flats: terrain act6/area4/ graph mud_flats_05.tgr (8 locked nodes match; capture 37 nodes, graph 21)
+   typed nodes never placed by the client (untilised): [0, 1, 5, 6, 7, 9, 12, 13, 17, 18, 19]
+   deletion candidates: certain [0, 1, 3, 9, 19], uncertain []; 1 option(s) for -16 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\261715282_the_mud_flats\truth_53dc21323f0.tsv (57x63, 3591 cells) VERIFIED against tile hash 2322674456
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_261715282.png

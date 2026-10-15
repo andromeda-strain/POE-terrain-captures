@@ -1,0 +1,33 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 4035435092 doodad hash 1194620975 (CLI_ACTIVATE_MAP)
+AUTO seed 2501019992 The Dread Thicket: dungeon area (capture captures/stages_20261001_210233.csv)
+   dungeon (.dgr) pipeline: 2209 draws in 26 call sites (7 generator draws before it, 5595 after it - the post passes); no generator model yet
+   0x142031e88: 1 draws, bounds 1
+   0x142031ea6: 1 draws, bounds 1
+   0x14203a8e0: 2 draws, bounds 100
+   0x142105ee9: 4 draws, bounds 1,100
+   0x1420fd32a: 73 draws, bounds 128
+   0x142012839: 2 draws, bounds 1
+   0x1420fd640: 206 draws, bounds 2980
+   0x142001ee5: 21 draws, bounds 1,2,3
+   0x1420fc763: 1 draws, bounds 1
+   0x1420fcc6c: 4 draws, bounds 2,4,6
+   0x1420fce8c: 4 draws, bounds 100
+   0x14210862e: 19 draws, bounds 1200,4480,51800,84000,124600,209800
+   0x14210871c: 19 draws, bounds 840
+   0x142108799: 1 draws, bounds 84000
+   0x1421087b9: 1 draws, bounds 840
+   0x1421029c7: 1 draws, bounds 7
+   0x1420ff711: 2 draws, bounds 16,17
+   0x1420ff72b: 2 draws, bounds 2,3
+   0x142102c41: 1 draws, bounds 840
+   0x1420efc0c: 433 draws, bounds 1,2,4,8,18,20,22,100,200
+   0x141d8b5ab: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 8
+   0x1420f6875: 186 draws, bounds 4,18,20,22
+   0x141febf93: 607 draws, bounds 1,100,400
+   0x141febfcf: 607 draws, bounds 8
+   0x14202795d: 1 draws, bounds 100
+   tile grid: captures\cases\2501019992_the_dread_thicket\truth_3dbc0f18bf0.tsv (81x39, 2922 cells) VERIFIED against tile hash 4035435092
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2501019992.png

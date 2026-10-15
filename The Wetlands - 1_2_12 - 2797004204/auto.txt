@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2557214493 doodad hash 4189025171 (CLI_ACTIVATE_MAP)
+AUTO seed 2797004204 The Wetlands: terrain act2/area12/ graph pools_and_streams3.tgr (12 locked nodes match; capture 54 nodes, graph 33)
+   typed nodes never placed by the client (untilised): [0, 2, 5, 10, 11, 12, 15, 16, 19, 20, 28]
+   deletion candidates: certain [0, 2, 5, 10, 11, 12, 15, 16, 20], uncertain []; 1 option(s) for -21 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\2797004204_the_wetlands\truth_3dbc1d34bf0.tsv (63x75, 4725 cells) VERIFIED against tile hash 2557214493
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap render failed: captures\minimap_2797004204.png is held open by another process; the render was not written

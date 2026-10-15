@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2492001220 doodad hash 2360578446 (CLI_ACTIVATE_MAP)
+AUTO seed 3932179557 Jungle Valley: terrain endgame/mapforest2/ graph map_forest2_1.tgr (0 locked nodes match; capture 27 nodes, graph 13)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 3, 4, 5, 6, 7]
+   deletion candidates: certain [0], uncertain []; 1 option(s) for -14 deleted node(s)
+   removed nodes [0], pre-mover words 0: free nodes 0/5 match
+   tile grid: captures\cases\3932179557_jungle_valley\truth_3ac685cdbf0.tsv (135x42, 5383 cells) VERIFIED against tile hash 2492001220
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_3932179557.png
+   FAIL: permute-in 0/11, permute-out 0/11, rounder-in-1 0/11, rounder-in-2 0/11, rounder-in-4 0/11
+   layout: captures\layout_3932179557.png; minimap captures\minimap_3932179557.png
+   corpus row appended

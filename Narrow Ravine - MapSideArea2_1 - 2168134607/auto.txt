@@ -1,0 +1,4 @@
+KNOWN Narrow Ravine [MapSideArea2_1] seed 2168134607: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain act2/sidecliff1/, tile hash 2502309106 (1 of 1 rows), last capture captures/Narrow Ravine - MapSideArea2_1 - 2168134607/stages_20261011_182655.csv (DIFF)
+   this load's tile hash 2502309106 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Narrow Ravine - MapSideArea2_1 - 2168134607\truth_4338fa793f0.tsv): captures\Narrow Ravine - MapSideArea2_1 - 2168134607\minimap.png

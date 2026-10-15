@@ -1,0 +1,7 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1941862320 doodad hash 832597477 (CLI_ACTIVATE_MAP)
+AUTO seed 82573316 The Sovereign: dungeon area (capture captures/stages_20260929_121556.csv)
+   dungeon (.dgr) pipeline: 0 draws in 0 call sites (0 generator draws before it, 0 after it - the post passes); no generator model yet
+   tile grid: captures\cases\82573316\truth_25988aaebf0.tsv (36x36, 1296 cells) VERIFIED against tile hash 1941862320
+   walkable field: not read (0 layer(s) in 153 s)
+   minimap (the client's grid): captures\minimap_82573316.png

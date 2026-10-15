@@ -1,0 +1,14 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 4148216990 doodad hash 1598829265 (CLI_ACTIVATE_MAP)
+AUTO seed 2057659728 The Oasis: terrain act9/area4/ graph oasis_foothills_1.tgr (14 locked nodes match; capture 46 nodes, graph 37)
+   typed nodes never placed by the client (untilised): [0, 2, 3, 6, 10, 26, 27, 32, 35]
+   deletion candidates: certain [2, 3, 6, 26, 35], uncertain []; 1 option(s) for -9 deleted node(s)
+   removed nodes [2, 3, 6, 26, 35], pre-mover words 0: free nodes 1/14 match
+   tile grid: captures\cases\2057659728_the_oasis\truth_358759133f0.tsv (130x87, 10242 cells) VERIFIED against tile hash 4148216990
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2057659728.png
+   FAIL: permute-in 0/24, permute-out 0/24, rounder-in-1 0/24, rounder-in-2 0/24, rounder-in-3 0/24, rounder-in-5 0/24 ERROR RuntimeError: Failed to tilise the non-virtual node 1 (583, 516)
+   layout: not rendered:  3.29.3b\Work\tools\edge_sim.py", line 1603, in setup
+    raise RuntimeError(f'Failed to tilise the non-virtual node {nd.id} {nd.pos}')
+RuntimeError: Failed to tilise the non-virtual node 1 (583, 516); minimap captures\minimap_2057659728.png
+   corpus row already present

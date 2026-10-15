@@ -1,0 +1,33 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 144818764 doodad hash 3274356087 (CLI_ACTIVATE_MAP)
+AUTO seed 3694988849 The Den: dungeon area (capture captures/stages_20261003_235508.csv)
+   dungeon (.dgr) pipeline: 1974 draws in 26 call sites (6 generator draws before it, 20423 after it - the post passes); no generator model yet
+   0x142031e88: 1 draws, bounds 1
+   0x142031ea6: 1 draws, bounds 2
+   0x14203a8e0: 19 draws, bounds 100
+   0x142105ee9: 4 draws, bounds 1,100
+   0x142107272: 15 draws, bounds 1030,2671,4312
+   0x1420fd32a: 20 draws, bounds 128
+   0x142012839: 1 draws, bounds 14
+   0x1420fd640: 10 draws, bounds 4312
+   0x142001ee5: 15 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 10 draws, bounds 1320,9520,10120,37840,57860
+   0x14210871c: 10 draws, bounds 840
+   0x1421029c7: 3 draws, bounds 5
+   0x1420ff711: 3 draws, bounds 4,5,6
+   0x1420ff72b: 3 draws, bounds 1
+   0x142102c41: 3 draws, bounds 840
+   0x1420efc0c: 234 draws, bounds 1,2,4,6,8,100,200
+   0x141d8b5ab: 3 draws, bounds 1,2,3
+   0x141fe9a73: 27 draws, bounds 8
+   0x1420f6875: 53 draws, bounds 2,6,8
+   0x141febf93: 759 draws, bounds 1,237
+   0x141febfcf: 730 draws, bounds 8
+   0x141fece63: 17 draws, bounds 840
+   0x141fec0ea: 19 draws, bounds 197,207,217,227,229
+   0x141fec1d8: 12 draws, bounds 8
+   0x14202795d: 1 draws, bounds 1
+   tile grid: captures\cases\3694988849_the_den\truth_2402b5773f0.tsv (59x59, 3481 cells) VERIFIED against tile hash 144818764
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_3694988849.png

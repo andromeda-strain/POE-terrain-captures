@@ -1,0 +1,44 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3115849383 doodad hash 1433062425 (CLI_ACTIVATE_MAP)
+AUTO seed 1913361106 The Control Blocks: dungeon area (capture captures/stages_20261005_113527.csv)
+   dungeon (.dgr) pipeline: 3936 draws in 37 call sites (7 generator draws before it, 24335 after it - the post passes); no generator model yet
+   0x142031e88: 1 draws, bounds 1
+   0x142031ea6: 1 draws, bounds 2
+   0x14203a8e0: 42 draws, bounds 100
+   0x142105ee9: 15 draws, bounds 3,6,100,200
+   0x1420038a1: 9 draws, bounds 50,100,150,200,300
+   0x142107272: 12 draws, bounds 300,320,900
+   0x1420fd32a: 238 draws, bounds 128
+   0x142012839: 3 draws, bounds 4,6,13
+   0x1420fd640: 283 draws, bounds 320,900
+   0x142001ee5: 45 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 2
+   0x1420fcc6c: 1 draws, bounds 1
+   0x1420fce8c: 1 draws, bounds 100
+   0x142100f13: 20 draws, bounds 0,1
+   0x142101086: 3 draws, bounds 100
+   0x14210862e: 24 draws, bounds 33,123,200,440,1640,2120
+   0x14210871c: 24 draws, bounds 840
+   0x142108799: 1 draws, bounds 440
+   0x1421087b9: 1 draws, bounds 840
+   0x1421029c7: 2 draws, bounds 3
+   0x1420ff711: 3 draws, bounds 15,16,17
+   0x1420ff72b: 3 draws, bounds 1,2
+   0x142102c41: 2 draws, bounds 840
+   0x1420efc0c: 950 draws, bounds 1,2,4,6,8,16,200,202,800
+   0x141d8b5ab: 2 draws, bounds 1,2
+   0x141fe9a73: 18 draws, bounds 800
+   0x1420f6875: 346 draws, bounds 1,2,4,6,16,200,800
+   0x1420f7228: 5 draws, bounds 2,800
+   0x1420f45dc: 42 draws, bounds 1
+   0x1420f4807: 42 draws, bounds 8
+   0x141febf93: 801 draws, bounds 100,200
+   0x141febfcf: 801 draws, bounds 8
+   0x141febd7f: 82 draws, bounds 470,480,490
+   0x141fed1ec: 67 draws, bounds 8
+   0x141fed087: 11 draws, bounds 8
+   0x141fe90a5: 17 draws, bounds 200
+   0x141fe9173: 17 draws, bounds 8
+   tile grid: captures\cases\1913361106_the_control_blocks\truth_29b34139bf0.tsv (91x85, 7735 cells) VERIFIED against tile hash 3115849383
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1913361106.png

@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3038873634 doodad hash 2963034988 (CLI_ACTIVATE_MAP)
+AUTO seed 3781505654 Fields: terrain endgame/mapfields/ graph fields_2.tgr (8 locked nodes match; capture 55 nodes, graph 31)
+   typed nodes never placed by the client (untilised): [0, 1, 5, 6, 10, 11, 12, 23, 29, 30]
+   deletion candidates: certain [0, 1, 5, 6, 8, 10, 11, 12, 23, 30], uncertain []; 1 option(s) for -24 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\3781505654_fields\truth_5371cf44bf0.tsv (123x66, 6967 cells) VERIFIED against tile hash 3038873634
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_3781505654.png

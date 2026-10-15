@@ -1,0 +1,14 @@
+--- 2026-10-08 22:04:59 --exe PathOfExile.exe --auto --out captures\stages_20261008_220459.csv --after-marker 10 --deadline 45 --quiet --auto-draws --stop-file captures\stages_20261008_220459.csv.stop
+attached to pid 20632, image base 0x7ff7d25f0000 (dump base 0x140000000); DR0 generator 0x7ff7d463d820 (then the draw 0x7ff7d45e9720 on its thread)  DR1 permute 0x7ff7d4715790  DR3 dungeon 0x7ff7d462c900 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+level generator on tid 13656: draws traced on this thread
+dungeon pipeline on tid 13656; tracing continues for 10.0 s or until it returns
+dungeon pipeline returned
+level generator returned
+--- TileMap T=0x332c70f83f0 71x71: 5041 cells with a tile, 41 distinct tiles -> captures\stages_20261008_220459_truth_332c70f83f0.tsv
+    tile hash over 4333 origin cells = 805187908
+trace window after the marker elapsed
+clear before detach: all 60 threads verified clear
+clear after detach: all 60 threads verified clear
+detached; client keeps running
+10029 events written to captures\stages_20261008_220459.csv

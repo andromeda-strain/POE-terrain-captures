@@ -1,0 +1,33 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 653264300 doodad hash 4089897955 (CLI_ACTIVATE_MAP)
+AUTO seed 427465413 The Ruined Square: dungeon area (capture captures/stages_20261002_172409.csv)
+   dungeon (.dgr) pipeline: 16456 draws in 26 call sites (7 generator draws before it, 26086 after it - the post passes); no generator model yet
+   0x142031e88: 1 draws, bounds 2
+   0x142031ea6: 1 draws, bounds 2
+   0x14203a8e0: 54 draws, bounds 100
+   0x142105ee9: 18 draws, bounds 1,100
+   0x142107272: 40 draws, bounds 200,600,1000,1051,2151
+   0x1420fd32a: 1104 draws, bounds 128
+   0x142012839: 7 draws, bounds 1,2,3,4,8,9,27
+   0x1420fd640: 1047 draws, bounds 200,600,1000,1051,2151
+   0x142001ee5: 86 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 5
+   0x14210862e: 68 draws, bounds 100,300,1100,2200,3300,4100,8200,9100,12300,18200
+   0x14210871c: 68 draws, bounds 840
+   0x142109942: 134 draws, bounds 1
+   0x142109cdf: 134 draws, bounds 1
+   0x142109cf6: 134 draws, bounds 840
+   0x1421029c7: 1 draws, bounds 5
+   0x1420ff711: 1 draws, bounds 18
+   0x1420ff72b: 1 draws, bounds 1
+   0x142102c41: 1 draws, bounds 840
+   0x1420efc0c: 783 draws, bounds 1,2,4,6,8,100,200,800
+   0x141d8b5ab: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 800
+   0x1420f6875: 411 draws, bounds 1,2,4,6,14
+   0x141febf93: 6161 draws, bounds 1,100
+   0x141febfcf: 6161 draws, bounds 8
+   0x14202795d: 29 draws, bounds 1,12,13
+   tile grid: captures\cases\427465413_the_ruined_square\truth_59ae2f50bf0.tsv (157x81, 11178 cells) VERIFIED against tile hash 653264300
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_427465413.png

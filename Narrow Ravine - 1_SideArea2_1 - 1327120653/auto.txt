@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 673030557 doodad hash 2614934669 (CLI_ACTIVATE_MAP)
+AUTO seed 1327120653 Narrow Ravine: terrain act2/sidecliff1/ graph cliff2.tgr (0 locked nodes match; capture 8 nodes, graph 4)
+   typed nodes never placed by the client (untilised): [1, 2]
+   deletion candidates: certain [], uncertain []; 1 option(s) for -4 deleted node(s)
+   removed nodes [], pre-mover words 0: free nodes 0/0 match
+   tile grid: captures\cases\1327120653_narrow_ravine\truth_358744b53f0.tsv (24x57, 1368 cells) VERIFIED against tile hash 673030557
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1327120653.png
+   FAIL: permute-in 0/5, permute-out 0/5, rounder-in-1 0/5, rounder-in-2 0/5, rounder-in-3 0/5
+   layout: captures\layout_1327120653.png; minimap captures\minimap_1327120653.png
+   corpus row appended

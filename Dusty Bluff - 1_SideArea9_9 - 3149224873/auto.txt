@@ -1,0 +1,14 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2748218734 doodad hash 3034724932 (CLI_ACTIVATE_MAP)
+AUTO seed 3149224873 Dusty Bluff: terrain act9/sidearearefinery/ graph siderefinery5.tgr (3 locked nodes match; capture 20 nodes, graph 12)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 9, 10]
+   deletion candidates: certain [0, 1, 2, 9, 10], uncertain []; 1 option(s) for -8 deleted node(s)
+   removed nodes [0, 1, 2, 9, 10], pre-mover words 0: free nodes 0/1 match
+   tile grid: captures\cases\3149224873_dusty_bluff\truth_357f4fdf3f0.tsv (36x66, 2376 cells) VERIFIED against tile hash 2748218734
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_3149224873.png
+   FAIL: permute-in 0/11 ERROR RuntimeError: Could not permute edges: 4
+   layout: not rendered: "D:\repos\POE 3.29.3b\Work\tools\permute.py", line 269, in permute
+    raise RuntimeError('Could not permute edges: ' + ', '.join(str(e.label) for e in again))
+RuntimeError: Could not permute edges: 4; minimap captures\minimap_3149224873.png
+   corpus row appended

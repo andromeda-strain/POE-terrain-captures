@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3103396315 doodad hash 1799606658 (CLI_ACTIVATE_MAP)
+AUTO seed 573879234 The Coast: terrain act6/area2/ graph coast_p2_v7.tgr (12 locked nodes match; capture 40 nodes, graph 24)
+   typed nodes never placed by the client (untilised): [0, 4, 5, 7, 8, 10, 12, 14, 17, 20, 21, 23]
+   deletion candidates: certain [0, 4, 5, 7, 8, 10, 12, 23], uncertain []; 1 option(s) for -16 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\573879234_the_coast\truth_53dc1f77bf0.tsv (75x75, 5625 cells) VERIFIED against tile hash 3103396315
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_573879234.png

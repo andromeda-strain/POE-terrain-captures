@@ -1,0 +1,7 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 4025964470 doodad hash 3564793317 (CLI_ACTIVATE_MAP)
+AUTO seed 3606213797 The Fathomless Depths: dungeon area (capture captures/stages_20260929_141400.csv)
+   dungeon (.dgr) pipeline: 0 draws in 0 call sites (0 generator draws before it, 0 after it - the post passes); no generator model yet
+   tile grid: captures\cases\3606213797_the_fathomless_depths\truth_221a0804bf0.tsv (73x36, 2592 cells) VERIFIED against tile hash 4025964470
+   walkable field: captures\cases\3606213797_the_fathomless_depths\walk_1.png (17.0% of the sub-cells walkable; 2 layer(s) read)
+   minimap (the client's grid): captures\minimap_3606213797.png

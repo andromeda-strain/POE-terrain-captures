@@ -1,0 +1,38 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2199474282 doodad hash 3705200780 (CLI_ACTIVATE_MAP)
+AUTO seed 3420277925 The Caverns: dungeon area (capture captures/stages_20261001_211704.csv)
+   dungeon (.dgr) pipeline: 3203 draws in 31 call sites (4 generator draws before it, 22890 after it - the post passes); no generator model yet
+   0x14203a8e0: 10 draws, bounds 100
+   0x142105ee9: 9 draws, bounds 1,100
+   0x1421055f1: 1 draws, bounds 3
+   0x142107272: 5 draws, bounds 80,1581,3082,6083
+   0x1420fd32a: 44 draws, bounds 128
+   0x142012839: 2 draws, bounds 2,6
+   0x1420fd640: 100 draws, bounds 6083,30113
+   0x142001ee5: 24 draws, bounds 1,2
+   0x1420fc763: 2 draws, bounds 1
+   0x1420fc444: 1 draws, bounds 100
+   0x1420fc477: 1 draws, bounds 0
+   0x14210862e: 17 draws, bounds 120,700,940,1411,18900,25300,28793,52600,101000,199500,597500,1308000
+   0x14210871c: 17 draws, bounds 840
+   0x1420efc0c: 571 draws, bounds 1,2,3,4,6,8,10,12,14,16,100,101,...
+   0x1420f6875: 219 draws, bounds 1,2,4,6,8,12,14
+   0x1420f16eb: 1 draws, bounds 734
+   0x1420f1d73: 2 draws, bounds 1
+   0x141febf93: 1061 draws, bounds 1
+   0x141febfcf: 1061 draws, bounds 8
+   0x1420fcc6c: 2 draws, bounds 5,7
+   0x1420fce8c: 2 draws, bounds 100
+   0x1421029c7: 1 draws, bounds 6
+   0x1420ff711: 1 draws, bounds 9
+   0x1420ff72b: 1 draws, bounds 1
+   0x142102c41: 1 draws, bounds 840
+   0x141d8b5ab: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 800
+   0x1420f7228: 1 draws, bounds 8
+   0x1420f45dc: 17 draws, bounds 1,2
+   0x1420f4807: 17 draws, bounds 8,16
+   0x1420f47d8: 2 draws, bounds 1,2
+   tile grid: captures\cases\3420277925_the_caverns\truth_3dbc0f1ebf0.tsv (63x63, 3969 cells) VERIFIED against tile hash 2199474282
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap render failed: captures\minimap_3420277925.png is held open by another process; the render was not written

@@ -1,0 +1,42 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3509728473 doodad hash 3392898745 (CLI_ACTIVATE_MAP)
+AUTO seed 462968388 The Control Blocks: dungeon area (capture captures/stages_20261005_111555.csv)
+   dungeon (.dgr) pipeline: 3947 draws in 35 call sites (6 generator draws before it, 22811 after it - the post passes); no generator model yet
+   0x14203a8e0: 37 draws, bounds 100
+   0x142105ee9: 14 draws, bounds 3,6,100,200
+   0x1420038a1: 9 draws, bounds 75,100,175,200
+   0x142107272: 10 draws, bounds 300,320,900
+   0x1420fd32a: 238 draws, bounds 128
+   0x142012839: 3 draws, bounds 1,9,10
+   0x1420fd640: 332 draws, bounds 320,900
+   0x142001ee5: 40 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 2
+   0x1420fcc6c: 1 draws, bounds 2
+   0x1420fce8c: 1 draws, bounds 100
+   0x142100f13: 19 draws, bounds 0,1,2
+   0x142101086: 4 draws, bounds 100
+   0x14210862e: 24 draws, bounds 33,40,123,200,440,480,1640,2120,3640
+   0x14210871c: 24 draws, bounds 840
+   0x142108799: 2 draws, bounds 123,1640
+   0x1421087b9: 2 draws, bounds 840
+   0x1421029c7: 2 draws, bounds 3
+   0x1420ff711: 2 draws, bounds 13,14
+   0x1420ff72b: 2 draws, bounds 2
+   0x142102c41: 2 draws, bounds 840
+   0x1420efc0c: 921 draws, bounds 1,2,4,6,8,16,200,202,800
+   0x141d8b5ab: 2 draws, bounds 1,2
+   0x141fe9a73: 18 draws, bounds 800
+   0x1420f6875: 292 draws, bounds 1,2,4,6,16,200,800
+   0x1420f7228: 5 draws, bounds 2,800
+   0x1420f45dc: 42 draws, bounds 1
+   0x1420f4807: 42 draws, bounds 8
+   0x141febf93: 801 draws, bounds 100,200
+   0x141febfcf: 801 draws, bounds 8
+   0x141febd7f: 109 draws, bounds 470,480,490
+   0x141fed1ec: 94 draws, bounds 8
+   0x141fed087: 13 draws, bounds 8
+   0x141fe90a5: 19 draws, bounds 200
+   0x141fe9173: 19 draws, bounds 8
+   tile grid: captures\cases\462968388_the_control_blocks\truth_29b09e60bf0.tsv (85x85, 7225 cells) VERIFIED against tile hash 3509728473
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_462968388.png

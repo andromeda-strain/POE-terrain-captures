@@ -1,0 +1,16 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 691804038 doodad hash 1578128020 (CLI_ACTIVATE_MAP)
+AUTO seed 4044540761 The Fellshrine Ruins: terrain act2/area15/ graph macro_ruins2.tgr (12 locked nodes match; capture 54 nodes, graph 31)
+   typed nodes never placed by the client (untilised): [2, 8, 9, 10, 11, 14, 15, 18, 19, 20, 23, 24, 25, 26, 27, 28, 29]
+   deletion candidates: certain [2, 8, 9, 19, 23], uncertain [24]; 1 option(s) for -23 deleted node(s)
+   removed nodes [2, 8, 9, 19, 23], pre-mover words 0: free nodes 0/9 match
+   tile grid: captures\cases\4044540761_the_fellshrine_ruins\truth_3db54e64bf0.tsv (111x87, 9657 cells) VERIFIED against tile hash 691804038
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_4044540761.png
+   FAIL: permute-in 0/27, permute-out 0/27, rounder-in-1 0/27, rounder-in-2 0/27 ERROR IndexError: pop from empty list
+   layout: not rendered:  - e35.wmin + 1)
+                   ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\repos\POE 3.29.3b\Work\tools\edge_sim.py", line 172, in draw
+    v = self.script.pop(0)
+IndexError: pop from empty list; minimap captures\minimap_4044540761.png
+   corpus row appended

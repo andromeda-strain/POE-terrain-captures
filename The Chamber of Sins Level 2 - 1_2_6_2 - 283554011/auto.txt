@@ -1,0 +1,39 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2748572369 doodad hash 4243778425 (CLI_ACTIVATE_MAP)
+AUTO seed 283554011 The Chamber of Sins Level 2: dungeon area (capture captures/stages_20261001_182148.csv)
+   dungeon (.dgr) pipeline: 3747 draws in 32 call sites (4 generator draws before it, 13243 after it - the post passes); no generator model yet
+   0x142031e88: 1 draws, bounds 1
+   0x142031ea6: 1 draws, bounds 2
+   0x14203a8e0: 16 draws, bounds 100
+   0x142105ee9: 7 draws, bounds 1,100
+   0x142107272: 6 draws, bounds 110,1510,2910,4210
+   0x1420fd32a: 74 draws, bounds 128
+   0x142012839: 3 draws, bounds 1,8
+   0x1420fd640: 196 draws, bounds 5,4210
+   0x142001ee5: 25 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 3
+   0x1420fcc6c: 2 draws, bounds 1,2
+   0x1420fce8c: 2 draws, bounds 100
+   0x14210862e: 14 draws, bounds 34,82,100,116,157,330,16200
+   0x14210871c: 14 draws, bounds 840
+   0x142108799: 2 draws, bounds 82
+   0x1421087b9: 2 draws, bounds 840
+   0x1421029c7: 1 draws, bounds 3
+   0x1420ff711: 1 draws, bounds 9
+   0x1420ff72b: 1 draws, bounds 1
+   0x142102c41: 1 draws, bounds 840
+   0x1420efc0c: 708 draws, bounds 1,2,4,6,8,12
+   0x141d8b5ab: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 8
+   0x1420f6875: 210 draws, bounds 1,2,4,6
+   0x1420f45dc: 25 draws, bounds 1,2
+   0x1420f4807: 25 draws, bounds 4,8
+   0x1420f47d8: 5 draws, bounds 1
+   0x141febf93: 1194 draws, bounds 1,460
+   0x141febfcf: 1160 draws, bounds 8
+   0x141fece63: 29 draws, bounds 840
+   0x141fec0ea: 6 draws, bounds 410,430,440
+   0x141fec1d8: 5 draws, bounds 8
+   tile grid: captures\cases\283554011_the_chamber_of_sins_level_2\truth_3db4e6383f0.tsv (71x59, 4189 cells) VERIFIED against tile hash 2748572369
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_283554011.png

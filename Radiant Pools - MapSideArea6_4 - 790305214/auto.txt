@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2618298528 doodad hash 78308942 (CLI_ACTIVATE_MAP)
+AUTO seed 790305214 Radiant Pools: terrain act6/sideradiantpool/ graph side_radiant_pool_01.tgr (1 locked nodes match; capture 13 nodes, graph 8)
+   typed nodes never placed by the client (untilised): [1, 2, 3, 5, 7]
+   deletion candidates: certain [1, 3, 5], uncertain []; 1 option(s) for -5 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\Radiant Pools - MapSideArea6_4 - 790305214\truth_5622dd7cbf0.tsv (51x57, 2907 cells) VERIFIED against tile hash 2618298528
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\Radiant Pools - MapSideArea6_4 - 790305214\minimap.png

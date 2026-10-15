@@ -1,0 +1,38 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 253417315 doodad hash 1623851197 (CLI_ACTIVATE_MAP)
+AUTO seed 331904297 The Canals: dungeon area (capture captures/stages_20261005_121055.csv)
+   dungeon (.dgr) pipeline: 7508 draws in 31 call sites (7 generator draws before it, 16216 after it - the post passes); no generator model yet
+   0x142031e88: 1 draws, bounds 1
+   0x142031ea6: 1 draws, bounds 1
+   0x14203a8e0: 65 draws, bounds 100
+   0x142105ee9: 11 draws, bounds 1,100
+   0x142107272: 43 draws, bounds 202,602,1250,1504,2404
+   0x1420fd32a: 529 draws, bounds 128
+   0x142012839: 5 draws, bounds 3,8,11,20,23
+   0x1420fd640: 475 draws, bounds 202,602,1250,1504,2404
+   0x142001ee5: 127 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 5
+   0x14210862e: 104 draws, bounds 1,100,1100,1650,2050,2200,3300,4100,8200,9191,10250,12300
+   0x14210871c: 104 draws, bounds 840
+   0x142108799: 2 draws, bounds 8200
+   0x1421087b9: 2 draws, bounds 840
+   0x142109942: 47 draws, bounds 1
+   0x142109cdf: 47 draws, bounds 1
+   0x142109cf6: 47 draws, bounds 840
+   0x1421029c7: 3 draws, bounds 1
+   0x1420ff711: 3 draws, bounds 7,8,9
+   0x1420ff72b: 3 draws, bounds 1
+   0x142102c41: 3 draws, bounds 840
+   0x1420efc0c: 203 draws, bounds 1,2,4,6
+   0x141d8b5ab: 3 draws, bounds 1,2,3
+   0x141fe9a73: 31 draws, bounds 800
+   0x1420f6875: 355 draws, bounds 1,2,4,6,180,202
+   0x141febf93: 2508 draws, bounds 1,100
+   0x141febfcf: 2508 draws, bounds 8
+   0x141febd7f: 114 draws, bounds 103,105,106,107
+   0x141fed1ec: 106 draws, bounds 8
+   0x141fed087: 1 draws, bounds 8
+   0x14202795d: 56 draws, bounds 1,4,150
+   tile grid: captures\cases\331904297_the_canals\truth_29b355993f0.tsv (57x135, 7695 cells) VERIFIED against tile hash 253417315
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_331904297.png

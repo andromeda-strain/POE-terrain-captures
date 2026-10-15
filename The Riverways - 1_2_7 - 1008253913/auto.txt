@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1355430214 doodad hash 2322156203 (CLI_ACTIVATE_MAP)
+AUTO seed 1008253913 The Riverways: terrain act2/area7/ graph macro_river_crossing4.tgr (11 locked nodes match; capture 80 nodes, graph 34)
+   typed nodes never placed by the client (untilised): [0, 2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 19, 20, 21, 22, 23, 27, 28, 30, 31, 32, 33]
+   deletion candidates: certain [0, 2, 5, 6, 7, 8, 9, 10, 12, 13, 14, 16, 19, 20, 21, 23, 27, 28, 33], uncertain []; 1 option(s) for -46 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\1008253913_the_riverways\truth_3dba0a993f0.tsv (108x87, 9396 cells) VERIFIED against tile hash 1355430214
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1008253913.png

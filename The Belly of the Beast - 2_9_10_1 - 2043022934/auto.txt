@@ -1,0 +1,31 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2932764974 doodad hash 3585879052 (CLI_ACTIVATE_MAP)
+AUTO seed 2043022934 The Belly of the Beast: dungeon area (capture captures/stages_20261004_233425.csv)
+   dungeon (.dgr) pipeline: 4077 draws in 24 call sites (5 generator draws before it, 9467 after it - the post passes); no generator model yet
+   0x14203a8e0: 20 draws, bounds 100
+   0x142030de5: 4 draws, bounds 2,3
+   0x142105ee9: 4 draws, bounds 1
+   0x142107272: 13 draws, bounds 47
+   0x1420fd32a: 49 draws, bounds 128
+   0x142012839: 1 draws, bounds 15
+   0x1420fd640: 32 draws, bounds 47
+   0x142001ee5: 26 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 21 draws, bounds 9,77,182,328,369
+   0x14210871c: 21 draws, bounds 840
+   0x142108799: 1 draws, bounds 369
+   0x1421087b9: 1 draws, bounds 840
+   0x1421029c7: 1 draws, bounds 5
+   0x1420ff711: 1 draws, bounds 21
+   0x1420ff72b: 1 draws, bounds 1
+   0x142102c41: 1 draws, bounds 840
+   0x1420efc0c: 808 draws, bounds 1,2,4,8
+   0x141d8b5ab: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 8
+   0x1420f6875: 166 draws, bounds 2,4
+   0x141febf93: 1446 draws, bounds 100,300
+   0x141febfcf: 1446 draws, bounds 8
+   0x14202795d: 3 draws, bounds 1
+   tile grid: captures\cases\2043022934_the_belly_of_the_beast\truth_5b7eddfcbf0.tsv (73x103, 7519 cells) VERIFIED against tile hash 2932764974
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2043022934.png

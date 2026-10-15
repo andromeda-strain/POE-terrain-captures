@@ -1,0 +1,12 @@
+pass1: 1289 .tdt path buffers
+pass2: 277 tiledef wstrings, 15851 cell sites
+pass3: runs 10512@0x3d5d6520010
+  TileMap T=0x3d5d6511618 cols=101 rows=7 cells@0x3d5d651f0c0 (~10512 placed in run)
+  TileMap T=0x3d5d651f898 cols=9 rows=15 cells@0x3d5d6514fc0 (~10512 placed in run)
+  TileMap T=0x3d5e8b7bbf0 cols=133 rows=96 cells@0x3d5d6520010 (~10512 placed in run)
+--- TileMap T=0x3d5d6511618 101x7: 697 cells with a tile, 40 distinct tiles -> D:\repos\POE 3.29.3b\Work\captures\cases\1510637994\truth_3d5d6511618.tsv
+    tile hash over 137 origin cells = 3487289853; Client.txt last generation DeepwaterEncounterVoyage seed 1510637994 -> 3276533165 DIFFERS (is this the current area?)
+--- TileMap T=0x3d5d651f898 9x15: 123 cells with a tile, 60 distinct tiles -> D:\repos\POE 3.29.3b\Work\captures\cases\1510637994\truth_3d5d651f898.tsv
+    tile hash over 48 origin cells = 867028105; Client.txt last generation DeepwaterEncounterVoyage seed 1510637994 -> 3276533165 DIFFERS (is this the current area?)
+--- TileMap T=0x3d5e8b7bbf0 133x96: 10512 cells with a tile, 151 distinct tiles -> D:\repos\POE 3.29.3b\Work\captures\cases\1510637994\truth_3d5e8b7bbf0.tsv
+    tile hash over 2333 origin cells = 3276533165; Client.txt last generation DeepwaterEncounterVoyage seed 1510637994 -> 3276533165 MATCH

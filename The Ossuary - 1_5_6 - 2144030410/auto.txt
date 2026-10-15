@@ -1,0 +1,36 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2215249136 doodad hash 2298649252 (CLI_ACTIVATE_MAP)
+AUTO seed 2144030410 The Ossuary: dungeon area (capture captures/stages_20261002_172531.csv)
+   dungeon (.dgr) pipeline: 1994 draws in 29 call sites (5 generator draws before it, 4625 after it - the post passes); no generator model yet
+   0x14203a8e0: 18 draws, bounds 100
+   0x142105ee9: 5 draws, bounds 100,400
+   0x1420038a1: 5 draws, bounds 50,100,150,200
+   0x142107272: 1 draws, bounds 11500
+   0x1420fd32a: 69 draws, bounds 128
+   0x142012839: 1 draws, bounds 5
+   0x1420fd640: 141 draws, bounds 11500
+   0x142001ee5: 51 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x1420fcc6c: 1 draws, bounds 13
+   0x1420fce8c: 2 draws, bounds 100
+   0x142100f13: 33 draws, bounds 0,1,2,4,5
+   0x142101086: 18 draws, bounds 100
+   0x14210862e: 31 draws, bounds 400,500,4400,12800,16400,16900,21200,36400,45500,49200
+   0x14210871c: 31 draws, bounds 840
+   0x142108799: 2 draws, bounds 500,4400
+   0x1421087b9: 2 draws, bounds 840
+   0x1421029c7: 2 draws, bounds 8
+   0x1420ff711: 2 draws, bounds 30,31
+   0x1420ff72b: 2 draws, bounds 2,4
+   0x142102c41: 2 draws, bounds 840
+   0x1420efc0c: 452 draws, bounds 1,2,4,8,16,24,600,700
+   0x141d8b5ab: 2 draws, bounds 1,2
+   0x141fe9a73: 18 draws, bounds 800
+   0x1420f6875: 310 draws, bounds 1,2,4,8,600,700
+   0x1420f45dc: 52 draws, bounds 1
+   0x1420f4807: 52 draws, bounds 4
+   0x141febf93: 344 draws, bounds 100,500
+   0x141febfcf: 344 draws, bounds 8
+   tile grid: captures\cases\2144030410_the_ossuary\truth_59ae2b66bf0.tsv (53x53, 2809 cells) VERIFIED against tile hash 2215249136
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2144030410.png

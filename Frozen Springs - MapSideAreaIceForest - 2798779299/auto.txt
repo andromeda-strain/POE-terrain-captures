@@ -1,0 +1,16 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3702221210 doodad hash 1392913113 (CLI_ACTIVATE_MAP)
+AUTO seed 2798779299 Frozen Springs: terrain endgame/mapcoldwood/sideareaiceforest/ graph side_ice_forest_01.tgr (2 locked nodes match; capture 10 nodes, graph 8)
+   typed nodes never placed by the client (untilised): [1, 2, 3, 5, 7]
+   deletion candidates: certain [1, 5], uncertain []; 1 option(s) for -2 deleted node(s)
+   removed nodes [1, 5], pre-mover words 0: free nodes 0/3 match
+   tile grid: captures\Frozen Springs - MapSideAreaIceForest - 2798779299\truth_4fba071cbf0.tsv (57x63, 3591 cells) VERIFIED against tile hash 3702221210
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\Frozen Springs - MapSideAreaIceForest - 2798779299\minimap.png
+   FAIL: permute-in 0/5, permute-out 0/5, rounder-in-1 0/5, rounder-in-2 0/5, rounder-in-3 0/5
+   layout: not rendered: tilise_entry(e, s)
+    ~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\repos\POE 3.29.3b\Work\tools\edge_sim.py", line 715, in tilise_entry
+    raise NotImplementedError('loop edge')
+NotImplementedError: loop edge; minimap captures\Frozen Springs - MapSideAreaIceForest - 2798779299\minimap.png
+   corpus row appended

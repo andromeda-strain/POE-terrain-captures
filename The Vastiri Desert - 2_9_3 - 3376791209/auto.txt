@@ -1,0 +1,37 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3432629108 doodad hash 3902245594 (CLI_ACTIVATE_MAP)
+AUTO seed 3376791209 The Vastiri Desert: dungeon area (capture captures/stages_20261005_124431.csv)
+   dungeon (.dgr) pipeline: 5131 draws in 30 call sites (5 generator draws before it, 8214 after it - the post passes); no generator model yet
+   0x14203a8e0: 23 draws, bounds 100
+   0x142105ee9: 9 draws, bounds 1,100
+   0x142107272: 14 draws, bounds 400,601,1905
+   0x1420fd32a: 645 draws, bounds 128
+   0x142012839: 7 draws, bounds 1,2,3,4,7
+   0x1420fd640: 775 draws, bounds 400,1905
+   0x142001ee5: 76 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 3
+   0x14210862e: 66 draws, bounds 4100,8200,36100,72200
+   0x14210871c: 66 draws, bounds 840
+   0x142108799: 2 draws, bounds 8200
+   0x1421087b9: 2 draws, bounds 840
+   0x142109942: 61 draws, bounds 100,440
+   0x142109cdf: 61 draws, bounds 100,240
+   0x142109cf6: 61 draws, bounds 840
+   0x142109a4b: 7 draws, bounds 240,340
+   0x1420efc0c: 351 draws, bounds 1,8,100,200,400,600
+   0x1420f24d2: 1 draws, bounds 3814
+   0x1420f2ded: 1 draws, bounds 1
+   0x1420f2e01: 1 draws, bounds 840
+   0x141fe9a73: 521 draws, bounds 8,100,200,320,400
+   0x141febf93: 265 draws, bounds 100,200
+   0x141febfcf: 265 draws, bounds 8
+   0x141febd7f: 1175 draws, bounds 170,180,190,200,210,220,230,240,250,260,270,280,...
+   0x141fed087: 126 draws, bounds 8
+   0x141fed1ec: 288 draws, bounds 8
+   0x141fe90a5: 103 draws, bounds 100
+   0x141fe9173: 103 draws, bounds 8
+   0x141fed0cc: 9 draws, bounds 840
+   0x14202795d: 46 draws, bounds 100,200,300
+   tile grid: captures\cases\3376791209_the_vastiri_desert\truth_357f1a063f0.tsv (84x72, 6048 cells) VERIFIED against tile hash 3432629108
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_3376791209.png

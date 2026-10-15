@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1335019800 doodad hash 2820911805 (CLI_ACTIVATE_MAP)
+AUTO seed 1000094353 The Ridge: terrain act6/area6/ graph ridge_04.tgr (6 locked nodes match; capture 34 nodes, graph 19)
+   typed nodes never placed by the client (untilised): [0, 1, 4, 5, 6, 9, 10, 11, 12, 14, 15]
+   deletion candidates: certain [0, 1, 4, 5, 6, 9, 10, 11, 12, 14, 15], uncertain []; 1 option(s) for -15 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\1000094353_the_ridge\truth_53dffe4cbf0.tsv (75x90, 6750 cells) VERIFIED against tile hash 1335019800
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1000094353.png

@@ -1,0 +1,26 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 141873562 doodad hash 219572036 (CLI_ACTIVATE_MAP)
+AUTO seed 2733731916 The Lunaris Concourse: dungeon area (capture captures/stages_20261004_222021.csv)
+   dungeon (.dgr) pipeline: 8524 draws in 19 call sites (6 generator draws before it, 8930 after it - the post passes); no generator model yet
+   0x14203a8e0: 5 draws, bounds 100
+   0x142105ee9: 9 draws, bounds 100,200
+   0x1420fd32a: 9 draws, bounds 128
+   0x142012839: 1 draws, bounds 2
+   0x142001ee5: 2 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x142109942: 15 draws, bounds 100
+   0x142109cdf: 15 draws, bounds 100
+   0x142109cf6: 15 draws, bounds 840
+   0x1420efc0c: 1013 draws, bounds 1,2,4,8,16,100,200,480,800
+   0x1420f6875: 47 draws, bounds 2
+   0x1420f16eb: 1 draws, bounds 7310
+   0x1420f1d73: 2 draws, bounds 1
+   0x141fe9a73: 18 draws, bounds 800
+   0x141febf93: 3510 draws, bounds 1,2,100
+   0x141febfcf: 3203 draws, bounds 8
+   0x141fec0ea: 307 draws, bounds 1
+   0x141fec1d8: 307 draws, bounds 8
+   0x14202795d: 44 draws, bounds 1
+   tile grid: captures\cases\2733731916_the_lunaris_concourse\truth_21af190f3f0.tsv (75x150, 11250 cells) VERIFIED against tile hash 141873562
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2733731916.png

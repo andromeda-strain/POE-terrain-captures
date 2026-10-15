@@ -1,0 +1,16 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2662979387 doodad hash 132395740 (CLI_ACTIVATE_MAP)
+AUTO seed 3063800985 The Broken Bridge: terrain act7/area1/ graph field_ruins_02.tgr (20 locked nodes match; capture 52 nodes, graph 43)
+   typed nodes never placed by the client (untilised): [1, 2, 6, 7, 11, 12, 13, 14, 18, 19, 35, 36, 38, 40, 41, 42]
+   deletion candidates: certain [1, 2, 7, 35], uncertain [11, 12]; 1 option(s) for -9 deleted node(s)
+   removed nodes [1, 2, 7, 35], pre-mover words 0: free nodes 0/20 match
+   tile grid: captures\cases\3063800985_the_broken_bridge\truth_3585dffbbf0.tsv (78x78, 6084 cells) VERIFIED against tile hash 2662979387
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_3063800985.png
+   FAIL: permute-in 3/24, permute-out 0/24, rounder-in-1 0/24, rounder-in-2 0/24 ERROR TypeError: 'NoneType' object is not subscriptable
+   layout: not rendered: j, like=nd)
+  File "D:\repos\POE 3.29.3b\Work\tools\edge_sim.py", line 1697, in make_node
+    nn = Node(nid, pos[0], pos[1])
+                   ~~~^^^
+TypeError: 'NoneType' object is not subscriptable; minimap captures\minimap_3063800985.png
+   corpus row appended

@@ -1,0 +1,6 @@
+pass1: 1064 .tdt path buffers
+pass2: 272 tiledef wstrings, 7437 cell sites
+pass3: runs 2592@0x232a06a0010
+  TileMap T=0x2334770f3f0 cols=73 rows=36 cells@0x232a06a0010 (~2592 placed in run)
+--- TileMap T=0x2334770f3f0 73x36: 2592 cells with a tile, 57 distinct tiles -> D:\repos\POE 3.29.3b\Work\captures\cases\3912774796_the_fathomless_depths\truth_2334770f3f0.tsv
+    tile hash over 923 origin cells = 224259695; Client.txt last generation DeepwaterEncounter seed 3912774796 -> 224259695 MATCH

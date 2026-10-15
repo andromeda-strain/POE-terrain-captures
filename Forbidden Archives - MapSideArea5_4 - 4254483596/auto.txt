@@ -1,0 +1,25 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2484498803 doodad hash 1076727521 (CLI_ACTIVATE_MAP)
+AUTO seed 4254483596 Forbidden Archives: dungeon area (capture captures/Forbidden Archives - MapSideArea5_4 - 4254483596/stages_20261012_205425.csv)
+   dungeon (.dgr) pipeline: 971 draws in 18 call sites (2 generator draws before it, 4170 after it - the post passes); no generator model yet
+   0x14203a8e0: 4 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 100
+   0x1420fd32a: 31 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 45 draws, bounds 254
+   0x142001ee5: 6 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 5 draws, bounds 4,1230
+   0x14210871c: 5 draws, bounds 840
+   0x142108799: 1 draws, bounds 1230
+   0x1421087b9: 1 draws, bounds 840
+   0x1420efc0c: 171 draws, bounds 1,2,4,8
+   0x1420f6875: 114 draws, bounds 1,2,4,8
+   0x1420f7228: 4 draws, bounds 2,8
+   0x1420f45dc: 6 draws, bounds 1
+   0x1420f4807: 6 draws, bounds 4
+   0x141febf93: 284 draws, bounds 1,100
+   0x141febfcf: 284 draws, bounds 8
+   tile grid: captures\Forbidden Archives - MapSideArea5_4 - 4254483596\truth_4fba0716bf0.tsv (65x59, 3835 cells) VERIFIED against tile hash 2484498803
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\Forbidden Archives - MapSideArea5_4 - 4254483596\minimap.png

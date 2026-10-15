@@ -1,0 +1,5 @@
+KNOWN Arid Lake [MapWorldsAridLake] seed 329911341: 3 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain endgame/mapsaltflats/, tile hash 1510766055 (3 of 3 rows), last capture captures/Arid Lake - MapWorldsAridLake - 329911341/stages_20261009_230659.csv (DIFF)
+   walkable field: none stored and not read (--no-walk)
+   walkable field: captures\Arid Lake - MapWorldsAridLake - 329911341\hull_ranged.png composed from the tiles' hull planes (35.8% of the sub-cells walkable, agrees with the grid on 29.3% of the cells; the placed objects' hulls are not in it)
+   minimap (rendered from the stored grid captures\Arid Lake - MapWorldsAridLake - 329911341\truth_4580e698bf0.tsv with the walkable field hull_ranged.png (29.3% agreement)): captures\Arid Lake - MapWorldsAridLake - 329911341\minimap.png

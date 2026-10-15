@@ -1,0 +1,4 @@
+KNOWN Grotto [MapWorldsGrotto] seed 3018470774: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 1620491213 (1 of 1 rows), last capture captures/Grotto - MapWorldsGrotto - 3018470774/stages_20261015_213210.csv (dungeon trace)
+   this load's tile hash 1620491213 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Grotto - MapWorldsGrotto - 3018470774\truth_203bf5953f0.tsv): captures\Grotto - MapWorldsGrotto - 3018470774\minimap.png

@@ -1,0 +1,7 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1253442074 doodad hash 1245846265 (CLI_ACTIVATE_MAP)
+AUTO seed 1412296438 Atoll: dungeon area (capture captures/stages_20260930_133645.csv)
+   dungeon (.dgr) pipeline: 0 draws in 0 call sites (0 generator draws before it, 0 after it - the post passes); no generator model yet
+   tile grid: captures\cases\1412296438_atoll\truth_262ef7853f0.tsv (117x81, 7786 cells) VERIFIED against tile hash 1253442074
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1412296438.png

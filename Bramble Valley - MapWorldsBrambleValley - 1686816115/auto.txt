@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2862224438 doodad hash 3605649552 (CLI_ACTIVATE_MAP)
+AUTO seed 1686816115 Bramble Valley: terrain endgame/mapbramblefall/ graph bramblefall_5.tgr (14 locked nodes match; capture 44 nodes, graph 26)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 3, 6, 14, 15, 23]
+   deletion candidates: certain [0, 1, 2, 6, 14], uncertain [23]; 1 option(s) for -18 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\cases\1686816115_bramble_valley\truth_245861b5bf0.tsv (108x87, 9396 cells) VERIFIED against tile hash 2862224438
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_1686816115.png

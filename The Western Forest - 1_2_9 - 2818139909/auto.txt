@@ -1,0 +1,6 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3337390678 doodad hash 3456229899 (CLI_ACTIVATE_MAP)
+AUTO seed 2818139909 The Western Forest: no graph matches the capture (best 2 nodes, 0.50)
+   tile grid: captures\cases\2818139909_the_western_forest\truth_28a57f0abf0.tsv (102x81, 8262 cells) VERIFIED against tile hash 3337390678
+   walkable field: not read (memory reads are off: ini [AutoCapture] MemRead=0)
+   minimap (the client's grid): captures\minimap_2818139909.png
