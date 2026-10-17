@@ -1,0 +1,4 @@
+KNOWN Promenade [MapWorldsPromenade] seed 2533468114: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 2470298141 (1 of 1 rows), last capture captures/Promenade - MapWorldsPromenade - 2533468114/stages_20261016_181511.csv (dungeon trace)
+   this load's tile hash 2470298141 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Promenade - MapWorldsPromenade - 2533468114\truth_58f596aebf0.tsv): captures\Promenade - MapWorldsPromenade - 2533468114\minimap.png

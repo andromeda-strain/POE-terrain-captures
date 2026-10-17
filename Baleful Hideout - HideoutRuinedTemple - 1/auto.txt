@@ -1,0 +1,3 @@
+KNOWN Baleful Hideout [HideoutRuinedTemple] seed 1: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 777398370 (1 of 1 rows), last capture captures/Baleful Hideout - HideoutRuinedTemple - 1/stages_20261009_180303.csv (dungeon trace)
+   minimap (rendered from the stored grid captures\Baleful Hideout - HideoutRuinedTemple - 1\truth_346aca0cbf0.tsv with the walkable field walkable_346aca0cbf0_melee.png (matches the tiles' hull field at IoU 0.804)): D:\repos\POE 3.29.3b\Work\captures\Baleful Hideout - HideoutRuinedTemple - 1\minimap.png

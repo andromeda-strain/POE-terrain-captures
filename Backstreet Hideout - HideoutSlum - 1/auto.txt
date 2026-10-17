@@ -1,0 +1,5 @@
+KNOWN Backstreet Hideout [HideoutSlum] seed 1: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 2407509049 (1 of 1 rows), last capture captures/Backstreet Hideout - HideoutSlum - 1/stages_20261001_163718.csv (dungeon trace)
+   this load's tile hash 2407509049 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   walkable field: captures\Backstreet Hideout - HideoutSlum - 1\walkable_3dba13693f0_melee.png (5.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.907; 2 layer(s) read; stored for the grid as walkable_3dba13693f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (rendered from the stored grid captures\Backstreet Hideout - HideoutSlum - 1\truth_3dba13693f0.tsv with the walkable field walkable_3dba13693f0_melee.png (matches the tiles' hull field at IoU 0.907)): captures\Backstreet Hideout - HideoutSlum - 1\minimap.png

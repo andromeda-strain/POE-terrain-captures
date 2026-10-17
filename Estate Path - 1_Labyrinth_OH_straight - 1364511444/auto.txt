@@ -1,0 +1,29 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3419424652 doodad hash 3028191921 (CLI_ACTIVATE_MAP)
+AUTO seed 1364511444 Estate Path: dungeon area (capture captures/Estate Path - 1_Labyrinth_OH_straight - 1364511444/stages_20261016_172456.csv)
+   dungeon (.dgr) pipeline: 3204 draws in 22 call sites (2 generator draws before it, 1554 after it - the post passes); no generator model yet
+   0x142032a2b: 1 draws, bounds 2
+   0x14203a8e0: 19 draws, bounds 100
+   0x142105ee9: 8 draws, bounds 1,8,100,320
+   0x142107272: 10 draws, bounds 322,954,2078,2303,4156
+   0x1420fd32a: 185 draws, bounds 128
+   0x142012839: 4 draws, bounds 1,6
+   0x1420fd640: 291 draws, bounds 954,2078,4156
+   0x142001ee5: 30 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 3
+   0x14210862e: 16 draws, bounds 278,1089,4059,5764,9758,10036,16261,18154,36100,50200
+   0x14210871c: 16 draws, bounds 840
+   0x142109942: 1 draws, bounds 99
+   0x142109cdf: 1 draws, bounds 99
+   0x142109cf6: 1 draws, bounds 840
+   0x1420efc0c: 762 draws, bounds 8,100,200,400,600,800,1000,1200,1400,1600,2400,4000
+   0x1420f7228: 14 draws, bounds 800
+   0x1420f6875: 179 draws, bounds 100,200,400,800,1000
+   0x1420f45dc: 1 draws, bounds 1
+   0x1420f47d8: 1 draws, bounds 1
+   0x1420f4807: 1 draws, bounds 400
+   0x141febf93: 831 draws, bounds 1,100,300
+   0x141febfcf: 831 draws, bounds 8
+   tile grid: captures\Estate Path - 1_Labyrinth_OH_straight - 1364511444\truth_58f680113f0.tsv (85x73, 6205 cells) VERIFIED against tile hash 3419424652
+   walkable field: captures\Estate Path - 1_Labyrinth_OH_straight - 1364511444\walkable_58f680113f0_melee.png (11.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.974; 2 layer(s) read; stored for the grid as walkable_58f680113f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Estate Path - 1_Labyrinth_OH_straight - 1364511444\minimap.png

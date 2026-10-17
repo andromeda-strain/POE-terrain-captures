@@ -1,0 +1,5 @@
+KNOWN The Mud Flats [1_1_3] seed 4052074762: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain act1/area3/, tile hash 2341102583 (1 of 1 rows), last capture captures/The Mud Flats - 1_1_3 - 4052074762/stages_20261015_224834.csv (DIFF)
+   this load's tile hash 2341102583 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   walkable field: captures\The Mud Flats - 1_1_3 - 4052074762\walk_0.png (54.2% of the sub-cells walkable, matches the tiles' hull field at IoU 1.000; 7 layer(s) read)
+   minimap (rendered from the stored grid captures\The Mud Flats - 1_1_3 - 4052074762\truth_3b6df642bf0.tsv with the walkable field walk_0.png (matches the tiles' hull field at IoU 1.000)): captures\The Mud Flats - 1_1_3 - 4052074762\minimap.png

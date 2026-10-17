@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3009683851 doodad hash 1774858610 (CLI_ACTIVATE_MAP)
+AUTO seed 3645655574 Aspirant's Trial: dungeon area (capture captures/Aspirant's Trial - EndGame_Labyrinth_boss_2 - 3645655574/stages_20261016_172103.csv)
+   dungeon (.dgr) pipeline: 938 draws in 5 call sites (1 generator draws before it, 1514 after it - the post passes); no generator model yet
+   0x142032a2b: 1 draws, bounds 1
+   0x142105ee9: 2 draws, bounds 1
+   0x1420efc0c: 111 draws, bounds 8,100,200,400,600,800,1000
+   0x141febf93: 412 draws, bounds 100
+   0x141febfcf: 412 draws, bounds 8
+   tile grid: captures\Aspirant's Trial - EndGame_Labyrinth_boss_2 - 3645655574\truth_58f69d13bf0.tsv (25x49, 1225 cells) VERIFIED against tile hash 3009683851
+   walkable field: captures\Aspirant's Trial - EndGame_Labyrinth_boss_2 - 3645655574\walkable_58f69d13bf0_melee.png (10.0% of the sub-cells walkable, matches the tiles' hull field at IoU 0.980; 3 layer(s) read; stored for the grid as walkable_58f69d13bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Aspirant's Trial - EndGame_Labyrinth_boss_2 - 3645655574\minimap.png

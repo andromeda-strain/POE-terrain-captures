@@ -1,12 +1,5 @@
-   tile grid taken at the generator's return (no memory scan)
-   client tile hash 2721929038 doodad hash 0 (CLI_ACTIVATE_MAP)
-AUTO seed 1 Crucible Hideout: dungeon area (capture captures/Crucible Hideout - HideoutArenaMaven - 1/stages_20261015_220244.csv)
-   dungeon (.dgr) pipeline: 524 draws in 4 call sites (1 generator draws before it, 0 after it - the post passes); no generator model yet
-   0x142105ee9: 1 draws, bounds 1
-   0x1420efc0c: 1 draws, bounds 1
-   0x141febf93: 261 draws, bounds 1
-   0x141febfcf: 261 draws, bounds 8
-   tile grid: captures\Crucible Hideout - HideoutArenaMaven - 1\truth_3b683650bf0.tsv (23x23, 529 cells) VERIFIED against tile hash 2721929038
-   walkable field: none of the 2 layer(s) read is this area's (each below IoU 0.5 against the tiles' hull field)
+KNOWN Crucible Hideout [HideoutArenaMaven] seed 1: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 2721929038 (1 of 1 rows), last capture captures/Crucible Hideout - HideoutArenaMaven - 1/stages_20261015_220244.csv (dungeon trace)
+   walkable field: none stored and not read (--no-walk)
    walkable field: captures\Crucible Hideout - HideoutArenaMaven - 1\hull_melee.png composed from the tiles' hull planes (15.2% of the sub-cells walkable, agrees with the grid on 98.5% of the cells; the placed objects' hulls are not in it)
-   minimap (the client's grid): captures\Crucible Hideout - HideoutArenaMaven - 1\minimap.png
+   minimap (the stored grid captures\Crucible Hideout - HideoutArenaMaven - 1\truth_3b683650bf0.tsv): D:\repos\POE 3.29.3b\Work\captures\Crucible Hideout - HideoutArenaMaven - 1\minimap.png

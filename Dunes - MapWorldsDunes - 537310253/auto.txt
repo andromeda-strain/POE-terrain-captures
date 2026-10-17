@@ -1,0 +1,14 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2258690707 doodad hash 3893204057 (CLI_ACTIVATE_MAP)
+AUTO seed 537310253 Dunes: terrain endgame/mapterraces/ graph terraces_1_3.tgr (18 locked nodes match; capture 22 nodes, graph 20)
+   typed nodes never placed by the client (untilised): [4, 5]
+   deletion candidates: certain [4, 5], uncertain []; 1 option(s) for -2 deleted node(s)
+   removed nodes [4, 5], pre-mover words 0: free nodes 0/0 match
+   tile grid: captures\Dunes - MapWorldsDunes - 537310253\truth_58f126883f0.tsv (117x81, 7786 cells) VERIFIED against tile hash 2258690707
+   walkable field: captures\Dunes - MapWorldsDunes - 537310253\walk_0.png (31.6% of the sub-cells walkable, matches the tiles' hull field at IoU 1.000; 2 layer(s) read)
+   minimap (the client's grid): captures\Dunes - MapWorldsDunes - 537310253\minimap.png
+   FAIL: permute-in 2/21 ERROR RuntimeError: Could not permute edges: 8
+   layout: not rendered: "D:\repos\POE 3.29.3b\Work\tools\permute.py", line 269, in permute
+    raise RuntimeError('Could not permute edges: ' + ', '.join(str(e.label) for e in again))
+RuntimeError: Could not permute edges: 8; minimap captures\Dunes - MapWorldsDunes - 537310253\minimap.png
+   corpus row appended

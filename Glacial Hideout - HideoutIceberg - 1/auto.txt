@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2790280494 doodad hash 335199394 (CLI_ACTIVATE_MAP)
+AUTO seed 1 Glacial Hideout: dungeon area (capture captures/Glacial Hideout - HideoutIceberg - 1/stages_20261016_183634.csv)
+   dungeon (.dgr) pipeline: 949 draws in 4 call sites (1 generator draws before it, 1604 after it - the post passes); no generator model yet
+   0x142105ee9: 1 draws, bounds 100
+   0x1420efc0c: 94 draws, bounds 100,200,400,600,1600
+   0x141febf93: 427 draws, bounds 100,333
+   0x141febfcf: 427 draws, bounds 8
+   tile grid: captures\Glacial Hideout - HideoutIceberg - 1\truth_58f596abbf0.tsv (39x39, 1521 cells) VERIFIED against tile hash 2790280494
+   walkable field: captures\Glacial Hideout - HideoutIceberg - 1\walkable_58f596abbf0_melee.png (8.8% of the sub-cells walkable, matches the tiles' hull field at IoU 0.852; 2 layer(s) read; stored for the grid as walkable_58f596abbf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Glacial Hideout - HideoutIceberg - 1\minimap.png

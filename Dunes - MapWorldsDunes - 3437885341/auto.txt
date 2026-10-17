@@ -1,0 +1,14 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1961697091 doodad hash 3814018532 (CLI_ACTIVATE_MAP)
+AUTO seed 3437885341 Dunes: terrain endgame/mapterraces/ graph terraces_1_4.tgr (19 locked nodes match; capture 23 nodes, graph 21)
+   typed nodes never placed by the client (untilised): [4, 5]
+   deletion candidates: certain [4, 5], uncertain []; 1 option(s) for -2 deleted node(s)
+   removed nodes [4, 5], pre-mover words 0: free nodes 0/0 match
+   tile grid: captures\Dunes - MapWorldsDunes - 3437885341\truth_58f684b3bf0.tsv (117x81, 7786 cells) VERIFIED against tile hash 1961697091
+   walkable field: captures\Dunes - MapWorldsDunes - 3437885341\walkable_58f684b3bf0_melee.png (13.9% of the sub-cells walkable, matches the tiles' hull field at IoU 0.998; 3 layer(s) read; stored for the grid as walkable_58f684b3bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Dunes - MapWorldsDunes - 3437885341\minimap.png
+   FAIL: permute-in 1/22, permute-out 0/22, rounder-in-1 0/22, rounder-in-2 0/22, rounder-in-4 0/22 ERROR RuntimeError: Failed to tilise the non-virtual node 8 (902, 216)
+   layout: not rendered:  3.29.3b\Work\tools\edge_sim.py", line 1603, in setup
+    raise RuntimeError(f'Failed to tilise the non-virtual node {nd.id} {nd.pos}')
+RuntimeError: Failed to tilise the non-virtual node 8 (902, 216); minimap captures\Dunes - MapWorldsDunes - 3437885341\minimap.png
+   corpus row appended

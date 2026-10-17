@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3795194675 doodad hash 2223508528 (CLI_ACTIVATE_MAP)
+AUTO seed 1636161110 Aspirants' Plaza: dungeon area (capture captures/Aspirants' Plaza - Labyrinth_Airlock - 1636161110/stages_20261016_172441.csv)
+   dungeon (.dgr) pipeline: 292 draws in 5 call sites (1 generator draws before it, 1566 after it - the post passes); no generator model yet
+   0x142105ee9: 1 draws, bounds 100
+   0x1420efc0c: 126 draws, bounds 1,10,16,100,200,400,800
+   0x141febf93: 73 draws, bounds 1,100
+   0x141febfcf: 73 draws, bounds 8
+   0x14202795d: 19 draws, bounds 100
+   tile grid: captures\Aspirants' Plaza - Labyrinth_Airlock - 1636161110\truth_58f596a5bf0.tsv (31x31, 961 cells) VERIFIED against tile hash 3795194675
+   walkable field: captures\Aspirants' Plaza - Labyrinth_Airlock - 1636161110\walkable_58f596a5bf0_melee.png (13.4% of the sub-cells walkable, matches the tiles' hull field at IoU 0.983; 3 layer(s) read; stored for the grid as walkable_58f596a5bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Aspirants' Plaza - Labyrinth_Airlock - 1636161110\minimap.png

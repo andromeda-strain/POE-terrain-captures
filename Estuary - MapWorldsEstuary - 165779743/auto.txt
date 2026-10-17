@@ -1,0 +1,4 @@
+KNOWN Estuary [MapWorldsEstuary] seed 165779743: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain endgame/mapestuary/, tile hash 142059119 (1 of 1 rows), last capture captures/Estuary - MapWorldsEstuary - 165779743/stages_20261016_163457.csv (generator failed)
+   this load's tile hash 142059119 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Estuary - MapWorldsEstuary - 165779743\truth_58f689863f0.tsv): captures\Estuary - MapWorldsEstuary - 165779743\minimap.png

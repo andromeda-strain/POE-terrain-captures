@@ -1,0 +1,5 @@
+KNOWN Cosmic Turtle Hideout [HideoutWorldTurtle] seed 1: 2 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 2300128614 (2 of 2 rows), last capture captures/Cosmic Turtle Hideout - HideoutWorldTurtle - 1/stages_20261009_180454.csv (dungeon trace)
+   this load's tile hash 2300128614 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   walkable field: captures\Cosmic Turtle Hideout - HideoutWorldTurtle - 1\walk_1.png (0.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.545; 2 layer(s) read)
+   minimap (rendered from the stored grid captures\Cosmic Turtle Hideout - HideoutWorldTurtle - 1\truth_346aca5c3f0.tsv with the walkable field walk_1.png (matches the tiles' hull field at IoU 0.545)): captures\Cosmic Turtle Hideout - HideoutWorldTurtle - 1\minimap.png

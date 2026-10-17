@@ -1,0 +1,5 @@
+KNOWN Lush Hideout [HideoutForest] seed 1: 4 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 3482012158 (4 of 4 rows), last capture captures/Lush Hideout - HideoutForest - 1/stages_20261009_181142.csv (dungeon trace)
+   this load's tile hash 3482012158 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   walkable field: captures\Lush Hideout - HideoutForest - 1\walk_0.png (42.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.994; 2 layer(s) read)
+   minimap (rendered from the stored grid captures\Lush Hideout - HideoutForest - 1\truth_346f145abf0.tsv with the walkable field walk_0.png (matches the tiles' hull field at IoU 0.994)): captures\Lush Hideout - HideoutForest - 1\minimap.png

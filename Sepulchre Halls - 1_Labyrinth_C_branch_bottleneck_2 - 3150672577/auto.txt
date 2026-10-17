@@ -1,0 +1,25 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3455819947 doodad hash 482958750 (CLI_ACTIVATE_MAP)
+AUTO seed 3150672577 Sepulchre Halls: dungeon area (capture captures/Sepulchre Halls - 1_Labyrinth_C_branch_bottleneck_2 - 3150672577/stages_20261016_173248.csv)
+   dungeon (.dgr) pipeline: 1510 draws in 18 call sites (2 generator draws before it, 9444 after it - the post passes); no generator model yet
+   0x142032a2b: 1 draws, bounds 2
+   0x14203a8e0: 18 draws, bounds 100
+   0x142105ee9: 7 draws, bounds 100,300,800,1000
+   0x142107272: 15 draws, bounds 3100,7700,10820,13800,15040,15420,16520,16920,19640
+   0x1420fd32a: 29 draws, bounds 128
+   0x142012839: 1 draws, bounds 14
+   0x1420fd640: 43 draws, bounds 19640
+   0x142001ee5: 16 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 8 draws, bounds 500,1900,16900,25100,46500,82000,346180
+   0x14210871c: 8 draws, bounds 840
+   0x1420efc0c: 413 draws, bounds 1,2,4,8,10,14,16,28,200,2940
+   0x1420f6875: 103 draws, bounds 1,2,4,14,28
+   0x1420f45dc: 16 draws, bounds 1,2
+   0x1420f4807: 16 draws, bounds 4,8
+   0x1420f47d8: 1 draws, bounds 1
+   0x141febf93: 407 draws, bounds 1
+   0x141febfcf: 407 draws, bounds 8
+   tile grid: captures\Sepulchre Halls - 1_Labyrinth_C_branch_bottleneck_2 - 3150672577\truth_58f59fb93f0.tsv (47x47, 2209 cells) VERIFIED against tile hash 3455819947
+   walkable field: captures\Sepulchre Halls - 1_Labyrinth_C_branch_bottleneck_2 - 3150672577\walkable_58f59fb93f0_melee.png (16.3% of the sub-cells walkable, matches the tiles' hull field at IoU 0.987; 2 layer(s) read; stored for the grid as walkable_58f59fb93f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Sepulchre Halls - 1_Labyrinth_C_branch_bottleneck_2 - 3150672577\minimap.png

@@ -1,0 +1,28 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 75913488 doodad hash 1368381829 (CLI_ACTIVATE_MAP)
+AUTO seed 3226495440 The Ravaged Square: dungeon area (capture captures/The Ravaged Square - 2_10_2 - 3226495440/stages_20261016_144733.csv)
+   dungeon (.dgr) pipeline: 15263 draws in 21 call sites (4 generator draws before it, 23107 after it - the post passes); no generator model yet
+   0x14203a8e0: 53 draws, bounds 100
+   0x142105ee9: 22 draws, bounds 1,100
+   0x142107272: 33 draws, bounds 200,600,1001,1201,2503
+   0x1420fd32a: 1083 draws, bounds 128
+   0x142012839: 7 draws, bounds 1,2,3,4,8,27
+   0x1420fd640: 1028 draws, bounds 200,600,1001,1201,2503
+   0x142001ee5: 83 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 5
+   0x14210862e: 59 draws, bounds 100,300,1100,3300,4100,8200,9100,12300,18200
+   0x14210871c: 59 draws, bounds 840
+   0x142108799: 2 draws, bounds 8200
+   0x1421087b9: 2 draws, bounds 840
+   0x142109942: 133 draws, bounds 1
+   0x142109cdf: 133 draws, bounds 1
+   0x142109cf6: 133 draws, bounds 840
+   0x1420efc0c: 615 draws, bounds 1,2,4,6,8,180,800
+   0x1420f6875: 401 draws, bounds 1,2,4,6,180
+   0x1420f7228: 1 draws, bounds 1
+   0x141febf93: 5697 draws, bounds 1,100
+   0x141febfcf: 5697 draws, bounds 8
+   0x14202795d: 21 draws, bounds 1,4,160
+   tile grid: captures\The Ravaged Square - 2_10_2 - 3226495440\truth_4835dbdcbf0.tsv (129x81, 10449 cells) VERIFIED against tile hash 75913488
+   walkable field: captures\The Ravaged Square - 2_10_2 - 3226495440\walk_0.png (34.4% of the sub-cells walkable, matches the tiles' hull field at IoU 0.993; 2 layer(s) read)
+   minimap (the client's grid): captures\The Ravaged Square - 2_10_2 - 3226495440\minimap.png
