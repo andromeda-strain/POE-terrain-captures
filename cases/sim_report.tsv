@@ -1,10 +1,7 @@
 seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
-1	Coral Hideout	dgr	MATCH	0	71x71	805187908	805187908	8.3	
 1236335712	The Sovereign	depths	MATCH	0	36x36	111657580	111657580	14.8	
 1510637994	The Fathomless Depths	depths	MATCH	0	133x96	3276533165	3276533165	30.3	first draw-stage not OK: seed
 603495457	The Fathomless Depths	depths	MATCH	0	133x96	823218229	823218229	30.7	
-1	Karui Shores	dgr	MATCH	0	81x54	2815062652	2815062652	12.2	
-1	The Forest Encampment	dgr	MATCH	0	21x29	3884967862	3884967862	4.3	
 82573316	The Sovereign	depths	MATCH	0	36x36	1941862320	1941862320	14.8	first draw-stage not OK: seed
 3041957014	The Fathomless Depths	depths	MATCH	0	73x36	2897792557	2897792557	21.5	first draw-stage not OK: seed
 3098285421	The Sovereign	depths	MATCH	0	36x36	1231693686	1231693686	2.0	
@@ -48,373 +45,15 @@ seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
 2651850708	The Fathomless Depths	depths	MATCH	0	73x36	2791270950	2791270950	7.7	
 2589720705	The Sovereign	depths	MATCH	0	36x36	2933444716	2933444716	2.2	
 3154916023	The Fathomless Depths	depths	MATCH	0	133x96	733395531	733395531	19.0	
-1313028449	The Crypt Level 1	dgr	MATCH	0	59x59	1157800364	1157800364	2.2	
-2870800707	The Crypt Level 2	dgr	MATCH	0	59x59	69030426	69030426	2.1	
-2578194133	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	2891150790	2891150790	2.2	
-3761032693	The Chamber of Sins Level 2	dgr	MATCH	0	65x83	2022733049	2022733049	2.4	
-469932766	The Submerged Passage	dgr	MATCH	0	65x49	240112645	240112645	4.5	
-191589194	The Flooded Depths	dgr	MATCH	0	45x45	2222667986	2222667986	3.0	
-1	Lioneye's Watch	dgr	MATCH	0	30x18	1139181677	1139181677	3.6	
-1920541619	The Lower Prison	dgr	MATCH	0	59x43	1651551080	1651551080	2.2	
-742553449	The Upper Prison	dgr	MATCH	0	125x55	3917393174	3917393174	3.1	
-2818139909	The Western Forest	tgr	PARTIAL			3337390678		4.2	room tiles 116/116; junction records 2/2; edge tiles 32/79; unknown picks 213 (12 long/absent); key misses 185
-2039359877	The Weaver's Chambers	dgr	MATCH	0	47x51	817362184	817362184	1.7	
-407489641	The Wetlands	tgr	PARTIAL			534786920		7.6	room tiles 122/122; junction records 2/2; edge tiles 0/0; unknown picks 36 (0 long/absent); key misses 28; tiliser Could not tilise edge 18b
-3517148271	The Vaal Ruins	dgr	MATCH	0	67x67	2940475866	2940475866	2.7	
-1929370058	The Caverns	dgr	MATCH	0	71x63	4054197555	4054197555	4.1	
-612200276	The Ancient Pyramid	dgr	MATCH	0	111x39	2043394585	2043394585	3.4	
-1412296438	Atoll	dgr	ERROR			1253442074		2.6	"RuntimeError: No possible rooms found for room at (0, 36) with type ""entrance"" @ dungeon_graph.py:1187 place_typed"
-1123901509	Side Chapel	dgr	MATCH	0	79x79	3537605935	3537605935	3.0	
-1878280121	Atoll	tgr	PARTIAL			2168707350		1.8	room tiles 80/80; junction records 0/0; edge tiles 6/9; unknown picks 6 (0 long/absent); key misses 6; tiliser Could not tilise edge 13b
-2263660961	Neglected Cellar	dgr	MATCH	0	39x30	4044548570	4044548570	2.3	
-3330632830	The Reliquary	dgr	MATCH	0	61x67	2900745617	2900745617	2.4	
-2310821503	Atoll	tgr	PARTIAL			2803321911		1.8	room tiles 82/82; junction records 0/0; edge tiles 143/172; unknown picks 4 (0 long/absent); key misses 4
-2778897016	Evacuated Quarter	dgr	MATCH	0	66x90	3645364594	3645364594	9.0	
-3733581862	Grotto	dgr	MATCH	0	103x67	838396737	838396737	4.1	
-2621831292	Strand	dgr	MATCH	0	93x147	4257126006	4257126006	7.4	
-2969939979	Remote Gulch	tgr	PARTIAL			2429684383		1.7	room tiles 24/24; junction records 0/0; edge tiles 16/18
-1224335210	Plaza	dgr	CELLS	1703	63x129	2284832134	3571197073	9.9	first draw-stage not OK: overlap; first mismatch: sim 0x1420f6875 sub_1420F5FB0 edge-combination tiling draw(400) = 312 [word 1056] subgraph 0 overlap stage vs log 0x1420f6875 draw(200) = 112
-3088556257	Strange Sinkhole	dgr	MATCH	0	41x37	4228456130	4228456130	2.9	
-1839010650	The Dried Lake	dgr	MATCH	0	54x60	4086432158	4086432158	4.1	
-1	Highgate	dgr	MATCH	0	41x33	3059197251	3059197251	3.2	
-4089459784	The Dried Lake	dgr	MATCH	0	54x78	3799672527	3799672527	4.2	
-1	Cartographer's Hideout	dgr	MATCH	0	31x31	3713433821	3713433821	1.9	
-1	Cosmic Turtle Hideout	dgr	MATCH	0	78x78	2300128614	2300128614	2.1	
-1	Desert Hideout	dgr	MATCH	0	30x30	3903144892	3903144892	7.0	
-1	Skeletal Hideout	dgr	MATCH	0	27x27	3427174740	3427174740	3.1	
-271424479	The Dried Lake	dgr	MATCH	0	54x60	3650255859	3650255859	4.0	
-1910660251	The Mines Level 1	dgr	MATCH	0	49x65	4150859652	4150859652	3.3	
-2405821288	The Mines Level 2	dgr	MATCH	0	57x65	1605729696	1605729696	3.1	
-3347084340	The Crystal Veins	dgr	MATCH	0	57x87	389407264	389407264	4.5	
-1	The Sarn Encampment	dgr	MATCH	0	39x35	1244512620	1244512620	2.7	
-2850793387	Aspirants' Plaza	dgr	MATCH	0	31x31	349488689	349488689	6.4	
-2533087454	Estate Path	dgr	MATCH	0	85x73	2495292827	2495292827	9.4	
-1334335857	Aspirant's Trial	dgr	MATCH	0	25x49	750211733	750211733	5.0	
-3842264324	Basilica Halls	dgr	CELLS	53	65x65	2053571771	2064279259	3.0	
-446294120	Aspirant's Trial	dgr	MATCH	0	25x49	3472233919	3472233919	5.0	
-909720328	Mansion Halls	dgr	MATCH	0	73x65	15549283	15549283	6.3	
-2172888983	Estate Crossing	dgr	MATCH	0	67x85	2091862474	2091862474	9.1	
-3970501215	Aspirant's Trial	dgr	MATCH	0	49x57	3555777409	3555777409	4.9	
-634165571	The Crystal Veins	dgr	MATCH	0	87x65	2177833885	2177833885	4.6	
-4021489705	Kaom's Dream	tgr	NOINST			3075838719		0.0	no outdoor instance for this seed (index status: generator failed)
-808855001	Kaom's Stronghold	tgr	NOINST			3087778686		0.0	no outdoor instance for this seed (index status: generator failed)
-3037135357	The Crystal Veins	dgr	MATCH	0	57x87	2211240638	2211240638	4.5	
-3742948269	Daresso's Dream	dgr	MATCH	0	91x82	4073996085	4073996085	5.3	
-1868260667	The Grand Arena	dgr	MATCH	0	91x157	1198174165	1198174165	4.5	
-800997670	The Crystal Veins	dgr	MATCH	0	87x65	2351249093	2351249093	4.5	
-3050197844	The Belly of the Beast Level 1	dgr	MATCH	0	61x77	158355008	158355008	1.7	
-1573602159	The Crystal Veins	dgr	MATCH	0	57x87	4155931109	4155931109	4.2	
-1464712583	The Belly of the Beast Level 1	dgr	MATCH	0	61x77	3306318637	3306318637	1.7	
-880066129	The Belly of the Beast Level 2	dgr	MATCH	0	77x77	605931699	605931699	2.0	
-1250879645	The Harvest	dgr	MATCH	0	93x101	2544826441	2544826441	5.7	
-3441163522	The Aqueduct	dgr	MATCH	0	48x168	1557957727	1557957727	4.3	
-1853619251	The Ascent	tgr	ERROR			1533087404		1.0	RuntimeError: Could not permute edges: 11, 12, 25, 26 @ permute.py:269 permute
-3795107622	The Slave Pens	dgr	MATCH	0	67x73	3199277502	3199277502	2.7	
-1	Overseer's Tower	dgr	MATCH	0	37x31	705703268	705703268	2.7	
-3553902466	The Control Blocks	dgr	MATCH	0	85x85	1651264513	1651264513	3.0	
-2584021816	Aspirants' Plaza	dgr	MATCH	0	31x31	1551230963	1551230963	6.0	
-1697191265	The Control Blocks	dgr	MATCH	0	85x85	3823909229	3823909229	3.0	
-4248805045	The Submerged Passage	dgr	MATCH	0	57x65	3821526790	3821526790	4.3	
-1309195284	The Flooded Depths	dgr	MATCH	0	41x41	573429291	573429291	2.8	
-556721298	The Ledge	tgr	PARTIAL			216717887		2.2	room tiles 68/68; junction records 0/0; edge tiles 0/0; unknown picks 12 (0 long/absent); key misses 7; tiliser Could not tilise edge 5
-1800507917	The Climb	tgr	ERROR			2341871594		1.7	RuntimeError: Could not permute edges: 2 @ permute.py:269 permute
-1	Celestial Hideout	dgr	CELLS	6	55x55	3478684984	2440107777	5.5	first draw-stage not OK: overlap; first mismatch: sim 0x1420f6875 sub_1420F5FB0 edge-combination tiling draw(1) = 0 [word None] subgraph 2 overlap stage vs log 0x1420f6875 draw(4) = 0
-1	Backstreet Hideout	dgr	MATCH	0	33x33	2407509049	2407509049	5.2	
-2130982566	The Climb	tgr	PARTIAL			806503697		1.8	room tiles 67/67; junction records 2/2; edge tiles 58/61; unknown picks 9 (0 long/absent); key misses 9
-3284226330	The Lower Prison	dgr	MATCH	0	55x59	1192538762	1192538762	2.2	
-2251881681	The Upper Prison	dgr	MATCH	0	125x55	2204444027	2204444027	3.1	
-1068567250	Monastery of the Keepers	dgr	MATCH	0	30x36	739522572	739522572	2.6	
-1475174401	Prisoner's Gate	tgr	PARTIAL			1086046921		2.3	room tiles 59/59; junction records 0/0; edge tiles 0/0; unknown picks 201 (168 long/absent); key misses 25; tiliser Could not tilise edge 19b
-2683172332	The Ship Graveyard	tgr	NOINST			694397120		0.0	no outdoor instance for this seed (index status: generator failed)
-2625967781	The Cavern of Wrath	dgr	MATCH	0	69x49	4016286671	4016286671	4.3	
-1891345365	The Cavern of Anger	dgr	MATCH	0	69x61	449445949	449445949	4.5	
-2479631266	The Southern Forest	tgr	ERROR			3716329429		4.0	RuntimeError: Could not permute edges: 11 @ permute.py:269 permute
-947348485	The Old Fields	tgr	PARTIAL			229464661		3.0	room tiles 144/144; junction records 6/6; edge tiles 11/20; unknown picks 20 (0 long/absent); key misses 19; tiliser Could not tilise edge 7
-1018383981	The Crossroads	tgr	PARTIAL			2003188477		5.3	room tiles 135/135; junction records 6/6; edge tiles 75/145; unknown picks 235 (5 long/absent); key misses 197
-3113180255	The Broken Bridge	tgr	PARTIAL			1347971609		3.8	room tiles 116/116; junction records 6/6; edge tiles 4/4; unknown picks 99 (7 long/absent); key misses 64; tiliser Could not tilise edge 2b
-4044540761	The Fellshrine Ruins	tgr	PARTIAL			691804038		4.1	room tiles 145/145; junction records 3/3; edge tiles 0/0; tiliser Could not tilise edge 2b
-2530695710	The Crypt Level 1	dgr	MATCH	0	59x59	2263762444	2263762444	2.2	
-968431668	The Crypt Level 2	dgr	MATCH	0	59x59	2499091845	2499091845	2.1	
-4191653966	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	1642318018	1642318018	2.2	
-283554011	The Chamber of Sins Level 2	dgr	MATCH	0	71x59	2748572369	2748572369	2.3	
-2226661651	The Old Fields	tgr	ERROR			4031710147		3.0	RuntimeError: Failed to tilise the non-virtual node 16.s1 (638, 717) @ edge_sim.py:1688 setup
-774439067	The Den	dgr	MATCH	0	59x59	2825555511	2825555511	1.8	
-1008253913	The Riverways	tgr	PARTIAL			1355430214		7.9	room tiles 186/186; junction records 3/3; edge tiles 21/37; unknown picks 81 (16 long/absent); key misses 61; tiliser Could not tilise edge 8b
-1594771754	The Western Forest	tgr	PARTIAL			3174309766		4.4	room tiles 128/128; junction records 2/2; edge tiles 0/0; tiliser Could not tilise edge 9
-514194972	The Weaver's Chambers	dgr	MATCH	0	47x47	114173358	114173358	1.7	
-2922025329	The Riverways	tgr	PARTIAL			1223104191		6.9	room tiles 186/186; junction records 3/3; edge tiles 7/15; unknown picks 73 (4 long/absent); key misses 60; tiliser Could not tilise edge 16b
-2797004204	The Wetlands	tgr	PARTIAL			2557214493		8.3	room tiles 122/122; junction records 5/5; edge tiles 140/180; unknown picks 24 (0 long/absent); key misses 19
-1	Luxurious Hideout	dgr	MATCH	0	27x27	3779661124	3779661124	2.4	
-1519000875	The Riverways	tgr	PARTIAL			736978362		7.6	room tiles 167/167; junction records 3/3; edge tiles 32/57; unknown picks 201 (12 long/absent); key misses 153; tiliser Could not tilise edge 10
 3276846349	The Sovereign	depths	MATCH	0	36x36	1739673554	1739673554	2.0	
-2385204892	The Vaal Ruins	dgr	MATCH	0	59x75	4064405383	4064405383	2.8	
-3907043827	The Northern Forest	tgr	NOINST			2807117195		0.0	no outdoor instance for this seed (index status: generator failed)
-2501019992	The Dread Thicket	dgr	MATCH	0	81x39	4035435092	4035435092	9.5	
-3420277925	The Caverns	dgr	MATCH	0	63x63	2199474282	2199474282	4.2	
-2286220489	The Ancient Pyramid	dgr	MATCH	0	111x39	4066457169	4066457169	4.1	
-2166854683	The City of Sarn	tgr	NOINST			592359497		0.0	no outdoor instance for this seed (index status: generator failed)
-4131175462	The Slums	dgr	CELLS	1245	81x69	2488184710	488850942	7.8	first draw-stage not OK: fill; first mismatch: sim 0x141febd7f ? draw(409) = 61 [word 5248] subgraph 0 fill cell (24,54) city_ground.gt vs log 0x141febf93 draw(300) = 294
-936822562	The Crematorium	dgr	MATCH	0	59x43	2148918050	2148918050	2.9	
-2897425878	The Sewers	dgr	MATCH	0	59x109	3608206696	3608206696	5.5	
-2536577949	The Marketplace	dgr	MATCH	0	63x81	3095624708	3095624708	9.4	
-2402341252	The Battlefront	dgr	MATCH	0	102x72	4196015547	4196015547	12.9	
-3273436718	The Solaris Temple Level 1	dgr	MATCH	0	65x65	1224538654	1224538654	19.9	
-1706325493	The Solaris Temple Level 2	dgr	MATCH	0	105x99	3273443509	3273443509	5.7	
-2253563939	The Marketplace	dgr	MATCH	0	57x81	4126215522	4126215522	9.8	
-3639631365	The Marketplace	dgr	MATCH	0	57x81	3701885475	3701885475	9.7	
-1712038915	The Catacombs	dgr	MATCH	0	59x59	41140647	41140647	2.1	
-3062702846	The Battlefront	dgr	MATCH	0	84x78	1003604186	1003604186	12.6	
-3364277146	The Docks	dgr	MATCH	0	87x77	791632261	791632261	7.6	
 3089773424	The Sovereign	depths	MATCH	0	36x36	2273790087	2273790087	2.4	
-1555985664	The Solaris Temple Level 2	dgr	MATCH	0	111x87	559975316	559975316	5.5	
-3203442564	The Sewers	dgr	MATCH	0	59x109	568037625	568037625	4.5	
-2855540965	The Ebony Barracks	dgr	MATCH	0	75x120	2512417395	2512417395	11.0	
-1571611194	The Lunaris Temple Level 1	dgr	MATCH	0	55x109	446747484	446747484	12.0	
-3858230140	The Lunaris Temple Level 2	dgr	CELLS	5799	71x173	477534427	2804176961	7.4	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(320) = 210 [word 2111] ledge_walkway_1.arm o3 at (32,104) vs log 0x1420efc0c draw(200) = 170
-2351266055	The Lunaris Temple Level 1	dgr	MATCH	0	55x109	3251821080	3251821080	11.4	
-1144347631	The Ebony Barracks	dgr	MATCH	0	75x120	2879092417	2879092417	11.3	
-1067921378	The Imperial Gardens	dgr	MATCH	0	87x93	1447338577	1447338577	11.4	
-623609042	The Imperial Gardens	dgr	CELLS	6	99x87	3371348297	2669678989	10.9	
-2335162514	The Sceptre of God	dgr	ERROR			2116269406		2.4	RuntimeError: Failed to find room that fits at room 5,4 (1x2 sceptre_exterior_wall_border.et) @ dungeon_graph.py:2033 pick_room
-2000054802	The Upper Sceptre of God	dgr	ERROR			4220530291		2.2	RuntimeError: Failed to find room that fits at room 4,4 (1x2 sceptre_exterior_wall_border.et) @ dungeon_graph.py:2033 pick_room
-2037400561	The Aqueduct	dgr	MATCH	0	48x168	1761958165	1761958165	4.5	
-4172490063	The Docks	dgr	MATCH	0	87x77	4015351991	4015351991	7.4	
-1266525413	The Dried Lake	dgr	MATCH	0	60x66	2117403902	2117403902	4.1	
-1149825838	Abandoned Dam	dgr	MATCH	0	48x60	4240077958	4240077958	3.8	
-3784847736	The Mines Level 1	dgr	MATCH	0	57x65	2709488756	2709488756	2.9	
-1805111026	The Mines Level 1	dgr	MATCH	0	49x65	4227430229	4227430229	2.8	
-301677685	The Mines Level 2	dgr	MATCH	0	57x65	1971905377	1971905377	3.1	
-1934321993	The Mines Level 1	dgr	MATCH	0	57x73	3864297400	3864297400	2.9	
-803169832	The Mines Level 2	dgr	MATCH	0	57x65	3023494141	3023494141	3.0	
-2093007158	The Crystal Veins	dgr	MATCH	0	57x87	1759487534	1759487534	4.6	
-298619422	Kaom's Dream	tgr	NOINST			2444695433		0.0	no outdoor instance for this seed (index status: generator failed)
-4224061469	Kaom's Stronghold	tgr	NOINST			2847230753		0.0	no outdoor instance for this seed (index status: generator failed)
-2853070089	The Crystal Veins	dgr	MATCH	0	87x65	3267336992	3267336992	5.5	
-360522370	Daresso's Dream	dgr	MATCH	0	109x82	2726426886	2726426886	6.0	
-737367190	The Grand Arena	dgr	MATCH	0	97x151	2093610799	2093610799	4.6	
-3828488805	The Crystal Veins	dgr	MATCH	0	57x87	3587195174	3587195174	4.7	
-2747912267	The Belly of the Beast Level 1	dgr	MATCH	0	61x77	3024534366	3024534366	1.8	
-3725921790	The Belly of the Beast Level 2	dgr	MATCH	0	61x77	3154621212	3154621212	1.8	
-1724881022	The Harvest	dgr	MATCH	0	93x101	954088109	954088109	5.9	
-2619343703	The Ascent	tgr	PARTIAL			4095770750		1.2	room tiles 80/80; junction records 2/2; edge tiles 6/11; unknown picks 213 (8 long/absent); key misses 169
-3911205585	The Slave Pens	dgr	MATCH	0	67x85	3504192106	3504192106	2.8	
-4289595801	The Control Blocks	dgr	CELLS	1817	85x85	2647497598	3389840595	2.9	first draw-stage not OK: graph; first mismatch: sim 0x1420fd640 ? draw(900) = 479 [word 465] subgraph 0 graph stage vs log 0x1420fd640 draw(2800) = 679
-3191711317	Oriath Square	dgr	MATCH	0	157x81	2748914618	2748914618	12.2	
-2723826775	The Templar Courts	dgr	MATCH	0	77x77	2385234822	2385234822	2.6	
-2558389244	The Chamber of Innocence	dgr	MATCH	0	101x93	97370136	97370136	2.3	
-3674222332	The Chamber of Innocence	dgr	MATCH	0	85x93	1623697606	1623697606	2.3	
-2661217741	The Torched Courts	dgr	MATCH	0	77x77	249720497	249720497	2.6	
-427465413	The Ruined Square	dgr	MATCH	0	157x81	653264300	653264300	12.4	
-2144030410	The Ossuary	dgr	MATCH	0	53x53	2215249136	2215249136	4.1	
-1754240847	The Ruined Square	dgr	MATCH	0	157x81	1025419615	1025419615	12.4	
-3540356521	The Reliquary	dgr	MATCH	0	61x67	3468195324	3468195324	2.4	
 3795600533	The Sovereign	depths	MATCH	0	36x36	3914858880	3914858880	2.1	
-1482223029	The Ruined Square	dgr	MATCH	0	157x81	3907314149	3907314149	12.2	
-2072172649	The Cathedral Rooftop	dgr	MATCH	0	121x157	3324307379	3324307379	10.1	
-1	Lioneye's Watch	dgr	MATCH	0	30x24	2746767467	2746767467	4.3	
-573879234	The Coast	tgr	PARTIAL			3103396315		4.4	room tiles 65/65; junction records 9/9; edge tiles 4/6; tiliser Could not tilise edge 19
-1	Sunspire Hideout	dgr	MATCH	0	39x39	738244828	738244828	3.1	
-1	Synthesis Hideout	dgr	MATCH	0	21x21	4251354619	4251354619	1.8	
-2615028650	The Coast	tgr	PARTIAL			1570894170		4.2	room tiles 93/93; junction records 5/5; edge tiles 70/74; unknown picks 10 (0 long/absent); key misses 10
-1	Lush Hideout	dgr	MATCH	0	33x33	3482012158	3482012158	6.2	
-2012248676	The Coast	tgr	PARTIAL			3266985064		4.1	room tiles 72/72; junction records 6/6; edge tiles 43/74; unknown picks 3 (0 long/absent); key misses 3
-261715282	The Mud Flats	tgr	ERROR			2322674456		4.0	RuntimeError: Could not permute edges: 5, 18 @ permute.py:269 permute
-3891475801	The Karui Fortress	dgr	MATCH	0	78x51	2368626775	2368626775	7.3	
-1674264912	Radiant Pools	tgr	PARTIAL			3647047670		4.0	room tiles 102/102; junction records 2/2; edge tiles 10/25; unknown picks 43 (17 long/absent); key misses 23
-1363251047	The Twilight Strand	tgr	PARTIAL			776092988		2.5	room tiles 24/24; junction records 4/4; edge tiles 47/48; unknown picks 29 (27 long/absent); key misses 2
-3684453189	The Coast	tgr	PARTIAL			3709964821		4.2	room tiles 71/71; junction records 7/7; edge tiles 2/5; unknown picks 2 (0 long/absent); key misses 2; tiliser Could not tilise edge 2
-1143220754	The Tidal Island	tgr	PARTIAL			3709616832		2.6	room tiles 21/21; junction records 0/0; edge tiles 11/27; unknown picks 46 (0 long/absent); key misses 19
-1909704826	The Karui Fortress	dgr	MATCH	0	78x51	1066646842	1066646842	7.3	
-1000094353	The Ridge	tgr	PARTIAL			1335019800		2.4	room tiles 85/85; junction records 0/0; edge tiles 55/123; unknown picks 38 (3 long/absent); key misses 29
-3738874253	The Lower Prison	dgr	MATCH	0	43x75	4175847380	4175847380	2.1	
 4232339628	The Sovereign	depths	MATCH	0	36x36	2422003186	2422003186	2.0	
 1981003104	The Fathomless Depths	depths	MATCH	0	73x36	917500374	917500374	7.7	
-403574281	The Lower Prison	dgr	MATCH	0	43x75	1540426058	1540426058	2.4	
-4231822657	Shavronne's Tower	dgr	MATCH	0	171x51	4075024961	4075024961	3.7	
-1594593724	Prisoner's Gate	tgr	ERROR			2594050326		2.2	RuntimeError: Could not permute edges: 0, 14 @ permute.py:269 permute
-2946423389	The Western Forest	tgr	PARTIAL			1577687285		4.5	room tiles 116/116; junction records 2/2; edge tiles 45/110; unknown picks 158 (9 long/absent); key misses 130
-2545505819	The Riverways	tgr	PARTIAL			768176795		6.3	room tiles 178/178; junction records 3/3; edge tiles 3/7; unknown picks 9 (0 long/absent); key misses 6; tiliser Could not tilise edge 9
-940927949	The Southern Forest	tgr	PARTIAL			534497896		4.4	room tiles 229/229; junction records 0/0; edge tiles 0/0; tiliser Could not tilise edge 19
-2555187645	Secluded Copse	dgr	MATCH	0	39x31	4254452920	4254452920	1.9	
-599246530	The Cavern of Anger	dgr	MATCH	0	133x71	3650738342	3650738342	14.7	
-2273242513	The Beacon	tgr	NOINST			548745989		0.0	no outdoor instance for this seed (index status: generator failed)
-2877759920	Secluded Copse	dgr	MATCH	0	39x31	3928051857	3928051857	2.0	
-2951854765	The Brine King's Reef	tgr	PARTIAL			4191511973		3.0	room tiles 85/85; junction records 0/0; edge tiles 0/0; tiliser Could not tilise edge 12b
-826909937	Sunken Shingle	tgr	PARTIAL			1446955763		2.1	room tiles 20/20; junction records 0/0; edge tiles 17/29
 1	The Bridge Encampment	other	SKIP			651500549		0.0	generator ?
-1617114203	The Broken Bridge	tgr	PARTIAL			1501504445		2.9	room tiles 113/113; junction records 4/4; edge tiles 62/114; unknown picks 361 (9 long/absent); key misses 263
-1793766400	The Crossroads	tgr	PARTIAL			1515278809		5.2	room tiles 135/135; junction records 6/6; edge tiles 74/122; unknown picks 282 (10 long/absent); key misses 208
-4024180023	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	2481291711	2481291711	2.2	
-4180396544	The Fellshrine Ruins	tgr	PARTIAL			396502492		5.2	room tiles 131/131; junction records 2/2; edge tiles 10/27; unknown picks 74 (4 long/absent); key misses 62; tiliser Could not tilise edge 12b
-1981184456	The Crypt	dgr	MATCH	0	71x71	2021194995	2021194995	3.3	
-2533715097	Maligaro's Sanctum	dgr	MATCH	0	105x87	314450607	314450607	6.5	
-1607794472	The Chamber of Sins Level 2	dgr	MATCH	0	59x106	1920017863	1920017863	3.8	
-3694988849	The Den	dgr	MATCH	0	59x59	144818764	144818764	2.2	
-2550931616	Covered-up Hollow	dgr	MATCH	0	43x35	1879773356	1879773356	2.0	
-1449694259	The Ashen Fields	tgr	PARTIAL			3061917637		4.3	room tiles 50/50; junction records 2/2; edge tiles 23/49; unknown picks 194 (13 long/absent); key misses 169
-773500154	The Northern Forest	tgr	PARTIAL			3876175309		3.1	room tiles 78/78; junction records 3/3; edge tiles 27/66; unknown picks 138 (5 long/absent); key misses 112
-432732553	The Dread Thicket	dgr	MATCH	0	187x47	1883037049	1883037049	4.7	
-783592476	Secluded Copse	dgr	MATCH	0	39x31	1409908282	1409908282	1.9	
 866127088	The Sovereign	depths	MATCH	0	36x36	3688244998	3688244998	2.1	
-701080060	The Northern Forest	tgr	ERROR			1418380221		3.0	RuntimeError: Could not permute edges: 4 @ permute.py:269 permute
-3182851902	The Causeway	dgr	MATCH	0	157x61	3351560268	3351560268	3.5	
-2393322748	The Vaal City	dgr	MATCH	0	78x120	3052310771	3052310771	6.2	
-1011166828	The Temple of Decay Level 1	dgr	MATCH	0	63x115	1242027185	1242027185	3.7	
-1784571183	The Temple of Decay Level 2	dgr	MATCH	0	55x131	4088528523	4088528523	4.1	
-1906049691	The Sarn Ramparts	dgr	CELLS	6091	96x172	3836528409	2995462763	12.2	first draw-stage not OK: fill; first mismatch: sim 0x141febfcf sub_141FEB970 fill draw(8) = 0 [word 16520] subgraph 0 fill cell (69,94) city_slums.gt vs log 0x141fec0ea draw(100) = 68
-1	The Sarn Encampment	dgr	MATCH	0	39x35	3615437189	3615437189	2.2	
-993420394	Aspirants' Plaza	dgr	MATCH	0	31x31	2646271961	2646271961	6.1	
-3795292572	The Toxic Conduits	dgr	MATCH	0	59x168	2881309162	2881309162	5.8	
-1225503678	Doedre's Cesspool	dgr	MATCH	0	69x69	1853879041	1853879041	2.6	
-3233060856	The Toxic Conduits	dgr	MATCH	0	59x168	719177272	719177272	5.5	
-438094231	Walled-off Ducts	dgr	MATCH	0	39x39	4286032062	4286032062	2.7	
-375337592	Doedre's Cesspool	dgr	MATCH	0	69x69	3556033391	3556033391	2.6	
-3974747963	The Quay	dgr	MATCH	0	102x126	3003177446	3003177446	8.5	
-774780952	The Grain Gate	dgr	MATCH	0	78x108	3043379673	3043379673	8.7	
-2432663001	Neglected Cellar	dgr	MATCH	0	39x30	1901156714	1901156714	2.4	
-748072072	The Imperial Fields	tgr	PARTIAL			3735547732		6.9	room tiles 288/288; junction records 0/0; edge tiles 1/2; unknown picks 12 (2 long/absent); key misses 11; tiliser Could not tilise edge 1
-2556106696	The Solaris Temple Level 1	dgr	MATCH	0	89x77	4102415752	4102415752	19.3	
-464544080	The Solaris Temple Level 2	dgr	MATCH	0	93x93	3976814062	3976814062	6.4	
-1	ExileCon 2023 Hideout	dgr	MATCH	0	44x60	2546197278	2546197278	6.0	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(4) = 0 [word 1] hideout_level2.arm o0 at (6,22) vs log 0x1420efc0c draw(1) = 0
-657210394	The Solaris Temple Level 1	dgr	MATCH	0	89x77	3161500419	3161500419	22.2	
-2210125432	The Solaris Temple Level 2	dgr	MATCH	0	93x93	19476010	19476010	6.5	
-2370636568	Sacred Chambers	dgr	MATCH	0	35x41	3525423438	3525423438	2.8	
-1876677163	The Solaris Concourse	dgr	MATCH	0	78x96	3554542888	3554542888	14.2	
-1068480893	The Harbour Bridge	dgr	MATCH	0	168x96	3417105572	3417105572	9.2	
-2391431120	The Lunaris Concourse	dgr	MATCH	0	75x150	3324198366	3324198366	13.2	
-730588532	The Lunaris Temple Level 1	dgr	MATCH	0	61x229	3512266583	3512266583	15.2	
-1510624776	Moonlit Chambers	dgr	MATCH	0	49x37	784856076	784856076	4.3	
-439290303	The Lunaris Temple Level 2	dgr	CELLS	6454	71x167	2867383623	2157110433	9.0	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(320) = 3 [word 2225] walkway_highway_1.arm o2 at (44,80) vs log 0x1420efc0c draw(200) = 163
-2733731916	The Lunaris Concourse	dgr	MATCH	0	75x150	141873562	141873562	12.6	
-2782365286	The Harbour Bridge	dgr	MATCH	0	168x96	3730713352	3730713352	9.0	
-1877788454	Stagnant Canal	dgr	MATCH	0	60x33	128702675	128702675	6.1	
-896657505	The Blood Aqueduct	dgr	MATCH	0	48x180	3362388430	3362388430	4.8	
-1	Highgate	dgr	MATCH	0	41x33	1434073308	1434073308	3.8	
-1550935145	The Descent	tgr	PARTIAL			3145125938		1.6	room tiles 55/55; junction records 1/1; edge tiles 0/7; unknown picks 274 (14 long/absent); key misses 174
-2609346257	The Vastiri Desert	dgr	MATCH	0	84x72	1844785887	1844785887	7.0	
 309493809	The Sovereign	depths	MATCH	0	36x36	3071734900	3071734900	2.4	
-3827215630	The Foothills	tgr	PARTIAL			3461867600		1.9	room tiles 78/78; junction records 9/9; edge tiles 0/0; tiliser Could not tilise edge 24
-981678077	The Boiling Lake	tgr	ERROR			1779646633		4.0	RuntimeError: Could not permute edges: 7, 9, 10 @ permute.py:269 permute
-907963433	The Vastiri Desert	dgr	MATCH	0	84x72	369089336	369089336	6.7	
-228834132	The Tunnel	dgr	MATCH	0	73x105	3517079195	3517079195	2.8	
-3998619120	Haunted Mineshaft	dgr	MATCH	0	49x49	2799420866	2799420866	3.4	
-2145317682	The Quarry	dgr	MATCH	0	102x84	2938400564	2938400564	10.6	
-2621271165	The Refinery	dgr	MATCH	0	117x85	354030528	354030528	10.4	
-3379021372	The Foothills	tgr	PARTIAL			1704573570		1.9	room tiles 79/79; junction records 6/6; edge tiles 0/0; tiliser Could not tilise edge 20
-80730307	The Boiling Lake	tgr	ERROR			226452543		4.1	RuntimeError: Could not permute edges: 16 @ permute.py:269 permute
-4240779025	The Quarry	dgr	MATCH	0	102x84	1604473495	1604473495	10.6	
-2043022934	The Belly of the Beast	dgr	MATCH	0	73x103	2932764974	2932764974	2.0	
-780755267	The Rotting Core	dgr	CELLS	5328	141x109	17407324	1979286765	9.8	first draw-stage not OK: graph; first mismatch: sim 0x142102c41 ? draw(840) = 259 [word 197] subgraph 0 graph stage vs log 0x1421029c7 draw(3) = 1
-1	Oriath Docks	dgr	MATCH	0	37x37	3320054456	3320054456	3.8	
-3599178296	The Cathedral Rooftop	dgr	MATCH	0	121x157	2232891092	2232891092	7.9	
-1837405360	Side Chapel	dgr	MATCH	0	79x79	4217226278	4217226278	3.0	
-2139050272	The Ravaged Square	dgr	MATCH	0	129x81	2728443893	2728443893	8.4	
-462968388	The Control Blocks	dgr	MATCH	0	85x85	3509728473	3509728473	3.3	
-1913361106	The Control Blocks	dgr	MATCH	0	91x85	3115849383	3115849383	3.4	
-2181307310	Reclaimed Barracks	dgr	MATCH	0	61x55	3454844210	3454844210	2.5	
-1842674717	The Ravaged Square	dgr	MATCH	0	129x81	252435474	252435474	8.5	
-1595576018	The Ossuary	dgr	MATCH	0	110x82	863241202	863241202	6.6	
-4152842669	The Reliquary	dgr	MATCH	0	61x67	2719794227	2719794227	2.7	
-2219835840	The Torched Courts	dgr	MATCH	0	77x77	2593344709	2593344709	2.5	
-3685162311	The Desecrated Chambers	dgr	MATCH	0	85x93	53037679	53037679	2.1	
-3321828212	The Ravaged Square	dgr	MATCH	0	217x81	2178349546	2178349546	12.1	
-331904297	The Canals	dgr	MATCH	0	57x135	253417315	253417315	5.5	
-3508426414	The Feeding Trough	dgr	MATCH	0	147x159	131995204	131995204	8.5	
-2124104930	The Quarry	dgr	CELLS	4113	102x114	3013035528	776230929	11.4	first draw-stage not OK: tiliser; first mismatch: sim 0x141fe9a73 sub_141FE89E0 fill room: store pick draw(8) = 4 [word 1657] mission_1.arm o1 at (60,54) ExternalFeature vs log 0x141fe9f09 draw(1) = 0
-559510352	Haunted Mineshaft	dgr	MATCH	0	49x49	2029911990	2029911990	3.5	
-3376791209	The Vastiri Desert	dgr	MATCH	0	84x72	3432629108	3432629108	6.8	
-2057659728	The Oasis	tgr	PARTIAL			4148216990		3.8	room tiles 247/247; junction records 4/4; edge tiles 25/62; unknown picks 141 (19 long/absent); key misses 120
-3149224873	Dusty Bluff	tgr	PARTIAL			2748218734		1.4	room tiles 46/46; junction records 0/0; edge tiles 1/3; unknown picks 67 (3 long/absent); key misses 43
-3536082317	Doedre's Cesspool	dgr	MATCH	0	69x69	945915212	945915212	2.6	
-717193377	The Grand Promenade	dgr	MATCH	0	138x90	757908612	757908612	8.2	
-1263665994	The Bath House	dgr	MATCH	0	91x63	676576427	676576427	5.1	
-1653703409	Prisoner's Gate	tgr	ERROR			1531167769		2.1	RuntimeError: Could not permute edges: 0, 14 @ permute.py:269 permute
-3063800985	The Broken Bridge	tgr	PARTIAL			2662979387		2.8	room tiles 128/128; junction records 4/4; edge tiles 121/189; unknown picks 17 (0 long/absent); key misses 17
-1327120653	Narrow Ravine	tgr	PARTIAL			673030557		1.3	room tiles 23/23; junction records 0/0; edge tiles 23/29; unknown picks 2 (0 long/absent); key misses 2
-3285807558	The Riverways	tgr	PARTIAL			1296025244		6.3	room tiles 179/179; junction records 3/3; edge tiles 2/3; unknown picks 79 (7 long/absent); key misses 46; tiliser Could not tilise edge 16b
-3498432223	The Wetlands	tgr	PARTIAL			1386278695		7.9	room tiles 237/237; junction records 1/1; edge tiles 1/2; unknown picks 19 (0 long/absent); key misses 19; tiliser Could not tilise edge 17b
 2372426144	The Sovereign	depths	MATCH	0	36x36	674500213	674500213	2.0	
-2742815401	The Tidal Island	tgr	PARTIAL			746164926		2.6	room tiles 14/14; junction records 0/0; edge tiles 12/21; unknown picks 19 (0 long/absent); key misses 14; tiliser Could not tilise edge 1
-1	Glimmerwood Hideout	dgr	MATCH	0	30x30	165724475	165724475	2.6	
-1	Battle-scarred Hideout	dgr	MATCH	0	33x33	2479215559	2479215559	4.8	
-2445327803	The Ship Graveyard	tgr	NOINST			4282217149		0.0	no outdoor instance for this seed (index status: generator failed)
-2400635400	Alleyways	dgr	MATCH	0	197x75	1095433766	1095433766	9.2	
-2565914107	Chateau	dgr	MATCH	0	121x79	2907803743	2907803743	10.1	
-1	The Dreadnought Hideout	dgr	CELLS	675	72x48	3576881561	474594840	2.4	first draw-stage not OK: graph; first mismatch: sim 0x14210862e ? draw(3003) = 0 [word 53] subgraph 0 graph stage vs log 0x14210862e draw(4004) = 0
-1	Vast Plains Hideout	dgr	MATCH	0	31x31	2330516475	2330516475	1.0	
-2210596230	The Ravaged Square	dgr	MATCH	0	217x81	1418227854	1418227854	12.2	
-286111229	Aspirants' Plaza	dgr	MATCH	0	31x31	2256494012	2256494012	6.5	
-2579957462	Estate Path	dgr	MATCH	0	85x73	3541621928	3541621928	9.4	
-2866914294	Aspirant's Trial	dgr	MATCH	0	25x49	2929733642	2929733642	4.9	
-2555006977	Sanitorium Halls	dgr	MATCH	0	47x47	297879765	297879765	3.1	
-417028868	Aspirant's Trial	dgr	MATCH	0	25x49	2206223273	2206223273	4.8	
-3831569174	Mansion Halls	dgr	MATCH	0	73x65	102232560	102232560	5.9	
-609657111	Estate Crossing	dgr	MATCH	0	67x85	1636822132	1636822132	9.2	
-4117083578	Aspirant's Trial	dgr	MATCH	0	49x57	1844463951	1844463951	4.9	
-1426617778	Aspirants' Plaza	dgr	MATCH	0	31x31	2279280259	2279280259	6.3	
-3103363698	Estate Walkways	dgr	MATCH	0	85x73	1995255546	1995255546	9.0	
-2291623195	Domain Walkways	dgr	CELLS	1115	87x81	1395951277	1857570258	7.6	first draw-stage not OK: overlap; first mismatch: sim 0x1420f6875 sub_1420F5FB0 edge-combination tiling draw(400) = 90 [word 895] subgraph 0 overlap stage vs log 0x1420f6875 draw(200) = 90
-4234693681	Sanitorium Halls	dgr	MATCH	0	47x47	938147403	938147403	3.0	
-2118311704	Aspirant's Trial	dgr	MATCH	0	25x49	1108902604	1108902604	4.7	
-1449463803	Sanitorium Halls	dgr	MATCH	0	47x47	2748140019	2748140019	3.0	
-259205661	Estate Crossing	dgr	MATCH	0	67x85	4080815929	4080815929	9.0	
-1866444512	Aspirant's Trial	dgr	MATCH	0	49x57	3196040367	3196040367	4.8	
-335384607	Aspirants' Plaza	dgr	MATCH	0	31x31	3903009552	3903009552	6.3	
-2245694802	Estate Path	dgr	MATCH	0	85x73	1775558441	1775558441	9.2	
-1759117330	Aspirant's Trial	dgr	MATCH	0	25x49	1415103873	1415103873	4.8	
-841827259	Mansion Passage	dgr	MATCH	0	65x65	2698971466	2698971466	5.9	
-725554027	Sanitorium Halls	dgr	MATCH	0	47x47	2687346413	2687346413	3.7	
-1467770897	Sanitorium Passage	dgr	MATCH	0	47x47	3939685222	3939685222	3.0	
-2112044984	Aspirant's Trial	dgr	MATCH	0	25x49	409214662	409214662	4.5	
-2604101915	Domain Walkways	dgr	CELLS	1020	87x81	2071139196	3346502181	8.0	first draw-stage not OK: overlap; first mismatch: sim 0x1420f6875 sub_1420F5FB0 edge-combination tiling draw(100) = 14 [word 1104] subgraph 0 overlap stage vs log 0x1420f6875 draw(200) = 14
-3102021708	Sepulchre Halls	dgr	MATCH	0	47x47	2605021167	2605021167	2.7	
-1601677706	Aspirant's Trial	dgr	MATCH	0	49x57	1206592261	1206592261	4.8	
-1	Enigma Hideout	dgr	MATCH	0	24x59	4094111914	4094111914	11.0	
-1689548851	Absence of Patience and Wisdom	dgr	MATCH	0	37x37	2843309688	2843309688	1.5	
-226142710	Syndicate Hideout	dgr	MATCH	0	39x147	347846035	347846035	7.8	
-3781505654	Fields	tgr	PARTIAL			3038873634		4.9	room tiles 125/125; junction records 3/3; edge tiles 0/0; unknown picks 36 (0 long/absent); key misses 36; tiliser Could not tilise edge 18
-497910778	Blind Alley	dgr	MATCH	0	42x36	2641150544	2641150544	4.0	
-3221396953	Aspirants' Plaza	dgr	MATCH	0	31x31	70921370	70921370	6.4	
-4177797557	Estate Path	dgr	MATCH	0	85x73	3931653087	3931653087	9.2	
-2874527771	Aspirant's Trial	dgr	MATCH	0	25x49	2513669921	2513669921	4.8	
-53159711	Sepulchre Halls	dgr	MATCH	0	47x47	687179366	687179366	2.7	
-3101912795	Aspirant's Trial	dgr	MATCH	0	25x49	2863147108	2863147108	4.5	
-701672647	Mansion Halls	dgr	MATCH	0	73x65	917673758	917673758	5.7	
-2611254805	Sepulchre Halls	dgr	MATCH	0	47x47	2905834459	2905834459	2.7	
-546547562	Aspirant's Trial	dgr	MATCH	0	49x57	2890614182	2890614182	4.8	
-1	Stately Hideout	dgr	MATCH	0	81x81	3474430180	3474430180	3.0	
-3883261409	Cemetery	dgr	MATCH	0	71x71	805187908	805187908	8.2	
-3883261409	Cemetery	tgr	PARTIAL			3766429721		2.4	room tiles 169/169; junction records 0/0; edge tiles 103/163; unknown picks 4 (0 long/absent); key misses 4
-723013311	Summit	tgr	PARTIAL			3923862688		1.1	room tiles 155/155; junction records 4/4; edge tiles 0/0; tiliser Could not tilise edge 21
-3563399243	The Reliquary	dgr	MATCH	0	61x67	3672388810	3672388810	2.4	
-3679397741	Laboratory	dgr	MATCH	0	91x79	531660978	531660978	3.0	
-859358621	Park	dgr	MATCH	0	129x111	809705140	809705140	7.0	
-1540545951	Channel	dgr	ERROR			3460125489		2.6	RuntimeError: Failed to find room that fits at room 13,4 (3x1 aqueduct_mission_stub.et) @ dungeon_graph.py:2033 pick_room
-1686816115	Bramble Valley	tgr	PARTIAL			2862224438		1.9	room tiles 147/147; junction records 4/4; edge tiles 158/239; unknown picks 20 (0 long/absent); key misses 20
-786621611	Cage	dgr	MATCH	0	85x73	3029978660	3029978660	3.0	
-1055427934	Reef	tgr	PARTIAL			3865248345		2.6	room tiles 26/26; junction records 0/0; edge tiles 0/0; tiliser Could not tilise edge 2
-1633638397	Shrine	dgr	CELLS	2913	83x113	1640070569	2469541666	4.2	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(100) = 47 [word 1037] mission_highcells_1.arm o0 at (20,56) vs log 0x1420efc0c draw(200) = 47
-199211361	The Ravaged Square	dgr	MATCH	0	129x81	3286737463	3286737463	8.5	
-2270359686	Estuary	tgr	PARTIAL			3704644399		4.6	room tiles 197/197; junction records 2/2; edge tiles 1/3; unknown picks 127 (33 long/absent); key misses 63
-2063571190	Reef	tgr	PARTIAL			3089955312		2.7	room tiles 26/26; junction records 0/0; edge tiles 4/5; unknown picks 67 (20 long/absent); key misses 28; tiliser Could not tilise edge 7
-3265171705	Bazaar	dgr	MATCH	0	117x45	2347526688	2347526688	6.8	
-1800242187	Bazaar	dgr	MATCH	0	117x51	3243048473	3243048473	6.8	
-2222064771	Frozen Cabins	dgr	MATCH	0	133x97	296323912	296323912	6.9	
-1	Atlas Hideout	dgr	MATCH	0	97x97	288861624	288861624	1.5	
-1	Baleful Hideout	dgr	MATCH	0	28x28	777398370	777398370	1.5	
-512272274	Gambling District	dgr	MATCH	0	27x36	2846838185	2846838185	4.1	
-339456907	City Square	dgr	MATCH	0	105x63	4258197382	4258197382	6.8	first draw-stage not OK: graph; first mismatch: sim 0x14203a96b ? draw(100) = 84 [word 11] subgraph 0 graph stage vs log 0x14203a976 draw(100) = 84
-433005992	Pit	dgr	CELLS	8987	118x91	675934094	2189837542	5.4	first draw-stage not OK: graph; first mismatch: sim 0x142102c41 ? draw(840) = 127 [word 504] subgraph 0 graph stage vs log 0x1421029c7 draw(8) = 7
-270326391	Cold River	tgr	PARTIAL			3224415484		1.4	room tiles 23/23; junction records 3/3; edge tiles 10/24; unknown picks 78 (8 long/absent); key misses 70
-2370103968	Frozen Springs	tgr	PARTIAL			971370806		2.1	room tiles 41/41; junction records 0/0; edge tiles 15/24; unknown picks 30 (4 long/absent); key misses 26
-1375344497	Absence of Symmetry and Harmony	dgr	MATCH	0	29x25	1776427309	1776427309	1.0	
-1375344497	Absence of Symmetry and Harmony	dgr	MATCH	0	71x71	805187908	805187908	8.1	
-329911341	Arid Lake	tgr	PARTIAL			1510766055		2.3	room tiles 144/144; junction records 4/4; edge tiles 0/0; unknown picks 52 (21 long/absent); key misses 26; tiliser Could not tilise edge 5
-2138817269	Strange Sinkhole	dgr	MATCH	0	41x37	2343995796	2343995796	2.7	
-1495617907	Cemetery	tgr	PARTIAL			475509189		2.4	room tiles 168/168; junction records 0/0; edge tiles 18/201; unknown picks 6 (0 long/absent); key misses 6
-3140904827	Desolate Isle	tgr	PARTIAL			1489187650		1.9	room tiles 37/37; junction records 0/0; edge tiles 1/3; unknown picks 61 (0 long/absent); key misses 39; tiliser Could not tilise edge 4
-2268285112	Chateau	dgr	MATCH	0	121x79	3085394455	3085394455	9.7	
-366366530	Concealed Caldarium	dgr	MATCH	0	45x45	2901087526	2901087526	2.8	
 2331137	The Sovereign	depths	MATCH	0	36x36	3719187843	3719187843	2.5	
 2222184575	The Fathomless Depths	depths	MATCH	0	73x36	2071735669	2071735669	7.3	
 1699377347	The Fathomless Depths	depths	MATCH	0	73x36	3488143445	3488143445	7.2	
@@ -430,60 +69,15 @@ seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
 386702049	The Fathomless Depths	depths	MATCH	0	73x36	18771901	18771901	6.6	
 1673983106	The Fathomless Depths	depths	MATCH	0	73x36	3232781933	3232781933	7.8	
 4187960911	The Fathomless Depths	depths	MATCH	0	133x96	1705127532	1705127532	15.7	first draw-stage not OK: plugin; first mismatch: sim 0x141f2cb29 sub_141F2CC70 cell connection tiling draw(143) = 70 [word 2189] connection (18,33) 1x1 fill for - vs log 0x141f2cb29 draw(0) = 0
-3017036420	Fields	tgr	PARTIAL			1046954483		5.0	room tiles 131/131; junction records 4/4; edge tiles 0/0; tiliser Could not tilise edge 1
-3716754097	Shifting Sands	dgr	MATCH	0	48x60	1788068854	1788068854	4.5	
-119078213	Fields	tgr	PARTIAL			2953990025		5.1	room tiles 131/131; junction records 4/4; edge tiles 0/0; unknown picks 35 (3 long/absent); key misses 33; tiliser Could not tilise edge 20
-2920807985	Repository	dgr	CELLS	2365	109x55	1593811499	1783564322	1.5	
-3815011104	The Rogue Harbour	dgr	MATCH	0	51x33	29788428	29788428	3.7	first draw-stage not OK: conn; first mismatch: sim 0x1420f8fc1 sub_1420F8F20 connection points: draw(#cells) before the hidden shuffle draw(7) = 5 [word 794] subgraph 0 connection points: draw(#cells) vs log 0x1420f8fc1 draw(5) = 1
-2517423936	Jungle Valley	tgr	PARTIAL			2389117685		2.3	room tiles 109/109; junction records 0/0; edge tiles 6/18; unknown picks 5 (0 long/absent); key misses 5
-4235195259	Radiant Pools	tgr	ERROR			1972897786		4.2	RuntimeError: Could not permute edges: 6 @ permute.py:269 permute
-116557108	The Maven's Crucible	dgr	MATCH	0	23x23	376005750	376005750	1.1	
-3932179557	Jungle Valley	tgr	PARTIAL			2492001220		2.3	room tiles 109/109; junction records 0/0; edge tiles 22/24; unknown picks 6 (0 long/absent); key misses 6
-981161130	Toxic Sewer	dgr	MATCH	0	90x54	1900971271	1900971271	4.1	
-4050901675	Walled-off Ducts	dgr	MATCH	0	39x39	751549791	751549791	2.8	
-2593937312	Summit	tgr	PARTIAL			421532764		1.3	room tiles 168/168; junction records 3/3; edge tiles 58/120; unknown picks 72 (2 long/absent); key misses 62
-2019203703	Concealed Caldarium	dgr	MATCH	0	45x45	2892263819	2892263819	2.9	
-4142920631	Strand	tgr	ERROR			3517004770		1.8	RuntimeError: Failed to tilise the non-virtual node 2 (587, 572) @ edge_sim.py:1688 setup
-4118998225	Remote Gulch	tgr	PARTIAL			3368811495		1.7	room tiles 24/24; junction records 0/0; edge tiles 16/20
-1060729283	Forbidden Woods	tgr	PARTIAL			2837225922		1.2	room tiles 77/77; junction records 0/0; edge tiles 1/1; unknown picks 14 (0 long/absent); key misses 14; tiliser Could not tilise edge 1
-1566349468	Frozen Springs	tgr	PARTIAL			1747304251		2.2	room tiles 41/41; junction records 0/0; edge tiles 35/42; unknown picks 8 (4 long/absent); key misses 4
-1106525635	Atoll	tgr	PARTIAL			3590417379		2.0	room tiles 80/80; junction records 0/0; edge tiles 6/12; unknown picks 65 (3 long/absent); key misses 42; tiliser Could not tilise edge 4b
-1123178038	Atoll	tgr	PARTIAL			3296850935		1.9	room tiles 82/82; junction records 0/0; edge tiles 142/174
-2498641058	Sacred Chambers	dgr	MATCH	0	35x41	3733704378	3733704378	2.7	
-751119365	Fields	tgr	PARTIAL			2827281348		5.0	room tiles 125/125; junction records 3/3; edge tiles 0/0; unknown picks 34 (1 long/absent); key misses 33; tiliser Could not tilise edge 13b
-2168134607	Narrow Ravine	tgr	PARTIAL			2502309106		1.3	room tiles 23/23; junction records 0/0; edge tiles 26/34; unknown picks 2 (0 long/absent); key misses 2
-1718821800	Gardens	dgr	MATCH	0	65x107	2122962622	2122962622	5.8	
-3269368391	Restricted Collection	dgr	MATCH	0	43x49	3008511856	3008511856	2.5	
-1799690092	Mesa	tgr	PARTIAL			1854620790		3.6	room tiles 160/160; junction records 8/8; edge tiles 0/0; tiliser Could not tilise edge 1
-2079222906	Forgotten Conduit	dgr	MATCH	0	39x39	4198497914	4198497914	2.8	
 1226289332	The Sovereign	depths	MATCH	0	36x36	773780497	773780497	2.2	
 2509319032	The Fathomless Depths	depths	MATCH	0	73x36	747978756	747978756	6.9	
 3847890968	The Fathomless Depths	depths	MATCH	0	73x36	2828431921	2828431921	6.8	
 243638817	The Fathomless Depths	depths	MATCH	0	73x36	1568265560	1568265560	7.1	
 3504992970	The Fathomless Depths	depths	MATCH	0	73x36	2359323329	2359323329	7.2	
-2559706743	The Rogue Harbour	dgr	MATCH	0	51x33	2351568962	2351568962	3.9	first draw-stage not OK: conn; first mismatch: sim 0x1420f8fc1 sub_1420F8F20 connection points: draw(#cells) before the hidden shuffle draw(7) = 2 [word 794] subgraph 0 connection points: draw(#cells) vs log 0x1420f8fc1 draw(5) = 1
 3909742991	The Fathomless Depths	depths	MATCH	0	73x36	46413489	46413489	8.1	
 1792791383	The Fathomless Depths	depths	MATCH	0	73x36	1960095278	1960095278	7.6	
 3015506992	The Fathomless Depths	depths	MATCH	0	73x36	544700701	544700701	7.4	
 3025515390	The Fathomless Depths	depths	MATCH	0	73x36	3532073220	3532073220	7.5	
-833761417	Abandoned Dam	dgr	MATCH	0	48x60	828786059	828786059	4.0	
-286957910	Mesa	tgr	PARTIAL			3992954603		3.6	room tiles 150/150; junction records 8/8; edge tiles 0/0; tiliser Could not tilise edge 21
-2655815737	Jungle Valley	tgr	PARTIAL			3922542281		2.2	room tiles 109/109; junction records 0/0; edge tiles 13/22; unknown picks 12 (0 long/absent); key misses 12
-3525015421	Evacuated Quarter	dgr	MATCH	0	90x66	2199749060	2199749060	8.8	
-3707101739	Gambling District	dgr	MATCH	0	27x36	3707032465	3707032465	4.4	
-986383899	Chateau	dgr	MATCH	0	121x79	2167639400	2167639400	10.0	
-2690360315	Concealed Caldarium	dgr	MATCH	0	45x45	2683411530	2683411530	2.8	
-2333347969	The Maven's Crucible	dgr	MATCH	0	23x23	1410155185	1410155185	1.0	
-4122534377	Concealed Caldarium	dgr	MATCH	0	45x45	320616757	320616757	2.9	
-2419044221	Chateau	dgr	MATCH	0	121x79	1242375366	1242375366	10.1	first draw-stage not OK: graph; first mismatch: sim 0x142001ee5 ? draw(2) = 0 [word 208] subgraph 0 graph stage vs log 0x142001ee5 draw(1) = 0
-753533807	Mesa	tgr	PARTIAL			2423700097		3.6	room tiles 150/150; junction records 8/8; edge tiles 0/0; tiliser Could not tilise edge 32
-2779268624	Secluded Canal	dgr	MATCH	0	75x75	3232764123	3232764123	4.5	
-2374171002	Jungle Valley	tgr	PARTIAL			2663885654		2.2	room tiles 109/109; junction records 0/0; edge tiles 25/28; unknown picks 8 (0 long/absent); key misses 8
-2026039744	Inner Grounds	dgr	MATCH	0	45x45	2710676451	2710676451	2.9	
-3529659146	Cold River	tgr	PARTIAL			4095804284		1.5	room tiles 27/27; junction records 5/5; edge tiles 19/41; unknown picks 108 (2 long/absent); key misses 106
-4085888185	Frozen Springs	tgr	PARTIAL			2385851167		2.1	room tiles 41/41; junction records 0/0; edge tiles 43/43; unknown picks 3 (3 long/absent); key misses 0
-1078439965	Toxic Sewer	dgr	MATCH	0	90x54	3346133355	3346133355	4.4	
-429374550	Walled-off Ducts	dgr	MATCH	0	39x39	4058066414	4058066414	2.8	
 2675887027	The Sovereign	depths	MATCH	0	36x36	1604905601	1604905601	2.3	
 3374393392	The Fathomless Depths	depths	MATCH	0	73x36	4291698627	4291698627	7.0	
 4223702414	The Fathomless Depths	depths	MATCH	0	73x36	4021430966	4021430966	7.3	
@@ -495,22 +89,6 @@ seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
 1966167740	The Fathomless Depths	depths	MATCH	0	73x36	803147412	803147412	6.9	
 943029448	The Fathomless Depths	depths	MATCH	0	73x36	3223692684	3223692684	6.6	
 1248763928	The Fathomless Depths	depths	MATCH	0	133x96	396766845	396766845	13.8	first draw-stage not OK: plugin; first mismatch: sim 0x141f2cb29 sub_141F2CC70 cell connection tiling draw(10) = 3 [word 2266] connection (60,48) 1x1 fill for - vs log 0x141f2cb29 draw(0) = 0
-1651634491	Mineral Pools	dgr	MATCH	0	97x149	1071532347	1071532347	9.8	
-1651634491	Mineral Pools	dgr	MATCH	0	71x71	805187908	805187908	8.2	
-981379783	Twisted Inquisitorium	dgr	MATCH	0	49x49	721078866	721078866	1.2	
-667338612	Cemetery	tgr	PARTIAL			2926405623		2.4	room tiles 169/169; junction records 0/0; edge tiles 5/71; unknown picks 127 (5 long/absent); key misses 125
-1707446989	Sealed Repository	dgr	MATCH	0	35x35	1929409072	1929409072	2.3	
-194372022	Courthouse	dgr	MATCH	0	109x73	1390604380	1390604380	4.8	
-4254483596	Forbidden Archives	dgr	MATCH	0	65x59	2484498803	2484498803	2.1	
-2014350626	Mausoleum	dgr	MATCH	0	82x132	3700572141	3700572141	5.8	
-273196747	Deathly Chambers	dgr	MATCH	0	53x49	2864759825	2864759825	3.4	
-3616496347	Terrace	dgr	MATCH	0	180x108	17593417	17593417	14.2	
-3528052988	Terrace	dgr	MATCH	0	180x108	1560755608	1560755608	14.0	
-2927006010	Reclaimed Barracks	dgr	MATCH	0	61x55	2870411700	2870411700	2.4	
-3511758720	The Maven's Crucible	dgr	MATCH	0	23x23	3935734451	3935734451	1.0	
-2461783259	Cold River	tgr	PARTIAL			2355264299		1.7	room tiles 42/42; junction records 4/4; edge tiles 14/27; unknown picks 115 (8 long/absent); key misses 108
-2798779299	Frozen Springs	tgr	PARTIAL			3702221210		2.2	room tiles 41/41; junction records 0/0; edge tiles 20/24; unknown picks 26 (7 long/absent); key misses 19
-4160547218	Mausoleum	dgr	MATCH	0	82x125	1225338081	1225338081	5.5	
 1963355722	The Sovereign	depths	MATCH	0	36x36	2770148117	2770148117	2.3	
 4214777285	The Fathomless Depths	depths	MATCH	0	73x36	2647708921	2647708921	7.2	
 4236742297	The Fathomless Depths	depths	MATCH	0	73x36	391680646	391680646	6.7	
@@ -527,23 +105,6 @@ seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
 4224605470	The Fathomless Depths	depths	MATCH	0	73x36	404651038	404651038	6.7	
 3289868967	The Fathomless Depths	depths	MATCH	0	73x36	1418110029	1418110029	6.5	
 732860075	The Fathomless Depths	depths	MATCH	0	73x36	4108857461	4108857461	6.9	
-3481731429	Cemetery	tgr	PARTIAL			1419242624		2.4	room tiles 169/169; junction records 0/0; edge tiles 3/64; unknown picks 109 (0 long/absent); key misses 109
-1561632758	Concealed Cavity	dgr	MATCH	0	41x37	1930972173	1930972173	2.4	
-3147285680	Crater	dgr	MATCH	0	101x65	1320928540	1320928540	5.7	
-3275409919	Suffocating Fissure	dgr	MATCH	0	53x35	2005272648	2005272648	2.5	
-535932945	City Square	dgr	MATCH	0	111x57	4125834019	4125834019	6.9	first draw-stage not OK: graph; first mismatch: sim 0x14203a96b ? draw(100) = 72 [word 8] subgraph 0 graph stage vs log 0x14203a976 draw(100) = 72
-3362536854	Secluded Canal	dgr	MATCH	0	75x75	2682893456	2682893456	4.6	
-1970395427	The Lightless Hollow	dgr	MATCH	0	33x29	1489079770	1489079770	1.1	
-1739195202	Chateau	tgr	PARTIAL			1858496985		1.9	room tiles 0/0; junction records 0/0; edge tiles 0/0; unknown picks 92 (7 long/absent); key misses 4
-2024579380	Concealed Caldarium	dgr	MATCH	0	45x45	1167527109	1167527109	2.9	
-1979634282	Toxic Sewer	dgr	MATCH	0	90x54	379009076	379009076	4.3	
-4137796371	Walled-off Ducts	dgr	MATCH	0	39x39	3083099172	3083099172	2.7	
-2400607809	Jungle Valley	tgr	PARTIAL			2421854172		2.2	room tiles 109/109; junction records 0/0; edge tiles 21/21; unknown picks 6 (0 long/absent); key misses 6
-342411919	Jungle Valley	tgr	PARTIAL			3460528139		2.2	room tiles 109/109; junction records 0/0; edge tiles 28/28; unknown picks 6 (0 long/absent); key misses 6
-1894945437	Entombed Alcove	dgr	MATCH	0	43x39	3373652613	3373652613	2.4	
-3098943194	Desolate Isle	tgr	PARTIAL			1296146835		1.8	room tiles 37/37; junction records 0/0; edge tiles 3/7; unknown picks 82 (0 long/absent); key misses 51
-3611361445	Dusty Bluff	tgr	PARTIAL			82583748		1.4	room tiles 46/46; junction records 0/0; edge tiles 4/4; unknown picks 64 (2 long/absent); key misses 43
-802035915	Fields	tgr	PARTIAL			2481018057		4.8	room tiles 131/131; junction records 4/4; edge tiles 0/0; tiliser Could not tilise edge 1
 925800751	The Sovereign	depths	MATCH	0	36x36	3247754258	3247754258	2.3	
 1243309253	The Fathomless Depths	depths	MATCH	0	73x36	3480738233	3480738233	6.8	
 1528106960	The Fathomless Depths	depths	MATCH	0	73x36	2768309818	2768309818	6.7	
@@ -552,82 +113,536 @@ seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
 570751863	The Fathomless Depths	depths	MATCH	0	73x36	3158108470	3158108470	6.6	
 4187804940	The Fathomless Depths	depths	MATCH	0	73x36	715676800	715676800	7.7	
 3790876905	The Fathomless Depths	depths	MATCH	0	73x36	2863738919	2863738919	7.2	
-2447353500	The Maven's Crucible	dgr	MATCH	0	23x23	1616186434	1616186434	1.0	
 387284895	The Fathomless Depths	depths	MATCH	0	133x96	2187623842	2187623842	16.2	first draw-stage not OK: plugin; first mismatch: sim 0x141f2cb29 sub_141F2CC70 cell connection tiling draw(143) = 132 [word 1800] connection (15,33) 1x1 fill for - vs log 0x141f2cb29 draw(0) = 0
-418070440	Vaal Temple	dgr	MATCH	0	127x43	1855912491	1855912491	4.4	
-3167883767	Covered-up Hollow	dgr	MATCH	0	43x35	2259042046	2259042046	2.0	
-2166963285	Mesa	tgr	PARTIAL			1137674527		3.6	room tiles 150/150; junction records 8/8; edge tiles 0/0; tiliser Could not tilise edge 21
-2281782615	Secret Laboratory	dgr	MATCH	0	47x47	3047698548	3047698548	2.4	
-1397905649	Crater	dgr	MATCH	0	101x65	920259547	920259547	5.7	
-598767107	Suffocating Fissure	dgr	MATCH	0	53x35	977470896	977470896	2.5	
-3468054408	Cemetery	tgr	ERROR			367962474		2.3	RuntimeError: Could not permute edges: 1 @ permute.py:269 permute
-2707036272	Cold River	tgr	ERROR			3229601297		1.5	RuntimeError: Failed to tilise the non-virtual node 15 (1165, 1234) @ edge_sim.py:1688 setup
-1512938536	Frozen Springs	tgr	PARTIAL			3882260033		2.2	room tiles 41/41; junction records 0/0; edge tiles 45/47; unknown picks 5 (5 long/absent); key misses 0
-3316592085	City Square	dgr	MATCH	0	111x57	1643776927	1643776927	7.0	first draw-stage not OK: graph; first mismatch: sim 0x14203a96b ? draw(100) = 42 [word 10] subgraph 0 graph stage vs log 0x14203a976 draw(100) = 42
-588600166	Sacred Chambers	dgr	MATCH	0	35x41	2720678053	2720678053	2.9	
-329176204	Primordial Pool	dgr	MATCH	0	135x75	2123245014	2123245014	9.1	first draw-stage not OK: graph; first mismatch: sim 0x142001ee5 ? draw(2) = 0 [word 520] subgraph 0 graph stage vs log 0x142001ee5 draw(1) = 0
-1205827358	The Sacred Grove	dgr	MATCH	0	35x35	2579212023	2579212023	2.1	
-379613852	Jungle Valley	tgr	PARTIAL			2573524677		2.2	room tiles 109/109; junction records 0/0; edge tiles 4/18; unknown picks 17 (0 long/absent); key misses 16
-1671344366	Stagnant Canal	dgr	MATCH	0	60x33	2940768109	2940768109	6.0	
-568558881	Cemetery	tgr	PARTIAL			1714997564		2.4	room tiles 169/169; junction records 0/0; edge tiles 8/76; unknown picks 144 (1 long/absent); key misses 144
-3724768265	Forgotten Oubliette	dgr	MATCH	0	35x39	3281176353	3281176353	2.5	
-2304401245	Gardens	dgr	MATCH	0	65x107	3161647020	3161647020	5.9	first draw-stage not OK: graph; first mismatch: sim 0x1420ff7b0 ? draw(6) = 3 [word 312] subgraph 0 graph stage vs log 0x1420ff7b1 draw(6) = 3
-790305214	Radiant Pools	tgr	PARTIAL			2618298528		4.0	room tiles 124/124; junction records 2/2; edge tiles 13/18; unknown picks 62 (15 long/absent); key misses 49
-2213684837	Toxic Sewer	dgr	MATCH	0	90x54	3994663944	3994663944	4.3	
-1786471944	Walled-off Ducts	dgr	MATCH	0	39x39	302579116	302579116	2.8	
-4267353790	Terrace	dgr	MATCH	0	108x180	1931688320	1931688320	14.5	
-151035978	Forbidden Shrine	dgr	MATCH	0	43x43	957983725	957983725	2.9	
-3403455307	Cold River	tgr	PARTIAL			1847271964		1.5	room tiles 23/23; junction records 3/3; edge tiles 0/0; tiliser Could not tilise edge 12
-402312402	Frozen Springs	tgr	PARTIAL			971065510		2.2	room tiles 37/37; junction records 0/0; edge tiles 43/43; unknown picks 3 (3 long/absent); key misses 0
-2096438263	The Maven's Crucible	dgr	MATCH	0	23x23	916640101	916640101	1.0	
-1	Red Queen's Chambers Hideout	dgr	MATCH	0	61x41	1290178186	1290178186	1.9	
-2679271133	The Ravaged Square	dgr	MATCH	0	129x81	252743360	252743360	8.6	
-1411289870	Atoll	tgr	PARTIAL			1404642463		1.9	room tiles 81/81; junction records 0/0; edge tiles 0/0; unknown picks 24 (5 long/absent); key misses 9; tiliser Could not tilise edge 22
-1476196	Forbidden Chamber	dgr	MATCH	0	35x43	413488246	413488246	2.9	
-874624105	Strand	dgr	MATCH	0	159x123	1691200726	1691200726	8.2	
-2523320384	Remote Gulch	tgr	PARTIAL			1399818573		1.7	room tiles 24/24; junction records 0/0; edge tiles 11/14; unknown picks 4 (0 long/absent); key misses 4
 773010722	The Sovereign	depths	MATCH	0	36x36	2969684758	2969684758	2.2	
-2902098637	Marshes	dgr	MATCH	0	123x78	1228535675	1228535675	8.4	first draw-stage not OK: graph; first mismatch: sim 0x142001ee5 ? draw(2) = 1 [word 158] subgraph 0 graph stage vs log 0x142001ee5 draw(1) = 0
-2635082391	Absence of Mercy and Empathy	dgr	MATCH	0	23x23	1360581773	1360581773	1.1	
-3018470774	Grotto	dgr	MATCH	0	103x67	1620491213	1620491213	4.0	
-1672616644	Covered-up Hollow	dgr	MATCH	0	43x35	4134982330	4134982330	2.1	
-1	Crucible Hideout	dgr	MATCH	0	23x23	2721929038	2721929038	1.1	
-4052074762	The Mud Flats	tgr	PARTIAL			2341102583		2.6	room tiles 63/63; junction records 5/5; edge tiles 20/36; unknown picks 93 (12 long/absent); key misses 76
-4265404066	The Coast	tgr	PARTIAL			175853767		3.1	room tiles 96/96; junction records 3/3; edge tiles 82/88; unknown picks 14 (8 long/absent); key misses 6
-1	Divided Hideout	dgr	MATCH	0	37x19	3637974513	3637974513	3.8	
-4267639713	Estuary	tgr	PARTIAL			1741927675		4.7	room tiles 202/202; junction records 2/2; edge tiles 0/0; tiliser Could not tilise edge 13b
-3226495440	The Ravaged Square	dgr	MATCH	0	129x81	75913488	75913488	8.3	
-2476432288	Estuary	tgr	PARTIAL			4137020424		4.7	room tiles 202/202; junction records 2/2; edge tiles 0/0; tiliser Could not tilise edge 13b
-2761084161	Cells	dgr	MATCH	0	95x51	3828410441	3828410441	2.9	
-269124998	The Ravaged Square	dgr	MATCH	0	129x81	1754012069	1754012069	8.3	
-456096832	Estuary	tgr	PARTIAL			1269552117		4.8	room tiles 143/143; junction records 2/2; edge tiles 6/8; unknown picks 109 (23 long/absent); key misses 69
-165779743	Estuary	tgr	PARTIAL			142059119		4.8	room tiles 202/202; junction records 2/2; edge tiles 0/0; tiliser Could not tilise edge 13b
-1283180947	Dunes	tgr	PARTIAL			3427002475		2.3	room tiles 50/50; junction records 2/2; edge tiles 52/103; unknown picks 33 (1 long/absent); key misses 33
-537310253	Dunes	tgr	PARTIAL			2258690707		2.3	room tiles 50/50; junction records 2/2; edge tiles 62/140; unknown picks 7 (0 long/absent); key misses 7
-1428594699	Dunes	tgr	PARTIAL			146448142		2.2	room tiles 50/50; junction records 2/2; edge tiles 50/127; unknown picks 10 (0 long/absent); key misses 10
-3437885341	Dunes	tgr	PARTIAL			1961697091		2.2	room tiles 50/50; junction records 2/2; edge tiles 50/121; unknown picks 21 (1 long/absent); key misses 21
-1347238901	Aspirants' Plaza	dgr	MATCH	0	31x31	707927833	707927833	6.1	
-555866260	Estate Walkways	dgr	MATCH	0	85x73	3232034661	3232034661	8.9	
-176497496	Sepulchre Halls	dgr	MATCH	0	47x47	713805579	713805579	2.6	
-3645655574	Aspirant's Trial	dgr	MATCH	0	25x49	3009683851	3009683851	4.6	
-1996100147	Sepulchre Passage	dgr	MATCH	0	51x47	4029338814	4029338814	2.7	
-631359696	Estate Crossing	dgr	MATCH	0	67x85	3502877626	3502877626	18.7	
-1636161110	Aspirants' Plaza	dgr	MATCH	0	31x31	3795194675	3795194675	15.5	
-1364511444	Estate Path	dgr	MATCH	0	85x73	3419424652	3419424652	18.5	
-3942893736	Aspirant's Trial	dgr	MATCH	0	25x49	1936265177	1936265177	4.8	
-3686573528	Sepulchre Halls	dgr	MATCH	0	47x47	1662100447	1662100447	2.8	
-3403413305	Aspirant's Trial	dgr	MATCH	0	25x49	1881048960	1881048960	13.1	
-2620698274	Mansion Halls	dgr	MATCH	0	73x65	1051859051	1051859051	15.7	
-2466154093	Aspirants' Plaza	dgr	MATCH	0	31x31	1549002598	1549002598	16.4	
-1214374300	Estate Path	dgr	MATCH	0	85x73	1612693058	1612693058	20.3	
-2170119655	Aspirant's Trial	dgr	MATCH	0	25x49	1546060752	1546060752	14.4	
-3150672577	Sepulchre Halls	dgr	MATCH	0	47x47	3455819947	3455819947	2.6	
-2606476765	Aspirant's Trial	dgr	MATCH	0	25x49	2450405639	2450405639	4.5	
-3308311107	Mansion Halls	dgr	MATCH	0	73x65	3730018705	3730018705	6.4	
-3541525524	Estate Crossing	dgr	MATCH	0	67x85	691855043	691855043	9.6	
-3474916714	Aspirant's Trial	dgr	MATCH	0	49x57	4213449499	4213449499	5.4	
-3386404660	Dunes	tgr	PARTIAL			1888330494		2.1	room tiles 50/50; junction records 2/2; edge tiles 56/129; unknown picks 12 (1 long/absent); key misses 11
-1237321042	Promenade	dgr	MATCH	0	162x78	4118397030	4118397030	11.9	
+2818139909	The Western Forest	tgr	PARTIAL			3337390678		12.5	fill tiles 85/1345; room tiles 116/116; junction records 2/2; edge tiles 35/79; unknown picks 213 (12 long/absent); key misses 185
+407489641	The Wetlands	tgr	PARTIAL			534786920		13.8	fill tiles 1/49; room tiles 122/122; junction records 2/2; edge tiles 0/0; unknown picks 36 (0 long/absent); key misses 28; tiliser Could not tilise edge 18b
+1878280121	Atoll	tgr	PARTIAL			2168707350		9.0	fill tiles 80/2382; room tiles 81/81; junction records 0/0; edge tiles 5/9; unknown picks 6 (0 long/absent); key misses 6; tiliser Could not tilise edge 13b
+2310821503	Atoll	tgr	PARTIAL			2803321911		9.0	fill tiles 139/1320; room tiles 83/83; junction records 0/0; edge tiles 171/172; unknown picks 4 (0 long/absent); key misses 4
+2969939979	Remote Gulch	tgr	PARTIAL			2429684383		6.4	fill tiles 6/86; room tiles 24/24; junction records 0/0; edge tiles 17/18
+4021489705	Kaom's Dream	tgr	NOINST			3075838719		0.0	no outdoor instance for this seed (index status: generator failed)
+808855001	Kaom's Stronghold	tgr	NOINST			3087778686		0.0	no outdoor instance for this seed (index status: generator failed)
+1853619251	The Ascent	tgr	ERROR			1533087404		3.7	RuntimeError: Could not permute edges: 11, 12, 25, 26 @ permute.py:269 permute
+556721298	The Ledge	tgr	PARTIAL			216717887		7.7	fill tiles 14/790; room tiles 68/68; junction records 0/0; edge tiles 0/0; unknown picks 12 (0 long/absent); key misses 7; tiliser Could not tilise edge 5
+1800507917	The Climb	tgr	ERROR			2341871594		4.6	RuntimeError: Could not permute edges: 2 @ permute.py:269 permute
+2130982566	The Climb	tgr	PARTIAL			806503697		5.9	fill tiles 48/488; room tiles 67/67; junction records 2/2; edge tiles 60/61; unknown picks 9 (0 long/absent); key misses 9
+1475174401	Prisoner's Gate	tgr	PARTIAL			1086046921		12.2	overlay tiles 0/0; tile heights 24/95; fill tiles 4/33; room tiles 59/59; junction records 0/0; edge tiles 0/0; unknown picks 201 (168 long/absent); key misses 25; tiliser Could not tilise edge 19b
+2683172332	The Ship Graveyard	tgr	NOINST			694397120		0.0	no outdoor instance for this seed (index status: generator failed)
+2479631266	The Southern Forest	tgr	ERROR			3716329429		4.8	RuntimeError: Could not permute edges: 11 @ permute.py:269 permute
+947348485	The Old Fields	tgr	PARTIAL			229464661		14.7	fill tiles 36/2108; room tiles 144/144; junction records 6/6; edge tiles 11/20; unknown picks 20 (0 long/absent); key misses 19; tiliser Could not tilise edge 7
+1018383981	The Crossroads	tgr	PARTIAL			2003188477		14.2	fill tiles 131/1318; room tiles 135/135; junction records 6/6; edge tiles 61/150; unknown picks 214 (7 long/absent); key misses 188
+3113180255	The Broken Bridge	tgr	PARTIAL			1347971609		12.3	fill tiles 229/3281; room tiles 116/116; junction records 6/6; edge tiles 4/4; unknown picks 99 (7 long/absent); key misses 64; tiliser Could not tilise edge 2b
+4044540761	The Fellshrine Ruins	tgr	PARTIAL			691804038		9.2	fill tiles 0/5; room tiles 145/145; junction records 3/3; edge tiles 0/0; tiliser Could not tilise edge 2b
+2226661651	The Old Fields	tgr	ERROR			4031710147		5.1	RuntimeError: Failed to tilise the non-virtual node 16.s1 (638, 717) @ edge_sim.py:1687 setup
+1008253913	The Riverways	tgr	PARTIAL			1355430214		10.7	fill tiles 6/150; room tiles 187/187; junction records 3/3; edge tiles 25/40; unknown picks 78 (16 long/absent); key misses 58; tiliser Could not tilise edge 8b
+1594771754	The Western Forest	tgr	PARTIAL			3174309766		6.1	fill tiles 62/710; room tiles 129/129; junction records 2/2; edge tiles 47/86; unknown picks 253 (18 long/absent); key misses 207
+2922025329	The Riverways	tgr	PARTIAL			1223104191		8.6	fill tiles 32/5175; room tiles 187/187; junction records 3/3; edge tiles 18/23; unknown picks 131 (27 long/absent); key misses 89; tiliser Could not tilise edge 8
+2797004204	The Wetlands	tgr	PARTIAL			2557214493		8.1	fill tiles 85/1232; room tiles 122/122; junction records 5/5; edge tiles 142/183; unknown picks 15 (0 long/absent); key misses 10
+1519000875	The Riverways	tgr	PARTIAL			736978362		7.3	fill tiles 12/357; room tiles 168/168; junction records 3/3; edge tiles 32/57; unknown picks 201 (12 long/absent); key misses 153; tiliser Could not tilise edge 10
+3907043827	The Northern Forest	tgr	NOINST			2807117195		0.0	no outdoor instance for this seed (index status: generator failed)
+2166854683	The City of Sarn	tgr	NOINST			592359497		0.0	no outdoor instance for this seed (index status: generator failed)
+298619422	Kaom's Dream	tgr	NOINST			2444695433		0.0	no outdoor instance for this seed (index status: generator failed)
+4224061469	Kaom's Stronghold	tgr	NOINST			2847230753		0.0	no outdoor instance for this seed (index status: generator failed)
+2619343703	The Ascent	tgr	PARTIAL			4095770750		3.0	fill tiles 109/1437; room tiles 80/80; junction records 2/2; edge tiles 7/11; unknown picks 213 (8 long/absent); key misses 169
+573879234	The Coast	tgr	PARTIAL			3103396315		6.2	fill tiles 13/3163; room tiles 66/66; junction records 9/9; edge tiles 6/6; tiliser Could not tilise edge 19
+2615028650	The Coast	tgr	PARTIAL			1570894170		6.3	fill tiles 75/755; room tiles 93/93; junction records 5/5; edge tiles 71/74; unknown picks 10 (0 long/absent); key misses 10
+2012248676	The Coast	tgr	PARTIAL			3266985064		10.6	fill tiles 201/1716; room tiles 72/72; junction records 6/6; edge tiles 47/74; unknown picks 3 (0 long/absent); key misses 3
+261715282	The Mud Flats	tgr	ERROR			2322674456		5.0	RuntimeError: Could not permute edges: 5, 18 @ permute.py:269 permute
+1674264912	Radiant Pools	tgr	PARTIAL			3647047670		5.5	fill tiles 11/284; room tiles 102/102; junction records 2/2; edge tiles 15/25; unknown picks 41 (17 long/absent); key misses 21
+1363251047	The Twilight Strand	tgr	PARTIAL			776092988		6.7	overlay tiles 1/8; tile heights 95/95; fill tiles 69/574; room tiles 24/24; junction records 4/4; edge tiles 48/48; unknown picks 6 (4 long/absent); key misses 2
+3684453189	The Coast	tgr	PARTIAL			3709964821		8.0	fill tiles 53/2628; room tiles 71/71; junction records 7/7; edge tiles 3/5; unknown picks 2 (0 long/absent); key misses 2; tiliser Could not tilise edge 2
+1143220754	The Tidal Island	tgr	PARTIAL			3709616832		8.9	fill tiles 58/629; room tiles 23/23; junction records 0/0; edge tiles 11/27; unknown picks 46 (0 long/absent); key misses 19
+1000094353	The Ridge	tgr	PARTIAL			1335019800		6.5	fill tiles 42/694; room tiles 85/85; junction records 0/0; edge tiles 56/123; unknown picks 38 (3 long/absent); key misses 29
+1594593724	Prisoner's Gate	tgr	ERROR			2594050326		3.4	RuntimeError: Could not permute edges: 0, 14 @ permute.py:269 permute
+2946423389	The Western Forest	tgr	PARTIAL			1577687285		8.8	fill tiles 95/1301; room tiles 116/116; junction records 2/2; edge tiles 48/110; unknown picks 158 (9 long/absent); key misses 130
+2545505819	The Riverways	tgr	PARTIAL			768176795		11.6	fill tiles 8/94; room tiles 179/179; junction records 3/3; edge tiles 42/65; unknown picks 242 (52 long/absent); key misses 162; tiliser Could not tilise edge 11
+940927949	The Southern Forest	tgr	PARTIAL			534497896		4.9	fill tiles 202/2024; room tiles 229/229; junction records 0/0; edge tiles 43/84; unknown picks 135 (5 long/absent); key misses 102
+2273242513	The Beacon	tgr	NOINST			548745989		0.0	no outdoor instance for this seed (index status: generator failed)
+2951854765	The Brine King's Reef	tgr	PARTIAL			4191511973		7.2	fill tiles 47/2576; room tiles 85/85; junction records 0/0; edge tiles 0/0; tiliser Could not tilise edge 12b
+826909937	Sunken Shingle	tgr	MATCH			1446955763		3.7	fill tiles 74/74; room tiles 20/20; junction records 0/0; edge tiles 34/34
+1617114203	The Broken Bridge	tgr	PARTIAL			1501504445		6.1	fill tiles 199/2194; room tiles 113/113; junction records 4/4; edge tiles 60/114; unknown picks 361 (9 long/absent); key misses 263
+1793766400	The Crossroads	tgr	PARTIAL			1515278809		9.9	fill tiles 116/1420; room tiles 135/135; junction records 6/6; edge tiles 96/125; unknown picks 275 (10 long/absent); key misses 205
+4180396544	The Fellshrine Ruins	tgr	PARTIAL			396502492		7.8	fill tiles 4/175; room tiles 131/131; junction records 2/2; edge tiles 10/27; unknown picks 74 (4 long/absent); key misses 62; tiliser Could not tilise edge 12b
+1449694259	The Ashen Fields	tgr	PARTIAL			3061917637		9.6	fill tiles 105/1093; room tiles 50/50; junction records 2/2; edge tiles 23/49; unknown picks 194 (13 long/absent); key misses 169
+773500154	The Northern Forest	tgr	PARTIAL			3876175309		6.4	fill tiles 18/172; room tiles 78/78; junction records 3/3; edge tiles 23/66; unknown picks 138 (5 long/absent); key misses 112
+701080060	The Northern Forest	tgr	ERROR			1418380221		3.5	RuntimeError: Could not permute edges: 4 @ permute.py:269 permute
+748072072	The Imperial Fields	tgr	PARTIAL			3735547732		13.0	fill tiles 191/4872; room tiles 288/288; junction records 0/0; edge tiles 1/2; unknown picks 12 (2 long/absent); key misses 11; tiliser Could not tilise edge 1
+1550935145	The Descent	tgr	PARTIAL			3145125938		6.0	fill tiles 132/2466; room tiles 55/55; junction records 1/1; edge tiles 4/7; unknown picks 274 (14 long/absent); key misses 174
+3827215630	The Foothills	tgr	PARTIAL			3461867600		11.0	fill tiles 157/4003; room tiles 78/78; junction records 9/9; edge tiles 0/0; tiliser Could not tilise edge 24
+981678077	The Boiling Lake	tgr	ERROR			1779646633		6.2	RuntimeError: Could not permute edges: 7, 9, 10 @ permute.py:269 permute
+3379021372	The Foothills	tgr	PARTIAL			1704573570		7.7	fill tiles 158/3524; room tiles 79/79; junction records 6/6; edge tiles 0/0; tiliser Could not tilise edge 20
+80730307	The Boiling Lake	tgr	ERROR			226452543		4.0	RuntimeError: Could not permute edges: 16 @ permute.py:269 permute
+2057659728	The Oasis	tgr	PARTIAL			4148216990		8.4	fill tiles 141/1441; room tiles 248/248; junction records 4/4; edge tiles 24/62; unknown picks 141 (19 long/absent); key misses 120
+3149224873	Dusty Bluff	tgr	PARTIAL			2748218734		4.6	fill tiles 59/742; room tiles 46/46; junction records 0/0; edge tiles 1/3; unknown picks 67 (3 long/absent); key misses 43
+1653703409	Prisoner's Gate	tgr	ERROR			1531167769		2.1	RuntimeError: Could not permute edges: 0, 14 @ permute.py:269 permute
+3063800985	The Broken Bridge	tgr	PARTIAL			2662979387		5.2	fill tiles 263/2406; room tiles 128/128; junction records 4/4; edge tiles 127/191; unknown picks 10 (0 long/absent); key misses 10
+1327120653	Narrow Ravine	tgr	PARTIAL			673030557		6.3	fill tiles 96/102; room tiles 23/23; junction records 0/0; edge tiles 29/29; unknown picks 2 (0 long/absent); key misses 2
+3285807558	The Riverways	tgr	PARTIAL			1296025244		7.3	fill tiles 3/74; room tiles 180/180; junction records 3/3; edge tiles 16/22; unknown picks 126 (12 long/absent); key misses 78; tiliser Could not tilise edge 30
+3498432223	The Wetlands	tgr	PARTIAL			1386278695		10.9	fill tiles 6/148; room tiles 237/237; junction records 1/1; edge tiles 1/2; unknown picks 19 (0 long/absent); key misses 19; tiliser Could not tilise edge 17b
+2742815401	The Tidal Island	tgr	PARTIAL			746164926		6.1	fill tiles 54/960; room tiles 14/14; junction records 0/0; edge tiles 15/21; unknown picks 19 (0 long/absent); key misses 14; tiliser Could not tilise edge 1
+2445327803	The Ship Graveyard	tgr	NOINST			4282217149		0.0	no outdoor instance for this seed (index status: generator failed)
+3781505654	Fields	tgr	PARTIAL			3038873634		10.1	fill tiles 104/1606; room tiles 125/125; junction records 3/3; edge tiles 0/0; unknown picks 36 (0 long/absent); key misses 36; tiliser Could not tilise edge 18
+3883261409	Cemetery	tgr	PARTIAL			3766429721		10.0	fill tiles 291/2707; room tiles 169/169; junction records 0/0; edge tiles 103/163; unknown picks 4 (0 long/absent); key misses 4
+723013311	Summit	tgr	PARTIAL			3923862688		4.9	fill tiles 86/4302; room tiles 155/155; junction records 4/4; edge tiles 0/0; tiliser Could not tilise edge 21
+1686816115	Bramble Valley	tgr	PARTIAL			2862224438		10.2	overlay tiles 0/0; tile heights 301/411; fill tiles 103/904; room tiles 148/148; junction records 4/4; edge tiles 232/239; unknown picks 20 (0 long/absent); key misses 20
+1055427934	Reef	tgr	PARTIAL			3865248345		5.9	fill tiles 48/2327; room tiles 26/26; junction records 0/0; edge tiles 0/0; tiliser Could not tilise edge 2
+2270359686	Estuary	tgr	PARTIAL			3704644399		15.7	fill tiles 179/1310; room tiles 197/197; junction records 2/2; edge tiles 1/3; unknown picks 127 (33 long/absent); key misses 63
+2063571190	Reef	tgr	PARTIAL			3089955312		4.3	fill tiles 54/2643; room tiles 26/26; junction records 0/0; edge tiles 1/2; unknown picks 76 (22 long/absent); key misses 35; tiliser Could not tilise edge 7
+270326391	Cold River	tgr	PARTIAL			3224415484		7.7	overlay tiles 0/7; tile heights 128/128; fill tiles 59/841; room tiles 23/23; junction records 3/3; edge tiles 12/24; unknown picks 74 (7 long/absent); key misses 70
+2370103968	Frozen Springs	tgr	PARTIAL			971370806		5.9	overlay tiles 0/2; tile heights 79/79; fill tiles 58/414; room tiles 41/41; junction records 0/0; edge tiles 15/24; unknown picks 28 (4 long/absent); key misses 26
+329911341	Arid Lake	tgr	PARTIAL			1510766055		6.2	fill tiles 3/37; room tiles 144/144; junction records 4/4; edge tiles 0/0; unknown picks 52 (21 long/absent); key misses 26; tiliser Could not tilise edge 5
+1495617907	Cemetery	tgr	PARTIAL			475509189		4.8	fill tiles 284/2648; room tiles 169/169; junction records 0/0; edge tiles 18/201; unknown picks 6 (0 long/absent); key misses 6
+3140904827	Desolate Isle	tgr	PARTIAL			1489187650		5.5	fill tiles 51/1068; room tiles 37/37; junction records 0/0; edge tiles 0/3; unknown picks 61 (0 long/absent); key misses 39; tiliser Could not tilise edge 4
+3017036420	Fields	tgr	PARTIAL			1046954483		4.6	fill tiles 21/2848; room tiles 131/131; junction records 4/4; edge tiles 0/0; tiliser Could not tilise edge 1
+119078213	Fields	tgr	PARTIAL			2953990025		5.4	fill tiles 52/2522; room tiles 131/131; junction records 4/4; edge tiles 0/0; unknown picks 35 (3 long/absent); key misses 33; tiliser Could not tilise edge 20
+2517423936	Jungle Valley	tgr	PARTIAL			2389117685		4.8	fill tiles 37/511; room tiles 109/109; junction records 0/0; edge tiles 5/18; unknown picks 5 (0 long/absent); key misses 5
+4235195259	Radiant Pools	tgr	ERROR			1972897786		4.7	RuntimeError: Could not permute edges: 6 @ permute.py:269 permute
+3932179557	Jungle Valley	tgr	PARTIAL			2492001220		5.0	fill tiles 43/550; room tiles 109/109; junction records 0/0; edge tiles 24/24; unknown picks 6 (0 long/absent); key misses 6
+2593937312	Summit	tgr	PARTIAL			421532764		4.1	fill tiles 332/3028; room tiles 168/168; junction records 3/3; edge tiles 56/120; unknown picks 72 (2 long/absent); key misses 62
+4142920631	Strand	tgr	ERROR			3517004770		7.5	RuntimeError: Failed to tilise the non-virtual node 2 (587, 572) @ edge_sim.py:1687 setup
+4118998225	Remote Gulch	tgr	MATCH			3368811495		4.4	fill tiles 112/112; room tiles 24/24; junction records 0/0; edge tiles 20/20
+1060729283	Forbidden Woods	tgr	PARTIAL			2837225922		10.7	overlay tiles 0/12; tile heights 46/46; fill tiles 21/342; room tiles 77/77; junction records 0/0; edge tiles 1/1; unknown picks 11 (0 long/absent); key misses 14; tiliser Could not tilise edge 1
+1566349468	Frozen Springs	tgr	PARTIAL			1747304251		4.7	overlay tiles 2/3; tile heights 84/84; fill tiles 38/442; room tiles 41/41; junction records 0/0; edge tiles 35/42; unknown picks 6 (2 long/absent); key misses 4
+1106525635	Atoll	tgr	PARTIAL			3590417379		5.5	fill tiles 66/2905; room tiles 81/81; junction records 0/0; edge tiles 4/12; unknown picks 65 (3 long/absent); key misses 42; tiliser Could not tilise edge 4b
+1123178038	Atoll	tgr	PARTIAL			3296850935		2.4	fill tiles 129/1347; room tiles 83/83; junction records 0/0; edge tiles 174/174
+751119365	Fields	tgr	PARTIAL			2827281348		4.9	fill tiles 48/2532; room tiles 125/125; junction records 3/3; edge tiles 0/0; unknown picks 34 (1 long/absent); key misses 33; tiliser Could not tilise edge 13b
+2168134607	Narrow Ravine	tgr	PARTIAL			2502309106		2.8	fill tiles 105/111; room tiles 23/23; junction records 0/0; edge tiles 34/34; unknown picks 2 (0 long/absent); key misses 2
+1799690092	Mesa	tgr	PARTIAL			1854620790		8.2	fill tiles 55/1728; room tiles 160/160; junction records 8/8; edge tiles 0/0; tiliser Could not tilise edge 1
+286957910	Mesa	tgr	PARTIAL			3992954603		5.6	fill tiles 45/2053; room tiles 150/150; junction records 8/8; edge tiles 0/0; tiliser Could not tilise edge 21
+2655815737	Jungle Valley	tgr	PARTIAL			3922542281		3.1	fill tiles 46/445; room tiles 109/109; junction records 0/0; edge tiles 12/22; unknown picks 12 (0 long/absent); key misses 12
+753533807	Mesa	tgr	PARTIAL			2423700097		6.1	fill tiles 57/1982; room tiles 150/150; junction records 8/8; edge tiles 0/0; tiliser Could not tilise edge 32
+2374171002	Jungle Valley	tgr	PARTIAL			2663885654		6.4	fill tiles 48/524; room tiles 109/109; junction records 0/0; edge tiles 28/28; unknown picks 8 (0 long/absent); key misses 8
+3529659146	Cold River	tgr	PARTIAL			4095804284		5.0	overlay tiles 0/4; tile heights 177/177; fill tiles 62/633; room tiles 27/27; junction records 5/5; edge tiles 21/41; unknown picks 103 (2 long/absent); key misses 106
+4085888185	Frozen Springs	tgr	PARTIAL			2385851167		3.0	overlay tiles 1/3; tile heights 80/80; fill tiles 23/362; room tiles 41/41; junction records 0/0; edge tiles 43/43; unknown picks 2 (2 long/absent); key misses 0
+667338612	Cemetery	tgr	PARTIAL			2926405623		2.5	fill tiles 321/2684; room tiles 169/169; junction records 0/0; edge tiles 5/71; unknown picks 127 (5 long/absent); key misses 125
+2461783259	Cold River	tgr	PARTIAL			2355264299		4.0	overlay tiles 0/1; tile heights 177/177; fill tiles 42/762; room tiles 42/42; junction records 4/4; edge tiles 14/27; unknown picks 108 (7 long/absent); key misses 108
+2798779299	Frozen Springs	tgr	PARTIAL			3702221210		4.6	overlay tiles 0/5; tile heights 81/81; fill tiles 27/378; room tiles 41/41; junction records 0/0; edge tiles 20/24; unknown picks 23 (7 long/absent); key misses 19
+3481731429	Cemetery	tgr	PARTIAL			1419242624		4.1	fill tiles 303/2619; room tiles 169/169; junction records 0/0; edge tiles 3/64; unknown picks 109 (0 long/absent); key misses 109
+1739195202	Chateau	tgr	PARTIAL			1858496985		4.5	overlay tiles 0/0; tile heights 81/81; fill tiles 0/18; room tiles 0/0; junction records 0/0; edge tiles 0/0; unknown picks 91 (7 long/absent); key misses 4
+2400607809	Jungle Valley	tgr	PARTIAL			2421854172		3.1	fill tiles 55/486; room tiles 109/109; junction records 0/0; edge tiles 21/21; unknown picks 6 (0 long/absent); key misses 6
+342411919	Jungle Valley	tgr	PARTIAL			3460528139		3.1	fill tiles 70/769; room tiles 109/109; junction records 0/0; edge tiles 28/28; unknown picks 6 (0 long/absent); key misses 6
+3098943194	Desolate Isle	tgr	PARTIAL			1296146835		4.1	fill tiles 51/712; room tiles 37/37; junction records 0/0; edge tiles 3/7; unknown picks 82 (0 long/absent); key misses 51
+3611361445	Dusty Bluff	tgr	PARTIAL			82583748		4.0	fill tiles 46/770; room tiles 46/46; junction records 0/0; edge tiles 4/4; unknown picks 64 (2 long/absent); key misses 43
+802035915	Fields	tgr	PARTIAL			2481018057		5.5	fill tiles 108/2761; room tiles 131/131; junction records 4/4; edge tiles 0/0; tiliser Could not tilise edge 1
+2166963285	Mesa	tgr	PARTIAL			1137674527		4.9	fill tiles 56/1938; room tiles 150/150; junction records 8/8; edge tiles 0/0; tiliser Could not tilise edge 21
+3468054408	Cemetery	tgr	ERROR			367962474		1.9	RuntimeError: Could not permute edges: 1 @ permute.py:269 permute
+2707036272	Cold River	tgr	ERROR			3229601297		1.6	RuntimeError: Failed to tilise the non-virtual node 15 (1165, 1234) @ edge_sim.py:1687 setup
+1512938536	Frozen Springs	tgr	PARTIAL			3882260033		5.1	overlay tiles 0/4; tile heights 88/88; fill tiles 42/464; room tiles 41/41; junction records 0/0; edge tiles 46/47; unknown picks 4 (4 long/absent); key misses 0
+379613852	Jungle Valley	tgr	PARTIAL			2573524677		5.1	fill tiles 37/442; room tiles 109/109; junction records 0/0; edge tiles 4/18; unknown picks 17 (0 long/absent); key misses 16
+568558881	Cemetery	tgr	PARTIAL			1714997564		4.0	fill tiles 300/2579; room tiles 169/169; junction records 0/0; edge tiles 8/76; unknown picks 144 (1 long/absent); key misses 144
+790305214	Radiant Pools	tgr	PARTIAL			2618298528		5.7	fill tiles 20/253; room tiles 124/124; junction records 2/2; edge tiles 11/18; unknown picks 62 (15 long/absent); key misses 49
+3403455307	Cold River	tgr	PARTIAL			1847271964		4.9	overlay tiles 0/0; tile heights 25/25; fill tiles 8/166; room tiles 23/23; junction records 3/3; edge tiles 0/0; tiliser Could not tilise edge 12
+402312402	Frozen Springs	tgr	PARTIAL			971065510		3.4	overlay tiles 0/3; tile heights 81/81; fill tiles 18/410; room tiles 37/37; junction records 0/0; edge tiles 43/43; unknown picks 3 (3 long/absent); key misses 0
+1411289870	Atoll	tgr	PARTIAL			1404642463		3.4	fill tiles 30/1565; room tiles 81/81; junction records 0/0; edge tiles 0/0; unknown picks 24 (5 long/absent); key misses 9; tiliser Could not tilise edge 22
+2523320384	Remote Gulch	tgr	PARTIAL			1399818573		3.3	fill tiles 111/111; room tiles 24/24; junction records 0/0; edge tiles 14/14; unknown picks 4 (0 long/absent); key misses 4
+4052074762	The Mud Flats	tgr	PARTIAL			2341102583		9.1	fill tiles 48/405; room tiles 63/63; junction records 5/5; edge tiles 23/36; unknown picks 93 (12 long/absent); key misses 76
+4265404066	The Coast	tgr	PARTIAL			175853767		6.8	overlay tiles 4/4; tile heights 246/246; fill tiles 137/1261; room tiles 96/96; junction records 3/3; edge tiles 85/88; unknown picks 6 (0 long/absent); key misses 6
+4267639713	Estuary	tgr	PARTIAL			1741927675		5.8	fill tiles 152/1400; room tiles 202/202; junction records 2/2; edge tiles 4/7; unknown picks 113 (32 long/absent); key misses 52
+2476432288	Estuary	tgr	PARTIAL			4137020424		5.9	fill tiles 150/1383; room tiles 202/202; junction records 2/2; edge tiles 1/1; unknown picks 130 (35 long/absent); key misses 69
+456096832	Estuary	tgr	PARTIAL			1269552117		7.9	fill tiles 147/1440; room tiles 143/143; junction records 2/2; edge tiles 4/8; unknown picks 109 (22 long/absent); key misses 69
+165779743	Estuary	tgr	PARTIAL			142059119		6.5	fill tiles 193/1388; room tiles 202/202; junction records 2/2; edge tiles 5/6; unknown picks 109 (25 long/absent); key misses 67
+1283180947	Dunes	tgr	PARTIAL			3427002475		4.2	fill tiles 45/570; room tiles 50/50; junction records 2/2; edge tiles 49/103; unknown picks 33 (1 long/absent); key misses 33
+537310253	Dunes	tgr	PARTIAL			2258690707		3.5	fill tiles 52/594; room tiles 50/50; junction records 2/2; edge tiles 64/140; unknown picks 7 (0 long/absent); key misses 7
+1428594699	Dunes	tgr	PARTIAL			146448142		3.0	fill tiles 52/605; room tiles 50/50; junction records 2/2; edge tiles 53/127; unknown picks 10 (0 long/absent); key misses 10
+3437885341	Dunes	tgr	PARTIAL			1961697091		2.8	fill tiles 60/567; room tiles 50/50; junction records 2/2; edge tiles 48/121; unknown picks 21 (1 long/absent); key misses 21
+3386404660	Dunes	tgr	PARTIAL			1888330494		3.1	fill tiles 54/628; room tiles 50/50; junction records 2/2; edge tiles 52/129; unknown picks 12 (1 long/absent); key misses 11
+4204881227	The Coast	tgr	MATCH			2417950238		6.2	overlay tiles 1/1; tile heights 233/233; fill tiles 1364/1364; room tiles 96/96; junction records 3/3; edge tiles 84/84
+1	Coral Hideout	dgr	MATCH	0	71x71	805187908	805187908	9.2	
+1	Karui Shores	dgr	MATCH	0	81x54	2815062652	2815062652	13.2	
+1	The Forest Encampment	dgr	MATCH	0	21x29	3884967862	3884967862	6.3	
+1313028449	The Crypt Level 1	dgr	MATCH	0	59x59	1157800364	1157800364	4.9	
+2870800707	The Crypt Level 2	dgr	MATCH	0	59x59	69030426	69030426	4.7	
+2578194133	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	2891150790	2891150790	4.4	
+3761032693	The Chamber of Sins Level 2	dgr	MATCH	0	65x83	2022733049	2022733049	4.5	
+469932766	The Submerged Passage	dgr	MATCH	0	65x49	240112645	240112645	7.9	
+191589194	The Flooded Depths	dgr	MATCH	0	45x45	2222667986	2222667986	4.7	
+1	Lioneye's Watch	dgr	MATCH	0	30x18	1139181677	1139181677	5.3	
+1920541619	The Lower Prison	dgr	MATCH	0	59x43	1651551080	1651551080	4.9	
+742553449	The Upper Prison	dgr	MATCH	0	125x55	3917393174	3917393174	5.9	
+2039359877	The Weaver's Chambers	dgr	MATCH	0	47x51	817362184	817362184	3.5	
+3517148271	The Vaal Ruins	dgr	MATCH	0	67x67	2940475866	2940475866	6.8	
+1929370058	The Caverns	dgr	MATCH	0	71x63	4054197555	4054197555	7.6	
+612200276	The Ancient Pyramid	dgr	MATCH	0	111x39	2043394585	2043394585	6.7	
+1412296438	Atoll	dgr	ERROR			1253442074		3.7	RuntimeError: No possible rooms found for room at (0, 36) with type "entrance" @ dungeon_graph.py:1187 place_typed
+1123901509	Side Chapel	dgr	MATCH	0	79x79	3537605935	3537605935	6.5	
+2263660961	Neglected Cellar	dgr	MATCH	0	39x30	4044548570	4044548570	4.1	
+3330632830	The Reliquary	dgr	MATCH	0	61x67	2900745617	2900745617	6.8	
+2778897016	Evacuated Quarter	dgr	MATCH	0	66x90	3645364594	3645364594	11.9	
+3733581862	Grotto	dgr	MATCH	0	103x67	838396737	838396737	7.3	
+2621831292	Strand	dgr	MATCH	0	93x147	4257126006	4257126006	9.8	
+1224335210	Plaza	dgr	CELLS	1703	63x129	2284832134	3571197073	15.5	first draw-stage not OK: overlap; first mismatch: sim 0x1420f6875 sub_1420F5FB0 edge-combination tiling draw(400) = 312 [word 1056] subgraph 0 overlap stage vs log 0x1420f6875 draw(200) = 112
+3088556257	Strange Sinkhole	dgr	MATCH	0	41x37	4228456130	4228456130	4.6	
+1839010650	The Dried Lake	dgr	MATCH	0	54x60	4086432158	4086432158	7.1	
+1	Highgate	dgr	MATCH	0	41x33	3059197251	3059197251	4.9	
+4089459784	The Dried Lake	dgr	MATCH	0	54x78	3799672527	3799672527	5.6	
+1	Cartographer's Hideout	dgr	MATCH	0	31x31	3713433821	3713433821	5.6	
+1	Cosmic Turtle Hideout	dgr	MATCH	0	78x78	2300128614	2300128614	3.3	
+1	Desert Hideout	dgr	MATCH	0	30x30	3903144892	3903144892	7.6	
+1	Skeletal Hideout	dgr	MATCH	0	27x27	3427174740	3427174740	4.8	
+271424479	The Dried Lake	dgr	MATCH	0	54x60	3650255859	3650255859	5.0	
+1910660251	The Mines Level 1	dgr	MATCH	0	49x65	4150859652	4150859652	6.0	
+2405821288	The Mines Level 2	dgr	MATCH	0	57x65	1605729696	1605729696	6.0	
+3347084340	The Crystal Veins	dgr	MATCH	0	57x87	389407264	389407264	7.4	
+1	The Sarn Encampment	dgr	MATCH	0	39x35	1244512620	1244512620	3.0	
+2850793387	Aspirants' Plaza	dgr	MATCH	0	31x31	349488689	349488689	7.6	
+2533087454	Estate Path	dgr	MATCH	0	85x73	2495292827	2495292827	12.8	
+1334335857	Aspirant's Trial	dgr	MATCH	0	25x49	750211733	750211733	8.0	
+3842264324	Basilica Halls	dgr	CELLS	53	65x65	2053571771	2064279259	5.7	
+446294120	Aspirant's Trial	dgr	MATCH	0	25x49	3472233919	3472233919	6.7	
+909720328	Mansion Halls	dgr	MATCH	0	73x65	15549283	15549283	8.8	
+2172888983	Estate Crossing	dgr	MATCH	0	67x85	2091862474	2091862474	10.8	
+3970501215	Aspirant's Trial	dgr	MATCH	0	49x57	3555777409	3555777409	6.0	
+634165571	The Crystal Veins	dgr	MATCH	0	87x65	2177833885	2177833885	5.5	
+3037135357	The Crystal Veins	dgr	MATCH	0	57x87	2211240638	2211240638	5.4	
+3742948269	Daresso's Dream	dgr	MATCH	0	91x82	4073996085	4073996085	8.0	
+1868260667	The Grand Arena	dgr	MATCH	0	91x157	1198174165	1198174165	6.9	
+800997670	The Crystal Veins	dgr	MATCH	0	87x65	2351249093	2351249093	5.3	
+3050197844	The Belly of the Beast Level 1	dgr	MATCH	0	61x77	158355008	158355008	3.6	
+1573602159	The Crystal Veins	dgr	MATCH	0	57x87	4155931109	4155931109	5.6	
+1464712583	The Belly of the Beast Level 1	dgr	MATCH	0	61x77	3306318637	3306318637	2.3	
+880066129	The Belly of the Beast Level 2	dgr	MATCH	0	77x77	605931699	605931699	3.9	
+1250879645	The Harvest	dgr	MATCH	0	93x101	2544826441	2544826441	8.3	
+3441163522	The Aqueduct	dgr	MATCH	0	48x168	1557957727	1557957727	7.0	
+3795107622	The Slave Pens	dgr	MATCH	0	67x73	3199277502	3199277502	5.3	
+1	Overseer's Tower	dgr	MATCH	0	37x31	705703268	705703268	6.6	
+3553902466	The Control Blocks	dgr	MATCH	0	85x85	1651264513	1651264513	6.7	
+2584021816	Aspirants' Plaza	dgr	MATCH	0	31x31	1551230963	1551230963	6.9	
+1697191265	The Control Blocks	dgr	MATCH	0	85x85	3823909229	3823909229	5.5	
+4248805045	The Submerged Passage	dgr	MATCH	0	57x65	3821526790	3821526790	5.0	
+1309195284	The Flooded Depths	dgr	MATCH	0	41x41	573429291	573429291	3.6	
+1	Celestial Hideout	dgr	CELLS	6	55x55	3478684984	2440107777	11.2	first draw-stage not OK: overlap; first mismatch: sim 0x1420f6875 sub_1420F5FB0 edge-combination tiling draw(1) = 0 [word None] subgraph 2 overlap stage vs log 0x1420f6875 draw(4) = 0
+1	Backstreet Hideout	dgr	MATCH	0	33x33	2407509049	2407509049	8.3	
+3284226330	The Lower Prison	dgr	MATCH	0	55x59	1192538762	1192538762	2.7	
+2251881681	The Upper Prison	dgr	MATCH	0	125x55	2204444027	2204444027	4.3	
+1068567250	Monastery of the Keepers	dgr	MATCH	0	30x36	739522572	739522572	3.5	
+2625967781	The Cavern of Wrath	dgr	MATCH	0	69x49	4016286671	4016286671	11.8	
+1891345365	The Cavern of Anger	dgr	MATCH	0	69x61	449445949	449445949	11.8	
+2530695710	The Crypt Level 1	dgr	MATCH	0	59x59	2263762444	2263762444	3.0	
+968431668	The Crypt Level 2	dgr	MATCH	0	59x59	2499091845	2499091845	2.9	
+4191653966	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	1642318018	1642318018	2.9	
+283554011	The Chamber of Sins Level 2	dgr	MATCH	0	71x59	2748572369	2748572369	3.0	
+774439067	The Den	dgr	MATCH	0	59x59	2825555511	2825555511	2.6	
+514194972	The Weaver's Chambers	dgr	MATCH	0	47x47	114173358	114173358	2.2	
+1	Luxurious Hideout	dgr	MATCH	0	27x27	3779661124	3779661124	5.7	
+2385204892	The Vaal Ruins	dgr	MATCH	0	59x75	4064405383	4064405383	3.1	
+2501019992	The Dread Thicket	dgr	MATCH	0	81x39	4035435092	4035435092	14.9	
+3420277925	The Caverns	dgr	MATCH	0	63x63	2199474282	2199474282	9.1	
+2286220489	The Ancient Pyramid	dgr	MATCH	0	111x39	4066457169	4066457169	9.1	
+4131175462	The Slums	dgr	CELLS	1245	81x69	2488184710	488850942	14.6	first draw-stage not OK: fill; first mismatch: sim 0x141febd7f ? draw(409) = 61 [word 5248] subgraph 0 fill cell (24,54) city_ground.gt vs log 0x141febf93 draw(300) = 294
+936822562	The Crematorium	dgr	MATCH	0	59x43	2148918050	2148918050	8.4	
+2897425878	The Sewers	dgr	MATCH	0	59x109	3608206696	3608206696	7.8	
+2536577949	The Marketplace	dgr	MATCH	0	63x81	3095624708	3095624708	11.7	
+2402341252	The Battlefront	dgr	MATCH	0	102x72	4196015547	4196015547	13.7	
+3273436718	The Solaris Temple Level 1	dgr	MATCH	0	65x65	1224538654	1224538654	18.3	
+1706325493	The Solaris Temple Level 2	dgr	MATCH	0	105x99	3273443509	3273443509	8.0	
+2253563939	The Marketplace	dgr	MATCH	0	57x81	4126215522	4126215522	9.0	
+3639631365	The Marketplace	dgr	MATCH	0	57x81	3701885475	3701885475	8.8	
+1712038915	The Catacombs	dgr	MATCH	0	59x59	41140647	41140647	4.1	
+3062702846	The Battlefront	dgr	MATCH	0	84x78	1003604186	1003604186	10.9	
+3364277146	The Docks	dgr	MATCH	0	87x77	791632261	791632261	9.3	
+1555985664	The Solaris Temple Level 2	dgr	MATCH	0	111x87	559975316	559975316	5.7	
+3203442564	The Sewers	dgr	MATCH	0	59x109	568037625	568037625	4.9	
+2855540965	The Ebony Barracks	dgr	MATCH	0	75x120	2512417395	2512417395	10.6	
+1571611194	The Lunaris Temple Level 1	dgr	MATCH	0	55x109	446747484	446747484	11.8	
+3858230140	The Lunaris Temple Level 2	dgr	CELLS	5799	71x173	477534427	2804176961	10.4	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(320) = 210 [word 2111] ledge_walkway_1.arm o3 at (32,104) vs log 0x1420efc0c draw(200) = 170
+2351266055	The Lunaris Temple Level 1	dgr	MATCH	0	55x109	3251821080	3251821080	9.7	
+1144347631	The Ebony Barracks	dgr	MATCH	0	75x120	2879092417	2879092417	9.7	
+1067921378	The Imperial Gardens	dgr	MATCH	0	87x93	1447338577	1447338577	13.0	
+623609042	The Imperial Gardens	dgr	CELLS	6	99x87	3371348297	2669678989	12.5	
+2335162514	The Sceptre of God	dgr	ERROR			2116269406		6.1	RuntimeError: Failed to find room that fits at room 5,4 (1x2 sceptre_exterior_wall_border.et) @ dungeon_graph.py:2033 pick_room
+2000054802	The Upper Sceptre of God	dgr	ERROR			4220530291		4.1	RuntimeError: Failed to find room that fits at room 4,4 (1x2 sceptre_exterior_wall_border.et) @ dungeon_graph.py:2033 pick_room
+2037400561	The Aqueduct	dgr	MATCH	0	48x168	1761958165	1761958165	5.0	
+4172490063	The Docks	dgr	MATCH	0	87x77	4015351991	4015351991	7.5	
+1266525413	The Dried Lake	dgr	MATCH	0	60x66	2117403902	2117403902	4.6	
+1149825838	Abandoned Dam	dgr	MATCH	0	48x60	4240077958	4240077958	4.8	
+3784847736	The Mines Level 1	dgr	MATCH	0	57x65	2709488756	2709488756	3.7	
+1805111026	The Mines Level 1	dgr	MATCH	0	49x65	4227430229	4227430229	3.7	
+301677685	The Mines Level 2	dgr	MATCH	0	57x65	1971905377	1971905377	3.9	
+1934321993	The Mines Level 1	dgr	MATCH	0	57x73	3864297400	3864297400	3.8	
+803169832	The Mines Level 2	dgr	MATCH	0	57x65	3023494141	3023494141	3.8	
+2093007158	The Crystal Veins	dgr	MATCH	0	57x87	1759487534	1759487534	5.0	
+2853070089	The Crystal Veins	dgr	MATCH	0	87x65	3267336992	3267336992	5.7	
+360522370	Daresso's Dream	dgr	MATCH	0	109x82	2726426886	2726426886	6.1	
+737367190	The Grand Arena	dgr	MATCH	0	97x151	2093610799	2093610799	5.1	
+3828488805	The Crystal Veins	dgr	MATCH	0	57x87	3587195174	3587195174	5.1	
+2747912267	The Belly of the Beast Level 1	dgr	MATCH	0	61x77	3024534366	3024534366	2.2	
+3725921790	The Belly of the Beast Level 2	dgr	MATCH	0	61x77	3154621212	3154621212	2.2	
+1724881022	The Harvest	dgr	MATCH	0	93x101	954088109	954088109	6.1	
+3911205585	The Slave Pens	dgr	MATCH	0	67x85	3504192106	3504192106	3.5	
+4289595801	The Control Blocks	dgr	CELLS	1817	85x85	2647497598	3389840595	3.8	first draw-stage not OK: graph; first mismatch: sim 0x1420fd640 ? draw(900) = 479 [word 465] subgraph 0 graph stage vs log 0x1420fd640 draw(2800) = 679
+3191711317	Oriath Square	dgr	MATCH	0	157x81	2748914618	2748914618	13.2	
+2723826775	The Templar Courts	dgr	MATCH	0	77x77	2385234822	2385234822	5.5	
+2558389244	The Chamber of Innocence	dgr	MATCH	0	101x93	97370136	97370136	4.5	
+3674222332	The Chamber of Innocence	dgr	MATCH	0	85x93	1623697606	1623697606	3.6	
+2661217741	The Torched Courts	dgr	MATCH	0	77x77	249720497	249720497	5.0	
+427465413	The Ruined Square	dgr	MATCH	0	157x81	653264300	653264300	11.6	
+2144030410	The Ossuary	dgr	MATCH	0	53x53	2215249136	2215249136	5.7	
+1754240847	The Ruined Square	dgr	MATCH	0	157x81	1025419615	1025419615	10.5	
+3540356521	The Reliquary	dgr	MATCH	0	61x67	3468195324	3468195324	4.1	
+1482223029	The Ruined Square	dgr	MATCH	0	157x81	3907314149	3907314149	10.5	
+2072172649	The Cathedral Rooftop	dgr	MATCH	0	121x157	3324307379	3324307379	9.7	
+1	Lioneye's Watch	dgr	MATCH	0	30x24	2746767467	2746767467	3.5	
+1	Sunspire Hideout	dgr	MATCH	0	39x39	738244828	738244828	5.6	
+1	Synthesis Hideout	dgr	MATCH	0	21x21	4251354619	4251354619	2.0	
+1	Lush Hideout	dgr	MATCH	0	33x33	3482012158	3482012158	7.6	
+3891475801	The Karui Fortress	dgr	MATCH	0	78x51	2368626775	2368626775	8.0	
+1909704826	The Karui Fortress	dgr	MATCH	0	78x51	1066646842	1066646842	7.3	
+3738874253	The Lower Prison	dgr	MATCH	0	43x75	4175847380	4175847380	3.8	
+403574281	The Lower Prison	dgr	MATCH	0	43x75	1540426058	1540426058	3.1	
+4231822657	Shavronne's Tower	dgr	MATCH	0	171x51	4075024961	4075024961	6.3	
+2555187645	Secluded Copse	dgr	MATCH	0	39x31	4254452920	4254452920	3.0	
+599246530	The Cavern of Anger	dgr	MATCH	0	133x71	3650738342	3650738342	13.7	
+2877759920	Secluded Copse	dgr	MATCH	0	39x31	3928051857	3928051857	2.4	
+4024180023	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	2481291711	2481291711	2.8	
+1981184456	The Crypt	dgr	MATCH	0	71x71	2021194995	2021194995	7.2	
+2533715097	Maligaro's Sanctum	dgr	MATCH	0	105x87	314450607	314450607	8.4	
+1607794472	The Chamber of Sins Level 2	dgr	MATCH	0	59x106	1920017863	1920017863	4.7	
+3694988849	The Den	dgr	MATCH	0	59x59	144818764	144818764	3.0	
+2550931616	Covered-up Hollow	dgr	MATCH	0	43x35	1879773356	1879773356	2.6	
+432732553	The Dread Thicket	dgr	MATCH	0	187x47	1883037049	1883037049	6.2	
+783592476	Secluded Copse	dgr	MATCH	0	39x31	1409908282	1409908282	2.4	
+3182851902	The Causeway	dgr	MATCH	0	157x61	3351560268	3351560268	6.4	
+2393322748	The Vaal City	dgr	MATCH	0	78x120	3052310771	3052310771	7.6	
+1011166828	The Temple of Decay Level 1	dgr	MATCH	0	63x115	1242027185	1242027185	7.2	
+1784571183	The Temple of Decay Level 2	dgr	MATCH	0	55x131	4088528523	4088528523	8.6	
+1906049691	The Sarn Ramparts	dgr	CELLS	6091	96x172	3836528409	2995462763	13.2	first draw-stage not OK: fill; first mismatch: sim 0x141febfcf sub_141FEB970 fill draw(8) = 0 [word 16520] subgraph 0 fill cell (69,94) city_slums.gt vs log 0x141fec0ea draw(100) = 68
+1	The Sarn Encampment	dgr	MATCH	0	39x35	3615437189	3615437189	3.0	
+993420394	Aspirants' Plaza	dgr	MATCH	0	31x31	2646271961	2646271961	6.7	
+3795292572	The Toxic Conduits	dgr	MATCH	0	59x168	2881309162	2881309162	8.2	
+1225503678	Doedre's Cesspool	dgr	MATCH	0	69x69	1853879041	1853879041	5.4	
+3233060856	The Toxic Conduits	dgr	MATCH	0	59x168	719177272	719177272	7.7	
+438094231	Walled-off Ducts	dgr	MATCH	0	39x39	4286032062	4286032062	5.2	
+375337592	Doedre's Cesspool	dgr	MATCH	0	69x69	3556033391	3556033391	4.0	
+3974747963	The Quay	dgr	MATCH	0	102x126	3003177446	3003177446	11.3	
+774780952	The Grain Gate	dgr	MATCH	0	78x108	3043379673	3043379673	10.7	
+2432663001	Neglected Cellar	dgr	MATCH	0	39x30	1901156714	1901156714	2.9	
+2556106696	The Solaris Temple Level 1	dgr	MATCH	0	89x77	4102415752	4102415752	18.4	
+464544080	The Solaris Temple Level 2	dgr	MATCH	0	93x93	3976814062	3976814062	6.7	
+1	ExileCon 2023 Hideout	dgr	MATCH	0	44x60	2546197278	2546197278	5.7	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(4) = 0 [word 1] hideout_level2.arm o0 at (6,22) vs log 0x1420efc0c draw(1) = 0
+657210394	The Solaris Temple Level 1	dgr	MATCH	0	89x77	3161500419	3161500419	19.8	
+2210125432	The Solaris Temple Level 2	dgr	MATCH	0	93x93	19476010	19476010	6.6	
+2370636568	Sacred Chambers	dgr	MATCH	0	35x41	3525423438	3525423438	3.6	
+1876677163	The Solaris Concourse	dgr	MATCH	0	78x96	3554542888	3554542888	13.5	
+1068480893	The Harbour Bridge	dgr	MATCH	0	168x96	3417105572	3417105572	9.5	
+2391431120	The Lunaris Concourse	dgr	MATCH	0	75x150	3324198366	3324198366	12.8	
+730588532	The Lunaris Temple Level 1	dgr	MATCH	0	61x229	3512266583	3512266583	14.5	
+1510624776	Moonlit Chambers	dgr	MATCH	0	49x37	784856076	784856076	5.8	
+439290303	The Lunaris Temple Level 2	dgr	CELLS	6454	71x167	2867383623	2157110433	12.1	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(320) = 3 [word 2225] walkway_highway_1.arm o2 at (44,80) vs log 0x1420efc0c draw(200) = 163
+2733731916	The Lunaris Concourse	dgr	MATCH	0	75x150	141873562	141873562	10.9	
+2782365286	The Harbour Bridge	dgr	MATCH	0	168x96	3730713352	3730713352	8.5	
+1877788454	Stagnant Canal	dgr	MATCH	0	60x33	128702675	128702675	6.5	
+896657505	The Blood Aqueduct	dgr	MATCH	0	48x180	3362388430	3362388430	5.7	
+1	Highgate	dgr	MATCH	0	41x33	1434073308	1434073308	3.0	
+2609346257	The Vastiri Desert	dgr	MATCH	0	84x72	1844785887	1844785887	7.0	
+907963433	The Vastiri Desert	dgr	MATCH	0	84x72	369089336	369089336	6.5	
+228834132	The Tunnel	dgr	MATCH	0	73x105	3517079195	3517079195	4.3	
+3998619120	Haunted Mineshaft	dgr	MATCH	0	49x49	2799420866	2799420866	3.7	
+2145317682	The Quarry	dgr	MATCH	0	102x84	2938400564	2938400564	11.6	
+2621271165	The Refinery	dgr	MATCH	0	117x85	354030528	354030528	12.4	
+4240779025	The Quarry	dgr	MATCH	0	102x84	1604473495	1604473495	11.1	
+2043022934	The Belly of the Beast	dgr	MATCH	0	73x103	2932764974	2932764974	3.2	
+780755267	The Rotting Core	dgr	CELLS	5328	141x109	17407324	1979286765	13.6	first draw-stage not OK: graph; first mismatch: sim 0x142102c41 ? draw(840) = 259 [word 197] subgraph 0 graph stage vs log 0x1421029c7 draw(3) = 1
+1	Oriath Docks	dgr	MATCH	0	37x37	3320054456	3320054456	4.2	
+3599178296	The Cathedral Rooftop	dgr	MATCH	0	121x157	2232891092	2232891092	8.3	
+1837405360	Side Chapel	dgr	MATCH	0	79x79	4217226278	4217226278	4.0	
+2139050272	The Ravaged Square	dgr	MATCH	0	129x81	2728443893	2728443893	10.9	
+462968388	The Control Blocks	dgr	MATCH	0	85x85	3509728473	3509728473	6.4	
+1913361106	The Control Blocks	dgr	MATCH	0	91x85	3115849383	3115849383	6.1	
+2181307310	Reclaimed Barracks	dgr	MATCH	0	61x55	3454844210	3454844210	4.5	
+1842674717	The Ravaged Square	dgr	MATCH	0	129x81	252435474	252435474	10.1	
+1595576018	The Ossuary	dgr	MATCH	0	110x82	863241202	863241202	10.0	
+4152842669	The Reliquary	dgr	MATCH	0	61x67	2719794227	2719794227	4.5	
+2219835840	The Torched Courts	dgr	MATCH	0	77x77	2593344709	2593344709	5.9	
+3685162311	The Desecrated Chambers	dgr	MATCH	0	85x93	53037679	53037679	4.5	
+3321828212	The Ravaged Square	dgr	MATCH	0	217x81	2178349546	2178349546	12.2	
+331904297	The Canals	dgr	MATCH	0	57x135	253417315	253417315	7.6	
+3508426414	The Feeding Trough	dgr	MATCH	0	147x159	131995204	131995204	9.8	
+2124104930	The Quarry	dgr	CELLS	4113	102x114	3013035528	776230929	11.7	first draw-stage not OK: tiliser; first mismatch: sim 0x141fe9a73 sub_141FE89E0 fill room: store pick draw(8) = 4 [word 1657] mission_1.arm o1 at (60,54) ExternalFeature vs log 0x141fe9f09 draw(1) = 0
+559510352	Haunted Mineshaft	dgr	MATCH	0	49x49	2029911990	2029911990	4.1	
+3376791209	The Vastiri Desert	dgr	MATCH	0	84x72	3432629108	3432629108	6.9	
+3536082317	Doedre's Cesspool	dgr	MATCH	0	69x69	945915212	945915212	3.2	
+717193377	The Grand Promenade	dgr	MATCH	0	138x90	757908612	757908612	9.3	
+1263665994	The Bath House	dgr	MATCH	0	91x63	676576427	676576427	6.7	
+1	Glimmerwood Hideout	dgr	MATCH	0	30x30	165724475	165724475	6.5	
+1	Battle-scarred Hideout	dgr	MATCH	0	33x33	2479215559	2479215559	5.5	
+2400635400	Alleyways	dgr	MATCH	0	197x75	1095433766	1095433766	10.5	
+2565914107	Chateau	dgr	MATCH	0	121x79	2907803743	2907803743	10.5	
+1	The Dreadnought Hideout	dgr	CELLS	675	72x48	3576881561	474594840	5.4	first draw-stage not OK: graph; first mismatch: sim 0x14210862e ? draw(3003) = 0 [word 53] subgraph 0 graph stage vs log 0x14210862e draw(4004) = 0
+1	Vast Plains Hideout	dgr	MATCH	0	31x31	2330516475	2330516475	2.2	
+2210596230	The Ravaged Square	dgr	MATCH	0	217x81	1418227854	1418227854	10.8	
+286111229	Aspirants' Plaza	dgr	MATCH	0	31x31	2256494012	2256494012	6.3	
+2579957462	Estate Path	dgr	MATCH	0	85x73	3541621928	3541621928	8.6	
+2866914294	Aspirant's Trial	dgr	MATCH	0	25x49	2929733642	2929733642	4.9	
+2555006977	Sanitorium Halls	dgr	MATCH	0	47x47	297879765	297879765	5.5	
+417028868	Aspirant's Trial	dgr	MATCH	0	25x49	2206223273	2206223273	4.9	
+3831569174	Mansion Halls	dgr	MATCH	0	73x65	102232560	102232560	6.0	
+609657111	Estate Crossing	dgr	MATCH	0	67x85	1636822132	1636822132	8.6	
+4117083578	Aspirant's Trial	dgr	MATCH	0	49x57	1844463951	1844463951	5.1	
+1426617778	Aspirants' Plaza	dgr	MATCH	0	31x31	2279280259	2279280259	6.3	
+3103363698	Estate Walkways	dgr	MATCH	0	85x73	1995255546	1995255546	8.8	
+2291623195	Domain Walkways	dgr	CELLS	1115	87x81	1395951277	1857570258	10.5	first draw-stage not OK: overlap; first mismatch: sim 0x1420f6875 sub_1420F5FB0 edge-combination tiling draw(400) = 90 [word 895] subgraph 0 overlap stage vs log 0x1420f6875 draw(200) = 90
+4234693681	Sanitorium Halls	dgr	MATCH	0	47x47	938147403	938147403	3.6	
+2118311704	Aspirant's Trial	dgr	MATCH	0	25x49	1108902604	1108902604	4.9	
+1449463803	Sanitorium Halls	dgr	MATCH	0	47x47	2748140019	2748140019	3.7	
+259205661	Estate Crossing	dgr	MATCH	0	67x85	4080815929	4080815929	10.7	
+1866444512	Aspirant's Trial	dgr	MATCH	0	49x57	3196040367	3196040367	6.0	
+335384607	Aspirants' Plaza	dgr	MATCH	0	31x31	3903009552	3903009552	8.0	
+2245694802	Estate Path	dgr	MATCH	0	85x73	1775558441	1775558441	11.6	
+1759117330	Aspirant's Trial	dgr	MATCH	0	25x49	1415103873	1415103873	7.4	
+841827259	Mansion Passage	dgr	MATCH	0	65x65	2698971466	2698971466	8.6	
+725554027	Sanitorium Halls	dgr	MATCH	0	47x47	2687346413	2687346413	6.5	
+1467770897	Sanitorium Passage	dgr	MATCH	0	47x47	3939685222	3939685222	5.6	
+2112044984	Aspirant's Trial	dgr	MATCH	0	25x49	409214662	409214662	7.0	
+2604101915	Domain Walkways	dgr	CELLS	1020	87x81	2071139196	3346502181	10.0	first draw-stage not OK: overlap; first mismatch: sim 0x1420f6875 sub_1420F5FB0 edge-combination tiling draw(100) = 14 [word 1104] subgraph 0 overlap stage vs log 0x1420f6875 draw(200) = 14
+3102021708	Sepulchre Halls	dgr	MATCH	0	47x47	2605021167	2605021167	5.9	
+1601677706	Aspirant's Trial	dgr	MATCH	0	49x57	1206592261	1206592261	6.5	
+1	Enigma Hideout	dgr	MATCH	0	24x59	4094111914	4094111914	7.6	
+1689548851	Absence of Patience and Wisdom	dgr	MATCH	0	37x37	2843309688	2843309688	2.2	
+226142710	Syndicate Hideout	dgr	MATCH	0	39x147	347846035	347846035	10.0	
+497910778	Blind Alley	dgr	MATCH	0	42x36	2641150544	2641150544	6.0	
+3221396953	Aspirants' Plaza	dgr	MATCH	0	31x31	70921370	70921370	7.9	
+4177797557	Estate Path	dgr	MATCH	0	85x73	3931653087	3931653087	10.6	
+2874527771	Aspirant's Trial	dgr	MATCH	0	25x49	2513669921	2513669921	5.7	
+53159711	Sepulchre Halls	dgr	MATCH	0	47x47	687179366	687179366	3.7	
+3101912795	Aspirant's Trial	dgr	MATCH	0	25x49	2863147108	2863147108	5.6	
+701672647	Mansion Halls	dgr	MATCH	0	73x65	917673758	917673758	6.8	
+2611254805	Sepulchre Halls	dgr	MATCH	0	47x47	2905834459	2905834459	3.7	
+546547562	Aspirant's Trial	dgr	MATCH	0	49x57	2890614182	2890614182	5.9	
+1	Stately Hideout	dgr	MATCH	0	81x81	3474430180	3474430180	4.5	
+3883261409	Cemetery	dgr	MATCH	0	71x71	805187908	805187908	9.2	
+3563399243	The Reliquary	dgr	MATCH	0	61x67	3672388810	3672388810	3.2	
+3679397741	Laboratory	dgr	MATCH	0	91x79	531660978	531660978	5.7	
+859358621	Park	dgr	MATCH	0	129x111	809705140	809705140	8.5	
+1540545951	Channel	dgr	ERROR			3460125489		4.0	RuntimeError: Failed to find room that fits at room 13,4 (3x1 aqueduct_mission_stub.et) @ dungeon_graph.py:2033 pick_room
+786621611	Cage	dgr	MATCH	0	85x73	3029978660	3029978660	5.0	
+1633638397	Shrine	dgr	CELLS	2913	83x113	1640070569	2469541666	5.3	first draw-stage not OK: tiliser; first mismatch: sim 0x1420efc0c sub_1420EF310+0x8fc tiliser store pick draw(100) = 47 [word 1037] mission_highcells_1.arm o0 at (20,56) vs log 0x1420efc0c draw(200) = 47
+199211361	The Ravaged Square	dgr	MATCH	0	129x81	3286737463	3286737463	9.1	
+3265171705	Bazaar	dgr	MATCH	0	117x45	2347526688	2347526688	8.9	
+1800242187	Bazaar	dgr	MATCH	0	117x51	3243048473	3243048473	8.0	
+2222064771	Frozen Cabins	dgr	MATCH	0	133x97	296323912	296323912	10.5	
+1	Atlas Hideout	dgr	MATCH	0	97x97	288861624	288861624	1.5	
+1	Baleful Hideout	dgr	MATCH	0	28x28	777398370	777398370	3.0	
+512272274	Gambling District	dgr	MATCH	0	27x36	2846838185	2846838185	5.4	
+339456907	City Square	dgr	MATCH	0	105x63	4258197382	4258197382	8.3	first draw-stage not OK: graph; first mismatch: sim 0x14203a96b ? draw(100) = 84 [word 11] subgraph 0 graph stage vs log 0x14203a976 draw(100) = 84
+433005992	Pit	dgr	CELLS	8987	118x91	675934094	2189837542	6.8	first draw-stage not OK: graph; first mismatch: sim 0x142102c41 ? draw(840) = 127 [word 504] subgraph 0 graph stage vs log 0x1421029c7 draw(8) = 7
+1375344497	Absence of Symmetry and Harmony	dgr	MATCH	0	29x25	1776427309	1776427309	1.5	
+1375344497	Absence of Symmetry and Harmony	dgr	MATCH	0	71x71	805187908	805187908	8.7	
+2138817269	Strange Sinkhole	dgr	MATCH	0	41x37	2343995796	2343995796	3.7	
+2268285112	Chateau	dgr	MATCH	0	121x79	3085394455	3085394455	10.5	
+366366530	Concealed Caldarium	dgr	MATCH	0	45x45	2901087526	2901087526	4.0	
+3716754097	Shifting Sands	dgr	MATCH	0	48x60	1788068854	1788068854	5.4	
+2920807985	Repository	dgr	CELLS	2365	109x55	1593811499	1783564322	3.2	
+3815011104	The Rogue Harbour	dgr	MATCH	0	51x33	29788428	29788428	5.1	first draw-stage not OK: conn; first mismatch: sim 0x1420f8fc1 sub_1420F8F20 connection points: draw(#cells) before the hidden shuffle draw(7) = 5 [word 794] subgraph 0 connection points: draw(#cells) vs log 0x1420f8fc1 draw(5) = 1
+116557108	The Maven's Crucible	dgr	MATCH	0	23x23	376005750	376005750	1.5	
+981161130	Toxic Sewer	dgr	MATCH	0	90x54	1900971271	1900971271	7.0	
+4050901675	Walled-off Ducts	dgr	MATCH	0	39x39	751549791	751549791	3.6	
+2019203703	Concealed Caldarium	dgr	MATCH	0	45x45	2892263819	2892263819	3.7	
+2498641058	Sacred Chambers	dgr	MATCH	0	35x41	3733704378	3733704378	3.5	
+1718821800	Gardens	dgr	MATCH	0	65x107	2122962622	2122962622	7.7	
+3269368391	Restricted Collection	dgr	MATCH	0	43x49	3008511856	3008511856	3.5	
+2079222906	Forgotten Conduit	dgr	MATCH	0	39x39	4198497914	4198497914	4.7	
+2559706743	The Rogue Harbour	dgr	MATCH	0	51x33	2351568962	2351568962	5.9	first draw-stage not OK: conn; first mismatch: sim 0x1420f8fc1 sub_1420F8F20 connection points: draw(#cells) before the hidden shuffle draw(7) = 2 [word 794] subgraph 0 connection points: draw(#cells) vs log 0x1420f8fc1 draw(5) = 1
+833761417	Abandoned Dam	dgr	MATCH	0	48x60	828786059	828786059	6.0	
+3525015421	Evacuated Quarter	dgr	MATCH	0	90x66	2199749060	2199749060	11.3	
+3707101739	Gambling District	dgr	MATCH	0	27x36	3707032465	3707032465	6.6	
+986383899	Chateau	dgr	MATCH	0	121x79	2167639400	2167639400	12.5	
+2690360315	Concealed Caldarium	dgr	MATCH	0	45x45	2683411530	2683411530	4.9	
+2333347969	The Maven's Crucible	dgr	MATCH	0	23x23	1410155185	1410155185	1.8	
+4122534377	Concealed Caldarium	dgr	MATCH	0	45x45	320616757	320616757	4.6	
+2419044221	Chateau	dgr	MATCH	0	121x79	1242375366	1242375366	12.4	first draw-stage not OK: graph; first mismatch: sim 0x142001ee5 ? draw(2) = 0 [word 208] subgraph 0 graph stage vs log 0x142001ee5 draw(1) = 0
+2779268624	Secluded Canal	dgr	MATCH	0	75x75	3232764123	3232764123	6.4	
+2026039744	Inner Grounds	dgr	MATCH	0	45x45	2710676451	2710676451	5.2	
+1078439965	Toxic Sewer	dgr	MATCH	0	90x54	3346133355	3346133355	6.1	
+429374550	Walled-off Ducts	dgr	MATCH	0	39x39	4058066414	4058066414	4.2	
+1651634491	Mineral Pools	dgr	MATCH	0	97x149	1071532347	1071532347	14.2	
+1651634491	Mineral Pools	dgr	MATCH	0	71x71	805187908	805187908	11.2	
+981379783	Twisted Inquisitorium	dgr	MATCH	0	49x49	721078866	721078866	3.8	
+1707446989	Sealed Repository	dgr	MATCH	0	35x35	1929409072	1929409072	5.4	
+194372022	Courthouse	dgr	MATCH	0	109x73	1390604380	1390604380	9.4	
+4254483596	Forbidden Archives	dgr	MATCH	0	65x59	2484498803	2484498803	3.6	
+2014350626	Mausoleum	dgr	MATCH	0	82x132	3700572141	3700572141	9.5	
+273196747	Deathly Chambers	dgr	MATCH	0	53x49	2864759825	2864759825	6.9	
+3616496347	Terrace	dgr	MATCH	0	180x108	17593417	17593417	16.4	
+3528052988	Terrace	dgr	MATCH	0	180x108	1560755608	1560755608	15.6	
+2927006010	Reclaimed Barracks	dgr	MATCH	0	61x55	2870411700	2870411700	4.3	
+3511758720	The Maven's Crucible	dgr	MATCH	0	23x23	3935734451	3935734451	1.5	
+4160547218	Mausoleum	dgr	MATCH	0	82x125	1225338081	1225338081	7.1	
+1561632758	Concealed Cavity	dgr	MATCH	0	41x37	1930972173	1930972173	4.2	
+3147285680	Crater	dgr	MATCH	0	101x65	1320928540	1320928540	8.7	
+3275409919	Suffocating Fissure	dgr	MATCH	0	53x35	2005272648	2005272648	5.8	
+535932945	City Square	dgr	MATCH	0	111x57	4125834019	4125834019	8.2	first draw-stage not OK: graph; first mismatch: sim 0x14203a96b ? draw(100) = 72 [word 8] subgraph 0 graph stage vs log 0x14203a976 draw(100) = 72
+3362536854	Secluded Canal	dgr	MATCH	0	75x75	2682893456	2682893456	5.8	
+1970395427	The Lightless Hollow	dgr	MATCH	0	33x29	1489079770	1489079770	1.8	
+2024579380	Concealed Caldarium	dgr	MATCH	0	45x45	1167527109	1167527109	4.1	
+1979634282	Toxic Sewer	dgr	MATCH	0	90x54	379009076	379009076	5.6	
+4137796371	Walled-off Ducts	dgr	MATCH	0	39x39	3083099172	3083099172	4.0	
+1894945437	Entombed Alcove	dgr	MATCH	0	43x39	3373652613	3373652613	3.5	
+2447353500	The Maven's Crucible	dgr	MATCH	0	23x23	1616186434	1616186434	1.5	
+418070440	Vaal Temple	dgr	MATCH	0	127x43	1855912491	1855912491	6.2	
+3167883767	Covered-up Hollow	dgr	MATCH	0	43x35	2259042046	2259042046	2.9	
+2281782615	Secret Laboratory	dgr	MATCH	0	47x47	3047698548	3047698548	3.8	
+1397905649	Crater	dgr	MATCH	0	101x65	920259547	920259547	7.2	
+598767107	Suffocating Fissure	dgr	MATCH	0	53x35	977470896	977470896	3.6	
+3316592085	City Square	dgr	MATCH	0	111x57	1643776927	1643776927	8.3	first draw-stage not OK: graph; first mismatch: sim 0x14203a96b ? draw(100) = 42 [word 10] subgraph 0 graph stage vs log 0x14203a976 draw(100) = 42
+588600166	Sacred Chambers	dgr	MATCH	0	35x41	2720678053	2720678053	4.0	
+329176204	Primordial Pool	dgr	MATCH	0	135x75	2123245014	2123245014	14.9	first draw-stage not OK: graph; first mismatch: sim 0x142001ee5 ? draw(2) = 0 [word 520] subgraph 0 graph stage vs log 0x142001ee5 draw(1) = 0
+1205827358	The Sacred Grove	dgr	MATCH	0	35x35	2579212023	2579212023	2.9	
+1671344366	Stagnant Canal	dgr	MATCH	0	60x33	2940768109	2940768109	7.2	
+3724768265	Forgotten Oubliette	dgr	MATCH	0	35x39	3281176353	3281176353	3.7	
+2304401245	Gardens	dgr	MATCH	0	65x107	3161647020	3161647020	7.3	first draw-stage not OK: graph; first mismatch: sim 0x1420ff7b0 ? draw(6) = 3 [word 312] subgraph 0 graph stage vs log 0x1420ff7b1 draw(6) = 3
+2213684837	Toxic Sewer	dgr	MATCH	0	90x54	3994663944	3994663944	5.8	
+1786471944	Walled-off Ducts	dgr	MATCH	0	39x39	302579116	302579116	4.1	
+4267353790	Terrace	dgr	MATCH	0	108x180	1931688320	1931688320	16.0	
+151035978	Forbidden Shrine	dgr	MATCH	0	43x43	957983725	957983725	4.4	
+2096438263	The Maven's Crucible	dgr	MATCH	0	23x23	916640101	916640101	1.5	
+1	Red Queen's Chambers Hideout	dgr	MATCH	0	61x41	1290178186	1290178186	2.8	
+2679271133	The Ravaged Square	dgr	MATCH	0	129x81	252743360	252743360	9.6	
+1476196	Forbidden Chamber	dgr	MATCH	0	35x43	413488246	413488246	4.2	
+874624105	Strand	dgr	MATCH	0	159x123	1691200726	1691200726	9.1	
+2902098637	Marshes	dgr	MATCH	0	123x78	1228535675	1228535675	11.2	first draw-stage not OK: graph; first mismatch: sim 0x142001ee5 ? draw(2) = 1 [word 158] subgraph 0 graph stage vs log 0x142001ee5 draw(1) = 0
+2635082391	Absence of Mercy and Empathy	dgr	MATCH	0	23x23	1360581773	1360581773	1.6	
+3018470774	Grotto	dgr	MATCH	0	103x67	1620491213	1620491213	5.3	
+1672616644	Covered-up Hollow	dgr	MATCH	0	43x35	4134982330	4134982330	2.7	
+1	Crucible Hideout	dgr	MATCH	0	23x23	2721929038	2721929038	1.3	
+1	Divided Hideout	dgr	MATCH	0	37x19	3637974513	3637974513	8.6	
+3226495440	The Ravaged Square	dgr	MATCH	0	129x81	75913488	75913488	9.5	
+2761084161	Cells	dgr	MATCH	0	95x51	3828410441	3828410441	5.4	
+269124998	The Ravaged Square	dgr	MATCH	0	129x81	1754012069	1754012069	9.6	
+1347238901	Aspirants' Plaza	dgr	MATCH	0	31x31	707927833	707927833	7.5	
+555866260	Estate Walkways	dgr	MATCH	0	85x73	3232034661	3232034661	10.7	
+176497496	Sepulchre Halls	dgr	MATCH	0	47x47	713805579	713805579	4.4	
+3645655574	Aspirant's Trial	dgr	MATCH	0	25x49	3009683851	3009683851	6.0	
+1996100147	Sepulchre Passage	dgr	MATCH	0	51x47	4029338814	4029338814	3.9	
+631359696	Estate Crossing	dgr	MATCH	0	67x85	3502877626	3502877626	10.3	
+1636161110	Aspirants' Plaza	dgr	MATCH	0	31x31	3795194675	3795194675	7.6	
+1364511444	Estate Path	dgr	MATCH	0	85x73	3419424652	3419424652	10.5	
+3942893736	Aspirant's Trial	dgr	MATCH	0	25x49	1936265177	1936265177	6.1	
+3686573528	Sepulchre Halls	dgr	MATCH	0	47x47	1662100447	1662100447	4.0	
+3403413305	Aspirant's Trial	dgr	MATCH	0	25x49	1881048960	1881048960	6.1	
+2620698274	Mansion Halls	dgr	MATCH	0	73x65	1051859051	1051859051	7.3	
+2466154093	Aspirants' Plaza	dgr	MATCH	0	31x31	1549002598	1549002598	7.6	
+1214374300	Estate Path	dgr	MATCH	0	85x73	1612693058	1612693058	10.5	
+2170119655	Aspirant's Trial	dgr	MATCH	0	25x49	1546060752	1546060752	6.1	
+3150672577	Sepulchre Halls	dgr	MATCH	0	47x47	3455819947	3455819947	3.9	
+2606476765	Aspirant's Trial	dgr	MATCH	0	25x49	2450405639	2450405639	6.0	
+3308311107	Mansion Halls	dgr	MATCH	0	73x65	3730018705	3730018705	7.2	
+3541525524	Estate Crossing	dgr	MATCH	0	67x85	691855043	691855043	10.2	
+3474916714	Aspirant's Trial	dgr	MATCH	0	49x57	4213449499	4213449499	6.1	
+1237321042	Promenade	dgr	MATCH	0	162x78	4118397030	4118397030	12.7	
 2533468114	Promenade	dgr	MATCH	0	66x174	2470298141	2470298141	11.6	
-1	Glacial Hideout	dgr	MATCH	0	39x39	2790280494	2790280494	5.1	
-3238478791	Promenade	dgr	CELLS	4271	77x174	3175665475	3805561367	13.5	first draw-stage not OK: fill; first mismatch: sim 0x141fe9a73 sub_141FE89E0 fill room: store pick draw(8) = 7 [word 4506] subgraph 0 fill vs log 0x1420f1d73 draw(1) = 0
+1	Glacial Hideout	dgr	MATCH	0	39x39	2790280494	2790280494	7.2	
+3238478791	Promenade	dgr	CELLS	4271	77x174	3175665475	3805561367	14.2	first draw-stage not OK: fill; first mismatch: sim 0x141fe9a73 sub_141FE89E0 fill room: store pick draw(8) = 7 [word 4506] subgraph 0 fill vs log 0x1420f1d73 draw(1) = 0
+2708883570	Promenade	dgr	MATCH	0	162x66	496375837	496375837	11.1	
+2394956069	Promenade	dgr	MATCH	0	66x174	1239237470	1239237470	11.1	
+1659102598	Promenade	dgr	MATCH	0	78x162	2294550982	2294550982	11.2	
+3581443819	Summit	tgr	PARTIAL			3802853319		3.2	fill tiles 332/3211; room tiles 155/155; junction records 5/5; edge tiles 41/70; unknown picks 145 (1 long/absent); key misses 113
+3602887412	Forbidden Shrine	dgr	MATCH	0	43x43	3241472467	3241472467	15.2	
+638435782	Alleyways	dgr	MATCH	0	145x67	835076978	835076978	20.2	
+1	Celestial Nebula Hideout	dgr	MATCH	0	31x31	2718197086	2718197086	2.0	
+2757276480	Dark Forest	tgr	PARTIAL			1316577692		4.9	fill tiles 31/319; room tiles 214/214; junction records 0/0; edge tiles 2/4; unknown picks 67 (2 long/absent); key misses 61; tiliser Could not tilise edge 1
+3547050619	Blind Alley	dgr	MATCH	0	42x36	1781720798	1781720798	8.0	
+1906316588	Dark Forest	tgr	PARTIAL			2064170609		4.6	fill tiles 0/10; room tiles 214/214; junction records 0/0; edge tiles 10/21; unknown picks 118 (39 long/absent); key misses 73; tiliser Could not tilise edge 5b
+2997931739	Forgotten Gulch	tgr	NOINST			2165212796		0.0	no outdoor instance for this seed (index status: generator failed)
+1567776896	The Coast	tgr	ERROR			3828130415		2.8	RuntimeError: Could not permute edges: 5 @ permute.py:269 permute
+1439399492	The Twilight Strand	tgr	ERROR			3221146430		1.9	RuntimeError: Failed to tilise the non-virtual node 5.s2 (906, 530) @ edge_sim.py:1687 setup
+3225193870	Desert	tgr	PARTIAL			4277833072		2.4	fill tiles 22/336; room tiles 127/127; junction records 0/0; edge tiles 0/0; tiliser Could not tilise edge 14
