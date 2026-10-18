@@ -1,0 +1,8 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 461641631 doodad hash 3656367909 (CLI_ACTIVATE_MAP)
+AUTO seed 3807158831 Ancient Catacomb: terrain endgame/mapdesert/ graph endgame_desert4.tgr (5 locked nodes match; capture 42 nodes, graph 18)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 4, 5, 6, 7, 8, 9, 10, 12, 16, 17]
+   node pipeline: pre-pick words 4, vaal_pending True, hideout_claim False: free nodes 1/2 match
+   deletion candidates: certain [0, 1, 2, 4, 5, 6, 7, 8, 9, 10, 12, 17], uncertain []; 1 option(s) for -24 deleted node(s)
+   the generator could not run this instance
+   tile grid: 1 grid(s) read but none hashes to 461641631 (126x78:4277833072) - left the area before the read finished?

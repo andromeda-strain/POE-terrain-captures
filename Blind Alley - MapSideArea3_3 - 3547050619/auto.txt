@@ -1,0 +1,27 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1781720798 doodad hash 2100188339 (CLI_ACTIVATE_MAP)
+AUTO seed 3547050619 Blind Alley: dungeon area (capture captures/Blind Alley - MapSideArea3_3 - 3547050619/stages_20261017_233236.csv)
+   dungeon (.dgr) pipeline: 449 draws in 20 call sites (2 generator draws before it, 9888 after it - the post passes); no generator model yet
+   0x14203a8e0: 4 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 100
+   0x142107272: 2 draws, bounds 1204
+   0x1420fd32a: 8 draws, bounds 128
+   0x142012839: 1 draws, bounds 4
+   0x1420fd640: 16 draws, bounds 1204
+   0x142001ee5: 6 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 4 draws, bounds 41,36100
+   0x14210871c: 4 draws, bounds 840
+   0x142109942: 2 draws, bounds 100,123460
+   0x142109cdf: 2 draws, bounds 100,460
+   0x142109cf6: 2 draws, bounds 840
+   0x142109a4b: 7 draws, bounds 460,2460,15460,28460,68460,70460,83460
+   0x1420efc0c: 86 draws, bounds 2,100,200,300,400,800,900,960,1200
+   0x141febf93: 26 draws, bounds 1,300
+   0x141febfcf: 26 draws, bounds 8
+   0x141febd7f: 164 draws, bounds 526,534,549,564,576,579,584,586,591,594,599,601,...
+   0x141fed1ec: 82 draws, bounds 8
+   0x14202795d: 4 draws, bounds 100,150,200
+   tile grid: captures\Blind Alley - MapSideArea3_3 - 3547050619\truth_33eceb743f0.tsv (42x36, 1512 cells) VERIFIED against tile hash 1781720798
+   walkable field: captures\Blind Alley - MapSideArea3_3 - 3547050619\walkable_33eceb743f0_melee.png (14.1% of the sub-cells walkable, matches the tiles' hull field at IoU 0.996; 2 layer(s) read; stored for the grid as walkable_33eceb743f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Blind Alley - MapSideArea3_3 - 3547050619\minimap.png

@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2417950238 doodad hash 1506018612 (CLI_ACTIVATE_MAP)
+AUTO seed 4204881227 The Coast: terrain leagues/deepwater/act1_coast/ graph macro_terraces1_1_1.tgr (10 locked nodes match; capture 45 nodes, graph 23)
+   typed nodes never placed by the client (untilised): [1, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 20]
+   node pipeline: pre-pick words 0, vaal_pending False, hideout_claim False: free nodes 4/4 match
+   tile grid: captures\The Coast - 1_1_2 - 4204881227\truth_28931a63bf0.tsv (99x66, 6534 cells) VERIFIED against tile hash 2417950238
+   walkable field: captures\The Coast - 1_1_2 - 4204881227\walkable_28931a63bf0_melee.png (17.0% of the sub-cells walkable, matches the tiles' hull field at IoU 0.768; 2 layer(s) read; stored for the grid as walkable_28931a63bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Coast - 1_1_2 - 4204881227\minimap.png
+   FAIL: permute-in 26/26, permute-out 26/26, rounder-in-1 26/26, rounder-in-2 26/26, rounder-in-3 31/31, rounder-in-4 31/31, rounder-in-5 18/31, rounder-in-6 26/31
+   layout: captures\The Coast - 1_1_2 - 4204881227\layout.png; minimap captures\The Coast - 1_1_2 - 4204881227\minimap.png
+   corpus row appended

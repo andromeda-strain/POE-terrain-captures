@@ -1,0 +1,13 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3828130415 doodad hash 2931809997 (CLI_ACTIVATE_MAP)
+AUTO seed 1567776896 The Coast: terrain act6/area2/ graph coast_p2_v7.tgr (12 locked nodes match; capture 40 nodes, graph 24)
+   typed nodes never placed by the client (untilised): [0, 4, 5, 7, 8, 9, 10, 12, 14, 17, 20, 21, 23]
+   node pipeline: pre-pick words 3, vaal_pending False, hideout_claim False: free nodes 7/7 match
+   tile grid: captures\The Coast - 2_6_2 - 1567776896\truth_33edad0dbf0.tsv (75x75, 5625 cells) VERIFIED against tile hash 3828130415
+   walkable field: captures\The Coast - 2_6_2 - 1567776896\walkable_33edad0dbf0_melee.png (18.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.808; 2 layer(s) read; stored for the grid as walkable_33edad0dbf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Coast - 2_6_2 - 1567776896\minimap.png
+   FAIL: permute-in 21/22 ERROR RuntimeError: Could not permute edges: 5
+   layout: not rendered: "D:\repos\POE 3.29.3b\Work\tools\permute.py", line 269, in permute
+    raise RuntimeError('Could not permute edges: ' + ', '.join(str(e.label) for e in again))
+RuntimeError: Could not permute edges: 5; minimap captures\The Coast - 2_6_2 - 1567776896\minimap.png
+   corpus row appended

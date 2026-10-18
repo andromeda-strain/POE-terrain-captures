@@ -1,0 +1,14 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3221146430 doodad hash 1062662134 (CLI_ACTIVATE_MAP)
+AUTO seed 1439399492 The Twilight Strand: terrain act6/area1/ graph twilight_strand_01.tgr (8 locked nodes match; capture 29 nodes, graph 22)
+   typed nodes never placed by the client (untilised): [0, 1, 11, 12, 18, 19]
+   node pipeline: pre-pick words 2, vaal_pending False, hideout_claim False: free nodes 7/7 match
+   tile grid: captures\The Twilight Strand - 2_6_1 - 1439399492\truth_33ec3838bf0.tsv (78x42, 3276 cells) VERIFIED against tile hash 3221146430
+   walkable field: not read (0 layer(s) in 188 s)
+   walkable field: captures\The Twilight Strand - 2_6_1 - 1439399492\hull_melee.png composed from the tiles' hull planes (36.2% of the sub-cells walkable, agrees with the grid on 34.7% of the cells; the placed objects' hulls are not in it)
+   minimap (the client's grid): captures\The Twilight Strand - 2_6_1 - 1439399492\minimap.png
+   FAIL: permute-in 16/16, permute-out 16/16, rounder-in-1 16/16, rounder-in-2 16/16, rounder-in-3 19/21, rounder-in-4 19/21, rounder-in-5 3/21 ERROR RuntimeError: Failed to tilise the non-virtual node 5.s2 (906, 530)
+   layout: not rendered: 29.3b\Work\tools\edge_sim.py", line 1688, in setup
+    raise RuntimeError(f'Failed to tilise the non-virtual node {nd.id} {nd.pos}')
+RuntimeError: Failed to tilise the non-virtual node 5.s2 (906, 530); minimap captures\The Twilight Strand - 2_6_1 - 1439399492\minimap.png
+   corpus row appended

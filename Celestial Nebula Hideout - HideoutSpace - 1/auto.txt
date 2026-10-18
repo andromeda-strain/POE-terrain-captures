@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2718197086 doodad hash 0 (CLI_ACTIVATE_MAP)
+AUTO seed 1 Celestial Nebula Hideout: dungeon area (capture captures/Celestial Nebula Hideout - HideoutSpace - 1/stages_20261017_232832.csv)
+   dungeon (.dgr) pipeline: 651 draws in 4 call sites (1 generator draws before it, 0 after it - the post passes); no generator model yet
+   0x142105ee9: 1 draws, bounds 1
+   0x1420f6875: 72 draws, bounds 2
+   0x141febf93: 289 draws, bounds 1
+   0x141febfcf: 289 draws, bounds 8
+   tile grid: captures\Celestial Nebula Hideout - HideoutSpace - 1\truth_33ebcf043f0.tsv (31x31, 961 cells) VERIFIED against tile hash 2718197086
+   walkable field: only the ranged layer among the 2 layer(s) read is this area's; stored for the grid as walkable_33ebcf043f0_{ranged}.png/.bin/.tsv; the map is not drawn with it
+   walkable field: captures\Celestial Nebula Hideout - HideoutSpace - 1\hull_melee.png composed from the tiles' hull planes (33.5% of the sub-cells walkable, agrees with the grid on 62.4% of the cells; the placed objects' hulls are not in it)
+   minimap (the client's grid): captures\Celestial Nebula Hideout - HideoutSpace - 1\minimap.png

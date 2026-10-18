@@ -1,0 +1,4 @@
+KNOWN Dark Forest [MapWorldsDarkForest] seed 2757276480: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain endgame/mapdarkforest/, tile hash 1316577692 (1 of 1 rows), last capture captures/Dark Forest - MapWorldsDarkForest - 2757276480/stages_20261017_233016.csv (DIFF)
+   this load's tile hash 1316577692 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Dark Forest - MapWorldsDarkForest - 2757276480\truth_33ece341bf0.tsv): captures\Dark Forest - MapWorldsDarkForest - 2757276480\minimap.png

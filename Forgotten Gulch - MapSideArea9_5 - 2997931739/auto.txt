@@ -1,0 +1,10 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2165212796 doodad hash 1103074549 (CLI_ACTIVATE_MAP)
+AUTO seed 2997931739 Forgotten Gulch: terrain act9/sideareafoothills/ graph sidefoothills_02.tgr (4 locked nodes match; capture 38 nodes, graph 19)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 14]
+   node pipeline: pre-pick words 1, vaal_pending False, hideout_claim False: free nodes 3/4 match
+   deletion candidates: certain [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 14], uncertain []; 1 option(s) for -19 deleted node(s)
+   the generator could not run this instance
+   tile grid: captures\Forgotten Gulch - MapSideArea9_5 - 2997931739\truth_33ebdff1bf0.tsv (66x36, 2376 cells) VERIFIED against tile hash 2165212796
+   walkable field: captures\Forgotten Gulch - MapSideArea9_5 - 2997931739\walkable_33ebdff1bf0_melee.png (29.4% of the sub-cells walkable, matches the tiles' hull field at IoU 0.999; 4 layer(s) read; stored for the grid as walkable_33ebdff1bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Forgotten Gulch - MapSideArea9_5 - 2997931739\minimap.png
