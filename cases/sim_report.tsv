@@ -115,138 +115,138 @@ seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
 3790876905	The Fathomless Depths	depths	MATCH	0	73x36	2863738919	2863738919	7.2	
 387284895	The Fathomless Depths	depths	MATCH	0	133x96	2187623842	2187623842	16.2	first draw-stage not OK: plugin; first mismatch: sim 0x141f2cb29 sub_141F2CC70 cell connection tiling draw(143) = 132 [word 1800] connection (15,33) 1x1 fill for - vs log 0x141f2cb29 draw(0) = 0
 773010722	The Sovereign	depths	MATCH	0	36x36	2969684758	2969684758	2.2	
-2818139909	The Western Forest	tgr	PARTIAL			3337390678		8.6	fill tiles 85/1225; room tiles 116/116; junction records 2/2; edge tiles 34/79; unknown picks 213 (12 long/absent); key misses 185
-407489641	The Wetlands	tgr	PARTIAL			534786920		9.7	fill tiles 1/27; room tiles 122/122; junction records 2/2; edge tiles 0/0; unknown picks 36 (0 long/absent); key misses 28; tiliser Could not tilise edge 18b
-1878280121	Atoll	tgr	PARTIAL			2168707350		7.5	fill tiles 113/2396; room tiles 81/81; junction records 0/0; edge tiles 5/9; unknown picks 6 (0 long/absent); key misses 6; tiliser Could not tilise edge 13b
-2310821503	Atoll	tgr	PARTIAL			2803321911		5.4	fill tiles 133/1316; room tiles 83/83; junction records 0/0; edge tiles 171/172; unknown picks 4 (0 long/absent); key misses 4
-2969939979	Remote Gulch	tgr	MATCH			2429684383		7.5	fill tiles 103/103; room tiles 24/24; junction records 0/0; edge tiles 18/18
+2818139909	The Western Forest	tgr	PARTIAL			3337390678		6.6	room tiles 116/116; junction records 2/2; edge tiles 34/79; fill tiles 85/1225; unknown picks 213 (12 long/absent); key misses 185
+407489641	The Wetlands	tgr	PARTIAL			534786920		8.3	room tiles 122/122; junction records 2/2; edge tiles 0/0; fill tiles 1/27; unknown picks 36 (0 long/absent); key misses 28; tiliser Could not tilise edge 18b
+1878280121	Atoll	tgr	PARTIAL			2168707350		5.5	room tiles 81/81; junction records 0/0; edge tiles 5/9; fill tiles 113/2396; unknown picks 6 (0 long/absent); key misses 6; tiliser Could not tilise edge 13b
+2310821503	Atoll	tgr	PARTIAL			2803321911		5.5	room tiles 83/83; junction records 0/0; edge tiles 171/172; fill tiles 133/1316; unknown picks 4 (0 long/absent); key misses 4
+2969939979	Remote Gulch	tgr	MATCH			2429684383		2.4	room tiles 24/24; junction records 0/0; edge tiles 18/18; fill tiles 103/103
 4021489705	Kaom's Dream	tgr	NOINST			3075838719		0.0	no outdoor instance for this seed (index status: generator failed)
 808855001	Kaom's Stronghold	tgr	NOINST			3087778686		0.0	no outdoor instance for this seed (index status: generator failed)
-1853619251	The Ascent	tgr	ERROR			1533087404		3.0	RuntimeError: Could not permute edges: 11, 12, 25, 26 @ permute.py:269 permute
-556721298	The Ledge	tgr	PARTIAL			216717887		5.1	fill tiles 19/645; room tiles 68/68; junction records 0/0; edge tiles 0/0; unknown picks 12 (0 long/absent); key misses 7; tiliser Could not tilise edge 5
-1800507917	The Climb	tgr	ERROR			2341871594		2.3	RuntimeError: Could not permute edges: 2 @ permute.py:269 permute
-2130982566	The Climb	tgr	PARTIAL			806503697		3.2	fill tiles 41/457; room tiles 67/67; junction records 2/2; edge tiles 59/61; unknown picks 9 (0 long/absent); key misses 9
-1475174401	Prisoner's Gate	tgr	PARTIAL			1086046921		5.3	overlay tiles 0/0; tile heights 24/96; fill tiles 6/30; room tiles 59/59; junction records 0/0; edge tiles 0/0; unknown picks 201 (168 long/absent); key misses 25; tiliser Could not tilise edge 19b
+1853619251	The Ascent	tgr	ERROR			1533087404		3.5	RuntimeError: Could not permute edges: 11, 12, 25, 26 @ permute.py:269 permute
+556721298	The Ledge	tgr	PARTIAL			216717887		5.3	room tiles 68/68; junction records 0/0; edge tiles 0/0; fill tiles 19/645; unknown picks 12 (0 long/absent); key misses 7; tiliser Could not tilise edge 5
+1800507917	The Climb	tgr	ERROR			2341871594		2.8	RuntimeError: Could not permute edges: 2 @ permute.py:269 permute
+2130982566	The Climb	tgr	PARTIAL			806503697		2.2	room tiles 67/67; junction records 2/2; edge tiles 59/61; fill tiles 41/457; unknown picks 9 (0 long/absent); key misses 9
+1475174401	Prisoner's Gate	tgr	PARTIAL			1086046921		5.6	overlay tiles 0/0; tile heights 24/96; room tiles 59/59; junction records 0/0; edge tiles 0/0; fill tiles 6/30; unknown picks 201 (168 long/absent); key misses 25; tiliser Could not tilise edge 19b
 2683172332	The Ship Graveyard	tgr	NOINST			694397120		0.0	no outdoor instance for this seed (index status: generator failed)
-2479631266	The Southern Forest	tgr	ERROR			3716329429		3.0	RuntimeError: Could not permute edges: 11 @ permute.py:269 permute
-947348485	The Old Fields	tgr	PARTIAL			229464661		4.7	fill tiles 29/2025; room tiles 144/144; junction records 6/6; edge tiles 11/20; unknown picks 20 (0 long/absent); key misses 19; tiliser Could not tilise edge 7
-1018383981	The Crossroads	tgr	PARTIAL			2003188477		8.3	fill tiles 140/1352; room tiles 135/135; junction records 6/6; edge tiles 61/150; unknown picks 214 (7 long/absent); key misses 188
-3113180255	The Broken Bridge	tgr	PARTIAL			1347971609		7.9	fill tiles 222/3267; room tiles 116/116; junction records 6/6; edge tiles 4/4; unknown picks 99 (7 long/absent); key misses 64; tiliser Could not tilise edge 2b
-4044540761	The Fellshrine Ruins	tgr	PARTIAL			691804038		6.4	fill tiles 0/5; room tiles 145/145; junction records 3/3; edge tiles 0/0; tiliser Could not tilise edge 2b
-2226661651	The Old Fields	tgr	ERROR			4031710147		4.2	RuntimeError: Failed to tilise the non-virtual node 16.s1 (638, 717) @ edge_sim.py:1695 setup
-1008253913	The Riverways	tgr	PARTIAL			1355430214		7.3	fill tiles 2/150; room tiles 187/187; junction records 3/3; edge tiles 25/40; unknown picks 78 (16 long/absent); key misses 58; tiliser Could not tilise edge 8b
-1594771754	The Western Forest	tgr	PARTIAL			3174309766		6.0	fill tiles 73/1070; room tiles 129/129; junction records 2/2; edge tiles 47/86; unknown picks 253 (18 long/absent); key misses 207
-2922025329	The Riverways	tgr	PARTIAL			1223104191		7.5	fill tiles 35/4990; room tiles 187/187; junction records 3/3; edge tiles 18/23; unknown picks 131 (27 long/absent); key misses 89; tiliser Could not tilise edge 8
-2797004204	The Wetlands	tgr	PARTIAL			2557214493		8.5	fill tiles 108/1214; room tiles 122/122; junction records 5/5; edge tiles 142/183; unknown picks 15 (0 long/absent); key misses 10
-1519000875	The Riverways	tgr	PARTIAL			736978362		7.4	fill tiles 18/355; room tiles 168/168; junction records 3/3; edge tiles 32/57; unknown picks 201 (12 long/absent); key misses 153; tiliser Could not tilise edge 10
+2479631266	The Southern Forest	tgr	ERROR			3716329429		2.1	RuntimeError: Could not permute edges: 11 @ permute.py:269 permute
+947348485	The Old Fields	tgr	PARTIAL			229464661		8.2	room tiles 144/144; junction records 6/6; edge tiles 11/20; fill tiles 29/2025; unknown picks 20 (0 long/absent); key misses 19; tiliser Could not tilise edge 7
+1018383981	The Crossroads	tgr	PARTIAL			2003188477		7.2	room tiles 135/135; junction records 6/6; edge tiles 61/150; fill tiles 140/1352; unknown picks 214 (7 long/absent); key misses 188
+3113180255	The Broken Bridge	tgr	PARTIAL			1347971609		6.1	room tiles 116/116; junction records 6/6; edge tiles 4/4; fill tiles 222/3267; unknown picks 99 (7 long/absent); key misses 64; tiliser Could not tilise edge 2b
+4044540761	The Fellshrine Ruins	tgr	PARTIAL			691804038		8.7	room tiles 145/145; junction records 3/3; edge tiles 0/0; fill tiles 0/5; tiliser Could not tilise edge 2b
+2226661651	The Old Fields	tgr	ERROR			4031710147		3.9	RuntimeError: Failed to tilise the non-virtual node 16.s1 (638, 717) @ edge_sim.py:1709 setup
+1008253913	The Riverways	tgr	PARTIAL			1355430214		6.9	room tiles 187/187; junction records 3/3; edge tiles 25/40; fill tiles 2/150; unknown picks 78 (16 long/absent); key misses 58; tiliser Could not tilise edge 8b
+1594771754	The Western Forest	tgr	PARTIAL			3174309766		2.6	room tiles 129/129; junction records 2/2; edge tiles 47/86; fill tiles 73/1070; unknown picks 253 (18 long/absent); key misses 207
+2922025329	The Riverways	tgr	PARTIAL			1223104191		5.3	room tiles 187/187; junction records 3/3; edge tiles 18/23; fill tiles 35/4990; unknown picks 131 (27 long/absent); key misses 89; tiliser Could not tilise edge 8
+2797004204	The Wetlands	tgr	PARTIAL			2557214493		4.2	room tiles 122/122; junction records 5/5; edge tiles 142/183; fill tiles 108/1214; unknown picks 15 (0 long/absent); key misses 10
+1519000875	The Riverways	tgr	PARTIAL			736978362		5.1	room tiles 168/168; junction records 3/3; edge tiles 32/57; fill tiles 18/355; unknown picks 201 (12 long/absent); key misses 153; tiliser Could not tilise edge 10
 3907043827	The Northern Forest	tgr	NOINST			2807117195		0.0	no outdoor instance for this seed (index status: generator failed)
 2166854683	The City of Sarn	tgr	NOINST			592359497		0.0	no outdoor instance for this seed (index status: generator failed)
 298619422	Kaom's Dream	tgr	NOINST			2444695433		0.0	no outdoor instance for this seed (index status: generator failed)
 4224061469	Kaom's Stronghold	tgr	NOINST			2847230753		0.0	no outdoor instance for this seed (index status: generator failed)
-2619343703	The Ascent	tgr	PARTIAL			4095770750		3.4	fill tiles 116/1439; room tiles 80/80; junction records 2/2; edge tiles 7/11; unknown picks 213 (8 long/absent); key misses 169
-573879234	The Coast	tgr	PARTIAL			3103396315		7.8	fill tiles 9/3144; room tiles 66/66; junction records 9/9; edge tiles 6/6; tiliser Could not tilise edge 19
-2615028650	The Coast	tgr	PARTIAL			1570894170		8.5	fill tiles 77/736; room tiles 93/93; junction records 5/5; edge tiles 71/74; unknown picks 10 (0 long/absent); key misses 10
-2012248676	The Coast	tgr	PARTIAL			3266985064		8.6	fill tiles 182/1714; room tiles 72/72; junction records 6/6; edge tiles 47/74; unknown picks 3 (0 long/absent); key misses 3
-261715282	The Mud Flats	tgr	ERROR			2322674456		4.1	RuntimeError: Could not permute edges: 5, 18 @ permute.py:269 permute
-1674264912	Radiant Pools	tgr	PARTIAL			3647047670		5.3	fill tiles 21/308; room tiles 102/102; junction records 2/2; edge tiles 15/25; unknown picks 41 (17 long/absent); key misses 21
-1363251047	The Twilight Strand	tgr	PARTIAL			776092988		7.3	overlay tiles 0/8; tile heights 108/108; fill tiles 64/571; room tiles 24/24; junction records 4/4; edge tiles 48/48; unknown picks 4 (4 long/absent); key misses 2
-3684453189	The Coast	tgr	PARTIAL			3709964821		7.5	fill tiles 36/2613; room tiles 71/71; junction records 7/7; edge tiles 3/5; unknown picks 2 (0 long/absent); key misses 2; tiliser Could not tilise edge 2
-1143220754	The Tidal Island	tgr	PARTIAL			3709616832		7.7	fill tiles 57/615; room tiles 23/23; junction records 0/0; edge tiles 11/27; unknown picks 46 (0 long/absent); key misses 19
-1000094353	The Ridge	tgr	PARTIAL			1335019800		2.6	fill tiles 54/696; room tiles 85/85; junction records 0/0; edge tiles 56/123; unknown picks 38 (3 long/absent); key misses 29
+2619343703	The Ascent	tgr	PARTIAL			4095770750		4.2	room tiles 80/80; junction records 2/2; edge tiles 7/11; fill tiles 116/1439; unknown picks 213 (8 long/absent); key misses 169
+573879234	The Coast	tgr	PARTIAL			3103396315		4.6	room tiles 66/66; junction records 9/9; edge tiles 6/6; fill tiles 9/3144; tiliser Could not tilise edge 19
+2615028650	The Coast	tgr	PARTIAL			1570894170		3.1	room tiles 93/93; junction records 5/5; edge tiles 71/74; fill tiles 77/736; unknown picks 10 (0 long/absent); key misses 10
+2012248676	The Coast	tgr	PARTIAL			3266985064		4.5	room tiles 72/72; junction records 6/6; edge tiles 47/74; fill tiles 182/1714; unknown picks 3 (0 long/absent); key misses 3
+261715282	The Mud Flats	tgr	ERROR			2322674456		4.5	RuntimeError: Could not permute edges: 5, 18 @ permute.py:269 permute
+1674264912	Radiant Pools	tgr	PARTIAL			3647047670		4.5	room tiles 102/102; junction records 2/2; edge tiles 15/25; fill tiles 21/308; unknown picks 41 (17 long/absent); key misses 21
+1363251047	The Twilight Strand	tgr	PARTIAL			776092988		6.4	overlay tiles 0/8; tile heights 108/108; room tiles 24/24; junction records 4/4; edge tiles 48/48; fill tiles 64/571; unknown picks 4 (4 long/absent); key misses 2
+3684453189	The Coast	tgr	PARTIAL			3709964821		2.5	room tiles 71/71; junction records 7/7; edge tiles 3/5; fill tiles 36/2613; unknown picks 2 (0 long/absent); key misses 2; tiliser Could not tilise edge 2
+1143220754	The Tidal Island	tgr	PARTIAL			3709616832		4.5	room tiles 23/23; junction records 0/0; edge tiles 11/27; fill tiles 57/615; unknown picks 46 (0 long/absent); key misses 19
+1000094353	The Ridge	tgr	PARTIAL			1335019800		3.7	room tiles 85/85; junction records 0/0; edge tiles 56/123; fill tiles 54/696; unknown picks 38 (3 long/absent); key misses 29
 1594593724	Prisoner's Gate	tgr	ERROR			2594050326		1.7	RuntimeError: Could not permute edges: 0, 14 @ permute.py:269 permute
-2946423389	The Western Forest	tgr	PARTIAL			1577687285		6.0	fill tiles 99/1289; room tiles 116/116; junction records 2/2; edge tiles 48/110; unknown picks 158 (9 long/absent); key misses 130
-2545505819	The Riverways	tgr	PARTIAL			768176795		8.2	fill tiles 8/95; room tiles 179/179; junction records 3/3; edge tiles 42/65; unknown picks 242 (52 long/absent); key misses 162; tiliser Could not tilise edge 11
-940927949	The Southern Forest	tgr	PARTIAL			534497896		5.4	fill tiles 213/2024; room tiles 229/229; junction records 0/0; edge tiles 43/84; unknown picks 135 (5 long/absent); key misses 102
+2946423389	The Western Forest	tgr	PARTIAL			1577687285		3.7	room tiles 116/116; junction records 2/2; edge tiles 48/110; fill tiles 99/1289; unknown picks 158 (9 long/absent); key misses 130
+2545505819	The Riverways	tgr	PARTIAL			768176795		6.4	room tiles 179/179; junction records 3/3; edge tiles 42/65; fill tiles 8/95; unknown picks 242 (52 long/absent); key misses 162; tiliser Could not tilise edge 11
+940927949	The Southern Forest	tgr	PARTIAL			534497896		3.5	room tiles 229/229; junction records 0/0; edge tiles 43/84; fill tiles 213/2024; unknown picks 135 (5 long/absent); key misses 102
 2273242513	The Beacon	tgr	NOINST			548745989		0.0	no outdoor instance for this seed (index status: generator failed)
-2951854765	The Brine King's Reef	tgr	PARTIAL			4191511973		4.6	fill tiles 46/2700; room tiles 85/85; junction records 0/0; edge tiles 0/0; tiliser Could not tilise edge 12b
-826909937	Sunken Shingle	tgr	MATCH			1446955763		5.4	fill tiles 74/74; room tiles 20/20; junction records 0/0; edge tiles 34/34
-1617114203	The Broken Bridge	tgr	PARTIAL			1501504445		5.1	fill tiles 208/2195; room tiles 113/113; junction records 4/4; edge tiles 60/114; unknown picks 361 (9 long/absent); key misses 263
-1793766400	The Crossroads	tgr	PARTIAL			1515278809		8.7	fill tiles 102/1380; room tiles 135/135; junction records 6/6; edge tiles 96/125; unknown picks 275 (10 long/absent); key misses 205
-4180396544	The Fellshrine Ruins	tgr	PARTIAL			396502492		6.6	fill tiles 10/172; room tiles 131/131; junction records 2/2; edge tiles 10/27; unknown picks 74 (4 long/absent); key misses 62; tiliser Could not tilise edge 12b
-1449694259	The Ashen Fields	tgr	PARTIAL			3061917637		7.1	fill tiles 116/1072; room tiles 50/50; junction records 2/2; edge tiles 22/49; unknown picks 194 (13 long/absent); key misses 169
-773500154	The Northern Forest	tgr	PARTIAL			3876175309		3.5	fill tiles 4/46; room tiles 78/78; junction records 3/3; edge tiles 23/66; unknown picks 138 (5 long/absent); key misses 112
-701080060	The Northern Forest	tgr	ERROR			1418380221		2.2	RuntimeError: Could not permute edges: 4 @ permute.py:269 permute
-748072072	The Imperial Fields	tgr	PARTIAL			3735547732		9.0	fill tiles 187/4888; room tiles 288/288; junction records 0/0; edge tiles 1/2; unknown picks 12 (2 long/absent); key misses 11; tiliser Could not tilise edge 1
-1550935145	The Descent	tgr	PARTIAL			3145125938		3.8	fill tiles 136/2431; room tiles 55/55; junction records 1/1; edge tiles 4/7; unknown picks 274 (14 long/absent); key misses 174
-3827215630	The Foothills	tgr	PARTIAL			3461867600		5.5	fill tiles 144/3978; room tiles 78/78; junction records 9/9; edge tiles 0/0; tiliser Could not tilise edge 24
-981678077	The Boiling Lake	tgr	ERROR			1779646633		3.8	RuntimeError: Could not permute edges: 7, 9, 10 @ permute.py:269 permute
-3379021372	The Foothills	tgr	PARTIAL			1704573570		6.0	fill tiles 143/3502; room tiles 79/79; junction records 6/6; edge tiles 0/0; tiliser Could not tilise edge 20
-80730307	The Boiling Lake	tgr	ERROR			226452543		3.0	RuntimeError: Could not permute edges: 16 @ permute.py:269 permute
-2057659728	The Oasis	tgr	PARTIAL			4148216990		5.6	fill tiles 107/1444; room tiles 248/248; junction records 4/4; edge tiles 24/62; unknown picks 141 (19 long/absent); key misses 120
-3149224873	Dusty Bluff	tgr	PARTIAL			2748218734		3.2	fill tiles 59/742; room tiles 46/46; junction records 0/0; edge tiles 1/3; unknown picks 67 (3 long/absent); key misses 43
-1653703409	Prisoner's Gate	tgr	ERROR			1531167769		3.1	RuntimeError: Could not permute edges: 0, 14 @ permute.py:269 permute
-3063800985	The Broken Bridge	tgr	PARTIAL			2662979387		5.6	fill tiles 228/2377; room tiles 128/128; junction records 4/4; edge tiles 127/191; unknown picks 10 (0 long/absent); key misses 10
-1327120653	Narrow Ravine	tgr	PARTIAL			673030557		4.6	fill tiles 96/102; room tiles 23/23; junction records 0/0; edge tiles 29/29; unknown picks 2 (0 long/absent); key misses 2
-3285807558	The Riverways	tgr	PARTIAL			1296025244		7.5	fill tiles 3/74; room tiles 180/180; junction records 3/3; edge tiles 16/22; unknown picks 126 (12 long/absent); key misses 78; tiliser Could not tilise edge 30
-3498432223	The Wetlands	tgr	PARTIAL			1386278695		9.6	fill tiles 9/208; room tiles 237/237; junction records 1/1; edge tiles 1/2; unknown picks 19 (0 long/absent); key misses 19; tiliser Could not tilise edge 17b
-2742815401	The Tidal Island	tgr	PARTIAL			746164926		3.4	fill tiles 54/960; room tiles 14/14; junction records 0/0; edge tiles 15/21; unknown picks 19 (0 long/absent); key misses 14; tiliser Could not tilise edge 1
+2951854765	The Brine King's Reef	tgr	PARTIAL			4191511973		7.0	room tiles 85/85; junction records 0/0; edge tiles 0/0; fill tiles 46/2700; tiliser Could not tilise edge 12b
+826909937	Sunken Shingle	tgr	MATCH			1446955763		3.7	room tiles 20/20; junction records 0/0; edge tiles 34/34; fill tiles 74/74
+1617114203	The Broken Bridge	tgr	PARTIAL			1501504445		3.6	room tiles 113/113; junction records 4/4; edge tiles 60/114; fill tiles 208/2195; unknown picks 361 (9 long/absent); key misses 263
+1793766400	The Crossroads	tgr	PARTIAL			1515278809		5.7	room tiles 135/135; junction records 6/6; edge tiles 96/125; fill tiles 102/1380; unknown picks 275 (10 long/absent); key misses 205
+4180396544	The Fellshrine Ruins	tgr	PARTIAL			396502492		4.1	room tiles 131/131; junction records 2/2; edge tiles 10/27; fill tiles 10/172; unknown picks 74 (4 long/absent); key misses 62; tiliser Could not tilise edge 12b
+1449694259	The Ashen Fields	tgr	PARTIAL			3061917637		6.9	room tiles 50/50; junction records 2/2; edge tiles 22/49; fill tiles 116/1072; unknown picks 194 (13 long/absent); key misses 169
+773500154	The Northern Forest	tgr	PARTIAL			3876175309		3.1	room tiles 78/78; junction records 3/3; edge tiles 23/66; fill tiles 4/46; unknown picks 138 (5 long/absent); key misses 112
+701080060	The Northern Forest	tgr	ERROR			1418380221		2.1	RuntimeError: Could not permute edges: 4 @ permute.py:269 permute
+748072072	The Imperial Fields	tgr	PARTIAL			3735547732		11.2	room tiles 288/288; junction records 0/0; edge tiles 1/2; fill tiles 187/4888; unknown picks 12 (2 long/absent); key misses 11; tiliser Could not tilise edge 1
+1550935145	The Descent	tgr	PARTIAL			3145125938		7.6	room tiles 55/55; junction records 1/1; edge tiles 4/7; fill tiles 136/2431; unknown picks 274 (14 long/absent); key misses 174
+3827215630	The Foothills	tgr	PARTIAL			3461867600		8.5	room tiles 78/78; junction records 9/9; edge tiles 0/0; fill tiles 144/3978; tiliser Could not tilise edge 24
+981678077	The Boiling Lake	tgr	ERROR			1779646633		7.4	RuntimeError: Could not permute edges: 7, 9, 10 @ permute.py:269 permute
+3379021372	The Foothills	tgr	PARTIAL			1704573570		8.8	room tiles 79/79; junction records 6/6; edge tiles 0/0; fill tiles 143/3502; tiliser Could not tilise edge 20
+80730307	The Boiling Lake	tgr	ERROR			226452543		3.3	RuntimeError: Could not permute edges: 16 @ permute.py:269 permute
+2057659728	The Oasis	tgr	PARTIAL			4148216990		6.2	room tiles 248/248; junction records 4/4; edge tiles 24/62; fill tiles 107/1444; unknown picks 141 (19 long/absent); key misses 120
+3149224873	Dusty Bluff	tgr	PARTIAL			2748218734		3.9	room tiles 46/46; junction records 0/0; edge tiles 1/3; fill tiles 59/742; unknown picks 67 (3 long/absent); key misses 43
+1653703409	Prisoner's Gate	tgr	ERROR			1531167769		1.5	RuntimeError: Could not permute edges: 0, 14 @ permute.py:269 permute
+3063800985	The Broken Bridge	tgr	PARTIAL			2662979387		2.7	room tiles 128/128; junction records 4/4; edge tiles 127/191; fill tiles 228/2377; unknown picks 10 (0 long/absent); key misses 10
+1327120653	Narrow Ravine	tgr	PARTIAL			673030557		2.4	room tiles 23/23; junction records 0/0; edge tiles 29/29; fill tiles 96/102; unknown picks 2 (0 long/absent); key misses 2
+3285807558	The Riverways	tgr	PARTIAL			1296025244		4.2	room tiles 180/180; junction records 3/3; edge tiles 16/22; fill tiles 3/74; unknown picks 126 (12 long/absent); key misses 78; tiliser Could not tilise edge 30
+3498432223	The Wetlands	tgr	PARTIAL			1386278695		4.8	room tiles 237/237; junction records 1/1; edge tiles 1/2; fill tiles 9/208; unknown picks 19 (0 long/absent); key misses 19; tiliser Could not tilise edge 17b
+2742815401	The Tidal Island	tgr	PARTIAL			746164926		4.4	room tiles 14/14; junction records 0/0; edge tiles 15/21; fill tiles 54/960; unknown picks 19 (0 long/absent); key misses 14; tiliser Could not tilise edge 1
 2445327803	The Ship Graveyard	tgr	NOINST			4282217149		0.0	no outdoor instance for this seed (index status: generator failed)
-3781505654	Fields	tgr	PARTIAL			3038873634		4.9	fill tiles 104/1605; room tiles 125/125; junction records 3/3; edge tiles 0/0; unknown picks 36 (0 long/absent); key misses 36; tiliser Could not tilise edge 18
-3883261409	Cemetery	tgr	PARTIAL			3766429721		4.0	fill tiles 535/2656; room tiles 169/169; junction records 0/0; edge tiles 103/163; unknown picks 4 (0 long/absent); key misses 4
-723013311	Summit	tgr	PARTIAL			3923862688		4.1	fill tiles 123/4243; room tiles 155/155; junction records 4/4; edge tiles 0/0; tiliser Could not tilise edge 21
-1686816115	Bramble Valley	tgr	PARTIAL			2862224438		4.0	overlay tiles 0/0; tile heights 346/479; fill tiles 93/906; room tiles 148/148; junction records 4/4; edge tiles 234/239; unknown picks 20 (0 long/absent); key misses 20
-1055427934	Reef	tgr	PARTIAL			3865248345		4.4	fill tiles 51/2415; room tiles 26/26; junction records 0/0; edge tiles 0/0; tiliser Could not tilise edge 2
-2270359686	Estuary	tgr	PARTIAL			3704644399		7.7	fill tiles 170/1299; room tiles 197/197; junction records 2/2; edge tiles 1/3; unknown picks 127 (33 long/absent); key misses 63
-2063571190	Reef	tgr	PARTIAL			3089955312		5.0	fill tiles 55/2631; room tiles 26/26; junction records 0/0; edge tiles 1/2; unknown picks 76 (22 long/absent); key misses 35; tiliser Could not tilise edge 7
-270326391	Cold River	tgr	PARTIAL			3224415484		6.6	overlay tiles 0/5; tile heights 130/130; fill tiles 45/803; room tiles 23/23; junction records 3/3; edge tiles 12/24; unknown picks 73 (7 long/absent); key misses 70
-2370103968	Frozen Springs	tgr	PARTIAL			971370806		4.8	overlay tiles 0/2; tile heights 79/79; fill tiles 58/414; room tiles 41/41; junction records 0/0; edge tiles 13/24; unknown picks 24 (4 long/absent); key misses 26
-329911341	Arid Lake	tgr	PARTIAL			1510766055		3.5	fill tiles 2/30; room tiles 144/144; junction records 4/4; edge tiles 0/0; unknown picks 52 (21 long/absent); key misses 26; tiliser Could not tilise edge 5
-1495617907	Cemetery	tgr	PARTIAL			475509189		4.3	fill tiles 323/2575; room tiles 169/169; junction records 0/0; edge tiles 18/201; unknown picks 6 (0 long/absent); key misses 6
-3140904827	Desolate Isle	tgr	PARTIAL			1489187650		3.8	fill tiles 51/1068; room tiles 37/37; junction records 0/0; edge tiles 0/3; unknown picks 61 (0 long/absent); key misses 39; tiliser Could not tilise edge 4
-3017036420	Fields	tgr	PARTIAL			1046954483		4.3	fill tiles 20/2829; room tiles 131/131; junction records 4/4; edge tiles 0/0; tiliser Could not tilise edge 1
-119078213	Fields	tgr	PARTIAL			2953990025		5.8	fill tiles 59/2485; room tiles 131/131; junction records 4/4; edge tiles 0/0; unknown picks 35 (3 long/absent); key misses 33; tiliser Could not tilise edge 20
-2517423936	Jungle Valley	tgr	PARTIAL			2389117685		4.2	fill tiles 43/489; room tiles 109/109; junction records 0/0; edge tiles 5/18; unknown picks 5 (0 long/absent); key misses 5
-4235195259	Radiant Pools	tgr	ERROR			1972897786		4.8	RuntimeError: Could not permute edges: 6 @ permute.py:269 permute
-3932179557	Jungle Valley	tgr	PARTIAL			2492001220		5.4	fill tiles 523/542; room tiles 109/109; junction records 0/0; edge tiles 24/24; unknown picks 6 (0 long/absent); key misses 6
-2593937312	Summit	tgr	PARTIAL			421532764		3.6	fill tiles 310/3060; room tiles 168/168; junction records 3/3; edge tiles 56/120; unknown picks 72 (2 long/absent); key misses 62
-4142920631	Strand	tgr	ERROR			3517004770		2.4	RuntimeError: Failed to tilise the non-virtual node 2 (587, 572) @ edge_sim.py:1695 setup
-4118998225	Remote Gulch	tgr	MATCH			3368811495		2.6	fill tiles 112/112; room tiles 24/24; junction records 0/0; edge tiles 20/20
-1060729283	Forbidden Woods	tgr	PARTIAL			2837225922		8.3	overlay tiles 0/9; tile heights 47/47; fill tiles 16/267; room tiles 77/77; junction records 0/0; edge tiles 1/1; unknown picks 7 (0 long/absent); key misses 14; tiliser Could not tilise edge 1
-1566349468	Frozen Springs	tgr	PARTIAL			1747304251		3.1	overlay tiles 2/3; tile heights 84/84; fill tiles 38/442; room tiles 41/41; junction records 0/0; edge tiles 35/42; unknown picks 6 (2 long/absent); key misses 4
-1106525635	Atoll	tgr	PARTIAL			3590417379		2.8	fill tiles 70/2941; room tiles 81/81; junction records 0/0; edge tiles 4/12; unknown picks 65 (3 long/absent); key misses 42; tiliser Could not tilise edge 4b
-1123178038	Atoll	tgr	MATCH			3296850935		4.6	fill tiles 1371/1371; room tiles 83/83; junction records 0/0; edge tiles 174/174
-751119365	Fields	tgr	PARTIAL			2827281348		5.3	fill tiles 52/2510; room tiles 125/125; junction records 3/3; edge tiles 0/0; unknown picks 34 (1 long/absent); key misses 33; tiliser Could not tilise edge 13b
-2168134607	Narrow Ravine	tgr	PARTIAL			2502309106		4.1	fill tiles 105/111; room tiles 23/23; junction records 0/0; edge tiles 34/34; unknown picks 2 (0 long/absent); key misses 2
-1799690092	Mesa	tgr	PARTIAL			1854620790		5.1	fill tiles 41/1902; room tiles 160/160; junction records 8/8; edge tiles 0/0; tiliser Could not tilise edge 1
-286957910	Mesa	tgr	PARTIAL			3992954603		5.8	fill tiles 45/1930; room tiles 150/150; junction records 8/8; edge tiles 0/0; tiliser Could not tilise edge 21
-2655815737	Jungle Valley	tgr	PARTIAL			3922542281		4.3	fill tiles 34/408; room tiles 109/109; junction records 0/0; edge tiles 12/22; unknown picks 12 (0 long/absent); key misses 12
-753533807	Mesa	tgr	PARTIAL			2423700097		6.3	fill tiles 49/1969; room tiles 150/150; junction records 8/8; edge tiles 0/0; tiliser Could not tilise edge 32
-2374171002	Jungle Valley	tgr	PARTIAL			2663885654		4.3	fill tiles 490/516; room tiles 109/109; junction records 0/0; edge tiles 28/28; unknown picks 8 (0 long/absent); key misses 8
-3529659146	Cold River	tgr	PARTIAL			4095804284		4.1	overlay tiles 0/2; tile heights 185/185; fill tiles 133/603; room tiles 27/27; junction records 5/5; edge tiles 21/41; unknown picks 95 (2 long/absent); key misses 106
-4085888185	Frozen Springs	tgr	PARTIAL			2385851167		2.8	overlay tiles 1/3; tile heights 80/80; fill tiles 23/362; room tiles 41/41; junction records 0/0; edge tiles 43/43; unknown picks 2 (2 long/absent); key misses 0
-667338612	Cemetery	tgr	PARTIAL			2926405623		2.4	fill tiles 321/2684; room tiles 169/169; junction records 0/0; edge tiles 5/71; unknown picks 127 (5 long/absent); key misses 125
-2461783259	Cold River	tgr	PARTIAL			2355264299		3.6	overlay tiles 0/1; tile heights 181/181; fill tiles 41/742; room tiles 42/42; junction records 4/4; edge tiles 14/27; unknown picks 102 (7 long/absent); key misses 108
-2798779299	Frozen Springs	tgr	PARTIAL			3702221210		3.6	overlay tiles 0/5; tile heights 81/81; fill tiles 27/378; room tiles 41/41; junction records 0/0; edge tiles 19/24; unknown picks 21 (7 long/absent); key misses 19
-3481731429	Cemetery	tgr	PARTIAL			1419242624		3.0	fill tiles 303/2619; room tiles 169/169; junction records 0/0; edge tiles 3/64; unknown picks 109 (0 long/absent); key misses 109
-1739195202	Chateau	tgr	PARTIAL			1858496985		4.8	overlay tiles 0/0; tile heights 109/109; fill tiles 0/18; room tiles 0/0; junction records 0/0; edge tiles 0/0; unknown picks 81 (6 long/absent); key misses 4
-2400607809	Jungle Valley	tgr	PARTIAL			2421854172		3.8	fill tiles 461/478; room tiles 109/109; junction records 0/0; edge tiles 21/21; unknown picks 6 (0 long/absent); key misses 6
-342411919	Jungle Valley	tgr	PARTIAL			3460528139		3.6	fill tiles 725/761; room tiles 109/109; junction records 0/0; edge tiles 28/28; unknown picks 6 (0 long/absent); key misses 6
-3098943194	Desolate Isle	tgr	PARTIAL			1296146835		5.1	fill tiles 51/712; room tiles 37/37; junction records 0/0; edge tiles 3/7; unknown picks 82 (0 long/absent); key misses 51
-3611361445	Dusty Bluff	tgr	PARTIAL			82583748		4.8	fill tiles 46/770; room tiles 46/46; junction records 0/0; edge tiles 4/4; unknown picks 64 (2 long/absent); key misses 43
-802035915	Fields	tgr	PARTIAL			2481018057		5.5	fill tiles 101/2730; room tiles 131/131; junction records 4/4; edge tiles 0/0; tiliser Could not tilise edge 1
-2166963285	Mesa	tgr	PARTIAL			1137674527		4.7	fill tiles 55/1950; room tiles 150/150; junction records 8/8; edge tiles 0/0; tiliser Could not tilise edge 21
-3468054408	Cemetery	tgr	ERROR			367962474		3.7	RuntimeError: Could not permute edges: 1 @ permute.py:269 permute
-2707036272	Cold River	tgr	ERROR			3229601297		3.1	RuntimeError: Failed to tilise the non-virtual node 15 (1165, 1234) @ edge_sim.py:1695 setup
-1512938536	Frozen Springs	tgr	PARTIAL			3882260033		2.9	overlay tiles 0/4; tile heights 88/88; fill tiles 42/464; room tiles 41/41; junction records 0/0; edge tiles 41/47; unknown picks 4 (4 long/absent); key misses 0
-379613852	Jungle Valley	tgr	PARTIAL			2573524677		5.3	room tiles 109/109; junction records 0/0; edge tiles 4/18; fill tiles 33/397; unknown picks 17 (0 long/absent); key misses 16
-568558881	Cemetery	tgr	PARTIAL			1714997564		2.9	room tiles 169/169; junction records 0/0; edge tiles 8/76; fill tiles 300/2579; unknown picks 144 (1 long/absent); key misses 144
-790305214	Radiant Pools	tgr	PARTIAL			2618298528		4.7	room tiles 124/124; junction records 2/2; edge tiles 11/18; fill tiles 20/253; unknown picks 62 (15 long/absent); key misses 49
-3403455307	Cold River	tgr	PARTIAL			1847271964		4.3	overlay tiles 0/0; tile heights 36/36; room tiles 23/23; junction records 3/3; edge tiles 0/0; fill tiles 7/165; tiliser Could not tilise edge 12
-402312402	Frozen Springs	tgr	PARTIAL			971065510		3.3	overlay tiles 0/3; tile heights 81/81; room tiles 37/37; junction records 0/0; edge tiles 43/43; fill tiles 18/410; unknown picks 3 (3 long/absent); key misses 0
-1411289870	Atoll	tgr	PARTIAL			1404642463		3.5	room tiles 81/81; junction records 0/0; edge tiles 0/0; fill tiles 39/1534; unknown picks 24 (5 long/absent); key misses 9; tiliser Could not tilise edge 22
-2523320384	Remote Gulch	tgr	PARTIAL			1399818573		3.6	room tiles 24/24; junction records 0/0; edge tiles 14/14; fill tiles 111/111; unknown picks 4 (0 long/absent); key misses 4
-4052074762	The Mud Flats	tgr	PARTIAL			2341102583		6.1	room tiles 63/63; junction records 5/5; edge tiles 23/36; fill tiles 48/405; unknown picks 93 (12 long/absent); key misses 76
-4265404066	The Coast	tgr	PARTIAL			175853767		7.9	overlay tiles 4/4; tile heights 246/246; room tiles 96/96; junction records 3/3; edge tiles 85/88; fill tiles 137/1261; unknown picks 0 (0 long/absent); key misses 6
-4267639713	Estuary	tgr	PARTIAL			1741927675		6.4	room tiles 202/202; junction records 2/2; edge tiles 4/7; fill tiles 171/1333; unknown picks 113 (32 long/absent); key misses 52
-2476432288	Estuary	tgr	PARTIAL			4137020424		6.6	room tiles 202/202; junction records 2/2; edge tiles 1/1; fill tiles 152/1358; unknown picks 130 (35 long/absent); key misses 69
-456096832	Estuary	tgr	PARTIAL			1269552117		6.4	room tiles 143/143; junction records 2/2; edge tiles 4/8; fill tiles 141/1382; unknown picks 109 (22 long/absent); key misses 69
-165779743	Estuary	tgr	PARTIAL			142059119		6.4	room tiles 202/202; junction records 2/2; edge tiles 5/6; fill tiles 164/1366; unknown picks 109 (25 long/absent); key misses 67
-1283180947	Dunes	tgr	PARTIAL			3427002475		3.9	room tiles 50/50; junction records 2/2; edge tiles 49/103; fill tiles 62/618; unknown picks 33 (1 long/absent); key misses 33
-537310253	Dunes	tgr	PARTIAL			2258690707		3.5	room tiles 50/50; junction records 2/2; edge tiles 64/140; fill tiles 46/525; unknown picks 7 (0 long/absent); key misses 7
-1428594699	Dunes	tgr	PARTIAL			146448142		3.4	room tiles 50/50; junction records 2/2; edge tiles 54/127; fill tiles 49/573; unknown picks 10 (0 long/absent); key misses 10
-3437885341	Dunes	tgr	PARTIAL			1961697091		3.8	room tiles 50/50; junction records 2/2; edge tiles 48/121; fill tiles 59/617; unknown picks 21 (1 long/absent); key misses 21
-3386404660	Dunes	tgr	PARTIAL			1888330494		3.8	room tiles 50/50; junction records 2/2; edge tiles 51/129; fill tiles 254/591; unknown picks 12 (1 long/absent); key misses 11
-4204881227	The Coast	tgr	MATCH			2417950238		8.6	overlay tiles 1/1; tile heights 233/233; room tiles 96/96; junction records 3/3; edge tiles 84/84; fill tiles 1364/1364
+3781505654	Fields	tgr	PARTIAL			3038873634		8.6	room tiles 125/125; junction records 3/3; edge tiles 0/0; fill tiles 104/1605; unknown picks 36 (0 long/absent); key misses 36; tiliser Could not tilise edge 18
+3883261409	Cemetery	tgr	PARTIAL			3766429721		9.2	room tiles 169/169; junction records 0/0; edge tiles 103/163; fill tiles 535/2656; unknown picks 4 (0 long/absent); key misses 4
+723013311	Summit	tgr	PARTIAL			3923862688		4.7	room tiles 155/155; junction records 4/4; edge tiles 0/0; fill tiles 123/4243; tiliser Could not tilise edge 21
+1686816115	Bramble Valley	tgr	PARTIAL			2862224438		9.8	overlay tiles 0/0; tile heights 346/479; room tiles 148/148; junction records 4/4; edge tiles 234/239; fill tiles 93/906; unknown picks 20 (0 long/absent); key misses 20
+1055427934	Reef	tgr	PARTIAL			3865248345		4.4	room tiles 26/26; junction records 0/0; edge tiles 0/0; fill tiles 51/2415; tiliser Could not tilise edge 2
+2270359686	Estuary	tgr	PARTIAL			3704644399		14.9	room tiles 197/197; junction records 2/2; edge tiles 1/3; fill tiles 170/1299; unknown picks 127 (33 long/absent); key misses 63
+2063571190	Reef	tgr	PARTIAL			3089955312		2.5	room tiles 26/26; junction records 0/0; edge tiles 1/2; fill tiles 55/2631; unknown picks 76 (22 long/absent); key misses 35; tiliser Could not tilise edge 7
+270326391	Cold River	tgr	PARTIAL			3224415484		10.1	overlay tiles 0/5; tile heights 130/130; room tiles 23/23; junction records 3/3; edge tiles 12/24; fill tiles 45/803; unknown picks 73 (7 long/absent); key misses 70
+2370103968	Frozen Springs	tgr	PARTIAL			971370806		9.3	overlay tiles 0/2; tile heights 79/79; room tiles 41/41; junction records 0/0; edge tiles 13/24; fill tiles 58/414; unknown picks 24 (4 long/absent); key misses 26
+329911341	Arid Lake	tgr	PARTIAL			1510766055		7.3	room tiles 144/144; junction records 4/4; edge tiles 0/0; fill tiles 2/30; unknown picks 52 (21 long/absent); key misses 26; tiliser Could not tilise edge 5
+1495617907	Cemetery	tgr	PARTIAL			475509189		2.1	room tiles 169/169; junction records 0/0; edge tiles 18/201; fill tiles 323/2575; unknown picks 6 (0 long/absent); key misses 6
+3140904827	Desolate Isle	tgr	PARTIAL			1489187650		7.4	room tiles 37/37; junction records 0/0; edge tiles 0/3; fill tiles 51/1068; unknown picks 61 (0 long/absent); key misses 39; tiliser Could not tilise edge 4
+3017036420	Fields	tgr	PARTIAL			1046954483		5.5	room tiles 131/131; junction records 4/4; edge tiles 0/0; fill tiles 20/2829; tiliser Could not tilise edge 1
+119078213	Fields	tgr	PARTIAL			2953990025		2.8	room tiles 131/131; junction records 4/4; edge tiles 0/0; fill tiles 59/2485; unknown picks 35 (3 long/absent); key misses 33; tiliser Could not tilise edge 20
+2517423936	Jungle Valley	tgr	PARTIAL			2389117685		2.0	room tiles 109/109; junction records 0/0; edge tiles 5/18; fill tiles 43/489; unknown picks 5 (0 long/absent); key misses 5
+4235195259	Radiant Pools	tgr	ERROR			1972897786		0.9	RuntimeError: Could not permute edges: 6 @ permute.py:269 permute
+3932179557	Jungle Valley	tgr	PARTIAL			2492001220		1.5	room tiles 109/109; junction records 0/0; edge tiles 24/24; fill tiles 523/542; unknown picks 6 (0 long/absent); key misses 6
+2593937312	Summit	tgr	PARTIAL			421532764		2.0	room tiles 168/168; junction records 3/3; edge tiles 56/120; fill tiles 310/3060; unknown picks 72 (2 long/absent); key misses 62
+4142920631	Strand	tgr	ERROR			3517004770		3.8	RuntimeError: Failed to tilise the non-virtual node 2 (587, 572) @ edge_sim.py:1709 setup
+4118998225	Remote Gulch	tgr	MATCH			3368811495		1.7	room tiles 24/24; junction records 0/0; edge tiles 20/20; fill tiles 112/112
+1060729283	Forbidden Woods	tgr	PARTIAL			2837225922		11.3	overlay tiles 0/9; tile heights 47/47; room tiles 77/77; junction records 0/0; edge tiles 1/1; fill tiles 16/267; unknown picks 7 (0 long/absent); key misses 14; tiliser Could not tilise edge 1
+1566349468	Frozen Springs	tgr	PARTIAL			1747304251		2.7	overlay tiles 2/3; tile heights 84/84; room tiles 41/41; junction records 0/0; edge tiles 35/42; fill tiles 38/442; unknown picks 6 (2 long/absent); key misses 4
+1106525635	Atoll	tgr	PARTIAL			3590417379		2.2	room tiles 81/81; junction records 0/0; edge tiles 4/12; fill tiles 70/2941; unknown picks 65 (3 long/absent); key misses 42; tiliser Could not tilise edge 4b
+1123178038	Atoll	tgr	MATCH			3296850935		1.9	room tiles 83/83; junction records 0/0; edge tiles 174/174; fill tiles 1371/1371
+751119365	Fields	tgr	PARTIAL			2827281348		2.2	room tiles 125/125; junction records 3/3; edge tiles 0/0; fill tiles 52/2510; unknown picks 34 (1 long/absent); key misses 33; tiliser Could not tilise edge 13b
+2168134607	Narrow Ravine	tgr	PARTIAL			2502309106		1.6	room tiles 23/23; junction records 0/0; edge tiles 34/34; fill tiles 105/111; unknown picks 2 (0 long/absent); key misses 2
+1799690092	Mesa	tgr	PARTIAL			1854620790		5.6	room tiles 160/160; junction records 8/8; edge tiles 0/0; fill tiles 41/1902; tiliser Could not tilise edge 1
+286957910	Mesa	tgr	PARTIAL			3992954603		5.5	room tiles 150/150; junction records 8/8; edge tiles 0/0; fill tiles 45/1930; tiliser Could not tilise edge 21
+2655815737	Jungle Valley	tgr	PARTIAL			3922542281		2.3	room tiles 109/109; junction records 0/0; edge tiles 12/22; fill tiles 34/408; unknown picks 12 (0 long/absent); key misses 12
+753533807	Mesa	tgr	PARTIAL			2423700097		4.9	room tiles 150/150; junction records 8/8; edge tiles 0/0; fill tiles 49/1969; tiliser Could not tilise edge 32
+2374171002	Jungle Valley	tgr	PARTIAL			2663885654		2.3	room tiles 109/109; junction records 0/0; edge tiles 28/28; fill tiles 490/516; unknown picks 8 (0 long/absent); key misses 8
+3529659146	Cold River	tgr	PARTIAL			4095804284		4.7	overlay tiles 0/2; tile heights 185/185; room tiles 27/27; junction records 5/5; edge tiles 21/41; fill tiles 133/603; unknown picks 95 (2 long/absent); key misses 106
+4085888185	Frozen Springs	tgr	PARTIAL			2385851167		2.9	overlay tiles 1/3; tile heights 80/80; room tiles 41/41; junction records 0/0; edge tiles 43/43; fill tiles 23/362; unknown picks 2 (2 long/absent); key misses 0
+667338612	Cemetery	tgr	PARTIAL			2926405623		2.9	room tiles 169/169; junction records 0/0; edge tiles 5/71; fill tiles 321/2684; unknown picks 127 (5 long/absent); key misses 125
+2461783259	Cold River	tgr	PARTIAL			2355264299		4.7	overlay tiles 0/1; tile heights 181/181; room tiles 42/42; junction records 4/4; edge tiles 14/27; fill tiles 41/742; unknown picks 102 (7 long/absent); key misses 108
+2798779299	Frozen Springs	tgr	PARTIAL			3702221210		3.2	overlay tiles 0/5; tile heights 81/81; room tiles 41/41; junction records 0/0; edge tiles 19/24; fill tiles 27/378; unknown picks 21 (7 long/absent); key misses 19
+3481731429	Cemetery	tgr	PARTIAL			1419242624		3.1	room tiles 169/169; junction records 0/0; edge tiles 3/64; fill tiles 303/2619; unknown picks 109 (0 long/absent); key misses 109
+1739195202	Chateau	tgr	PARTIAL			1858496985		4.0	overlay tiles 0/0; tile heights 109/109; room tiles 0/0; junction records 0/0; edge tiles 0/0; fill tiles 0/18; unknown picks 81 (6 long/absent); key misses 4
+2400607809	Jungle Valley	tgr	PARTIAL			2421854172		1.9	room tiles 109/109; junction records 0/0; edge tiles 21/21; fill tiles 461/478; unknown picks 6 (0 long/absent); key misses 6
+342411919	Jungle Valley	tgr	PARTIAL			3460528139		2.0	room tiles 109/109; junction records 0/0; edge tiles 28/28; fill tiles 725/761; unknown picks 6 (0 long/absent); key misses 6
+3098943194	Desolate Isle	tgr	PARTIAL			1296146835		2.0	room tiles 37/37; junction records 0/0; edge tiles 3/7; fill tiles 51/712; unknown picks 82 (0 long/absent); key misses 51
+3611361445	Dusty Bluff	tgr	PARTIAL			82583748		1.8	room tiles 46/46; junction records 0/0; edge tiles 4/4; fill tiles 46/770; unknown picks 64 (2 long/absent); key misses 43
+802035915	Fields	tgr	PARTIAL			2481018057		2.1	room tiles 131/131; junction records 4/4; edge tiles 0/0; fill tiles 101/2730; tiliser Could not tilise edge 1
+2166963285	Mesa	tgr	PARTIAL			1137674527		2.3	room tiles 150/150; junction records 8/8; edge tiles 0/0; fill tiles 55/1950; tiliser Could not tilise edge 21
+3468054408	Cemetery	tgr	ERROR			367962474		1.2	RuntimeError: Could not permute edges: 1 @ permute.py:269 permute
+2707036272	Cold River	tgr	ERROR			3229601297		1.1	RuntimeError: Failed to tilise the non-virtual node 15 (1165, 1234) @ edge_sim.py:1709 setup
+1512938536	Frozen Springs	tgr	PARTIAL			3882260033		2.4	overlay tiles 0/4; tile heights 88/88; room tiles 41/41; junction records 0/0; edge tiles 41/47; fill tiles 42/464; unknown picks 4 (4 long/absent); key misses 0
+379613852	Jungle Valley	tgr	PARTIAL			2573524677		2.0	room tiles 109/109; junction records 0/0; edge tiles 4/18; fill tiles 33/397; unknown picks 17 (0 long/absent); key misses 16
+568558881	Cemetery	tgr	PARTIAL			1714997564		2.4	room tiles 169/169; junction records 0/0; edge tiles 8/76; fill tiles 300/2579; unknown picks 144 (1 long/absent); key misses 144
+790305214	Radiant Pools	tgr	PARTIAL			2618298528		1.7	room tiles 124/124; junction records 2/2; edge tiles 11/18; fill tiles 20/253; unknown picks 62 (15 long/absent); key misses 49
+3403455307	Cold River	tgr	PARTIAL			1847271964		3.9	overlay tiles 0/0; tile heights 36/36; room tiles 23/23; junction records 3/3; edge tiles 0/0; fill tiles 7/165; tiliser Could not tilise edge 12
+402312402	Frozen Springs	tgr	PARTIAL			971065510		2.6	overlay tiles 0/3; tile heights 81/81; room tiles 37/37; junction records 0/0; edge tiles 43/43; fill tiles 18/410; unknown picks 3 (3 long/absent); key misses 0
+1411289870	Atoll	tgr	PARTIAL			1404642463		2.4	room tiles 81/81; junction records 0/0; edge tiles 0/0; fill tiles 39/1534; unknown picks 24 (5 long/absent); key misses 9; tiliser Could not tilise edge 22
+2523320384	Remote Gulch	tgr	PARTIAL			1399818573		1.7	room tiles 24/24; junction records 0/0; edge tiles 14/14; fill tiles 111/111; unknown picks 4 (0 long/absent); key misses 4
+4052074762	The Mud Flats	tgr	PARTIAL			2341102583		2.8	room tiles 63/63; junction records 5/5; edge tiles 23/36; fill tiles 48/405; unknown picks 93 (12 long/absent); key misses 76
+4265404066	The Coast	tgr	PARTIAL			175853767		3.1	overlay tiles 4/4; tile heights 246/246; room tiles 96/96; junction records 3/3; edge tiles 85/88; fill tiles 137/1261; unknown picks 0 (0 long/absent); key misses 6
+4267639713	Estuary	tgr	PARTIAL			1741927675		2.3	room tiles 202/202; junction records 2/2; edge tiles 4/7; fill tiles 171/1333; unknown picks 113 (32 long/absent); key misses 52
+2476432288	Estuary	tgr	PARTIAL			4137020424		2.3	room tiles 202/202; junction records 2/2; edge tiles 1/1; fill tiles 152/1358; unknown picks 130 (35 long/absent); key misses 69
+456096832	Estuary	tgr	PARTIAL			1269552117		2.6	room tiles 143/143; junction records 2/2; edge tiles 4/8; fill tiles 141/1382; unknown picks 109 (22 long/absent); key misses 69
+165779743	Estuary	tgr	PARTIAL			142059119		2.4	room tiles 202/202; junction records 2/2; edge tiles 5/6; fill tiles 164/1366; unknown picks 109 (25 long/absent); key misses 67
+1283180947	Dunes	tgr	PARTIAL			3427002475		3.4	room tiles 50/50; junction records 2/2; edge tiles 49/103; fill tiles 62/618; unknown picks 33 (1 long/absent); key misses 33
+537310253	Dunes	tgr	PARTIAL			2258690707		2.8	room tiles 50/50; junction records 2/2; edge tiles 64/140; fill tiles 46/525; unknown picks 7 (0 long/absent); key misses 7
+1428594699	Dunes	tgr	PARTIAL			146448142		2.4	room tiles 50/50; junction records 2/2; edge tiles 54/127; fill tiles 49/573; unknown picks 10 (0 long/absent); key misses 10
+3437885341	Dunes	tgr	PARTIAL			1961697091		2.3	room tiles 50/50; junction records 2/2; edge tiles 48/121; fill tiles 59/617; unknown picks 21 (1 long/absent); key misses 21
+3386404660	Dunes	tgr	PARTIAL			1888330494		2.6	room tiles 50/50; junction records 2/2; edge tiles 51/129; fill tiles 254/591; unknown picks 12 (1 long/absent); key misses 11
+4204881227	The Coast	tgr	MATCH			2417950238		3.0	overlay tiles 1/1; tile heights 233/233; room tiles 96/96; junction records 3/3; edge tiles 84/84; fill tiles 1364/1364
 1	Coral Hideout	dgr	MATCH	0	71x71	805187908	805187908	9.2	
 1	Karui Shores	dgr	MATCH	0	81x54	2815062652	2815062652	13.2	
 1	The Forest Encampment	dgr	MATCH	0	21x29	3884967862	3884967862	6.3	
@@ -635,14 +635,14 @@ seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
 2708883570	Promenade	dgr	MATCH	0	162x66	496375837	496375837	11.1	
 2394956069	Promenade	dgr	MATCH	0	66x174	1239237470	1239237470	11.1	
 1659102598	Promenade	dgr	MATCH	0	78x162	2294550982	2294550982	11.2	
-3581443819	Summit	tgr	PARTIAL			3802853319		4.7	room tiles 155/155; junction records 5/5; edge tiles 41/70; fill tiles 324/3198; unknown picks 145 (1 long/absent); key misses 113
+3581443819	Summit	tgr	MATCH			3802853319		2.5	room tiles 155/155; junction records 5/5; edge tiles 218/218; fill tiles 3292/3292
 3602887412	Forbidden Shrine	dgr	MATCH	0	43x43	3241472467	3241472467	15.2	
 638435782	Alleyways	dgr	MATCH	0	145x67	835076978	835076978	20.2	
 1	Celestial Nebula Hideout	dgr	MATCH	0	31x31	2718197086	2718197086	2.0	
-2757276480	Dark Forest	tgr	PARTIAL			1316577692		5.2	room tiles 214/214; junction records 0/0; edge tiles 2/4; fill tiles 43/690; unknown picks 67 (2 long/absent); key misses 61; tiliser Could not tilise edge 1
+2757276480	Dark Forest	tgr	PARTIAL			1316577692		3.4	room tiles 214/214; junction records 0/0; edge tiles 2/4; fill tiles 42/379; unknown picks 67 (2 long/absent); key misses 61; tiliser Could not tilise edge 1
 3547050619	Blind Alley	dgr	MATCH	0	42x36	1781720798	1781720798	8.0	
-1906316588	Dark Forest	tgr	PARTIAL			2064170609		5.1	room tiles 214/214; junction records 0/0; edge tiles 10/21; fill tiles 2/10; unknown picks 118 (39 long/absent); key misses 73; tiliser Could not tilise edge 5b
-2997931739	Forgotten Gulch	tgr	NOINST			2165212796		0.0	no outdoor instance for this seed (index status: generator failed)
-1567776896	The Coast	tgr	ERROR			3828130415		2.9	RuntimeError: Could not permute edges: 5 @ permute.py:269 permute
-1439399492	The Twilight Strand	tgr	ERROR			3221146430		2.9	RuntimeError: Failed to tilise the non-virtual node 5.s2 (906, 530) @ edge_sim.py:1695 setup
-3225193870	Desert	tgr	PARTIAL			4277833072		3.5	room tiles 127/127; junction records 0/0; edge tiles 0/0; fill tiles 14/179; tiliser Could not tilise edge 14
+1906316588	Dark Forest	tgr	PARTIAL			2064170609		3.4	room tiles 214/214; junction records 0/0; edge tiles 10/21; fill tiles 2/10; unknown picks 118 (39 long/absent); key misses 73; tiliser Could not tilise edge 5b
+2997931739	Forgotten Gulch	tgr	PARTIAL			2165212796		2.2	room tiles 33/33; junction records 1/1; edge tiles 2/2; fill tiles 77/900; unknown picks 67 (0 long/absent); key misses 48
+1567776896	The Coast	tgr	ERROR			3828130415		1.3	RuntimeError: Could not permute edges: 5 @ permute.py:269 permute
+1439399492	The Twilight Strand	tgr	ERROR			3221146430		1.1	RuntimeError: Failed to tilise the non-virtual node 5.s2 (906, 530) @ edge_sim.py:1709 setup
+3225193870	Desert	tgr	PARTIAL			4277833072		3.9	room tiles 127/127; junction records 0/0; edge tiles 0/0; fill tiles 15/174; tiliser Could not tilise edge 14
