@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2943703469 doodad hash 856342038 (CLI_ACTIVATE_MAP)
+AUTO seed 414697368 The Coast: terrain act6/area2/ graph coast_p2_v7.tgr (12 locked nodes match; capture 40 nodes, graph 24)
+   typed nodes never placed by the client (untilised): [0, 4, 5, 7, 8, 9, 10, 12, 14, 17, 20, 21, 23]
+   node pipeline: pre-pick words 3, vaal_pending False, hideout_claim False: free nodes 7/7 match
+   tile grid: captures\The Coast - 2_6_2 - 414697368\truth_5c0dbf3f3f0.tsv (75x75, 5625 cells) VERIFIED against tile hash 2943703469
+   walkable field: captures\The Coast - 2_6_2 - 414697368\walkable_5c0dbf3f3f0_melee.png (17.5% of the sub-cells walkable, matches the tiles' hull field at IoU 0.787; 2 layer(s) read; stored for the grid as walkable_5c0dbf3f3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Coast - 2_6_2 - 414697368\minimap.png
+   FAIL: permute-in 21/22, permute-out 7/22, rounder-in-1 7/22, rounder-in-2 7/22, rounder-in-3 7/25, rounder-in-4 7/25, rounder-in-5 3/25, rounder-in-6 6/25
+   layout: captures\The Coast - 2_6_2 - 414697368\layout.png; minimap captures\The Coast - 2_6_2 - 414697368\minimap.png
+   corpus row appended

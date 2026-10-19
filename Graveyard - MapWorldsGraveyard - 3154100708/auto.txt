@@ -1,0 +1,6 @@
+KNOWN Graveyard [MapWorldsGraveyard] seed 3154100708: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain endgame/mapgraveyard/, tile hash 3209577871 (1 of 1 rows), last capture captures/Graveyard - MapWorldsGraveyard - 3154100708/stages_20261018_180331.csv (DIFF)
+   this load's tile hash 3209577871 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   walkable field: only the ranged layer among the 2 layer(s) read is this area's; stored for the grid as walkable_5c100a5b3f0_{ranged}.png/.bin/.tsv; the map is not drawn with it
+   walkable field: captures\Graveyard - MapWorldsGraveyard - 3154100708\hull_ranged.png composed from the tiles' hull planes (71.7% of the sub-cells walkable, agrees with the grid on 54.2% of the cells; the placed objects' hulls are not in it)
+   minimap (the stored grid captures\Graveyard - MapWorldsGraveyard - 3154100708\truth_5c100a5b3f0.tsv): captures\Graveyard - MapWorldsGraveyard - 3154100708\minimap.png

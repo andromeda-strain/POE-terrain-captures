@@ -1,0 +1,28 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1467967406 doodad hash 1559266377 (CLI_ACTIVATE_MAP)
+AUTO seed 1555932308 Syndicate Hideout: dungeon area (capture captures/Syndicate Hideout - BetrayalSafeHouseLaboratory - 1555932308/stages_20261018_230027.csv)
+   dungeon (.dgr) pipeline: 1877 draws in 21 call sites (1 generator draws before it, 20445 after it - the post passes); no generator model yet
+   0x14203a8e0: 8 draws, bounds 100
+   0x142105ee9: 9 draws, bounds 100
+   0x142107272: 2 draws, bounds 200
+   0x1420fd32a: 98 draws, bounds 128
+   0x142012839: 3 draws, bounds 1,5
+   0x1420fd640: 202 draws, bounds 200,600
+   0x142001ee5: 13 draws, bounds 1,3
+   0x1420fc763: 2 draws, bounds 1,2
+   0x14210862e: 8 draws, bounds 4100,9100,100100
+   0x14210871c: 8 draws, bounds 840
+   0x142109942: 30 draws, bounds 300
+   0x142109cdf: 30 draws, bounds 300
+   0x142109cf6: 30 draws, bounds 840
+   0x1420efc0c: 302 draws, bounds 1,100,200,400,600,800,900,1000,1320,1400,1600
+   0x1420f6875: 152 draws, bounds 100,200,400,1320,1400,2800
+   0x141febf93: 468 draws, bounds 1,300,400
+   0x141febfcf: 468 draws, bounds 8
+   0x14202795d: 33 draws, bounds 100
+   0x141f29874: 1 draws, bounds 4
+   0x1420f45dc: 5 draws, bounds 1
+   0x1420f4807: 5 draws, bounds 800
+   tile grid: captures\Syndicate Hideout - BetrayalSafeHouseLaboratory - 1555932308\truth_35bc31723f0.tsv (39x147, 5733 cells) VERIFIED against tile hash 1467967406
+   walkable field: captures\Syndicate Hideout - BetrayalSafeHouseLaboratory - 1555932308\walkable_35bc31723f0_melee.png (8.6% of the sub-cells walkable, matches the tiles' hull field at IoU 0.929; 2 layer(s) read; stored for the grid as walkable_35bc31723f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Syndicate Hideout - BetrayalSafeHouseLaboratory - 1555932308\minimap.png

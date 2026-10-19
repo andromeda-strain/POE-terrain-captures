@@ -1,0 +1,22 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1739351996 doodad hash 2954778727 (CLI_ACTIVATE_MAP)
+AUTO seed 1730194247 Ancient Catacomb: dungeon area (capture captures/Ancient Catacomb - MapSideArea4_2 - 1730194247/stages_20261018_222211.csv)
+   dungeon (.dgr) pipeline: 623 draws in 15 call sites (2 generator draws before it, 2950 after it - the post passes); no generator model yet
+   0x14203a8e0: 1 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 1,4
+   0x1420fd32a: 17 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 32 draws, bounds 69
+   0x142001ee5: 4 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 3 draws, bounds 60,221
+   0x14210871c: 3 draws, bounds 840
+   0x1420efc0c: 122 draws, bounds 1,2,4,8,14,16
+   0x1420f6875: 35 draws, bounds 1,2,4,14,28
+   0x1420f45dc: 4 draws, bounds 1
+   0x1420f4807: 4 draws, bounds 8
+   0x141febf93: 197 draws, bounds 1
+   0x141febfcf: 197 draws, bounds 8
+   tile grid: captures\Ancient Catacomb - MapSideArea4_2 - 1730194247\truth_35b7c8eb3f0.tsv (39x35, 1365 cells) VERIFIED against tile hash 1739351996
+   walkable field: captures\Ancient Catacomb - MapSideArea4_2 - 1730194247\walkable_35b7c8eb3f0_melee.png (8.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.995; 2 layer(s) read; stored for the grid as walkable_35b7c8eb3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Ancient Catacomb - MapSideArea4_2 - 1730194247\minimap.png

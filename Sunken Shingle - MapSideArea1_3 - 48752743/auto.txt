@@ -1,0 +1,13 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 4185553644 doodad hash 3739556311 (CLI_ACTIVATE_MAP)
+AUTO seed 48752743 Sunken Shingle: terrain act1/sidebeach1/ graph beach1.tgr (0 locked nodes match; capture 8 nodes, graph 4)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 3]
+   node pipeline: pre-pick words 0, vaal_pending False, hideout_claim False: free nodes 0/0 match
+   tile grid: captures\Sunken Shingle - MapSideArea1_3 - 48752743\truth_5c100e43bf0.tsv (33x36, 1188 cells) VERIFIED against tile hash 4185553644
+   walkable field: captures\Sunken Shingle - MapSideArea1_3 - 48752743\walkable_5c100e43bf0_melee.png (22.6% of the sub-cells walkable, matches the tiles' hull field at IoU 0.997; 2 layer(s) read; stored for the grid as walkable_5c100e43bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Sunken Shingle - MapSideArea1_3 - 48752743\minimap.png
+   FAIL: permute-in 2/4 ERROR RuntimeError: Could not permute edges: 1, 2
+   layout: not rendered: \repos\POE 3.29.3b\Work\tools\permute.py", line 269, in permute
+    raise RuntimeError('Could not permute edges: ' + ', '.join(str(e.label) for e in again))
+RuntimeError: Could not permute edges: 1, 2; minimap captures\Sunken Shingle - MapSideArea1_3 - 48752743\minimap.png
+   corpus row appended

@@ -1,0 +1,4 @@
+KNOWN Strand [MapWorldsStrand] seed 2137595132: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 975700393 (1 of 1 rows), last capture captures/Strand - MapWorldsStrand - 2137595132/stages_20261018_205713.csv (dungeon trace)
+   this load's tile hash 975700393 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Strand - MapWorldsStrand - 2137595132\truth_33339e3abf0.tsv): captures\Strand - MapWorldsStrand - 2137595132\minimap.png

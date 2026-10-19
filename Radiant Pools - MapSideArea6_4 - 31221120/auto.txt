@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 884198525 doodad hash 82765594 (CLI_ACTIVATE_MAP)
+AUTO seed 31221120 Radiant Pools: terrain act6/sideradiantpool/ graph side_radiant_pool_01.tgr (1 locked nodes match; capture 13 nodes, graph 8)
+   typed nodes never placed by the client (untilised): [1, 2, 3, 5, 7]
+   node pipeline: pre-pick words 3, vaal_pending False, hideout_claim False: free nodes 0/0 match
+   tile grid: captures\Radiant Pools - MapSideArea6_4 - 31221120\truth_33309dd63f0.tsv (51x57, 2907 cells) VERIFIED against tile hash 884198525
+   walkable field: captures\Radiant Pools - MapSideArea6_4 - 31221120\walkable_33309dd63f0_melee.png (24.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.996; 2 layer(s) read; stored for the grid as walkable_33309dd63f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Radiant Pools - MapSideArea6_4 - 31221120\minimap.png
+   FAIL: permute-in 4/9, permute-out 0/9, rounder-in-1 0/9, rounder-in-2 0/9, rounder-in-4 0/9
+   layout: captures\Radiant Pools - MapSideArea6_4 - 31221120\layout.png; minimap captures\Radiant Pools - MapSideArea6_4 - 31221120\minimap.png
+   corpus row appended

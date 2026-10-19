@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 856438403 doodad hash 3962617812 (CLI_ACTIVATE_MAP)
+AUTO seed 2354425814 Untainted Paradise: terrain endgame/mapparadise/ graph paradise.tgr (10 locked nodes match; capture 27 nodes, graph 22)
+   typed nodes never placed by the client (untilised): [1, 4, 9, 12, 13]
+   node pipeline: pre-pick words 0, vaal_pending False, hideout_claim False: free nodes 11/11 match
+   tile grid: captures\Untainted Paradise - MapWorldsTropicalIslandUnique - 2354425814\truth_35b7c8be3f0.tsv (87x72, 6264 cells) VERIFIED against tile hash 856438403
+   walkable field: captures\Untainted Paradise - MapWorldsTropicalIslandUnique - 2354425814\walkable_35b7c8be3f0_melee.png (29.8% of the sub-cells walkable, matches the tiles' hull field at IoU 0.921; 2 layer(s) read; stored for the grid as walkable_35b7c8be3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Untainted Paradise - MapWorldsTropicalIslandUnique - 2354425814\minimap.png
+   FAIL: permute-in 12/12, permute-out 12/12, rounder-in-1 12/12, rounder-in-2 12/12, rounder-in-3 15/15, rounder-in-4 15/15, rounder-in-5 9/15, rounder-in-6 12/15
+   layout: captures\Untainted Paradise - MapWorldsTropicalIslandUnique - 2354425814\layout.png; minimap captures\Untainted Paradise - MapWorldsTropicalIslandUnique - 2354425814\minimap.png
+   corpus row appended

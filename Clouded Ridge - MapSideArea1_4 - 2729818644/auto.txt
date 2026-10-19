@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3789564672 doodad hash 1359752704 (CLI_ACTIVATE_MAP)
+AUTO seed 2729818644 Clouded Ridge: terrain act1/sideledge1/ graph ledge2.tgr (2 locked nodes match; capture 6 nodes, graph 4)
+   typed nodes never placed by the client (untilised): [0, 1]
+   node pipeline: pre-pick words 3, vaal_pending False, hideout_claim False: free nodes 0/0 match
+   tile grid: captures\Clouded Ridge - MapSideArea1_4 - 2729818644\truth_35b6eb19bf0.tsv (39x78, 3042 cells) VERIFIED against tile hash 3789564672
+   walkable field: captures\Clouded Ridge - MapSideArea1_4 - 2729818644\walkable_35b6eb19bf0_melee.png (5.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.669; 4 layer(s) read; stored for the grid as walkable_35b6eb19bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Clouded Ridge - MapSideArea1_4 - 2729818644\minimap.png
+   FAIL: permute-in 0/3, permute-out 0/3, rounder-in-1 0/3, rounder-in-2 0/3, rounder-in-3 0/6, rounder-in-4 0/6, rounder-in-5 0/6
+   layout: captures\Clouded Ridge - MapSideArea1_4 - 2729818644\layout.png; minimap captures\Clouded Ridge - MapSideArea1_4 - 2729818644\minimap.png
+   corpus row already present

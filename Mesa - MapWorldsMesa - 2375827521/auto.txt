@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2233508638 doodad hash 3643390812 (CLI_ACTIVATE_MAP)
+AUTO seed 2375827521 Mesa: terrain endgame/mapmesa/ graph mesa_02.tgr (29 locked nodes match; capture 45 nodes, graph 36)
+   typed nodes never placed by the client (untilised): [0, 1, 4, 5, 7, 11, 13, 19]
+   node pipeline: pre-pick words 0, vaal_pending False, hideout_claim False: free nodes 1/1 match
+   tile grid: captures\Mesa - MapWorldsMesa - 2375827521\truth_35b6e79a3f0.tsv (117x81, 7786 cells) VERIFIED against tile hash 2233508638
+   walkable field: only the ranged layer among the 2 layer(s) read is this area's; stored for the grid as walkable_35b6e79a3f0_{ranged}.png/.bin/.tsv; the map is not drawn with it
+   walkable field: captures\Mesa - MapWorldsMesa - 2375827521\hull_ranged.png composed from the tiles' hull planes (68.3% of the sub-cells walkable, agrees with the grid on 26.5% of the cells; the placed objects' hulls are not in it)
+   minimap (the client's grid): captures\Mesa - MapWorldsMesa - 2375827521\minimap.png
+   FAIL: permute-in 40/40, permute-out 20/40, rounder-in-1 20/40, rounder-in-2 20/40, rounder-in-3 20/40, rounder-in-6 11/40
+   layout: captures\Mesa - MapWorldsMesa - 2375827521\layout.png; minimap captures\Mesa - MapWorldsMesa - 2375827521\minimap.png
+   corpus row appended

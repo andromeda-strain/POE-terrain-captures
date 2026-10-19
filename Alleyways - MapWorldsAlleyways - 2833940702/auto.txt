@@ -1,0 +1,40 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 473282247 doodad hash 2294593569 (CLI_ACTIVATE_MAP)
+AUTO seed 2833940702 Alleyways: dungeon area (capture captures/Alleyways - MapWorldsAlleyways - 2833940702/stages_20261018_212208.csv)
+   dungeon (.dgr) pipeline: 4777 draws in 33 call sites (8 generator draws before it, 19836 after it - the post passes); no generator model yet
+   0x142031e88: 1 draws, bounds 1
+   0x142031ea6: 1 draws, bounds 3
+   0x14203a8e0: 38 draws, bounds 100
+   0x142030de5: 1 draws, bounds 2
+   0x142105ee9: 20 draws, bounds 1,3,4,100
+   0x142107272: 17 draws, bounds 757,1411,1452,2012,2114
+   0x1420fd32a: 193 draws, bounds 128
+   0x142012839: 5 draws, bounds 4,5,7,9,11
+   0x1420fd640: 156 draws, bounds 757,1411,1452,2012,2114
+   0x142001ee5: 71 draws, bounds 1
+   0x1420fc763: 2 draws, bounds 2,3
+   0x14210862e: 51 draws, bounds 1650,2200,3300,4100,6150,12300,16400,28700
+   0x14210871c: 51 draws, bounds 840
+   0x142108799: 6 draws, bounds 6150
+   0x1421087b9: 6 draws, bounds 840
+   0x142109942: 17 draws, bounds 1
+   0x142109cdf: 17 draws, bounds 1
+   0x142109cf6: 17 draws, bounds 840
+   0x1421029c7: 3 draws, bounds 2
+   0x1420ff711: 3 draws, bounds 9,10,11
+   0x1420ff72b: 3 draws, bounds 1
+   0x142102c41: 3 draws, bounds 840
+   0x1420efc0c: 317 draws, bounds 1,2,4,6,8,282,800
+   0x141d8b5ab: 3 draws, bounds 1,2,3
+   0x141fe9a73: 46 draws, bounds 800
+   0x1420f6875: 209 draws, bounds 1,2,4,6,92,202,282,800
+   0x141febf93: 1631 draws, bounds 1,3,8,100
+   0x141febfcf: 1631 draws, bounds 8
+   0x141febd7f: 115 draws, bounds 8,10,110,112
+   0x141fed087: 16 draws, bounds 8
+   0x14202795d: 35 draws, bounds 1,3,47,192,236,237,242
+   0x1420f7228: 4 draws, bounds 800
+   0x141fed1ec: 88 draws, bounds 8
+   tile grid: captures\Alleyways - MapWorldsAlleyways - 2833940702\truth_35b6e7973f0.tsv (133x67, 7724 cells) VERIFIED against tile hash 473282247
+   walkable field: captures\Alleyways - MapWorldsAlleyways - 2833940702\walkable_35b6e7973f0_melee.png (11.1% of the sub-cells walkable, matches the tiles' hull field at IoU 0.920; 2 layer(s) read; stored for the grid as walkable_35b6e7973f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Alleyways - MapWorldsAlleyways - 2833940702\minimap.png

@@ -1,0 +1,27 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 956698126 doodad hash 3330370523 (CLI_ACTIVATE_MAP)
+AUTO seed 3156293886 Sacred Chambers: dungeon area (capture captures/Sacred Chambers - MapSideArea3_5 - 3156293886/stages_20261018_153852.csv)
+   dungeon (.dgr) pipeline: 1251 draws in 20 call sites (2 generator draws before it, 3937 after it - the post passes); no generator model yet
+   0x14203a8e0: 3 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 100
+   0x1420038a1: 2 draws, bounds 100
+   0x1420fd32a: 8 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 10 draws, bounds 1088
+   0x142001ee5: 5 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x142100f13: 6 draws, bounds 0,1,2
+   0x14210862e: 4 draws, bounds 6,1610,11154
+   0x14210871c: 4 draws, bounds 840
+   0x142109942: 4 draws, bounds 43
+   0x142109cdf: 4 draws, bounds 43
+   0x142109cf6: 4 draws, bounds 840
+   0x1420efc0c: 266 draws, bounds 2,100,200,400,800,6000
+   0x1420f6875: 85 draws, bounds 100,200,400
+   0x1420f45dc: 5 draws, bounds 1
+   0x1420f4807: 5 draws, bounds 400
+   0x141febf93: 416 draws, bounds 1,100
+   0x141febfcf: 416 draws, bounds 8
+   tile grid: captures\Sacred Chambers - MapSideArea3_5 - 3156293886\truth_5c0cf3d6bf0.tsv (35x41, 1435 cells) VERIFIED against tile hash 956698126
+   walkable field: captures\Sacred Chambers - MapSideArea3_5 - 3156293886\walkable_5c0cf3d6bf0_melee.png (17.8% of the sub-cells walkable, matches the tiles' hull field at IoU 0.990; 3 layer(s) read; stored for the grid as walkable_5c0cf3d6bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Sacred Chambers - MapSideArea3_5 - 3156293886\minimap.png

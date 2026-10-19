@@ -1,0 +1,18 @@
+truth	truth_35c014d63f0.tsv
+layer	ranged
+source	walk_0
+read	2026-10-18 23:48:31
+width	1679
+height	828
+stride	840
+base	0x35b66bc0000
+origin	0xa0010
+score	0.9996
+iou_melee	0.1778
+iou_ranged	0.9996
+nibble	0	156681
+nibble	1	4284
+nibble	2	4503
+nibble	3	4704
+nibble	4	4831
+nibble	5	1215209

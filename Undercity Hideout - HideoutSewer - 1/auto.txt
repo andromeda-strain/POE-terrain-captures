@@ -1,3 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
    client tile hash 2876309264 doodad hash 2294597705 (CLI_ACTIVATE_MAP)
-AUTO seed 1 Undercity Hideout: the tracer saw no generation (it attached after the level was built; the capture has no node stages)
-   tile grid: the tracer dumped none and the memory scan is off (ini [AutoCapture] MemRead=0)
+AUTO seed 1 Undercity Hideout: dungeon area (capture captures/Undercity Hideout - HideoutSewer - 1/stages_20261018_162710.csv)
+   dungeon (.dgr) pipeline: 668 draws in 5 call sites (1 generator draws before it, 1344 after it - the post passes); no generator model yet
+   0x142105ee9: 1 draws, bounds 1
+   0x1420efc0c: 143 draws, bounds 40,60,80,100,200,400
+   0x1420f6875: 10 draws, bounds 200,400
+   0x141febf93: 257 draws, bounds 1,100
+   0x141febfcf: 257 draws, bounds 8
+   tile grid: captures\Undercity Hideout - HideoutSewer - 1\truth_5c100cc83f0.tsv (29x29, 841 cells) VERIFIED against tile hash 2876309264
+   walkable field: captures\Undercity Hideout - HideoutSewer - 1\walkable_5c100cc83f0_melee.png (9.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.880; 2 layer(s) read; stored for the grid as walkable_5c100cc83f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Undercity Hideout - HideoutSewer - 1\minimap.png

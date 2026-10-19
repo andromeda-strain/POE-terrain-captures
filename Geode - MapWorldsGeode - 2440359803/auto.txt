@@ -1,0 +1,6 @@
+KNOWN Geode [MapWorldsGeode] seed 2440359803: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 942516488 (1 of 1 rows), last capture captures/Geode - MapWorldsGeode - 2440359803/stages_20261018_214440.csv (dungeon trace)
+   this load's tile hash 942516488 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   walkable field: only the ranged layer among the 3 layer(s) read is this area's; stored for the grid as walkable_35b6e7973f0_{ranged}.png/.bin/.tsv; the map is not drawn with it
+   walkable field: captures\Geode - MapWorldsGeode - 2440359803\hull_melee.png composed from the tiles' hull planes (51.9% of the sub-cells walkable, agrees with the grid on 25.7% of the cells; the placed objects' hulls are not in it)
+   minimap (the stored grid captures\Geode - MapWorldsGeode - 2440359803\truth_35b6e7973f0.tsv): captures\Geode - MapWorldsGeode - 2440359803\minimap.png

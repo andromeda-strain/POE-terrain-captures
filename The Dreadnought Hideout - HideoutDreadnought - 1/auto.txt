@@ -1,0 +1,5 @@
+KNOWN The Dreadnought Hideout [HideoutDreadnought] seed 1: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 3576881561 (1 of 1 rows), last capture captures/The Dreadnought Hideout - HideoutDreadnought - 1/stages_20261006_220038.csv (dungeon trace)
+   this load's tile hash 3576881561 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   walkable field: captures\The Dreadnought Hideout - HideoutDreadnought - 1\walkable_297ce8193f0_melee.png (5.5% of the sub-cells walkable, matches the tiles' hull field at IoU 0.783; 2 layer(s) read; stored for the grid as walkable_297ce8193f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (rendered from the stored grid captures\The Dreadnought Hideout - HideoutDreadnought - 1\truth_297ce8193f0.tsv with the walkable field walkable_297ce8193f0_melee.png (matches the tiles' hull field at IoU 0.783)): captures\The Dreadnought Hideout - HideoutDreadnought - 1\minimap.png
