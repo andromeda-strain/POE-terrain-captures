@@ -63,7 +63,7 @@ seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
 3517148271	The Vaal Ruins	dgr	MATCH	0	67x67	2940475866	2940475866	1.5	
 1929370058	The Caverns	dgr	MATCH	0	71x63	4054197555	4054197555	1.7	
 612200276	The Ancient Pyramid	dgr	MATCH	0	111x39	2043394585	2043394585	1.7	
-1412296438	Atoll	dgr	ERROR			1253442074		1.5	RuntimeError: No possible rooms found for room at (0, 36) with type "entrance" @ dungeon_graph.py:1193 place_typed
+1412296438	Atoll	tgr	PARTIAL			1253442074		1.1	room tiles 69/79; junction records 0/0; edge tiles 161/162; fill tiles 248/1598; map cells 515/1811; unknown picks 2 (0 long/absent); key misses 2
 1123901509	Side Chapel	dgr	MATCH	0	79x79	3537605935	3537605935	1.4	
 1878280121	Atoll	tgr	MATCH			2168707350		1.3	room tiles 71/79; junction records 0/0; edge tiles 161/161; fill tiles 1534/1534; map cells 1822/1822
 2263660961	Neglected Cellar	dgr	MATCH	0	39x30	4044548570	4044548570	1.1	
