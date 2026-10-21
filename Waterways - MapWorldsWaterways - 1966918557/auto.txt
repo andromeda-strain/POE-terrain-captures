@@ -1,0 +1,4 @@
+KNOWN Waterways [MapWorldsWaterways] seed 1966918557: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 3864217855 (1 of 1 rows), last capture captures/Waterways - MapWorldsWaterways - 1966918557/stages_20261021_134532.csv (dungeon trace)
+   this load's tile hash 3864217855 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Waterways - MapWorldsWaterways - 1966918557\truth_38be90a2bf0.tsv): captures\Waterways - MapWorldsWaterways - 1966918557\minimap.png

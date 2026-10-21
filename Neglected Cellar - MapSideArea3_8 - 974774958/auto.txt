@@ -1,0 +1,23 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 4192101216 doodad hash 3696677428 (CLI_ACTIVATE_MAP)
+AUTO seed 974774958 Neglected Cellar: dungeon area (capture captures/Neglected Cellar - MapSideArea3_8 - 974774958/stages_20261021_134729.csv)
+   dungeon (.dgr) pipeline: 245 draws in 16 call sites (2 generator draws before it, 6318 after it - the post passes); no generator model yet
+   0x14203a8e0: 3 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 10
+   0x142107272: 1 draws, bounds 90
+   0x1420fd32a: 5 draws, bounds 128
+   0x142012839: 1 draws, bounds 3
+   0x1420fd640: 2 draws, bounds 90
+   0x142001ee5: 5 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 3 draws, bounds 1230,1640
+   0x14210871c: 3 draws, bounds 840
+   0x142108799: 1 draws, bounds 1230
+   0x1421087b9: 1 draws, bounds 840
+   0x1420efc0c: 95 draws, bounds 2,8,100,200,400,1200,2400
+   0x141febf93: 58 draws, bounds 1
+   0x141febfcf: 58 draws, bounds 8
+   0x14202795d: 6 draws, bounds 100
+   tile grid: captures\Neglected Cellar - MapSideArea3_8 - 974774958\truth_38ba7d9ebf0.tsv (39x30, 1170 cells) VERIFIED against tile hash 4192101216
+   walkable field: captures\Neglected Cellar - MapSideArea3_8 - 974774958\walkable_38ba7d9ebf0_melee.png (15.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.927; 3 layer(s) read; stored for the grid as walkable_38ba7d9ebf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Neglected Cellar - MapSideArea3_8 - 974774958\minimap.png
