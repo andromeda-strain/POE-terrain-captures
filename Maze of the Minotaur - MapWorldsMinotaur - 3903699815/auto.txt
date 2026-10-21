@@ -1,0 +1,4 @@
+KNOWN Maze of the Minotaur [MapWorldsMinotaur] seed 3903699815: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 658951666 (1 of 1 rows), last capture captures/Maze of the Minotaur - MapWorldsMinotaur - 3903699815/stages_20261020_171109.csv (dungeon trace)
+   this load's tile hash 658951666 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Maze of the Minotaur - MapWorldsMinotaur - 3903699815\truth_292bde623f0.tsv): captures\Maze of the Minotaur - MapWorldsMinotaur - 3903699815\minimap.png

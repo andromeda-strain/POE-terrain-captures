@@ -1,0 +1,16 @@
+--- 2026-10-20 21:57:13.357 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_11056_5.go --parent-pid 11056
+standby: go file seen 2 ms ago -> captures\stages_20261020_215713.csv
+21:57:13.370 (the attach call took 4 ms)
+attached to pid 18776, image base 0x7ff6242c0000 (dump base 0x140000000); DR0 generator 0x7ff62630d820 (then the draw 0x7ff6262b9720 on its thread)  DR1 permute 0x7ff6263e5790  DR3 dungeon 0x7ff6262fc900 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+level generator on tid 4156: draws traced on this thread
+dungeon pipeline on tid 4156; tracing continues for 10.0 s or until it returns
+dungeon pipeline returned
+level generator returned
+--- TileMap T=0x2f0bbb873f0 19x19: 361 cells with a tile, 2 distinct tiles -> captures\Voidborn Reliquary - ClassicTreasury_Cosmic - 2016062357\truth_2f0bbb873f0.tsv
+    tile hash over 262 origin cells = 1174283383
+trace window after the marker elapsed
+clear before detach: all 60 threads verified clear
+clear after detach: all 60 threads verified clear
+detached; client keeps running
+105 events written to captures\stages_20261020_215713.csv

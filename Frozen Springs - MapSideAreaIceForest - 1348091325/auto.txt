@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1831995827 doodad hash 1392913113 (CLI_ACTIVATE_MAP)
+AUTO seed 1348091325 Frozen Springs: terrain endgame/mapcoldwood/sideareaiceforest/ graph side_ice_forest_01.tgr (2 locked nodes match; capture 10 nodes, graph 8)
+   typed nodes never placed by the client (untilised): [1, 2, 3, 5, 7]
+   node pipeline: pre-pick words 1, vaal_pending False, hideout_claim False: free nodes 3/3 match
+   tile grid: captures\Frozen Springs - MapSideAreaIceForest - 1348091325\truth_46b3a8f23f0.tsv (57x63, 3591 cells) VERIFIED against tile hash 1831995827
+   walkable field: captures\Frozen Springs - MapSideAreaIceForest - 1348091325\walkable_46b3a8f23f0_melee.png (18.1% of the sub-cells walkable, matches the tiles' hull field at IoU 0.999; 2 layer(s) read; stored for the grid as walkable_46b3a8f23f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Frozen Springs - MapSideAreaIceForest - 1348091325\minimap.png
+   PASS: permute-in 5/5, permute-out 5/5, rounder-in-1 5/5, rounder-in-2 5/5, rounder-in-3 5/5
+   layout: captures\Frozen Springs - MapSideAreaIceForest - 1348091325\layout.png; minimap captures\Frozen Springs - MapSideAreaIceForest - 1348091325\minimap.png
+   corpus row appended

@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2530191620 doodad hash 1735838072 (CLI_ACTIVATE_MAP)
+AUTO seed 641796527 Absence of Value and Meaning: dungeon area (capture captures/Absence of Value and Meaning - MapWorldsElderArena - 641796527/stages_20261020_165512.csv)
+   dungeon (.dgr) pipeline: 436 draws in 4 call sites (1 generator draws before it, 2526 after it - the post passes); no generator model yet
+   0x142105ee9: 2 draws, bounds 100
+   0x1420efc0c: 98 draws, bounds 1,2,4,800
+   0x141febf93: 168 draws, bounds 1,100
+   0x141febfcf: 168 draws, bounds 8
+   tile grid: captures\Absence of Value and Meaning - MapWorldsElderArena - 641796527\truth_292bde6e3f0.tsv (27x39, 1053 cells) VERIFIED against tile hash 2530191620
+   walkable field: only the ranged layer among the 2 layer(s) read is this area's; stored for the grid as walkable_292bde6e3f0_{ranged}.png/.bin/.tsv; the map is not drawn with it
+   walkable field: captures\Absence of Value and Meaning - MapWorldsElderArena - 641796527\hull_melee.png composed from the tiles' hull planes (47.3% of the sub-cells walkable, agrees with the grid on 37.1% of the cells; the placed objects' hulls are not in it)
+   minimap (the client's grid): captures\Absence of Value and Meaning - MapWorldsElderArena - 641796527\minimap.png

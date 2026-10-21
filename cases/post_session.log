@@ -14,3 +14,19 @@
    area_content.py (1 s, exit 0): 3984 area loads -> captures\cases\area_content.tsv
    lab_layouts.py (1149 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
    done in 1150 s
+== post_session 2026-10-20 15:44:27
+   area_content.py (27 s, exit 0): 4049 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py (1139 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
+   done in 1166 s
+== post_session 2026-10-20 21:13:48
+   area_content.py (1 s, exit 0): 4077 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py (3301 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
+   done in 3303 s
+== post_session 2026-10-20 21:34:21
+   area_content.py (130 s, exit 0): 4087 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py FAILED: TimeoutExpired(['C:\\Python314\\python.exe', 'D:\\repos\\POE 3.29.3b\\Work\\tools\\lab_layouts.py', '--new'], 3600)
+   done in 3731 s
+== post_session 2026-10-20 22:15:15
+   area_content.py (31 s, exit 0): 4106 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py (1965 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
+   done in 1997 s

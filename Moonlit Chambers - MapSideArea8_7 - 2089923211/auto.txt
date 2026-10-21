@@ -1,0 +1,23 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 408518343 doodad hash 2403260010 (CLI_ACTIVATE_MAP)
+AUTO seed 2089923211 Moonlit Chambers: dungeon area (capture captures/Moonlit Chambers - MapSideArea8_7 - 2089923211/stages_20261020_220900.csv)
+   dungeon (.dgr) pipeline: 1169 draws in 16 call sites (2 generator draws before it, 5633 after it - the post passes); no generator model yet
+   0x14203a8e0: 2 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 100
+   0x1420fd32a: 9 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 17 draws, bounds 1082
+   0x142001ee5: 4 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 3 draws, bounds 20270,62510
+   0x14210871c: 3 draws, bounds 840
+   0x1420efc0c: 353 draws, bounds 1,2,4,6,8,12,200,400,460,660,800
+   0x1420f6875: 76 draws, bounds 1,2,4
+   0x1420f45dc: 4 draws, bounds 2
+   0x1420f47d8: 2 draws, bounds 1
+   0x1420f4807: 4 draws, bounds 4,8
+   0x141febf93: 344 draws, bounds 1,20,100
+   0x141febfcf: 344 draws, bounds 8
+   tile grid: captures\Moonlit Chambers - MapSideArea8_7 - 2089923211\truth_2f091c743f0.tsv (49x37, 1813 cells) VERIFIED against tile hash 408518343
+   walkable field: captures\Moonlit Chambers - MapSideArea8_7 - 2089923211\walkable_2f091c743f0_melee.png (20.0% of the sub-cells walkable, matches the tiles' hull field at IoU 0.983; 4 layer(s) read; stored for the grid as walkable_2f091c743f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Moonlit Chambers - MapSideArea8_7 - 2089923211\minimap.png

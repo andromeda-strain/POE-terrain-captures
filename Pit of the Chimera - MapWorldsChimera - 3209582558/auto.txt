@@ -1,0 +1,4 @@
+KNOWN Pit of the Chimera [MapWorldsChimera] seed 3209582558: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 695137383 (1 of 1 rows), last capture captures/Pit of the Chimera - MapWorldsChimera - 3209582558/stages_20261020_172150.csv (dungeon trace)
+   this load's tile hash 695137383 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Pit of the Chimera - MapWorldsChimera - 3209582558\truth_27bfb6763f0.tsv): captures\Pit of the Chimera - MapWorldsChimera - 3209582558\minimap.png

@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2510498395 doodad hash 308363717 (CLI_ACTIVATE_MAP)
+AUTO seed 1731235561 Dunes: terrain endgame/mapterraces/ graph terraces_1_3.tgr (18 locked nodes match; capture 22 nodes, graph 20)
+   typed nodes never placed by the client (untilised): [4, 5]
+   node pipeline: pre-pick words 0, vaal_pending False, hideout_claim False: free nodes 0/0 match
+   pre-pick words 0 -> 7 by the capture (first pipeline word: client 8, sim 1; 12 draws replayed)
+   tile grid: captures\Dunes - MapWorldsDunes - 1731235561\truth_578534f1bf0.tsv (117x81, 7786 cells) VERIFIED against tile hash 2510498395
+   walkable field: captures\Dunes - MapWorldsDunes - 1731235561\walkable_578534f1bf0_melee.png (13.6% of the sub-cells walkable, matches the tiles' hull field at IoU 0.998; 2 layer(s) read; stored for the grid as walkable_578534f1bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Dunes - MapWorldsDunes - 1731235561\minimap.png
+   FAIL: permute-in 21/21, permute-out 21/21, rounder-in-1 21/21, rounder-in-2 21/21, rounder-in-3 21/21, rounder-in-5 15/21
+   layout: captures\Dunes - MapWorldsDunes - 1731235561\layout.png; minimap captures\Dunes - MapWorldsDunes - 1731235561\minimap.png
+   corpus row appended
