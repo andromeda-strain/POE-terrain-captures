@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 517481765 doodad hash 2267141917 (CLI_ACTIVATE_MAP)
+AUTO seed 2199509015 Dried Riverbed: terrain leagues/expedition/site_driedriverbed/ graph driedriverbed_01.tgr (2 locked nodes match; capture 12 nodes, graph 10)
+   typed nodes never placed by the client (untilised): [0, 1, 2]
+   node pipeline: pre-pick words 4, vaal_pending False, hideout_claim False: free nodes 5/5 match
+   tile grid: captures\Dried Riverbed - ExpeditionDriedRiverbed - 2199509015\truth_39ea5a863f0.tsv (84x36, 2953 cells) VERIFIED against tile hash 517481765
+   walkable field: captures\Dried Riverbed - ExpeditionDriedRiverbed - 2199509015\walkable_39ea5a863f0_melee.png (19.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.968; 2 layer(s) read; stored for the grid as walkable_39ea5a863f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Dried Riverbed - ExpeditionDriedRiverbed - 2199509015\minimap.png
+   PASS: permute-in 5/5, permute-out 5/5, rounder-in-1 5/5, rounder-in-2 5/5, rounder-in-3 5/5
+   layout: captures\Dried Riverbed - ExpeditionDriedRiverbed - 2199509015\layout.png; minimap captures\Dried Riverbed - ExpeditionDriedRiverbed - 2199509015\minimap.png
+   corpus row appended

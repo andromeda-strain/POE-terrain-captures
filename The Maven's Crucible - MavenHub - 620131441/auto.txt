@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1470197678 doodad hash 0 (CLI_ACTIVATE_MAP)
+AUTO seed 620131441 The Maven's Crucible: dungeon area (capture captures/The Maven's Crucible - MavenHub - 620131441/stages_20261021_223902.csv)
+   dungeon (.dgr) pipeline: 524 draws in 4 call sites (1 generator draws before it, 1268 after it - the post passes); no generator model yet
+   0x142105ee9: 1 draws, bounds 1
+   0x1420efc0c: 1 draws, bounds 1
+   0x141febf93: 261 draws, bounds 1
+   0x141febfcf: 261 draws, bounds 8
+   tile grid: captures\The Maven's Crucible - MavenHub - 620131441\truth_39ea49013f0.tsv (23x23, 529 cells) VERIFIED against tile hash 1470197678
+   walkable field: captures\The Maven's Crucible - MavenHub - 620131441\walkable_39ea49013f0_melee.png (7.6% of the sub-cells walkable, matches the tiles' hull field at IoU 0.501; 2 layer(s) read; stored for the grid as walkable_39ea49013f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Maven's Crucible - MavenHub - 620131441\minimap.png

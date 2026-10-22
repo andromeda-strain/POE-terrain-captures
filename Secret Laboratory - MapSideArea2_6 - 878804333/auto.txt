@@ -1,0 +1,26 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 818676035 doodad hash 3237537047 (CLI_ACTIVATE_MAP)
+AUTO seed 878804333 Secret Laboratory: dungeon area (capture captures/Secret Laboratory - MapSideArea2_6 - 878804333/stages_20261021_222215.csv)
+   dungeon (.dgr) pipeline: 1016 draws in 19 call sites (2 generator draws before it, 6128 after it - the post passes); no generator model yet
+   0x14203a8e0: 1 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 1
+   0x1420fd32a: 14 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 35 draws, bounds 51
+   0x142001ee5: 3 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 2 draws, bounds 116,845
+   0x14210871c: 2 draws, bounds 840
+   0x1420efc0c: 195 draws, bounds 1,2,4,6,8
+   0x1420f6875: 29 draws, bounds 1,2,4,6
+   0x1420f45dc: 3 draws, bounds 1,2
+   0x1420f47d8: 1 draws, bounds 1
+   0x1420f4807: 3 draws, bounds 4,8
+   0x141febf93: 361 draws, bounds 1,460
+   0x141febfcf: 356 draws, bounds 8
+   0x141fece63: 3 draws, bounds 840
+   0x141fec0ea: 2 draws, bounds 430,440
+   0x141fec1d8: 2 draws, bounds 8
+   tile grid: captures\Secret Laboratory - MapSideArea2_6 - 878804333\truth_39ea490ebf0.tsv (47x47, 2209 cells) VERIFIED against tile hash 818676035
+   walkable field: captures\Secret Laboratory - MapSideArea2_6 - 878804333\walkable_39ea490ebf0_melee.png (7.9% of the sub-cells walkable, matches the tiles' hull field at IoU 0.988; 3 layer(s) read; stored for the grid as walkable_39ea490ebf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Secret Laboratory - MapSideArea2_6 - 878804333\minimap.png

@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1281500711 doodad hash 3718518993 (CLI_ACTIVATE_MAP)
+AUTO seed 2716328351 Sunken Shingle: terrain act1/sidebeach1/ graph beach4.tgr (0 locked nodes match; capture 8 nodes, graph 4)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 3]
+   node pipeline: pre-pick words 0, vaal_pending False, hideout_claim False: free nodes 0/0 match
+   pre-pick words 0 -> 1 by the capture (first pipeline word: client 2, sim 1; 12 draws replayed)
+   tile grid: captures\Sunken Shingle - MapSideArea1_3 - 2716328351\truth_39ea49d93f0.tsv (36x33, 1188 cells) VERIFIED against tile hash 1281500711
+   walkable field: captures\Sunken Shingle - MapSideArea1_3 - 2716328351\walkable_39ea49d93f0_melee.png (23.0% of the sub-cells walkable, matches the tiles' hull field at IoU 0.997; 3 layer(s) read; stored for the grid as walkable_39ea49d93f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Sunken Shingle - MapSideArea1_3 - 2716328351\minimap.png
+   PASS: permute-in 4/4, permute-out 4/4, rounder-in-1 4/4, rounder-in-2 4/4, rounder-in-3 8/8, rounder-in-4 8/8, rounder-in-5 8/8
+   layout: captures\Sunken Shingle - MapSideArea1_3 - 2716328351\layout.png; minimap captures\Sunken Shingle - MapSideArea1_3 - 2716328351\minimap.png
+   corpus row appended

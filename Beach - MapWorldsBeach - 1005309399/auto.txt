@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3029140101 doodad hash 3005072249 (CLI_ACTIVATE_MAP)
+AUTO seed 1005309399 Beach: terrain endgame/mapbeach2/ graph map_beach2_2.tgr (15 locked nodes match; capture 30 nodes, graph 25)
+   typed nodes never placed by the client (untilised): [0, 4, 11, 13, 24]
+   node pipeline: pre-pick words 7, vaal_pending False, hideout_claim False: free nodes 3/3 match
+   tile grid: captures\Beach - MapWorldsBeach - 1005309399\truth_22ec99323f0.tsv (78x138, 9181 cells) VERIFIED against tile hash 3029140101
+   walkable field: captures\Beach - MapWorldsBeach - 1005309399\walkable_22ec99323f0_melee.png (11.5% of the sub-cells walkable, matches the tiles' hull field at IoU 0.998; 2 layer(s) read; stored for the grid as walkable_22ec99323f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Beach - MapWorldsBeach - 1005309399\minimap.png
+   FAIL: permute-in 23/23, permute-out 23/23, rounder-in-1 23/23, rounder-in-2 23/23, rounder-in-3 26/27, rounder-in-4 26/27, rounder-in-5 26/27, rounder-in-6 4/27, rounder-in-8 15/27
+   layout: captures\Beach - MapWorldsBeach - 1005309399\layout.png; minimap captures\Beach - MapWorldsBeach - 1005309399\minimap.png
+   corpus row appended

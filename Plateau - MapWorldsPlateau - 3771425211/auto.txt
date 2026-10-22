@@ -1,0 +1,4 @@
+KNOWN Plateau [MapWorldsPlateau] seed 3771425211: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain endgame/mapledge2/, tile hash 3177796239 (1 of 1 rows), last capture captures/Plateau - MapWorldsPlateau - 3771425211/stages_20261022_120116.csv (PASS)
+   this load's tile hash 3177796239 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Plateau - MapWorldsPlateau - 3771425211\truth_22f0ec413f0.tsv): captures\Plateau - MapWorldsPlateau - 3771425211\minimap.png

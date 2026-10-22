@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 818969223 doodad hash 914783297 (CLI_ACTIVATE_MAP)
+AUTO seed 846110247 Estuary: terrain endgame/mapestuary/ graph estuary_4.tgr (9 locked nodes match; capture 28 nodes, graph 17)
+   typed nodes never placed by the client (untilised): [2, 3, 4, 9, 12, 13]
+   node pipeline: pre-pick words 8, vaal_pending False, hideout_claim False: free nodes 4/4 match
+   tile grid: captures\Estuary - MapWorldsEstuary - 846110247\truth_5a237bb5bf0.tsv (123x81, 8272 cells) VERIFIED against tile hash 818969223
+   walkable field: captures\Estuary - MapWorldsEstuary - 846110247\walkable_5a237bb5bf0_melee.png (11.3% of the sub-cells walkable, matches the tiles' hull field at IoU 0.985; 2 layer(s) read; stored for the grid as walkable_5a237bb5bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Estuary - MapWorldsEstuary - 846110247\minimap.png
+   FAIL: permute-in 15/15, permute-out 15/15, rounder-in-1 15/15, rounder-in-2 15/15, rounder-in-3 21/21, rounder-in-4 21/21, rounder-in-5 21/21, rounder-in-6 11/21, rounder-in-7 18/21
+   layout: captures\Estuary - MapWorldsEstuary - 846110247\layout.png; minimap captures\Estuary - MapWorldsEstuary - 846110247\minimap.png
+   corpus row appended

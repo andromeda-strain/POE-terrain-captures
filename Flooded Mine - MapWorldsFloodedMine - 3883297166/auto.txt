@@ -1,0 +1,33 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3598693151 doodad hash 1118526316 (CLI_ACTIVATE_MAP)
+AUTO seed 3883297166 Flooded Mine: dungeon area (capture captures/Flooded Mine - MapWorldsFloodedMine - 3883297166/stages_20261022_130308.csv)
+   dungeon (.dgr) pipeline: 3166 draws in 26 call sites (9 generator draws before it, 40889 after it - the post passes); no generator model yet
+   0x14203a8e0: 19 draws, bounds 100
+   0x142105ee9: 3 draws, bounds 1,100
+   0x142107272: 17 draws, bounds 19,860,1270,2111
+   0x1420fd32a: 54 draws, bounds 128
+   0x142012839: 1 draws, bounds 13
+   0x1420fd640: 167 draws, bounds 2111
+   0x142001ee5: 25 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 22 draws, bounds 141,346,478,23850,24760,27270,28880,29780,96200,121100,122710,231150
+   0x14210871c: 22 draws, bounds 840
+   0x142108799: 2 draws, bounds 141,23850
+   0x1421087b9: 2 draws, bounds 840
+   0x1421029c7: 3 draws, bounds 3
+   0x1420ff711: 3 draws, bounds 18,19,20
+   0x1420ff72b: 3 draws, bounds 1,2
+   0x142102c41: 3 draws, bounds 840
+   0x1420efc0c: 906 draws, bounds 1,2,4,6,8,10,12,48,200,400,800,1600
+   0x141d8b5ab: 3 draws, bounds 1,2,3
+   0x141fe9a73: 60 draws, bounds 800
+   0x1420f6875: 270 draws, bounds 1,2,4,10,12
+   0x141febf93: 672 draws, bounds 1,3,8
+   0x141febfcf: 672 draws, bounds 8
+   0x141febd7f: 120 draws, bounds 135,140
+   0x141fed1ec: 85 draws, bounds 8
+   0x141fed087: 29 draws, bounds 8
+   0x141fed0cc: 2 draws, bounds 840
+   tile grid: captures\Flooded Mine - MapWorldsFloodedMine - 3883297166\truth_5a255519bf0.tsv (93x53, 4246 cells) VERIFIED against tile hash 3598693151
+   walkable field: captures\Flooded Mine - MapWorldsFloodedMine - 3883297166\walkable_5a255519bf0_melee.png (16.8% of the sub-cells walkable, matches the tiles' hull field at IoU 0.968; 2 layer(s) read; stored for the grid as walkable_5a255519bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Flooded Mine - MapWorldsFloodedMine - 3883297166\minimap.png

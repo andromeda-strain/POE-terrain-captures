@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 331532188 doodad hash 241191811 (CLI_ACTIVATE_MAP)
+AUTO seed 2282230969 Tropical Island: terrain endgame/mapforest/ graph map_forest4.tgr (5 locked nodes match; capture 13 nodes, graph 13)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 3, 4, 9, 10, 11, 12]
+   node pipeline: pre-pick words 8, vaal_pending False, hideout_claim False: free nodes 7/7 match
+   tile grid: captures\Tropical Island - MapWorldsTropicalIsland - 2282230969\truth_22ec993b3f0.tsv (168x48, 7561 cells) VERIFIED against tile hash 331532188
+   walkable field: captures\Tropical Island - MapWorldsTropicalIsland - 2282230969\walkable_22ec993b3f0_melee.png (18.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.998; 3 layer(s) read; stored for the grid as walkable_22ec993b3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Tropical Island - MapWorldsTropicalIsland - 2282230969\minimap.png
+   PASS: permute-in 4/4, permute-out 4/4, rounder-in-1 4/4, rounder-in-2 4/4, rounder-in-3 8/8, rounder-in-4 8/8, rounder-in-5 8/8, rounder-in-6 8/8
+   layout: captures\Tropical Island - MapWorldsTropicalIsland - 2282230969\layout.png; minimap captures\Tropical Island - MapWorldsTropicalIsland - 2282230969\minimap.png
+   corpus row already present

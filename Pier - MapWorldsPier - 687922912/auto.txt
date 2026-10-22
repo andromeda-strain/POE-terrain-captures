@@ -1,0 +1,4 @@
+KNOWN Pier [MapWorldsPier] seed 687922912: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 2224667778 (1 of 1 rows), last capture captures/Pier - MapWorldsPier - 687922912/stages_20261021_221940.csv (dungeon trace)
+   this load's tile hash 2224667778 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Pier - MapWorldsPier - 687922912\truth_39f55af1bf0.tsv): captures\Pier - MapWorldsPier - 687922912\minimap.png
