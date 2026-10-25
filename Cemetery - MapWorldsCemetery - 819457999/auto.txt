@@ -1,0 +1,6 @@
+KNOWN Cemetery [MapWorldsCemetery] seed 819457999: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain endgame/mapcemetary/, tile hash 3824811287 (1 of 1 rows), last capture captures/Cemetery - MapWorldsCemetery - 819457999/stages_20261023_221232.csv (PASS)
+   this load's tile hash 3824811287 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   walkable field: only the ranged layer among the 3 layer(s) read is this area's; stored for the grid as walkable_3005b8aa3f0_{ranged}.png/.bin/.tsv; the map is not drawn with it
+   walkable field: captures\Cemetery - MapWorldsCemetery - 819457999\hull_ranged.png composed from the tiles' hull planes (72.9% of the sub-cells walkable, agrees with the grid on 16.4% of the cells; the placed objects' hulls are not in it)
+   minimap (the stored grid captures\Cemetery - MapWorldsCemetery - 819457999\truth_3005b8aa3f0.tsv): captures\Cemetery - MapWorldsCemetery - 819457999\minimap.png

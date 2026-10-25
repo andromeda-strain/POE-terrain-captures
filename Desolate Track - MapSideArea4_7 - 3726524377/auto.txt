@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1263612334 doodad hash 2907273019 (CLI_ACTIVATE_MAP)
+AUTO seed 3726524377 Desolate Track: terrain act4/sideascent/ graph ascent4.tgr (5 locked nodes match; capture 19 nodes, graph 11)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 7, 8]
+   node pipeline: pre-pick words 3, vaal_pending False, hideout_claim False: free nodes 1/1 match
+   tile grid: captures\Desolate Track - MapSideArea4_7 - 3726524377\truth_40f025a9bf0.tsv (36x96, 3456 cells) VERIFIED against tile hash 1263612334
+   walkable field: captures\Desolate Track - MapSideArea4_7 - 3726524377\walkable_40f025a9bf0_melee.png (12.5% of the sub-cells walkable, matches the tiles' hull field at IoU 0.996; 3 layer(s) read; stored for the grid as walkable_40f025a9bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Desolate Track - MapSideArea4_7 - 3726524377\minimap.png
+   PASS: permute-in 10/10, permute-out 10/10, rounder-in-1 10/10, rounder-in-2 10/10, rounder-in-3 10/10, rounder-in-4 16/16, rounder-in-5 16/16, rounder-in-6 16/16
+   layout: captures\Desolate Track - MapSideArea4_7 - 3726524377\layout.png; minimap captures\Desolate Track - MapSideArea4_7 - 3726524377\minimap.png
+   corpus row appended

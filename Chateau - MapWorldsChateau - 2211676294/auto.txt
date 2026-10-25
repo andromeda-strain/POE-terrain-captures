@@ -1,0 +1,4 @@
+KNOWN Chateau [MapWorldsChateau] seed 2211676294: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain leagues/azmeri/azmeriwoods/, tile hash 2766666303 (1 of 1 rows), last capture captures/Chateau - MapWorldsChateau - 2211676294/stages_20261022_220604.csv (DIFF)
+   this load's tile hash 2766666303 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Chateau - MapWorldsChateau - 2211676294\truth_38fcb734bf0.tsv): captures\Chateau - MapWorldsChateau - 2211676294\minimap.png

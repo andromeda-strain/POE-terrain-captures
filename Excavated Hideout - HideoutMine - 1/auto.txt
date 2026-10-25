@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 954848677 doodad hash 0 (CLI_ACTIVATE_MAP)
+AUTO seed 1 Excavated Hideout: dungeon area (capture captures/Excavated Hideout - HideoutMine - 1/stages_20261023_102824.csv)
+   dungeon (.dgr) pipeline: 771 draws in 4 call sites (1 generator draws before it, 1188 after it - the post passes); no generator model yet
+   0x142105ee9: 1 draws, bounds 1
+   0x1420efc0c: 100 draws, bounds 40,100,200,400,640,1200,1600
+   0x141febf93: 335 draws, bounds 100,300
+   0x141febfcf: 335 draws, bounds 8
+   tile grid: captures\Excavated Hideout - HideoutMine - 1\truth_4a15bc89bf0.tsv (21x21, 441 cells) VERIFIED against tile hash 954848677
+   walkable field: captures\Excavated Hideout - HideoutMine - 1\walkable_4a15bc89bf0_melee.png (10.3% of the sub-cells walkable, matches the tiles' hull field at IoU 0.914; 3 layer(s) read; stored for the grid as walkable_4a15bc89bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Excavated Hideout - HideoutMine - 1\minimap.png

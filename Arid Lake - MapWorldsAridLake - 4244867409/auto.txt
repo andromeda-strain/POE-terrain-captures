@@ -1,0 +1,4 @@
+KNOWN Arid Lake [MapWorldsAridLake] seed 4244867409: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain endgame/mapsaltflats/, tile hash 382353648 (1 of 1 rows), last capture captures/Arid Lake - MapWorldsAridLake - 4244867409/stages_20261023_131736.csv (DIFF)
+   this load's tile hash 382353648 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Arid Lake - MapWorldsAridLake - 4244867409\truth_4a19de72bf0.tsv): captures\Arid Lake - MapWorldsAridLake - 4244867409\minimap.png

@@ -1,0 +1,4 @@
+KNOWN Citadel [MapWorldsCitadel] seed 1563385959: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 3210650247 (1 of 1 rows), last capture captures/Citadel - MapWorldsCitadel - 1563385959/stages_20261024_212708.csv (dungeon trace)
+   this load's tile hash 3210650247 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Citadel - MapWorldsCitadel - 1563385959\truth_40ec5bbe3f0.tsv): captures\Citadel - MapWorldsCitadel - 1563385959\minimap.png

@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 949477248 doodad hash 1026793823 (CLI_ACTIVATE_MAP)
+AUTO seed 2330432741 Lake Islet: dungeon area (capture captures/Lake Islet - MapAtlasEncounter_ReflectingMist - 2330432741/stages_20261023_101503.csv)
+   dungeon (.dgr) pipeline: 617 draws in 4 call sites (1 generator draws before it, 0 after it - the post passes); no generator model yet
+   0x142105ee9: 1 draws, bounds 1
+   0x1420efc0c: 32 draws, bounds 1
+   0x141febf93: 292 draws, bounds 100
+   0x141febfcf: 292 draws, bounds 8
+   tile grid: captures\Lake Islet - MapAtlasEncounter_ReflectingMist - 2330432741\truth_4a1946fa3f0.tsv (18x18, 324 cells) VERIFIED against tile hash 949477248
+   walkable field: captures\Lake Islet - MapAtlasEncounter_ReflectingMist - 2330432741\walkable_4a1946fa3f0_melee.png (2.1% of the sub-cells walkable, matches the tiles' hull field at IoU 0.784; 2 layer(s) read; stored for the grid as walkable_4a1946fa3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Lake Islet - MapAtlasEncounter_ReflectingMist - 2330432741\minimap.png

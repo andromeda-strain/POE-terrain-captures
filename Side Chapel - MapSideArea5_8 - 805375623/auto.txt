@@ -1,0 +1,24 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3356817444 doodad hash 1080202659 (CLI_ACTIVATE_MAP)
+AUTO seed 805375623 Side Chapel: dungeon area (capture captures/Side Chapel - MapSideArea5_8 - 805375623/stages_20261023_224604.csv)
+   dungeon (.dgr) pipeline: 1392 draws in 17 call sites (2 generator draws before it, 7748 after it - the post passes); no generator model yet
+   0x14203a8e0: 7 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 1
+   0x142107272: 5 draws, bounds 38
+   0x1420fd32a: 25 draws, bounds 128
+   0x142012839: 1 draws, bounds 7
+   0x1420fd640: 18 draws, bounds 38
+   0x142001ee5: 9 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 7 draws, bounds 66,246,984
+   0x14210871c: 7 draws, bounds 840
+   0x1420efc0c: 193 draws, bounds 1,2,4,8,120
+   0x1420f6875: 29 draws, bounds 2,6
+   0x141febf93: 390 draws, bounds 100
+   0x141febfcf: 390 draws, bounds 8
+   0x141febd7f: 153 draws, bounds 100200
+   0x141fed1ec: 153 draws, bounds 8
+   0x14202795d: 2 draws, bounds 1
+   tile grid: captures\Side Chapel - MapSideArea5_8 - 805375623\truth_3003e5c5bf0.tsv (79x79, 6241 cells) VERIFIED against tile hash 3356817444
+   walkable field: captures\Side Chapel - MapSideArea5_8 - 805375623\walkable_3003e5c5bf0_melee.png (8.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.940; 2 layer(s) read; stored for the grid as walkable_3003e5c5bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Side Chapel - MapSideArea5_8 - 805375623\minimap.png

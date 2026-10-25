@@ -1,0 +1,6 @@
+pass1: 1167 .tdt path buffers
+pass2: 191 tiledef wstrings, 11421 cell sites
+pass3: runs 7786@0x40f25e50010
+  TileMap T=0x40f02618bf0 cols=117 rows=81 cells@0x40f25e50010 (~7786 placed in run)
+--- TileMap T=0x40f02618bf0 117x81: 7786 cells with a tile, 87 distinct tiles -> captures\Atoll - MapWorldsAtoll - 1802187210\truth_40f02618bf0.tsv
+    tile hash over 4777 origin cells = 461119030; Client.txt last generation MapWorldsAtoll seed 1802187210 -> 461119030 MATCH

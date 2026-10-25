@@ -1,0 +1,10 @@
+--- 2026-10-24 21:50:43.414 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_19776_8.go --parent-pid 19776
+standby: go file seen 1 ms ago -> captures\stages_20261024_215042.csv
+21:50:43.428 (the attach call took 4 ms)
+attached to pid 14276, image base 0x7ff759240000 (dump base 0x140000000); DR0 generator 0x7ff75b28d820 (then the draw 0x7ff75b239720 on its thread)  DR1 permute 0x7ff75b365790  DR3 dungeon 0x7ff75b27c900 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+deadline reached
+clear before detach: all 61 threads verified clear
+clear after detach: all 61 threads verified clear
+detached; client keeps running
+0 events written to captures\stages_20261024_215042.csv

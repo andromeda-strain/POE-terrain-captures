@@ -1,0 +1,4 @@
+KNOWN Jungle Valley [MapWorldsJungleValley] seed 1898338355: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain endgame/mapforest2/, tile hash 254064718 (1 of 1 rows), last capture captures/Jungle Valley - MapWorldsJungleValley - 1898338355/stages_20261023_224441.csv (PASS)
+   this load's tile hash 254064718 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Jungle Valley - MapWorldsJungleValley - 1898338355\truth_3005acf23f0.tsv): captures\Jungle Valley - MapWorldsJungleValley - 1898338355\minimap.png

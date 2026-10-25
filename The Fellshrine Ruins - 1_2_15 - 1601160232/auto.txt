@@ -1,0 +1,15 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 687638085 doodad hash 1658254617 (CLI_ACTIVATE_MAP)
+AUTO seed 1601160232 The Fellshrine Ruins: terrain act2/area15/ graph macro_ruins2.tgr (12 locked nodes match; capture 54 nodes, graph 31)
+   typed nodes never placed by the client (untilised): [2, 8, 9, 10, 11, 14, 15, 18, 19, 20, 23, 24, 25, 26, 27, 28, 29]
+   node pipeline: pre-pick words 3, vaal_pending False, hideout_claim False: free nodes 4/9 match
+   deletion candidates: certain [2, 8, 9, 19, 23], uncertain [24]; 1 option(s) for -23 deleted node(s)
+   removed nodes [2, 8, 9, 19, 23], pre-mover words 0: free nodes 0/9 match (legacy fit)
+   tile grid: captures\The Fellshrine Ruins - 1_2_15 - 1601160232\truth_5c641f26bf0.tsv (111x87, 9657 cells) VERIFIED against tile hash 687638085
+   walkable field: captures\The Fellshrine Ruins - 1_2_15 - 1601160232\walkable_5c641f26bf0_melee.png (28.6% of the sub-cells walkable, matches the tiles' hull field at IoU 0.535; 2 layer(s) read; stored for the grid as walkable_5c641f26bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Fellshrine Ruins - 1_2_15 - 1601160232\minimap.png
+   FAIL: permute-in 0/27, permute-out 0/27, rounder-in-1 0/27, rounder-in-2 0/27, rounder-in-3 0/37, rounder-in-4 0/37, rounder-in-5 0/37 ERROR RuntimeError: Failed to tilise the non-virtual node 6 (2084, 11)
+   layout: not rendered:  3.29.3b\Work\tools\edge_sim.py", line 1845, in setup
+    raise RuntimeError(f'Failed to tilise the non-virtual node {nd.id} {nd.pos}')
+RuntimeError: Failed to tilise the non-virtual node 6 (2084, 11); minimap captures\The Fellshrine Ruins - 1_2_15 - 1601160232\minimap.png
+   corpus row appended

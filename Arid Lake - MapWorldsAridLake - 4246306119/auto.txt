@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1048244618 doodad hash 4041509224 (CLI_ACTIVATE_MAP)
+AUTO seed 4246306119 Arid Lake: terrain endgame/mapsaltflats/ graph salt_flats_3.tgr (4 locked nodes match; capture 37 nodes, graph 34)
+   typed nodes never placed by the client (untilised): [4, 11, 13, 14, 17, 22, 27, 28]
+   node pipeline: pre-pick words 7, vaal_pending True, hideout_claim False: free nodes 14/14 match
+   tile grid: captures\Arid Lake - MapWorldsAridLake - 4246306119\truth_3005ab993f0.tsv (48x102, 4393 cells) VERIFIED against tile hash 1048244618
+   walkable field: captures\Arid Lake - MapWorldsAridLake - 4246306119\walkable_3005ab993f0_melee.png (29.6% of the sub-cells walkable, matches the tiles' hull field at IoU 0.987; 2 layer(s) read; stored for the grid as walkable_3005ab993f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Arid Lake - MapWorldsAridLake - 4246306119\minimap.png
+   FAIL: permute-in 20/20, permute-out 20/20, rounder-in-1 20/20, rounder-in-2 20/20, rounder-in-3 23/24, rounder-in-4 23/24, rounder-in-5 8/24, rounder-in-6 16/24
+   layout: captures\Arid Lake - MapWorldsAridLake - 4246306119\layout.png; minimap captures\Arid Lake - MapWorldsAridLake - 4246306119\minimap.png
+   corpus row already present

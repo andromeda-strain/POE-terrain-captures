@@ -1,0 +1,20 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 4267689728 doodad hash 2894744150 (CLI_ACTIVATE_MAP)
+AUTO seed 1117511399 Strange Sinkhole: dungeon area (capture captures/Strange Sinkhole - MapSideArea1_1 - 1117511399/stages_20261022_230049.csv)
+   dungeon (.dgr) pipeline: 527 draws in 13 call sites (2 generator draws before it, 9743 after it - the post passes); no generator model yet
+   0x14203a8e0: 1 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 1,6
+   0x1420fd32a: 26 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 51 draws, bounds 47
+   0x142001ee5: 5 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 4 draws, bounds 34,176,386
+   0x14210871c: 4 draws, bounds 840
+   0x1420efc0c: 148 draws, bounds 1,2,4,8,10,12,16,48
+   0x1420f6875: 60 draws, bounds 4,10,12
+   0x141febf93: 112 draws, bounds 1,100,120
+   0x141febfcf: 112 draws, bounds 8
+   tile grid: captures\Strange Sinkhole - MapSideArea1_1 - 1117511399\truth_330994163f0.tsv (41x37, 1517 cells) VERIFIED against tile hash 4267689728
+   walkable field: captures\Strange Sinkhole - MapSideArea1_1 - 1117511399\walkable_330994163f0_melee.png (7.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.979; 4 layer(s) read; stored for the grid as walkable_330994163f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Strange Sinkhole - MapSideArea1_1 - 1117511399\minimap.png

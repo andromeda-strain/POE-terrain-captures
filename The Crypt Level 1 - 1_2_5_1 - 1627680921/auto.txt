@@ -1,0 +1,4 @@
+KNOWN The Crypt Level 1 [1_2_5_1] seed 1627680921: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 1498391034 (1 of 1 rows), last capture captures/The Crypt Level 1 - 1_2_5_1 - 1627680921/stages_20261025_175150.csv (dungeon trace)
+   this load's tile hash 1498391034 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\The Crypt Level 1 - 1_2_5_1 - 1627680921\truth_5c63cccabf0.tsv): captures\The Crypt Level 1 - 1_2_5_1 - 1627680921\minimap.png

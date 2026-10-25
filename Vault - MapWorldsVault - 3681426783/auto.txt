@@ -1,0 +1,4 @@
+KNOWN Vault [MapWorldsVault] seed 3681426783: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 3076799954 (1 of 1 rows), last capture captures/Vault - MapWorldsVault - 3681426783/stages_20261022_164032.csv (dungeon trace)
+   this load's tile hash 3076799954 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Vault - MapWorldsVault - 3681426783\truth_50b67e253f0.tsv): captures\Vault - MapWorldsVault - 3681426783\minimap.png

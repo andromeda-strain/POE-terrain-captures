@@ -1,0 +1,9 @@
+2026/10/22 17:20:03 185188703 1186a8a3 [DEBUG Client 18672] Generating level 60 area "HideoutSacrifice" with seed 1
+2026/10/22 17:20:05 185190156 f22b6a02 [INFO Client 18672] Tile hash: 468138336
+2026/10/22 17:20:05 185190156 f22b6a0d [INFO Client 18672] Doodad hash: 488003857
+2026/10/22 17:20:05 185190671 e001b752 [INFO Client 18672] [SCENE] Set Source [(null)]
+2026/10/22 17:20:05 185190687 e001b752 [INFO Client 18672] [SCENE] Set Source [Sacrificial Apex Hideout]
+2026/10/22 17:20:05 185190750 df74e03b [DEBUG Client 18672] [SCENE] Static Walkability Texture: 560 x 376
+2026/10/22 17:20:06 185191671 cffb065b [INFO Client 18672] : You have entered Sacrificial Apex Hideout.
+2026/10/22 17:20:06 185191750 13cb2f92 [WARN Client 18672] Failed to create effect graph node (ID: 70207256). Node type does not exist
+2026/10/22 17:20:06 185191750 5c7c661 [WARN Client 18672] Failed to create effect graph node "WaterFlowUvField" in graph "Metadata/Effects/Graphs/Environment/FlowingWater.fxgraph"

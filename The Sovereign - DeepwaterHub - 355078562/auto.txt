@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2574692810 doodad hash 832597477 (CLI_ACTIVATE_MAP)
+AUTO seed 355078562 The Sovereign: dungeon area (capture captures/The Sovereign - DeepwaterHub - 355078562/stages_20261023_162123.csv)
+   dungeon (.dgr) pipeline: 580 draws in 4 call sites (1 generator draws before it, 6 after it - the post passes); no generator model yet
+   0x142105ee9: 2 draws, bounds 1
+   0x1420efc0c: 2 draws, bounds 1
+   0x141febf93: 288 draws, bounds 1
+   0x141febfcf: 288 draws, bounds 8
+   tile grid: captures\The Sovereign - DeepwaterHub - 355078562\truth_334c2ca13f0.tsv (36x36, 1296 cells) VERIFIED against tile hash 2574692810
+   walkable field: captures\The Sovereign - DeepwaterHub - 355078562\walkable_334c2ca13f0_melee.png (2.4% of the sub-cells walkable, matches the tiles' hull field at IoU 0.960; 2 layer(s) read; stored for the grid as walkable_334c2ca13f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Sovereign - DeepwaterHub - 355078562\minimap.png

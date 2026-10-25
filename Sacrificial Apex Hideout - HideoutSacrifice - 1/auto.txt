@@ -1,0 +1,14 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 468138336 doodad hash 488003857 (CLI_ACTIVATE_MAP)
+AUTO seed 1 Sacrificial Apex Hideout: dungeon area (capture captures/Sacrificial Apex Hideout - HideoutSacrifice - 1/stages_20261022_172001.csv)
+   dungeon (.dgr) pipeline: 3698 draws in 7 call sites (1 generator draws before it, 0 after it - the post passes); no generator model yet
+   0x142105ee9: 2 draws, bounds 1
+   0x142109942: 3 draws, bounds 1
+   0x142109cdf: 3 draws, bounds 1
+   0x142109cf6: 3 draws, bounds 840
+   0x1420efc0c: 31 draws, bounds 1,2,32
+   0x141febf93: 1828 draws, bounds 100,10000
+   0x141febfcf: 1828 draws, bounds 8
+   tile grid: captures\Sacrificial Apex Hideout - HideoutSacrifice - 1\truth_50afba9b3f0.tsv (73x49, 3577 cells) VERIFIED against tile hash 468138336
+   walkable field: captures\Sacrificial Apex Hideout - HideoutSacrifice - 1\walkable_50afba9b3f0_melee.png (8.5% of the sub-cells walkable, matches the tiles' hull field at IoU 0.980; 2 layer(s) read; stored for the grid as walkable_50afba9b3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Sacrificial Apex Hideout - HideoutSacrifice - 1\minimap.png
