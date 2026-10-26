@@ -1,5 +1,4 @@
 KNOWN Stately Hideout [HideoutCourts] seed 1: 6 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
    generator dgr, terrain -, tile hash 3474430180 (6 of 6 rows), last capture captures/Stately Hideout - HideoutCourts - 1/stages_20261009_174604.csv (dungeon trace)
    this load's tile hash 3474430180 (CLI_ACTIVATE_MAP): the same level as the stored grid
-   walkable field: captures\Stately Hideout - HideoutCourts - 1\walkable_3466fcca3f0_melee.png (2.1% of the sub-cells walkable, matches the tiles' hull field at IoU 0.592; 3 layer(s) read; stored for the grid as walkable_3466fcca3f0_{melee,ranged}.png/.bin/.tsv)
-   minimap (rendered from the stored grid captures\Stately Hideout - HideoutCourts - 1\truth_3466fcca3f0.tsv with the walkable field walkable_3466fcca3f0_melee.png (matches the tiles' hull field at IoU 0.592)): captures\Stately Hideout - HideoutCourts - 1\minimap.png
+   minimap (the stored grid captures\Stately Hideout - HideoutCourts - 1\truth_3466fcca3f0.tsv): captures\Stately Hideout - HideoutCourts - 1\minimap.png
