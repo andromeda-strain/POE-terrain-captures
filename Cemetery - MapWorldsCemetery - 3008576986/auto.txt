@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1077930141 doodad hash 1306072004 (CLI_ACTIVATE_MAP)
+AUTO seed 3008576986 Cemetery: terrain endgame/mapcemetary/ graph cemetery_4.tgr (2 locked nodes match; capture 21 nodes, graph 22)
+   typed nodes never placed by the client (untilised): [1, 2, 6, 7, 8, 9]
+   node pipeline: pre-pick words 8, vaal_pending False, hideout_claim False: free nodes 16/16 match
+   tile grid: captures\Cemetery - MapWorldsCemetery - 3008576986\truth_3a6bde683f0.tsv (117x60, 6085 cells) VERIFIED against tile hash 1077930141
+   walkable field: only the ranged layer among the 2 layer(s) read is this area's; stored for the grid as walkable_3a6bde683f0_{ranged}.png/.bin/.tsv; the map is not drawn with it
+   walkable field: captures\Cemetery - MapWorldsCemetery - 3008576986\hull_ranged.png composed from the tiles' hull planes (72.9% of the sub-cells walkable, agrees with the grid on 14.1% of the cells; the placed objects' hulls are not in it)
+   minimap (the client's grid): captures\Cemetery - MapWorldsCemetery - 3008576986\minimap.png
+   PASS: permute-in 3/3, permute-out 3/3, rounder-in-1 3/3, rounder-in-2 3/3, rounder-in-3 3/3, rounder-in-4 3/3
+   layout: captures\Cemetery - MapWorldsCemetery - 3008576986\layout.png; minimap captures\Cemetery - MapWorldsCemetery - 3008576986\minimap.png
+   corpus row appended
