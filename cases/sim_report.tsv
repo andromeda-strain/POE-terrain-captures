@@ -337,7 +337,7 @@ seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
 2742815401	The Tidal Island	tgr	MATCH			746164926		5.9	room tiles 14/14; junction records 0/0; edge tiles 78/78; fill tiles 581/581; map cells 679/679
 1	Glimmerwood Hideout	dgr	MATCH	0	30x30	165724475	165724475	10.2	
 1	Battle-scarred Hideout	dgr	MATCH	0	33x33	2479215559	2479215559	4.3	
-2445327803	The Ship Graveyard	tgr	ERROR			4282217149		3.2	RuntimeError: Could not permute edges: 10, 11 @ permute.py:269 permute
+2445327803	The Ship Graveyard	tgr	MATCH			4282217149		1.8	room tiles 105/105; junction records 0/0; edge tiles 103/103; fill tiles 953/953; map cells 1186/1186; unknown picks 2 (0 long/absent); key misses 2
 2400635400	Alleyways	dgr	MATCH	0	197x75	1095433766	1095433766	37.4	
 2565914107	Chateau	dgr	MATCH	0	121x79	2907803743	2907803743	21.0	
 1	The Dreadnought Hideout	dgr	CELLS	675	72x48	3576881561	474594840	7.9	first draw-stage not OK: graph; first mismatch: sim 0x14210862e ? draw(3003) = 0 [word 53] subgraph 0 graph stage vs log 0x14210862e draw(4004) = 0
@@ -847,3 +847,5 @@ seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
 2836930837	Forgotten Shrine	dgr	MATCH	0	12x24	2931551054	2931551054	3.3	
 3008576986	Cemetery	tgr	MATCH			1077930141		4.9	room tiles 169/169; junction records 0/0; edge tiles 225/225; fill tiles 2762/2762; map cells 3210/3210
 1589481376	Desert Spring	tgr	MATCH			2589764367		5.4	room tiles 258/258; junction records 3/3; edge tiles 195/195; fill tiles 1695/1695; map cells 2205/2205
+620305052	Arid Lake	tgr	MATCH			4289257893		1.8	room tiles 154/154; junction records 4/4; edge tiles 96/96; fill tiles 488/488; map cells 853/853; unknown picks 3 (0 long/absent); key misses 3
+882573006	Domain of Timeless Conflict	dgr	MATCH	0	58x58	492633737	492633737	2.0	
