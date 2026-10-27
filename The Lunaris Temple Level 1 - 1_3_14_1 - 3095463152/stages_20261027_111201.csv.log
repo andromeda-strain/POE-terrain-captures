@@ -1,0 +1,28 @@
+--- 2026-10-27 11:12:01.919 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_26516_1.go --parent-pid 26516
+standby: go file seen 1 ms ago -> captures\stages_20261027_111201.csv
+11:12:01.929 (the attach call took 3 ms)
+attached to pid 18820, image base 0x7ff679700000 (dump base 0x140000000); DR0 generator 0x7ff67b74d820 (then the draw 0x7ff67b6f9720 on its thread)  DR1 permute 0x7ff67b825790  DR3 dungeon 0x7ff67b73c900 (auto: stage dumps after the permute)  [--border: DR1 = border-cell test 0x7ff67b7f0a70 after a dungeon entry]
+load the area now; Ctrl+C to stop and detach
+level generator on tid 20952: draws traced on this thread
+dungeon pipeline on tid 20952: border-cell test calls will be logged
+dungeon pipeline on tid 20952; tracing continues for 10.0 s or until it returns
+dungeon pipeline returned
+clear before detach: all 61 threads verified clear
+clear after detach: all 62 threads verified clear
+detached; client keeps running
+60 events written to captures\stages_20261027_111201.csv
+Traceback (most recent call last):
+  File "D:\repos\POE 3.29.3b\Work\tools\draw_tracer.py", line 1307, in <module>
+    main()
+    ~~~~^^
+  File "D:\repos\POE 3.29.3b\Work\tools\draw_tracer.py", line 1303, in main
+    t.run()
+    ~~~~~^^
+  File "D:\repos\POE 3.29.3b\Work\tools\draw_tracer.py", line 1110, in run
+    status = self.on_exception(tid, exc_code, addr, first)
+  File "D:\repos\POE 3.29.3b\Work\tools\draw_tracer.py", line 1005, in on_exception
+    set_context(h, p)
+    ~~~~~~~~~~~^^^^^^
+  File "D:\repos\POE 3.29.3b\Work\tools\draw_tracer.py", line 226, in set_context
+    raise OSError('SetThreadContext failed: %d' % ctypes.get_last_error())
+OSError: SetThreadContext failed: 6
