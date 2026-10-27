@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1955559927 doodad hash 2276777190 (CLI_ACTIVATE_MAP)
+AUTO seed 4096669064 Kaom's Dream: terrain act4/area4level1/ graph kaom1_2.tgr (10 locked nodes match; capture 61 nodes, graph 27)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 3, 8, 9, 12, 13, 14, 15, 16, 18, 19, 21, 22, 25, 26]
+   node pipeline: pre-pick words 3, vaal_pending False, hideout_claim False: free nodes 1/1 match
+   tile grid: captures\Kaom's Dream - 1_4_4_1 - 4096669064\truth_4bf5987abf0.tsv (78x87, 6786 cells) VERIFIED against tile hash 1955559927
+   walkable field: captures\Kaom's Dream - 1_4_4_1 - 4096669064\walkable_4bf5987abf0_melee.png (13.9% of the sub-cells walkable, matches the tiles' hull field at IoU 0.931; 2 layer(s) read; stored for the grid as walkable_4bf5987abf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Kaom's Dream - 1_4_4_1 - 4096669064\minimap.png
+   FAIL: permute-in 32/32, permute-out 32/32, rounder-in-1 32/32, rounder-in-2 32/32, rounder-in-3 37/37, rounder-in-4 37/37, rounder-in-5 37/37, rounder-in-6 37/37, rounder-in-7 27/37, rounder-in-8 36/37
+   layout: captures\Kaom's Dream - 1_4_4_1 - 4096669064\layout.png; minimap captures\Kaom's Dream - 1_4_4_1 - 4096669064\minimap.png
+   corpus row appended
