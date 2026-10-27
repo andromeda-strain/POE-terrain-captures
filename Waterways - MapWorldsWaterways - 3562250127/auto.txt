@@ -1,0 +1,17 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3413819852 doodad hash 553295588 (CLI_ACTIVATE_MAP)
+AUTO seed 3562250127 Waterways: terrain leagues/azmeri/azmeriwoods/ graph woods_04.tgr (15 locked nodes match; capture 22 nodes, graph 18)
+   truth offset (0, 145) (the .tgr subgraph rect inside the level)
+   typed nodes never placed by the client (untilised): [0, 3, 6, 7, 8]
+   node pipeline: every trial failed (RuntimeError: Could not tilise the special node 3 (817, 817))
+   deletion candidates: certain [12, 13], uncertain []; 1 option(s) for -4 deleted node(s)
+   removed nodes [12, 13], pre-mover words 0: free nodes 5/5 match (legacy fit)
+   tile grid: captures\Waterways - MapWorldsWaterways - 3562250127\truth_361e0b6f3f0.tsv (120x205, 21230 cells) VERIFIED against tile hash 3413819852
+   walkable field: captures\Waterways - MapWorldsWaterways - 3562250127\walkable_361e0b6f3f0_melee.png (8.8% of the sub-cells walkable, matches the tiles' hull field at IoU 0.933; 2 layer(s) read; stored for the grid as walkable_361e0b6f3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Waterways - MapWorldsWaterways - 3562250127\minimap.png
+   FAIL: permute-in 3/14, permute-out 0/14, rounder-in-1 0/14, rounder-in-2 0/14, rounder-in-3 0/15, rounder-in-4 0/15
+   layout: not rendered:   pos = _bytemap_skip(d, pos)
+  File "D:\repos\POE 3.29.3b\Work\tools\dungeon_fill.py", line 475, in _bytemap_skip
+    raise ValueError('Unknown data compression')
+ValueError: Unknown data compression; minimap captures\Waterways - MapWorldsWaterways - 3562250127\minimap.png
+   corpus row appended

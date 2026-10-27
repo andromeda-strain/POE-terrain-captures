@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2675421120 doodad hash 2006630503 (CLI_ACTIVATE_MAP)
+AUTO seed 3688366606 Forbidden Woods: terrain endgame/mapcoldwood/ graph forbiddenwoods_03.tgr (4 locked nodes match; capture 17 nodes, graph 17)
+   typed nodes never placed by the client (untilised): [0, 2, 4, 8, 9, 10]
+   node pipeline: pre-pick words 8, vaal_pending False, hideout_claim False: free nodes 5/5 match
+   tile grid: captures\Forbidden Woods - MapWorldsForbiddenWoods - 3688366606\truth_362397ec3f0.tsv (120x84, 8281 cells) VERIFIED against tile hash 2675421120
+   walkable field: captures\Forbidden Woods - MapWorldsForbiddenWoods - 3688366606\walkable_362397ec3f0_melee.png (12.6% of the sub-cells walkable, matches the tiles' hull field at IoU 0.989; 2 layer(s) read; stored for the grid as walkable_362397ec3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Forbidden Woods - MapWorldsForbiddenWoods - 3688366606\minimap.png
+   FAIL: permute-in 12/12, permute-out 12/12, rounder-in-1 12/12, rounder-in-2 12/12, rounder-in-3 16/18, rounder-in-4 16/18, rounder-in-5 16/18, rounder-in-6 16/18, rounder-in-7 16/18
+   layout: captures\Forbidden Woods - MapWorldsForbiddenWoods - 3688366606\layout.png; minimap captures\Forbidden Woods - MapWorldsForbiddenWoods - 3688366606\minimap.png
+   corpus row appended

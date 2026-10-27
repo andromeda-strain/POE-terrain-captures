@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1477473077 doodad hash 2156116717 (CLI_ACTIVATE_MAP)
+AUTO seed 4015472805 Bramble Valley: terrain endgame/mapbramblefall/ graph bramblefall_1.tgr (11 locked nodes match; capture 47 nodes, graph 25)
+   typed nodes never placed by the client (untilised): [0, 1, 3, 6, 9, 10, 14, 15, 21, 22, 23]
+   node pipeline: pre-pick words 8, vaal_pending False, hideout_claim False: free nodes 2/2 match
+   tile grid: captures\Bramble Valley - MapWorldsBrambleValley - 4015472805\truth_361796723f0.tsv (168x102, 14689 cells) VERIFIED against tile hash 1477473077
+   walkable field: captures\Bramble Valley - MapWorldsBrambleValley - 4015472805\walkable_361796723f0_melee.png (7.5% of the sub-cells walkable, matches the tiles' hull field at IoU 0.994; 2 layer(s) read; stored for the grid as walkable_361796723f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Bramble Valley - MapWorldsBrambleValley - 4015472805\minimap.png
+   PASS: permute-in 27/27, permute-out 27/27, rounder-in-1 27/27, rounder-in-2 27/27, rounder-in-3 29/29, rounder-in-4 29/29, rounder-in-5 29/29
+   layout: captures\Bramble Valley - MapWorldsBrambleValley - 4015472805\layout.png; minimap captures\Bramble Valley - MapWorldsBrambleValley - 4015472805\minimap.png
+   corpus row appended
