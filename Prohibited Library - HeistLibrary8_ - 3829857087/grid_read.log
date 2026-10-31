@@ -1,0 +1,6 @@
+pass1: 1605 .tdt path buffers
+pass2: 333 tiledef wstrings, 7901 cell sites
+pass3: runs 2701@0x3f023cb0010
+  TileMap T=0x3f0284573f0 cols=73 rows=37 cells@0x3f023cb0010 (~2701 placed in run)
+--- TileMap T=0x3f0284573f0 73x37: 2701 cells with a tile, 86 distinct tiles -> captures\Prohibited Library - HeistLibrary8_ - 3829857087\truth_3f0284573f0.tsv
+    tile hash over 2608 origin cells = 2045698914; Client.txt last generation HeistLibrary8_ seed 3829857087 -> 2045698914 MATCH

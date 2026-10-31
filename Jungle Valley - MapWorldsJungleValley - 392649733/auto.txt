@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 839847136 doodad hash 2611475499 (CLI_ACTIVATE_MAP)
+AUTO seed 392649733 Jungle Valley: terrain endgame/mapforest2/ graph map_forest1_2.tgr (1 locked nodes match; capture 38 nodes, graph 24)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 3, 4, 5, 6, 7]
+   node pipeline: pre-pick words 8, vaal_pending False, hideout_claim False: free nodes 15/15 match
+   tile grid: captures\Jungle Valley - MapWorldsJungleValley - 392649733\truth_20e94190bf0.tsv (45x159, 6760 cells) VERIFIED against tile hash 839847136
+   walkable field: captures\Jungle Valley - MapWorldsJungleValley - 392649733\walkable_20e94190bf0_melee.png (16.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.989; 2 layer(s) read; stored for the grid as walkable_20e94190bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Jungle Valley - MapWorldsJungleValley - 392649733\minimap.png
+   PASS: permute-in 12/12, permute-out 12/12, rounder-in-1 12/12, rounder-in-2 12/12, rounder-in-3 12/12, rounder-in-4 12/12
+   layout: captures\Jungle Valley - MapWorldsJungleValley - 392649733\layout.png; minimap captures\Jungle Valley - MapWorldsJungleValley - 392649733\minimap.png
+   corpus row appended

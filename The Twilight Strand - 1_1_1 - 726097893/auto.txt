@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2152864275 doodad hash 4071028559 (CLI_ACTIVATE_MAP)
+AUTO seed 726097893 The Twilight Strand: terrain act1/area1/ graph macro_beach5.tgr (6 locked nodes match; capture 28 nodes, graph 21)
+   typed nodes never placed by the client (untilised): [0, 1, 16, 17]
+   node pipeline: pre-pick words 0, vaal_pending False, hideout_claim False: free nodes 8/8 match
+   tile grid: captures\The Twilight Strand - 1_1_1 - 726097893\truth_3a69f7cf3f0.tsv (78x42, 3276 cells) VERIFIED against tile hash 2152864275
+   walkable field: captures\The Twilight Strand - 1_1_1 - 726097893\walkable_3a69f7cf3f0_melee.png (16.6% of the sub-cells walkable, matches the tiles' hull field at IoU 0.717; 2 layer(s) read; stored for the grid as walkable_3a69f7cf3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Twilight Strand - 1_1_1 - 726097893\minimap.png
+   FAIL: permute-in 15/15, permute-out 15/15, rounder-in-1 15/15, rounder-in-2 15/15, rounder-in-3 20/21, rounder-in-4 20/21, rounder-in-5 3/21, rounder-in-6 10/21
+   layout: captures\The Twilight Strand - 1_1_1 - 726097893\layout.png; minimap captures\The Twilight Strand - 1_1_1 - 726097893\minimap.png
+   corpus row appended

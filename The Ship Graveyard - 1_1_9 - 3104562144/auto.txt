@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2879986043 doodad hash 1506304987 (CLI_ACTIVATE_MAP)
+AUTO seed 3104562144 The Ship Graveyard: terrain leagues/deepwater/act1_shipgraveyard/ graph macro_ships1_2.tgr (5 locked nodes match; capture 36 nodes, graph 23)
+   typed nodes never placed by the client (untilised): [0, 2, 4, 5, 6, 7, 8, 9, 12, 13, 14, 15, 17, 18, 19, 20]
+   node pipeline: pre-pick words 2, vaal_pending False, hideout_claim False: free nodes 4/4 match
+   tile grid: captures\The Ship Graveyard - 1_1_9 - 3104562144\truth_23cf09243f0.tsv (63x72, 4536 cells) VERIFIED against tile hash 2879986043
+   walkable field: captures\The Ship Graveyard - 1_1_9 - 3104562144\walkable_23cf09243f0_melee.png (25.1% of the sub-cells walkable, matches the tiles' hull field at IoU 0.991; 2 layer(s) read; stored for the grid as walkable_23cf09243f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Ship Graveyard - 1_1_9 - 3104562144\minimap.png
+   FAIL: permute-in 18/18, permute-out 18/18, rounder-in-1 18/18, rounder-in-2 18/18, rounder-in-3 22/25, rounder-in-4 22/25, rounder-in-5 22/25
+   layout: captures\The Ship Graveyard - 1_1_9 - 3104562144\layout.png; minimap captures\The Ship Graveyard - 1_1_9 - 3104562144\minimap.png
+   corpus row appended

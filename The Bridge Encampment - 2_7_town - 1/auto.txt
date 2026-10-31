@@ -1,4 +1,4 @@
-KNOWN The Bridge Encampment [2_7_town] seed 1: 7 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
-   generator ?, terrain -, tile hash 651500549 (7 of 7 rows), last capture captures/The Bridge Encampment - 2_7_town - 1/stages_20261005_130241.csv (no stages)
+KNOWN The Bridge Encampment [2_7_town] seed 1: 10 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain act7/town/, tile hash 651500549 (10 of 10 rows), last capture captures/The Bridge Encampment - 2_7_town - 1/stages_20261029_163316.csv (DIFF)
    this load's tile hash 651500549 (CLI_ACTIVATE_MAP): the same level as the stored grid
-   minimap (the stored grid captures\The Bridge Encampment - 2_7_town - 1\truth_3585c6aa3f0.tsv): captures\The Bridge Encampment - 2_7_town - 1\minimap.png
+   minimap (the stored grid captures\The Bridge Encampment - 2_7_town - 1\truth_20e28a51bf0.tsv): captures\The Bridge Encampment - 2_7_town - 1\minimap.png

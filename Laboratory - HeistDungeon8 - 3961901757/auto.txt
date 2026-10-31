@@ -1,0 +1,26 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 11958340 doodad hash 3511277897 (CLI_ACTIVATE_MAP)
+AUTO seed 3961901757 Laboratory: dungeon area (capture captures/Laboratory - HeistDungeon8 - 3961901757/stages_20261030_122117.csv)
+   dungeon (.dgr) pipeline: 1591 draws in 19 call sites (1 generator draws before it, 1906 after it - the post passes); no generator model yet
+   0x14203a8e0: 1 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 2,8
+   0x1420fd32a: 2 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x142001ee5: 1 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x1420efc0c: 409 draws, bounds 1,2,4,6,8,12,40,100,800,1200,1600
+   0x1420f6875: 169 draws, bounds 1,2,4,6,8,1200,1600
+   0x141febf93: 423 draws, bounds 1,100
+   0x141febfcf: 423 draws, bounds 8
+   0x141f41e66: 9 draws, bounds 2,4,6,8,10,16
+   0x1420f45dc: 8 draws, bounds 1
+   0x1420f47d8: 8 draws, bounds 1
+   0x1420f4807: 8 draws, bounds 600
+   0x141fffc2c: 14 draws, bounds 100,200,300,400,500,600,700,800,900,1000,1100,1200,...
+   0x141fffe22: 14 draws, bounds 100
+   0x142000103: 14 draws, bounds 100
+   0x14200016f: 14 draws, bounds 840
+   0x141feadce: 70 draws, bounds 2,4
+   tile grid: captures\Laboratory - HeistDungeon8 - 3961901757\truth_3f01a2973f0.tsv (49x61, 2989 cells) VERIFIED against tile hash 11958340
+   walkable field: captures\Laboratory - HeistDungeon8 - 3961901757\walkable_3f01a2973f0_melee.png (12.8% of the sub-cells walkable, matches the tiles' hull field at IoU 0.879; 2 layer(s) read; stored for the grid as walkable_3f01a2973f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Laboratory - HeistDungeon8 - 3961901757\minimap.png

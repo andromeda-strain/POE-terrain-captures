@@ -1,0 +1,4 @@
+KNOWN Atoll [MapWorldsAtoll] seed 1864463357: 2 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain endgame/mapledge/, tile hash 1939236188 (2 of 2 rows), last capture captures/Atoll - MapWorldsAtoll - 1864463357/stages_20261029_163802.csv (DIFF)
+   this load's tile hash 1939236188 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Atoll - MapWorldsAtoll - 1864463357\truth_20e28a5c3f0.tsv): captures\Atoll - MapWorldsAtoll - 1864463357\minimap.png

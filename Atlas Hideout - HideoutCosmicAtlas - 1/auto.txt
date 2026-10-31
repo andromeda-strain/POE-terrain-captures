@@ -1,0 +1,5 @@
+KNOWN Atlas Hideout [HideoutCosmicAtlas] seed 1: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 288861624 (1 of 1 rows), last capture captures/Atlas Hideout - HideoutCosmicAtlas - 1/stages_20261009_175601.csv (dungeon trace)
+   this load's tile hash 288861624 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   walkable field: captures\Atlas Hideout - HideoutCosmicAtlas - 1\walkable_346aca5abf0_melee.png (1.1% of the sub-cells walkable, matches the tiles' hull field at IoU 0.895; 2 layer(s) read; stored for the grid as walkable_346aca5abf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (rendered from the stored grid captures\Atlas Hideout - HideoutCosmicAtlas - 1\truth_346aca5abf0.tsv with the walkable field walkable_346aca5abf0_melee.png (matches the tiles' hull field at IoU 0.895)): captures\Atlas Hideout - HideoutCosmicAtlas - 1\minimap.png

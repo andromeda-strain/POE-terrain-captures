@@ -1,0 +1,21 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1113042780 doodad hash 2505406493 (CLI_ACTIVATE_MAP)
+AUTO seed 3457846328 Underbelly: dungeon area (capture captures/Underbelly - HeistSewers8 - 3457846328/stages_20261030_152611.csv)
+   dungeon (.dgr) pipeline: 1369 draws in 14 call sites (1 generator draws before it, 1067 after it - the post passes); no generator model yet
+   0x14203a8e0: 1 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 2,8
+   0x1420fd32a: 2 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x142001ee5: 1 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x1420efc0c: 475 draws, bounds 1,2,4,6,8,10,40,80,100,180,200,240,...
+   0x1420f6875: 141 draws, bounds 80,240,1200,1600
+   0x141febf93: 356 draws, bounds 1,100,103
+   0x141febfcf: 356 draws, bounds 8
+   0x141f41e66: 9 draws, bounds 2,4,6
+   0x1420f45dc: 8 draws, bounds 1
+   0x1420f47d8: 8 draws, bounds 1
+   0x1420f4807: 8 draws, bounds 4
+   tile grid: captures\Underbelly - HeistSewers8 - 3457846328\truth_3f0245ba3f0.tsv (43x55, 2365 cells) VERIFIED against tile hash 1113042780
+   walkable field: captures\Underbelly - HeistSewers8 - 3457846328\walkable_3f0245ba3f0_melee.png (20.0% of the sub-cells walkable, matches the tiles' hull field at IoU 0.954; 2 layer(s) read; stored for the grid as walkable_3f0245ba3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Underbelly - HeistSewers8 - 3457846328\minimap.png

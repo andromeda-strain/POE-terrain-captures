@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3211992500 doodad hash 2214669672 (CLI_ACTIVATE_MAP)
+AUTO seed 1195471109 Clouded Ledge: terrain act6/sideridge/ graph sidearea_ridge_01.tgr (7 locked nodes match; capture 28 nodes, graph 18)
+   typed nodes never placed by the client (untilised): [0, 2, 5, 6, 13, 14]
+   node pipeline: pre-pick words 2, vaal_pending False, hideout_claim False: free nodes 5/5 match
+   tile grid: captures\Clouded Ledge - MapSideArea6_6 - 1195471109\truth_4a055c6b3f0.tsv (93x93, 8649 cells) VERIFIED against tile hash 3211992500
+   walkable field: captures\Clouded Ledge - MapSideArea6_6 - 1195471109\walkable_4a055c6b3f0_melee.png (4.1% of the sub-cells walkable, matches the tiles' hull field at IoU 0.992; 3 layer(s) read; stored for the grid as walkable_4a055c6b3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Clouded Ledge - MapSideArea6_6 - 1195471109\minimap.png
+   PASS: permute-in 12/12, permute-out 12/12, rounder-in-1 12/12, rounder-in-2 12/12, rounder-in-3 17/17, rounder-in-4 17/17, rounder-in-5 17/17
+   layout: captures\Clouded Ledge - MapSideArea6_6 - 1195471109\layout.png; minimap captures\Clouded Ledge - MapSideArea6_6 - 1195471109\minimap.png
+   corpus row appended

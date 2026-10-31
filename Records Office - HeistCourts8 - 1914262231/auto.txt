@@ -1,0 +1,27 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3901492909 doodad hash 2348712027 (CLI_ACTIVATE_MAP)
+AUTO seed 1914262231 Records Office: dungeon area (capture captures/Records Office - HeistCourts8 - 1914262231/stages_20261030_121118.csv)
+   dungeon (.dgr) pipeline: 1679 draws in 20 call sites (1 generator draws before it, 1856 after it - the post passes); no generator model yet
+   0x14203a8e0: 4 draws, bounds 100
+   0x142105ee9: 5 draws, bounds 1,4
+   0x142105f65: 1 draws, bounds 4
+   0x1420fd32a: 5 draws, bounds 128
+   0x142012839: 1 draws, bounds 4
+   0x142001ee5: 4 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x1420efc0c: 334 draws, bounds 1,2,4,8,10,100,200,260,400,420,600,980
+   0x1420f6875: 143 draws, bounds 2,8,980
+   0x141febf93: 511 draws, bounds 1,100,200
+   0x141febfcf: 511 draws, bounds 8
+   0x141f41e66: 9 draws, bounds 2,4,6,8,16,30
+   0x1420f45dc: 8 draws, bounds 1
+   0x1420f47d8: 8 draws, bounds 1
+   0x1420f4807: 8 draws, bounds 4
+   0x141fffc2c: 14 draws, bounds 400,800,1200,1600,2000,2400,2800,3200,3600,4000,4400,4800,...
+   0x141fffe22: 14 draws, bounds 400
+   0x142000103: 14 draws, bounds 400
+   0x14200016f: 14 draws, bounds 840
+   0x141feadce: 70 draws, bounds 2,8
+   tile grid: captures\Records Office - HeistCourts8 - 1914262231\truth_3f025f05bf0.tsv (43x73, 3139 cells) VERIFIED against tile hash 3901492909
+   walkable field: captures\Records Office - HeistCourts8 - 1914262231\walkable_3f025f05bf0_melee.png (13.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.879; 2 layer(s) read; stored for the grid as walkable_3f025f05bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Records Office - HeistCourts8 - 1914262231\minimap.png

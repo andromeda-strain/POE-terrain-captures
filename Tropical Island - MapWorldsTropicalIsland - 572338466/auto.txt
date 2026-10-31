@@ -1,0 +1,4 @@
+KNOWN Tropical Island [MapWorldsTropicalIsland] seed 572338466: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain endgame/mapforest/, tile hash 3355599404 (1 of 1 rows), last capture captures/Tropical Island - MapWorldsTropicalIsland - 572338466/stages_20261030_230504.csv (PASS)
+   this load's tile hash 3355599404 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Tropical Island - MapWorldsTropicalIsland - 572338466\truth_4a0cce71bf0.tsv): captures\Tropical Island - MapWorldsTropicalIsland - 572338466\minimap.png

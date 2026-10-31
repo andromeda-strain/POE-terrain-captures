@@ -1312,7 +1312,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 36	14	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 37	14	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
 38	14	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/colosseum_LionSpawner_v01_01.tdt
-39	14	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoMaleSmall01.tdt
+39	14	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoMaleSmall01.tdt
 40	14	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_fill_v01_01.tdt
 41	14	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 42	14	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Dungeon/black.tdt
@@ -1483,7 +1483,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 25	16	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 26	16	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/colosseum_LionSpawner_v01_01.tdt
 27	16	0x0	0x0	1	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/colosseum_LionSpawner_v01_01.tdt
-28	16	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleLarge02.tdt
+28	16	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleLarge02.tdt
 29	16	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
 30	16	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 31	16	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
@@ -5140,7 +5140,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 42	56	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Dungeon/black.tdt
 43	56	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 44	56	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoMaleLarge02.tdt
-45	56	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleSmall04.tdt
+45	56	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleSmall04.tdt
 46	56	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
 47	56	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Feature/colosseum_entrance_v01_01.tdt
 48	56	0x0	0x0	1	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Feature/colosseum_entrance_v01_01.tdt
@@ -5680,7 +5680,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 36	62	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Dungeon/black.tdt
 37	62	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 38	62	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_fill_v01_01.tdt
-39	62	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleSmall03.tdt
+39	62	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleSmall03.tdt
 40	62	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/colosseum_LionSpawner_v01_01.tdt
 41	62	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
 42	62	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
@@ -5691,7 +5691,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 47	62	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
 48	62	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 49	62	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
-50	62	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleLarge02.tdt
+50	62	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleLarge02.tdt
 51	62	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/colosseum_LionSpawner_v01_01.tdt
 52	62	0x0	0x0	1	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/colosseum_LionSpawner_v01_01.tdt
 53	62	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
@@ -5784,7 +5784,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 49	63	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_fill_v01_01.tdt
 50	63	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/colosseum_LionSpawner_v01_01.tdt
 51	63	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_fill_v01_01.tdt
-52	63	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoMaleSmall02.tdt
+52	63	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoMaleSmall02.tdt
 53	63	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 54	63	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Dungeon/black.tdt
 55	63	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Dungeon/black.tdt
@@ -5863,7 +5863,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 37	64	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 38	64	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/colosseum_LionSpawner_v01_01.tdt
 39	64	0x0	0x0	1	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/colosseum_LionSpawner_v01_01.tdt
-40	64	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoMaleLarge02.tdt
+40	64	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoMaleLarge02.tdt
 41	64	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
 42	64	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 43	64	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
@@ -8411,7 +8411,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 37	92	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 38	92	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/colosseum_LionSpawner_v01_01.tdt
 39	92	0x0	0x0	1	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/colosseum_LionSpawner_v01_01.tdt
-40	92	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoMaleLarge02.tdt
+40	92	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoMaleLarge02.tdt
 41	92	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
 42	92	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 43	92	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
@@ -8500,7 +8500,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 35	93	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Dungeon/black.tdt
 36	93	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Dungeon/black.tdt
 37	93	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
-38	93	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleSmall03.tdt
+38	93	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleSmall03.tdt
 39	93	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_fill_v01_01.tdt
 40	93	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/colosseum_LionSpawner_v01_01.tdt
 41	93	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_fill_v01_01.tdt
@@ -8592,7 +8592,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 36	94	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Dungeon/black.tdt
 37	94	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 38	94	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_fill_v01_01.tdt
-39	94	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleSmall03.tdt
+39	94	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleSmall03.tdt
 40	94	0x0	0x0	0	1	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/colosseum_LionSpawner_v01_01.tdt
 41	94	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
 42	94	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
@@ -10595,7 +10595,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 37	116	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 38	116	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_fill_v01_01.tdt
 39	116	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleSmall03.tdt
-40	116	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoMaleSmall03.tdt
+40	116	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoMaleSmall03.tdt
 41	116	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
 42	116	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 43	116	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
@@ -10777,7 +10777,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 37	118	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 38	118	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoMaleSmall01.tdt
 39	118	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_fill_v01_01.tdt
-40	118	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleLarge02.tdt
+40	118	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleLarge02.tdt
 41	118	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
 42	118	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 43	118	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
@@ -10787,7 +10787,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 47	118	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
 48	118	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 49	118	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
-50	118	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleLarge02.tdt
+50	118	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleLarge02.tdt
 51	118	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_fill_v01_01.tdt
 52	118	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleSmall04.tdt
 53	118	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
@@ -11232,7 +11232,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 37	123	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 38	123	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleSmall03.tdt
 39	123	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_fill_v01_01.tdt
-40	123	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoMaleSmall03.tdt
+40	123	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoMaleSmall03.tdt
 41	123	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
 42	123	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Dungeon/black.tdt
 43	123	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Dungeon/black.tdt
@@ -11333,8 +11333,8 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 47	124	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Dungeon/black.tdt
 48	124	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Dungeon/black.tdt
 49	124	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v01_01.tdt
-50	124	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleLarge03.tdt
-51	124	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleSmall02.tdt
+50	124	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleLarge03.tdt
+51	124	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Statues/DaressoFemaleSmall02.tdt
 52	124	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Hallway/colosseum_hall_wall_v02_01.tdt
 53	124	0x0	0x0	0	2	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Feature/colosseum_entrance_v01_01.tdt
 54	124	0x0	0x0	1	2	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Mountain/Arena/Colosseum/Feature/colosseum_entrance_v01_01.tdt

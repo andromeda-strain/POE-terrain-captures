@@ -1,0 +1,4 @@
+KNOWN Side Chapel [MapSideArea5_8] seed 3284284430: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 553967203 (1 of 1 rows), last capture captures/Side Chapel - MapSideArea5_8 - 3284284430/stages_20261030_230352.csv (dungeon trace)
+   this load's tile hash 553967203 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Side Chapel - MapSideArea5_8 - 3284284430\truth_4a089f973f0.tsv): captures\Side Chapel - MapSideArea5_8 - 3284284430\minimap.png

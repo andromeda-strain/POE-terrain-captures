@@ -1,0 +1,27 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 782786414 doodad hash 803759527 (CLI_ACTIVATE_MAP)
+AUTO seed 3552801126 The Ship Graveyard Cave: dungeon area (capture captures/The Ship Graveyard Cave - 1_1_9a - 3552801126/stages_20261029_145617.csv)
+   dungeon (.dgr) pipeline: 1507 draws in 20 call sites (2 generator draws before it, 13653 after it - the post passes); no generator model yet
+   0x14203a8e0: 3 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 1
+   0x1420fd32a: 32 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 35 draws, bounds 21
+   0x142001ee5: 13 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x1420fcc6c: 1 draws, bounds 10
+   0x1420fce8c: 1 draws, bounds 100
+   0x14210862e: 12 draws, bounds 1,42,185,615
+   0x14210871c: 12 draws, bounds 840
+   0x142108799: 1 draws, bounds 615
+   0x1421087b9: 1 draws, bounds 840
+   0x1420efc0c: 299 draws, bounds 1,2,8,16,18
+   0x1420f6875: 90 draws, bounds 16,18
+   0x141febf93: 483 draws, bounds 1,98
+   0x141febfcf: 435 draws, bounds 8
+   0x141fec0ea: 37 draws, bounds 86,88,91,93,96
+   0x141fec1d8: 23 draws, bounds 8
+   0x141fece63: 25 draws, bounds 840
+   tile grid: captures\The Ship Graveyard Cave - 1_1_9a - 3552801126\truth_23d971b2bf0.tsv (45x45, 2025 cells) VERIFIED against tile hash 782786414
+   walkable field: captures\The Ship Graveyard Cave - 1_1_9a - 3552801126\walkable_23d971b2bf0_melee.png (18.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.974; 3 layer(s) read; stored for the grid as walkable_23d971b2bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Ship Graveyard Cave - 1_1_9a - 3552801126\minimap.png

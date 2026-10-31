@@ -1117,8 +1117,8 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 17	18	0x0	0x0	0	0	-16	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Ledge/Reliquary_ledge_to_steps_v01_01.tdt
 18	18	0x0	0x0	0	0	-16	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_widecorner_v01_01.tdt
 19	18	0x0	0x0	1	0	-16	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_widecorner_v01_01.tdt
-20	18	0x0	0x0	0	0	-16	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_widecorner_v02_01.tdt
-21	18	0x0	0x0	1	0	-16	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_widecorner_v02_01.tdt
+20	18	0x0	0x0	0	0	-16	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_widecorner_v01_01.tdt
+21	18	0x0	0x0	1	0	-16	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_widecorner_v01_01.tdt
 22	18	0x0	0x0	0	0	-16	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Abyss/Reliquary_abyss_straight_v01_01.tdt
 23	18	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Abyss/Reliquary_abyss_fill_v01_02.tdt
 24	18	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Abyss/Reliquary_abyss_thickwall_straight_v01_02.tdt
@@ -2045,8 +2045,8 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 30	33	0x0	0x0	0	0	16	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_corner_v01_01.tdt
 31	33	0x0	0x0	0	0	16	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_v02_01.tdt
 32	33	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Ledge/Reliquary_steps_straight_v01_01.tdt
-33	33	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_widecorner_v01_01.tdt
-34	33	0x0	0x0	1	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_widecorner_v01_01.tdt
+33	33	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_widecorner_v02_01.tdt
+34	33	0x0	0x0	1	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_widecorner_v02_01.tdt
 35	33	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_v05_01.tdt
 36	33	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_v02_02.tdt
 37	33	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_v02_02.tdt
@@ -3161,8 +3161,8 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 48	51	0x0	0x0	0	0	-16	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_big_straight_v01_01.tdt
 49	51	0x0	0x0	0	0	-16	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_big_corner_v01_01.tdt
 50	51	0x0	0x0	0	0	-16	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Ledge/Reliquary_ledge_to_steps_v01_01.tdt
-51	51	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_widecorner_v01_01.tdt
-52	51	0x0	0x0	1	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_widecorner_v01_01.tdt
+51	51	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_widecorner_v01_01.tdt
+52	51	0x0	0x0	1	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_widecorner_v01_01.tdt
 53	51	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/Floor/Reliquary_floor_v02_03.tdt
 54	51	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Theopolis/Reliquary/ThickWall/Reliquary_thickwall_straight_spawner_v01_02.tdt
 55	51	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Dungeon/black.tdt

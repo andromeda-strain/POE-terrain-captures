@@ -1,0 +1,24 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3502935758 doodad hash 2496300659 (CLI_ACTIVATE_MAP)
+AUTO seed 1536540748 Prohibited Library: dungeon area (capture captures/Prohibited Library - HeistLibrary8_ - 1536540748/stages_20261030_113544.csv)
+   dungeon (.dgr) pipeline: 1484 draws in 17 call sites (1 generator draws before it, 1810 after it - the post passes); no generator model yet
+   0x14203a8e0: 4 draws, bounds 100
+   0x142030de5: 1 draws, bounds 3
+   0x142105ee9: 3 draws, bounds 2,8
+   0x1420fd32a: 3 draws, bounds 128
+   0x142012839: 1 draws, bounds 2
+   0x142001ee5: 2 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x1420efc0c: 379 draws, bounds 1,2,4,8,100,200,260,300,400,800,1000,1200,...
+   0x1420f6875: 138 draws, bounds 2,100,200,800,1200
+   0x141febf93: 458 draws, bounds 1,5,100,200
+   0x141febfcf: 455 draws, bounds 8
+   0x141fec0ea: 3 draws, bounds 1
+   0x141fec1d8: 3 draws, bounds 8
+   0x141f41e66: 9 draws, bounds 2,3,4,16,22,24
+   0x1420f45dc: 8 draws, bounds 1
+   0x1420f47d8: 8 draws, bounds 1
+   0x1420f4807: 8 draws, bounds 4
+   tile grid: captures\Prohibited Library - HeistLibrary8_ - 1536540748\truth_3efd5f8d3f0.tsv (73x43, 3139 cells) VERIFIED against tile hash 3502935758
+   walkable field: captures\Prohibited Library - HeistLibrary8_ - 1536540748\walkable_3efd5f8d3f0_melee.png (14.0% of the sub-cells walkable, matches the tiles' hull field at IoU 0.943; 2 layer(s) read; stored for the grid as walkable_3efd5f8d3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Prohibited Library - HeistLibrary8_ - 1536540748\minimap.png

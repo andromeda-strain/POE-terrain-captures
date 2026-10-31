@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2330516475 doodad hash 0 (CLI_ACTIVATE_MAP)
+AUTO seed 1 Infinite Abyss Hideout: dungeon area (capture captures/Infinite Abyss Hideout - HideoutBlankAbyss - 1/stages_20261030_143547.csv)
+   dungeon (.dgr) pipeline: 651 draws in 4 call sites (1 generator draws before it, 2048 after it - the post passes); no generator model yet
+   0x142105ee9: 1 draws, bounds 1
+   0x1420f6875: 72 draws, bounds 2
+   0x141febf93: 289 draws, bounds 1
+   0x141febfcf: 289 draws, bounds 8
+   tile grid: captures\Infinite Abyss Hideout - HideoutBlankAbyss - 1\truth_3f013b053f0.tsv (31x31, 961 cells) VERIFIED against tile hash 2330516475
+   walkable field: only the ranged layer among the 2 layer(s) read is this area's; stored for the grid as walkable_3f013b053f0_{ranged}.png/.bin/.tsv; the map is not drawn with it
+   walkable field: captures\Infinite Abyss Hideout - HideoutBlankAbyss - 1\hull_ranged.png composed from the tiles' hull planes (100.0% of the sub-cells walkable, agrees with the grid on 0.0% of the cells; the placed objects' hulls are not in it)
+   minimap (the client's grid): captures\Infinite Abyss Hideout - HideoutBlankAbyss - 1\minimap.png

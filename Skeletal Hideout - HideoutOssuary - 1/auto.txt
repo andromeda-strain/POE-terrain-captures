@@ -1,0 +1,5 @@
+KNOWN Skeletal Hideout [HideoutOssuary] seed 1: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 3427174740 (1 of 1 rows), last capture captures/Skeletal Hideout - HideoutOssuary - 1/stages_20261001_103205.csv (dungeon trace)
+   this load's tile hash 3427174740 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   walkable field: captures\Skeletal Hideout - HideoutOssuary - 1\walkable_294f78e7bf0_melee.png (10.6% of the sub-cells walkable, matches the tiles' hull field at IoU 0.856; 6 layer(s) read; stored for the grid as walkable_294f78e7bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (rendered from the stored grid captures\Skeletal Hideout - HideoutOssuary - 1\truth_294f78e7bf0.tsv with the walkable field walkable_294f78e7bf0_melee.png (matches the tiles' hull field at IoU 0.856)): captures\Skeletal Hideout - HideoutOssuary - 1\minimap.png

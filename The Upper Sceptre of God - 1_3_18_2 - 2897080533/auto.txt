@@ -1,0 +1,36 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3658463804 doodad hash 2466398787 (CLI_ACTIVATE_MAP)
+AUTO seed 2897080533 The Upper Sceptre of God: dungeon area (capture captures/The Upper Sceptre of God - 1_3_18_2 - 2897080533/stages_20261029_144551.csv)
+   dungeon (.dgr) pipeline: 6212 draws in 29 call sites (3 generator draws before it, 11864 after it - the post passes); no generator model yet
+   0x1421055f1: 3 draws, bounds 2,12
+   0x14203a8e0: 33 draws, bounds 100
+   0x142105ee9: 9 draws, bounds 1,8
+   0x1420038a1: 22 draws, bounds 100,200
+   0x142107da7: 18 draws, bounds 1,2,406,600,1000
+   0x142107272: 1 draws, bounds 9605
+   0x1420fd32a: 52 draws, bounds 128
+   0x142012839: 9 draws, bounds 0,2
+   0x1420fd640: 73 draws, bounds 9605,9607
+   0x142001ee5: 33 draws, bounds 1,2
+   0x1420fc763: 3 draws, bounds 1
+   0x142100f13: 22 draws, bounds 0,1,2
+   0x142101086: 16 draws, bounds 100
+   0x14210862e: 29 draws, bounds 41,100,161,2300,4200,7100,8241,9200,32522,36100,38500,43500,...
+   0x14210871c: 29 draws, bounds 840
+   0x142109942: 10 draws, bounds 100
+   0x142109cdf: 10 draws, bounds 100
+   0x142109cf6: 10 draws, bounds 840
+   0x1420ff711: 2 draws, bounds 2,7
+   0x1420ff72b: 2 draws, bounds 1
+   0x1420efc0c: 580 draws, bounds 1,8,20,100,200,400,640,800,1600,1800,2400,2800,...
+   0x1420f6875: 455 draws, bounds 100,200,260,400,640,1800
+   0x1420f45dc: 33 draws, bounds 1
+   0x1420f4807: 33 draws, bounds 400
+   0x141febf93: 2361 draws, bounds 1,360
+   0x141febfcf: 2361 draws, bounds 8
+   0x1420fcc6c: 1 draws, bounds 2
+   0x1420fce8c: 1 draws, bounds 100
+   0x142101b93: 1 draws, bounds 2
+   tile grid: captures\The Upper Sceptre of God - 1_3_18_2 - 2897080533\truth_23d5a4e6bf0.tsv (168x42, 7056 cells) VERIFIED against tile hash 3658463804
+   walkable field: captures\The Upper Sceptre of God - 1_3_18_2 - 2897080533\walkable_23d5a4e6bf0_melee.png (18.6% of the sub-cells walkable, matches the tiles' hull field at IoU 0.973; 3 layer(s) read; stored for the grid as walkable_23d5a4e6bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Upper Sceptre of God - 1_3_18_2 - 2897080533\minimap.png

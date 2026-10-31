@@ -1,0 +1,18 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3541682282 doodad hash 1307546936 (CLI_ACTIVATE_MAP)
+AUTO seed 3505096477 The Rogue Harbour: dungeon area (capture captures/The Rogue Harbour - HeistHub - 3505096477/stages_20261030_145842.csv)
+   dungeon (.dgr) pipeline: 1607 draws in 11 call sites (1 generator draws before it, 4109 after it - the post passes); no generator model yet
+   0x142105ee9: 2 draws, bounds 1
+   0x142109942: 18 draws, bounds 1
+   0x142109cdf: 18 draws, bounds 1
+   0x142109cf6: 18 draws, bounds 840
+   0x1420efc0c: 25 draws, bounds 1,2
+   0x1420f6875: 30 draws, bounds 1,2,4
+   0x1420f7228: 4 draws, bounds 1,2
+   0x141febf93: 743 draws, bounds 1
+   0x141febfcf: 743 draws, bounds 8
+   0x1420f8fc1: 1 draws, bounds 5
+   0x1420f90ef: 5 draws, bounds 4
+   tile grid: captures\The Rogue Harbour - HeistHub - 3505096477\truth_3f013b023f0.tsv (51x33, 1683 cells) VERIFIED against tile hash 3541682282
+   walkable field: captures\The Rogue Harbour - HeistHub - 3505096477\walkable_3f013b023f0_melee.png (6.0% of the sub-cells walkable, matches the tiles' hull field at IoU 0.796; 2 layer(s) read; stored for the grid as walkable_3f013b023f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Rogue Harbour - HeistHub - 3505096477\minimap.png

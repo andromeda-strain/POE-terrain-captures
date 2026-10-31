@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 315387863 doodad hash 37227210 (CLI_ACTIVATE_MAP)
+AUTO seed 1 Menagerie Caverns: dungeon area (capture captures/Menagerie Caverns - Menagerie_InsectsArachnids - 1/stages_20261027_223527.csv)
+   dungeon (.dgr) pipeline: 1200 draws in 4 call sites (1 generator draws before it, 13101 after it - the post passes); no generator model yet
+   0x142105ee9: 1 draws, bounds 1
+   0x1420efc0c: 101 draws, bounds 1,2,4,6,8
+   0x141febf93: 549 draws, bounds 1
+   0x141febfcf: 549 draws, bounds 8
+   tile grid: captures\Menagerie Caverns - Menagerie_InsectsArachnids - 1\truth_425f55443f0.tsv (60x51, 3060 cells) VERIFIED against tile hash 315387863
+   walkable field: captures\Menagerie Caverns - Menagerie_InsectsArachnids - 1\walkable_425f55443f0_melee.png (2.5% of the sub-cells walkable, matches the tiles' hull field at IoU 0.620; 2 layer(s) read; stored for the grid as walkable_425f55443f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Menagerie Caverns - Menagerie_InsectsArachnids - 1\minimap.png

@@ -1,0 +1,38 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3168031311 doodad hash 1551835405 (CLI_ACTIVATE_MAP)
+AUTO seed 110042450 The Upper Sceptre of God: dungeon area (capture captures/The Upper Sceptre of God - 1_3_18_2 - 110042450/stages_20261029_152511.csv)
+   dungeon (.dgr) pipeline: 6486 draws in 31 call sites (3 generator draws before it, 11844 after it - the post passes); no generator model yet
+   0x1421055f1: 3 draws, bounds 2,12
+   0x14203a8e0: 33 draws, bounds 100
+   0x142105ee9: 10 draws, bounds 1,8
+   0x1420038a1: 23 draws, bounds 100,200
+   0x142107da7: 18 draws, bounds 1,2,406,1000
+   0x1420fd32a: 51 draws, bounds 128
+   0x142012839: 9 draws, bounds 0,2,3
+   0x1420fd640: 72 draws, bounds 9605,9607
+   0x142001ee5: 32 draws, bounds 1,2
+   0x1420fc763: 3 draws, bounds 1
+   0x1420fcc6c: 2 draws, bounds 1,3
+   0x1420fce8c: 2 draws, bounds 100
+   0x142100f13: 23 draws, bounds 0,1,2
+   0x142101086: 14 draws, bounds 100
+   0x14210862e: 28 draws, bounds 41,100,161,361,2300,7100,8241,9200,10500,22400,27600,32522,...
+   0x14210871c: 28 draws, bounds 840
+   0x142109942: 11 draws, bounds 100
+   0x142109cdf: 11 draws, bounds 100
+   0x142109cf6: 11 draws, bounds 840
+   0x1420efc0c: 600 draws, bounds 1,8,20,100,200,400,600,640,800,1600,1800,2400,...
+   0x1420f6875: 466 draws, bounds 100,200,260,400,640,1800
+   0x1420f45dc: 35 draws, bounds 1
+   0x1420f4807: 35 draws, bounds 400
+   0x141febf93: 2480 draws, bounds 1,360
+   0x141febfcf: 2480 draws, bounds 8
+   0x142107272: 1 draws, bounds 9607
+   0x142108799: 1 draws, bounds 9200
+   0x1421087b9: 1 draws, bounds 840
+   0x142101b93: 1 draws, bounds 2
+   0x1420ff711: 1 draws, bounds 1
+   0x1420ff72b: 1 draws, bounds 1
+   tile grid: captures\The Upper Sceptre of God - 1_3_18_2 - 110042450\truth_54f75f623f0.tsv (168x42, 7056 cells) VERIFIED against tile hash 3168031311
+   walkable field: captures\The Upper Sceptre of God - 1_3_18_2 - 110042450\walkable_54f75f623f0_melee.png (17.1% of the sub-cells walkable, matches the tiles' hull field at IoU 0.974; 4 layer(s) read; stored for the grid as walkable_54f75f623f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Upper Sceptre of God - 1_3_18_2 - 110042450\minimap.png

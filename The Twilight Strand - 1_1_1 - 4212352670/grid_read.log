@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "D:\repos\POE 3.29.3b\Work\mem_tilemap.py", line 339, in <module>
+    main()
+    ~~~~^^
+  File "D:\repos\POE 3.29.3b\Work\mem_tilemap.py", line 323, in main
+    raise OSError(f'OpenProcess({pid}) failed: {ctypes.get_last_error()}')
+OSError: OpenProcess(4952) failed: 87

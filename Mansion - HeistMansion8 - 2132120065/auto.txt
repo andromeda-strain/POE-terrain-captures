@@ -1,0 +1,25 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3241023788 doodad hash 1077296319 (CLI_ACTIVATE_MAP)
+AUTO seed 2132120065 Mansion: dungeon area (capture captures/Mansion - HeistMansion8 - 2132120065/stages_20261029_170705.csv)
+   dungeon (.dgr) pipeline: 1416 draws in 18 call sites (1 generator draws before it, 2801 after it - the post passes); no generator model yet
+   0x14203a8e0: 1 draws, bounds 100
+   0x142105ee9: 5 draws, bounds 1,2,8
+   0x142105f65: 1 draws, bounds 1
+   0x1420fd32a: 5 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x142001ee5: 1 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x142109942: 4 draws, bounds 1
+   0x142109cdf: 4 draws, bounds 1
+   0x142109cf6: 4 draws, bounds 840
+   0x1420efc0c: 297 draws, bounds 1,2,6,8,12,20,100,200,280,400,600,800
+   0x1420f6875: 137 draws, bounds 100,120,200,280,600
+   0x141febf93: 461 draws, bounds 1,100,200
+   0x141febfcf: 461 draws, bounds 8
+   0x141f41e66: 9 draws, bounds 2,4,8,10,16
+   0x1420f45dc: 8 draws, bounds 1
+   0x1420f47d8: 8 draws, bounds 1
+   0x1420f4807: 8 draws, bounds 4
+   tile grid: captures\Mansion - HeistMansion8 - 2132120065\truth_20ed4afbbf0.tsv (85x37, 3145 cells) VERIFIED against tile hash 3241023788
+   walkable field: captures\Mansion - HeistMansion8 - 2132120065\walkable_20ed4afbbf0_melee.png (11.1% of the sub-cells walkable, matches the tiles' hull field at IoU 0.955; 2 layer(s) read; stored for the grid as walkable_20ed4afbbf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Mansion - HeistMansion8 - 2132120065\minimap.png

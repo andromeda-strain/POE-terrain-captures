@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 93607062 doodad hash 3583197178 (CLI_ACTIVATE_MAP)
+AUTO seed 3094703493 Atoll: terrain endgame/mapledge/ graph map_ledge2_2.tgr (19 locked nodes match; capture 59 nodes, graph 39)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 4, 6, 7, 21, 22, 27, 28, 35, 38]
+   node pipeline: pre-pick words 9, vaal_pending False, hideout_claim False: free nodes 8/8 match
+   tile grid: captures\Atoll - MapWorldsAtoll - 3094703493\truth_23cf5fbb3f0.tsv (117x75, 7300 cells) VERIFIED against tile hash 93607062
+   walkable field: captures\Atoll - MapWorldsAtoll - 3094703493\walkable_23cf5fbb3f0_melee.png (11.6% of the sub-cells walkable, matches the tiles' hull field at IoU 0.988; 2 layer(s) read; stored for the grid as walkable_23cf5fbb3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Atoll - MapWorldsAtoll - 3094703493\minimap.png
+   FAIL: permute-in 34/34, permute-out 34/34, rounder-in-1 34/34, rounder-in-2 34/34, rounder-in-3 50/51, rounder-in-4 50/51, rounder-in-5 50/51
+   layout: captures\Atoll - MapWorldsAtoll - 3094703493\layout.png; minimap captures\Atoll - MapWorldsAtoll - 3094703493\minimap.png
+   corpus row appended

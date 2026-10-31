@@ -1,0 +1,6 @@
+pass1: 708 .tdt path buffers
+pass2: 166 tiledef wstrings, 9166 cell sites
+pass3: runs 6111@0x4a0e65d0010
+  TileMap T=0x4a089f9d3f0 cols=45 rows=148 cells@0x4a0e65d0010 (~6111 placed in run)
+--- TileMap T=0x4a089f9d3f0 45x148: 6111 cells with a tile, 64 distinct tiles -> captures\Jungle Valley - MapWorldsJungleValley - 357500932\truth_4a089f9d3f0.tsv
+    tile hash over 1118 origin cells = 647725037; Client.txt last generation MapWorldsJungleValley seed 357500932 -> 647725037 MATCH

@@ -847,7 +847,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 20	15	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_fill.tdt
 21	15	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_fill.tdt
 22	15	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_fill.tdt
-23	15	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_02.tdt
+23	15	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_06.tdt
 24	15	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
 25	15	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_02.tdt
 26	15	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_fill.tdt
@@ -1279,7 +1279,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 12	23	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/Sewers/Wall/sewerwall_to_vertical_straight_v01_01.tdt
 13	23	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/Sewers/Wall/sewerwall_to_vertical_straight_v02_02.tdt
 14	23	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_concave_v01_02.tdt
-15	23	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_02.tdt
+15	23	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_04.tdt
 16	23	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_06.tdt
 17	23	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_03.tdt
 18	23	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_02.tdt
@@ -1297,7 +1297,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 30	23	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_06.tdt
 31	23	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_03.tdt
 32	23	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_02.tdt
-33	23	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_02.tdt
+33	23	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_04.tdt
 34	23	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_concave_v01_04.tdt
 35	23	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/ForestCave/Walls/forestcave_wall_thin_end_v01_01.tdt
 36	23	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Blank.tdt
@@ -1389,7 +1389,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 12	25	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/Sewers/Abyss/sewer_crevice_fill_v01_01.tdt
 13	25	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/Sewers/Abyss/sewer_ledge_straight_v02_01.tdt
 14	25	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_concave_v01_03.tdt
-15	25	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_03.tdt
+15	25	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_06.tdt
 16	25	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_02.tdt
 17	25	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_concave_v01_03.tdt
 18	25	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Blank.tdt
@@ -1837,9 +1837,9 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 20	33	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_fill.tdt
 21	33	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_fill.tdt
 22	33	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_fill.tdt
-23	33	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_02.tdt
+23	33	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_06.tdt
 24	33	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Blank.tdt
-25	33	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_02.tdt
+25	33	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_edge_straight_v01_04.tdt
 26	33	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_fill.tdt
 27	33	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_fill.tdt
 28	33	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/EndGame/MapAtlasShaper/Tiles/cosmic_fill.tdt

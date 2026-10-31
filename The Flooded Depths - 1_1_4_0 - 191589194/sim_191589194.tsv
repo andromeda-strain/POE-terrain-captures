@@ -341,9 +341,9 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 24	7	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/black.tdt
 25	7	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_concave_v01_01.tdt
 26	7	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_convex_v01_01.tdt
-27	7	0x0	0x0	0	0	-16	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+27	7	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
 28	7	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_pathway_narrow_v01_01.tdt
-29	7	0x0	0x0	0	0	-16	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+29	7	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
 30	7	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_convex_v01_01.tdt
 31	7	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_concave_v01_01.tdt
 32	7	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/black.tdt
@@ -388,7 +388,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 26	8	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Features/cave_water_drips_v01_01.tdt
 27	8	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Fills/cave_river_glowworms_05.tdt
 28	8	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_pathway_narrow_v01_01.tdt
-29	8	0x0	0x0	0	0	-16	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+29	8	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
 30	8	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_straight_v01_01.tdt
 31	8	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/black.tdt
 32	8	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/black.tdt
@@ -430,8 +430,8 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 23	9	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/black.tdt
 24	9	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Walls/cave_wall_corner_concave_v01_03.tdt
 25	9	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wallthick_floor_v01_01.tdt
-26	9	0x0	0x0	0	0	-16	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
-27	9	0x0	0x0	0	0	-16	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+26	9	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+27	9	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
 28	9	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_pathway_narrow_v01_01.tdt
 29	9	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Features/cave_water_drips_v01_03.tdt
 30	9	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_convex_v01_01.tdt
@@ -696,7 +696,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 19	15	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_v01_04.tdt
 20	15	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_pathway_narrow_tjunction_v01_01.tdt
 21	15	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_pathway_narrow_turn_v01_01.tdt
-22	15	0x0	0x0	0	0	-16	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_column_crevice_v01_02.tdt
+22	15	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_column_crevice_v01_02.tdt
 23	15	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_v01_06.tdt
 24	15	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Blank.tdt
 25	15	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_corner_concave_v01_05.tdt
@@ -740,13 +740,13 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 18	16	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_corner_convex_v01_05.tdt
 19	16	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_v01_05.tdt
 20	16	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_v01_05.tdt
-21	16	0x0	0x0	0	0	-16	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+21	16	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
 22	16	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Features/cave_water_drips_v01_01.tdt
 23	16	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_v01_06.tdt
 24	16	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Blank.tdt
 25	16	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_v01_03.tdt
 26	16	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Features/cave_water_drips_v01_03.tdt
-27	16	0x0	0x0	0	0	-16	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_column_crevice_v01_02.tdt
+27	16	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_column_crevice_v01_02.tdt
 28	16	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_straight_v01_01.tdt
 29	16	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_v01_06.tdt
 30	16	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_corner_convex_v01_05.tdt
@@ -772,7 +772,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 5	17	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/black.tdt
 6	17	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_concave_v01_01.tdt
 7	17	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_convex_v01_01.tdt
-8	17	0x0	0x0	0	0	-16	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+8	17	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
 9	17	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Fills/cave_river_glowworms_05.tdt
 10	17	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_convex_v02_03.tdt
 11	17	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_corner_concave_v01_05.tdt
@@ -790,7 +790,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 23	17	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_corner_concave_v01_05.tdt
 24	17	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Blank.tdt
 25	17	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_v01_06.tdt
-26	17	0x0	0x0	0	0	-16	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+26	17	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
 27	17	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_pathway_narrow_turn_v01_01.tdt
 28	17	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_pathway_narrow_tjunction_v01_01.tdt
 29	17	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_v01_04.tdt
@@ -890,8 +890,8 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 33	19	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Features/cave_wall_crevice_v01_03.tdt
 34	19	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Fills/cave_river_glowworms_04.tdt
 35	19	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Features/cave_water_drips_v01_01.tdt
-36	19	0x0	0x0	0	0	-16	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_column_crevice_v01_02.tdt
-37	19	0x0	0x0	0	0	-16	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+36	19	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_column_crevice_v01_02.tdt
+37	19	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
 38	19	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_pathway_narrow_broken_v01_02.tdt
 39	19	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_straight_v01_01.tdt
 40	19	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/black.tdt
@@ -979,9 +979,9 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 32	21	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Walls/cave_wall_straight_v01_04.tdt
 33	21	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wallthick_floor_v01_01.tdt
 34	21	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_pathway_narrow_v01_01.tdt
-35	21	0x0	0x0	0	0	-16	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_column_crevice_v01_02.tdt
+35	21	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_column_crevice_v01_02.tdt
 36	21	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Fills/cave_river_glowworms_01.tdt
-37	21	0x0	0x0	0	0	-16	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+37	21	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
 38	21	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_pathway_narrow_broken_v01_02.tdt
 39	21	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_straight_v01_01.tdt
 40	21	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/black.tdt
@@ -1008,7 +1008,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 16	22	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Walls/cave_wall_straight_v01_04.tdt
 17	22	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Fills/cave_glowworms_05.tdt
 18	22	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_straight_v01_01.tdt
-19	22	0x0	0x0	0	0	-16	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+19	22	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
 20	22	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_corner_convex_v01_02.tdt
 21	22	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_concave_v01_01.tdt
 22	22	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Walls/cave_wall_thin_end_v01_01.tdt
@@ -1016,7 +1016,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 24	22	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Blank.tdt
 25	22	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_v01_06.tdt
 26	22	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Fills/cave_river_glowworms_05.tdt
-27	22	0x0	0x0	0	0	-16	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_column_crevice_v01_01.tdt
+27	22	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_column_crevice_v01_01.tdt
 28	22	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Features/cave_water_drips_v01_03.tdt
 29	22	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_corner_convex_v01_04.tdt
 30	22	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_v01_02.tdt
@@ -1024,7 +1024,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 32	22	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Blank.tdt
 33	22	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_straight_v01_01.tdt
 34	22	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_pathway_narrow_v01_01.tdt
-35	22	0x0	0x0	0	0	-16	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+35	22	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
 36	22	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Features/cave_water_drips_v01_03.tdt
 37	22	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_convex_v01_01.tdt
 38	22	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_convex_v01_01.tdt
@@ -1062,7 +1062,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 25	23	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_pathway_narrow_tjunction_v01_01.tdt
 26	23	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_pathway_narrow_v01_01.tdt
 27	23	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_pathway_narrow_turn_v01_01.tdt
-28	23	0x0	0x0	0	0	-16	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+28	23	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
 29	23	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Fills/cave_river_glowworms_07.tdt
 30	23	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Features/cave_water_drips_v01_01.tdt
 31	23	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_v01_05.tdt
@@ -1315,7 +1315,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 8	29	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/black.tdt
 9	29	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/black.tdt
 10	29	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_straight_v01_01.tdt
-11	29	0x0	0x0	0	0	-16	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+11	29	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
 12	29	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_corner_convex_v01_06.tdt
 13	29	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_v01_03.tdt
 14	29	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_corner_convex_v01_05.tdt
@@ -1365,7 +1365,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 13	30	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Blank.tdt
 14	30	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_v01_02.tdt
 15	30	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Features/cave_water_drips_v01_02.tdt
-16	30	0x0	0x0	0	0	-16	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+16	30	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
 17	30	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_corner_convex_v01_05.tdt
 18	30	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_convex_v02_03.tdt
 19	30	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_v01_05.tdt
@@ -1491,7 +1491,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 4	33	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_straight_v01_01.tdt
 5	33	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_convex_v01_01.tdt
 6	33	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_convex_v01_01.tdt
-7	33	0x0	0x0	0	0	-16	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+7	33	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
 8	33	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Features/cave_water_drips_v01_03.tdt
 9	33	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_v01_04.tdt
 10	33	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
@@ -1536,7 +1536,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 4	34	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_concave_v01_01.tdt
 5	34	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_convex_v01_01.tdt
 6	34	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_column_crevice_v01_01.tdt
-7	34	0x0	0x0	0	0	-16	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_column_crevice_v01_02.tdt
+7	34	0x0	0x0	0	0	0	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_column_crevice_v01_02.tdt
 8	34	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_corner_convex_v01_03.tdt
 9	34	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_corner_concave_v01_05.tdt
 10	34	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
@@ -1562,7 +1562,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 30	34	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wallthick_floor_v01_02.tdt
 31	34	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_corner_convex_v01_05.tdt
 32	34	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Fills/cave_river_glowworms_07.tdt
-33	34	0x0	0x0	0	0	-16	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+33	34	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
 34	34	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/Features/cave_water_drips_v01_01.tdt
 35	34	0x0	0x0	0	0	0	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_straight_v01_01.tdt
 36	34	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/black.tdt
@@ -1580,7 +1580,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 3	35	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/black.tdt
 4	35	0x0	0x0	0	0	0	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_concave_v01_01.tdt
 5	35	0x0	0x0	0	0	0	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_wall_convex_v01_01.tdt
-6	35	0x0	0x0	0	0	-16	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
+6	35	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_middle_v01_01.tdt
 7	35	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_corner_convex_v01_05.tdt
 8	35	0x0	0x0	0	0	0	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Cave/River/cave_river_crevice_corner_concave_v01_04.tdt
 9	35	0x0	0x0	0	0	0	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Blank.tdt

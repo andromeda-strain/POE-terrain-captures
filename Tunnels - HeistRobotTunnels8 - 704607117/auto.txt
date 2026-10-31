@@ -1,0 +1,23 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1715545222 doodad hash 2675545897 (CLI_ACTIVATE_MAP)
+AUTO seed 704607117 Tunnels: dungeon area (capture captures/Tunnels - HeistRobotTunnels8 - 704607117/stages_20261030_123257.csv)
+   dungeon (.dgr) pipeline: 1358 draws in 16 call sites (1 generator draws before it, 988 after it - the post passes); no generator model yet
+   0x14203a8e0: 4 draws, bounds 100
+   0x142105ee9: 5 draws, bounds 1
+   0x142105f65: 1 draws, bounds 1
+   0x1420fd32a: 5 draws, bounds 128
+   0x142012839: 1 draws, bounds 4
+   0x142001ee5: 4 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x1420efc0c: 311 draws, bounds 1,2,4,8,20,22,200,600
+   0x1420f6875: 103 draws, bounds 1,2,4,8,20,600
+   0x1420f7228: 2 draws, bounds 2
+   0x1420f45dc: 9 draws, bounds 1
+   0x1420f4807: 9 draws, bounds 4
+   0x141febf93: 443 draws, bounds 100,500
+   0x141febfcf: 443 draws, bounds 8
+   0x141f41e66: 9 draws, bounds 1,2,3,4,6
+   0x1420f47d8: 8 draws, bounds 1
+   tile grid: captures\Tunnels - HeistRobotTunnels8 - 704607117\truth_3ef6da6ebf0.tsv (37x67, 2479 cells) VERIFIED against tile hash 1715545222
+   walkable field: captures\Tunnels - HeistRobotTunnels8 - 704607117\walkable_3ef6da6ebf0_melee.png (12.9% of the sub-cells walkable, matches the tiles' hull field at IoU 0.981; 2 layer(s) read; stored for the grid as walkable_3ef6da6ebf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Tunnels - HeistRobotTunnels8 - 704607117\minimap.png

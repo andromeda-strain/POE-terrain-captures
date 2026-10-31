@@ -1,0 +1,28 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 504038880 doodad hash 2881918131 (CLI_ACTIVATE_MAP)
+AUTO seed 2888354881 Repository: dungeon area (capture captures/Repository - HeistReliquary8 - 2888354881/stages_20261030_141606.csv)
+   dungeon (.dgr) pipeline: 1424 draws in 21 call sites (1 generator draws before it, 1103 after it - the post passes); no generator model yet
+   0x14203a8e0: 3 draws, bounds 100
+   0x142030de5: 1 draws, bounds 2
+   0x142105ee9: 3 draws, bounds 1,2,8
+   0x1420fd32a: 3 draws, bounds 128
+   0x142012839: 1 draws, bounds 2
+   0x142001ee5: 2 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x1420efc0c: 345 draws, bounds 1,2,4,6,8,12
+   0x1420f6875: 119 draws, bounds 1,2,8
+   0x1420f7228: 5 draws, bounds 2
+   0x141fffc2c: 2 draws, bounds 99,198
+   0x141fffe22: 2 draws, bounds 99
+   0x142000103: 2 draws, bounds 100
+   0x14200016f: 2 draws, bounds 840
+   0x141feadce: 2 draws, bounds 1,2
+   0x141febf93: 449 draws, bounds 1,100
+   0x141febfcf: 449 draws, bounds 8
+   0x141f41e66: 9 draws, bounds 1,2,4
+   0x1420f45dc: 8 draws, bounds 1
+   0x1420f47d8: 8 draws, bounds 1
+   0x1420f4807: 8 draws, bounds 4
+   tile grid: captures\Repository - HeistReliquary8 - 2888354881\truth_3eff24b13f0.tsv (67x37, 2479 cells) VERIFIED against tile hash 504038880
+   walkable field: captures\Repository - HeistReliquary8 - 2888354881\walkable_3eff24b13f0_melee.png (17.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.917; 2 layer(s) read; stored for the grid as walkable_3eff24b13f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Repository - HeistReliquary8 - 2888354881\minimap.png

@@ -4493,9 +4493,9 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 54	51	0x0	0x0	0	0	36	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/GardenThinWall/garden_thickwall_straight_path_v02_01.tdt
 55	51	0x0	0x0	0	0	36	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/LowWallGarden/garden_lowwall_thickwall_connection_v01_02.tdt
 56	51	0x0	0x0	0	0	36	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/GardenThinWall/garden_path_v01_02.tdt
-57	51	0x0	0x0	0	0	36	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
+57	51	0x0	0x0	0	0	36	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
 58	51	0x0	0x0	0	0	36	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
-59	51	0x0	0x0	0	0	36	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
+59	51	0x0	0x0	0	0	36	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
 60	51	0x0	0x0	0	0	36	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/GardenThinWall/garden_path_v01_02.tdt
 61	51	0x0	0x0	0	0	36	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/GardenThinWall/garden_thin_wall_straight_v01_01.tdt
 62	51	0x0	0x0	0	0	36	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Blank.tdt
@@ -4580,9 +4580,9 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 54	52	0x0	0x0	0	0	36	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/GardenThinWall/garden_path_v04_01.tdt
 55	52	0x0	0x0	0	0	36	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/LowWallGarden/garden_lowwall_path_door_v01_01.tdt
 56	52	0x0	0x0	0	0	36	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/GardenThinWall/garden_path_v04_01.tdt
-57	52	0x0	0x0	0	0	36	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
+57	52	0x0	0x0	0	0	36	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
 58	52	0x0	0x0	0	0	36	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
-59	52	0x0	0x0	0	0	36	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
+59	52	0x0	0x0	0	0	36	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
 60	52	0x0	0x0	0	0	36	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/GardenThinWall/garden_path_v04_01.tdt
 61	52	0x0	0x0	0	0	36	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/GardenThinWall/garden_thin_wall_path_door_v01_02.tdt
 62	52	0x0	0x0	0	0	36	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Blank.tdt
@@ -4667,9 +4667,9 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 54	53	0x0	0x0	0	0	36	1	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/GardenThinWall/garden_thickwall_straight_path_v02_01.tdt
 55	53	0x0	0x0	0	0	36	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/LowWallGarden/garden_lowwall_thickwall_connection_v01_02.tdt
 56	53	0x0	0x0	0	0	36	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/GardenThinWall/garden_path_v01_02.tdt
-57	53	0x0	0x0	0	0	36	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
+57	53	0x0	0x0	0	0	36	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
 58	53	0x0	0x0	0	0	36	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
-59	53	0x0	0x0	0	0	36	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
+59	53	0x0	0x0	0	0	36	7	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/forced_blank.tdt
 60	53	0x0	0x0	0	0	36	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/GardenThinWall/garden_path_v01_02.tdt
 61	53	0x0	0x0	0	0	36	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/RuinedCity/GardenThinWall/garden_thin_wall_straight_v01_01.tdt
 62	53	0x0	0x0	0	0	36	6	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Blank.tdt
