@@ -929,3 +929,11 @@ seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
 3883261409	Cemetery	tgr	MATCH			3766429721		4.8	room tiles 169/169; junction records 0/0; edge tiles 167/167; fill tiles 2806/2806; map cells 3178/3178
 1375344497	Absence of Symmetry and Harmony	dgr	MATCH	0	29x25	1776427309	1776427309	6.4	
 1651634491	Mineral Pools	dgr	MATCH	0	97x149	1071532347	1071532347	9.2	
+3410467983	Jungle Valley	tgr	MATCH			3564491261		2.4	room tiles 109/109; junction records 0/0; edge tiles 32/32; fill tiles 545/545; map cells 783/783; unknown picks 8 (0 long/absent); key misses 8
+3742396165	Sealed Repository	dgr	MATCH	0	35x35	2291541536	2291541536	6.9	
+357500932	Jungle Valley	tgr	MATCH			647725037		2.4	room tiles 109/109; junction records 0/0; edge tiles 26/26; fill tiles 599/599; map cells 854/854; unknown picks 6 (0 long/absent); key misses 6
+3772546119	Frozen Springs	tgr	MATCH			213918811		2.5	overlay tiles 2/2; tile heights 87/87; room tiles 41/41; junction records 0/0; edge tiles 44/44; fill tiles 408/408; map cells 495/495
+3284284430	Side Chapel	dgr	MATCH	0	79x79	553967203	553967203	5.7	
+572338466	Tropical Island	tgr	MATCH			3355599404		2.8	room tiles 281/281; junction records 0/0; edge tiles 113/113; fill tiles 3584/3584; map cells 4169/4169
+1195471109	Clouded Ledge	tgr	MATCH			3211992500		2.8	room tiles 59/59; junction records 0/0; edge tiles 126/126; fill tiles 2127/2127; map cells 2339/2339; unknown picks 2 (0 long/absent); key misses 2
+649541241	Tropical Island	tgr	MATCH			3823805663		2.7	room tiles 281/281; junction records 0/0; edge tiles 134/134; fill tiles 3445/3445; map cells 4061/4061
