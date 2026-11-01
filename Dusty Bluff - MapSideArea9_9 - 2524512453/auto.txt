@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2513660956 doodad hash 3450354997 (CLI_ACTIVATE_MAP)
+AUTO seed 2524512453 Dusty Bluff: terrain act9/sidearearefinery/ graph siderefinery1.tgr (5 locked nodes match; capture 19 nodes, graph 11)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 4, 6]
+   node pipeline: pre-pick words 2, vaal_pending False, hideout_claim False: free nodes 0/0 match
+   tile grid: captures\Dusty Bluff - MapSideArea9_9 - 2524512453\truth_5c7114cb3f0.tsv (66x36, 2376 cells) VERIFIED against tile hash 2513660956
+   walkable field: captures\Dusty Bluff - MapSideArea9_9 - 2524512453\walkable_5c7114cb3f0_melee.png (15.4% of the sub-cells walkable, matches the tiles' hull field at IoU 0.995; 2 layer(s) read; stored for the grid as walkable_5c7114cb3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Dusty Bluff - MapSideArea9_9 - 2524512453\minimap.png
+   PASS: permute-in 11/11, permute-out 11/11, rounder-in-1 11/11, rounder-in-2 11/11, rounder-in-3 17/17, rounder-in-4 17/17, rounder-in-5 17/17
+   layout: captures\Dusty Bluff - MapSideArea9_9 - 2524512453\layout.png; minimap captures\Dusty Bluff - MapSideArea9_9 - 2524512453\minimap.png
+   corpus row appended

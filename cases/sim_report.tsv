@@ -937,3 +937,24 @@ seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
 572338466	Tropical Island	tgr	MATCH			3355599404		2.7	room tiles 281/281; junction records 0/0; edge tiles 113/113; fill tiles 3584/3584; map cells 4169/4169
 1195471109	Clouded Ledge	tgr	MATCH			3211992500		2.4	room tiles 59/59; junction records 0/0; edge tiles 126/126; fill tiles 2127/2127; map cells 2339/2339; unknown picks 2 (0 long/absent); key misses 2
 649541241	Tropical Island	tgr	MATCH			3823805663		2.6	room tiles 281/281; junction records 0/0; edge tiles 134/134; fill tiles 3445/3445; map cells 4061/4061
+2462655740	The Sovereign	depths	MATCH	0	36x36	3292072705	3292072705	2.2	
+939063967	The Fathomless Depths	depths	MATCH	0	73x36	2559157544	2559157544	13.4	
+2553284111	The Fathomless Depths	depths	MATCH	0	73x36	2575751718	2575751718	13.4	
+2602922928	The Fathomless Depths	depths	MATCH	0	73x36	1733590664	1733590664	13.4	
+3035017414	The Fathomless Depths	depths	MATCH	0	73x36	2906903777	2906903777	10.6	
+2098047660	The Fathomless Depths	depths	MATCH	0	133x96	1235014542	1235014542	49.7	first draw-stage not OK: plugin; first mismatch: sim 0x141f2cb29 sub_141F2CC70 cell connection tiling draw(10) = 5 [word 1997] connection (15,63) 1x1 fill for - vs log 0x141f2cb29 draw(0) = 0
+3500631352	The Fathomless Depths	depths	MATCH	0	73x36	884788071	884788071	8.1	
+2328920937	The Fathomless Depths	depths	MATCH	0	73x36	4251641662	4251641662	10.2	
+357756402	The Fathomless Depths	depths	MATCH	0	73x36	3182327634	3182327634	10.3	
+1239700937	The Fathomless Depths	depths	MATCH	0	133x96	3033058420	3033058420	48.4	first draw-stage not OK: plugin; first mismatch: sim 0x141f2cb29 sub_141F2CC70 cell connection tiling draw(10) = 5 [word 1720] connection (60,21) 1x1 fill for - vs log 0x141f2cb29 draw(0) = 0
+1586523331	The Fathomless Depths	depths	MATCH	0	133x96	120204362	120204362	47.4	first draw-stage not OK: plugin; first mismatch: sim 0x141f2cb29 sub_141F2CC70 cell connection tiling draw(10) = 6 [word 1640] connection (9,33) 1x1 fill for - vs log 0x141f2cb29 draw(0) = 0
+1071117121	Tropical Island	tgr	MATCH			1560671635		6.2	room tiles 273/273; junction records 0/0; edge tiles 181/181; fill tiles 3498/3498; map cells 4145/4145
+2524512453	Dusty Bluff	tgr	MATCH			2513660956		8.0	room tiles 46/46; junction records 0/0; edge tiles 68/68; fill tiles 790/790; map cells 913/913
+1707629138	Tropical Island	tgr	MATCH			362030279		6.2	room tiles 273/273; junction records 0/0; edge tiles 159/159; fill tiles 3482/3482; map cells 4145/4145
+2198307869	Deathly Chambers	dgr	MATCH	0	53x49	2515249611	2515249611	12.1	
+465953119	The Causeway	dgr	MATCH	0	73x97	685894815	685894815	8.1	
+4009990662	Forbidden Chamber	dgr	MATCH	0	35x43	3994829442	3994829442	10.5	
+2707777626	Tropical Island	tgr	MATCH			1614405236		6.2	room tiles 273/273; junction records 0/0; edge tiles 171/171; fill tiles 3512/3512; map cells 4145/4145
+3292496846	Tropical Island	tgr	MATCH			3550553774		6.1	room tiles 281/281; junction records 0/0; edge tiles 136/136; fill tiles 3433/3433; map cells 4061/4061
+137562912	Flooded Complex	dgr	MATCH	0	43x55	2585083338	2585083338	5.6	
+2795820962	Monastery of the Keepers	dgr	MATCH	0	30x36	739522572	739522572	2.0	

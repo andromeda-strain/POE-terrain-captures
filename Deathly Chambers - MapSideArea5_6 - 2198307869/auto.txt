@@ -1,0 +1,33 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2515249611 doodad hash 141772283 (CLI_ACTIVATE_MAP)
+AUTO seed 2198307869 Deathly Chambers: dungeon area (capture captures/Deathly Chambers - MapSideArea5_6 - 2198307869/stages_20261031_221829.csv)
+   dungeon (.dgr) pipeline: 2500 draws in 26 call sites (2 generator draws before it, 2919 after it - the post passes); no generator model yet
+   0x14203a8e0: 6 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 100
+   0x1420038a1: 2 draws, bounds 100
+   0x1420fd32a: 66 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 137 draws, bounds 11500
+   0x142001ee5: 25 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x1420fcc6c: 1 draws, bounds 2
+   0x1420fce8c: 1 draws, bounds 100
+   0x142100f13: 17 draws, bounds 0,1,2,3
+   0x142101086: 9 draws, bounds 100
+   0x14210862e: 15 draws, bounds 500,4400,12800,16400,16900,49200
+   0x14210871c: 15 draws, bounds 840
+   0x142108799: 1 draws, bounds 500
+   0x1421087b9: 1 draws, bounds 840
+   0x142109942: 57 draws, bounds 500
+   0x142109cdf: 57 draws, bounds 500
+   0x142109cf6: 57 draws, bounds 840
+   0x1420efc0c: 535 draws, bounds 1,2,4,8,16,24,600,700
+   0x1420f6875: 423 draws, bounds 1,2,4,600,700
+   0x1420f7228: 3 draws, bounds 2
+   0x1420f45dc: 27 draws, bounds 1
+   0x1420f4807: 27 draws, bounds 4
+   0x141febf93: 507 draws, bounds 1,100,500
+   0x141febfcf: 507 draws, bounds 8
+   tile grid: captures\Deathly Chambers - MapSideArea5_6 - 2198307869\truth_5c76b1c23f0.tsv (53x49, 2597 cells) VERIFIED against tile hash 2515249611
+   walkable field: captures\Deathly Chambers - MapSideArea5_6 - 2198307869\walkable_5c76b1c23f0_melee.png (10.9% of the sub-cells walkable, matches the tiles' hull field at IoU 0.955; 2 layer(s) read; stored for the grid as walkable_5c76b1c23f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Deathly Chambers - MapSideArea5_6 - 2198307869\minimap.png

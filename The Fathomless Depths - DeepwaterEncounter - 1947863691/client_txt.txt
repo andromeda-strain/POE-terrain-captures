@@ -1,0 +1,13 @@
+2026/10/31 20:44:52 978674937 1186a8a3 [DEBUG Client 14132] Generating level 83 area "DeepwaterEncounter" with seed 1947863691
+2026/10/31 20:44:53 978675703 f22b6a02 [INFO Client 14132] Tile hash: 3428304891
+2026/10/31 20:44:53 978675703 f22b6a0d [INFO Client 14132] Doodad hash: 3564793317
+2026/10/31 20:44:53 978675718 e001b752 [INFO Client 14132] [SCENE] Set Source [(null)]
+2026/10/31 20:44:53 978675718 e001b752 [INFO Client 14132] [SCENE] Set Source [The Fathomless Depths]
+2026/10/31 20:44:53 978675765 df74e03b [DEBUG Client 14132] [SCENE] Static Walkability Texture: 560 x 276
+2026/10/31 20:44:53 978676312 cffb065b [INFO Client 14132] : You have entered The Fathomless Depths.
+2026/10/31 20:44:54 978676843 a15e960c [INFO Client 14132] [LOADING SCREEN] (The Fathomless Depths) Duration = 2.0103 seconds
+2026/10/31 20:44:55 978677843 cffb065b [INFO Client 14132] Valerie, the Corsair: Deep breaths!
+2026/10/31 20:44:57 978680125 13cb2f92 [WARN Client 14132] Failed to create effect graph node (ID: 70207256). Node type does not exist
+2026/10/31 20:44:57 978680125 5c7c661 [WARN Client 14132] Failed to create effect graph node "WaterFlowUvField" in graph "Metadata/Effects/Graphs/Environment/FlowingWater.fxgraph"
+2026/10/31 20:45:02 978684984 54ee9dc3 [INFO Client 14132] [WINDOW] Lost focus
+2026/10/31 20:45:03 978686171 54ee9d8c [INFO Client 14132] [WINDOW] Gained focus

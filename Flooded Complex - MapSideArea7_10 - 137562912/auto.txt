@@ -1,0 +1,4 @@
+KNOWN Flooded Complex [MapSideArea7_10] seed 137562912: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 2585083338 (1 of 1 rows), last capture captures/Flooded Complex - MapSideArea7_10 - 137562912/stages_20261031_230213.csv (dungeon trace)
+   this load's tile hash 2585083338 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Flooded Complex - MapSideArea7_10 - 137562912\truth_5c76aa91bf0.tsv): captures\Flooded Complex - MapSideArea7_10 - 137562912\minimap.png
