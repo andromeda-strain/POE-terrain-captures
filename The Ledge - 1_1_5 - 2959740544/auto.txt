@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3618149201 doodad hash 2390104434 (CLI_ACTIVATE_MAP)
+AUTO seed 2959740544 The Ledge: terrain act1/area5/ graph macro_ledge4_1.tgr (4 locked nodes match; capture 34 nodes, graph 21)
+   typed nodes never placed by the client (untilised): [1, 3, 4, 12, 13, 16, 17, 19, 20]
+   node pipeline: pre-pick words 1, vaal_pending False, hideout_claim False: free nodes 8/8 match
+   tile grid: captures\The Ledge - 1_1_5 - 2959740544\truth_420cdf7dbf0.tsv (93x102, 9486 cells) VERIFIED against tile hash 3618149201
+   walkable field: captures\The Ledge - 1_1_5 - 2959740544\walkable_420cdf7dbf0_melee.png (8.0% of the sub-cells walkable, matches the tiles' hull field at IoU 0.553; 2 layer(s) read; stored for the grid as walkable_420cdf7dbf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Ledge - 1_1_5 - 2959740544\minimap.png
+   FAIL: permute-in 14/14, permute-out 14/14, rounder-in-1 14/14, rounder-in-2 14/14, rounder-in-3 25/26, rounder-in-4 25/26, rounder-in-5 25/26, rounder-in-6 25/26
+   layout: captures\The Ledge - 1_1_5 - 2959740544\layout.png; minimap captures\The Ledge - 1_1_5 - 2959740544\minimap.png
+   corpus row appended

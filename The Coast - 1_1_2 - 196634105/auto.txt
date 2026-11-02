@@ -1,0 +1,4 @@
+KNOWN The Coast [1_1_2] seed 196634105: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain leagues/deepwater/act1_coast/, tile hash 1931712098 (1 of 1 rows), last capture captures/The Coast - 1_1_2 - 196634105/stages_20261101_214051.csv (DIFF)
+   this load's tile hash 1931712098 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\The Coast - 1_1_2 - 196634105\truth_4212ffe63f0.tsv): captures\The Coast - 1_1_2 - 196634105\minimap.png

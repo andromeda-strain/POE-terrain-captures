@@ -1,0 +1,23 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 465633106 doodad hash 2315995438 (CLI_ACTIVATE_MAP)
+AUTO seed 332974856 The Sewers: dungeon area (capture captures/The Sewers - 1_3_10_1 - 332974856/stages_20261101_223100.csv)
+   dungeon (.dgr) pipeline: 3647 draws in 16 call sites (5 generator draws before it, 10187 after it - the post passes); no generator model yet
+   0x14203a8e0: 22 draws, bounds 100
+   0x142105ee9: 10 draws, bounds 1
+   0x142107272: 2 draws, bounds 3770
+   0x1420fd32a: 134 draws, bounds 128
+   0x142012839: 2 draws, bounds 2,9
+   0x1420fd640: 310 draws, bounds 3770
+   0x142001ee5: 29 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x1420fcc6c: 3 draws, bounds 1,2,3
+   0x1420fce8c: 3 draws, bounds 100
+   0x14210862e: 20 draws, bounds 1520,3570,16280,39260,92052,169492,827102
+   0x14210871c: 20 draws, bounds 840
+   0x1420efc0c: 726 draws, bounds 40,60,80,100,120,200,220,260,400,420,800,900,...
+   0x1420f6875: 109 draws, bounds 40,80,120,200,400,1200
+   0x141febf93: 1128 draws, bounds 1,100,130
+   0x141febfcf: 1128 draws, bounds 8
+   tile grid: captures\The Sewers - 1_3_10_1 - 332974856\truth_4212fe7cbf0.tsv (59x109, 5502 cells) VERIFIED against tile hash 465633106
+   walkable field: captures\The Sewers - 1_3_10_1 - 332974856\walkable_4212fe7cbf0_melee.png (8.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.971; 3 layer(s) read; stored for the grid as walkable_4212fe7cbf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Sewers - 1_3_10_1 - 332974856\minimap.png

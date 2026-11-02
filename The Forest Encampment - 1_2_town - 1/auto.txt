@@ -1,0 +1,6 @@
+KNOWN The Forest Encampment [1_2_town] seed 1: 13 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 3884967862 (13 of 13 rows), last capture captures/The Forest Encampment - 1_2_town - 1/stages_20261001_204953.csv (dungeon trace)
+   this load's tile hash 3884967862 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   walkable field: only the ranged layer among the 3 layer(s) read is this area's; stored for the grid as walkable_3dbc0f173f0_{ranged}.png/.bin/.tsv; the map is not drawn with it
+   walkable field: captures\The Forest Encampment - 1_2_town - 1\hull_ranged.png composed from the tiles' hull planes (57.1% of the sub-cells walkable, agrees with the grid on 81.0% of the cells; the placed objects' hulls are not in it)
+   minimap (the stored grid captures\The Forest Encampment - 1_2_town - 1\truth_3dbc0f173f0.tsv): captures\The Forest Encampment - 1_2_town - 1\minimap.png

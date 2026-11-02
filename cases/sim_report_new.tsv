@@ -1,0 +1,55 @@
+seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
+2610882775	Tropical Island	tgr	NOINST			545227483		0.0	no outdoor instance for this seed (index status: generator failed)
+196634105	The Coast	tgr	MATCH			1931712098		99.4	overlay tiles 4/4; tile heights 243/243; room tiles 96/96; junction records 3/3; edge tiles 96/96; fill tiles 1269/1269; map cells 1512/1512; unknown picks 0 (0 long/absent); key misses 4
+1539284231	The Tidal Island	tgr	MATCH			3423864147		97.3	room tiles 22/22; junction records 0/0; edge tiles 71/71; fill tiles 809/809; map cells 906/906
+3077788279	The Mud Flats	tgr	PARTIAL			3865747644		96.3	room tiles 64/64; junction records 4/4; edge tiles 81/81; fill tiles 353/355; map cells 556/559
+3453935105	The Fetid Pool	dgr	MATCH	0	51x60	331991723	331991723	14.5	first draw-stage not OK: ao; first mismatch: sim 0x14202eea5 sub_14202EDE0 AO index draw(50) = 6 [word 588] AO set placement (replayed) vs log 0x14202eea5 draw(50) = 33
+1165260735	The Submerged Passage	dgr	MATCH	0	57x65	3691141318	3691141318	12.3	
+3030015845	The Flooded Depths	dgr	MATCH	0	45x45	312013471	312013471	15.5	
+2110401960	The Lower Prison	dgr	MATCH	0	51x59	1945972182	1945972182	10.7	
+2959740544	The Ledge	tgr	MATCH			3618149201		44.3	room tiles 68/68; junction records 0/0; edge tiles 93/93; fill tiles 3414/3414; map cells 3648/3648; unknown picks 54 (0 long/absent); key misses 54
+1037254545	The Ship Graveyard Cave	dgr	MATCH	0	45x45	3050987618	3050987618	8.0	
+2419297450	Prisoner's Gate	tgr	MATCH			1922374362		11.2	overlay tiles 10/10; tile heights 313/313; room tiles 51/51; junction records 0/0; edge tiles 113/115; fill tiles 652/652; map cells 965/965; unknown picks 0 (0 long/absent); key misses 4
+3522188428	The Ship Graveyard	tgr	MATCH			402924605		10.6	room tiles 67/67; junction records 0/0; edge tiles 95/95; fill tiles 1812/1812; map cells 2004/2004; unknown picks 2 (0 long/absent); key misses 2
+2666176816	The Climb	tgr	MATCH			1840392470		5.6	room tiles 65/65; junction records 2/2; edge tiles 49/49; fill tiles 493/493; map cells 657/657; unknown picks 2 (0 long/absent); key misses 2
+429670486	The Cavern of Wrath	dgr	MATCH	0	69x49	2519258400	2519258400	11.5	
+3954865530	The Southern Forest	tgr	MATCH			1499895737		10.9	room tiles 127/127; junction records 0/0; edge tiles 110/110; fill tiles 1025/1025; map cells 1356/1356; unknown picks 2 (0 long/absent); key misses 2
+3865167820	The Old Fields	dgr	CELLS	1471	67x59	2410229891	4131009819	14.0	first draw-stage not OK: pre; first mismatch: sim 0x14204ad87 ? draw(100) = 3 [word 0] generator rolls before the pipeline (replayed) vs log 0x14204ad87 draw(100) = 86
+3865167820	The Old Fields	tgr	PARTIAL			63594903		13.1	room tiles 163/163; junction records 6/6; edge tiles 94/94; fill tiles 1150/1150; map cells 1487/1489; unknown picks 4 (0 long/absent); key misses 4
+3257013377	The Den	dgr	MATCH	0	67x59	2410229891	2410229891	6.2	
+1872196352	Hidden Patch	tgr	MATCH			2107817886		3.0	room tiles 14/14; junction records 0/0; edge tiles 15/15; fill tiles 133/133; map cells 180/180; unknown picks 2 (0 long/absent); key misses 2
+3194190464	The Crossroads	tgr	MATCH			3445616862		13.5	room tiles 135/135; junction records 6/6; edge tiles 238/238; fill tiles 1421/1421; map cells 2005/2005; unknown picks 4 (0 long/absent); key misses 4
+2196539135	The Fellshrine Ruins	tgr	ERROR			2586435718		4.3	RuntimeError: Failed to tilise the non-virtual node 6 (863, 12) @ edge_sim.py:1867 setup
+1434339740	The Crypt Level 1	dgr	MATCH	0	59x59	368646015	368646015	13.9	
+533557534	The Crypt Level 2	dgr	MATCH	0	59x59	1442327514	1442327514	13.9	
+3302625098	The Broken Bridge	tgr	MATCH			3272095367		6.2	room tiles 116/116; junction records 6/6; edge tiles 228/228; fill tiles 2704/2704; map cells 3276/3276
+2483318167	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	2387355301	2387355301	7.8	
+3110899027	The Chamber of Sins Level 2	dgr	MATCH	0	59x65	589909338	589909338	8.1	
+297048888	The Riverways	tgr	MATCH			3400773720		8.8	room tiles 151/151; junction records 3/3; edge tiles 609/609; fill tiles 2181/2181; map cells 3140/3140; unknown picks 8 (0 long/absent); key misses 8
+588509912	The Western Forest	tgr	MATCH			192295219		7.4	room tiles 129/129; junction records 2/2; edge tiles 202/202; fill tiles 1375/1375; map cells 1824/1824; unknown picks 4 (0 long/absent); key misses 4
+1957335865	Narrow Ravine	tgr	MATCH			2714334110		1.8	room tiles 23/23; junction records 0/0; edge tiles 26/26; fill tiles 89/89; map cells 166/166
+556971727	The Weaver's Chambers	dgr	MATCH	0	47x47	4008879638	4008879638	6.8	
+3415986245	The Wetlands	tgr	MATCH			2047670569		6.7	room tiles 149/149; junction records 1/1; edge tiles 179/179; fill tiles 1073/1073; map cells 1581/1581
+2741590199	The Vaal Ruins	dgr	MATCH	0	79x51	3726436311	3726436311	15.2	
+2692825959	The Dread Thicket	dgr	MATCH	0	81x39	13252233	13252233	9.2	
+2216172894	The Northern Forest	tgr	MATCH			2228038468		5.7	room tiles 50/50; junction records 7/7; edge tiles 186/186; fill tiles 1100/1100; map cells 1458/1458; unknown picks 12 (0 long/absent); key misses 12
+4061127572	The Caverns	dgr	MATCH	0	95x63	364865378	364865378	12.2	
+2997831507	The Ancient Pyramid	dgr	MATCH	0	111x39	3313286862	3313286862	6.1	
+469173571	The City of Sarn	tgr	MATCH			1372603883		7.8	room tiles 54/54; junction records 2/2; edge tiles 79/79; fill tiles 1017/1017; map cells 1164/1164; unknown picks 11 (0 long/absent); key misses 11
+4009667901	The Slums	dgr	MATCH	0	81x69	1784432400	1784432400	13.4	
+332974856	The Sewers	dgr	MATCH	0	59x109	465633106	465633106	16.0	
+104577254	The Marketplace	dgr	MATCH	0	69x81	1447312702	1447312702	14.2	
+3840844190	The Catacombs	dgr	MATCH	0	59x59	2150024385	2150024385	9.3	
+2294520484	The Battlefront	dgr	MATCH	0	72x96	3738423791	3738423791	17.2	
+83514332	The Solaris Temple Level 1	dgr	MATCH	0	65x65	77347390	77347390	33.6	
+3885173538	The Solaris Temple Level 2	dgr	MATCH	0	111x87	1626636319	1626636319	13.6	
+39536467	The Docks	dgr	MATCH	0	77x87	2076393723	2076393723	9.6	
+2577392456	The Ebony Barracks	dgr	MATCH	0	75x120	1259652322	1259652322	8.2	
+1470504967	The Lunaris Temple Level 1	dgr	MATCH	0	55x109	1721309699	1721309699	18.0	
+1207257131	The Lunaris Temple Level 2	dgr	MATCH	0	173x71	2909536010	2909536010	17.2	
+1309004979	The Imperial Gardens	dgr	MATCH	0	81x105	772246382	772246382	20.2	
+926238535	The Library	dgr	MATCH	0	67x67	3618814243	3618814243	7.9	
+2003991829	The Archives	dgr	CELLS	1021	55x55	909994143	413314212	7.6	first draw-stage not OK: graph; first mismatch: sim 0x142105ee9 sub_142105A70+0x479 room chooser draw(100) = 9 [word 23] subgraph 0 graph stage vs log 0x142030f6e draw(2) = 1
+352300104	The Sceptre of God	dgr	MATCH	0	127x37	648375107	648375107	12.4	
+375166417	The Upper Sceptre of God	dgr	MATCH	0	168x42	1381582394	1381582394	8.1	
+3173133757	The Aqueduct	dgr	MATCH	0	48x168	2645847760	2645847760	8.9	

@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2107817886 doodad hash 1055961554 (CLI_ACTIVATE_MAP)
+AUTO seed 1872196352 Hidden Patch: terrain act2/sidecliff2/ graph cliff3.tgr (2 locked nodes match; capture 6 nodes, graph 4)
+   typed nodes never placed by the client (untilised): [0, 2]
+   node pipeline: pre-pick words 0, vaal_pending False, hideout_claim False: free nodes 0/0 match
+   pre-pick words 0 -> 2 by the capture (first pipeline word: client 3, sim 1; 12 draws replayed)
+   tile grid: captures\Hidden Patch - 1_SideArea2_4 - 1872196352\truth_4212f348bf0.tsv (33x45, 1485 cells) VERIFIED against tile hash 2107817886
+   walkable field: captures\Hidden Patch - 1_SideArea2_4 - 1872196352\walkable_4212f348bf0_melee.png (14.1% of the sub-cells walkable, matches the tiles' hull field at IoU 0.995; 3 layer(s) read; stored for the grid as walkable_4212f348bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Hidden Patch - 1_SideArea2_4 - 1872196352\minimap.png
+   PASS: permute-in 4/4, permute-out 4/4, rounder-in-1 4/4, rounder-in-2 4/4, rounder-in-3 4/4
+   layout: captures\Hidden Patch - 1_SideArea2_4 - 1872196352\layout.png; minimap captures\Hidden Patch - 1_SideArea2_4 - 1872196352\minimap.png
+   corpus row appended

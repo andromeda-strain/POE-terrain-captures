@@ -1,0 +1,42 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2909536010 doodad hash 1932328694 (CLI_ACTIVATE_MAP)
+AUTO seed 1207257131 The Lunaris Temple Level 2: dungeon area (capture captures/The Lunaris Temple Level 2 - 1_3_14_2 - 1207257131/stages_20261101_223954.csv)
+   dungeon (.dgr) pipeline: 17270 draws in 35 call sites (3 generator draws before it, 58881 after it - the post passes); no generator model yet
+   0x14203a8e0: 46 draws, bounds 100
+   0x142105ee9: 14 draws, bounds 100
+   0x142107272: 14 draws, bounds 580,5650
+   0x1420fd32a: 697 draws, bounds 128
+   0x142012839: 6 draws, bounds 1,4,7,17
+   0x1420fd640: 956 draws, bounds 580,641,1251,5650
+   0x142001ee5: 99 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 4
+   0x1420fcc6c: 2 draws, bounds 3,7
+   0x1420fce8c: 4 draws, bounds 100
+   0x14210862e: 73 draws, bounds 10,120,410,800,1440,4100,7380,9350,32201,36900,48301,57400,...
+   0x14210871c: 73 draws, bounds 840
+   0x142108799: 10 draws, bounds 7380,9350,57400
+   0x1421087b9: 10 draws, bounds 840
+   0x142109942: 90 draws, bounds 6
+   0x142109cdf: 90 draws, bounds 6
+   0x142109cf6: 90 draws, bounds 840
+   0x142101b93: 1 draws, bounds 2
+   0x1420ff711: 1 draws, bounds 7
+   0x1420ff72b: 1 draws, bounds 1
+   0x1420efc0c: 3580 draws, bounds 50,100,125,200,250,260,280,320,400,480,500,520,...
+   0x1420f6875: 479 draws, bounds 100,125,200,250,260,280,320,400,480,520,560,800
+   0x1420f7228: 3 draws, bounds 800
+   0x1420f45dc: 2 draws, bounds 1
+   0x1420f4807: 2 draws, bounds 800
+   0x141feddbe: 479 draws, bounds 24,64
+   0x141fee98b: 86 draws, bounds 8
+   0x141fe90a5: 1743 draws, bounds 20
+   0x141fe9173: 1743 draws, bounds 8
+   0x141fee88c: 239 draws, bounds 8
+   0x141febd7f: 3192 draws, bounds 24,64
+   0x141fed1ec: 1536 draws, bounds 8
+   0x141fed087: 628 draws, bounds 8
+   0x141febf93: 640 draws, bounds 1,100
+   0x141febfcf: 640 draws, bounds 8
+   tile grid: captures\The Lunaris Temple Level 2 - 1_3_14_2 - 1207257131\truth_4217a4c73f0.tsv (173x71, 12283 cells) VERIFIED against tile hash 2909536010
+   walkable field: captures\The Lunaris Temple Level 2 - 1_3_14_2 - 1207257131\walkable_4217a4c73f0_melee.png (10.0% of the sub-cells walkable, matches the tiles' hull field at IoU 0.859; 2 layer(s) read; stored for the grid as walkable_4217a4c73f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Lunaris Temple Level 2 - 1_3_14_2 - 1207257131\minimap.png

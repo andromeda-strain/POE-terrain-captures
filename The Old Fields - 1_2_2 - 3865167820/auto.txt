@@ -1,0 +1,4 @@
+KNOWN The Old Fields [1_2_2] seed 3865167820: 2 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain act2/area2/, tile hash 63594903 (1 of 2 rows), last capture captures/The Old Fields - 1_2_2 - 3865167820/stages_20261101_215523.csv (DIFF)
+   this load's tile hash 63594903 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\The Old Fields - 1_2_2 - 3865167820\truth_4217a4cd3f0.tsv): captures\The Old Fields - 1_2_2 - 3865167820\minimap.png

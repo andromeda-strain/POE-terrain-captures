@@ -1,0 +1,29 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2519258400 doodad hash 2748497562 (CLI_ACTIVATE_MAP)
+AUTO seed 429670486 The Cavern of Wrath: dungeon area (capture captures/The Cavern of Wrath - 1_1_11_1 - 429670486/stages_20261101_215043.csv)
+   dungeon (.dgr) pipeline: 2255 draws in 22 call sites (3 generator draws before it, 12521 after it - the post passes); no generator model yet
+   0x14203a8e0: 10 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 1
+   0x1420038a1: 2 draws, bounds 100
+   0x142107272: 1 draws, bounds 418
+   0x1420fd32a: 134 draws, bounds 128
+   0x142012839: 2 draws, bounds 1,3
+   0x1420fd640: 234 draws, bounds 418,6785
+   0x142001ee5: 47 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 2
+   0x1420fcc6c: 1 draws, bounds 13
+   0x1420fce8c: 1 draws, bounds 100
+   0x142100f13: 8 draws, bounds 0,1,2,3
+   0x142101086: 6 draws, bounds 100
+   0x14210862e: 26 draws, bounds 10,15,122,165,377,425,630,795,1410,4661,6865,20857,...
+   0x14210871c: 26 draws, bounds 840
+   0x142101b93: 1 draws, bounds 5
+   0x1420ff711: 1 draws, bounds 2
+   0x1420ff72b: 1 draws, bounds 1
+   0x1420efc0c: 561 draws, bounds 1,2,4,8,10,12,16,48,840
+   0x1420f6875: 222 draws, bounds 1,2,4,10,12
+   0x141febf93: 484 draws, bounds 1,100,120
+   0x141febfcf: 484 draws, bounds 8
+   tile grid: captures\The Cavern of Wrath - 1_1_11_1 - 429670486\truth_420c851c3f0.tsv (69x49, 3381 cells) VERIFIED against tile hash 2519258400
+   walkable field: captures\The Cavern of Wrath - 1_1_11_1 - 429670486\walkable_420c851c3f0_melee.png (12.3% of the sub-cells walkable, matches the tiles' hull field at IoU 0.977; 4 layer(s) read; stored for the grid as walkable_420c851c3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Cavern of Wrath - 1_1_11_1 - 429670486\minimap.png

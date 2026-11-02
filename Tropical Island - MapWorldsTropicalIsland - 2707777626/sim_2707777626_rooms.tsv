@@ -1,0 +1,17 @@
+sub	arm	x	y	o	src
+0	Metadata/Terrain/EndGame/MapForest/Rooms/cave.arm	6	39	3	node
+0	Metadata/Terrain/EndGame/MapForest/Rooms/dock.arm	9	105	2	node
+0	Metadata/Terrain/EndGame/MapForest/Rooms/cave2.arm	29	118	0	node
+0	Metadata/Terrain/EndGame/MapForest/Rooms/boss.arm	32	42	4	node
+0	Metadata/Terrain/EndGame/MapForest/Rooms/tunnel1.arm	6	6	7	node
+0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	18	128	6	node
+0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	27	128	0	node
+0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	6	128	5	node
+0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	41	128	7	node
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_CursedTreasure_01.arm	16	76	0	pass
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	35	110	4	pass
+0	Metadata/Terrain/Leagues/Settlers/Node/ore_node.arm	34	98	0	pass
+0	Metadata/Terrain/Leagues/Settlers/Node/ore_node.arm	16	55	0	pass
+0	Metadata/Terrain/Leagues/Settlers/Node/ore_node.arm	38	101	0	pass
+0	Metadata/Terrain/vaal_side_area.arm	13	94	0	pass
+0	Metadata/Shrines/forest_01.arm	13	72	3	pass

@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1372603883 doodad hash 4059602568 (CLI_ACTIVATE_MAP)
+AUTO seed 469173571 The City of Sarn: terrain act3/area1/ graph intro_1_1.tgr (7 locked nodes match; capture 34 nodes, graph 22)
+   typed nodes never placed by the client (untilised): [1, 5, 6, 7, 8, 9, 15, 19, 20, 21]
+   node pipeline: pre-pick words 1, vaal_pending False, hideout_claim False: free nodes 8/8 match
+   tile grid: captures\The City of Sarn - 1_3_1 - 469173571\truth_420fe34b3f0.tsv (45x87, 3915 cells) VERIFIED against tile hash 1372603883
+   walkable field: captures\The City of Sarn - 1_3_1 - 469173571\walkable_420fe34b3f0_melee.png (14.9% of the sub-cells walkable, matches the tiles' hull field at IoU 0.996; 4 layer(s) read; stored for the grid as walkable_420fe34b3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The City of Sarn - 1_3_1 - 469173571\minimap.png
+   FAIL: permute-in 14/14, permute-out 14/14, rounder-in-1 14/14, rounder-in-2 14/14, rounder-in-3 20/20, rounder-in-4 20/20, rounder-in-5 14/20, rounder-in-6 19/20
+   layout: captures\The City of Sarn - 1_3_1 - 469173571\layout.png; minimap captures\The City of Sarn - 1_3_1 - 469173571\minimap.png
+   corpus row appended

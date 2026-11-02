@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2228038468 doodad hash 206228487 (CLI_ACTIVATE_MAP)
+AUTO seed 2216172894 The Northern Forest: terrain act2/area8/ graph macro_darkforest0_11.tgr (18 locked nodes match; capture 51 nodes, graph 33)
+   typed nodes never placed by the client (untilised): [0, 1, 4, 9, 10, 11, 19, 20, 23, 28, 30, 31, 32]
+   node pipeline: pre-pick words 2, vaal_pending False, hideout_claim False: free nodes 1/1 match
+   tile grid: captures\The Northern Forest - 1_2_8 - 2216172894\truth_420fe346bf0.tsv (60x93, 5580 cells) VERIFIED against tile hash 2228038468
+   walkable field: captures\The Northern Forest - 1_2_8 - 2216172894\walkable_420fe346bf0_melee.png (12.0% of the sub-cells walkable, matches the tiles' hull field at IoU 0.999; 2 layer(s) read; stored for the grid as walkable_420fe346bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Northern Forest - 1_2_8 - 2216172894\minimap.png
+   FAIL: permute-in 34/34, permute-out 34/34, rounder-in-1 34/34, rounder-in-2 34/34, rounder-in-3 34/36, rounder-in-4 34/36, rounder-in-5 16/36, rounder-in-6 29/36
+   layout: captures\The Northern Forest - 1_2_8 - 2216172894\layout.png; minimap captures\The Northern Forest - 1_2_8 - 2216172894\minimap.png
+   corpus row appended

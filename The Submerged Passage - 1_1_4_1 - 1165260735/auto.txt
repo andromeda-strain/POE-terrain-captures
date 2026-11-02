@@ -1,0 +1,4 @@
+KNOWN The Submerged Passage [1_1_4_1] seed 1165260735: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 3691141318 (1 of 1 rows), last capture captures/The Submerged Passage - 1_1_4_1 - 1165260735/stages_20261101_214413.csv (dungeon trace)
+   this load's tile hash 3691141318 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\The Submerged Passage - 1_1_4_1 - 1165260735\truth_421730ba3f0.tsv): captures\The Submerged Passage - 1_1_4_1 - 1165260735\minimap.png
