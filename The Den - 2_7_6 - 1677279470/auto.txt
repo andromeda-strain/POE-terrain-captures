@@ -1,0 +1,27 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3019603981 doodad hash 234020642 (CLI_ACTIVATE_MAP)
+AUTO seed 1677279470 The Den: dungeon area (capture captures/The Den - 2_7_6 - 1677279470/stages_20261102_165427.csv)
+   dungeon (.dgr) pipeline: 1632 draws in 20 call sites (4 generator draws before it, 19828 after it - the post passes); no generator model yet
+   0x14203a8e0: 20 draws, bounds 100
+   0x142105ee9: 3 draws, bounds 1,100
+   0x142107272: 17 draws, bounds 1030,2671,4312
+   0x1420038a1: 6 draws, bounds 100,200
+   0x1420fd32a: 24 draws, bounds 128
+   0x142012839: 1 draws, bounds 13
+   0x1420fd640: 30 draws, bounds 4312
+   0x142001ee5: 14 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x142100f13: 6 draws, bounds 0
+   0x14210862e: 10 draws, bounds 1210,8200,8610,9520,47850,57860
+   0x14210871c: 10 draws, bounds 840
+   0x1420efc0c: 208 draws, bounds 1,2,4,6,8,200
+   0x1420f6875: 84 draws, bounds 2,6,8
+   0x141febf93: 586 draws, bounds 1,237
+   0x141febfcf: 559 draws, bounds 8
+   0x141fec0ea: 23 draws, bounds 197,207,217,227,229
+   0x141fec1d8: 16 draws, bounds 8
+   0x141fece63: 11 draws, bounds 840
+   0x14202795d: 3 draws, bounds 2,3
+   tile grid: captures\The Den - 2_7_6 - 1677279470\truth_338e846d3f0.tsv (59x59, 3481 cells) VERIFIED against tile hash 3019603981
+   walkable field: captures\The Den - 2_7_6 - 1677279470\walkable_338e846d3f0_melee.png (11.0% of the sub-cells walkable, matches the tiles' hull field at IoU 0.964; 3 layer(s) read; stored for the grid as walkable_338e846d3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Den - 2_7_6 - 1677279470\minimap.png

@@ -1,3 +1,4 @@
 KNOWN Highgate [2_9_town] seed 1: 11 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
    generator dgr, terrain -, tile hash 1434073308 (11 of 11 rows), last capture captures/Highgate - 2_9_town - 1/stages_20261010_211148.csv (dungeon trace)
-   minimap (rendered from the stored grid captures\Highgate - 2_9_town - 1\truth_3aca9c5ebf0.tsv): D:\repos\POE 3.29.3b\Work\captures\Highgate - 2_9_town - 1\minimap.png
+   this load's tile hash 1434073308 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Highgate - 2_9_town - 1\truth_3aca9c5ebf0.tsv): captures\Highgate - 2_9_town - 1\minimap.png

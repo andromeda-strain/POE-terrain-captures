@@ -1,0 +1,37 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 93185903 doodad hash 2548911254 (CLI_ACTIVATE_MAP)
+AUTO seed 992426936 The Grain Gate: dungeon area (capture captures/The Grain Gate - 2_8_9 - 992426936/stages_20261102_171235.csv)
+   dungeon (.dgr) pipeline: 3363 draws in 27 call sites (4 generator draws before it, 44178 after it - the post passes); no generator model yet
+   0x14203a8e0: 22 draws, bounds 100
+   0x142030de5: 1 draws, bounds 2
+   0x142105ee9: 8 draws, bounds 100,1600
+   0x142107272: 13 draws, bounds 3,3403
+   0x1420fd32a: 125 draws, bounds 128
+   0x142012839: 2 draws, bounds 5,14
+   0x1420fd640: 423 draws, bounds 3403
+   0x142001ee5: 31 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 22 draws, bounds 41,36100,108300
+   0x14210871c: 22 draws, bounds 840
+   0x142109942: 74 draws, bounds 100,2570
+   0x142109cdf: 74 draws, bounds 100,480
+   0x142109cf6: 74 draws, bounds 840
+   0x142109a4b: 34 draws, bounds 580,680,810,910,1040,1140,1270,1370,1410,1510,1740,1970,...
+   0x142101b93: 1 draws, bounds 2
+   0x1420ff711: 1 draws, bounds 2
+   0x1420ff72b: 1 draws, bounds 1
+   0x1420efc0c: 756 draws, bounds 8,100,200,300,400,500,720,800,900,960,1200,2400
+   0x141febf93: 487 draws, bounds 1,300,380
+   0x141febfcf: 477 draws, bounds 8
+   0x141febd7f: 455 draws, bounds 451,474,494,496,501,509,511,524,526,534,539,546,...
+   0x141fed1ec: 226 draws, bounds 8
+   0x141fec0ea: 15 draws, bounds 335,350,357,365,372
+   0x141fec1d8: 10 draws, bounds 8
+   0x141fed232: 1 draws, bounds 840
+   0x14202795d: 7 draws, bounds 100,200,250
+   tile grid: captures\The Grain Gate - 2_8_9 - 992426936\truth_2de8cdd53f0.tsv (78x108, 8424 cells) VERIFIED against tile hash 93185903
+   walkable field: captures\The Grain Gate - 2_8_9 - 992426936\walkable_2de8cdd53f0_melee.png (15.8% of the sub-cells walkable, matches the tiles' hull field at IoU 0.940; 2 layer(s) read; stored for the grid as walkable_2de8cdd53f0_{melee,ranged}.png/.bin/.tsv)
+   minimap render failed: Traceback (most recent call last):
+  File "D:\repos\POE 3.29.3b\Work\tools\render_minimap.py", line 22, in <module>
+    from minimap_pack import parse_mtp, Atlas, atlas_path, MINIMAP
+SyntaxError: source code string cannot contain null bytes

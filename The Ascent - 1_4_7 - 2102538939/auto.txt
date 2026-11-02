@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 347062595 doodad hash 2500126850 (CLI_ACTIVATE_MAP)
+AUTO seed 2102538939 The Ascent: terrain act4/area7/ graph ascent2.tgr (15 locked nodes match; capture 63 nodes, graph 29)
+   typed nodes never placed by the client (untilised): [0, 2, 3, 5, 6, 7, 9, 11, 14, 15, 16, 20, 24, 25]
+   node pipeline: pre-pick words 0, vaal_pending False, hideout_claim False: free nodes 0/0 match
+   pre-pick words 0 -> 4 by the capture (first pipeline word: client 5, sim 1; 12 draws replayed)
+   tile grid: captures\The Ascent - 1_4_7 - 2102538939\truth_46493fcf3f0.tsv (51x96, 4896 cells) VERIFIED against tile hash 347062595
+   walkable field: captures\The Ascent - 1_4_7 - 2102538939\walkable_46493fcf3f0_melee.png (23.1% of the sub-cells walkable, matches the tiles' hull field at IoU 0.985; 2 layer(s) read; stored for the grid as walkable_46493fcf3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Ascent - 1_4_7 - 2102538939\minimap.png
+   FAIL: permute-in 34/34, permute-out 34/34, rounder-in-1 34/34, rounder-in-2 34/34, rounder-in-3 39/40, rounder-in-4 39/40, rounder-in-5 16/40, rounder-in-6 36/40
+   layout: captures\The Ascent - 1_4_7 - 2102538939\layout.png; minimap captures\The Ascent - 1_4_7 - 2102538939\minimap.png
+   corpus row appended

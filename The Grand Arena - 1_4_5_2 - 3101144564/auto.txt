@@ -1,0 +1,22 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 123747619 doodad hash 2502726387 (CLI_ACTIVATE_MAP)
+AUTO seed 3101144564 The Grand Arena: dungeon area (capture captures/The Grand Arena - 1_4_5_2 - 3101144564/stages_20261102_104233.csv)
+   dungeon (.dgr) pipeline: 5842 draws in 15 call sites (3 generator draws before it, 1161 after it - the post passes); no generator model yet
+   0x14203a8e0: 11 draws, bounds 100
+   0x142105ee9: 19 draws, bounds 1,100,200,300
+   0x142107272: 1 draws, bounds 3702
+   0x1420fd32a: 458 draws, bounds 128
+   0x142012839: 2 draws, bounds 3,8
+   0x1420fd640: 438 draws, bounds 751,3702
+   0x142001ee5: 17 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 2
+   0x14210862e: 7 draws, bounds 4100,41012,173012
+   0x14210871c: 7 draws, bounds 840
+   0x1420efc0c: 845 draws, bounds 100,200,400,800,1000,2400
+   0x1420f6875: 37 draws, bounds 200
+   0x141febf93: 1999 draws, bounds 100,300
+   0x141febfcf: 1999 draws, bounds 8
+   0x14202795d: 1 draws, bounds 300
+   tile grid: captures\The Grand Arena - 1_4_5_2 - 3101144564\truth_464989253f0.tsv (91x157, 14287 cells) VERIFIED against tile hash 123747619
+   walkable field: captures\The Grand Arena - 1_4_5_2 - 3101144564\walkable_464989253f0_melee.png (8.0% of the sub-cells walkable, matches the tiles' hull field at IoU 0.986; 2 layer(s) read; stored for the grid as walkable_464989253f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Grand Arena - 1_4_5_2 - 3101144564\minimap.png

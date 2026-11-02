@@ -1,0 +1,27 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2065654907 doodad hash 4116277131 (CLI_ACTIVATE_MAP)
+AUTO seed 3169905905 The High Gardens: dungeon area (capture captures/The High Gardens - 2_8_4 - 3169905905/stages_20261102_172125.csv)
+   dungeon (.dgr) pipeline: 10735 draws in 19 call sites (4 generator draws before it, 123403 after it - the post passes); no generator model yet
+   0x14203a8e0: 14 draws, bounds 100
+   0x142105ee9: 4 draws, bounds 100
+   0x142107272: 9 draws, bounds 1126
+   0x1420fd32a: 58 draws, bounds 128
+   0x142012839: 1 draws, bounds 11
+   0x1420fd640: 45 draws, bounds 1126
+   0x142001ee5: 16 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 14 draws, bounds 12300,13325,16400
+   0x14210871c: 14 draws, bounds 840
+   0x142109942: 25 draws, bounds 100
+   0x142109cdf: 25 draws, bounds 100
+   0x142109cf6: 25 draws, bounds 840
+   0x1420efc0c: 667 draws, bounds 100,200,400,800,1400
+   0x141febf93: 4847 draws, bounds 1,5
+   0x141febfcf: 4795 draws, bounds 8
+   0x141fec0ea: 52 draws, bounds 1
+   0x141fec1d8: 52 draws, bounds 8
+   0x14202795d: 71 draws, bounds 100,200,300
+   tile grid: captures\The High Gardens - 2_8_4 - 3169905905\truth_2de8d10e3f0.tsv (132x156, 18384 cells) VERIFIED against tile hash 2065654907
+   walkable field: only the ranged layer among the 2 layer(s) read is this area's; stored for the grid as walkable_2de8d10e3f0_{ranged}.png/.bin/.tsv; the map is not drawn with it
+   walkable field: captures\The High Gardens - 2_8_4 - 3169905905\hull_ranged.png composed from the tiles' hull planes (77.8% of the sub-cells walkable, agrees with the grid on 70.8% of the cells; the placed objects' hulls are not in it)
+   minimap (the client's grid): captures\The High Gardens - 2_8_4 - 3169905905\minimap.png

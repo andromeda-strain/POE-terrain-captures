@@ -1,0 +1,4 @@
+KNOWN The Foothills [2_9_5] seed 3157773909: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain act9/area5/, tile hash 2273620045 (1 of 1 rows), last capture captures/The Foothills - 2_9_5 - 3157773909/stages_20261102_173244.csv (DIFF)
+   this load's tile hash 2273620045 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\The Foothills - 2_9_5 - 3157773909\truth_2f38c8f3bf0.tsv): captures\The Foothills - 2_9_5 - 3157773909\minimap.png

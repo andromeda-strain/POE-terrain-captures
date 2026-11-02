@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 163870412 doodad hash 800077896 (CLI_ACTIVATE_MAP)
+AUTO seed 4224522622 The Mud Flats: terrain act6/area4/ graph mud_flats_05.tgr (8 locked nodes match; capture 37 nodes, graph 21)
+   typed nodes never placed by the client (untilised): [0, 1, 5, 6, 7, 9, 12, 13, 17, 18, 19]
+   node pipeline: pre-pick words 3, vaal_pending False, hideout_claim False: free nodes 6/6 match
+   tile grid: captures\The Mud Flats - 2_6_4 - 4224522622\truth_260827f8bf0.tsv (57x63, 3591 cells) VERIFIED against tile hash 163870412
+   walkable field: captures\The Mud Flats - 2_6_4 - 4224522622\walkable_260827f8bf0_melee.png (27.5% of the sub-cells walkable, matches the tiles' hull field at IoU 0.823; 4 layer(s) read; stored for the grid as walkable_260827f8bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Mud Flats - 2_6_4 - 4224522622\minimap.png
+   FAIL: permute-in 19/19, permute-out 19/19, rounder-in-1 19/19, rounder-in-2 19/19, rounder-in-3 24/24, rounder-in-4 24/24, rounder-in-5 7/24, rounder-in-6 14/24
+   layout: captures\The Mud Flats - 2_6_4 - 4224522622\layout.png; minimap captures\The Mud Flats - 2_6_4 - 4224522622\minimap.png
+   corpus row appended

@@ -1,0 +1,25 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 251536047 doodad hash 1193458855 (CLI_ACTIVATE_MAP)
+AUTO seed 2969681072 The Rotting Core: dungeon area (capture captures/The Rotting Core - 2_9_10_2 - 2969681072/stages_20261102_173813.csv)
+   dungeon (.dgr) pipeline: 8293 draws in 18 call sites (4 generator draws before it, 62733 after it - the post passes); no generator model yet
+   0x14203a8e0: 12 draws, bounds 100
+   0x142105ee9: 11 draws, bounds 1
+   0x1421055f1: 3 draws, bounds 1
+   0x142107272: 3 draws, bounds 261
+   0x1420fd32a: 96 draws, bounds 128
+   0x142012839: 4 draws, bounds 1,6
+   0x1420fd640: 83 draws, bounds 40,160,261
+   0x142001ee5: 28 draws, bounds 1,3
+   0x1420fc763: 4 draws, bounds 1
+   0x14210862e: 21 draws, bounds 450,1680,2910,10010,40040
+   0x14210871c: 21 draws, bounds 840
+   0x142108799: 3 draws, bounds 1680,2910,40040
+   0x1421087b9: 3 draws, bounds 840
+   0x1420efc0c: 711 draws, bounds 1,2,4,8,100,200,300,400,500,800,1200
+   0x1420f6875: 71 draws, bounds 2,200,300,400,500
+   0x141febf93: 3598 draws, bounds 1,100,120,300
+   0x141febfcf: 3598 draws, bounds 8
+   0x14202795d: 23 draws, bounds 1,100
+   tile grid: captures\The Rotting Core - 2_9_10_2 - 2969681072\truth_2de8cc643f0.tsv (141x109, 15369 cells) VERIFIED against tile hash 251536047
+   walkable field: captures\The Rotting Core - 2_9_10_2 - 2969681072\walkable_2de8cc643f0_melee.png (7.8% of the sub-cells walkable, matches the tiles' hull field at IoU 0.967; 2 layer(s) read; stored for the grid as walkable_2de8cc643f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Rotting Core - 2_9_10_2 - 2969681072\minimap.png

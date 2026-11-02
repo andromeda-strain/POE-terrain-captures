@@ -1,0 +1,4 @@
+KNOWN The Beacon [2_6_14] seed 3933232114: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain act6/area14/, tile hash 3398548585 (1 of 1 rows), last capture captures/The Beacon - 2_6_14 - 3933232114/stages_20261102_162243.csv (DIFF)
+   this load's tile hash 3398548585 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\The Beacon - 2_6_14 - 3933232114\truth_26347ee4bf0.tsv): captures\The Beacon - 2_6_14 - 3933232114\minimap.png

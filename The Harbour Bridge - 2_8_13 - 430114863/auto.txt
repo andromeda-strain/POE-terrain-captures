@@ -1,0 +1,20 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 875274810 doodad hash 1941931924 (CLI_ACTIVATE_MAP)
+AUTO seed 430114863 The Harbour Bridge: dungeon area (capture captures/The Harbour Bridge - 2_8_13 - 430114863/stages_20261102_172330.csv)
+   dungeon (.dgr) pipeline: 5490 draws in 13 call sites (4 generator draws before it, 45411 after it - the post passes); no generator model yet
+   0x14203a8e0: 5 draws, bounds 100
+   0x142105ee9: 15 draws, bounds 1,8,10,50
+   0x1420fd32a: 60 draws, bounds 128
+   0x142012839: 2 draws, bounds 2
+   0x1420fd640: 44 draws, bounds 270
+   0x142001ee5: 7 draws, bounds 1
+   0x1420fc763: 2 draws, bounds 1
+   0x14210862e: 3 draws, bounds 8200
+   0x14210871c: 3 draws, bounds 840
+   0x1420efc0c: 510 draws, bounds 1,100,200,400,800,3500
+   0x141febf93: 2409 draws, bounds 1,100
+   0x141febfcf: 2409 draws, bounds 8
+   0x14202795d: 21 draws, bounds 100,300
+   tile grid: captures\The Harbour Bridge - 2_8_13 - 430114863\truth_2dff1f613f0.tsv (168x96, 16128 cells) VERIFIED against tile hash 875274810
+   walkable field: captures\The Harbour Bridge - 2_8_13 - 430114863\walkable_2dff1f613f0_melee.png (5.8% of the sub-cells walkable, matches the tiles' hull field at IoU 0.906; 3 layer(s) read; stored for the grid as walkable_2dff1f613f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Harbour Bridge - 2_8_13 - 430114863\minimap.png

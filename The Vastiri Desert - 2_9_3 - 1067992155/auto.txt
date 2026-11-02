@@ -1,0 +1,34 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1492602026 doodad hash 3466321219 (CLI_ACTIVATE_MAP)
+AUTO seed 1067992155 The Vastiri Desert: dungeon area (capture captures/The Vastiri Desert - 2_9_3 - 1067992155/stages_20261102_172918.csv)
+   dungeon (.dgr) pipeline: 4990 draws in 27 call sites (4 generator draws before it, 8159 after it - the post passes); no generator model yet
+   0x14203a8e0: 23 draws, bounds 100
+   0x142105ee9: 9 draws, bounds 1,100
+   0x142107272: 14 draws, bounds 400,601,1905
+   0x1420fd32a: 650 draws, bounds 128
+   0x142012839: 7 draws, bounds 1,2,3,4,7
+   0x1420fd640: 738 draws, bounds 400,1905
+   0x142001ee5: 72 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 3
+   0x14210862e: 62 draws, bounds 4100,8200,36100,72200
+   0x14210871c: 62 draws, bounds 840
+   0x142108799: 1 draws, bounds 8200
+   0x1421087b9: 1 draws, bounds 840
+   0x142109942: 53 draws, bounds 100,440
+   0x142109cdf: 53 draws, bounds 100,200,240
+   0x142109cf6: 53 draws, bounds 840
+   0x142109a4b: 5 draws, bounds 240,340
+   0x1420efc0c: 382 draws, bounds 1,8,100,200,400,600
+   0x141febf93: 268 draws, bounds 100,200
+   0x141febfcf: 268 draws, bounds 8
+   0x141febd7f: 1126 draws, bounds 160,180,190,200,210,220,230,240,250,260,270,280,...
+   0x141fed1ec: 301 draws, bounds 8
+   0x141fed087: 117 draws, bounds 8
+   0x141fe9a73: 505 draws, bounds 8,100,200,320,400
+   0x141fed0cc: 8 draws, bounds 840
+   0x141fe90a5: 86 draws, bounds 100
+   0x141fe9173: 86 draws, bounds 8
+   0x14202795d: 39 draws, bounds 100,200,300
+   tile grid: captures\The Vastiri Desert - 2_9_3 - 1067992155\truth_2de8cdd6bf0.tsv (84x72, 6048 cells) VERIFIED against tile hash 1492602026
+   walkable field: captures\The Vastiri Desert - 2_9_3 - 1067992155\walkable_2de8cdd6bf0_melee.png (29.6% of the sub-cells walkable, matches the tiles' hull field at IoU 0.983; 2 layer(s) read; stored for the grid as walkable_2de8cdd6bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Vastiri Desert - 2_9_3 - 1067992155\minimap.png

@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1278477310 doodad hash 3592794582 (CLI_ACTIVATE_MAP)
+AUTO seed 2830306330 The Ashen Fields: terrain act7/area7/ graph ashen_fields_05.tgr (10 locked nodes match; capture 66 nodes, graph 39)
+   typed nodes never placed by the client (untilised): [0, 3, 10, 13, 14, 15, 16, 23, 24, 25, 26, 31, 32, 36, 37]
+   node pipeline: pre-pick words 3, vaal_pending False, hideout_claim False: free nodes 15/15 match
+   tile grid: captures\The Ashen Fields - 2_7_7 - 2830306330\truth_3391dfacbf0.tsv (84x48, 4032 cells) VERIFIED against tile hash 1278477310
+   walkable field: none of the 2 layer(s) read is this area's (each below IoU 0.5 against the tiles' hull field)
+   walkable field: captures\The Ashen Fields - 2_7_7 - 2830306330\hull_ranged.png composed from the tiles' hull planes (75.7% of the sub-cells walkable, agrees with the grid on 46.8% of the cells; the placed objects' hulls are not in it)
+   minimap (the client's grid): captures\The Ashen Fields - 2_7_7 - 2830306330\minimap.png
+   FAIL: permute-in 30/30, permute-out 30/30, rounder-in-1 30/30, rounder-in-2 30/30, rounder-in-3 37/38, rounder-in-4 37/38, rounder-in-5 23/38, rounder-in-6 34/38
+   layout: captures\The Ashen Fields - 2_7_7 - 2830306330\layout.png; minimap captures\The Ashen Fields - 2_7_7 - 2830306330\minimap.png
+   corpus row appended

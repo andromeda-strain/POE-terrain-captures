@@ -1,0 +1,37 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1007136152 doodad hash 2225004508 (CLI_ACTIVATE_MAP)
+AUTO seed 1148591779 The Slave Pens: dungeon area (capture captures/The Slave Pens - 1_5_1 - 1148591779/stages_20261102_102657.csv)
+   dungeon (.dgr) pipeline: 2478 draws in 30 call sites (4 generator draws before it, 15636 after it - the post passes); no generator model yet
+   0x14203a8e0: 14 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 100
+   0x1420038a1: 3 draws, bounds 100,200
+   0x142107272: 5 draws, bounds 200,750
+   0x1420fd32a: 50 draws, bounds 128
+   0x142012839: 1 draws, bounds 6
+   0x1420fd640: 91 draws, bounds 750
+   0x142001ee5: 31 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x1420fcc6c: 3 draws, bounds 1,2,4
+   0x1420fce8c: 3 draws, bounds 100
+   0x142100f13: 13 draws, bounds 0,1,2
+   0x142101086: 7 draws, bounds 100
+   0x14210862e: 17 draws, bounds 40,100,440,1640,2120,4200,10350
+   0x14210871c: 17 draws, bounds 840
+   0x142108799: 1 draws, bounds 2120
+   0x1421087b9: 1 draws, bounds 840
+   0x1420ff711: 1 draws, bounds 17
+   0x1420ff72b: 1 draws, bounds 2
+   0x1420efc0c: 747 draws, bounds 1,2,4,6,8,16,32,200,280,800
+   0x1420f6875: 263 draws, bounds 1,2,6,16,200,280
+   0x1420f45dc: 29 draws, bounds 1
+   0x1420f4807: 29 draws, bounds 4
+   0x141febf93: 504 draws, bounds 100,200
+   0x141febfcf: 504 draws, bounds 8
+   0x141febd7f: 63 draws, bounds 440,460,480,500
+   0x141fed1ec: 20 draws, bounds 8
+   0x141fed087: 17 draws, bounds 8
+   0x141fe90a5: 20 draws, bounds 200
+   0x141fe9173: 20 draws, bounds 8
+   tile grid: captures\The Slave Pens - 1_5_1 - 1148591779\truth_46492788bf0.tsv (67x73, 4891 cells) VERIFIED against tile hash 1007136152
+   walkable field: captures\The Slave Pens - 1_5_1 - 1148591779\walkable_46492788bf0_melee.png (14.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.874; 2 layer(s) read; stored for the grid as walkable_46492788bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Slave Pens - 1_5_1 - 1148591779\minimap.png

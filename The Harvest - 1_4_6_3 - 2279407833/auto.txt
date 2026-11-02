@@ -1,0 +1,25 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3100992478 doodad hash 563981919 (CLI_ACTIVATE_MAP)
+AUTO seed 2279407833 The Harvest: dungeon area (capture captures/The Harvest - 1_4_6_3 - 2279407833/stages_20261102_105051.csv)
+   dungeon (.dgr) pipeline: 3254 draws in 18 call sites (2 generator draws before it, 31321 after it - the post passes); no generator model yet
+   0x14203a8e0: 32 draws, bounds 100
+   0x142030de5: 1 draws, bounds 3
+   0x142105ee9: 8 draws, bounds 1
+   0x1420038a1: 4 draws, bounds 100
+   0x142107272: 11 draws, bounds 9,18
+   0x1420fd32a: 100 draws, bounds 128
+   0x142012839: 2 draws, bounds 5,9
+   0x1420fd640: 166 draws, bounds 18
+   0x142001ee5: 17 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x142100f13: 4 draws, bounds 0
+   0x14210862e: 10 draws, bounds 22,23,41,64,146
+   0x14210871c: 10 draws, bounds 840
+   0x1420efc0c: 341 draws, bounds 1,4,100,120,200,240,400,800,1000
+   0x1420f6875: 89 draws, bounds 100,200
+   0x141febf93: 1223 draws, bounds 1,100,300,800
+   0x141febfcf: 1223 draws, bounds 8
+   0x14202795d: 12 draws, bounds 100
+   tile grid: captures\The Harvest - 1_4_6_3 - 2279407833\truth_4649381f3f0.tsv (93x101, 9393 cells) VERIFIED against tile hash 3100992478
+   walkable field: captures\The Harvest - 1_4_6_3 - 2279407833\walkable_4649381f3f0_melee.png (5.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.966; 2 layer(s) read; stored for the grid as walkable_4649381f3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Harvest - 1_4_6_3 - 2279407833\minimap.png

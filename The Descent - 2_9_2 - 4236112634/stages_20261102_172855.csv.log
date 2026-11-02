@@ -1,0 +1,18 @@
+--- 2026-11-02 17:28:55.252 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_11272_27.go --parent-pid 11272
+standby: go file seen 1 ms ago -> captures\stages_20261102_172855.csv
+17:28:55.264 (the attach call took 4 ms)
+attached to pid 4080, image base 0x7ff7bee50000 (dump base 0x140000000); DR0 generator 0x7ff7c0e9d820 (then the draw 0x7ff7c0e49720 on its thread)  DR1 permute 0x7ff7c0f75790  DR3 dungeon 0x7ff7c0e8c900 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+level generator on tid 21076: draws traced on this thread
+permute stage on tid 21076; tracing continues for 10.0 s
+outdoor pipeline: switching to the stage dumps
+permute grid 54x108 written to captures\stages_20261102_172855.grid.tsv
+edge tiliser started on tid 21076: post-pass placements will be logged
+level generator returned
+--- TileMap T=0x2de8cdde3f0 72x126: 9072 cells with a tile, 56 distinct tiles -> captures\stages_20261102_172855_truth_2de8cdde3f0.tsv
+    tile hash over 5721 origin cells = 1573303126
+trace window after the marker elapsed
+clear before detach: all 60 threads verified clear
+clear after detach: all 60 threads verified clear
+detached; client keeps running
+31173 events written to captures\stages_20261102_172855.csv

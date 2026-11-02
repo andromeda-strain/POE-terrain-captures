@@ -1,0 +1,6 @@
+KNOWN Overseer's Tower [1_5_town] seed 1: 8 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 705703268 (8 of 8 rows), last capture captures/Overseer's Tower - 1_5_town - 1/stages_20261002_202056.csv (dungeon trace)
+   this load's tile hash 705703268 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   walkable field: only the ranged layer among the 3 layer(s) read is this area's; stored for the grid as walkable_53db66273f0_{ranged}.png/.bin/.tsv; the map is not drawn with it
+   walkable field: captures\Overseer's Tower - 1_5_town - 1\hull_ranged.png composed from the tiles' hull planes (22.6% of the sub-cells walkable, agrees with the grid on 20.1% of the cells; the placed objects' hulls are not in it)
+   minimap (the stored grid captures\Overseer's Tower - 1_5_town - 1\truth_53db66273f0.tsv): captures\Overseer's Tower - 1_5_town - 1\minimap.png

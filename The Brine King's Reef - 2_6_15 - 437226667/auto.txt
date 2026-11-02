@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 125467593 doodad hash 3879712931 (CLI_ACTIVATE_MAP)
+AUTO seed 437226667 The Brine King's Reef: terrain act6/area15/ graph brine_reef_03.tgr (7 locked nodes match; capture 50 nodes, graph 41)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 5, 13, 18, 22, 25, 26, 27, 28]
+   node pipeline: pre-pick words 3, vaal_pending False, hideout_claim False: free nodes 25/25 match
+   tile grid: captures\The Brine King's Reef - 2_6_15 - 437226667\truth_26347d0f3f0.tsv (117x84, 9828 cells) VERIFIED against tile hash 125467593
+   walkable field: captures\The Brine King's Reef - 2_6_15 - 437226667\walkable_26347d0f3f0_melee.png (18.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.997; 4 layer(s) read; stored for the grid as walkable_26347d0f3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Brine King's Reef - 2_6_15 - 437226667\minimap.png
+   FAIL: permute-in 16/16, permute-out 16/16, rounder-in-1 16/16, rounder-in-2 16/16, rounder-in-3 29/32, rounder-in-4 29/32, rounder-in-5 29/32
+   layout: captures\The Brine King's Reef - 2_6_15 - 437226667\layout.png; minimap captures\The Brine King's Reef - 2_6_15 - 437226667\minimap.png
+   corpus row appended

@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1573303126 doodad hash 1722929731 (CLI_ACTIVATE_MAP)
+AUTO seed 4236112634 The Descent: terrain act9/area2/ graph descent_03.tgr (26 locked nodes match; capture 105 nodes, graph 55)
+   typed nodes never placed by the client (untilised): [0, 2, 4, 5, 6, 7, 8, 9, 10, 22, 23, 24, 25, 27, 28, 30, 31, 32, 35, 36, 41, 46, 47, 48, 50]
+   node pipeline: pre-pick words 4, vaal_pending True, hideout_claim False: free nodes 4/4 match
+   tile grid: captures\The Descent - 2_9_2 - 4236112634\truth_2de8cdde3f0.tsv (72x126, 9072 cells) VERIFIED against tile hash 1573303126
+   walkable field: captures\The Descent - 2_9_2 - 4236112634\walkable_2de8cdde3f0_melee.png (12.4% of the sub-cells walkable, matches the tiles' hull field at IoU 0.985; 2 layer(s) read; stored for the grid as walkable_2de8cdde3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Descent - 2_9_2 - 4236112634\minimap.png
+   PASS: permute-in 56/56, permute-out 56/56, rounder-in-1 56/56, rounder-in-2 56/56, rounder-in-3 61/61, rounder-in-4 61/61, rounder-in-5 61/61
+   layout: captures\The Descent - 2_9_2 - 4236112634\layout.png; minimap captures\The Descent - 2_9_2 - 4236112634\minimap.png
+   corpus row appended

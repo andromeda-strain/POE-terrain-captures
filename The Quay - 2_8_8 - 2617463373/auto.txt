@@ -1,0 +1,34 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1332571960 doodad hash 1750359420 (CLI_ACTIVATE_MAP)
+AUTO seed 2617463373 The Quay: dungeon area (capture captures/The Quay - 2_8_8 - 2617463373/stages_20261102_171206.csv)
+   dungeon (.dgr) pipeline: 13714 draws in 24 call sites (5 generator draws before it, 31456 after it - the post passes); no generator model yet
+   0x14203a8e0: 8 draws, bounds 100
+   0x142105ee9: 6 draws, bounds 1,4,8
+   0x1420fd32a: 34 draws, bounds 128
+   0x142012839: 1 draws, bounds 3
+   0x1420fd640: 60 draws, bounds 38
+   0x142001ee5: 9 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 6 draws, bounds 164,205,722
+   0x14210871c: 6 draws, bounds 840
+   0x142108799: 1 draws, bounds 164
+   0x1421087b9: 1 draws, bounds 840
+   0x142109942: 38 draws, bounds 1
+   0x142109cdf: 38 draws, bounds 1
+   0x142109cf6: 38 draws, bounds 840
+   0x1420efc0c: 282 draws, bounds 1,2,4,6,8,16,100,120,200,400,800
+   0x1420f24d2: 1 draws, bounds 6591
+   0x1420f2ded: 1 draws, bounds 1
+   0x1420f2e01: 1 draws, bounds 840
+   0x141fe9a73: 4 draws, bounds 800
+   0x141febf93: 6563 draws, bounds 1,135
+   0x141febfcf: 6540 draws, bounds 8
+   0x141fec0ea: 29 draws, bounds 121,128
+   0x141fec1d8: 23 draws, bounds 8
+   0x14202795d: 23 draws, bounds 1,3,100,200,300
+   tile grid: captures\The Quay - 2_8_8 - 2617463373\truth_2de8cc6ebf0.tsv (102x126, 12852 cells) VERIFIED against tile hash 1332571960
+   walkable field: captures\The Quay - 2_8_8 - 2617463373\walkable_2de8cc6ebf0_melee.png (8.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.963; 2 layer(s) read; stored for the grid as walkable_2de8cc6ebf0_{melee,ranged}.png/.bin/.tsv)
+   minimap render failed: Traceback (most recent call last):
+  File "D:\repos\POE 3.29.3b\Work\tools\render_minimap.py", line 22, in <module>
+    from minimap_pack import parse_mtp, Atlas, atlas_path, MINIMAP
+SyntaxError: source code string cannot contain null bytes

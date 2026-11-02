@@ -1,0 +1,13 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2936006792 doodad hash 2958258009 (CLI_ACTIVATE_MAP)
+AUTO seed 1918633513 The Southern Forest: terrain act6/area12/ graph southern_forest_03.tgr (11 locked nodes match; capture 49 nodes, graph 29)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 4, 12, 13, 14, 16, 17, 20, 21, 22, 23, 24, 25, 27]
+   node pipeline: pre-pick words 3, vaal_pending False, hideout_claim False: free nodes 4/4 match
+   tile grid: captures\The Southern Forest - 2_6_12 - 1918633513\truth_26083cc43f0.tsv (81x99, 8019 cells) VERIFIED against tile hash 2936006792
+   walkable field: captures\The Southern Forest - 2_6_12 - 1918633513\walkable_26083cc43f0_melee.png (19.0% of the sub-cells walkable, matches the tiles' hull field at IoU 0.992; 3 layer(s) read; stored for the grid as walkable_26083cc43f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Southern Forest - 2_6_12 - 1918633513\minimap.png
+   FAIL: permute-in 23/26 ERROR RuntimeError: Could not permute edges: 2
+   layout: not rendered: "D:\repos\POE 3.29.3b\Work\tools\permute.py", line 269, in permute
+    raise RuntimeError('Could not permute edges: ' + ', '.join(str(e.label) for e in again))
+RuntimeError: Could not permute edges: 2; minimap captures\The Southern Forest - 2_6_12 - 1918633513\minimap.png
+   corpus row appended

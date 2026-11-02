@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3417129736 doodad hash 507667753 (CLI_ACTIVATE_MAP)
+AUTO seed 1771811889 Remote Gulch: terrain act1/sidecliff1/ graph cliff2.tgr (0 locked nodes match; capture 2 nodes, graph 2)
+   typed nodes never placed by the client (untilised): [0, 1]
+   node pipeline: pre-pick words 0, vaal_pending False, hideout_claim False: free nodes 0/0 match
+   pre-pick words 0 -> 1 by the capture (first pipeline word: client 2, sim 1; 12 draws replayed)
+   tile grid: captures\Remote Gulch - 1_SideArea1_6 - 1771811889\truth_26347cbb3f0.tsv (24x69, 1656 cells) VERIFIED against tile hash 3417129736
+   walkable field: captures\Remote Gulch - 1_SideArea1_6 - 1771811889\walkable_26347cbb3f0_melee.png (15.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.998; 3 layer(s) read; stored for the grid as walkable_26347cbb3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Remote Gulch - 1_SideArea1_6 - 1771811889\minimap.png
+   PASS: permute-in 1/1, permute-out 1/1, rounder-in-1 1/1, rounder-in-2 1/1, rounder-in-3 2/2, rounder-in-4 2/2, rounder-in-5 2/2
+   layout: captures\Remote Gulch - 1_SideArea1_6 - 1771811889\layout.png; minimap captures\Remote Gulch - 1_SideArea1_6 - 1771811889\minimap.png
+   corpus row appended

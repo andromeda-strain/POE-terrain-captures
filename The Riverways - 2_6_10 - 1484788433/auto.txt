@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 747750362 doodad hash 423355268 (CLI_ACTIVATE_MAP)
+AUTO seed 1484788433 The Riverways: terrain act6/area10/ graph river_crossing_03.tgr (11 locked nodes match; capture 74 nodes, graph 32)
+   typed nodes never placed by the client (untilised): [0, 2, 5, 6, 8, 9, 11, 13, 14, 15, 16, 17, 18, 21, 22, 23, 24, 25, 28, 30, 31]
+   node pipeline: pre-pick words 4, vaal_pending True, hideout_claim False: free nodes 3/3 match
+   tile grid: captures\The Riverways - 2_6_10 - 1484788433\truth_263466953f0.tsv (105x111, 11655 cells) VERIFIED against tile hash 747750362
+   walkable field: captures\The Riverways - 2_6_10 - 1484788433\walkable_263466953f0_melee.png (19.4% of the sub-cells walkable, matches the tiles' hull field at IoU 0.825; 4 layer(s) read; stored for the grid as walkable_263466953f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Riverways - 2_6_10 - 1484788433\minimap.png
+   FAIL: permute-in 38/38, permute-out 38/38, rounder-in-1 38/38, rounder-in-2 38/38, rounder-in-3 56/57, rounder-in-4 56/57, rounder-in-5 56/57, rounder-in-6 56/57, rounder-in-7 46/57, rounder-in-8 55/57
+   layout: captures\The Riverways - 2_6_10 - 1484788433\layout.png; minimap captures\The Riverways - 2_6_10 - 1484788433\minimap.png
+   corpus row appended

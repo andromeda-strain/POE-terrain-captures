@@ -1,0 +1,31 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 8845553 doodad hash 2405484538 (CLI_ACTIVATE_MAP)
+AUTO seed 2178478025 The Torched Courts: dungeon area (capture captures/The Torched Courts - 1_5_4b - 2178478025/stages_20261102_153556.csv)
+   dungeon (.dgr) pipeline: 2996 draws in 24 call sites (4 generator draws before it, 24479 after it - the post passes); no generator model yet
+   0x14203a8e0: 31 draws, bounds 100
+   0x142105ee9: 4 draws, bounds 100
+   0x1420038a1: 9 draws, bounds 100,200,300
+   0x142107272: 8 draws, bounds 170,250,454,1315
+   0x1420fd32a: 184 draws, bounds 128
+   0x142012839: 4 draws, bounds 2,3,6
+   0x1420fd640: 254 draws, bounds 170,454,1315
+   0x142001ee5: 39 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 3
+   0x142100f13: 19 draws, bounds 0,1,2
+   0x142101086: 4 draws, bounds 100
+   0x14210862e: 21 draws, bounds 3,4,20,33,110,123,440,500,1230
+   0x14210871c: 21 draws, bounds 840
+   0x142108799: 1 draws, bounds 33
+   0x1421087b9: 1 draws, bounds 840
+   0x1420efc0c: 638 draws, bounds 1,2,6,8,16,100,120,200,240,300,400,440,...
+   0x1420f6875: 204 draws, bounds 8,100,200,240,400,440,800
+   0x1420f7228: 8 draws, bounds 8,400
+   0x1420f45dc: 7 draws, bounds 1
+   0x1420f4807: 7 draws, bounds 400
+   0x141febf93: 722 draws, bounds 100,160
+   0x141febfcf: 648 draws, bounds 8
+   0x141fec0ea: 87 draws, bounds 120,140
+   0x141fec1d8: 74 draws, bounds 8
+   tile grid: captures\The Torched Courts - 1_5_4b - 2178478025\truth_260827f43f0.tsv (77x77, 5929 cells) VERIFIED against tile hash 8845553
+   walkable field: captures\The Torched Courts - 1_5_4b - 2178478025\walkable_260827f43f0_melee.png (13.5% of the sub-cells walkable, matches the tiles' hull field at IoU 0.926; 2 layer(s) read; stored for the grid as walkable_260827f43f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Torched Courts - 1_5_4b - 2178478025\minimap.png

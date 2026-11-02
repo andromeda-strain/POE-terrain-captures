@@ -1,0 +1,37 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1689689909 doodad hash 1929947780 (CLI_ACTIVATE_MAP)
+AUTO seed 713734928 The Solaris Temple Level 1: dungeon area (capture captures/The Solaris Temple Level 1 - 2_8_12_1 - 713734928/stages_20261102_172646.csv)
+   dungeon (.dgr) pipeline: 8754 draws in 30 call sites (5 generator draws before it, 18930 after it - the post passes); no generator model yet
+   0x14203a8e0: 22 draws, bounds 100
+   0x142105ee9: 6 draws, bounds 100
+   0x142107272: 9 draws, bounds 1050,1820,2120,2890
+   0x1420fd32a: 91 draws, bounds 128
+   0x142012839: 1 draws, bounds 11
+   0x1420fd640: 174 draws, bounds 2890
+   0x142001ee5: 25 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 1
+   0x1420fcc6c: 1 draws, bounds 2
+   0x1420fce8c: 1 draws, bounds 100
+   0x14210862e: 15 draws, bounds 30,645,960,1780,4190,10970,13245,20290,23570,40895,88920
+   0x14210871c: 15 draws, bounds 840
+   0x142108799: 1 draws, bounds 1780
+   0x1421087b9: 1 draws, bounds 840
+   0x142109942: 93 draws, bounds 43
+   0x142109cdf: 93 draws, bounds 43
+   0x142109cf6: 93 draws, bounds 840
+   0x1420ff711: 1 draws, bounds 5
+   0x1420ff72b: 1 draws, bounds 1
+   0x1420efc0c: 1697 draws, bounds 100,200,400,800,6000
+   0x1420f6875: 949 draws, bounds 100,200,400
+   0x1420f45dc: 21 draws, bounds 1
+   0x1420f4807: 21 draws, bounds 400
+   0x141fffc2c: 43 draws, bounds 100,200,300,400,500,600
+   0x141fffe22: 43 draws, bounds 100
+   0x142000103: 20 draws, bounds 100
+   0x14200016f: 20 draws, bounds 840
+   0x141feadce: 114 draws, bounds 200,400,800
+   0x141febf93: 2591 draws, bounds 1,100
+   0x141febfcf: 2591 draws, bounds 8
+   tile grid: captures\The Solaris Temple Level 1 - 2_8_12_1 - 713734928\truth_2defdb1e3f0.tsv (89x77, 6853 cells) VERIFIED against tile hash 1689689909
+   walkable field: captures\The Solaris Temple Level 1 - 2_8_12_1 - 713734928\walkable_2defdb1e3f0_melee.png (13.3% of the sub-cells walkable, matches the tiles' hull field at IoU 0.977; 2 layer(s) read; stored for the grid as walkable_2defdb1e3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Solaris Temple Level 1 - 2_8_12_1 - 713734928\minimap.png

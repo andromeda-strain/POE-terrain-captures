@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3445145618 doodad hash 3508169969 (CLI_ACTIVATE_MAP)
+AUTO seed 1089189176 The Tidal Island: terrain act6/area3/ graph tidal_island_12.tgr (2 locked nodes match; capture 11 nodes, graph 7)
+   typed nodes never placed by the client (untilised): [0, 1, 3, 4, 6]
+   node pipeline: pre-pick words 0, vaal_pending False, hideout_claim False: free nodes 0/0 match
+   pre-pick words 0 -> 4 by the capture (first pipeline word: client 5, sim 1; 12 draws replayed)
+   tile grid: captures\The Tidal Island - 2_6_3 - 1089189176\truth_25fc5084bf0.tsv (60x51, 3060 cells) VERIFIED against tile hash 3445145618
+   walkable field: captures\The Tidal Island - 2_6_3 - 1089189176\walkable_25fc5084bf0_melee.png (16.4% of the sub-cells walkable, matches the tiles' hull field at IoU 1.000; 2 layer(s) read; stored for the grid as walkable_25fc5084bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Tidal Island - 2_6_3 - 1089189176\minimap.png
+   FAIL: permute-in 7/7, permute-out 7/7, rounder-in-1 7/7, rounder-in-2 7/7, rounder-in-3 10/12, rounder-in-4 10/12, rounder-in-5 10/12
+   layout: captures\The Tidal Island - 2_6_3 - 1089189176\layout.png; minimap captures\The Tidal Island - 2_6_3 - 1089189176\minimap.png
+   corpus row appended

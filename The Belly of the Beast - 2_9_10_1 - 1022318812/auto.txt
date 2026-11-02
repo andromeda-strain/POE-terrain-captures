@@ -1,0 +1,4 @@
+KNOWN The Belly of the Beast [2_9_10_1] seed 1022318812: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 2524357597 (1 of 1 rows), last capture captures/The Belly of the Beast - 2_9_10_1 - 1022318812/stages_20261102_173408.csv (dungeon trace)
+   this load's tile hash 2524357597 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\The Belly of the Beast - 2_9_10_1 - 1022318812\truth_2defcff7bf0.tsv): captures\The Belly of the Beast - 2_9_10_1 - 1022318812\minimap.png

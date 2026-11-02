@@ -1,0 +1,33 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 4260265789 doodad hash 2686234994 (CLI_ACTIVATE_MAP)
+AUTO seed 919057191 The Solaris Concourse: dungeon area (capture captures/The Solaris Concourse - 2_8_11 - 919057191/stages_20261102_172739.csv)
+   dungeon (.dgr) pipeline: 7347 draws in 26 call sites (4 generator draws before it, 30455 after it - the post passes); no generator model yet
+   0x142031e88: 1 draws, bounds 1
+   0x142031ea6: 1 draws, bounds 2
+   0x14203a8e0: 31 draws, bounds 100
+   0x142030de5: 1 draws, bounds 2
+   0x142105ee9: 18 draws, bounds 100,200,300
+   0x142107272: 4 draws, bounds 1300,1500,2500
+   0x1420fd32a: 479 draws, bounds 128
+   0x142012839: 8 draws, bounds 2,3,4,6
+   0x1420fd640: 488 draws, bounds 860,1100,1300,1500,1800,2300,2500
+   0x142001ee5: 72 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 7
+   0x14210862e: 50 draws, bounds 100,4100,6560,8200,12300,16400
+   0x14210871c: 50 draws, bounds 840
+   0x142108799: 1 draws, bounds 8200
+   0x1421087b9: 1 draws, bounds 840
+   0x142109942: 43 draws, bounds 100,120
+   0x142109cdf: 43 draws, bounds 100,120
+   0x142109cf6: 43 draws, bounds 840
+   0x1420efc0c: 490 draws, bounds 1,8,100,200,230,240,260,300,400,600,800,1200,...
+   0x141febf93: 2303 draws, bounds 1,100,200
+   0x141febfcf: 2303 draws, bounds 8
+   0x141febd7f: 483 draws, bounds 234,239,242,244,291,296,300,303,305,306,308,310,...
+   0x141fed1ec: 324 draws, bounds 8
+   0x141fed087: 24 draws, bounds 8
+   0x141fe9a73: 42 draws, bounds 200,800
+   0x14202795d: 43 draws, bounds 100,130
+   tile grid: captures\The Solaris Concourse - 2_8_11 - 919057191\truth_2defdb123f0.tsv (90x72, 6480 cells) VERIFIED against tile hash 4260265789
+   walkable field: captures\The Solaris Concourse - 2_8_11 - 919057191\walkable_2defdb123f0_melee.png (18.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.952; 2 layer(s) read; stored for the grid as walkable_2defdb123f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Solaris Concourse - 2_8_11 - 919057191\minimap.png

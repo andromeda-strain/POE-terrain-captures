@@ -1,0 +1,36 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1430892848 doodad hash 4186514283 (CLI_ACTIVATE_MAP)
+AUTO seed 581766770 The Lunaris Temple Level 1: dungeon area (capture captures/The Lunaris Temple Level 1 - 2_8_7_1_ - 581766770/stages_20261102_172508.csv)
+   dungeon (.dgr) pipeline: 3383 draws in 29 call sites (4 generator draws before it, 23282 after it - the post passes); no generator model yet
+   0x1420f16eb: 2 draws, bounds 0,692
+   0x1420f1d73: 3 draws, bounds 1
+   0x14203a8e0: 11 draws, bounds 100
+   0x142105ee9: 7 draws, bounds 100,200
+   0x1420fd32a: 34 draws, bounds 128
+   0x142012839: 2 draws, bounds 3,5
+   0x1420fd640: 39 draws, bounds 102,1382
+   0x142001ee5: 14 draws, bounds 1
+   0x1420fc763: 2 draws, bounds 1
+   0x14210862e: 8 draws, bounds 6,41,960,1616,4170
+   0x14210871c: 8 draws, bounds 840
+   0x1420efc0c: 928 draws, bounds 1,2,4,6,8,100,200,400,460,660,800
+   0x1420f6875: 143 draws, bounds 1,2,4,8,200,460,660
+   0x1420f45dc: 14 draws, bounds 1,2,3
+   0x1420f47d8: 10 draws, bounds 1
+   0x1420f4807: 14 draws, bounds 4,8
+   0x141fe90a5: 8 draws, bounds 100
+   0x141fe9173: 8 draws, bounds 8
+   0x141fe9a73: 1 draws, bounds 800
+   0x141febf93: 991 draws, bounds 1,100
+   0x141febfcf: 991 draws, bounds 8
+   0x142107272: 3 draws, bounds 572,1382
+   0x142108799: 1 draws, bounds 960
+   0x1421087b9: 1 draws, bounds 840
+   0x141fffc2c: 34 draws, bounds 100,200,300,400,500
+   0x141fffe22: 34 draws, bounds 100
+   0x142000103: 10 draws, bounds 100
+   0x14200016f: 10 draws, bounds 840
+   0x141feadce: 52 draws, bounds 2,4,800
+   tile grid: captures\The Lunaris Temple Level 1 - 2_8_7_1_ - 581766770\truth_2defcff4bf0.tsv (61x115, 7015 cells) VERIFIED against tile hash 1430892848
+   walkable field: captures\The Lunaris Temple Level 1 - 2_8_7_1_ - 581766770\walkable_2defcff4bf0_melee.png (12.5% of the sub-cells walkable, matches the tiles' hull field at IoU 0.951; 2 layer(s) read; stored for the grid as walkable_2defcff4bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Lunaris Temple Level 1 - 2_8_7_1_ - 581766770\minimap.png

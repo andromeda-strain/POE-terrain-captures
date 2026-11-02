@@ -1,0 +1,35 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1508861953 doodad hash 3525256420 (CLI_ACTIVATE_MAP)
+AUTO seed 3147286867 The Temple of Decay Level 2: dungeon area (capture captures/The Temple of Decay Level 2 - 2_7_12_2 - 3147286867/stages_20261102_170721.csv)
+   dungeon (.dgr) pipeline: 7992 draws in 28 call sites (4 generator draws before it, 18941 after it - the post passes); no generator model yet
+   0x14203a8e0: 99 draws, bounds 100
+   0x142105ee9: 18 draws, bounds 100
+   0x1420038a1: 21 draws, bounds 50,100,150,200
+   0x142107272: 65 draws, bounds 1500,1900,2200,4100,4600,5300,6500,7200
+   0x1420fd32a: 443 draws, bounds 128
+   0x142012839: 5 draws, bounds 1,14,20,26
+   0x1420fd640: 551 draws, bounds 1900,5500,7200
+   0x142001ee5: 177 draws, bounds 1,2
+   0x1420fc763: 2 draws, bounds 2
+   0x1420fcc6c: 3 draws, bounds 1,4,7
+   0x1420fce8c: 3 draws, bounds 100
+   0x142100f13: 58 draws, bounds 0,1,2,4
+   0x142101086: 37 draws, bounds 100
+   0x14210862e: 121 draws, bounds 350,400,700,800,3300,4100,5000,6150,6550,8200,9100,12300,...
+   0x14210871c: 121 draws, bounds 840
+   0x142108799: 6 draws, bounds 400,3300,12300
+   0x1421087b9: 6 draws, bounds 840
+   0x142109942: 18 draws, bounds 1
+   0x142109cdf: 18 draws, bounds 1
+   0x142109cf6: 18 draws, bounds 840
+   0x1420efc0c: 1141 draws, bounds 1,2,4,6,8,10,12,14,16,560
+   0x1420f6875: 854 draws, bounds 1,2,4,6,8,12,14,16
+   0x1420f7228: 22 draws, bounds 8
+   0x1420f45dc: 93 draws, bounds 1,2
+   0x1420f4807: 93 draws, bounds 8
+   0x1420f47d8: 23 draws, bounds 1,2
+   0x141febf93: 1988 draws, bounds 1
+   0x141febfcf: 1988 draws, bounds 8
+   tile grid: captures\The Temple of Decay Level 2 - 2_7_12_2 - 3147286867\truth_2f3c3b17bf0.tsv (55x131, 7205 cells) VERIFIED against tile hash 1508861953
+   walkable field: captures\The Temple of Decay Level 2 - 2_7_12_2 - 3147286867\walkable_2f3c3b17bf0_melee.png (16.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.991; 3 layer(s) read; stored for the grid as walkable_2f3c3b17bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Temple of Decay Level 2 - 2_7_12_2 - 3147286867\minimap.png

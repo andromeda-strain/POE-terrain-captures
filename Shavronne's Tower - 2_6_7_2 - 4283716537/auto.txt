@@ -1,0 +1,28 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 848561298 doodad hash 3742770763 (CLI_ACTIVATE_MAP)
+AUTO seed 4283716537 Shavronne's Tower: dungeon area (capture captures/Shavronne's Tower - 2_6_7_2 - 4283716537/stages_20261102_155802.csv)
+   dungeon (.dgr) pipeline: 5373 draws in 21 call sites (4 generator draws before it, 1471 after it - the post passes); no generator model yet
+   0x14203a976: 1 draws, bounds 100
+   0x14203a8e0: 51 draws, bounds 100
+   0x142105ee9: 13 draws, bounds 1,2
+   0x142107272: 36 draws, bounds 16,25,41,50,57,66,82
+   0x1420fd32a: 657 draws, bounds 128
+   0x142012839: 3 draws, bounds 1,17,19
+   0x1420fd640: 775 draws, bounds 11,16,82
+   0x142001ee5: 66 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 3
+   0x14210862e: 52 draws, bounds 3,11,41,118,282,693,712,854,1650
+   0x14210871c: 52 draws, bounds 840
+   0x142108799: 1 draws, bounds 712
+   0x1421087b9: 1 draws, bounds 840
+   0x142109942: 6 draws, bounds 1
+   0x142109cdf: 6 draws, bounds 1
+   0x142109cf6: 6 draws, bounds 840
+   0x1420efc0c: 818 draws, bounds 1,2,4,16,100,200,300,400,600,800,1000,1200,...
+   0x1420f6875: 486 draws, bounds 200,400,1000,2400
+   0x141febf93: 1170 draws, bounds 1,20
+   0x141febfcf: 1170 draws, bounds 8
+   0x14202795d: 2 draws, bounds 100,300
+   tile grid: captures\Shavronne's Tower - 2_6_7_2 - 4283716537\truth_25fc5eae3f0.tsv (171x51, 8721 cells) VERIFIED against tile hash 848561298
+   walkable field: captures\Shavronne's Tower - 2_6_7_2 - 4283716537\walkable_25fc5eae3f0_melee.png (10.4% of the sub-cells walkable, matches the tiles' hull field at IoU 0.969; 2 layer(s) read; stored for the grid as walkable_25fc5eae3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Shavronne's Tower - 2_6_7_2 - 4283716537\minimap.png

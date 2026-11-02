@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1272013111 doodad hash 689884382 (CLI_ACTIVATE_MAP)
+AUTO seed 1454686261 The Oasis: terrain act9/area4/ graph oasis_foothills_4.tgr (14 locked nodes match; capture 47 nodes, graph 38)
+   typed nodes never placed by the client (untilised): [0, 2, 3, 6, 11, 27, 28, 33, 37]
+   node pipeline: pre-pick words 5, vaal_pending True, hideout_claim True: free nodes 16/16 match
+   tile grid: captures\The Oasis - 2_9_4 - 1454686261\truth_2de8d10cbf0.tsv (130x87, 10242 cells) VERIFIED against tile hash 1272013111
+   walkable field: captures\The Oasis - 2_9_4 - 1454686261\walkable_2de8d10cbf0_melee.png (15.9% of the sub-cells walkable, matches the tiles' hull field at IoU 0.900; 2 layer(s) read; stored for the grid as walkable_2de8d10cbf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Oasis - 2_9_4 - 1454686261\minimap.png
+   FAIL: permute-in 23/23, permute-out 23/23, rounder-in-1 23/23, rounder-in-2 23/23, rounder-in-3 23/23, rounder-in-5 20/23
+   layout: captures\The Oasis - 2_9_4 - 1454686261\layout.png; minimap captures\The Oasis - 2_9_4 - 1454686261\minimap.png
+   corpus row appended

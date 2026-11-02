@@ -1,0 +1,23 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2325371646 doodad hash 3296563776 (CLI_ACTIVATE_MAP)
+AUTO seed 2566058033 The Lunaris Concourse: dungeon area (capture captures/The Lunaris Concourse - 2_8_6 - 2566058033/stages_20261102_172248.csv)
+   dungeon (.dgr) pipeline: 8755 draws in 16 call sites (4 generator draws before it, 9111 after it - the post passes); no generator model yet
+   0x14203a8e0: 5 draws, bounds 100
+   0x142105ee9: 9 draws, bounds 100,200
+   0x1420fd32a: 9 draws, bounds 128
+   0x142012839: 1 draws, bounds 2
+   0x142001ee5: 2 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x142109942: 15 draws, bounds 100
+   0x142109cdf: 15 draws, bounds 100
+   0x142109cf6: 15 draws, bounds 840
+   0x1420efc0c: 1084 draws, bounds 1,2,4,8,16,100,200,480,800
+   0x1420f6875: 42 draws, bounds 2
+   0x141febf93: 3583 draws, bounds 1,2,100
+   0x141febfcf: 3248 draws, bounds 8
+   0x141fec0ea: 335 draws, bounds 1
+   0x141fec1d8: 335 draws, bounds 8
+   0x14202795d: 56 draws, bounds 1
+   tile grid: captures\The Lunaris Concourse - 2_8_6 - 2566058033\truth_2de8d1023f0.tsv (75x150, 11250 cells) VERIFIED against tile hash 2325371646
+   walkable field: captures\The Lunaris Concourse - 2_8_6 - 2566058033\walkable_2de8d1023f0_melee.png (14.9% of the sub-cells walkable, matches the tiles' hull field at IoU 0.905; 2 layer(s) read; stored for the grid as walkable_2de8d1023f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Lunaris Concourse - 2_8_6 - 2566058033\minimap.png

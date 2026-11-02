@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3931784134 doodad hash 653437749 (CLI_ACTIVATE_MAP)
+AUTO seed 798577525 The Boiling Lake: terrain act9/area6/ graph boiling_lake_03.tgr (9 locked nodes match; capture 61 nodes, graph 28)
+   typed nodes never placed by the client (untilised): [1, 2, 3, 4, 5, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 23, 25, 26, 27]
+   node pipeline: pre-pick words 0, vaal_pending False, hideout_claim False: free nodes 0/0 match
+   pre-pick words 0 -> 4 by the capture (first pipeline word: client 5, sim 1; 12 draws replayed)
+   tile grid: captures\The Boiling Lake - 2_9_6 - 798577525\truth_2defcfff3f0.tsv (78x57, 4446 cells) VERIFIED against tile hash 3931784134
+   walkable field: captures\The Boiling Lake - 2_9_6 - 798577525\walkable_2defcfff3f0_melee.png (28.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.923; 2 layer(s) read; stored for the grid as walkable_2defcfff3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Boiling Lake - 2_9_6 - 798577525\minimap.png
+   PASS: permute-in 32/32, permute-out 32/32, rounder-in-1 32/32, rounder-in-2 32/32, rounder-in-3 32/32
+   layout: captures\The Boiling Lake - 2_9_6 - 798577525\layout.png; minimap captures\The Boiling Lake - 2_9_6 - 798577525\minimap.png
+   corpus row appended

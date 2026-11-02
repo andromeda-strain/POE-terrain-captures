@@ -1,0 +1,32 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1381469952 doodad hash 2097851487 (CLI_ACTIVATE_MAP)
+AUTO seed 2417557191 The Blood Aqueduct: dungeon area (capture captures/The Blood Aqueduct - 2_9_1 - 2417557191/stages_20261102_172807.csv)
+   dungeon (.dgr) pipeline: 5763 draws in 25 call sites (4 generator draws before it, 19502 after it - the post passes); no generator model yet
+   0x14203a8e0: 6 draws, bounds 100
+   0x142105ee9: 7 draws, bounds 100,800,900
+   0x1420fd32a: 89 draws, bounds 128
+   0x142012839: 2 draws, bounds 1,4
+   0x1420fd640: 154 draws, bounds 1600
+   0x142001ee5: 12 draws, bounds 1,3
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 7 draws, bounds 100100,200200,300300
+   0x14210871c: 7 draws, bounds 840
+   0x142109942: 115 draws, bounds 300
+   0x142109cdf: 115 draws, bounds 100,200
+   0x142109cf6: 115 draws, bounds 840
+   0x142109a4b: 85 draws, bounds 100,200
+   0x1420efc0c: 451 draws, bounds 1,100,200,400,600,800
+   0x141febf93: 1513 draws, bounds 1,1001
+   0x141febfcf: 802 draws, bounds 8
+   0x141fec0ea: 711 draws, bounds 1
+   0x141fec1d8: 711 draws, bounds 8
+   0x141febd7f: 709 draws, bounds 1,31,61,71,91,101,131,141,161,171,201,211,...
+   0x141fed1ec: 90 draws, bounds 8
+   0x141fed087: 3 draws, bounds 8
+   0x141fe90a5: 18 draws, bounds 1
+   0x141fe9173: 18 draws, bounds 8
+   0x141fe9a73: 8 draws, bounds 40,800
+   0x14202795d: 14 draws, bounds 100,200,300,400,500
+   tile grid: captures\The Blood Aqueduct - 2_9_1 - 2417557191\truth_2deceb0cbf0.tsv (48x180, 8640 cells) VERIFIED against tile hash 1381469952
+   walkable field: captures\The Blood Aqueduct - 2_9_1 - 2417557191\walkable_2deceb0cbf0_melee.png (6.4% of the sub-cells walkable, matches the tiles' hull field at IoU 0.924; 3 layer(s) read; stored for the grid as walkable_2deceb0cbf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Blood Aqueduct - 2_9_1 - 2417557191\minimap.png

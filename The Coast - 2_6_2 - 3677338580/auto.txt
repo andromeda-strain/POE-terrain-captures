@@ -1,0 +1,4 @@
+KNOWN The Coast [2_6_2] seed 3677338580: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain act6/area2/, tile hash 3325735603 (1 of 1 rows), last capture captures/The Coast - 2_6_2 - 3677338580/stages_20261102_154614.csv (DIFF)
+   this load's tile hash 3325735603 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\The Coast - 2_6_2 - 3677338580\truth_26347e66bf0.tsv): captures\The Coast - 2_6_2 - 3677338580\minimap.png

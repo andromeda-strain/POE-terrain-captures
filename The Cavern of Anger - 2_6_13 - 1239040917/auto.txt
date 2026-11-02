@@ -1,0 +1,35 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2390585388 doodad hash 2708638957 (CLI_ACTIVATE_MAP)
+AUTO seed 1239040917 The Cavern of Anger: dungeon area (capture captures/The Cavern of Anger - 2_6_13 - 1239040917/stages_20261102_161552.csv)
+   dungeon (.dgr) pipeline: 4481 draws in 28 call sites (6 generator draws before it, 24517 after it - the post passes); no generator model yet
+   0x14203a8e0: 18 draws, bounds 100
+   0x142030de5: 1 draws, bounds 3
+   0x142105ee9: 24 draws, bounds 1,8
+   0x1420038a1: 3 draws, bounds 100,200
+   0x142105f65: 9 draws, bounds 8
+   0x142107272: 14 draws, bounds 152,262,372,392,452,502,582,735,785,865
+   0x1420fd32a: 216 draws, bounds 128
+   0x142012839: 2 draws, bounds 2,11
+   0x1420fd640: 351 draws, bounds 865,1167
+   0x142001ee5: 30 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 2
+   0x1420fc444: 2 draws, bounds 100
+   0x1420fc477: 2 draws, bounds 0,1
+   0x1420fcc6c: 1 draws, bounds 1
+   0x1420fce8c: 1 draws, bounds 100
+   0x142100f13: 3 draws, bounds 0,2
+   0x14210862e: 15 draws, bounds 4,20,40,117,240,372,850,4070,8210,13730
+   0x14210871c: 15 draws, bounds 840
+   0x142108799: 2 draws, bounds 20
+   0x1421087b9: 2 draws, bounds 840
+   0x1420efc0c: 908 draws, bounds 1,2,4,8,10,12,16,48,840
+   0x1420f6875: 321 draws, bounds 1,2,4,10,12,16
+   0x141febf93: 1242 draws, bounds 1,8,100,120,760
+   0x141febfcf: 1197 draws, bounds 8
+   0x141fece63: 19 draws, bounds 840
+   0x141fec0ea: 52 draws, bounds 410,480,550,620,690
+   0x141fec1d8: 26 draws, bounds 8
+   0x14202795d: 4 draws, bounds 1
+   tile grid: captures\The Cavern of Anger - 2_6_13 - 1239040917\truth_263115f0bf0.tsv (133x71, 8762 cells) VERIFIED against tile hash 2390585388
+   walkable field: captures\The Cavern of Anger - 2_6_13 - 1239040917\walkable_263115f0bf0_melee.png (8.1% of the sub-cells walkable, matches the tiles' hull field at IoU 0.944; 2 layer(s) read; stored for the grid as walkable_263115f0bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Cavern of Anger - 2_6_13 - 1239040917\minimap.png

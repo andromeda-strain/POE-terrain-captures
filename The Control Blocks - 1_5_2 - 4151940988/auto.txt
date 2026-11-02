@@ -1,0 +1,36 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1545509957 doodad hash 1712252056 (CLI_ACTIVATE_MAP)
+AUTO seed 4151940988 The Control Blocks: dungeon area (capture captures/The Control Blocks - 1_5_2 - 4151940988/stages_20261102_144558.csv)
+   dungeon (.dgr) pipeline: 4453 draws in 29 call sites (4 generator draws before it, 23084 after it - the post passes); no generator model yet
+   0x14203a8e0: 38 draws, bounds 100
+   0x142105ee9: 14 draws, bounds 3,6,100,200
+   0x1420038a1: 12 draws, bounds 75,100,175,200
+   0x142107272: 10 draws, bounds 220,400,900,2800
+   0x1420fd32a: 305 draws, bounds 128
+   0x142012839: 4 draws, bounds 1,4,7,9
+   0x1420fd640: 358 draws, bounds 220,900,2800
+   0x142001ee5: 46 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 3
+   0x1420fcc6c: 2 draws, bounds 1
+   0x1420fce8c: 2 draws, bounds 100
+   0x142100f13: 27 draws, bounds 0,1,2
+   0x142101086: 3 draws, bounds 100
+   0x14210862e: 29 draws, bounds 33,40,123,200,440,1640,3640,4400,16400,32400,36400
+   0x14210871c: 29 draws, bounds 840
+   0x142108799: 1 draws, bounds 440
+   0x1421087b9: 1 draws, bounds 840
+   0x1420efc0c: 1181 draws, bounds 1,2,4,6,8,16,32,200,278,280,282,800
+   0x1420f6875: 396 draws, bounds 1,2,4,6,16,200,278,280,800
+   0x1420f7228: 8 draws, bounds 2,278,280,800
+   0x1420f45dc: 46 draws, bounds 1
+   0x1420f4807: 46 draws, bounds 8
+   0x141febf93: 797 draws, bounds 100,200
+   0x141febfcf: 797 draws, bounds 8
+   0x141febd7f: 122 draws, bounds 470,490
+   0x141fed1ec: 103 draws, bounds 8
+   0x141fed087: 17 draws, bounds 8
+   0x141fe90a5: 29 draws, bounds 200
+   0x141fe9173: 29 draws, bounds 8
+   tile grid: captures\The Control Blocks - 1_5_2 - 4151940988\truth_46498923bf0.tsv (85x85, 7225 cells) VERIFIED against tile hash 1545509957
+   walkable field: captures\The Control Blocks - 1_5_2 - 4151940988\walkable_46498923bf0_melee.png (16.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.751; 2 layer(s) read; stored for the grid as walkable_46498923bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Control Blocks - 1_5_2 - 4151940988\minimap.png

@@ -1,0 +1,23 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1181774485 doodad hash 1140433413 (CLI_ACTIVATE_MAP)
+AUTO seed 1520720015 The Tunnel: dungeon area (capture captures/The Tunnel - 2_9_7 - 1520720015/stages_20261102_173347.csv)
+   dungeon (.dgr) pipeline: 3094 draws in 16 call sites (5 generator draws before it, 8180 after it - the post passes); no generator model yet
+   0x14203a8e0: 12 draws, bounds 100
+   0x142105ee9: 11 draws, bounds 100,200,800,2400
+   0x142107272: 2 draws, bounds 2550,3510
+   0x1420fd32a: 56 draws, bounds 128
+   0x142012839: 1 draws, bounds 8
+   0x1420fd640: 54 draws, bounds 3510
+   0x142001ee5: 16 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 6 draws, bounds 3620,12640,29860,84880
+   0x14210871c: 6 draws, bounds 840
+   0x1420ff711: 1 draws, bounds 5
+   0x1420ff72b: 1 draws, bounds 1
+   0x1420efc0c: 1030 draws, bounds 1,2,4,40,100,180,200,400,440,800,1600,3200
+   0x1420f6875: 177 draws, bounds 100,200,400,800,1600
+   0x141febf93: 860 draws, bounds 1,100
+   0x141febfcf: 860 draws, bounds 8
+   tile grid: captures\The Tunnel - 2_9_7 - 1520720015\truth_2deceb06bf0.tsv (73x105, 7665 cells) VERIFIED against tile hash 1181774485
+   walkable field: captures\The Tunnel - 2_9_7 - 1520720015\walkable_2deceb06bf0_melee.png (7.4% of the sub-cells walkable, matches the tiles' hull field at IoU 0.961; 2 layer(s) read; stored for the grid as walkable_2deceb06bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Tunnel - 2_9_7 - 1520720015\minimap.png

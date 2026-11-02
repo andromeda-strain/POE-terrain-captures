@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1814013702 doodad hash 3994951725 (CLI_ACTIVATE_MAP)
+AUTO seed 4030311324 Prisoner's Gate: terrain act6/area8/ graph prisoners_gate_10.tgr (9 locked nodes match; capture 35 nodes, graph 24)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 3, 4, 5, 6, 7, 9, 14, 20, 23]
+   node pipeline: pre-pick words 3, vaal_pending False, hideout_claim False: free nodes 9/9 match
+   tile grid: captures\Prisoner's Gate - 2_6_8 - 4030311324\truth_25fc508c3f0.tsv (63x102, 6426 cells) VERIFIED against tile hash 1814013702
+   walkable field: captures\Prisoner's Gate - 2_6_8 - 4030311324\walkable_25fc508c3f0_melee.png (15.1% of the sub-cells walkable, matches the tiles' hull field at IoU 0.976; 2 layer(s) read; stored for the grid as walkable_25fc508c3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Prisoner's Gate - 2_6_8 - 4030311324\minimap.png
+   FAIL: permute-in 16/16, permute-out 16/16, rounder-in-1 16/16, rounder-in-2 16/16, rounder-in-3 23/24, rounder-in-4 23/24, rounder-in-5 23/24, rounder-in-6 23/24
+   layout: captures\Prisoner's Gate - 2_6_8 - 4030311324\layout.png; minimap captures\Prisoner's Gate - 2_6_8 - 4030311324\minimap.png
+   corpus row appended

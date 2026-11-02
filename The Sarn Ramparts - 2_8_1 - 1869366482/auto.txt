@@ -1,0 +1,28 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1202820588 doodad hash 934829332 (CLI_ACTIVATE_MAP)
+AUTO seed 1869366482 The Sarn Ramparts: dungeon area (capture captures/The Sarn Ramparts - 2_8_1 - 1869366482/stages_20261102_171025.csv)
+   dungeon (.dgr) pipeline: 17009 draws in 21 call sites (4 generator draws before it, 54554 after it - the post passes); no generator model yet
+   0x14203a8e0: 10 draws, bounds 100
+   0x142105ee9: 6 draws, bounds 100,200
+   0x142107272: 4 draws, bounds 100,500,600
+   0x1420fd32a: 169 draws, bounds 128
+   0x142012839: 3 draws, bounds 1,4
+   0x1420fd640: 159 draws, bounds 100,500,600
+   0x142001ee5: 22 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 3
+   0x14210862e: 17 draws, bounds 4100,8200
+   0x14210871c: 17 draws, bounds 840
+   0x142108799: 1 draws, bounds 8200
+   0x1421087b9: 1 draws, bounds 840
+   0x142109942: 44 draws, bounds 100
+   0x142109cdf: 44 draws, bounds 100
+   0x142109cf6: 44 draws, bounds 840
+   0x1420efc0c: 924 draws, bounds 1,2,4,6,8,14,28,800
+   0x141febf93: 7675 draws, bounds 1,100,200
+   0x141febfcf: 7487 draws, bounds 8
+   0x141fec0ea: 188 draws, bounds 100
+   0x141fec1d8: 188 draws, bounds 8
+   0x14202795d: 5 draws, bounds 1
+   tile grid: captures\The Sarn Ramparts - 2_8_1 - 1869366482\truth_2f3c3b1f3f0.tsv (108x96, 10368 cells) VERIFIED against tile hash 1202820588
+   walkable field: captures\The Sarn Ramparts - 2_8_1 - 1869366482\walkable_2f3c3b1f3f0_melee.png (11.4% of the sub-cells walkable, matches the tiles' hull field at IoU 0.960; 3 layer(s) read; stored for the grid as walkable_2f3c3b1f3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Sarn Ramparts - 2_8_1 - 1869366482\minimap.png

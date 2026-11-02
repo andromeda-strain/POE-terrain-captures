@@ -1,0 +1,26 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1402120444 doodad hash 3443963720 (CLI_ACTIVATE_MAP)
+AUTO seed 1610963619 The Apex of Sacrifice: dungeon area (capture captures/The Apex of Sacrifice - MapAtziri1 - 1610963619/stages_20261102_180110.csv)
+   dungeon (.dgr) pipeline: 5297 draws in 19 call sites (1 generator draws before it, 14552 after it - the post passes); no generator model yet
+   0x14203a8e0: 19 draws, bounds 100
+   0x142105ee9: 10 draws, bounds 100
+   0x142107272: 4 draws, bounds 29013
+   0x1420fd32a: 235 draws, bounds 128
+   0x142012839: 1 draws, bounds 7
+   0x1420fd640: 674 draws, bounds 29013
+   0x142001ee5: 19 draws, bounds 1,2,3
+   0x1420fc763: 1 draws, bounds 1
+   0x1420fcc6c: 2 draws, bounds 1,4
+   0x1420fce8c: 2 draws, bounds 100
+   0x14210862e: 16 draws, bounds 181,1411,1493,18900,42300,54600,1308000,1644000,2370000,4002000
+   0x14210871c: 16 draws, bounds 840
+   0x1420efc0c: 911 draws, bounds 1,2,4,6,8,10,12,14,16,560,800
+   0x1420f6875: 181 draws, bounds 1,4,6,12,14
+   0x1420f45dc: 21 draws, bounds 1,2
+   0x1420f4807: 21 draws, bounds 8,16
+   0x1420f47d8: 6 draws, bounds 1
+   0x141febf93: 1579 draws, bounds 1
+   0x141febfcf: 1579 draws, bounds 8
+   tile grid: captures\The Apex of Sacrifice - MapAtziri1 - 1610963619\truth_210d9a5d3f0.tsv (137x93, 12741 cells) VERIFIED against tile hash 1402120444
+   walkable field: captures\The Apex of Sacrifice - MapAtziri1 - 1610963619\walkable_210d9a5d3f0_melee.png (5.9% of the sub-cells walkable, matches the tiles' hull field at IoU 0.958; 2 layer(s) read; stored for the grid as walkable_210d9a5d3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Apex of Sacrifice - MapAtziri1 - 1610963619\minimap.png
