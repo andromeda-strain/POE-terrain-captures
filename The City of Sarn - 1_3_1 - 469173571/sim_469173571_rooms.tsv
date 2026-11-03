@@ -1,0 +1,11 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act3/Area1/Rooms/entrance_1a.arm	27	15	3	node	default entrance1disabled
+0	Metadata/Terrain/Act3/Area1/Rooms/exit_2a.arm	9	69	3	node	entrance2 killzone=4
+0	Metadata/Terrain/Act3/Area1/Rooms/largebuilding_water_connection2.arm	18	42	7	node	
+0	Metadata/Terrain/Act3/Area1/Rooms/largebuilding_water_connection2.arm	24	30	3	node	
+0	Metadata/Terrain/Act3/Area1/Rooms/slum_hood_largecliff_connection1.arm	24	63	3	node	
+0	Metadata/Terrain/Act3/Area1/Rooms/slum_hood_largecliff_connection1.arm	30	42	7	node	
+0	Metadata/Terrain/Act3/Area1/Rooms/clarissa.arm	18	54	0	node	killzone=0
+0	Metadata/Terrain/Act3/Area1/Rooms/clarissa_block.arm	27	54	0	node	
+0	Metadata/Terrain/Act3/Area1/Rooms/flow_source.arm	6	74	7	node	
+0	Metadata/Terrain/Act3/Area1/Rooms/flow_sink.arm	18	6	2	node	

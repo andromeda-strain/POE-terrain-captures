@@ -1,0 +1,46 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act9/Area5/Rooms/Unique/entrance2.arm	9	15	0	node	default entrance1
+0	Metadata/Terrain/Act9/Area5/Rooms/Unique/foothills_valleyend.arm	33	15	0	node	
+0	Metadata/Terrain/Act9/Area5/Rooms/Unique/foothills_to_tunnels.arm	9	81	3	node	entrance3
+0	Metadata/Terrain/Act9/Area5/Rooms/Unique/cliff_ramp_01.arm	42	27	4	node	
+0	Metadata/Terrain/Act9/Area5/Rooms/Unique/cliff_ledge_01.arm	21	33	0	node	
+0	Metadata/Terrain/Act9/Area5/Rooms/Unique/ledge_ramp.arm	33	33	0	node	
+0	Metadata/Terrain/Act9/Area5/Rooms/Unique/cliff_ramp_01.arm	21	45	0	node	
+0	Metadata/Terrain/Act9/Area5/Rooms/Unique/ledge_gap.arm	33	45	0	node	
+0	Metadata/Terrain/Act9/Area5/Rooms/Unique/ledge_ramp.arm	24	69	1	node	
+0	Metadata/Terrain/Act9/Area5/Rooms/Unique/cliff_ledge_01.arm	18	57	0	node	
+0	Metadata/Terrain/Act9/Area5/Rooms/Unique/foothills_to_boiling_lake2.arm	45	33	0	node	entrance2
+0	Metadata/Terrain/Act9/Area5/Rooms/Unique/ledge_ramp.arm	30	57	4	node	
+0	Metadata/Terrain/Act9/Area5/Rooms/Unique/sidearea_03.arm	42	75	3	node	sidearea1 accessible
+0	Metadata/Terrain/Act9/Area5/Rooms/Unique/boss.arm	36	55	5	node	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar3.arm	40	15	5	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar5.arm	40	17	1	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar2.arm	21	18	5	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar3.arm	31	18	0	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/blank_tent1.arm	27	24	3	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/blank_tent1.arm	33	24	4	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar5.arm	40	25	1	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar4.arm	24	29	0	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar1.arm	27	30	0	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar2.arm	33	31	3	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/tent2.arm	31	36	6	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/blank_tent1.arm	37	36	5	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/tent2.arm	24	39	7	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar4.arm	45	43	1	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/blank_tent1.arm	38	48	0	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar4.arm	24	50	6	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar5.arm	47	50	7	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/blank_tent2.arm	42	53	1	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar5.arm	27	60	4	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/blank_tent3.arm	29	60	5	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar4.arm	43	60	1	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar2.arm	21	64	2	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar5.arm	23	64	1	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar1.arm	21	67	7	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar3.arm	21	69	4	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar3.arm	19	71	4	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar1.arm	21	71	3	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar5.arm	23	71	3	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar6.arm	18	73	1	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar2.arm	20	73	6	fill	
+0	Metadata/Terrain/Act9/Area5/Rooms/Fills/lunar5.arm	23	73	3	fill	

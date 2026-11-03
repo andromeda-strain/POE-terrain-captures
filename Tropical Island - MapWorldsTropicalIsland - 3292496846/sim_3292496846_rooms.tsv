@@ -1,18 +1,18 @@
-sub	arm	x	y	o	src
-0	Metadata/Terrain/EndGame/MapForest/Rooms/cave.arm	70	10	4	node
-0	Metadata/Terrain/EndGame/MapForest/Rooms/dock.arm	117	30	2	node
-0	Metadata/Terrain/EndGame/MapForest/Rooms/cave.arm	81	30	0	node
-0	Metadata/Terrain/EndGame/MapForest/Rooms/boss.arm	29	6	4	node
-0	Metadata/Terrain/EndGame/MapForest/Rooms/tunnel1.arm	6	6	0	node
-0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	124	6	3	node
-0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	124	18	1	node
-0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	125	30	6	node
-0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	124	12	6	node
-0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	51	24	0	pass
-0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	68	24	0	pass
-0	Metadata/Terrain/Leagues/Legion/legion_monolith.arm	44	26	0	pass
-0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	88	14	4	pass
-0	Metadata/Terrain/Leagues/Settlers/Node/ore_node.arm	92	18	0	pass
-0	Metadata/Terrain/Leagues/Settlers/Node/ore_node.arm	57	24	0	pass
-0	Metadata/Terrain/Leagues/Settlers/Node/ore_node.arm	82	17	0	pass
-0	Metadata/Terrain/vaal_side_area.arm	62	26	0	pass
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapForest/Rooms/cave.arm	70	10	4	node	telepad2 teleport1-MapTropicalIslandCave
+0	Metadata/Terrain/EndGame/MapForest/Rooms/dock.arm	117	30	2	node	default
+0	Metadata/Terrain/EndGame/MapForest/Rooms/cave.arm	81	30	0	node	telepad4 teleport3-MapTropicalIslandCave
+0	Metadata/Terrain/EndGame/MapForest/Rooms/boss.arm	29	6	4	node	
+0	Metadata/Terrain/EndGame/MapForest/Rooms/tunnel1.arm	6	6	0	node	telepad3 teleport4-%areaname% telepad1 teleport2-%areaname%
+0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	124	6	3	node	
+0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	124	18	1	node	
+0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	125	30	6	node	
+0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	124	12	6	node	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	51	24	0	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	68	24	0	pass	
+0	Metadata/Terrain/Leagues/Legion/legion_monolith.arm	44	26	0	pass	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	88	14	4	pass	
+0	Metadata/Terrain/Leagues/Settlers/Node/ore_node.arm	92	18	0	pass	
+0	Metadata/Terrain/Leagues/Settlers/Node/ore_node.arm	57	24	0	pass	
+0	Metadata/Terrain/Leagues/Settlers/Node/ore_node.arm	82	17	0	pass	
+0	Metadata/Terrain/vaal_side_area.arm	62	26	0	pass	

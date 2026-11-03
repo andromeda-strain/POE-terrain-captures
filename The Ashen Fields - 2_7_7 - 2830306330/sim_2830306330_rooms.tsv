@@ -1,0 +1,27 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act7/Area7/Rooms/town_entrance.arm	12	21	3	node	telepad2 teleport1-ArenaNameRalakesh telepad1 teleport2-%areaname% entrance2disabled bosszone=2-ArenaNameRalakesh
+0	Metadata/Terrain/Act7/Area7/Rooms/road_gate_entrance.arm	72	15	3	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/cave_entrance.arm	62	22	0	node	entrance1 default
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burningriver.arm	45	30	0	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burningroad.arm	51	22	5	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_1.arm	45	6	2	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burningroad2.arm	32	26	5	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/doorcliffburning.arm	36	15	2	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burningroad2.arm	58	19	3	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/waypoint.arm	64	18	0	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burningroad2.arm	42	23	7	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/deep_source.arm	60	41	7	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/low_sink.arm	12	6	6	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill1.arm	47	12	4	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields8_1.arm	57	12	7	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields8_1.arm	60	13	4	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill3.arm	52	15	3	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields7_1.arm	27	17	7	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields7_3.arm	48	17	4	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields8_1.arm	50	17	0	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill5.arm	40	18	2	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill5.arm	42	18	6	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields7_1.arm	70	22	7	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields8_1.arm	58	24	6	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields6_2.arm	56	26	4	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill1.arm	35	30	5	fill	

@@ -1,0 +1,73 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	1276	1230	3.142 rad	2448909918	1_3_8_2					
+Metadata/Chests/GoldPot4v2	1035	1006	0.355 rad	1825563821	1_3_8_2					
+Object: Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleBow	1092	1017	0.000 rad	842382914	1_3_8_2	0	-0.000			
+Metadata/Chests/GoldPot3	1116	1034	5.013 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldenChest3	1139	1019	3.142 rad	902169173	1_3_8_2					
+Object: Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleSword	1184	1017	0.000 rad	2933365115	1_3_8_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleBow	1231	1018	0.000 rad	4048671462	1_3_8_2	0	-0.000			
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1263	1104	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1290	1104	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1263	1149	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1290	1149	0.000 rad	2595699018	1_3_8_2					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	1273	1227	5.866 rad	1792897079	1_3_8_2					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	1277	1226	2.184 rad	1570723376	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Waypoint	1276	1230	3.142 rad	552129418	1_3_8_2	2	-16.517			
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1384	1325	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1265	1344	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1288	1344	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/QuestObjects/MapRoom/DiallaMapTransition	1389	1345	1.570 rad	797474935	1_3_8_2	23	-184.783	1	1171213618	
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1383	1366	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleSword	1254	1018	0.000 rad	2637297072	1_3_8_2	0	-0.000			
+Metadata/Chests/GoldPot1	1121	1039	1.856 rad	2724428440	1_3_8_2					
+Metadata/Chests/GoldPot4v2	1119	1036	3.017 rad	1825563821	1_3_8_2					
+Metadata/Chests/GoldPot3	1115	1037	3.195 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldPot1	1118	1039	5.514 rad	2724428440	1_3_8_2					
+Metadata/Chests/GoldPot3	1164	1041	1.948 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldPot4v2	1167	1045	5.420 rad	1825563821	1_3_8_2					
+Metadata/Chests/GoldPot2v2	1159	1037	0.249 rad	13096716	1_3_8_2					
+Metadata/Chests/GoldPot4v2	1163	1038	5.035 rad	1825563821	1_3_8_2					
+Metadata/Chests/GoldPot1	1161	1043	1.348 rad	2724428440	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1261	1405	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1292	1404	0.000 rad	2595699018	1_3_8_2					
+Metadata/NPC/Info/MalachaiNoteDialla	1389	1422	4.189 rad	2600010702	1_3_8_2	13	-108.696			
+Metadata/NPC/Info/MalachaiJournalLab	1946	1371	3.085 rad	1169533768	1_3_8_2	13	-108.696			
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1941	1380	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1771	1459	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1817	1459	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1863	1456	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/QuestObjects/MapRoom/DiallaMapTransition	1715	1483	4.712 rad	797474935	1_3_8_2	23	-184.783	1	21610	The Solaris Temple Level 2
+Metadata/NPC/Info/MapDevice	1943	1481	0.000 rad	115171530	1_3_8_2	11	-92.193			
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1771	1508	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1817	1508	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1863	1509	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1942	1587	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1263	1104	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1290	1104	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1263	1149	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1290	1149	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Waypoint	1276	1230	3.142 rad	552129418	1_3_8_2	2	-16.517			
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1384	1325	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1265	1344	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1288	1344	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/QuestObjects/MapRoom/DiallaMapTransition	1389	1345	1.570 rad	797474935	1_3_8_2	23	-184.783	1	1171213618	
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1383	1366	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1261	1405	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1292	1404	0.000 rad	2595699018	1_3_8_2					
+Metadata/NPC/Info/MalachaiNoteDialla	1389	1422	4.189 rad	2600010702	1_3_8_2	13	-108.696			
+Metadata/Chests/GoldPot1	1121	1039	1.856 rad	2724428440	1_3_8_2					
+Metadata/Chests/GoldPot4v2	1119	1036	3.017 rad	1825563821	1_3_8_2					
+Metadata/Chests/GoldPot3	1115	1037	3.195 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldPot1	1118	1039	5.514 rad	2724428440	1_3_8_2					
+Metadata/Chests/GoldPot3	1164	1041	1.948 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldPot4v2	1167	1045	5.420 rad	1825563821	1_3_8_2					
+Metadata/Chests/GoldPot2v2	1159	1037	0.249 rad	13096716	1_3_8_2					
+Metadata/Chests/GoldPot4v2	1163	1038	5.035 rad	1825563821	1_3_8_2					
+Metadata/Chests/GoldPot1	1161	1043	1.348 rad	2724428440	1_3_8_2					
+Object: Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleBow	1092	1017	0.000 rad	842382914	1_3_8_2	0	-0.000			
+Metadata/Chests/GoldPot3	1116	1034	5.013 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldenChest3	1139	1019	3.142 rad	902169173	1_3_8_2					
+Object: Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleSword	1184	1017	0.000 rad	2933365115	1_3_8_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleBow	1231	1018	0.000 rad	4048671462	1_3_8_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleSword	1254	1018	0.000 rad	2637297072	1_3_8_2	0	-0.000			
+Metadata/Chests/GoldPot4v2	1035	1006	0.355 rad	1825563821	1_3_8_2					

@@ -1,0 +1,4 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	460	631	3.1416	-114.820	15	beach_dock_transition_v01_01.tdt	0	3		parent
+Metadata/NPC/Info/VaalLetters/VaalLetter_01	367	313	6.0641	-97.826	13	boss_shore.arm	0			
+Metadata/Chests/SideArea/SideAreaChest	412	299	0.0000	0.000	0	boss_shore.arm	0			

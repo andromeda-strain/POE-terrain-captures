@@ -1,0 +1,19 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act8/Area13/Rooms/Unique/entrance_moon.arm	12	24	4	node	entrance1 default
+0	Metadata/Terrain/Act8/Area13/Rooms/Unique/bridge_entrance.arm	72	12	0	node	telepad1 teleport2-ArenaNameSolarisLunaris killzone=0
+0	Metadata/Terrain/Act8/Area13/Rooms/Fills/lun_axis_04.arm	36	24	0	node	
+0	Metadata/Terrain/Act8/Area13/Rooms/Unique/bridge_arena.arm	72	48	0	node	teleport3-ArenaNameSolarisLunaris telepad3 telepad2 teleport1-%areaname% entrance3disabled killzone=0 zone=2
+0	Metadata/Terrain/Act8/Area13/Rooms/Unique/flow_sink.arm	12	12	0	node	
+0	Metadata/Terrain/Act8/Area13/Rooms/Unique/flow_source.arm	12	48	5	node	
+0	Metadata/Terrain/Act8/Area13/Rooms/Unique/flow_source.arm	36	48	4	node	
+0	Metadata/Terrain/Act8/Area13/Rooms/Unique/flow_source.arm	108	48	2	node	
+0	Metadata/Terrain/Act8/Area13/Rooms/Unique/flow_source.arm	132	48	3	node	
+0	Metadata/Terrain/Act8/Area13/Rooms/Unique/flow_sink.arm	36	12	0	node	
+0	Metadata/Terrain/Act8/Area13/Rooms/Fills/straight_01.arm	60	24	6	node	
+0	Metadata/Terrain/Act8/Area13/Rooms/Fills/straight_02.arm	48	24	0	node	
+1	Metadata/Terrain/Act8/Area13/Rooms/Unique/solaris_boss_connection.arm	96	24	0	node	
+1	Metadata/Terrain/Act8/Area13/Rooms/Unique/entrance_sun.arm	132	24	0	node	entrance2
+1	Metadata/Terrain/Act8/Area13/Rooms/Fills/sol_axis_04.arm	120	24	4	node	
+1	Metadata/Terrain/Act8/Area13/Rooms/Unique/flow_sink.arm	96	12	0	node	
+1	Metadata/Terrain/Act8/Area13/Rooms/Unique/flow_sink.arm	120	12	0	node	
+1	Metadata/Terrain/Act8/Area13/Rooms/Fills/straight_04.arm	108	24	4	node	

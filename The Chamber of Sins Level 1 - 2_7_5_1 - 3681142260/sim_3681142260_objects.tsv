@@ -1,0 +1,24 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/Monsters/Spiders/SpiderSpawner	701	147	6.2832	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	724	147	0.0000	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	676	172	4.7124	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	749	172	1.5708	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	722	202	4.5219	118.575	-15	templeruinforest_crevice_corner_convex_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	749	195	1.5708	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	172	515	0.0000	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	195	515	0.0000	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	147	540	4.7124	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	220	540	1.5708	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	147	563	4.7124	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	220	563	1.5708	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	172	588	3.1416	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/QuestObjects/Act7/MaligaroOrrery_Main	632	632	3.1416	-0.000	0	temple_maporrery4.tdt	0			
+Metadata/QuestObjects/Act7/MaligaroOrrery	655	634	3.1416	-92.193	12	temple_maporrery4.tdt	0			
+Metadata/MiscellaneousObjects/Waypoint	701	632	1.5708	-16.517	2	templeruinforest_waypoint_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1100	732	1.5708	248.348	-32	templeruinforest_exit_down_v01_01.tdt	0	0	63498	2_7_5_2
+Metadata/MiscellaneousObjects/AreaTransition	552	1071	4.7124	-142.950	18	templeruinforest_entrance_v01_01.tdt	0	0	36599	2_7_2
+Metadata/QuestObjects/Act7/MaligaroSinsBarrier	1080	712	1.5708	0.000	0	exit_strairsdown_2a.arm	0			
+Metadata/MiscellaneousObjects/ProphecyMonsterLocator	632	584	3.9270	0.000	0	orrery.arm	1			
+Metadata/NPC/Act7/SilkSins	689	664	0.3147	0.000	0	orrery.arm	0			
+Metadata/NPC/Info/MaligaroTome	707	579	3.1692	-54.688	7	orrery.arm	0			
+Metadata/MiscellaneousObjects/CraftRecipeUnlockMarker	580	627	5.4167	0.000	0	orrery.arm	1			

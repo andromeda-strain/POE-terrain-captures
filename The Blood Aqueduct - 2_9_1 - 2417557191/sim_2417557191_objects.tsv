@@ -1,0 +1,4 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	424	51	0.0000	-625.579	80	bloodaqueduct_entrance_v01_01.tdt	0	0	22455	2_8_13
+Metadata/MiscellaneousObjects/Waypoint	515	259	0.0000	-360.146	46	bloodaqueduct_entrance_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	364	3705	4.7124	-550.254	70	mountiantown_connection_blood.tdt	0	0	9203	2_9_town

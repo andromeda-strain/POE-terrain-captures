@@ -1,0 +1,15 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	755	417	1.5708	-160.939	21	beach_passageway_v01_01.tdt	0	0	33279	1_1_5
+Metadata/NPC/Info/Karui/Stone5	864	747	0.0000	-187.500	24	beach_karuistone5.tdt	0			
+Metadata/MiscellaneousObjects/Waypoint	954	816	0.0000	-391.917	50	beach_waypoint_v02_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	465	1798	4.7124	-1294.108	166	beach_prisonback.tdt	0	0	37828	1_1_7_1
+Metadata/Terrain/Act1/Area6/Objects/CorpseWheelStopTrigger	426	1782	5.1794	-1130.625	145	prison.arm	1			
+Metadata/Terrain/Act1/Area6/Objects/CorpseWheelSwarmTrigger	290	1715	6.2832	-937.500	120	prison.arm	1			
+Metadata/Monsters/CorpseWheel/CorpseWheelAggroCharge	425	1746	4.8967	-937.500	120	prison.arm	0			
+Metadata/Monsters/CorpseWheel/CorpseWheelAggroCharge	427	1758	4.9780	-937.500	120	prison.arm	0			
+Metadata/Monsters/CorpseWheel/CorpseWheelAggroCharge	429	1767	4.9533	-937.500	120	prison.arm	0			
+Metadata/Monsters/CorpseWheel/CorpseWheelAggroCharge	415	1782	5.1050	-937.500	120	prison.arm	0			
+Metadata/Monsters/CorpseWheel/CorpseWheelAggroCharge	417	1770	5.0257	-937.500	120	prison.arm	0			
+Metadata/NPC/Info/LioneyesStandard	660	1280	1.6588	-736.073	94	flag_hill_1.arm	0			
+Metadata/Terrain/Leagues/Legion/Objects/FirstTimeLegion_EncounterLocator	623	1294	1.5708	-562.500	72	flag_hill_1.arm	1			
+Metadata/Shrines/Shrine	667	988	0.3606	-375.000	48	beach_01.arm	0			

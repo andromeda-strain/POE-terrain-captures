@@ -1,0 +1,9 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1037	551	0.0000	-16.005	2	karui_island_to_coast_transition_v01_01.tdt	0	0	18028	2_6_2
+Metadata/NPC/Info/BrineKingGlyph2	789	497	4.6759	-21.060	3	toislandcliff.arm	0			
+Metadata/Chests/QuestChests/BestelChest	508	938	0.0788	0.000	0	medicine_boat_2.arm	0			
+Metadata/Chests/TidalIsland/TreasurePile	558	929	4.3505	0.000	0	medicine_boat_2.arm	0			
+Metadata/Chests/TidalIsland/TreasurePile	509	914	2.5550	0.000	0	medicine_boat_2.arm	0			
+Metadata/Chests/TidalIsland/TreasurePile	559	906	5.1714	0.000	0	medicine_boat_2.arm	0			
+Metadata/Chests/TidalIsland/TreasurePile	523	888	2.3362	0.000	0	medicine_boat_2.arm	0			
+Metadata/Shrines/Shrine	253	529	2.7810	-187.500	24	beach_01.arm	0			

@@ -1,0 +1,7 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	439	210	4.7124	-123.665	16	ascent_sidearea_entry_v01_01.tdt	0	3		parent
+Metadata/MiscellaneousObjects/BridgeMarker	823	448	4.7124	0.000	0	bridge_01.arm	0			
+Metadata/MiscellaneousObjects/BridgeMarker	896	447	4.7124	0.000	0	bridge_01.arm	0			
+Metadata/NPC/Info/VaalLetters/VaalLetter_09	1183	288	6.0641	-97.826	13	boss_01.arm	0			
+Metadata/Chests/SideArea/SideAreaChest	1231	303	3.1416	0.000	0	boss_01.arm	0			
+Metadata/Shrines/Shrine	1005	444	5.3789	0.000	0	shrine_1_1.arm	0			

@@ -1,4 +1,4 @@
-sub	arm	x	y	o
-1	Metadata/Terrain/Leagues/Deepwater/Hub/hub.arm	37	12	0
-2	Metadata/Terrain/Leagues/Deepwater/BiomeCoralReef/Rooms/CoralReef_Generic_End_02.arm	3	3	3
-3	Metadata/Terrain/Leagues/Deepwater/Hub/hub_interior.arm	37	0	0
+sub	arm	x	y	o	src	tags
+1	Metadata/Terrain/Leagues/Deepwater/Hub/hub.arm	37	12	0	node	default telepad1 teleport2 telepad3
+2	Metadata/Terrain/Leagues/Deepwater/BiomeCoralReef/Rooms/CoralReef_Generic_End_02.arm	3	3	3	node	default killzone=3
+3	Metadata/Terrain/Leagues/Deepwater/Hub/hub_interior.arm	37	0	0	node	teleport1 telepad2

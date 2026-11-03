@@ -1,0 +1,34 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Church/Rooms/Unique/transition_waypoint.arm	45	29	3	node	default entrance1
+0	Metadata/Terrain/Act7/Area4/Rooms/Unique/blockedpassage_02.arm	45	57	0	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/Unique/blockedpassage_01.arm	25	49	1	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/Crypt/Rooms/Unique/crypt_intro_cruel.arm	49	45	0	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/Unique/transition_01.arm	21	37	1	node	teleport1 telepad2
+0	Metadata/Terrain/Act7/Area4/Rooms/Unique/maligarochest_01.arm	5	5	1	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/Unique/transition_02.arm	33	29	3	node	telepad1 teleport2
+0	Metadata/Terrain/Act7/Area4/Rooms/2x2/4open_side_02.arm	9	25	7	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/1x2/4open_bend_01.arm	33	5	6	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/2x2/3open_straight_01.arm	33	17	0	node	
+0	Metadata/Terrain/Church/Rooms/1x2/hall_1a.arm	41	37	4	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/2x2/2open_straight_01.arm	13	5	7	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/1x2/5open_side_02.arm	21	5	2	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/2x2/6open_corner_01.arm	25	5	0	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/1x2/3open_side_01.arm	33	25	7	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/1x2/5open_side_02.arm	29	25	6	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/1x2/3open_side_01.arm	17	25	4	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/2x2/6open_corner_01.arm	21	21	5	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/1x1/2open_straight_02.arm	9	21	5	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/2x2/6open_corner_01.arm	5	13	6	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/1x2/5open_side_01.arm	29	17	2	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/2x2/8open_03.arm	21	13	2	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/1x2/3open_side_01.arm	29	13	1	node	
+0	Metadata/Terrain/Act7/Area4/Rooms/2x2/6open_corner_01.arm	13	17	2	node	
+0	Metadata/Terrain/Church/Rooms/1x2/low_5b.arm	37	57	3	node	
+0	Metadata/Terrain/Church/Rooms/1x2/type_1b.arm	29	57	7	node	
+0	Metadata/Terrain/Church/Rooms/1x1/corner_2a.arm	45	53	4	node	
+0	Metadata/Terrain/Church/Rooms/1x2/open_3b.arm	33	49	6	node	
+0	Metadata/Terrain/Church/Rooms/3x3/abyss_low_1a.arm	37	45	2	node	
+0	Metadata/Terrain/Church/Rooms/1x2/type_1b.arm	29	45	5	node	
+0	Metadata/Terrain/Church/Rooms/1x1/open_1a.arm	37	41	5	node	
+0	Metadata/Terrain/Church/Rooms/1x2/type_1a.arm	29	41	1	node	
+0	Metadata/Terrain/Church/Rooms/1x1/corner_2a.arm	29	37	1	node	

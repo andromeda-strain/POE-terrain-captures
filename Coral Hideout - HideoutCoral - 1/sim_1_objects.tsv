@@ -1,0 +1,10 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	370	382	1.5708	-121.000	15	beach_sidearea_cave_v01.tdt	0	1	18035	%areaname%
+Metadata/MiscellaneousObjects/Waypoint	516	515	1.5708	0.000	0	hideout_coral.arm	0			
+Metadata/Terrain/Missions/Hideouts/Objects/StrDexIntMappingDevice	275	551	2.5307	0.000	0	hideout_coral.arm	0			
+Metadata/MiscellaneousObjects/Stash	548	524	4.4917	0.000	0	hideout_coral.arm	0			
+Metadata/MiscellaneousObjects/GuildStash	549	536	4.6211	0.000	0	hideout_coral.arm	0			
+Metadata/Terrain/Missions/Hideouts/Objects/HideoutCraftingBench	555	483	5.9720	0.000	0	hideout_coral.arm	0			
+Metadata/MiscellaneousObjects/Expedition/ExpeditionStash_Hideout	508	581	0.1222	0.000	0	hideout_coral.arm	0			
+Metadata/MiscellaneousObjects/Heist/HeistStash_Hideout	480	572	0.6283	0.000	0	hideout_coral.arm	0			
+Metadata/MiscellaneousObjects/Harvest/CraftingSilo_Hideout	533	458	1.1519	0.000	0	hideout_coral.arm	0			

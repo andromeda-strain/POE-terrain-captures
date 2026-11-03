@@ -1,0 +1,6 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	749	1481	4.7124	-30.000	4	lake_entrance_v01_01.tdt	0	0	46654	1_4_town
+Metadata/NPC/Info/VollBookStand	750	263	4.3768	0.000	0	boss_2.arm	0			
+Metadata/MiscellaneousObjects/CraftRecipeUnlockMarker	637	203	2.5032	0.000	0	boss_2.arm	1			
+Metadata/Terrain/Leagues/Legion/Objects/DriedLake_EncounterLocator	879	477	4.7124	0.000	0	nightwane_boss.arm	1			
+Metadata/Shrines/Shrine	797	614	0.6665	0.000	0	shrine_1_1.arm	0			

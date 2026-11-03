@@ -1,0 +1,11 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	394	415	0.0000	-129.691	17	warehouse_to_blind_alley_v01_01.tdt	0	0	36496	2_8_8
+Metadata/MiscellaneousObjects/Waypoint	632	471	1.5708	-15.108	2	citywaypoint_v02_01.tdt	0			
+Metadata/QuestObjects/Sewers/SewersLockedTransition	448	1207	1.5708	10.293	-1	slum_sewer_entrance_warehouse.tdt	0	0	37269	2_8_14
+Metadata/QuestObjects/Sewers/SewersLockedDoor	447	1207	1.5708	-9.995	1	slum_sewer_entrance_warehouse.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	448	1207	1.5708	10.293	-1	slum_sewer_entrance_warehouse.tdt	0			
+Metadata/QuestObjects/Sewers/SewersHiddenDoor_Warehouse	447	1207	1.5708	-9.995	1	slum_sewer_entrance_warehouse.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1407	1770	3.1416	-123.600	16	act8_grain_gate_transition_v01_01.tdt	0	0	34965	2_8_10
+Metadata/NPC/Info/MalachaiScrollGrainGate	1106	1117	5.4156	-10.870	1	boss_legion.arm	0			
+Metadata/Terrain/Act8/Area9/Objects/BossController	1089	1101	4.7124	0.000	0	boss_legion.arm	1			
+Metadata/Chests/StrongBoxes/ChemistGrainGate	344	2133	1.1786	0.000	0	chemist_warehouse_1.arm	0			

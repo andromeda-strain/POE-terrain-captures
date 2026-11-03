@@ -1,0 +1,944 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	898	1282	5.323 rad	2448909918	1_2_14_2					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	895	1279	4.197 rad	1792897079	1_2_14_2					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	899	1278	0.098 rad	1570723376	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/AreaTransition	915	1305	0.000 rad	726109394	1_2_14_2	7	-61.152	0	47696	The Northern Forest
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	737	1278	0.000 rad	1450012487	1_2_14_2					
+Monster: Slimy Nemesis [Metadata/Monsters/Spawn/SpawnPhaseRun@22]	212	1059	1.816 rad	4123509712	1_2_14_2					
+Metadata/Chests/Pot2v1	208	1089	1.390 rad	252085906	1_2_14_2					
+Metadata/Chests/Pot3	213	1092	6.202 rad	2356047353	1_2_14_2					
+Metadata/Chests/Pot2v1	208	1086	5.656 rad	252085906	1_2_14_2					
+Metadata/Chests/Pot3	207	1083	4.344 rad	2356047353	1_2_14_2					
+Monster: Devourer [Metadata/Monsters/RootSpiders/RootSpiderHidden@22]	216	1204	4.688 rad	4233290901	1_2_14_2					
+Monster: Armour Cruncher [Metadata/Monsters/Beasts/BeastVulnerabilityCurse@22]	216	1261	6.210 rad	2707429732	1_2_14_2					
+Metadata/Chests/Boulder2	229	1285	3.142 rad	1758529206	1_2_14_2					
+Monster: Armour Cruncher [Metadata/Monsters/Beasts/BeastVulnerabilityCurse@22]	213	1270	4.491 rad	2707429732	1_2_14_2					
+Monster: Armour Cruncher [Metadata/Monsters/Beasts/BeastVulnerabilityCurse@22]	191	1048	0.785 rad	2707429732	1_2_14_2					
+Monster: Slimy Nemesis [Metadata/Monsters/Spawn/SpawnPhaseRun@22]	184	1054	0.736 rad	4123509712	1_2_14_2					
+Monster: Slimy Nemesis [Metadata/Monsters/Spawn/SpawnPhaseRun@22]	204	1043	2.111 rad	4123509712	1_2_14_2					
+Monster: Slimy Nemesis [Metadata/Monsters/Spawn/SpawnPhaseRun@22]	203	1061	5.449 rad	4123509712	1_2_14_2					
+Metadata/Chests/Pot2v2	205	1086	3.752 rad	3943222399	1_2_14_2					
+Metadata/Chests/Pot3	203	1089	2.497 rad	2356047353	1_2_14_2					
+Metadata/Chests/Pot2v2	163	1036	1.624 rad	3943222399	1_2_14_2					
+Metadata/Chests/Pot4v2	166	1036	1.701 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot1	162	1039	3.225 rad	1878789778	1_2_14_2					
+Monster: Armour Cruncher [Metadata/Monsters/Beasts/BeastVulnerabilityCurse@22]	181	1037	2.921 rad	2707429732	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	182	1166	5.915 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	167	1157	3.780 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	166	1183	4.761 rad	1986714921	1_2_14_2					
+Monster: Devourer [Metadata/Monsters/RootSpiders/RootSpiderHidden@22]	181	1209	3.412 rad	4233290901	1_2_14_2					
+Metadata/Chests/Pot4v2	159	1037	4.756 rad	2954886560	1_2_14_2					
+Object: Metadata/Effects/Spells/monsters_effects/act2/root_spider/emerge/Hole	190	1202	0.742 rad	3968488542	1_2_14_2					
+Object: Metadata/Effects/Spells/monsters_effects/act2/root_spider/emerge/Hole	219	1267	4.712 rad	3968488542	1_2_14_2					
+Metadata/Chests/Pot1	161	1033	5.584 rad	1878789778	1_2_14_2					
+Metadata/Chests/Pot3	164	1033	2.297 rad	2356047353	1_2_14_2					
+Monster: Armour Cruncher [Metadata/Monsters/Beasts/BeastVulnerabilityCurse@22]	188	1027	2.381 rad	2707429732	1_2_14_2					
+Metadata/Chests/Pot1	202	976	3.254 rad	1878789778	1_2_14_2					
+Metadata/Chests/Pot4v1	199	973	2.632 rad	1060404135	1_2_14_2					
+Metadata/Chests/Pot3	205	976	2.838 rad	2356047353	1_2_14_2					
+Metadata/Chests/Pot2v2	203	973	0.027 rad	3943222399	1_2_14_2					
+Metadata/Chests/Pot2v2	199	976	5.545 rad	3943222399	1_2_14_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	199	1187	0.000 rad	1450012487	1_2_14_2					
+Metadata/Chests/Pot1	141	963	1.571 rad	1878789778	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	179	1158	2.538 rad	2429136184	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	187	1169	2.498 rad	2429136184	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	190	1202	4.743 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	190	1202	2.367 rad	3875590990	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	172	1184	6.009 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	172	1184	2.521 rad	2429136184	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	249	913	0.074 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	251	903	3.534 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	242	907	4.982 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	261	906	1.154 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	298	905	2.135 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	303	897	5.375 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	301	912	0.736 rad	1986714921	1_2_14_2					
+Metadata/Chests/Pot1	313	887	1.571 rad	1878789778	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	305	884	5.522 rad	1986714921	1_2_14_2					
+Monster: Armour Cruncher [Metadata/Monsters/Beasts/BeastVulnerabilityCurse@22]	412	886	3.755 rad	2707429732	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	380	863	0.687 rad	1986714921	1_2_14_2					
+Metadata/Chests/Pot2v1	394	856	1.571 rad	252085906	1_2_14_2					
+Monster: Armour Cruncher [Metadata/Monsters/Beasts/BeastVulnerabilityCurse@22]	424	895	0.785 rad	2707429732	1_2_14_2					
+Metadata/Chests/Boulder2	389	840	1.571 rad	1758529206	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	371	834	0.000 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	379	850	1.473 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	348	768	1.252 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	370	770	1.718 rad	1986714921	1_2_14_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	195	990	0.000 rad	1450012487	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	193	1053	0.464 rad	2429136184	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	198	1056	3.142 rad	1713641240	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	339	746	1.227 rad	4256133472	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	365	752	2.479 rad	1986714921	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	362	741	0.025 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	375	748	1.399 rad	4256133472	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	190	1039	5.026 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	190	1039	2.356 rad	2429136184	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	185	1026	0.596 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	185	1026	6.118 rad	2429136184	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	186	1015	0.000 rad	1713641240	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	192	1014	0.000 rad	1713641240	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	190	1007	0.000 rad	1713641240	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	455	872	3.338 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	451	887	4.860 rad	4256133472	1_2_14_2					
+Monster: Armour Cruncher [Metadata/Monsters/Beasts/BeastVulnerabilityCurse@22]	448	911	2.528 rad	2707429732	1_2_14_2					
+Monster: Armour Cruncher [Metadata/Monsters/Beasts/BeastVulnerabilityCurse@22]	443	918	1.865 rad	2707429732	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	459	914	5.326 rad	4256133472	1_2_14_2					
+Metadata/Chests/Chest23	406	712	3.142 rad	3442855071	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	400	711	2.724 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	398	694	5.130 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	417	695	2.577 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	432	703	3.043 rad	4256133472	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	233	917	2.071 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	233	917	3.797 rad	2429136184	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	240	922	2.519 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	240	922	3.900 rad	2429136184	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	243	907	2.034 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	243	907	5.978 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	243	907	3.850 rad	2429136184	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	255	915	0.793 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	255	915	2.636 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	255	915	3.927 rad	2429136184	1_2_14_2					
+Metadata/Chests/Pot2v1	465	734	0.055 rad	252085906	1_2_14_2					
+Metadata/Chests/Pot4v2	465	726	5.583 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot3	472	729	4.380 rad	2356047353	1_2_14_2					
+Metadata/Chests/Pot2v2	465	731	0.133 rad	3943222399	1_2_14_2					
+Metadata/Chests/Pot2v1	462	729	1.941 rad	252085906	1_2_14_2					
+Metadata/Chests/Pot3	468	731	5.806 rad	2356047353	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	463	850	3.485 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	475	859	1.718 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	465	868	1.522 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	482	894	2.381 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	469	890	0.123 rad	4256133472	1_2_14_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	246	926	0.000 rad	1450012487	1_2_14_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	244	934	0.000 rad	1450012487	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	295	897	4.712 rad	2429136184	1_2_14_2					
+Metadata/Chests/Pot3	484	717	3.142 rad	2356047353	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	485	888	2.553 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	503	918	5.449 rad	4256133472	1_2_14_2					
+Monster: Armour Cruncher [Metadata/Monsters/Beasts/BeastVulnerabilityCurse@22]	453	676	2.553 rad	2707429732	1_2_14_2					
+Monster: Armour Cruncher [Metadata/Monsters/Beasts/BeastVulnerabilityCurse@22]	437	688	4.786 rad	2707429732	1_2_14_2					
+Monster: Q'uru [Metadata/Monsters/DropBear/DropBearBoss2@22]	516	762	5.323 rad	2150100960	1_2_14_2					
+Metadata/Chests/Pot3	471	663	3.142 rad	2356047353	1_2_14_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	317	885	0.000 rad	1450012487	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	285	892	4.543 rad	2429136184	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	283	904	2.329 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	286	902	5.923 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	283	904	5.253 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	283	904	4.928 rad	2429136184	1_2_14_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	306	893	0.000 rad	1450012487	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	284	912	0.440 rad	2429136184	1_2_14_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	301	890	0.000 rad	1450012487	1_2_14_2					
+Metadata/Chests/Pot4v1	529	913	3.142 rad	1060404135	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	541	942	5.596 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	536	945	0.687 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	573	933	5.252 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	563	924	5.473 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	596	882	2.872 rad	4256133472	1_2_14_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	376	810	0.000 rad	1450012487	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	358	842	4.332 rad	2429136184	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	366	849	1.223 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	366	849	4.712 rad	2429136184	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	610	915	0.834 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	620	897	1.399 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	605	920	0.884 rad	4256133472	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	368	775	3.081 rad	2429136184	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	354	781	2.356 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	370	762	3.051 rad	2429136184	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	347	768	2.428 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	349	787	2.316 rad	2429136184	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	363	752	3.142 rad	3875590990	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	631	729	5.792 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	645	724	4.590 rad	4256133472	1_2_14_2					
+Monster: Devourer [Metadata/Monsters/RootSpiders/RootSpiderHidden@22]	666	905	2.724 rad	4233290901	1_2_14_2					
+Monster: Devourer [Metadata/Monsters/RootSpiders/RootSpiderHidden@22]	661	898	2.332 rad	4233290901	1_2_14_2					
+Metadata/Chests/Pot2v1	686	776	4.712 rad	252085906	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	397	718	3.423 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	393	712	3.249 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	416	726	4.025 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	398	709	3.355 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	432	687	3.142 rad	2429136184	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	439	702	4.622 rad	2429136184	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	707	757	2.749 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	693	776	2.994 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	695	764	1.694 rad	1986714921	1_2_14_2					
+Metadata/Chests/Boulder3	691	792	4.712 rad	3968314488	1_2_14_2					
+Metadata/Chests/Boulder3	712	846	4.712 rad	3968314488	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	709	853	2.479 rad	1986714921	1_2_14_2					
+Metadata/Chests/Chest8old	707	913	4.712 rad	2399007008	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	704	923	5.326 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	733	839	2.872 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	721	851	4.811 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	716	913	3.731 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	722	901	4.933 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	715	897	6.234 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	742	858	0.638 rad	1986714921	1_2_14_2					
+Metadata/Chests/Boulder3	767	745	4.712 rad	3968314488	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	776	901	1.669 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	793	893	4.050 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	802	892	6.160 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	806	883	5.743 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	541	942	5.596 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	573	933	5.252 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	563	924	5.473 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	605	920	0.884 rad	4256133472	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	704	923	5.326 rad	1986714921	1_2_14_2					
+Monster: Howler [Metadata/Monsters/MineBat/MineBat2@22]	849	480	5.277 rad	3477459809	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	829	525	5.817 rad	4256133472	1_2_14_2					
+Monster: Howler [Metadata/Monsters/MineBat/MineBat2@22]	847	510	2.332 rad	3477459809	1_2_14_2					
+Metadata/Chests/Pot2v1	836	549	1.571 rad	252085906	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	833	540	3.093 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	841	548	1.865 rad	4256133472	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	834	715	1.227 rad	1986714921	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	628	714	5.235 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	626	727	5.572 rad	3875590990	1_2_14_2					
+Monster: Howler [Metadata/Monsters/MineBat/MineBat2@22]	854	502	1.939 rad	3477459809	1_2_14_2					
+Monster: Howler [Metadata/Monsters/MineBat/MineBat2@22]	857	490	2.626 rad	3477459809	1_2_14_2					
+Metadata/Chests/Pot1	856	537	1.571 rad	1878789778	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	855	701	2.062 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	858	722	4.418 rad	1986714921	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	862	930	0.785 rad	4256133472	1_2_14_2					
+Monster: Slimy Nemesis [Metadata/Monsters/Spawn/SpawnPhaseRun@22]	883	643	4.320 rad	4123509712	1_2_14_2					
+Metadata/Chests/Pot3	878	656	4.712 rad	2356047353	1_2_14_2					
+Monster: Slimy Nemesis [Metadata/Monsters/Spawn/SpawnPhaseRun@22]	887	663	3.706 rad	4123509712	1_2_14_2					
+Monster: Slimy Nemesis [Metadata/Monsters/Spawn/SpawnPhaseRun@22]	889	644	4.491 rad	4123509712	1_2_14_2					
+Monster: Slimy Nemesis [Metadata/Monsters/Spawn/SpawnPhaseRun@22]	891	652	0.614 rad	4123509712	1_2_14_2					
+Monster: Slimy Nemesis [Metadata/Monsters/Spawn/SpawnPhaseRun@22]	893	688	2.135 rad	4123509712	1_2_14_2					
+Monster: Slimy Nemesis [Metadata/Monsters/Spawn/SpawnPhaseRun@22]	882	672	3.362 rad	4123509712	1_2_14_2					
+Metadata/Chests/Pot4v2	887	907	4.712 rad	2954886560	1_2_14_2					
+Metadata/Chests/Boulder1	878	902	4.712 rad	94048164	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	880	937	2.675 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	886	941	5.007 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	536	945	0.687 rad	4256133472	1_2_14_2					
+Metadata/Chests/Chest26	845	943	4.712 rad	634639336	1_2_14_2					
+Monster: Devourer [Metadata/Monsters/RootSpiders/RootSpiderHidden@22]	899	557	2.086 rad	4233290901	1_2_14_2					
+Monster: Slimy Nemesis [Metadata/Monsters/Spawn/SpawnPhaseRun@22]	897	658	5.301 rad	4123509712	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	940	489	1.522 rad	4256133472	1_2_14_2					
+Metadata/Chests/Boulder2	941	611	1.571 rad	1758529206	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	948	526	4.393 rad	4256133472	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	943	538	2.503 rad	4256133472	1_2_14_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	750	736	0.000 rad	1450012487	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	700	747	1.284 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	700	747	0.257 rad	2429136184	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	1004	923	1.399 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	1009	949	2.823 rad	1986714921	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	694	761	3.846 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	694	761	0.476 rad	2429136184	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	684	756	2.906 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	684	756	1.571 rad	2429136184	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	1030	928	3.878 rad	1986714921	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	1016	930	2.307 rad	1986714921	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	727	834	0.464 rad	2429136184	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	724	849	0.983 rad	2429136184	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	818	721	4.198 rad	2429136184	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	843	723	0.590 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	843	723	4.249 rad	2429136184	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	1075	965	0.466 rad	4256133472	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	846	708	3.906 rad	2429136184	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	1095	937	2.970 rad	1986714921	1_2_14_2					
+Metadata/Chests/Chest24	1084	944	4.712 rad	1862144322	1_2_14_2					
+Monster: Shaggy Monstrosity [Metadata/Monsters/Beasts/BeastCaveDegenAura@22]	1081	953	3.804 rad	1986714921	1_2_14_2					
+Monster: Phantom Occultist [Metadata/Monsters/GhostPirates/GhostPirateGreenWand@22]	1099	950	0.466 rad	4256133472	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	872	675	3.927 rad	1713641240	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	876	678	3.944 rad	1713641240	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	879	671	3.927 rad	1713641240	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	885	672	3.747 rad	1713641240	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	886	659	3.578 rad	1713641240	1_2_14_2					
+Metadata/Chests/Pot2v2	1118	957	4.712 rad	3943222399	1_2_14_2					
+Monster: Howler [Metadata/Monsters/MineBat/MineBat2@22]	849	480	5.277 rad	3477459809	1_2_14_2					
+Monster: Slimy Nemesis [Metadata/Monsters/Spawn/SpawnPhaseRun@22]	911	478	5.203 rad	4123509712	1_2_14_2					
+Monster: Slimy Nemesis [Metadata/Monsters/Spawn/SpawnPhaseRun@22]	914	462	0.540 rad	4123509712	1_2_14_2					
+Monster: Slimy Nemesis [Metadata/Monsters/Spawn/SpawnPhaseRun@22]	903	465	2.283 rad	4123509712	1_2_14_2					
+Monster: Slimy Nemesis [Metadata/Monsters/Spawn/SpawnPhaseRun@22]	902	455	0.466 rad	4123509712	1_2_14_2					
+Monster: Slimy Nemesis [Metadata/Monsters/Spawn/SpawnPhaseRun@22]	917	458	4.001 rad	4123509712	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	875	660	4.276 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	875	660	3.189 rad	1713641240	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	877	662	1.745 rad	1713641240	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	700	747	1.284 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	694	761	3.846 rad	1418889786	1_2_14_2					
+Metadata/Chests/Boulder3	691	792	4.712 rad	3968314488	1_2_14_2					
+Metadata/Chests/Boulder3	712	846	4.712 rad	3968314488	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	684	756	2.906 rad	1418889786	1_2_14_2					
+Metadata/Chests/Pot2v1	686	776	4.712 rad	252085906	1_2_14_2					
+Object: Metadata/Effects/Spells/monsters_effects/act2/root_spider/emerge/Hole	914	609	3.774 rad	3968488542	1_2_14_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	902	598	0.000 rad	1450012487	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	914	609	3.803 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	936	535	3.808 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	868	570	2.336 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	920	546	3.677 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	856	544	1.326 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	931	504	3.708 rad	3875590990	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1115	268	3.142 rad	1259749696	1_2_14_2	0	-0.000			
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	888	457	0.000 rad	1450012487	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	903	477	5.387 rad	1713641240	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	906	473	4.712 rad	1713641240	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	904	470	4.249 rad	1713641240	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	921	465	4.410 rad	1713641240	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1110	216	2.001 rad	1259749696	1_2_14_2	-16	125.000			
+Object: Metadata/Effects/Spells/shatter/Shatter	862	475	1.755 rad	2647986052	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	859	480	0.154 rad	1418889786	1_2_14_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	859	480	1.478 rad	2647986052	1_2_14_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	861	486	0.785 rad	2647986052	1_2_14_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	860	491	1.220 rad	2647986052	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	899	476	6.242 rad	1713641240	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Waypoint	1207	195	0.000 rad	552129418	1_2_14_2	-13	105.187			
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	1257	229	4.712 rad	3007162884	1_2_14_2	24	-190.191			
+Object: Metadata/QuestObjects/Inca/ApexDoor	1253	241	4.712 rad	1531843138	1_2_14_2	0	0.000			
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	1249	252	4.712 rad	3007162884	1_2_14_2	24	-190.191			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1256	423	1.571 rad	3094797593	1_2_14_2	22	-173.954			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1247	566	0.000 rad	3094797593	1_2_14_2	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1247	555	0.000 rad	3094797593	1_2_14_2	13	-104.234			
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1039	309	0.000 rad	1450012487	1_2_14_2					
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1294	455	1.178 rad	3034543282	1_2_14_2					
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1292	462	5.621 rad	3034543282	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1329	402	1.620 rad	2279200309	1_2_14_2					
+Metadata/Chests/Pot4v2	1313	459	3.142 rad	2954886560	1_2_14_2					
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1313	444	1.963 rad	3034543282	1_2_14_2					
+Metadata/Chests/Basket1old	1313	503	4.380 rad	2211595643	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1115	268	3.142 rad	1208694913	1_2_14_2					
+Monster: Frost Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeColdVaal@22]	1351	270	4.565 rad	2046012917	1_2_14_2					
+Monster: Frost Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeColdVaal@22]	1337	289	0.491 rad	2046012917	1_2_14_2					
+Monster: Frost Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeColdVaal@22]	1336	298	5.007 rad	2046012917	1_2_14_2					
+Monster: Frost Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeColdVaal@22]	1353	302	2.307 rad	2046012917	1_2_14_2					
+Monster: Frost Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeColdVaal@22]	1339	315	3.927 rad	2046012917	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1345	379	0.000 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1356	375	0.000 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1334	383	0.000 rad	1130306758	1_2_14_2	24	-189.671			
+Monster: Sin Lord [Metadata/Monsters/Necromancer/NecromancerConductivityVaal@22]	1345	405	4.320 rad	1532461566	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1336	397	1.055 rad	2279200309	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1338	402	2.258 rad	2279200309	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1110	216	2.001 rad	1208694913	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1365	229	1.571 rad	1259749696	1_2_14_2					
+Metadata/Chests/Chest7old	1397	157	1.571 rad	3339052811	1_2_14_2					
+Metadata/Chests/Pot2v2	1397	141	1.571 rad	3943222399	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1396	188	1.571 rad	1259749696	1_2_14_2					
+Monster: Flame Archmage [Metadata/Monsters/Skeletons/SkeletonCasterFire2Vaal_@22]	1392	311	4.590 rad	1307826006	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1418	181	0.785 rad	3071393032	1_2_14_2					
+Monster: Flame Archmage [Metadata/Monsters/Skeletons/SkeletonCasterFire2Vaal_@22]	1404	297	0.393 rad	1307826006	1_2_14_2					
+Monster: Flame Archmage [Metadata/Monsters/Skeletons/SkeletonCasterFire2Vaal_@22]	1412	313	4.222 rad	1307826006	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1426	182	0.884 rad	3071393032	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1444	177	3.191 rad	3071393032	1_2_14_2					
+Monster: Flame Archmage [Metadata/Monsters/Skeletons/SkeletonCasterFire2Vaal_@22]	1447	221	2.160 rad	1307826006	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1437	218	1.571 rad	1259749696	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1471	134	1.571 rad	1259749696	1_2_14_2					
+Metadata/Chests/Pot4v1	1455	218	1.571 rad	1060404135	1_2_14_2					
+Metadata/Chests/Chest26	1469	233	1.571 rad	634639336	1_2_14_2					
+Monster: Flame Archmage [Metadata/Monsters/Skeletons/SkeletonCasterFire2Vaal_@22]	1459	239	4.295 rad	1307826006	1_2_14_2					
+Metadata/Chests/Pot1	1475	157	1.571 rad	1878789778	1_2_14_2					
+Monster: Flame Archmage [Metadata/Monsters/Skeletons/SkeletonCasterFire2Vaal_@22]	1479	229	2.479 rad	1307826006	1_2_14_2					
+Monster: Flame Archmage [Metadata/Monsters/Skeletons/SkeletonCasterFire2Vaal_@22]	1491	247	4.418 rad	1307826006	1_2_14_2					
+Monster: Flame Archmage [Metadata/Monsters/Skeletons/SkeletonCasterFire2Vaal_@22]	1488	231	3.362 rad	1307826006	1_2_14_2					
+Metadata/Chests/BonePile1	1488	269	1.571 rad	219800169	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1486	294	6.013 rad	2279200309	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1475	283	2.430 rad	2279200309	1_2_14_2					
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1492	419	1.374 rad	3034543282	1_2_14_2					
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1294	455	1.178 rad	3034543282	1_2_14_2					
+Metadata/Chests/Pot4v2	1313	459	3.142 rad	2954886560	1_2_14_2					
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1313	444	1.963 rad	3034543282	1_2_14_2					
+Metadata/Chests/Pot1	1475	157	1.571 rad	1878789778	1_2_14_2					
+Monster: Flame Archmage [Metadata/Monsters/Skeletons/SkeletonCasterFire2Vaal_@22]	1479	229	2.479 rad	1307826006	1_2_14_2					
+Monster: Flame Archmage [Metadata/Monsters/Skeletons/SkeletonCasterFire2Vaal_@22]	1491	247	4.418 rad	1307826006	1_2_14_2					
+Monster: Flame Archmage [Metadata/Monsters/Skeletons/SkeletonCasterFire2Vaal_@22]	1488	231	3.362 rad	1307826006	1_2_14_2					
+Metadata/Chests/BonePile1	1488	269	1.571 rad	219800169	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1486	294	6.013 rad	2279200309	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1475	283	2.430 rad	2279200309	1_2_14_2					
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1492	419	1.374 rad	3034543282	1_2_14_2					
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1292	462	5.621 rad	3034543282	1_2_14_2					
+Metadata/Chests/Pot4v2	1489	481	1.039 rad	2954886560	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1495	266	4.148 rad	2279200309	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1499	271	1.571 rad	1259749696	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1516	412	1.571 rad	1259749696	1_2_14_2					
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1495	426	3.043 rad	3034543282	1_2_14_2					
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1503	423	2.160 rad	3034543282	1_2_14_2					
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1502	437	5.154 rad	3034543282	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1523	242	1.694 rad	3071393032	1_2_14_2					
+Monster: Ash Prophet [Metadata/Monsters/Necromancer/NecromancerFlamabilityVaal@22]	1536	255	4.933 rad	3289930273	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1531	257	3.043 rad	3071393032	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1529	379	0.000 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1540	375	0.000 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1518	383	0.000 rad	1130306758	1_2_14_2	24	-189.671			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1547	193	1.571 rad	1259749696	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1561	252	4.811 rad	3071393032	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1549	236	1.644 rad	3071393032	1_2_14_2					
+Metadata/Chests/Pot1	1561	456	1.571 rad	1878789778	1_2_14_2					
+Metadata/Chests/Pot1	1581	112	3.682 rad	1878789778	1_2_14_2					
+Metadata/Chests/Pot4v1	1581	109	5.753 rad	1060404135	1_2_14_2					
+Metadata/Chests/Pot2v1	1584	109	2.294 rad	252085906	1_2_14_2					
+Metadata/Chests/Pot4v2	1584	112	1.242 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot4v2	1581	115	2.501 rad	2954886560	1_2_14_2					
+Metadata/Chests/Barrel2old	1582	173	2.927 rad	3707287636	1_2_14_2					
+Metadata/Chests/Barrel3old	1582	181	0.034 rad	3865749632	1_2_14_2					
+Metadata/Chests/Barrel5old	1582	186	0.014 rad	2116127741	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1365	229	1.571 rad	1208694913	1_2_14_2					
+Metadata/Chests/Basket1old	1568	295	1.011 rad	2211595643	1_2_14_2					
+Metadata/Chests/Basket1old	1584	280	3.204 rad	2211595643	1_2_14_2					
+Metadata/Chests/Basket3old	1567	300	1.974 rad	3468315289	1_2_14_2					
+Metadata/Chests/Basket1old	1313	503	4.380 rad	2211595643	1_2_14_2					
+Metadata/Chests/Pot4v1	1494	486	1.446 rad	1060404135	1_2_14_2					
+Metadata/Chests/Pot4v1	1489	484	6.079 rad	1060404135	1_2_14_2					
+Metadata/Chests/Pot4v1	1492	483	3.911 rad	1060404135	1_2_14_2					
+Metadata/Chests/Pot4v2	1587	109	3.462 rad	2954886560	1_2_14_2					
+Metadata/Chests/Barrel5old	1587	182	4.506 rad	2116127741	1_2_14_2					
+Metadata/Chests/Pot2v2	1605	199	3.142 rad	3943222399	1_2_14_2					
+Metadata/Chests/Barrel4old	1590	189	4.189 rad	2804926028	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1336	268	0.283 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1336	268	0.197 rad	3875590990	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1343	266	4.971 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1343	266	1.107 rad	3875590990	1_2_14_2					
+Metadata/Chests/Pot4v1	1604	460	1.445 rad	1060404135	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1347	276	2.415 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1347	276	0.278 rad	3875590990	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1336	287	5.045 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1336	287	0.381 rad	3875590990	1_2_14_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1364	287	0.000 rad	1450012487	1_2_14_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1359	287	0.000 rad	1450012487	1_2_14_2					
+Metadata/Chests/Basket3old	1315	508	0.694 rad	3468315289	1_2_14_2					
+Metadata/Chests/Basket2old	1320	508	3.311 rad	866946829	1_2_14_2					
+Metadata/Chests/Basket2old	1325	506	4.192 rad	866946829	1_2_14_2					
+Metadata/Chests/Basket2old	1365	525	1.386 rad	866946829	1_2_14_2					
+Metadata/Chests/Basket3old	1363	520	2.355 rad	3468315289	1_2_14_2					
+Metadata/Chests/Pot2v2	1512	524	3.923 rad	3943222399	1_2_14_2					
+Metadata/Chests/Pot4v2	1512	527	3.197 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot2v1	1515	523	0.798 rad	252085906	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1558	514	3.142 rad	3094797593	1_2_14_2	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1558	525	3.142 rad	3094797593	1_2_14_2	13	-104.234			
+Metadata/Effects/Spells/shatter/ShatterLarge	1393	314	5.616 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1400	317	5.407 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1401	309	5.450 rad	3875590990	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1331	297	2.833 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1331	297	1.081 rad	3875590990	1_2_14_2					
+Metadata/Chests/Basket1old	1361	530	1.227 rad	2211595643	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1374	537	3.142 rad	3094797593	1_2_14_2	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1374	548	3.142 rad	3094797593	1_2_14_2	13	-104.234			
+Metadata/Chests/Pot1	1512	530	2.447 rad	1878789778	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1608	530	1.571 rad	1259749696	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1247	566	0.000 rad	3094797593	1_2_14_2	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1247	555	0.000 rad	3094797593	1_2_14_2	13	-104.234			
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1309	572	1.620 rad	3034543282	1_2_14_2					
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1326	561	2.724 rad	3034543282	1_2_14_2					
+Metadata/Chests/Chest18	1628	124	3.142 rad	2444280933	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1627	153	4.123 rad	482753086	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1621	471	0.000 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1610	467	0.000 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1632	475	0.000 rad	1130306758	1_2_14_2	24	-189.671			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1247	566	0.000 rad	3094797593	1_2_14_2	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1247	555	0.000 rad	3094797593	1_2_14_2	13	-104.234			
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1309	572	1.620 rad	3034543282	1_2_14_2					
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1326	561	2.724 rad	3034543282	1_2_14_2					
+Metadata/Chests/Pot2v2	1330	597	4.918 rad	3943222399	1_2_14_2					
+Metadata/Chests/Pot4v1	1330	591	5.178 rad	1060404135	1_2_14_2					
+Metadata/Chests/Pot1	1330	594	3.220 rad	1878789778	1_2_14_2					
+Metadata/Chests/Pot2v1	1333	594	2.034 rad	252085906	1_2_14_2					
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1335	583	3.412 rad	3034543282	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1529	594	5.645 rad	2279200309	1_2_14_2					
+Metadata/Chests/Pot2v2	1598	581	6.283 rad	3943222399	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1110	216	2.001 rad	1208694913	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1110	216	2.001 rad	1259749696	1_2_14_2	-16	125.000			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1115	268	3.142 rad	1208694913	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1115	268	3.142 rad	1259749696	1_2_14_2	0	-0.000			
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1344	610	5.890 rad	3034543282	1_2_14_2					
+Metadata/Chests/Barrel1old	1513	616	3.143 rad	1528648667	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1500	612	0.000 rad	3094797593	1_2_14_2	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1500	601	0.000 rad	3094797593	1_2_14_2	13	-104.234			
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1525	607	2.626 rad	2279200309	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1537	607	0.810 rad	2279200309	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1532	600	6.111 rad	2279200309	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1543	620	0.761 rad	2279200309	1_2_14_2					
+Metadata/Chests/Pot2v1	1489	641	1.718 rad	252085906	1_2_14_2					
+Metadata/Chests/Pot3	1492	643	2.740 rad	2356047353	1_2_14_2					
+Metadata/Chests/Pot2v2	1497	639	2.222 rad	3943222399	1_2_14_2					
+Metadata/Chests/Pot4v2	1495	643	3.391 rad	2954886560	1_2_14_2					
+Metadata/Chests/Barrel3old	1515	632	5.203 rad	3865749632	1_2_14_2					
+Metadata/Chests/Barrel3old	1512	624	0.234 rad	3865749632	1_2_14_2					
+Metadata/Chests/Barrel4old	1510	634	4.211 rad	2804926028	1_2_14_2					
+Metadata/Chests/Barrel5old	1515	637	2.678 rad	2116127741	1_2_14_2					
+Metadata/Chests/Barrel3old	1517	621	1.853 rad	3865749632	1_2_14_2					
+Monster: Sin Lord [Metadata/Monsters/Necromancer/NecromancerConductivityVaal@22]	1537	628	2.602 rad	1532461566	1_2_14_2					
+Metadata/Chests/Barrel3old	1563	639	0.975 rad	3865749632	1_2_14_2					
+Metadata/Chests/Barrel3old	1557	640	3.585 rad	3865749632	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1343	399	0.251 rad	3875590990	1_2_14_2					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/FragmentMultipleProjectile@22]	1584	643	4.491 rad	397834816	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1331	405	0.555 rad	3875590990	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1346	409	3.398 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1346	409	3.834 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1351	405	3.730 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1346	409	3.576 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1346	409	3.568 rad	3875590990	1_2_14_2					
+Monster: Daemon [Metadata/Monsters/Daemon/Archnemesis/VolatileSpawnerDaemon_@22]	1346	409	4.050 rad	3813171489	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1336	410	0.000 rad	3875590990	1_2_14_2					
+Metadata/Chests/Pot3	1397	661	5.725 rad	2356047353	1_2_14_2					
+Metadata/Chests/Pot3	1397	664	5.450 rad	2356047353	1_2_14_2					
+Metadata/Chests/Pot2v1	1400	661	4.593 rad	252085906	1_2_14_2					
+Metadata/Chests/Pot1	1400	664	1.639 rad	1878789778	1_2_14_2					
+Metadata/Chests/Pot4v2	1403	661	6.155 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot2v1	1489	644	2.054 rad	252085906	1_2_14_2					
+Metadata/Chests/Pot4v1	1493	647	6.062 rad	1060404135	1_2_14_2					
+Metadata/Chests/Barrel5old	1562	644	2.834 rad	2116127741	1_2_14_2					
+Metadata/Chests/Barrel4old	1557	645	4.363 rad	2804926028	1_2_14_2					
+Metadata/Chests/Barrel3old	1433	686	2.188 rad	3865749632	1_2_14_2					
+Metadata/Chests/Barrel5old	1442	676	4.123 rad	2116127741	1_2_14_2					
+Metadata/Chests/Barrel2old	1436	680	0.723 rad	3707287636	1_2_14_2					
+Metadata/Chests/Barrel3old	1431	675	2.450 rad	3865749632	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1428	689	4.712 rad	482753086	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1440	685	1.276 rad	482753086	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	1483	682	4.712 rad	3007162884	1_2_14_2	16	-129.078			
+Monster: Frost Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeColdVaal@22]	1503	686	6.062 rad	2046012917	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1571	678	1.571 rad	1130306758	1_2_14_2	24	-190.485			
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1438	704	4.025 rad	482753086	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1426	701	0.000 rad	1259749696	1_2_14_2					
+Monster: Death Bishop [Metadata/Monsters/Necromancer/NecromancerFrostbiteVaal_@22]	1515	705	4.737 rad	3978973111	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1538	701	0.000 rad	1259749696	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1575	690	1.571 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1578	701	1.571 rad	1130306758	1_2_14_2	24	-190.514			
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	1483	720	1.571 rad	3007162884	1_2_14_2	16	-129.078			
+Monster: Frost Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeColdVaal@22]	1518	714	5.547 rad	2046012917	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1303	461	1.368 rad	3875590990	1_2_14_2					
+Metadata/Chests/Chest23	1280	756	3.604 rad	3442855071	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1424	757	6.234 rad	3071393032	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1437	747	3.142 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1426	751	3.142 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1448	743	3.142 rad	1130306758	1_2_14_2	24	-189.671			
+Metadata/Effects/Spells/shatter/ShatterLarge	1298	448	2.614 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1295	455	2.413 rad	3875590990	1_2_14_2					
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockVaal	1325	770	4.826 rad	641081139	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1427	773	5.424 rad	3071393032	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1430	767	0.491 rad	3071393032	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1453	764	1.374 rad	3071393032	1_2_14_2					
+Metadata/Chests/Pot1	1514	777	3.142 rad	1878789778	1_2_14_2					
+Object: Metadata/QuestObjects/BossArenaEntranceTransition	1264	797	4.712 rad	2152424139	1_2_14_2	11	-93.695	1	50	
+Monster: Sin Lord [Metadata/Monsters/Necromancer/NecromancerConductivityVaal@22]	1535	799	0.442 rad	1532461566	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1309	570	5.898 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1332	571	5.471 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1336	580	0.000 rad	3875590990	1_2_14_2					
+Metadata/Chests/Pot2v1	1454	806	1.571 rad	252085906	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1538	809	5.031 rad	482753086	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1532	805	0.785 rad	482753086	1_2_14_2					
+Metadata/Chests/Pot1	1561	456	1.571 rad	1878789778	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1558	514	3.142 rad	3094797593	1_2_14_2	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1558	525	3.142 rad	3094797593	1_2_14_2	13	-104.234			
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1543	620	0.761 rad	2279200309	1_2_14_2					
+Metadata/Chests/Barrel3old	1563	639	0.975 rad	3865749632	1_2_14_2					
+Metadata/Chests/Barrel3old	1557	640	3.585 rad	3865749632	1_2_14_2					
+Metadata/Chests/Barrel5old	1562	644	2.834 rad	2116127741	1_2_14_2					
+Metadata/Chests/Barrel4old	1557	645	4.363 rad	2804926028	1_2_14_2					
+Metadata/Chests/Chest24	1561	808	3.142 rad	1862144322	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1543	808	5.498 rad	482753086	1_2_14_2					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/FragmentMultipleProjectile@22]	1584	643	4.491 rad	397834816	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1571	678	1.571 rad	1130306758	1_2_14_2	24	-190.485			
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1575	690	1.571 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1578	701	1.571 rad	1130306758	1_2_14_2	24	-190.514			
+Metadata/Chests/Chest18	1565	737	0.000 rad	2444280933	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1575	793	4.712 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1571	782	4.712 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1579	804	4.712 rad	1130306758	1_2_14_2	24	-189.671			
+Metadata/Chests/Pot2v1	1454	806	1.571 rad	252085906	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1538	809	5.031 rad	482753086	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1532	805	0.785 rad	482753086	1_2_14_2					
+Metadata/Chests/Chest24	1561	808	3.142 rad	1862144322	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1543	808	5.498 rad	482753086	1_2_14_2					
+Metadata/Chests/Barrel4old	1582	825	0.759 rad	2804926028	1_2_14_2					
+Metadata/Chests/Barrel3old	1582	832	4.502 rad	3865749632	1_2_14_2					
+Metadata/Chests/Pot4v1	1604	460	1.445 rad	1060404135	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1608	530	1.571 rad	1259749696	1_2_14_2					
+Metadata/Chests/Pot2v2	1598	581	6.283 rad	3943222399	1_2_14_2					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/FragmentMultipleProjectile@22]	1600	628	3.043 rad	397834816	1_2_14_2					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/FragmentMultipleProjectile@22]	1597	641	2.675 rad	397834816	1_2_14_2					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/FragmentMultipleProjectile@22]	1590	635	0.221 rad	397834816	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1604	809	1.571 rad	1259749696	1_2_14_2					
+Metadata/Chests/Barrel3old	1587	830	2.607 rad	3865749632	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1344	610	5.977 rad	3875590990	1_2_14_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1344	648	0.000 rad	1450012487	1_2_14_2					
+Metadata/Chests/Pot4v1	1604	460	1.445 rad	1060404135	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1608	530	1.571 rad	1259749696	1_2_14_2					
+Metadata/Chests/Pot2v2	1598	581	6.283 rad	3943222399	1_2_14_2					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/FragmentMultipleProjectile@22]	1600	628	3.043 rad	397834816	1_2_14_2					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/FragmentMultipleProjectile@22]	1597	641	2.675 rad	397834816	1_2_14_2					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/FragmentMultipleProjectile@22]	1590	635	0.221 rad	397834816	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1604	809	1.571 rad	1259749696	1_2_14_2					
+Metadata/Chests/Barrel3old	1587	830	2.607 rad	3865749632	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1346	409	3.398 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1346	409	3.834 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1346	409	3.576 rad	1418889786	1_2_14_2					
+Monster: Daemon [Metadata/Monsters/Daemon/Archnemesis/VolatileSpawnerDaemon_@22]	1346	409	4.050 rad	3813171489	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1516	412	1.571 rad	1259749696	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1345	379	0.000 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1356	375	0.000 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1334	383	0.000 rad	1130306758	1_2_14_2	24	-189.671			
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1529	379	0.000 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1540	375	0.000 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1518	383	0.000 rad	1130306758	1_2_14_2	24	-189.671			
+Metadata/Chests/Basket3old	1567	300	1.974 rad	3468315289	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1331	297	2.833 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1347	276	2.415 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1336	287	5.045 rad	1418889786	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1486	294	6.013 rad	2279200309	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1475	279	4.391 rad	2279200309	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1487	279	4.004 rad	2279200309	1_2_14_2					
+Metadata/Chests/Basket1old	1568	295	1.011 rad	2211595643	1_2_14_2					
+Metadata/Chests/Basket1old	1584	280	3.204 rad	2211595643	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1115	268	3.142 rad	1208694913	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1115	268	3.142 rad	1259749696	1_2_14_2	0	-0.000			
+Object: Metadata/MiscellaneousObjects/WorldItem	1336	268	0.283 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1343	266	4.971 rad	1418889786	1_2_14_2					
+Metadata/Chests/BonePile1	1488	269	1.571 rad	219800169	1_2_14_2					
+Monster: Flame Archmage [Metadata/Monsters/Skeletons/SkeletonCasterFire2Vaal_@22]	1472	263	2.386 rad	1307826006	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1499	271	1.571 rad	1259749696	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1541	259	6.224 rad	3071393032	1_2_14_2					
+Object: Metadata/QuestObjects/Inca/ApexDoor	1253	241	4.712 rad	1531843138	1_2_14_2	0	0.000			
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	1249	252	4.712 rad	3007162884	1_2_14_2	24	-190.191			
+Metadata/Chests/Chest26	1469	233	1.571 rad	634639336	1_2_14_2					
+Monster: Flame Archmage [Metadata/Monsters/Skeletons/SkeletonCasterFire2Vaal_@22]	1479	230	4.249 rad	1307826006	1_2_14_2					
+Monster: Flame Archmage [Metadata/Monsters/Skeletons/SkeletonCasterFire2Vaal_@22]	1486	238	2.356 rad	1307826006	1_2_14_2					
+Monster: Flame Archmage [Metadata/Monsters/Skeletons/SkeletonCasterFire2Vaal_@22]	1474	251	5.279 rad	1307826006	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1539	238	2.034 rad	3071393032	1_2_14_2					
+Monster: Ash Prophet [Metadata/Monsters/Necromancer/NecromancerFlamabilityVaal@22]	1534	250	5.924 rad	3289930273	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1561	252	4.811 rad	3071393032	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1549	236	1.644 rad	3071393032	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1110	216	2.001 rad	1208694913	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1110	216	2.001 rad	1259749696	1_2_14_2	-16	125.000			
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	1257	229	4.712 rad	3007162884	1_2_14_2	24	-190.191			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1365	229	1.571 rad	1208694913	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1365	229	1.571 rad	1259749696	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1437	218	1.571 rad	1259749696	1_2_14_2					
+Metadata/Chests/Pot4v1	1455	218	1.571 rad	1060404135	1_2_14_2					
+Monster: Flame Archmage [Metadata/Monsters/Skeletons/SkeletonCasterFire2Vaal_@22]	1486	227	5.820 rad	1307826006	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Waypoint	1207	195	0.000 rad	552129418	1_2_14_2	-13	105.187			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1396	188	1.571 rad	1259749696	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1547	193	1.571 rad	1259749696	1_2_14_2					
+Metadata/Chests/Barrel5old	1582	186	0.014 rad	2116127741	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1444	162	1.966 rad	3071393032	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1430	171	0.464 rad	3071393032	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1454	179	1.360 rad	3071393032	1_2_14_2					
+Metadata/Chests/Barrel2old	1582	173	2.927 rad	3707287636	1_2_14_2					
+Metadata/Chests/Barrel3old	1582	181	0.034 rad	3865749632	1_2_14_2					
+Metadata/Chests/Barrel5old	1582	186	0.014 rad	2116127741	1_2_14_2					
+Metadata/Chests/Basket1old	1568	295	1.011 rad	2211595643	1_2_14_2					
+Metadata/Chests/Basket1old	1584	280	3.204 rad	2211595643	1_2_14_2					
+Metadata/Chests/Basket3old	1567	300	1.974 rad	3468315289	1_2_14_2					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/FragmentMultipleProjectile@22]	1584	643	4.491 rad	397834816	1_2_14_2					
+Metadata/Chests/Chest7old	1397	157	1.571 rad	3339052811	1_2_14_2					
+Metadata/Chests/Pot2v2	1397	141	1.571 rad	3943222399	1_2_14_2					
+Metadata/Chests/Pot1	1475	157	1.571 rad	1878789778	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1471	134	1.571 rad	1259749696	1_2_14_2					
+Metadata/Chests/Pot4v2	1581	115	2.501 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot1	1581	112	3.682 rad	1878789778	1_2_14_2					
+Metadata/Chests/Pot4v1	1581	109	5.753 rad	1060404135	1_2_14_2					
+Metadata/Chests/Pot2v1	1584	109	2.294 rad	252085906	1_2_14_2					
+Metadata/Chests/Pot4v2	1584	112	1.242 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot4v2	1587	109	3.462 rad	2954886560	1_2_14_2					
+Metadata/Chests/Barrel5old	1587	182	4.506 rad	2116127741	1_2_14_2					
+Metadata/Chests/Pot2v2	1605	199	3.142 rad	3943222399	1_2_14_2					
+Metadata/Chests/Barrel4old	1590	189	4.189 rad	2804926028	1_2_14_2					
+Metadata/Chests/Pot4v1	1604	460	1.445 rad	1060404135	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1608	530	1.571 rad	1259749696	1_2_14_2					
+Metadata/Chests/Chest18	1628	124	3.142 rad	2444280933	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1627	153	4.123 rad	482753086	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1621	471	0.000 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1610	467	0.000 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1632	475	0.000 rad	1130306758	1_2_14_2	24	-189.671			
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1635	137	1.571 rad	482753086	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1640	150	4.639 rad	482753086	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	1646	457	1.571 rad	3007162884	1_2_14_2	22	-178.684			
+Metadata/Chests/BonePile1	1653	486	1.571 rad	219800169	1_2_14_2					
+Metadata/Chests/Basket1old	1361	530	1.227 rad	2211595643	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1374	537	3.142 rad	3094797593	1_2_14_2	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1374	548	3.142 rad	3094797593	1_2_14_2	13	-104.234			
+Metadata/Chests/Pot1	1512	530	2.447 rad	1878789778	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1608	530	1.571 rad	1259749696	1_2_14_2					
+Metadata/Chests/Basket1old	1660	110	3.609 rad	2211595643	1_2_14_2					
+Metadata/Chests/Basket2old	1665	110	4.156 rad	866946829	1_2_14_2					
+Metadata/Chests/Basket3old	1670	110	0.372 rad	3468315289	1_2_14_2					
+Metadata/Terrain/Act2/Area14Level2/Objects/Recipe_Switch	1662	395	0.000 rad	3926213128	1_2_14_2					
+Metadata/Terrain/Act2/Area14Level2/Objects/Recipe_Door	1670	413	4.712 rad	1353822344	1_2_14_2					
+Metadata/Terrain/Act2/Area14Level2/Objects/Recipe_Switch	1662	432	0.000 rad	3926213128	1_2_14_2					
+Metadata/Chests/Barrel3old	1684	175	0.501 rad	3865749632	1_2_14_2					
+Metadata/Chests/Barrel2old	1688	168	5.411 rad	3707287636	1_2_14_2					
+Metadata/Chests/Barrel4old	1679	170	5.129 rad	2804926028	1_2_14_2					
+Metadata/Chests/Barrel5old	1679	175	0.984 rad	2116127741	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1685	213	3.142 rad	1259749696	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1719	240	2.381 rad	482753086	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1719	246	5.449 rad	482753086	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1710	546	1.571 rad	3094797593	1_2_14_2	29	-230.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1721	546	1.571 rad	3094797593	1_2_14_2	29	-229.234			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1499	271	1.571 rad	1208694913	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1740	268	3.142 rad	1259749696	1_2_14_2					
+Metadata/Chests/Pot2v1	1739	277	3.142 rad	252085906	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1759	517	1.571 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1763	506	1.571 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1755	528	1.571 rad	1130306758	1_2_14_2	24	-189.671			
+Metadata/Chests/Basket1old	1361	530	1.227 rad	2211595643	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1374	537	3.142 rad	3094797593	1_2_14_2	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1374	548	3.142 rad	3094797593	1_2_14_2	13	-104.234			
+Metadata/Chests/Pot1	1512	530	2.447 rad	1878789778	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1608	530	1.571 rad	1259749696	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1710	546	1.571 rad	3094797593	1_2_14_2	29	-230.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1721	546	1.571 rad	3094797593	1_2_14_2	29	-229.234			
+Metadata/Effects/Spells/shatter/ShatterLarge	1521	273	2.944 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1538	262	3.927 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1555	258	3.964 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1550	255	3.927 rad	3875590990	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1553	244	5.094 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1553	244	1.757 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1556	242	0.541 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1553	244	4.295 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1553	244	2.356 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1477	257	3.512 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1491	236	2.615 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1493	242	3.346 rad	3875590990	1_2_14_2					
+Metadata/Chests/Pot4v1	1330	591	5.178 rad	1060404135	1_2_14_2					
+Metadata/Chests/Pot2v1	1333	594	2.034 rad	252085906	1_2_14_2					
+Metadata/Chests/Pot1	1330	594	3.220 rad	1878789778	1_2_14_2					
+Metadata/Chests/Pot2v2	1330	597	4.918 rad	3943222399	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1531	594	1.713 rad	2279200309	1_2_14_2					
+Metadata/Chests/Pot2v2	1598	581	6.283 rad	3943222399	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1690	587	1.571 rad	1259749696	1_2_14_2					
+Metadata/Chests/Barrel1old	1513	616	3.143 rad	1528648667	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1500	612	0.000 rad	3094797593	1_2_14_2	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1500	601	0.000 rad	3094797593	1_2_14_2	13	-104.234			
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1527	609	3.339 rad	2279200309	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1537	607	0.810 rad	2279200309	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1530	600	4.957 rad	2279200309	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1543	620	0.761 rad	2279200309	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1619	610	0.000 rad	1259749696	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1667	620	4.712 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1664	609	4.712 rad	1130306758	1_2_14_2	24	-190.514			
+Metadata/Chests/Pot1	1717	606	2.562 rad	1878789778	1_2_14_2					
+Metadata/Chests/Pot4v2	1717	600	1.055 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot2v1	1716	603	2.005 rad	252085906	1_2_14_2					
+Metadata/Chests/Pot4v1	1719	613	3.581 rad	1060404135	1_2_14_2					
+Metadata/Chests/Pot1	1723	607	0.684 rad	1878789778	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1516	412	1.571 rad	1208694913	1_2_14_2					
+Metadata/Chests/Pot2v1	1489	641	1.718 rad	252085906	1_2_14_2					
+Metadata/Chests/Pot3	1492	643	2.740 rad	2356047353	1_2_14_2					
+Metadata/Chests/Pot2v2	1497	639	2.222 rad	3943222399	1_2_14_2					
+Metadata/Chests/Pot4v2	1495	643	3.391 rad	2954886560	1_2_14_2					
+Metadata/Chests/Barrel3old	1515	632	5.203 rad	3865749632	1_2_14_2					
+Metadata/Chests/Barrel3old	1512	624	0.234 rad	3865749632	1_2_14_2					
+Metadata/Chests/Barrel4old	1510	634	4.211 rad	2804926028	1_2_14_2					
+Metadata/Chests/Barrel5old	1515	637	2.678 rad	2116127741	1_2_14_2					
+Metadata/Chests/Barrel3old	1517	621	1.853 rad	3865749632	1_2_14_2					
+Monster: Sin Lord [Metadata/Monsters/Necromancer/NecromancerConductivityVaal@22]	1537	628	2.602 rad	1532461566	1_2_14_2					
+Metadata/Chests/Barrel3old	1563	639	0.975 rad	3865749632	1_2_14_2					
+Metadata/Chests/Barrel3old	1557	640	3.585 rad	3865749632	1_2_14_2					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/FragmentMultipleProjectile@22]	1584	643	4.491 rad	397834816	1_2_14_2					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/FragmentMultipleProjectile@22]	1600	628	3.043 rad	397834816	1_2_14_2					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/FragmentMultipleProjectile@22]	1597	641	2.675 rad	397834816	1_2_14_2					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/FragmentMultipleProjectile@22]	1590	635	0.221 rad	397834816	1_2_14_2					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/FragmentMultipleProjectile@22]	1610	622	0.957 rad	397834816	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1671	632	4.712 rad	1130306758	1_2_14_2	24	-190.485			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1737	634	1.571 rad	1259749696	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1510	404	0.691 rad	3875590990	1_2_14_2					
+Metadata/Chests/Pot3	1397	661	5.725 rad	2356047353	1_2_14_2					
+Metadata/Chests/Pot3	1397	664	5.450 rad	2356047353	1_2_14_2					
+Metadata/Chests/Pot2v1	1400	661	4.593 rad	252085906	1_2_14_2					
+Metadata/Chests/Pot1	1400	664	1.639 rad	1878789778	1_2_14_2					
+Metadata/Chests/Pot4v2	1403	661	6.155 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot2v1	1489	644	2.054 rad	252085906	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1506	409	0.671 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1511	413	0.475 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1497	413	0.927 rad	3875590990	1_2_14_2					
+Metadata/Chests/Pot4v1	1493	647	6.062 rad	1060404135	1_2_14_2					
+Metadata/Chests/Barrel5old	1562	644	2.834 rad	2116127741	1_2_14_2					
+Metadata/Chests/Barrel4old	1557	645	4.363 rad	2804926028	1_2_14_2					
+Metadata/Chests/Pot2v2	1659	663	4.712 rad	3943222399	1_2_14_2					
+Metadata/Chests/Pot1	1659	666	4.467 rad	1878789778	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1713	655	0.000 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1724	651	0.000 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1702	659	0.000 rad	1130306758	1_2_14_2	24	-189.671			
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1512	439	0.000 rad	1450012487	1_2_14_2					
+Metadata/Chests/Barrel3old	1433	686	2.188 rad	3865749632	1_2_14_2					
+Metadata/Chests/Barrel5old	1442	676	4.123 rad	2116127741	1_2_14_2					
+Metadata/Chests/Barrel2old	1436	680	0.723 rad	3707287636	1_2_14_2					
+Metadata/Chests/Barrel3old	1431	675	2.450 rad	3865749632	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	1483	682	4.712 rad	3007162884	1_2_14_2	16	-129.078			
+Monster: Frost Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeColdVaal@22]	1503	686	6.062 rad	2046012917	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1759	517	1.571 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1763	506	1.571 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1755	528	1.571 rad	1130306758	1_2_14_2	24	-189.671			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1571	678	1.571 rad	1130306758	1_2_14_2	24	-190.485			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1615	684	1.571 rad	1259749696	1_2_14_2					
+Metadata/Chests/Pot4v2	1659	669	3.748 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot1	1658	672	4.541 rad	1878789778	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1441	706	2.652 rad	482753086	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1431	693	2.356 rad	482753086	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1426	701	0.000 rad	1259749696	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1453	698	2.356 rad	482753086	1_2_14_2					
+Monster: Death Bishop [Metadata/Monsters/Necromancer/NecromancerFrostbiteVaal_@22]	1519	696	0.418 rad	3978973111	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1538	701	0.000 rad	1259749696	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1575	690	1.571 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1578	701	1.571 rad	1130306758	1_2_14_2	24	-190.514			
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	1740	701	3.142 rad	3007162884	1_2_14_2	16	-129.078			
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	1483	720	1.571 rad	3007162884	1_2_14_2	16	-129.078			
+Monster: Frost Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeColdVaal@22]	1518	714	5.547 rad	2046012917	1_2_14_2					
+Metadata/Chests/Pot4v2	1638	720	1.570 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot2v1	1635	717	0.573 rad	252085906	1_2_14_2					
+Metadata/Chests/Pot2v2	1638	717	0.388 rad	3943222399	1_2_14_2					
+Metadata/Chests/Pot2v1	1639	713	5.198 rad	252085906	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1424	757	6.234 rad	3071393032	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1437	747	3.142 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1426	751	3.142 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1448	743	3.142 rad	1130306758	1_2_14_2	24	-189.671			
+Metadata/Chests/Chest18	1565	737	0.000 rad	2444280933	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1641	749	1.571 rad	1259749696	1_2_14_2	5	-43.478			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1755	745	0.000 rad	1259749696	1_2_14_2					
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockVaal	1325	770	4.826 rad	641081139	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1430	780	2.737 rad	3071393032	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1430	767	0.491 rad	3071393032	1_2_14_2					
+Monster: Flame Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeFireVaal@22]	1453	765	3.387 rad	3071393032	1_2_14_2					
+Metadata/Chests/Pot1	1514	777	3.142 rad	1878789778	1_2_14_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1533	568	0.000 rad	1450012487	1_2_14_2					
+Monster: Sin Lord [Metadata/Monsters/Necromancer/NecromancerConductivityVaal@22]	1536	798	0.951 rad	1532461566	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1575	793	4.712 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1571	782	4.712 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1579	804	4.712 rad	1130306758	1_2_14_2	24	-189.671			
+Metadata/Effects/Spells/shatter/ShatterLarge	1531	592	6.202 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1526	593	0.273 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1525	604	5.764 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1537	600	6.065 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1543	615	6.173 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1533	628	3.096 rad	3875590990	1_2_14_2					
+Metadata/Chests/Pot2v1	1454	806	1.571 rad	252085906	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1538	809	5.031 rad	482753086	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1532	805	0.785 rad	482753086	1_2_14_2					
+Metadata/Chests/Chest24	1561	808	3.142 rad	1862144322	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1543	808	5.498 rad	482753086	1_2_14_2					
+Metadata/Chests/Barrel4old	1582	825	0.759 rad	2804926028	1_2_14_2					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@22]	1513	616	1.080 rad	3959063929	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1604	809	1.571 rad	1259749696	1_2_14_2					
+Metadata/Chests/Pot3	1658	827	2.580 rad	2356047353	1_2_14_2					
+Metadata/Chests/Pot4v2	1675	825	4.705 rad	2954886560	1_2_14_2					
+Metadata/Chests/Barrel3old	1582	832	4.502 rad	3865749632	1_2_14_2					
+Metadata/Chests/Barrel3old	1587	830	2.607 rad	3865749632	1_2_14_2					
+Metadata/Chests/Pot4v1	1655	833	5.309 rad	1060404135	1_2_14_2					
+Metadata/Chests/Pot3	1658	830	4.428 rad	2356047353	1_2_14_2					
+Metadata/Chests/Chest23	1280	756	3.604 rad	3442855071	1_2_14_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1512	646	0.000 rad	1450012487	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1759	517	1.571 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1763	506	1.571 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1755	528	1.571 rad	1130306758	1_2_14_2	24	-189.671			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1755	745	0.000 rad	1259749696	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1538	701	0.000 rad	1208694913	1_2_14_2					
+Metadata/Chests/Chest23	1280	756	3.604 rad	3442855071	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1247	566	0.000 rad	3094797593	1_2_14_2	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1247	555	0.000 rad	3094797593	1_2_14_2	13	-104.234			
+Object: Metadata/QuestObjects/BossArenaEntranceTransition	1264	797	4.712 rad	2152424139	1_2_14_2	11	-93.695	1	50	
+Metadata/Effects/Spells/shatter/ShatterLarge	1531	685	0.091 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1515	693	4.505 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1495	711	4.273 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1452	704	1.107 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1465	707	3.908 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1455	694	4.018 rad	3875590990	1_2_14_2					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@22]	1436	680	3.657 rad	3959063929	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1433	754	2.101 rad	1418889786	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1433	754	0.142 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1430	777	0.048 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1437	768	0.124 rad	3875590990	1_2_14_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1438	780	0.559 rad	3875590990	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1452	808	4.559 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1667	620	4.712 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1664	609	4.712 rad	1130306758	1_2_14_2	24	-190.514			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1671	632	4.712 rad	1130306758	1_2_14_2	24	-190.485			
+Metadata/Chests/Pot2v2	1659	663	4.712 rad	3943222399	1_2_14_2					
+Metadata/Chests/Pot1	1659	666	4.467 rad	1878789778	1_2_14_2					
+Metadata/Chests/Pot4v2	1659	669	3.748 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot1	1658	672	4.541 rad	1878789778	1_2_14_2					
+Metadata/Chests/Pot3	1658	827	2.580 rad	2356047353	1_2_14_2					
+Metadata/Chests/Pot4v2	1675	825	4.705 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot3	1658	830	4.428 rad	2356047353	1_2_14_2					
+Metadata/Chests/Basket1old	1361	530	1.227 rad	2211595643	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1374	537	3.142 rad	3094797593	1_2_14_2	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1374	548	3.142 rad	3094797593	1_2_14_2	13	-104.234			
+Metadata/Chests/Pot1	1512	530	2.447 rad	1878789778	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1608	530	1.571 rad	1259749696	1_2_14_2					
+Metadata/Chests/Basket2old	1320	508	3.311 rad	866946829	1_2_14_2					
+Metadata/Chests/Basket2old	1325	506	4.192 rad	866946829	1_2_14_2					
+Metadata/Chests/Basket3old	1315	508	0.694 rad	3468315289	1_2_14_2					
+Metadata/Chests/Basket2old	1365	525	1.386 rad	866946829	1_2_14_2					
+Metadata/Chests/Basket3old	1363	520	2.355 rad	3468315289	1_2_14_2					
+Metadata/Chests/Pot2v2	1512	524	3.923 rad	3943222399	1_2_14_2					
+Metadata/Chests/Pot4v2	1512	527	3.197 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot2v1	1515	523	0.798 rad	252085906	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1558	514	3.142 rad	3094797593	1_2_14_2	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1558	525	3.142 rad	3094797593	1_2_14_2	13	-104.234			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1690	587	1.571 rad	1259749696	1_2_14_2					
+Metadata/Chests/Basket1old	1313	503	4.380 rad	2211595643	1_2_14_2					
+Metadata/Chests/Pot4v1	1494	486	1.446 rad	1060404135	1_2_14_2					
+Metadata/Chests/Pot4v1	1489	484	6.079 rad	1060404135	1_2_14_2					
+Metadata/Chests/Pot4v1	1492	483	3.911 rad	1060404135	1_2_14_2					
+Metadata/Chests/BonePile1	1653	486	1.571 rad	219800169	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1710	546	1.571 rad	3094797593	1_2_14_2	29	-230.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1721	546	1.571 rad	3094797593	1_2_14_2	29	-229.234			
+Metadata/Chests/Pot1	1717	606	2.562 rad	1878789778	1_2_14_2					
+Metadata/Chests/Pot4v2	1717	600	1.055 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot2v1	1716	603	2.005 rad	252085906	1_2_14_2					
+Metadata/Chests/Pot4v1	1719	613	3.581 rad	1060404135	1_2_14_2					
+Metadata/Chests/Pot1	1723	607	0.684 rad	1878789778	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1713	655	0.000 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1724	651	0.000 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1702	659	0.000 rad	1130306758	1_2_14_2	24	-189.671			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1737	634	1.571 rad	1259749696	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	1740	701	3.142 rad	3007162884	1_2_14_2	16	-129.078			
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1759	517	1.571 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1763	506	1.571 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1755	528	1.571 rad	1130306758	1_2_14_2	24	-189.671			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1755	745	0.000 rad	1259749696	1_2_14_2					
+Metadata/Chests/Pot4v2	1489	481	1.039 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot4v1	1604	460	1.445 rad	1060404135	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1621	471	0.000 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1610	467	0.000 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1632	475	0.000 rad	1130306758	1_2_14_2	24	-189.671			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1788	754	4.712 rad	3094797593	1_2_14_2	25	-196.723			
+Object: Metadata/MiscellaneousObjects/AreaTransition	1774	785	4.712 rad	726109394	1_2_14_2	23	-185.364	0	14238	The Ancient Pyramid
+Monster: Frost Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeColdVaal@22]	1805	602	0.834 rad	2046012917	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1802	638	1.571 rad	3094797593	1_2_14_2	-2	19.219			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1813	638	1.571 rad	3094797593	1_2_14_2	-2	20.766			
+Metadata/Chests/Pot1	1561	456	1.571 rad	1878789778	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	1646	457	1.571 rad	3007162884	1_2_14_2	22	-178.684			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1615	684	1.571 rad	1208694913	1_2_14_2					
+Metadata/Chests/Barrel1old	1835	462	4.918 rad	1528648667	1_2_14_2					
+Metadata/Chests/Pot1	1837	480	4.039 rad	1878789778	1_2_14_2					
+Metadata/Chests/Pot3	1833	479	4.269 rad	2356047353	1_2_14_2					
+Metadata/Chests/Pot2v2	1833	482	5.493 rad	3943222399	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1827	530	4.712 rad	1259749696	1_2_14_2					
+Monster: Frost Guardian [Metadata/Monsters/Skeletons/SkeletonMeleeColdVaal@22]	1819	607	2.872 rad	2046012917	1_2_14_2					
+Metadata/Chests/Basket3old	1860	464	5.926 rad	3468315289	1_2_14_2					
+Metadata/Chests/Barrel1old	1842	460	3.250 rad	1528648667	1_2_14_2					
+Metadata/Chests/Pot4v1	1841	479	2.986 rad	1060404135	1_2_14_2					
+Metadata/Chests/Pot2v1	1857	569	2.714 rad	252085906	1_2_14_2					
+Metadata/Chests/Pot4v2	1860	569	3.774 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot3	1857	572	3.961 rad	2356047353	1_2_14_2					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1847	701	1.571 rad	1130306758	1_2_14_2	24	-190.485			
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1851	713	1.571 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1854	724	1.571 rad	1130306758	1_2_14_2	24	-190.514			
+Metadata/Chests/Basket2old	1865	460	5.380 rad	866946829	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1873	526	0.270 rad	482753086	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1881	527	4.148 rad	482753086	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1866	532	5.081 rad	482753086	1_2_14_2					
+Metadata/Chests/Pot2v2	1863	569	5.308 rad	3943222399	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1880	593	1.571 rad	1259749696	1_2_14_2					
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1873	615	2.773 rad	3034543282	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1900	521	5.130 rad	482753086	1_2_14_2					
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1906	607	0.270 rad	3034543282	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1905	624	3.461 rad	2279200309	1_2_14_2					
+Monster: Frost Archmage [Metadata/Monsters/Skeletons/SkeletonCasterCold2Vaal@22]	1890	638	2.405 rad	3034543282	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1891	718	1.571 rad	1259749696	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1897	747	3.142 rad	1012101947	1_2_14_2	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1908	751	3.142 rad	1130306758	1_2_14_2	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1886	743	3.142 rad	1130306758	1_2_14_2	24	-189.671			
+Metadata/Chests/Pot2v1	1929	569	5.929 rad	252085906	1_2_14_2					
+Metadata/Chests/Pot2v1	1913	595	1.571 rad	252085906	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1912	616	1.448 rad	2279200309	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1917	621	2.160 rad	2279200309	1_2_14_2					
+Monster: Thunder Archmage [Metadata/Monsters/Skeletons/SkeletonCasterLightning2Vaal_@22]	1911	625	3.142 rad	2279200309	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1917	653	1.571 rad	1259749696	1_2_14_2	5	-43.478			
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1705	701	0.000 rad	1450012487	1_2_14_2					
+Metadata/Chests/Pot4v2	1937	569	4.107 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot1	1934	569	2.063 rad	1878789778	1_2_14_2					
+Metadata/Chests/Pot4v2	1937	572	3.247 rad	2954886560	1_2_14_2					
+Metadata/Chests/Pot3	1937	575	4.553 rad	2356047353	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1755	745	0.000 rad	1208694913	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1635	717	4.000 rad	1418889786	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1538	701	0.000 rad	1208694913	1_2_14_2					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1538	701	0.000 rad	1259749696	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1526	798	4.979 rad	482753086	1_2_14_2					
+Monster: Bone Warden [Metadata/Monsters/Skeletons/SkeletonMeleeLightningVaal_@22]	1521	797	3.975 rad	482753086	1_2_14_2					
+Monster: Sin Lord [Metadata/Monsters/Necromancer/NecromancerConductivityVaal@22]	1535	786	5.793 rad	1532461566	1_2_14_2					

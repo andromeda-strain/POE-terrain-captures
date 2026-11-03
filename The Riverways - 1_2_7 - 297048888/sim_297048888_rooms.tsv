@@ -1,0 +1,47 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act2/Area7/Rooms/tunnel_transition.arm	48	9	1	node	entrance2
+0	Metadata/Terrain/Act2/Area7/Rooms/town_entrance.arm	72	66	3	node	default entrance1
+0	Metadata/Terrain/Act2/Area7/Rooms/brokenbridge_1.arm	56	65	0	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/brokenbridge_1.arm	48	27	5	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/brokenbridge_1.arm	38	44	7	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/river_cliff_connection_3_bridge.arm	57	51	0	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/waterfall_source1.arm	63	78	0	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/bridge_1.arm	35	60	6	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/river_cliff_connection_3_bridge.arm	57	39	6	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/river_cliff_connection_3.arm	33	72	6	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/river_cliff_connection_3_bridge.arm	51	72	2	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/river_cliff_connection_2.arm	9	60	7	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/river_cliff_connection_2_bridge.arm	24	36	0	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/river_cliff_connection_2_bridge.arm	33	24	6	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/bridgetransition.arm	25	72	3	node	entrance3
+0	Metadata/Terrain/Act2/Area7/Rooms/cliffriver_sink.arm	24	12	0	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/inca2toroad.arm	29	51	1	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/crossing_2.arm	53	43	0	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/crossing_2.arm	53	49	0	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/deep_source.arm	88	88	0	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/low_sink.arm	88	40	0	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_2.arm	39	13	0	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_2.arm	46	17	0	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_3.arm	52	18	3	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent2.arm	57	19	1	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_1.arm	43	21	1	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_3.arm	45	22	5	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_2.arm	44	30	1	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_3.arm	27	34	5	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_3.arm	48	40	1	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent3.arm	55	40	3	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_2.arm	34	44	3	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_2a.arm	18	45	0	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_3.arm	16	51	5	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_2.arm	20	51	7	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_1.arm	22	51	7	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_2a.arm	16	54	3	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_1.arm	26	57	4	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_2.arm	29	60	4	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_1.arm	63	61	6	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_3.arm	66	71	7	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_7a.arm	12	74	1	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_6a.arm	22	81	7	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_2.arm	28	81	2	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_1.arm	14	88	3	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/breach_encounter.arm	37	20	1	pass	

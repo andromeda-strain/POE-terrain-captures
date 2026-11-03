@@ -1,0 +1,25 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1034	367	3.1416	12.853	-2	forestcave_entrance_hole_v01_01.tdt	0	1	271694755	ArenaNameGruthkul
+Metadata/MiscellaneousObjects/AreaTransition	270	855	4.7124	-61.152	8	forestcave_exit_down_v01_01.tdt	0	1	9666	%areaname%
+Metadata/MiscellaneousObjects/AreaTransition	908	945	4.7124	-133.849	17	grove_wall_exit_v01_01.tdt	0	0	20052	2_7_8
+Metadata/NPC/Info/ArakaaliGlyph4	874	778	0.0126	-47.554	6	entrance.arm	0			
+Metadata/MiscellaneousObjects/CraftRecipeUnlockMarker	486	544	6.2832	0.000	0	chaos_boss.arm	1			
+Metadata/Monsters/DespairBear/BearCrackInert	131	847	2.0444	-10.870	1	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrackInert	236	805	0.7854	-10.870	1	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrack	162	878	3.0790	0.000	0	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrack	219	896	6.0214	0.000	0	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrackInert	243	905	0.7854	-5.435	1	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrackInert	222	807	1.8326	-10.870	1	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrack	146	854	5.0710	0.000	0	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrackInert	157	863	2.4858	-10.870	1	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrackInert	160	851	4.1157	0.000	0	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrack	175	844	4.4506	0.000	0	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrackInert	228	907	5.2360	0.000	0	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrack	239	919	6.0214	0.000	0	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrackInert	256	898	4.4506	0.000	0	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrackInert	231	819	3.1416	-10.870	1	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrack	208	805	4.7124	-10.870	1	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrack	229	830	0.5236	-10.870	1	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrackInert	183	926	0.2618	-16.304	2	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrack	187	910	3.1416	-5.435	1	despair_boss.arm	0			
+Metadata/Monsters/DespairBear/BearCrack	243	791	0.1867	0.000	0	despair_boss.arm	0			

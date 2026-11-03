@@ -1,0 +1,19 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level3/Unique/entrance.arm	46	6	0	node	default entrance1
+0	Metadata/Terrain/Mountain/Belly/Rooms/Unique/core_entrance_1.arm	38	22	3	node	teleport7-MalachaiArenaName1 telepad8
+0	Metadata/Terrain/Mountain/Belly/Rooms/Unique/boss_1.arm	6	62	0	node	telepad7 teleport8-%areaname% teleport9-MalachaiArenaName2 telepad10
+0	Metadata/Terrain/Mountain/Belly/Rooms/Unique/boss_2.arm	38	70	0	node	telepad9 teleport10-MalachaiArenaName1 entrance2
+0	Metadata/Terrain/Mountain/Belly/Rooms/Unique/organ_3.arm	54	22	3	node	telepad1 teleport1-ShavronneArenaName telepad11
+0	Metadata/Terrain/Mountain/Belly/Rooms/Unique/organ_1.arm	14	14	2	node	telepad2 teleport2-DoedreArenaName telepad12
+0	Metadata/Terrain/Mountain/Belly/Rooms/Unique/organ_2.arm	22	38	0	node	telepad3 teleport3-MaligaroArenaName telepad13
+0	Metadata/Terrain/Mountain/Belly/Rooms/Unique/glyph_1.arm	46	38	0	node	unique1
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level3/1x1/var_2_2.arm	14	38	2	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level3/1x1/var_3.arm	30	22	2	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level3/1x1/var_3_2.arm	38	6	6	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level3/1x1/var_3_2.arm	46	22	6	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level3/1x1/var_2.arm	30	30	7	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level3/1x1/var_4.arm	54	38	6	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level3/1x1/var_2_3.arm	46	30	0	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level3/1x1/var_2.arm	14	30	3	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level3/1x1/var_2_3.arm	38	14	2	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level3/1x1/var_2_2.arm	62	38	1	node	

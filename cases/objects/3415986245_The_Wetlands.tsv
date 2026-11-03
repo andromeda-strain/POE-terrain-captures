@@ -1,0 +1,803 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	218	586	3.142 rad	2448909918	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	452	369	5.522 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	459	392	0.417 rad	2090382259	1_2_12					
+Metadata/Chests/Boulder1	315	472	6.026 rad	94048164	1_2_12					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@19]	334	479	4.835 rad	1639590435	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	314	490	5.547 rad	3239896005	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	324	496	4.418 rad	3239896005	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	338	491	0.123 rad	3239896005	1_2_12					
+Metadata/Chests/TribalChest1	416	497	4.300 rad	848307785	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	430	549	5.768 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	453	543	5.768 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	438	552	1.178 rad	1121410893	1_2_12					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	215	583	5.841 rad	1792897079	1_2_12					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	219	582	1.767 rad	1570723376	1_2_12					
+Object: Metadata/MiscellaneousObjects/Waypoint	218	586	3.142 rad	552129418	1_2_12	33	-265.508			
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	358	578	0.785 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	353	587	4.197 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	343	601	5.571 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	358	607	5.351 rad	2786733068	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	363	636	0.663 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	368	642	4.050 rad	1121410893	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	378	622	3.436 rad	2090382259	1_2_12					
+Object: Metadata/QuestObjects/Inca/IncaTreeTransition	241	664	0.000 rad	1093500118	1_2_12	43	-341.026	0	59770	The Vaal Ruins
+Object: Metadata/QuestObjects/Inca/PoisonTree	240	660	0.000 rad	3913650269	1_2_12	32	-255.965			
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	347	647	2.651 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	389	653	0.663 rad	1121410893	1_2_12					
+Metadata/Chests/TribalChest1	367	728	1.351 rad	848307785	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	380	735	0.982 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	369	758	3.338 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	377	746	4.614 rad	1121410893	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	452	639	1.252 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	459	644	6.234 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	454	733	0.834 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	444	751	4.491 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	448	759	3.657 rad	1031356978	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	434	802	2.847 rad	3239896005	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	332	810	2.970 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	347	810	5.228 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	357	812	1.227 rad	1031356978	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	447	825	1.816 rad	3239896005	1_2_12					
+Monster: Daemon [Metadata/Monsters/Daemon/Archnemesis/LightningWalkerDaemon@19]	447	825	1.816 rad	2869072965	1_2_12					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	447	825	5.116 rad	316014466	1_2_12					
+Metadata/Chests/TribalChest2	479	364	5.180 rad	3802957179	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	470	634	1.448 rad	1031356978	1_2_12					
+Metadata/Chests/Boulder2	479	664	1.528 rad	1758529206	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	461	756	5.228 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	475	765	0.933 rad	1031356978	1_2_12					
+Metadata/Chests/Boulder3	487	494	1.543 rad	3968314488	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	494	643	5.768 rad	1031356978	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	511	385	1.546 rad	2090382259	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	527	453	1.374 rad	1121410893	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	525	580	3.608 rad	1347958110	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	523	613	2.430 rad	1347958110	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	526	605	1.988 rad	1347958110	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	530	373	6.062 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	544	379	5.154 rad	2786733068	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	537	474	6.185 rad	1121410893	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	539	545	3.976 rad	1347958110	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	535	540	1.939 rad	1347958110	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	549	538	2.454 rad	1347958110	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	535	605	0.712 rad	1347958110	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	531	599	4.393 rad	1347958110	1_2_12					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	330	585	0.000 rad	1450012487	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	567	462	1.448 rad	1121410893	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	562	495	3.289 rad	3239896005	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	553	527	0.319 rad	1347958110	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	563	533	5.301 rad	1347958110	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	572	729	1.276 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	566	714	5.473 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	570	741	4.418 rad	1031356978	1_2_12					
+Metadata/Chests/TribalChest2	571	764	0.847 rad	3802957179	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	305	587	6.206 rad	1418889786	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	324	588	4.332 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	326	595	4.854 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	336	588	5.903 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	324	617	5.695 rad	1713641240	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	352	614	3.650 rad	1418889786	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	352	614	5.903 rad	3875590990	1_2_12					
+Metadata/Chests/TribalChest1	592	463	4.790 rad	848307785	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	587	531	1.497 rad	3239896005	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	586	729	2.405 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	577	757	2.356 rad	1031356978	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	358	635	0.522 rad	1418889786	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	358	635	6.052 rad	3875590990	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	614	438	3.362 rad	2786733068	1_2_12					
+Metadata/Chests/TribalChest2	613	464	3.311 rad	3802957179	1_2_12					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@19]	599	485	3.019 rad	1639590435	1_2_12					
+Monster: Skeleton Spriggan [Metadata/Monsters/SaplingMonster/TwigMonster@19]	613	655	0.908 rad	3564844356	1_2_12					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@19]	614	712	0.049 rad	1639590435	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	620	725	4.271 rad	3239896005	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	357	637	5.604 rad	1418889786	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	357	637	6.249 rad	3875590990	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	352	641	5.118 rad	1418889786	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	352	641	5.942 rad	3875590990	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	617	802	5.964 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	338	829	2.258 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	608	834	2.356 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	608	829	1.301 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	618	831	2.209 rad	1031356978	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	630	437	1.914 rad	2786733068	1_2_12					
+Monster: Skeleton Spriggan [Metadata/Monsters/SaplingMonster/TwigMonster@19]	640	666	4.467 rad	3564844356	1_2_12					
+Monster: Skeleton Spriggan [Metadata/Monsters/SaplingMonster/TwigMonster@19]	628	665	3.755 rad	3564844356	1_2_12					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@19]	637	717	2.258 rad	1639590435	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	641	756	3.019 rad	3239896005	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	632	809	0.982 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	637	816	2.945 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	630	824	3.731 rad	1031356978	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	273	853	2.749 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	283	870	1.448 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	305	869	1.816 rad	2786733068	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	482	872	3.240 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	498	856	1.252 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	618	851	1.374 rad	1031356978	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	641	867	5.841 rad	1121410893	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	298	881	3.191 rad	2786733068	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	500	886	6.234 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	503	893	0.761 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	518	884	3.755 rad	1031356978	1_2_12					
+Metadata/Chests/TribalChest3	570	889	0.775 rad	2948926915	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	664	442	3.289 rad	2786733068	1_2_12					
+Monster: Skeleton Spriggan [Metadata/Monsters/SaplingMonster/TwigMonster@19]	650	663	0.221 rad	3564844356	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	649	735	5.743 rad	3239896005	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	648	716	5.056 rad	3239896005	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	648	816	4.614 rad	1031356978	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	650	846	0.565 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	654	851	1.694 rad	1121410893	1_2_12					
+Monster: Daemon [Metadata/Monsters/Daemon/Archnemesis/GlacialCageDaemon@19]	654	851	0.270 rad	2153504339	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	497	897	6.111 rad	1031356978	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	686	449	3.215 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	687	636	0.712 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	272	926	2.184 rad	2786733068	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	403	935	1.227 rad	3239896005	1_2_12					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	457	713	0.000 rad	1450012487	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	272	953	2.700 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	265	957	1.006 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	281	946	1.129 rad	2786733068	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	411	948	5.179 rad	3239896005	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	395	960	3.657 rad	3239896005	1_2_12					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@19]	398	953	3.043 rad	1639590435	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	425	961	5.890 rad	3239896005	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	450	734	6.181 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	463	743	5.868 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	469	741	5.811 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	460	749	6.101 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	470	747	5.878 rad	3875590990	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	698	647	2.307 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	693	662	4.467 rad	2786733068	1_2_12					
+Metadata/Chests/TribalChest2	711	840	1.661 rad	3802957179	1_2_12					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	451	820	5.014 rad	316014466	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	463	660	3.142 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	474	654	4.327 rad	3875590990	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	455	627	5.948 rad	1418889786	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	455	627	4.172 rad	3875590990	1_2_12					
+Metadata/Chests/Cairn3	307	1006	1.893 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn2	315	1011	5.297 rad	2820696047	1_2_12					
+Metadata/Chests/Cairn2	313	1006	5.613 rad	2820696047	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	325	1007	4.565 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	328	994	5.989 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	366	998	5.694 rad	2786733068	1_2_12					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	459	811	0.056 rad	316014466	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	360	1021	3.436 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	384	1033	6.160 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	397	1030	0.245 rad	2786733068	1_2_12					
+Metadata/Chests/Cairn1	527	1032	0.583 rad	2382745926	1_2_12					
+Metadata/Chests/Cairn1	522	1034	5.792 rad	2382745926	1_2_12					
+Metadata/Chests/Cairn3	572	1029	3.482 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn1	571	1034	6.065 rad	2382745926	1_2_12					
+Metadata/Chests/Cairn3	576	1034	3.955 rad	1943797426	1_2_12					
+Object: Metadata/Monsters/Bandits/TentBanditSpawner2	618	1018	2.705 rad	186986131	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	715	631	4.761 rad	2786733068	1_2_12					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	467	803	2.105 rad	316014466	1_2_12					
+Metadata/Chests/TribalChest2	721	1018	1.794 rad	3802957179	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	293	1057	2.798 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	386	1046	0.049 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	393	1052	4.614 rad	2786733068	1_2_12					
+Metadata/Chests/Cairn2	527	1039	1.564 rad	2820696047	1_2_12					
+Monster: Carrion Wasp [Metadata/Monsters/PlagueSwarm/PlagueInsect@19]	725	1040	4.172 rad	3510379062	1_2_12					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	477	800	2.852 rad	316014466	1_2_12					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	498	827	0.000 rad	1450012487	1_2_12					
+Object: Metadata/Effects/Spells/shatter/Shatter	438	803	5.550 rad	2647986052	1_2_12					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	498	832	0.000 rad	1450012487	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	0.590 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	3.459 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	0.682 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	2.323 rad	1418889786	1_2_12					
+Object: Metadata/Effects/Spells/shatter/Shatter	481	803	2.246 rad	2647986052	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	275	1079	0.491 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	263	1077	4.148 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	296	1073	0.245 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	283	1067	2.356 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	378	1066	5.940 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	394	1071	5.989 rad	2090382259	1_2_12					
+Metadata/Chests/Cairn1	490	1078	5.393 rad	2382745926	1_2_12					
+Metadata/Chests/Cairn3	487	1073	2.187 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn3	485	1078	1.749 rad	1943797426	1_2_12					
+Object: Metadata/Monsters/BanditLeaderStrDex/TentBanditSpawnerOak3	585	1080	3.200 rad	3848785545	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	502	849	2.986 rad	1418889786	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	502	849	6.001 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	492	859	0.051 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	508	866	6.032 rad	3875590990	1_2_12					
+Object: Metadata/QuestObjects/Inca/IncaTreeTransition	241	664	0.000 rad	1093500118	1_2_12	43	-341.026	0	59770	The Vaal Ruins
+Object: Metadata/QuestObjects/Inca/PoisonTree	240	660	0.000 rad	3913650269	1_2_12	32	-255.965			
+Metadata/Effects/Spells/shatter/ShatterLarge	514	868	6.086 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	489	874	0.000 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	485	884	5.961 rad	3875590990	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	275	1092	2.798 rad	2090382259	1_2_12					
+Metadata/Chests/TribalChest1	310	1103	3.678 rad	848307785	1_2_12					
+Metadata/Chests/Cairn3	480	1097	4.986 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn3	480	1102	5.190 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn2	487	1083	4.954 rad	2820696047	1_2_12					
+Metadata/Chests/Cairn2	485	1099	5.981 rad	2820696047	1_2_12					
+Metadata/Chests/Cairn2	485	1094	2.574 rad	2820696047	1_2_12					
+Object: Metadata/Monsters/BanditLeaderStrDex/TentBanditSpawnerOak2	514	1090	2.921 rad	3646385729	1_2_12					
+Monster: Oak's Fist [Metadata/Monsters/Bandits/BanditGuardMeleeWarlordsMark@19]	546	1100	2.880 rad	2197433479	1_2_12					
+Monster: Oak's Fist [Metadata/Monsters/Bandits/BanditGuardMeleeWarlordsMark@19]	584	1086	2.880 rad	2197433479	1_2_12					
+Monster: Oak's Fist [Metadata/Monsters/Bandits/BanditGuardMeleeWarlordsMark@19]	594	1086	3.229 rad	2197433479	1_2_12					
+Monster: Oak's Fist [Metadata/Monsters/Bandits/BanditGuardMeleeWarlordsMark@19]	603	1090	3.665 rad	2197433479	1_2_12					
+Object: Metadata/Monsters/BanditLeaderStrDex/TentBanditSpawnerOak3	615	1083	2.817 rad	3848785545	1_2_12					
+Monster: Oak's Fist [Metadata/Monsters/Bandits/BanditGuardMeleeWarlordsMark@19]	536	1110	2.094 rad	2197433479	1_2_12					
+Monster: Oak's Guardian [Metadata/Monsters/Bandits/BanditGuardBow@19]	542	1105	2.356 rad	474099812	1_2_12					
+Monster: Oak's Fist [Metadata/Monsters/Bandits/BanditGuardMeleeWarlordsMark@19]	626	1122	2.793 rad	2197433479	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	259	1140	1.914 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	267	1129	2.233 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	293	1135	5.081 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	284	1130	2.553 rad	2786733068	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	328	1145	2.062 rad	1121410893	1_2_12					
+Monster: Oak, Skullbreaker [Metadata/Monsters/BanditLeaderStrDex/BanditLeaderOak@19]	546	1135	1.309 rad	622805944	1_2_12					
+Object: Metadata/QuestObjects/BanditDoor	643	1140	4.800 rad	1814490328	1_2_12	57	-451.427			
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	309	1162	4.295 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	328	1172	3.117 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	351	1158	3.019 rad	1121410893	1_2_12					
+Metadata/Chests/Cairn2	477	1172	0.363 rad	2820696047	1_2_12					
+Metadata/Chests/Cairn1	485	1171	0.907 rad	2382745926	1_2_12					
+Monster: Oak's Fist [Metadata/Monsters/Bandits/BanditGuardMeleeWarlordsMark@19]	531	1154	1.134 rad	2197433479	1_2_12					
+Monster: Oak's Fist [Metadata/Monsters/Bandits/BanditGuardMeleeWarlordsMark@19]	546	1164	0.349 rad	2197433479	1_2_12					
+Monster: Oak's Guardian [Metadata/Monsters/Bandits/BanditGuardBow@19]	538	1159	0.524 rad	474099812	1_2_12					
+Monster: Oak's Guardian [Metadata/Monsters/Bandits/BanditGuardBow@19]	602	1163	5.672 rad	474099812	1_2_12					
+Monster: Oak's Guardian [Metadata/Monsters/Bandits/BanditGuardBow@19]	608	1159	5.498 rad	474099812	1_2_12					
+Object: Metadata/Monsters/BanditLeaderStrDex/TentBanditSpawnerOak1	606	1168	5.781 rad	325052273	1_2_12					
+Monster: Oak's Fist [Metadata/Monsters/Bandits/BanditGuardMeleeWarlordsMark@19]	625	1151	0.436 rad	2197433479	1_2_12					
+Object: Metadata/Effects/Spells/shatter/Shatter	411	958	0.785 rad	2647986052	1_2_12					
+Object: Metadata/Effects/Spells/shatter/Shatter	415	963	0.626 rad	2647986052	1_2_12					
+Object: Metadata/Effects/Spells/shatter/Shatter	403	961	0.890 rad	2647986052	1_2_12					
+Object: Metadata/Effects/Spells/shatter/Shatter	408	970	0.785 rad	2647986052	1_2_12					
+Object: Metadata/Effects/Spells/shatter/Shatter	402	973	3.142 rad	2647986052	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	341	1177	3.804 rad	1121410893	1_2_12					
+Metadata/Chests/Cairn3	354	1192	0.956 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn3	364	1194	4.712 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn1	477	1177	6.196 rad	2382745926	1_2_12					
+Metadata/Chests/Cairn3	483	1177	0.722 rad	1943797426	1_2_12					
+Object: Metadata/Monsters/BanditLeaderStrDex/TentBanditSpawnerOak2	514	1179	1.077 rad	3646385729	1_2_12					
+Metadata/Chests/Cairn1	633	1195	5.590 rad	2382745926	1_2_12					
+Metadata/Chests/Cairn2	358	1197	4.399 rad	2820696047	1_2_12					
+Metadata/Chests/Cairn2	364	1199	0.946 rad	2820696047	1_2_12					
+Metadata/Chests/Cairn2	632	1203	5.215 rad	2820696047	1_2_12					
+Metadata/Chests/Cairn2	627	1205	4.372 rad	2820696047	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	407	986	4.737 rad	1418889786	1_2_12					
+Metadata/Chests/TribalChest2	711	840	1.661 rad	3802957179	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	704	1138	5.130 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	695	1158	4.761 rad	1031356978	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	618	1253	4.467 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	600	1263	0.147 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	636	1262	2.503 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	624	1254	0.957 rad	1121410893	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	403	1038	0.915 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	414	1040	0.785 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	393	1035	0.785 rad	1713641240	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	360	1021	1.892 rad	1418889786	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	360	1021	3.436 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	378	1066	1.158 rad	1713641240	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	430	1269	2.823 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	440	1280	6.259 rad	2786733068	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	614	1277	3.043 rad	1121410893	1_2_12					
+Metadata/Chests/TribalChest2	721	1018	1.794 rad	3802957179	1_2_12					
+Monster: Carrion Wasp [Metadata/Monsters/PlagueSwarm/PlagueInsect@19]	725	1040	4.172 rad	3510379062	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	715	1279	2.847 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	728	1279	4.712 rad	2090382259	1_2_12					
+Metadata/Chests/TribalChest1	379	1306	3.667 rad	848307785	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	433	1297	6.111 rad	2786733068	1_2_12					
+Metadata/Chests/TribalChest1	432	1309	5.508 rad	848307785	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	455	1293	5.449 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	465	1301	5.743 rad	2090382259	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	557	1288	0.638 rad	1031356978	1_2_12					
+Metadata/Chests/Cairn2	581	1303	3.711 rad	2820696047	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	575	1308	5.081 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	581	1308	1.154 rad	1031356978	1_2_12					
+Metadata/Chests/TribalChest3	708	1299	1.594 rad	2948926915	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	718	1301	4.123 rad	2786733068	1_2_12					
+Metadata/Chests/TribalChest2	721	1018	1.794 rad	3802957179	1_2_12					
+Monster: Carrion Wasp [Metadata/Monsters/PlagueSwarm/PlagueInsect@19]	725	1040	4.172 rad	3510379062	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	715	1279	2.847 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	728	1279	4.712 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	718	1301	4.123 rad	2786733068	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	332	811	3.546 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	341	816	4.646 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	353	820	1.107 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	629	811	5.271 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	624	805	1.976 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	636	808	3.980 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	648	816	4.614 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	330	804	3.927 rad	1031356978	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	0.590 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	3.459 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	0.682 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	2.323 rad	1418889786	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	754	787	1.227 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	737	788	3.436 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	756	809	2.700 rad	2786733068	1_2_12					
+Metadata/Chests/TribalChest1	739	882	3.383 rad	848307785	1_2_12					
+Metadata/Chests/TribalChest1	737	925	4.964 rad	848307785	1_2_12					
+Monster: Carrion Wasp [Metadata/Monsters/PlagueSwarm/PlagueInsect@19]	749	1033	1.890 rad	3510379062	1_2_12					
+Monster: Carrion Wasp [Metadata/Monsters/PlagueSwarm/PlagueInsect@19]	755	1042	1.080 rad	3510379062	1_2_12					
+Metadata/Chests/TribalChest2	571	764	0.847 rad	3802957179	1_2_12					
+Metadata/Chests/TribalChest2	764	951	2.542 rad	3802957179	1_2_12					
+Monster: Carrion Wasp [Metadata/Monsters/PlagueSwarm/PlagueInsect@19]	772	1015	1.473 rad	3510379062	1_2_12					
+Monster: Carrion Wasp [Metadata/Monsters/PlagueSwarm/PlagueInsect@19]	763	1044	1.694 rad	3510379062	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	459	736	2.423 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	467	755	2.356 rad	1121410893	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	565	744	3.927 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	578	739	5.356 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	593	755	1.571 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	587	749	3.142 rad	1031356978	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	641	756	3.019 rad	3239896005	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	801	873	0.442 rad	1031356978	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	797	863	1.792 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	785	858	0.638 rad	2786733068	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	801	889	4.860 rad	1031356978	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	802	1111	5.228 rad	1121410893	1_2_12					
+Object: Metadata/Monsters/Bandits/TentBanditSpawner1	791	1181	0.000 rad	1229393200	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	459	736	2.423 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	467	755	2.356 rad	1121410893	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	565	744	3.927 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	578	739	5.356 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	593	755	1.571 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	587	749	3.142 rad	1031356978	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	641	756	3.019 rad	3239896005	1_2_12					
+Metadata/Chests/Cairn3	307	1006	1.893 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn2	315	1011	5.297 rad	2820696047	1_2_12					
+Metadata/Chests/Cairn2	313	1006	5.613 rad	2820696047	1_2_12					
+Metadata/Chests/TribalChest1	310	1103	3.678 rad	848307785	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	309	1162	4.295 rad	1121410893	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	277	873	4.102 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	290	856	5.378 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	297	879	5.793 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	281	946	1.129 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	296	1073	0.245 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	276	1069	5.093 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	293	1135	5.081 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	284	1130	2.553 rad	2786733068	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	493	990	0.860 rad	1418889786	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	493	990	1.614 rad	1713641240	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	618	1253	4.467 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	600	1263	0.147 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	636	1262	2.503 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	624	1254	0.957 rad	1121410893	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	273	853	2.749 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	272	926	2.184 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	272	953	2.700 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	265	957	1.006 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	275	1079	0.491 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	263	1077	4.148 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	275	1062	3.927 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	275	1092	2.798 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	259	1140	1.914 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	267	1129	2.233 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	430	1269	2.823 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	440	1280	6.259 rad	2786733068	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	614	1277	3.043 rad	1121410893	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	715	1279	2.847 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	728	1279	4.712 rad	2090382259	1_2_12					
+Metadata/Chests/TribalChest1	379	1306	3.667 rad	848307785	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	433	1297	6.111 rad	2786733068	1_2_12					
+Metadata/Chests/TribalChest1	432	1309	5.508 rad	848307785	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	455	1293	5.449 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	465	1301	5.743 rad	2090382259	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	557	1288	0.638 rad	1031356978	1_2_12					
+Metadata/Chests/Cairn2	581	1303	3.711 rad	2820696047	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	575	1308	5.081 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	581	1308	1.154 rad	1031356978	1_2_12					
+Metadata/Chests/TribalChest3	708	1299	1.594 rad	2948926915	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	408	1324	3.902 rad	2786733068	1_2_12					
+Metadata/Chests/TribalChest2	415	1313	5.485 rad	3802957179	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	572	1325	0.147 rad	1031356978	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	502	849	2.986 rad	1418889786	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	593	845	5.575 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	597	838	4.931 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	617	848	1.670 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	621	841	1.249 rad	1031356978	1_2_12					
+Metadata/Chests/TribalChest2	711	840	1.661 rad	3802957179	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	701	1144	3.632 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	695	1158	4.761 rad	1031356978	1_2_12					
+Metadata/Chests/TribalChest3	708	1299	1.594 rad	2948926915	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	332	811	3.546 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	341	816	4.646 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	353	820	1.107 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	604	826	4.812 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	629	811	5.271 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	624	805	1.976 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	637	810	2.836 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	648	816	4.614 rad	1031356978	1_2_12					
+Metadata/Chests/TribalChest2	721	1018	1.794 rad	3802957179	1_2_12					
+Monster: Carrion Wasp [Metadata/Monsters/PlagueSwarm/PlagueInsect@19]	725	1040	4.172 rad	3510379062	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	715	1279	2.847 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	728	1279	4.712 rad	2090382259	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	330	804	3.927 rad	1031356978	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	0.590 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	3.459 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	0.682 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	2.323 rad	1418889786	1_2_12					
+Metadata/Chests/TribalChest2	571	764	0.847 rad	3802957179	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	754	787	1.227 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	737	788	3.436 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	756	809	2.700 rad	2786733068	1_2_12					
+Metadata/Chests/TribalChest1	739	882	3.383 rad	848307785	1_2_12					
+Metadata/Chests/TribalChest1	737	925	4.964 rad	848307785	1_2_12					
+Monster: Carrion Wasp [Metadata/Monsters/PlagueSwarm/PlagueInsect@19]	749	1033	1.890 rad	3510379062	1_2_12					
+Monster: Carrion Wasp [Metadata/Monsters/PlagueSwarm/PlagueInsect@19]	755	1042	1.080 rad	3510379062	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	459	736	2.423 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	467	755	2.356 rad	1121410893	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	565	744	3.927 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	578	739	5.356 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	593	755	1.571 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	587	749	3.142 rad	1031356978	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	641	756	3.019 rad	3239896005	1_2_12					
+Metadata/Chests/TribalChest2	764	951	2.542 rad	3802957179	1_2_12					
+Monster: Carrion Wasp [Metadata/Monsters/PlagueSwarm/PlagueInsect@19]	772	1015	1.473 rad	3510379062	1_2_12					
+Monster: Carrion Wasp [Metadata/Monsters/PlagueSwarm/PlagueInsect@19]	763	1044	1.694 rad	3510379062	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	801	873	0.442 rad	1031356978	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	797	863	1.792 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	785	858	0.638 rad	2786733068	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	801	889	4.860 rad	1031356978	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	802	1111	5.228 rad	1121410893	1_2_12					
+Object: Metadata/Monsters/Bandits/TentBanditSpawner1	791	1181	0.000 rad	1229393200	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	812	776	0.442 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	824	779	2.307 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	826	770	2.700 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	817	768	3.780 rad	1121410893	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	821	825	0.761 rad	1031356978	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	812	849	3.412 rad	2090382259	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	805	919	3.632 rad	1031356978	1_2_12					
+Metadata/Chests/TribalChest1	826	929	2.632 rad	848307785	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	825	1107	3.534 rad	1121410893	1_2_12					
+Metadata/Chests/TribalChest1	825	1123	2.905 rad	848307785	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	618	1253	4.467 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	605	1264	1.768 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	636	1262	2.503 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	624	1254	0.957 rad	1121410893	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	843	826	6.234 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	832	814	5.424 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	835	823	4.737 rad	1031356978	1_2_12					
+Metadata/Chests/Cairn1	839	890	1.252 rad	2382745926	1_2_12					
+Metadata/Chests/Cairn3	834	887	2.414 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn2	834	892	1.774 rad	2820696047	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	841	965	1.424 rad	3239896005	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	835	971	2.233 rad	3239896005	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	837	980	3.191 rad	3239896005	1_2_12					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@19]	844	972	0.025 rad	1639590435	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	847	1120	1.694 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	835	1104	1.743 rad	1121410893	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	430	1269	2.823 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	440	1280	6.259 rad	2786733068	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	614	1277	3.043 rad	1121410893	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	715	1279	2.847 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	728	1279	4.712 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	741	1265	0.074 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	739	1279	5.031 rad	2786733068	1_2_12					
+Metadata/Chests/Cairn2	764	1287	4.911 rad	2820696047	1_2_12					
+Metadata/Chests/Cairn2	769	1287	5.138 rad	2820696047	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	851	824	5.179 rad	1031356978	1_2_12					
+Object: Metadata/Monsters/Bandits/TentBanditSpawner1	864	1273	0.000 rad	1229393200	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	433	1297	6.111 rad	2786733068	1_2_12					
+Metadata/Chests/TribalChest1	432	1309	5.508 rad	848307785	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	455	1293	5.449 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	465	1301	5.743 rad	2090382259	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	557	1288	0.638 rad	1031356978	1_2_12					
+Metadata/Chests/Cairn2	581	1303	3.711 rad	2820696047	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	575	1308	5.081 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	581	1308	1.154 rad	1031356978	1_2_12					
+Metadata/Chests/TribalChest3	708	1299	1.594 rad	2948926915	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	718	1301	4.123 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	742	1291	5.866 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	758	1300	6.111 rad	2090382259	1_2_12					
+Metadata/Chests/Cairn1	767	1292	1.706 rad	2382745926	1_2_12					
+Metadata/Chests/Cairn2	762	1292	3.547 rad	2820696047	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	407	986	4.737 rad	1418889786	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	409	986	1.414 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	408	1017	1.571 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	394	1071	5.989 rad	2090382259	1_2_12					
+Monster: Callow Thug [Metadata/Monsters/Bandits/BanditMeleeShield@19]	618	1018	2.705 rad	1090821132	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	572	1325	0.147 rad	1031356978	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	443	1342	5.351 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	632	1349	5.326 rad	2786733068	1_2_12					
+Metadata/Chests/TribalChest3	663	1355	4.013 rad	2948926915	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	548	1373	3.559 rad	3239896005	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	562	1371	0.982 rad	3239896005	1_2_12					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@19]	571	1376	0.270 rad	1639590435	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	638	1373	4.565 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	631	1361	2.233 rad	2090382259	1_2_12					
+Monster: Callow Thug [Metadata/Monsters/Bandits/BanditMeleeShield@19]	618	1018	2.705 rad	1090821132	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	430	1269	2.823 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	433	1297	6.111 rad	2786733068	1_2_12					
+Metadata/Chests/TribalChest1	432	1309	5.508 rad	848307785	1_2_12					
+Metadata/Chests/TribalChest2	415	1313	5.485 rad	3802957179	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	420	1349	2.307 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	428	1345	3.191 rad	2090382259	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	407	986	4.737 rad	1418889786	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	409	986	1.414 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	408	1017	1.571 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	394	1071	5.989 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	408	1324	3.902 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	652	1384	2.503 rad	2786733068	1_2_12					
+Metadata/Chests/Cairn1	672	1401	0.823 rad	2382745926	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	708	1396	1.129 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	703	1384	4.197 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	728	1387	0.933 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	741	1387	2.970 rad	2786733068	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	704	1150	5.666 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	706	1159	0.464 rad	3875590990	1_2_12					
+Metadata/Chests/TribalChest1	379	1306	3.667 rad	848307785	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	345	995	1.030 rad	2786733068	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	360	1021	1.892 rad	1418889786	1_2_12					
+Metadata/Chests/Cairn3	354	1192	0.956 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn3	364	1194	4.712 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn2	358	1197	4.399 rad	2820696047	1_2_12					
+Metadata/Chests/Cairn2	364	1199	0.946 rad	2820696047	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	331	1147	4.712 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	333	1153	4.172 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	337	1173	5.018 rad	1121410893	1_2_12					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	553	1140	0.000 rad	1450012487	1_2_12					
+Metadata/Chests/Cairn3	307	1006	1.893 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn2	315	1011	5.297 rad	2820696047	1_2_12					
+Metadata/Chests/Cairn2	313	1006	5.613 rad	2820696047	1_2_12					
+Metadata/Chests/TribalChest1	310	1103	3.678 rad	848307785	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	309	1162	4.295 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	320	1156	1.727 rad	1121410893	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	1135	4.025 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	1135	1.161 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	1135	0.492 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	554	1132	4.977 rad	1418889786	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	536	1112	2.989 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	547	1105	3.037 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	542	1105	2.904 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	535	1154	1.571 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	544	1161	0.245 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	591	1135	4.686 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	538	1159	0.524 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	598	1160	5.398 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	606	1138	4.712 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	604	1157	5.498 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	595	1098	3.942 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	582	1093	3.327 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	612	1151	4.712 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	594	1086	3.844 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	614	1122	4.712 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	635	1138	4.682 rad	1713641240	1_2_12					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	558	1140	0.000 rad	1450012487	1_2_12					
+Monster: Callow Thug [Metadata/Monsters/Bandits/BanditMeleeShield@19]	618	1018	2.705 rad	1090821132	1_2_12					
+Object: Metadata/Monsters/Bandits/TentBanditSpawner1	791	1181	0.000 rad	1229393200	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	805	919	3.632 rad	1031356978	1_2_12					
+Metadata/Chests/TribalChest1	826	929	2.632 rad	848307785	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	805	1110	1.153 rad	1121410893	1_2_12					
+Metadata/Chests/TribalChest1	825	1123	2.905 rad	848307785	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	841	965	1.424 rad	3239896005	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	835	971	2.233 rad	3239896005	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	837	980	3.191 rad	3239896005	1_2_12					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@19]	844	972	0.025 rad	1639590435	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	847	1120	1.694 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	834	1123	3.194 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	829	1110	2.200 rad	1121410893	1_2_12					
+Object: Metadata/Monsters/Bandits/TentBanditSpawner1	864	1273	0.000 rad	1229393200	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	629	1135	4.712 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	633	1142	3.785 rad	1713641240	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	652	1384	2.503 rad	2786733068	1_2_12					
+Metadata/Chests/Cairn1	672	1401	0.823 rad	2382745926	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	708	1396	1.129 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	703	1384	4.197 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	728	1387	0.933 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	741	1387	2.970 rad	2786733068	1_2_12					
+Monster: Callow Thug [Metadata/Monsters/Bandits/BanditMeleeShield@19]	618	1018	2.705 rad	1090821132	1_2_12					
+Metadata/Chests/TribalChest1	432	1309	5.508 rad	848307785	1_2_12					
+Metadata/Chests/TribalChest2	415	1313	5.485 rad	3802957179	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	420	1349	2.307 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	428	1345	3.191 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	394	1071	5.989 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	408	1324	3.902 rad	2786733068	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	653	1232	0.785 rad	3875590990	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	641	1237	0.141 rad	1418889786	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	641	1237	1.249 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	655	1240	0.083 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	632	1249	1.030 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	700	1270	4.410 rad	1713641240	1_2_12					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	642	1327	0.000 rad	1450012487	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	633	1325	0.359 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	635	1343	0.077 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	623	1347	0.000 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	643	1362	6.249 rad	1713641240	1_2_12					
+Metadata/Chests/TribalChest1	379	1306	3.667 rad	848307785	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	599	1291	1.571 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	581	1310	1.571 rad	3875590990	1_2_12					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	603	1350	0.000 rad	1450012487	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	561	1306	1.366 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	664	1275	4.712 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	691	1282	3.927 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	712	1284	4.712 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	714	1291	4.712 rad	1713641240	1_2_12					
+Metadata/Chests/Cairn3	354	1192	0.956 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn3	364	1194	4.712 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn2	358	1197	4.399 rad	2820696047	1_2_12					
+Metadata/Chests/Cairn2	364	1199	0.946 rad	2820696047	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	649	1344	4.823 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	699	1371	5.321 rad	1713641240	1_2_12					
+Object: Metadata/Effects/Spells/shatter/Shatter	576	1359	0.620 rad	2647986052	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	723	1398	5.911 rad	1418889786	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	723	1398	1.720 rad	1713641240	1_2_12					
+Object: Metadata/Effects/Spells/shatter/Shatter	551	1368	1.571 rad	2647986052	1_2_12					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	574	1392	0.000 rad	1450012487	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	333	1153	4.172 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	337	1173	5.018 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	309	1162	4.295 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	320	1156	1.727 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	309	1162	4.295 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	320	1156	1.727 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	333	1153	4.172 rad	1121410893	1_2_12					
+Metadata/Chests/Cairn2	477	1172	0.363 rad	2820696047	1_2_12					
+Metadata/Chests/Cairn1	485	1171	0.907 rad	2382745926	1_2_12					
+Object: Metadata/Monsters/BanditLeaderStrDex/TentBanditSpawnerOak1	606	1168	5.781 rad	325052273	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	259	1140	1.914 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	267	1129	2.233 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	293	1135	5.081 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	284	1130	2.553 rad	2786733068	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	331	1147	4.712 rad	1121410893	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	1135	4.025 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	1135	1.161 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	1135	0.492 rad	1418889786	1_2_12					
+Monster: Oak, Skullbreaker [Metadata/Monsters/BanditLeaderStrDex/BanditLeaderOak@19]	550	1135	1.571 rad	622805944	1_2_12					
+Object: Metadata/QuestObjects/BanditDoor	643	1140	4.800 rad	1814490328	1_2_12	57	-451.427			
+Metadata/Effects/Spells/shatter/ShatterSmall	464	1365	1.723 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	453	1348	0.983 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	453	1359	0.719 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	460	1326	3.142 rad	1713641240	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	275	1092	2.798 rad	2090382259	1_2_12					
+Metadata/Chests/TribalChest1	310	1103	3.678 rad	848307785	1_2_12					
+Metadata/Chests/Cairn3	480	1097	4.986 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn3	480	1102	5.190 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn2	487	1083	4.954 rad	2820696047	1_2_12					
+Metadata/Chests/Cairn2	485	1099	5.981 rad	2820696047	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	439	1348	1.204 rad	1418889786	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	439	1348	0.844 rad	1713641240	1_2_12					
+Metadata/Chests/Cairn2	485	1094	2.574 rad	2820696047	1_2_12					
+Object: Metadata/Monsters/BanditLeaderStrDex/TentBanditSpawnerOak2	514	1090	2.921 rad	3646385729	1_2_12					
+Object: Metadata/Monsters/BanditLeaderStrDex/TentBanditSpawnerOak3	615	1083	2.817 rad	3848785545	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	462	1288	4.069 rad	1713641240	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	275	1079	0.491 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	263	1077	4.148 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	275	1062	3.927 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	296	1073	0.245 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	276	1069	5.093 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	394	1071	5.989 rad	2090382259	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	448	1296	2.531 rad	1713641240	1_2_12					
+Metadata/Chests/Cairn1	490	1078	5.393 rad	2382745926	1_2_12					
+Metadata/Chests/Cairn3	487	1073	2.187 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn3	485	1078	1.749 rad	1943797426	1_2_12					
+Object: Metadata/Monsters/BanditLeaderStrDex/TentBanditSpawnerOak3	585	1080	3.200 rad	3848785545	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	451	1288	1.849 rad	1713641240	1_2_12					
+Metadata/Chests/Cairn2	527	1039	1.564 rad	2820696047	1_2_12					
+Monster: Callow Thug [Metadata/Monsters/Bandits/BanditMeleeShield@19]	606	1039	3.713 rad	1090821132	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	360	1021	1.892 rad	1418889786	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	408	1017	1.571 rad	2090382259	1_2_12					
+Metadata/Chests/Cairn1	527	1032	0.583 rad	2382745926	1_2_12					
+Metadata/Chests/Cairn1	522	1034	5.792 rad	2382745926	1_2_12					
+Metadata/Chests/Cairn3	572	1029	3.482 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn1	571	1034	6.065 rad	2382745926	1_2_12					
+Metadata/Chests/Cairn3	576	1034	3.955 rad	1943797426	1_2_12					
+Monster: Callow Thug [Metadata/Monsters/Bandits/BanditMeleeShield@19]	611	1020	2.789 rad	1090821132	1_2_12					
+Monster: Callow Thug [Metadata/Monsters/Bandits/BanditMeleeShield@19]	618	1018	2.705 rad	1090821132	1_2_12					
+Object: Metadata/Monsters/Bandits/TentBanditSpawner2	618	1018	2.705 rad	186986131	1_2_12					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	351	1232	0.000 rad	1450012487	1_2_12					
+Metadata/Chests/Cairn3	307	1006	1.893 rad	1943797426	1_2_12					
+Metadata/Chests/Cairn2	315	1011	5.297 rad	2820696047	1_2_12					
+Metadata/Chests/Cairn2	313	1006	5.613 rad	2820696047	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	345	995	1.030 rad	2786733068	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	364	1194	4.602 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	364	1199	2.243 rad	1418889786	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	348	1189	2.911 rad	3875590990	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	407	986	4.737 rad	1418889786	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	409	986	1.414 rad	2786733068	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	338	1175	2.897 rad	3875590990	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	316	1161	3.115 rad	1418889786	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	316	1161	2.684 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	329	1146	2.554 rad	3875590990	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	318	1151	2.656 rad	3875590990	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	272	953	2.700 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	265	957	1.006 rad	2090382259	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	291	1168	2.915 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	299	1149	3.142 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	294	1158	2.214 rad	1713641240	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	287	1147	2.845 rad	1418889786	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	287	1147	3.605 rad	1713641240	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	272	926	2.184 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	275	940	5.498 rad	2786733068	1_2_12					
+Metadata/Chests/Cairn1	527	1032	0.583 rad	2382745926	1_2_12					
+Metadata/Chests/Cairn1	522	1034	5.792 rad	2382745926	1_2_12					
+Metadata/Chests/Cairn2	527	1039	1.564 rad	2820696047	1_2_12					
+Object: Metadata/Monsters/BanditLeaderStrDex/TentBanditSpawnerOak2	514	1090	2.921 rad	3646385729	1_2_12					
+Object: Metadata/Monsters/BanditLeaderStrDex/TentBanditSpawnerOak2	514	1179	1.077 rad	3646385729	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	297	879	5.793 rad	2786733068	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	274	1123	3.058 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	283	1116	3.266 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	292	1107	3.266 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	281	1100	2.761 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	272	1097	2.316 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	287	1088	2.793 rad	1713641240	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	273	853	2.749 rad	2786733068	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	277	873	4.102 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	290	856	5.378 rad	2786733068	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	1135	4.025 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	1135	1.161 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	1135	0.492 rad	1418889786	1_2_12					
+Monster: Oak, Skullbreaker [Metadata/Monsters/BanditLeaderStrDex/BanditLeaderOak@19]	550	1135	1.571 rad	622805944	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	502	849	2.986 rad	1418889786	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	332	811	3.546 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	341	816	4.646 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	353	820	1.107 rad	1031356978	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	330	804	3.927 rad	1031356978	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	0.590 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	3.459 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	0.682 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	2.323 rad	1418889786	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	459	736	2.423 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	467	755	2.356 rad	1121410893	1_2_12					
+Metadata/Chests/TribalChest1	367	728	1.351 rad	848307785	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	466	735	2.789 rad	1121410893	1_2_12					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	309	938	0.000 rad	1450012487	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	302	951	0.927 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	299	943	0.349 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	306	958	2.159 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	304	966	1.279 rad	1713641240	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	294	909	2.316 rad	1418889786	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	294	909	2.467 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	304	907	1.681 rad	1713641240	1_2_12					
+Object: Metadata/QuestObjects/Inca/IncaTreeTransition	241	664	0.000 rad	1093500118	1_2_12	43	-341.026	0	59770	The Vaal Ruins
+Object: Metadata/QuestObjects/Inca/PoisonTree	240	660	0.000 rad	3913650269	1_2_12	32	-255.965			
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	435	651	3.118 rad	1121410893	1_2_12					
+Metadata/Chests/Boulder2	479	664	1.528 rad	1758529206	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	294	888	2.911 rad	1713641240	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterSmall	282	862	2.381 rad	1713641240	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	358	635	0.522 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	357	637	5.604 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	352	641	5.118 rad	1418889786	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	437	636	3.232 rad	1031356978	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	455	627	5.948 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	328	828	1.057 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	352	614	3.650 rad	1418889786	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	520	603	4.018 rad	1347958110	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	534	610	1.571 rad	1347958110	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	532	600	0.661 rad	1347958110	1_2_12					
+Metadata/Effects/Spells/shatter/ShatterLarge	345	828	5.608 rad	3875590990	1_2_12					
+Object: Metadata/MiscellaneousObjects/Waypoint	218	586	3.142 rad	552129418	1_2_12	33	-265.508			
+Object: Metadata/MiscellaneousObjects/WorldItem	305	587	6.206 rad	1418889786	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	304	587	4.756 rad	2786733068	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	413	597	3.200 rad	1121410893	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	524	594	1.893 rad	1347958110	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	529	583	0.983 rad	1347958110	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	390	567	3.246 rad	1121410893	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	532	535	5.743 rad	1347958110	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	549	538	2.454 rad	1347958110	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	547	550	3.730 rad	1347958110	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	554	547	3.730 rad	1347958110	1_2_12					
+Monster: Oak's Sniper [Metadata/Monsters/Bandits/BanditBowBlastRain@19]	565	744	3.927 rad	1031356978	1_2_12					
+Metadata/Chests/TribalChest2	571	764	0.847 rad	3802957179	1_2_12					
+Metadata/Chests/TribalChest3	570	889	0.775 rad	2948926915	1_2_12					
+Monster: Bramble Cobra [Metadata/Monsters/Snake/SnakeMeleeSpitForest@19]	553	527	0.319 rad	1347958110	1_2_12					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@19]	335	495	5.743 rad	1639590435	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	324	485	0.785 rad	3239896005	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	323	503	2.473 rad	3239896005	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	350	501	2.290 rad	3239896005	1_2_12					
+Metadata/Chests/TribalChest1	416	497	4.300 rad	848307785	1_2_12					
+Metadata/Chests/Boulder3	487	494	1.543 rad	3968314488	1_2_12					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@19]	562	495	3.289 rad	3239896005	1_2_12					
+Metadata/Chests/Boulder1	315	472	6.026 rad	94048164	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	537	474	6.185 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	567	462	1.448 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	527	453	1.374 rad	1121410893	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeBlue@19]	459	392	0.417 rad	2090382259	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	452	369	5.522 rad	2786733068	1_2_12					
+Metadata/Chests/Boulder2	479	664	1.528 rad	1758529206	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	479	745	3.816 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	463	760	2.279 rad	1121410893	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	0.590 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	3.459 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	0.682 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	2.323 rad	1418889786	1_2_12					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	250	639	0.000 rad	1450012487	1_2_12					
+Monster: Enraptured Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumBlue@19]	452	369	5.522 rad	2786733068	1_2_12					
+Metadata/Chests/Boulder2	479	664	1.528 rad	1758529206	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	479	745	3.816 rad	1121410893	1_2_12					
+Monster: Oak's Devoted [Metadata/Monsters/Bandits/BanditMeleeWarlordsMarkMaul@19]	463	760	2.279 rad	1121410893	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	0.590 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	3.459 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	0.682 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	803	2.323 rad	1418889786	1_2_12					
+Object: Metadata/MiscellaneousObjects/WorldItem	294	909	2.316 rad	1418889786	1_2_12					

@@ -1,0 +1,4 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1839	371	0.0000	-2.661	0	beachtown_south_entrance_part2.tdt	0	0	45307	2_6_town
+Metadata/NPC/Act1/Doorman	1855	363	5.4672	0.000	0	town_entrance_exclude.arm	0			
+Metadata/NPC/Info/BrineKingGlyph1	1050	360	0.0000	0.000	0	glyph.arm	0			

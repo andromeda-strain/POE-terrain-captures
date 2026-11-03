@@ -1,0 +1,9 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	403	884	6.2832	-13.852	2	belly_to_quarry_v01_01.tdt	0	0	46135	2_9_8
+Metadata/MiscellaneousObjects/AreaTransition	219	2103	6.2832	-13.852	2	belly_to_rottingcore_v01_01.tdt	0	0	26256	2_9_10_2
+Metadata/Monsters/Taster/TasterSpawnerDroolmaw	1388	701	2.8239	0.000	0	boss1.arm	1			
+Metadata/Monsters/Taster/TasterSpawnerDroolmaw	1391	692	1.9133	0.000	0	boss1.arm	1			
+Metadata/Monsters/Taster/TasterSpawnerDroolmaw	1378	752	1.4033	0.000	0	boss1.arm	1			
+Metadata/Monsters/Taster/TasterSpawnerDroolmaw	1438	746	5.2338	0.000	0	boss1.arm	1			
+Metadata/Monsters/Taster/TasterSpawnerDroolmaw	1446	738	0.0826	0.000	0	boss1.arm	1			
+Metadata/Monsters/Taster/TasterSpawnerDroolmaw	1460	701	3.5646	0.000	0	boss1.arm	1			

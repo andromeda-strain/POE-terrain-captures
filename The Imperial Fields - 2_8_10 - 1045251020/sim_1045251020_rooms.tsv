@@ -1,0 +1,44 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/graingate_entrance.arm	6	24	0	node	default entrance1
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/watercliff_to_slums.arm	12	12	0	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/graingate_slums_2.arm	21	18	4	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/cliff_to_slums.arm	36	21	0	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/watercliff_to_arch.arm	30	75	0	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/arch_to_temple.arm	15	93	0	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/graingate_roadend_2.arm	33	36	0	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/cliff_to_walkway_1.arm	45	90	3	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/temple_entrance.arm	21	108	0	node	entrance2
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/farm_road_end.arm	37	78	0	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/sidearea_cellar.arm	36	57	6	node	sidearea1 accessible
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/waypoint.arm	35	67	0	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/boss.arm	35	93	0	node	unique2
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/road_junction.arm	23	41	7	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/low_source.arm	6	90	7	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/low_source.arm	9	90	1	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/low_sink.arm	8	6	2	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/low_sink.arm	10	6	3	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_07.arm	18	24	2	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_06.arm	27	33	3	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_05.arm	18	44	6	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_07.arm	35	47	6	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_06.arm	21	50	7	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_02.arm	18	53	6	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_05.arm	25	55	6	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_05.arm	28	56	0	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_01.arm	19	59	2	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_07.arm	26	65	3	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_06.arm	38	68	2	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_07.arm	29	69	5	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_07.arm	33	80	0	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_01.arm	45	80	1	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_05.arm	40	84	4	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_06.arm	32	91	4	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_07.arm	22	93	1	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_06.arm	25	97	3	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_06.arm	31	97	4	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_04.arm	36	99	0	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_07.arm	44	99	4	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_07.arm	21	102	4	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_05.arm	27	102	2	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_07.arm	24	103	2	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_03.arm	38	105	6	fill	

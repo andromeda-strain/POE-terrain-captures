@@ -1,0 +1,86 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	280	360	5.961 rad	2448909918	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	210	269	1.913 rad	2224417429	HideoutBattleground					
+Metadata/MiscellaneousObjects/Brequel/GraftLocker_Hideout	230	270	3.142 rad	843442937	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	244	275	0.000 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	258	270	4.712 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	292	270	3.142 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	362	273	1.860 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	346	274	0.228 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	349	265	0.000 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	363	259	1.468 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	379	256	3.465 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	397	271	5.603 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	198	277	0.000 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	190	278	0.000 rad	2224417429	HideoutBattleground					
+Metadata/NPC/League/Expedition/HagglerHideout	229	285	0.197 rad	3108367810	HideoutBattleground					
+Metadata/NPC/League/Blight/BlightBuilderHideout	280	280	4.812 rad	917937318	HideoutBattleground					
+Metadata/NPC/League/Expedition/DealerHideout	292	281	0.559 rad	2077148119	HideoutBattleground					
+Metadata/NPC/League/Bestiary/EinharHideout	306	286	3.142 rad	3328367310	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	388	284	0.000 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	406	277	4.712 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	409	294	0.000 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	403	288	0.762 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	397	277	4.403 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	405	276	1.056 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	416	291	4.712 rad	2224417429	HideoutBattleground					
+Metadata/MiscellaneousObjects/Expedition/ExpeditionStash_Hideout	182	314	1.571 rad	2895737018	HideoutBattleground					
+Metadata/NPC/League/Delve/DelveMinerHideout	195	313	2.761 rad	3178262659	HideoutBattleground					
+Metadata/NPC/League/Expedition/SagaHideout	203	317	5.865 rad	1435863423	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/Waypoint	242	310	1.638 rad	552129418	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/Stash	292	312	4.712 rad	2817685266	HideoutBattleground					
+Metadata/NPC/Missions/Hideout/Helena	309	305	5.468 rad	2035396592	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	404	318	4.909 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	396	309	0.000 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	405	299	1.058 rad	2224417429	HideoutBattleground					
+Metadata/MiscellaneousObjects/Heist/HeistStash_Hideout	182	330	1.571 rad	2720744077	HideoutBattleground					
+Metadata/NPC/Epilogue/LillyHideout	291	338	1.316 rad	1278960326	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	307	331	0.580 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	344	338	0.441 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	357	337	0.575 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	377	341	4.376 rad	2224417429	HideoutBattleground					
+Metadata/MiscellaneousObjects/Harvest/CraftingSilo_Hideout	204	363	0.000 rad	45087824	HideoutBattleground					
+Metadata/MiscellaneousObjects/Settlers/RecombinatingBench	188	353	0.785 rad	35119791	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	185	359	4.782 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	186	350	0.196 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	187	362	2.553 rad	2224417429	HideoutBattleground					
+Metadata/Terrain/Missions/Hideouts/Objects/HideoutCraftingBench	225	363	4.712 rad	60453592	HideoutBattleground					
+Metadata/NPC/League/Expedition/GamblerHideout	243	354	6.183 rad	3098437301	HideoutBattleground					
+Metadata/NPC/League/Kalguur/VillageFaustusHideout	277	351	2.761 rad	2052913407	HideoutBattleground					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	276	358	4.099 rad	1570723376	HideoutBattleground					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	276	363	4.491 rad	1570723376	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	307	346	4.516 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	185	407	4.581 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	199	403	0.000 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	223	401	0.000 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	242	401	0.000 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	341	400	4.009 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	353	408	0.967 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	178	425	1.571 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	201	425	4.712 rad	2224417429	HideoutBattleground					
+Metadata/NPC/Epilogue/EagonHideout	231	425	3.021 rad	2468014904	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	341	428	3.957 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	352	427	4.743 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	178	459	0.393 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	201	448	0.000 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	191	459	1.571 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	186	441	1.571 rad	2224417429	HideoutBattleground					
+Object: Metadata/Terrain/Missions/Hideouts/Objects/StrDexIntMappingDevice	276	445	0.000 rad	4001365389	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	349	453	5.071 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	357	447	0.000 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	181	461	3.891 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	187	460	0.000 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	201	471	0.000 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	193	461	5.601 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	186	476	4.658 rad	2224417429	HideoutBattleground					
+Metadata/NPC/Epilogue/KiracHideout	233	467	4.332 rad	1724116750	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	338	476	5.984 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	350	475	5.498 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	358	461	4.712 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	178	494	1.571 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	202	504	5.498 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	201	494	4.712 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	228	503	1.571 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	213	505	4.712 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	321	506	0.769 rad	2224417429	HideoutBattleground					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	354	506	5.804 rad	2224417429	HideoutBattleground					

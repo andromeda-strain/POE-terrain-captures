@@ -1,0 +1,26 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/QuestObjects/Sewers/SewersGrateTransition	1138	195	3.1416	10.293	-1	aqueduct_sewer_entrance_v01_01.tdt	0	1	2569643783	ArenaNameDoedre
+Metadata/QuestObjects/Sewers/SewersGrate	1138	194	3.1416	-9.995	1	aqueduct_sewer_entrance_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	391	479	4.7124	-107.816	14	cesspool_waypoint_v01_01.tdt	0	1	2642601211	Arena
+Metadata/MiscellaneousObjects/AreaTransition	747	386	1.5708	-135.808	17	sewerwall_exit_v01_01.tdt	0	0	36496	2_8_8
+Metadata/MiscellaneousObjects/AreaTransition	160	601	0.0000	-192.849	25	sewer_ladder_up_v01_01.tdt	0	0	57160	2_8_3
+Metadata/MiscellaneousObjects/AreaTransition	206	979	0.0000	7.823	-1	doedre_sewer_grate_v01_01.tdt	0	1	2179728026	MapStairAlternativeSewerOutlet
+Metadata/MiscellaneousObjects/AreaTransition	238	876	0.0000	-61.584	8	doedre_sewer_grate_v01_01.tdt	0	1	62307	%areaname%
+Metadata/Monsters/Doedre/DoedreSewer/DoedreSewersCauldron	207	920	0.0000	44.817	-6	doedre_sewer_grate_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AnimateReversible	207	920	0.0000	44.817	-6	doedre_sewer_grate_v01_01.tdt	0			
+Metadata/Monsters/Doedre/DoedreSewer/DoedreSewerFaceDoor	206	969	0.0000	-79.963	10	doedre_sewer_grate_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	754	1046	3.1416	-22.827	3	sewerwall_thick_vertical_entrance_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1311	1459	3.1416	-114.042	15	sewerwall_end_tunnel_v01_03.tdt	0	0	25987	2_8_2_1
+Metadata/MiscellaneousObjects/Waypoint	390	436	4.7124	-21.060	3	waypoint_1.arm	0			
+Metadata/MiscellaneousObjects/CraftRecipeUnlockMarker	329	447	0.0000	0.000	0	waypoint_1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	237	919	4.7124	0.000	0	doedre_boss_room_1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	183	896	4.7124	0.000	0	doedre_boss_room_1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	182	940	4.7124	0.000	0	doedre_boss_room_1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	214	951	4.7124	0.000	0	doedre_boss_room_1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	215	888	4.7124	0.000	0	doedre_boss_room_1.arm	1			
+Metadata/Monsters/Doedre/DoedreSewer/DoedreCauldronValve	193	919	1.5748	-42.459	5	doedre_boss_room_1.arm	0			
+Metadata/MiscellaneousObjects/TeleportMarker	176	918	4.7124	0.000	0	doedre_boss_room_1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	195	948	4.7124	0.000	0	doedre_boss_room_1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	230	940	4.7124	0.000	0	doedre_boss_room_1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	229	898	4.7124	0.000	0	doedre_boss_room_1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	196	889	4.7124	0.000	0	doedre_boss_room_1.arm	1			

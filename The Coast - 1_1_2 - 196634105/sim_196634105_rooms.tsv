@@ -1,0 +1,30 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act1/Area2/Rooms/town_entrance_exclude.arm	9	9	0	node	default entrance1
+0	Metadata/Terrain/Leagues/Deepwater/Act1_Coast/Rooms/toisland.arm	54	9	3	node	entrance2 entrance3
+0	Metadata/Terrain/Act1/Area2/Rooms/block_ledge.arm	24	18	0	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/block_ledge_stairs.arm	33	24	4	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/stairs_high.arm	36	33	0	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/stairs_high.arm	48	39	4	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/stairs_high.arm	15	42	0	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/stairs_high.arm	27	33	4	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/scavenger_camp_2a.arm	41	42	4	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire4.arm	21	26	7	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire5.arm	21	31	1	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	45	31	0	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire4.arm	47	33	1	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	43	34	0	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire2.arm	22	35	2	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	15	36	2	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire4.arm	17	36	5	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire5.arm	40	36	0	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	42	40	2	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	23	42	0	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire4.arm	36	42	5	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	39	45	0	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	49	45	5	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire4.arm	42	48	0	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	50	48	1	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/Overlays/beach_shore_Cc_01.arm	39	21	4	overlay	
+0	Metadata/Terrain/Act1/Area2/Rooms/Overlays/beach_shore_Cv_02.arm	36	18	3	overlay	
+0	Metadata/Terrain/Act1/Area2/Rooms/Overlays/beach_shore_Cc_01.arm	48	27	4	overlay	
+0	Metadata/Terrain/Act1/Area2/Rooms/Overlays/beach_shore_Cv_02.arm	21	15	0	overlay	

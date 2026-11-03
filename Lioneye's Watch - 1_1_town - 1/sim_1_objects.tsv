@@ -1,0 +1,24 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	388	231	4.7124	-351.039	45	beachencampment_v01_01.tdt	0	0	31442	1_1_2
+Metadata/MiscellaneousObjects/AreaTransitionMapMarker	114	307	4.7124	-215.328	28	beachencampment_v01_01.tdt	0	0	61450	1_1_1
+Metadata/MiscellaneousObjects/Waypoint	256	169	4.7124	-357.520	46	beachencampment_v01_01.tdt	0			
+Metadata/NPC/Act1/Nessa	346	270	4.8805	-231.997	30	beach_town_unique_normal.arm	0			
+Metadata/NPC/Act1/Tarkleigh	389	183	4.5567	0.000	0	beach_town_unique_normal.arm	0			
+Metadata/NPC/Act1/Bestel	362	247	4.7997	0.000	0	beach_town_unique_normal.arm	0			
+Metadata/MiscellaneousObjects/GuildStash	324	278	6.0224	0.000	0	beach_town_unique_normal.arm	0			
+Metadata/NPC/Info/BeachEncampmentNotes	223	298	4.3014	-83.560	11	beach_town_unique_normal.arm	0			
+Metadata/MiscellaneousObjects/NoticeBoard	367	232	4.7124	0.000	0	beach_town_unique_normal.arm	0			
+Metadata/MiscellaneousObjects/NoticeBoardPvP	396	157	4.7101	0.000	0	beach_town_unique_normal.arm	0			
+Metadata/MiscellaneousObjects/Stash	313	279	0.2819	0.000	0	beach_town_unique_normal.arm	0			
+Metadata/MiscellaneousObjects/TownPortal	216	240	4.7124	0.000	0	beach_town_unique_normal.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	219	261	4.7124	0.000	0	beach_town_unique_normal.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	199	248	4.7124	0.000	0	beach_town_unique_normal.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	203	271	4.7124	0.000	0	beach_town_unique_normal.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	181	255	4.7124	0.000	0	beach_town_unique_normal.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	183	277	4.7124	0.000	0	beach_town_unique_normal.arm	1			
+Metadata/NPC/Info/TutorialNPC	335	194	3.1416	0.000	0	beach_town_unique_normal.arm	0			
+Metadata/MiscellaneousObjects/Sentinel/SentinelLocker	298	275	0.0873	0.000	0	beach_town_unique_normal.arm	0			
+Metadata/MiscellaneousObjects/Necropolis/NecropolisLocker	289	219	0.0000	0.000	0	beach_town_unique_normal.arm	0			
+Metadata/MiscellaneousObjects/MercenaryMarker	196	290	5.9684	0.000	0	beach_town_unique_normal.arm	0			
+Metadata/MiscellaneousObjects/MercenaryMarker	210	287	6.0179	0.000	0	beach_town_unique_normal.arm	0			
+Metadata/MiscellaneousObjects/MercenaryMarker	224	279	6.0289	0.000	0	beach_town_unique_normal.arm	0			

@@ -1,0 +1,76 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1885	477	1.5708	72.950	-9	cathedral_roof_transition_v01_01.tdt	0	0	51718	1_5_3b
+Metadata/MiscellaneousObjects/AreaTransition	1541	1943	1.5708	-146.188	19	cathedral_roof_sidetransition_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Waypoint	862	2541	6.2832	-15.108	2	citywaypoint_v02_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	896	2573	4.7124	-139.166	18	chitus_statuewall_ladder_transition_v01_01.tdt	0	0	45307	2_6_town
+Metadata/QuestObjects/Act5/CathedralKitavaLadder	1516	2841	4.7124	97.710	-13	cathedral_roof_transition_v01_02.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1736	2974	0.0000	-398.477	51	cathedralroof_boss_area_v02_01.tdt	0	1	559860568	ArenaNameKitava
+Metadata/MiscellaneousObjects/AreaTransition	1736	3014	0.0000	-416.024	53	cathedralroof_boss_area_v02_01.tdt	0	1	53304	%areaname%
+Metadata/Terrain/Act5/Area8/Objects/KitavaDoor	1737	2978	0.0000	-250.000	32	cathedralroof_boss_area_v02_01.tdt	0			
+Metadata/Monsters/KitavaBoss/SignOfPurity/SignOfPurity	1736	3042	3.1416	0.000	0	bossentry.arm	0			
+Metadata/Terrain/Act5/Area8/Objects/ArenaSocket	1736	3042	0.0000	0.000	0	bossentry.arm	0			
+Metadata/MiscellaneousObjects/PortalToggleable	1736	3068	1.5708	0.000	0	bossentry.arm	0	1	2082878667	MapStairAlternativeLadder
+Metadata/NPC/Act5/SinKitava	1022	2340	4.8328	5.435	-1	sin_dock.arm	0			
+Metadata/NPC/Act5/Lilly	704	2543	0.4154	0.000	0	sin_dock.arm	0			
+Metadata/Terrain/Act5/Area8/Objects/LandingZone	980	2340	0.0000	0.000	0	sin_dock.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1849	2000	1.5708	0.000	0	sidechapel.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1849	1891	1.5708	0.000	0	sidechapel.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1622	1742	4.7124	0.000	0	sidechapel.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1850	1742	1.5708	0.000	0	sidechapel.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1851	1857	6.2832	0.000	0	sidechapel.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	1851	1921	3.1416	0.000	0	sidechapel.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1853	1817	3.1416	0.000	0	sidechapel.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1870	1994	3.1416	0.000	0	sidechapel.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1850	2304	3.1416	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1623	2414	4.7124	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1623	2305	4.7124	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1850	2398	1.5708	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1850	2156	1.5708	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1622	2156	4.7124	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1621	2271	0.0000	0.000	0	spine_2_2.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	1851	2321	3.1416	0.000	0	spine_2_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1621	2335	3.1416	0.000	0	spine_2_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1619	2231	3.1416	0.000	0	spine_2_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1602	2408	3.1416	0.000	0	spine_2_2.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1850	1476	3.1416	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1623	1586	4.7124	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1623	1477	4.7124	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1850	1570	1.5708	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1850	1328	1.5708	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1622	1328	4.7124	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1621	1443	0.0000	0.000	0	spine_2_2.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	1851	1493	3.1416	0.000	0	spine_2_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1621	1507	3.1416	0.000	0	spine_2_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1619	1403	3.1416	0.000	0	spine_2_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1602	1580	3.1416	0.000	0	spine_2_2.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1622	1062	3.1416	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1849	1172	1.5708	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1849	1063	1.5708	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1622	1156	4.7124	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1622	914	4.7124	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1850	914	1.5708	0.000	0	spine_2_2.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1851	1029	6.2832	0.000	0	spine_2_2.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	1621	1079	3.1416	0.000	0	spine_2_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1851	1093	3.1416	0.000	0	spine_2_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1853	989	3.1416	0.000	0	spine_2_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1870	1166	3.1416	0.000	0	spine_2_2.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1750	783	2.6180	-250.000	32	gazebo_2.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	1751	788	3.1416	-250.000	32	gazebo_2.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1749	963	1.0472	-250.000	32	gazebo_2.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	1754	962	1.5708	-250.000	32	gazebo_2.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1736	1106	6.2832	-250.000	32	gazebo_1.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1735	1124	3.1416	-250.000	32	gazebo_1.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	1736	1115	1.5708	-250.000	32	gazebo_1.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1736	1400	3.1416	-250.000	32	gazebo_1.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1735	1382	6.2832	-250.000	32	gazebo_1.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	1736	1391	1.5708	-250.000	32	gazebo_1.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1749	1543	2.0944	-250.000	32	gazebo_2.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	1754	1544	1.5708	-250.000	32	gazebo_2.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1745	2219	1.5708	-250.000	32	gazebo_1.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1727	2220	4.7124	-250.000	32	gazebo_1.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	1736	2219	6.2832	-250.000	32	gazebo_1.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1750	2370	2.6180	-250.000	32	gazebo_2.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	1751	2375	3.1416	-250.000	32	gazebo_2.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1727	2564	4.7124	-250.000	32	gazebo_1.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1745	2563	1.5708	-250.000	32	gazebo_1.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	1736	2564	3.1416	-250.000	32	gazebo_1.arm	1			

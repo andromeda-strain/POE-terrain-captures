@@ -1,0 +1,25 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act8/Area6/Rooms/Unique/sewer_entrance_3.arm	22	37	0	node	accessible killzone=8
+0	Metadata/Terrain/Act8/Area6/Rooms/Unique/temple_entrance_1_2.arm	22	97	0	node	entrance2 killzone=4 accessible
+0	Metadata/Terrain/Act8/Area6/Rooms/Unique/boss.arm	22	82	0	node	accessible
+0	Metadata/Terrain/Act8/Area6/Rooms/LedgeStrip/straight_1.arm	22	67	0	node	accessible
+0	Metadata/Terrain/Act8/Area6/Rooms/Unique/bridge_1.arm	22	7	0	node	entrance3 accessible
+0	Metadata/Terrain/Act8/Area6/Rooms/LedgeStrip/straight_1_waypoint.arm	22	52	0	node	accessible
+0	Metadata/Terrain/Act8/Area6/Rooms/Unique/exit_1.arm	52	52	0	node	accessible
+0	Metadata/Terrain/Act8/Area6/Rooms/Fills/wall_1.arm	52	97	0	node	accessible
+0	Metadata/Terrain/Act8/Area6/Rooms/Unique/baths_entrance.arm	7	37	5	node	default entrance1 accessible
+0	Metadata/Terrain/Act8/Area6/Rooms/Fills/garden_fill.arm	52	37	0	node	
+0	Metadata/Terrain/Act8/Area6/Rooms/Fills/black_fill.arm	22	127	0	node	
+0	Metadata/Terrain/Act8/Area6/Rooms/Fills/black_fill.arm	37	127	2	node	
+0	Metadata/Terrain/Act8/Area6/Rooms/Fills/black_fill.arm	7	97	6	node	
+0	Metadata/Terrain/Act8/Area6/Rooms/Fills/black_fill.arm	7	112	5	node	
+0	Metadata/Terrain/Act8/Area6/Rooms/Fills/garden_fill.arm	52	82	5	node	
+0	Metadata/Terrain/Act8/Area6/Rooms/Fills/black_fill.arm	7	82	2	node	
+0	Metadata/Terrain/Act8/Area6/Rooms/Fills/garden_fill.arm	52	67	0	node	
+0	Metadata/Terrain/Act8/Area6/Rooms/Fills/black_fill.arm	7	67	0	node	
+0	Metadata/Terrain/Act8/Area6/Rooms/Fills/black_fill.arm	7	7	5	node	
+0	Metadata/Terrain/Act8/Area6/Rooms/Fills/black_fill.arm	7	22	3	node	
+0	Metadata/Terrain/Act8/Area6/Rooms/Fills/black_fill.arm	7	52	2	node	
+0	Metadata/Terrain/Act8/Area6/Rooms/Fills/black_fill.arm	52	112	3	node	
+0	Metadata/Terrain/Act8/Area6/Rooms/Fills/black_fill.arm	7	127	6	node	
+0	Metadata/Terrain/Act8/Area6/Rooms/Fills/black_fill.arm	52	127	4	node	

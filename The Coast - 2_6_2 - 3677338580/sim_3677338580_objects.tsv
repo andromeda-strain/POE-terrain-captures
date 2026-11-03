@@ -1,0 +1,15 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1381	412	4.7124	-119.314	15	karui_coast_to_island_transition_v01_01.tdt	0	0	37491	2_6_3
+Metadata/MiscellaneousObjects/AreaTransition	328	363	0.0000	-193.770	25	beachtown_north_entrance_v2.tdt	0	0	45307	2_6_town
+Metadata/MiscellaneousObjects/AreaTransition	1476	637	1.5708	-121.343	16	act6_area2_transition_v01_01.tdt	0	0	20059	2_6_4
+Metadata/MiscellaneousObjects/Waypoint	1368	632	1.5708	-16.917	2	beach_waypoint_v01_01.tdt	0			
+Metadata/NPC/League/Chayula/ChayulaFarmerWildFirstEncounter	1435	604	3.9975	0.000	0	to_karui_island.arm	0			
+Metadata/MiscellaneousObjects/Brequel/MudFlatsBlockerExtrasNoBurn	1539	587	5.5163	0.000	0	to_karui_island.arm	0			
+Metadata/MiscellaneousObjects/Brequel/MudFlatsBlockerExtrasNoBurn	1532	597	5.2114	0.000	0	to_karui_island.arm	0			
+Metadata/MiscellaneousObjects/Brequel/MudFlatsBlockerExtrasNoBurn	1528	607	4.9976	0.000	0	to_karui_island.arm	0			
+Metadata/MiscellaneousObjects/Brequel/MudFlatsBlockerExtrasNoBurn	1526	633	4.7124	0.000	0	to_karui_island.arm	0			
+Metadata/MiscellaneousObjects/Brequel/MudFlatsBlockerExtrasNoBurn	1527	621	4.7124	0.000	0	to_karui_island.arm	0			
+Metadata/MiscellaneousObjects/Brequel/MudFlatsBlocker	1475	637	1.5708	0.000	0	to_karui_island.arm	0			
+Metadata/MiscellaneousObjects/Brequel/MudFlatsBlockerExtrasNoBurn	1489	607	4.7124	7.000	-1	to_karui_island.arm	0			
+Metadata/MiscellaneousObjects/Brequel/MudFlatsBlockerExtrasNoBurn	1493	591	1.4501	52.000	-7	to_karui_island.arm	0			
+Metadata/MiscellaneousObjects/Brequel/MudFlatsBlockerExtrasNoBurn	1531	614	5.1679	0.000	0	to_karui_island.arm	0			

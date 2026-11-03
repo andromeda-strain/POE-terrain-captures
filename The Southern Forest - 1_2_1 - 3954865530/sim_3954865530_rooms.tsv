@@ -1,0 +1,9 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act2/Area1/Rooms/temp_cave_entrance_waypoint.arm	21	9	3	node	default entrance1disabled
+0	Metadata/Terrain/Act2/Area1/Rooms/caves_sinkhole_01.arm	9	15	0	node	
+0	Metadata/Terrain/Act2/Area1/Rooms/forest_town_dock.arm	24	60	3	node	entrance2 AutoWaypoint
+0	Metadata/Terrain/Act2/Area1/Rooms/connection_03.arm	12	30	0	node	
+0	Metadata/Terrain/Act2/Area1/Rooms/southernforest_to_riverways_act1.arm	11	52	3	node	
+0	Metadata/Terrain/Act2/Area1/Rooms/sink_01.arm	6	30	0	node	
+0	Metadata/Terrain/Act2/Area1/Rooms/floating_source_01.arm	24	77	3	node	
+0	Metadata/Terrain/Act2/Area1/Rooms/floating_source_01.arm	44	54	6	node	

@@ -1,0 +1,19 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Cave/Rooms/Unique/transitionup_unique_7a.arm	32	32	0	node	default entrance1
+0	Metadata/Terrain/Cave/Rooms/Unique/boss_water_wet_unique_10a.arm	4	4	1	node	entrance2disabled
+0	Metadata/Terrain/Cave/Rooms/1x2/open_2a.arm	20	16	4	node	
+0	Metadata/Terrain/Cave/Rooms/Dark_Rooms/1x2/water_5a.arm	8	28	1	node	
+0	Metadata/Terrain/Cave/Rooms/Dark_Rooms/1x2/water_5a.arm	28	4	6	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/water_20a.arm	20	4	4	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/low_water_14a.arm	28	24	3	node	
+0	Metadata/Terrain/Cave/Rooms/Dark_Rooms/2x2/open_water_22a.arm	20	20	7	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/water_9a.arm	12	20	6	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/water_15a.arm	4	20	6	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/passage_20a.arm	24	12	3	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/water_15a.arm	24	32	3	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/low_water_5a.arm	16	32	2	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/shrine_01.arm	36	28	0	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/passage_20a.arm	24	28	5	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/water_9a.arm	28	16	0	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/passage_8c.arm	16	28	3	node	
+0	Metadata/Terrain/Cave/Rooms/Dark_Rooms/1x1/water_17a.arm	36	24	6	node	

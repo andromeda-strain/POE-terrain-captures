@@ -1,0 +1,21 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Church/Rooms_Act3/Unique/transition_2a.arm	33	5	1	node	default entrance1
+0	Metadata/Terrain/Church/Rooms_Act3/Unique/boss_1.arm	5	33	2	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/Crypt/Rooms/Unique/catacomb_intro.arm	37	25	6	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/Crypt/Rooms/Unique/catacomb_intro_end.arm	37	41	6	node	
+0	Metadata/Terrain/Church/Rooms_Act3/1x1/corner_1b.arm	5	25	7	node	
+0	Metadata/Terrain/Church/Rooms_Act3/1x2/type_1b.arm	21	9	1	node	
+0	Metadata/Terrain/Church/Rooms_Act3/1x2/type_1a.arm	33	25	6	node	
+0	Metadata/Terrain/Church/Rooms_Act3/1x2/type_1a.arm	21	25	3	node	
+0	Metadata/Terrain/Church/Rooms_Act3/1x2/open_1b.arm	29	25	2	node	
+0	Metadata/Terrain/Church/Rooms_Act3/1x1/corner_1c.arm	21	21	1	node	
+0	Metadata/Terrain/Church/Rooms_Act3/1x1/type_4b.arm	17	21	5	node	
+0	Metadata/Terrain/Church/Rooms_Act3/2x2/allopen_1a.arm	9	21	7	node	
+0	Metadata/Terrain/Church/Rooms_Act3/1x2/type_1b.arm	9	29	5	node	
+0	Metadata/Terrain/Church/Rooms_Act3/1x1/corner_1c.arm	5	29	3	node	
+0	Metadata/Terrain/Church/Rooms_Act3/1x2/hall_1a.arm	17	25	4	node	
+0	Metadata/Terrain/Church/Rooms_Act3/1x2/type_1b.arm	29	5	0	node	
+0	Metadata/Terrain/Church/Rooms_Act3/1x1/corner_1c.arm	33	21	1	node	
+0	Metadata/Terrain/Church/Rooms_Act3/2x2/allopen_2a.arm	25	17	7	node	
+0	Metadata/Terrain/Church/Rooms_Act3/1x1/type_4b.arm	29	13	4	node	
+0	Metadata/Terrain/Church/Rooms_Act3/1x2/open_2b.arm	21	13	5	node	

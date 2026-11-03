@@ -1,0 +1,21 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1660	1105	0.0000	-133.925	17	beach_island_transition_brine_king.tdt	0	1	2984901878	ArenaNameBrineKing
+Metadata/MiscellaneousObjects/AreaTransition	2106	1351	0.9093	-77.714	10	BrineKingArena.tdt	0	1	49540	%areaname%
+Metadata/MiscellaneousObjects/Waypoint	609	1437	4.7124	-16.917	2	beach_waypoint_v02_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	652	1557	3.1416	-24.272	3	beach_blackship_transition_v01_01.tdt	0	0	6299	2_6_14
+Metadata/MiscellaneousObjects/ArenaMiddle	2173	1414	0.0000	0.000	0	boss_1.arm	0			
+Metadata/Monsters/BrineKing/Minion/BrineKingMinionSpawner	2151	1352	3.1734	0.000	0	boss_1.arm	1			
+Metadata/Monsters/BrineKing/Minion/BrineKingMinionSpawner	2187	1351	3.1416	0.000	0	boss_1.arm	1			
+Metadata/Monsters/BrineKing/Minion/BrineKingMinionSpawner	2204	1353	3.6652	0.000	0	boss_1.arm	1			
+Metadata/Monsters/BrineKing/Minion/BrineKingMinionSpawner	2233	1370	4.3384	0.000	0	boss_1.arm	1			
+Metadata/Monsters/BrineKing/Minion/BrineKingMinionSpawner	2241	1401	4.5590	0.000	0	boss_1.arm	1			
+Metadata/Monsters/BrineKing/Minion/BrineKingMinionSpawner	2235	1456	4.9192	0.000	0	boss_1.arm	1			
+Metadata/Monsters/BrineKing/Minion/BrineKingMinionSpawner	2209	1474	5.8249	0.000	0	boss_1.arm	1			
+Metadata/Monsters/BrineKing/Minion/BrineKingMinionSpawner	2173	1479	0.0000	0.000	0	boss_1.arm	1			
+Metadata/Monsters/BrineKing/Minion/BrineKingMinionSpawner	2145	1475	0.2890	0.000	0	boss_1.arm	1			
+Metadata/Monsters/BrineKing/Minion/BrineKingMinionSpawner	2114	1457	0.8403	0.000	0	boss_1.arm	1			
+Metadata/Monsters/BrineKing/Minion/BrineKingMinionSpawner	2107	1422	1.8021	0.000	0	boss_1.arm	1			
+Metadata/QuestObjects/Act6/BlackCrest_Reef	2312	1427	2.1119	-30.231	4	boss_1.arm	0			
+Metadata/NPC/Act6/WeylamReef2	2237	1383	5.2883	31.250	-4	boss_1.arm	0			
+Metadata/NPC/Info/BrineKingGlyph5	617	1102	5.5041	0.000	0	glyph.arm	0			
+Metadata/NPC/Act6/WeylamReef1	652	1560	2.9082	40.761	-5	entrance_1.arm	0			

@@ -1,0 +1,96 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	376	274	0.0000	-526.461	67	beach_togoatboss_v01_01.tdt	0	1	3507741762	ArenaNameAbberath1
+Metadata/MiscellaneousObjects/AreaTransition	727	277	3.1416	-526.461	67	beach_togoatboss_v01_02.tdt	0	1	3753213142	ArenaNameAbberath2
+Metadata/MiscellaneousObjects/AreaTransition	997	274	0.0000	-526.461	67	beach_togoatboss_v01_01.tdt	0	1	22655	%areaname%
+Metadata/MiscellaneousObjects/AreaTransition	392	550	0.0000	-375.000	48	beach_togoatboss_v01_03.tdt	0	1	2895924062	ArenaNameAbberath3
+Metadata/MiscellaneousObjects/AreaTransition	727	553	3.1416	-526.461	67	beach_togoatboss_v01_01.tdt	0	1	3753213142	ArenaNameAbberath2
+Metadata/MiscellaneousObjects/AreaTransition	997	550	0.0000	-526.461	67	beach_togoatboss_v01_02.tdt	0	1	22655	%areaname%
+Metadata/MiscellaneousObjects/AreaTransition	266	969	4.7124	-1024.012	131	beach_prison_front.tdt	0	0	46634	2_6_7_2
+Metadata/MiscellaneousObjects/AreaTransition	740	1040	6.2832	-127.067	16	shipgraveyard_passageway_v01_01a.tdt	0			
+Metadata/MiscellaneousObjects/Waypoint	310	1115	6.2832	-391.917	50	beach_waypoint_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1151	1240	0.0000	-187.500	24	beach_togoatboss_v01_03.tdt	0	1	3507741762	ArenaNameAbberath1
+Metadata/QuestObjects/Spikes/BlockedPassageTransition	660	2076	0.0000	-542.234	69	beach_passageblock_v01_01.tdt	0	0	59173	2_6_9
+Metadata/QuestObjects/Spikes/SpikeBlockageButton	594	2115	0.0000	-497.567	64	beach_passageblock_v01_01.tdt	0			
+Metadata/NPC/Act6/NessaPrisonersGate	762	1043	1.5708	-15.438	2	shipgraveyard.arm	0			
+Metadata/QuestObjects/Spikes/Part2EntranceEnabler	624	2081	0.0000	-375.000	48	blocked_passage.arm	0			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	278	267	1.5708	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	274	287	1.7656	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	258	320	1.8599	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	301	330	5.4978	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	317	307	5.8362	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	278	339	5.9584	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	251	349	5.8217	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	221	332	3.4034	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	200	332	2.6180	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	185	345	2.3562	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	186	373	1.5708	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	191	396	1.3317	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	225	361	5.4978	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	211	379	4.9742	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	214	406	4.7124	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	197	419	1.3090	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	202	445	1.0472	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	219	432	4.7124	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	211	468	0.7854	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	233	463	3.9270	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	225	484	0.7854	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	247	497	0.5236	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	251	474	3.4034	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	272	488	3.6711	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	294	496	3.4034	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	307	516	3.7507	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	265	510	0.7854	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	272	526	1.3090	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	272	549	1.3090	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	280	574	0.7854	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	294	600	0.0000	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	322	579	5.4978	-375.000	48	boss_connector.arm	1			
+Metadata/Monsters/Abberath/GauntletGoatSpawner	322	537	3.6652	-375.000	48	boss_connector.arm	1			
+Metadata/Terrain/Act6/Area8/Objects/DoorAbberathExterior	394	274	0.2618	-375.000	48	boss_connector.arm	0			
+Metadata/Monsters/Daemon/AbberathCliffBomDaemon	266	315	2.3562	-375.000	48	boss_connector.arm	0			
+Metadata/Monsters/Daemon/AbberathCliffBomDaemon	195	349	2.3562	-375.000	48	boss_connector.arm	0			
+Metadata/Monsters/Daemon/AbberathCliffBomDaemon	190	406	1.6581	-375.000	48	boss_connector.arm	0			
+Metadata/Monsters/Daemon/AbberathCliffBomDaemon	218	474	1.6581	-375.000	48	boss_connector.arm	0			
+Metadata/Monsters/Daemon/AbberathCliffBomDaemon	267	515	1.2217	-375.000	48	boss_connector.arm	0			
+Metadata/Monsters/Daemon/AbberathCliffBomDaemon	291	592	0.5236	-375.000	48	boss_connector.arm	0			
+Metadata/Monsters/Daemon/AbberathCliffBomDaemon	325	521	4.0143	-375.000	48	boss_connector.arm	0			
+Metadata/Monsters/Daemon/AbberathCliffBomDaemon	264	487	4.0143	-375.000	48	boss_connector.arm	0			
+Metadata/Monsters/Daemon/AbberathCliffBomDaemon	227	373	5.4105	-375.000	48	boss_connector.arm	0			
+Metadata/Monsters/Daemon/AbberathCliffBomDaemon	303	335	5.4978	-375.000	48	boss_connector.arm	0			
+Metadata/Monsters/Abberath/BossGoatSpawner	896	502	3.4449	-375.000	48	bossphase1.arm	1			
+Metadata/Monsters/Abberath/BossGoatSpawner	833	605	0.3308	-375.000	48	bossphase1.arm	1			
+Metadata/Monsters/Abberath/BossGoatSpawnerCaster	897	626	6.0180	-375.000	48	bossphase1.arm	1			
+Metadata/Monsters/Abberath/BossGoatSpawnerCaster	833	479	2.8555	-375.000	48	bossphase1.arm	1			
+Metadata/Monsters/Abberath/AbberathJumpOut	858	600	3.0942	-375.000	48	bossphase1.arm	0			
+Metadata/Monsters/Abberath/AbberathJumpOut	824	589	3.5361	-375.000	48	bossphase1.arm	0			
+Metadata/Monsters/Abberath/AbberathJumpOut	769	563	3.0942	-375.000	48	bossphase1.arm	0			
+Metadata/Monsters/Abberath/AbberathJumpOut	916	583	2.6142	-375.000	48	bossphase1.arm	0			
+Metadata/Monsters/Abberath/AbberathJumpOut	955	561	2.7105	-375.000	48	bossphase1.arm	0			
+Metadata/Monsters/Abberath/ArenaMiddle	868	556	4.7124	-375.000	48	bossphase1.arm	0			
+Metadata/Monsters/Abberath/AbberathJumpOut	889	595	3.0942	-375.000	48	bossphase1.arm	0			
+Metadata/Monsters/Abberath/AbberathJumpOut	802	568	3.5361	-375.000	48	bossphase1.arm	0			
+Metadata/Terrain/Act6/Area8/Objects/DoorAbberathExterior	993	548	0.4620	-375.000	48	bossphase1.arm	0			
+Metadata/Terrain/Act6/Area8/Objects/DoorAbberathPhase1	717	554	3.1416	-375.000	48	bossphase1.arm	0			
+Metadata/Monsters/Abberath/BossGoatSpawnerPhase2	807	326	0.3262	-375.000	48	bossphase2.arm	1			
+Metadata/Monsters/Abberath/BossGoatSpawnerCasterPhase2	863	320	0.0393	-375.000	48	bossphase2.arm	1			
+Metadata/Monsters/Abberath/BossGoatSpawnerPhase2	928	304	5.4978	-375.000	48	bossphase2.arm	1			
+Metadata/Monsters/Abberath/BossGoatSpawnerPhase2	918	247	3.7137	-375.000	48	bossphase2.arm	1			
+Metadata/Monsters/Abberath/BossGoatSpawnerCasterPhase2	868	217	3.1506	-375.000	48	bossphase2.arm	1			
+Metadata/Monsters/Abberath/BossGoatSpawnerPhase2	792	249	2.8798	-375.000	48	bossphase2.arm	1			
+Metadata/Monsters/Abberath/MeteorShowerAITarget1	767	273	4.7124	-375.000	48	bossphase2.arm	0			
+Metadata/Monsters/Abberath/MeteorShowerAITarget2	810	312	4.7124	-375.000	48	bossphase2.arm	0			
+Metadata/Monsters/Abberath/MeteorShowerAITarget2	810	247	4.7124	-375.000	48	bossphase2.arm	0			
+Metadata/Monsters/Abberath/MeteorShowerAITarget3	859	303	4.7124	-375.000	48	bossphase2.arm	0			
+Metadata/Monsters/Abberath/MeteorShowerAITarget4	908	313	4.7124	-375.000	48	bossphase2.arm	0			
+Metadata/Monsters/Abberath/MeteorShowerAITarget4	909	258	4.7124	-375.000	48	bossphase2.arm	0			
+Metadata/Monsters/Abberath/MeteorShowerAITarget5	957	274	4.7124	-375.000	48	bossphase2.arm	0			
+Metadata/Monsters/Abberath/MeteorShowerAITarget2	810	276	4.7124	-375.000	48	bossphase2.arm	0			
+Metadata/Monsters/Abberath/MeteorShowerAITarget3	858	239	4.7124	-375.000	48	bossphase2.arm	0			
+Metadata/Monsters/Abberath/MeteorShowerAITarget3	859	272	4.7124	-375.000	48	bossphase2.arm	0			
+Metadata/Monsters/Abberath/MeteorShowerAITarget4	909	286	4.7124	-375.000	48	bossphase2.arm	0			
+Metadata/Monsters/Abberath/MeteorShowerAITarget4	910	225	4.7124	-375.000	48	bossphase2.arm	0			
+Metadata/Monsters/Abberath/MeteorShowerAITarget5	990	278	4.7124	-375.000	48	bossphase2.arm	0			
+Metadata/Monsters/Abberath/MeteorShowerAITarget1	735	271	4.7124	-375.000	48	bossphase2.arm	0			
+Metadata/Monsters/Abberath/ArenaMiddle	859	278	4.7124	-375.000	48	bossphase2.arm	0			
+Metadata/Terrain/Act6/Area8/Objects/DoorAbberathExterior	1015	273	0.2618	-375.000	48	bossphase2.arm	0			
+Metadata/Terrain/Act6/Area8/Objects/DoorAbberathPhase2	709	279	3.4034	-375.000	48	bossphase2.arm	0			

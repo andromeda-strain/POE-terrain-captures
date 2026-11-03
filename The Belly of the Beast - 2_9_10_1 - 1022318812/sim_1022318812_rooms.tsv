@@ -1,0 +1,27 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/Unique/entrance_1.arm	6	26	5	node	default entrance1
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/Unique/entrance_tolevel2.arm	6	86	3	node	entrance2
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/Unique/bossjoin_1.arm	46	26	2	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/Unique/boss1.arm	56	26	0	node	unique4
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/door2.arm	6	16	2	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/door3.arm	46	46	3	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/regular_var_2_2.arm	26	56	4	node	unique2
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/var_1_2.arm	26	6	1	node	unique3
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/regular_var_5.arm	26	36	1	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/regular_var_2_2.arm	36	46	2	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/var_1.arm	66	46	2	node	unique1
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/regular_var_3_3.arm	26	16	0	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/var_5.arm	46	66	4	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/regular_var_3_3.arm	46	56	0	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/regular_var_2_6.arm	36	56	0	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/door5.arm	56	46	2	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/var_2.arm	26	66	5	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/door5.arm	16	76	2	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/var_1.arm	16	86	3	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/regular_var_5_2.arm	56	66	0	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/door2.arm	26	76	0	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/door2.arm	6	76	5	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/regular_var_2.arm	56	56	7	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/door2.arm	36	36	6	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/regular_var_2_6.arm	16	16	0	node	
+0	Metadata/Terrain/Act9/Area10Level1/Rooms/1x1/door1.arm	26	26	5	node	

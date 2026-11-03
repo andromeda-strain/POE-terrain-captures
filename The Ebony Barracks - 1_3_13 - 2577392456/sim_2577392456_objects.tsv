@@ -1,0 +1,27 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/NPC/Info/Victario/GraffitiWarehouse	1000	452	0.0000	-128.670	16	mosaic_ledge_straight_v01_01_victariounique.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	299	655	1.5708	-281.255	36	EbonyBarracks_arch_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	943	729	0.0000	-427.419	55	battlefield_to_sewer_stairs_v01_01.tdt	0	0	61682	1_3_10_1
+Metadata/MiscellaneousObjects/Waypoint	943	781	0.0000	-577.608	74	citywaypoint_v01_02.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1334	1000	4.7124	-728.349	93	garden_arch_v01_01.tdt	0	0	22647	1_3_15
+Metadata/MiscellaneousObjects/AreaTransition	1145	2208	4.7124	-2181.063	279	act3_temple_entrance_v01_01.tdt	0	0	24592	1_3_14_1
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1076	2227	0.0000	-1406.250	180	temple_entrance_1_2.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1075	2184	0.0000	-1406.250	180	temple_entrance_1_2.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1026	2189	0.0000	-1406.250	180	temple_entrance_1_2.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1027	2222	0.0000	-1406.250	180	temple_entrance_1_2.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	860	1722	0.0000	-1406.250	180	boss.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	928	1722	0.0000	-1406.250	180	boss.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	870	1829	0.0000	-1406.250	180	boss.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	925	1829	0.0000	-1406.250	180	boss.arm	0			
+Metadata/Monsters/Axis/AxisEliteSoldierGuardShieldGravicius	887	1733	0.0000	-1406.250	180	boss.arm	0			
+Metadata/Monsters/Axis/AxisCasterGuardGravicius	856	1766	0.0000	-1406.250	180	boss.arm	0			
+Metadata/Monsters/Axis/AxisCasterGuardGravicius	883	1766	0.0000	-1406.250	180	boss.arm	0			
+Metadata/Monsters/Axis/AxisCasterGuardGravicius	909	1767	0.0000	-1406.250	180	boss.arm	0			
+Metadata/Monsters/Axis/AxisCasterGuardGravicius	937	1768	0.0000	-1406.250	180	boss.arm	0			
+Metadata/Monsters/Axis/AxisEliteSoldierGuardShieldGravicius	886	1715	0.0000	-1406.250	180	boss.arm	0			
+Metadata/Monsters/Axis/AxisEliteSoldierGuardShieldGravicius	908	1713	0.0000	-1406.250	180	boss.arm	0			
+Metadata/Monsters/Axis/AxisEliteSoldierGuardShieldGravicius	905	1733	0.0000	-1406.250	180	boss.arm	0			
+Metadata/MiscellaneousObjects/ProphecyMonsterLocator	1006	398	5.1603	0.000	0	bridge_1.arm	1			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1316	1013	0.0000	-562.500	72	exit_1.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1317	980	0.0000	-562.500	72	exit_1.arm	0			
+Metadata/Shrines/Shrine	1151	967	4.7124	-562.500	72	city_01.arm	0			

@@ -1,0 +1,41 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/Waypoint	1506	471	6.2832	-15.508	2	forest_waypoint_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	587	646	4.7124	-148.750	19	oldfields_campboss_v01_01.tdt	0	1	3056523755	ArenaNameRalakesh
+Metadata/MiscellaneousObjects/AreaTransition	523	636	4.7124	-145.426	19	oldfields_campboss_v01_01.tdt	0	1	31950	%areaname%
+Metadata/MiscellaneousObjects/AreaTransition	470	747	4.7124	-203.878	26	oldfields_campboss_v01_01.tdt	0	0	20052	2_7_8
+Metadata/MiscellaneousObjects/AreaTransition	1471	552	1.5708	12.853	-2	forestcave_entrance_hole_v01_01.tdt	0	0	61295	2_7_6
+Metadata/Monsters/Ralakesh/ArcherSpawnLocator	430	607	3.1416	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/ArcherSpawnLocator	400	708	1.3090	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/ArcherSpawnLocator	529	709	4.9742	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/ArcherSpawnLocator	507	608	3.6652	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/BanditSpawnLocator	518	634	4.5374	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/BanditSpawnLocator	515	697	4.1888	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/BanditSpawnLocator	422	700	1.3090	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/BanditSpawnLocator	414	629	1.5708	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/EliteSpawnLocator	466	624	3.1416	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	489	606	3.3161	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	448	605	3.3161	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	473	601	2.7053	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	420	606	2.6180	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	398	679	1.8326	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	399	687	1.5708	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	531	681	4.9742	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	530	687	4.7997	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	537	716	3.3161	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	458	603	2.9671	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	466	605	3.4907	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	483	604	3.5779	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	513	601	3.3161	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	439	602	3.2289	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	395	703	1.2217	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	535	685	4.3633	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	482	597	3.7525	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	450	597	2.8798	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/SpectatorSpawnLocator	507	593	3.6652	0.000	0	town_entrance.arm	1			
+Metadata/MiscellaneousObjects/ArenaMiddle	469	671	0.0000	0.000	0	town_entrance.arm	0			
+Metadata/Monsters/Ralakesh/Ralakesh	468	697	0.0171	-129.756	17	town_entrance.arm	0			
+Metadata/Monsters/Ralakesh/Alira/AliraCauldronSpawnerObject	444	663	1.0245	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/Alira/AliraCauldronSpawnerObject	487	664	5.4640	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/Alira/AliraCauldronSpawnerObject	496	629	3.4634	0.000	0	town_entrance.arm	1			
+Metadata/Monsters/Ralakesh/Alira/AliraCauldronSpawnerObject	432	628	2.3043	0.000	0	town_entrance.arm	1			
+Metadata/NPC/Info/RalakeshGlyph	677	696	5.7632	0.000	0	town_entrance.arm	0			

@@ -1,102 +1,376 @@
-type	X	Y	rotation	typehash
-Metadata/Characters/StrDex/StrDex	558	510	3.142 rad	2810334424
-Metadata/Characters/DexInt/DexInt	594	611	6.103 rad	3989868005
-Metadata/Characters/Int/Int	598	626	2.678 rad	2621544766
-Metadata/Characters/StrDex/StrDex	560	529	3.142 rad	2810334424
-Metadata/Characters/Dex/Dex	507	573	4.712 rad	2287107054
-Metadata/Characters/StrInt/StrInt	597	627	2.467 rad	2448909918
-Metadata/Characters/StrDexInt/StrDexInt	556	636	1.190 rad	1086455624
-Metadata/Characters/Str/Str	563	622	2.850 rad	3618279525
-Metadata/Characters/StrInt/StrInt	551	576	3.142 rad	2448909918
-Metadata/NPC/Act7/Weylam	532	410	1.006 rad	241821059
-Metadata/NPC/Act7/SinTown	580	409	4.101 rad	409762140
-Object: Metadata/MiscellaneousObjects/Waypoint	560	529	3.142 rad	552129418
-Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	498	573	2.272 rad	2564365857
-Metadata/NPC/Act7/Eramir	573	572	4.024 rad	2611866682
-Metadata/NPC/League/Kalguur/VillageFaustusTown	492	592	1.476 rad	3922154524
-Metadata/NPC/League/Incursion/TreasureHunter	492	606	0.694 rad	4064182530
-Object: Metadata/MiscellaneousObjects/NoticeBoard	618	609	4.702 rad	1669564304
-Metadata/NPC/Act7/YeenaTown	566	632	5.895 rad	1661352205
-Metadata/NPC/Act7/Helena	586	626	0.262 rad	3449325472
-Object: Metadata/MiscellaneousObjects/Stash	601	632	5.837 rad	2817685266
-Object: Metadata/NPC/Blocker	489	657	2.011 rad	1980547395
-Metadata/NPC/League/Expedition/TownStash	489	657	2.011 rad	3348576580
-Metadata/MiscellaneousObjects/MercenaryMarker	572	664	4.797 rad	1285951471
-Metadata/MiscellaneousObjects/MercenaryMarker	568	650	4.622 rad	1285951471
-Metadata/NPC/League/Expedition/Gambler	493	684	0.787 rad	13004121
-Object: Metadata/NPC/Blocker	493	684	0.787 rad	1980547395
-Metadata/NPC/League/Expedition/Haggler	491	671	1.344 rad	20954719
-Object: Metadata/NPC/Blocker	491	671	1.344 rad	1980547395
-Metadata/NPC/League/Expedition/TownDoodadGwennen	485	676	1.487 rad	3935977174
-Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	1.168 rad	500414267
-Metadata/NPC/League/Expedition/TownDoodadGwennen	485	679	5.070 rad	3935977174
-Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	3.532 rad	500414267
-Metadata/NPC/League/Expedition/TownDoodadGwennen	491	688	2.670 rad	3935977174
-Metadata/NPC/League/Expedition/TownDoodadGwennen	505	673	5.621 rad	3935977174
-Metadata/NPC/League/Expedition/TownDoodadGwennen	487	676	0.000 rad	3935977174
-Metadata/NPC/League/Expedition/Saga	518	672	4.522 rad	2589473623
-Object: Metadata/NPC/Blocker	518	672	4.522 rad	1980547395
-Metadata/NPC/League/Expedition/Dealer	506	686	0.375 rad	1454344138
-Object: Metadata/NPC/Blocker	506	686	0.375 rad	1980547395
-Metadata/NPC/League/Expedition/TownDoodadSaga	519	678	2.525 rad	1013622912
-Metadata/MiscellaneousObjects/MercenaryMarker	568	675	5.275 rad	1285951471
-Metadata/NPC/League/Expedition/TownDoodadGwennen	487	698	0.293 rad	3935977174
-Metadata/NPC/League/Expedition/TownDoodadGwennen	500	703	0.000 rad	3935977174
-Metadata/NPC/League/Expedition/TownDoodadDealer	502	691	0.241 rad	1558386669
-Metadata/NPC/League/Expedition/TownDoodadSaga	511	704	5.313 rad	1013622912
-Metadata/NPC/League/Expedition/TownDoodadDealer	506	695	0.000 rad	1558386669
-Metadata/NPC/League/Expedition/TownDoodadSaga	506	706	5.636 rad	1013622912
-Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	573	692	4.712 rad	688764747
-Object: Metadata/MiscellaneousObjects/AreaTransition	551	716	3.142 rad	726109394
-Metadata/Characters/Int/Int	529	528	1.571 rad	2621544766
-Metadata/Characters/StrInt/StrInt	529	528	1.571 rad	2448909918
-Metadata/Characters/StrDex/StrDex	558	510	3.142 rad	2810334424
-Metadata/Characters/Int/Int	532	579	5.820 rad	2621544766
-Metadata/Characters/Dex/Dex	577	613	5.202 rad	2287107054
-Metadata/Characters/Int/Int	598	626	2.678 rad	2621544766
-Metadata/Characters/DexInt/DexInt	597	627	2.467 rad	3989868005
-Metadata/Characters/StrDex/StrDex	598	626	2.678 rad	2810334424
-Metadata/Characters/Int/Int	590	620	3.605 rad	2621544766
-Metadata/Characters/StrInt/StrInt	529	528	1.571 rad	2448909918
-Metadata/NPC/Act7/Weylam	532	410	1.006 rad	241821059
-Metadata/NPC/Act7/SinTown	580	409	4.101 rad	409762140
-Metadata/MiscellaneousObjects/MultiplexPortal	529	528	1.571 rad	1600303822
-Object: Metadata/MiscellaneousObjects/Waypoint	560	529	3.142 rad	552129418
-Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	498	573	2.272 rad	2564365857
-Metadata/NPC/Act7/Eramir	573	572	4.024 rad	2611866682
-Metadata/NPC/League/Kalguur/VillageFaustusTown	492	592	1.476 rad	3922154524
-Metadata/NPC/League/Incursion/TreasureHunter	492	606	0.694 rad	4064182530
-Object: Metadata/MiscellaneousObjects/NoticeBoard	618	609	4.702 rad	1669564304
-Metadata/NPC/Act7/YeenaTown	566	632	5.895 rad	1661352205
-Metadata/Pet/Dragon/TwilightNightfallDragon	567	626	2.090 rad	4101308173
-Metadata/NPC/Act7/Helena	586	626	0.262 rad	3449325472
-Object: Metadata/MiscellaneousObjects/Stash	601	632	5.837 rad	2817685266
-Object: Metadata/NPC/Blocker	489	657	2.011 rad	1980547395
-Metadata/NPC/League/Expedition/TownStash	489	657	2.011 rad	3348576580
-Metadata/MiscellaneousObjects/MercenaryMarker	572	664	4.797 rad	1285951471
-Metadata/MiscellaneousObjects/MercenaryMarker	568	650	4.622 rad	1285951471
-Metadata/NPC/League/Expedition/Gambler	493	684	0.787 rad	13004121
-Object: Metadata/NPC/Blocker	493	684	0.787 rad	1980547395
-Metadata/NPC/League/Expedition/Haggler	491	671	1.344 rad	20954719
-Object: Metadata/NPC/Blocker	491	671	1.344 rad	1980547395
-Metadata/NPC/League/Expedition/TownDoodadGwennen	485	676	1.487 rad	3935977174
-Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	1.168 rad	500414267
-Metadata/NPC/League/Expedition/TownDoodadGwennen	485	679	5.070 rad	3935977174
-Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	3.532 rad	500414267
-Metadata/NPC/League/Expedition/TownDoodadGwennen	491	688	2.670 rad	3935977174
-Metadata/NPC/League/Expedition/TownDoodadGwennen	505	673	5.621 rad	3935977174
-Metadata/NPC/League/Expedition/TownDoodadGwennen	487	676	0.000 rad	3935977174
-Metadata/NPC/League/Expedition/Saga	518	672	4.522 rad	2589473623
-Object: Metadata/NPC/Blocker	518	672	4.522 rad	1980547395
-Metadata/NPC/League/Expedition/Dealer	506	686	0.375 rad	1454344138
-Object: Metadata/NPC/Blocker	506	686	0.375 rad	1980547395
-Metadata/NPC/League/Expedition/TownDoodadSaga	519	678	2.525 rad	1013622912
-Metadata/MiscellaneousObjects/MercenaryMarker	568	675	5.275 rad	1285951471
-Metadata/NPC/League/Expedition/TownDoodadGwennen	487	698	0.293 rad	3935977174
-Metadata/NPC/League/Expedition/TownDoodadGwennen	500	703	0.000 rad	3935977174
-Metadata/NPC/League/Expedition/TownDoodadDealer	502	691	0.241 rad	1558386669
-Metadata/NPC/League/Expedition/TownDoodadSaga	511	704	5.313 rad	1013622912
-Metadata/NPC/League/Expedition/TownDoodadDealer	506	695	0.000 rad	1558386669
-Metadata/NPC/League/Expedition/TownDoodadSaga	506	706	5.636 rad	1013622912
-Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	573	692	4.712 rad	688764747
-Object: Metadata/MiscellaneousObjects/AreaTransition	551	716	3.142 rad	726109394
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrDex/StrDex	558	510	3.142 rad	2810334424	2_7_town					
+Metadata/Characters/DexInt/DexInt	594	611	6.103 rad	3989868005	2_7_town					
+Metadata/Characters/Int/Int	598	626	2.678 rad	2621544766	2_7_town					
+Metadata/Characters/StrDex/StrDex	560	529	3.142 rad	2810334424	2_7_town					
+Metadata/Characters/Dex/Dex	507	573	4.712 rad	2287107054	2_7_town					
+Metadata/Characters/StrInt/StrInt	597	627	2.467 rad	2448909918	2_7_town					
+Metadata/Characters/StrDexInt/StrDexInt	556	636	1.190 rad	1086455624	2_7_town					
+Metadata/Characters/Str/Str	563	622	2.850 rad	3618279525	2_7_town					
+Metadata/Characters/StrInt/StrInt	551	576	3.142 rad	2448909918	2_7_town					
+Metadata/NPC/Act7/Weylam	532	410	1.006 rad	241821059	2_7_town					
+Metadata/NPC/Act7/SinTown	580	409	4.101 rad	409762140	2_7_town					
+Object: Metadata/MiscellaneousObjects/Waypoint	560	529	3.142 rad	552129418	2_7_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	498	573	2.272 rad	2564365857	2_7_town					
+Metadata/NPC/Act7/Eramir	573	572	4.024 rad	2611866682	2_7_town					
+Metadata/NPC/League/Kalguur/VillageFaustusTown	492	592	1.476 rad	3922154524	2_7_town					
+Metadata/NPC/League/Incursion/TreasureHunter	492	606	0.694 rad	4064182530	2_7_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	618	609	4.702 rad	1669564304	2_7_town					
+Metadata/NPC/Act7/YeenaTown	566	632	5.895 rad	1661352205	2_7_town					
+Metadata/NPC/Act7/Helena	586	626	0.262 rad	3449325472	2_7_town					
+Object: Metadata/MiscellaneousObjects/Stash	601	632	5.837 rad	2817685266	2_7_town					
+Object: Metadata/NPC/Blocker	489	657	2.011 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownStash	489	657	2.011 rad	3348576580	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	572	664	4.797 rad	1285951471	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	568	650	4.622 rad	1285951471	2_7_town					
+Metadata/NPC/League/Expedition/Gambler	493	684	0.787 rad	13004121	2_7_town					
+Object: Metadata/NPC/Blocker	493	684	0.787 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/Haggler	491	671	1.344 rad	20954719	2_7_town					
+Object: Metadata/NPC/Blocker	491	671	1.344 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	676	1.487 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	1.168 rad	500414267	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	679	5.070 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	3.532 rad	500414267	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	491	688	2.670 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	505	673	5.621 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	676	0.000 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/Saga	518	672	4.522 rad	2589473623	2_7_town					
+Object: Metadata/NPC/Blocker	518	672	4.522 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/Dealer	506	686	0.375 rad	1454344138	2_7_town					
+Object: Metadata/NPC/Blocker	506	686	0.375 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	519	678	2.525 rad	1013622912	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	568	675	5.275 rad	1285951471	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	698	0.293 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	500	703	0.000 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	502	691	0.241 rad	1558386669	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	511	704	5.313 rad	1013622912	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	506	695	0.000 rad	1558386669	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	506	706	5.636 rad	1013622912	2_7_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	573	692	4.712 rad	688764747	2_7_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	551	716	3.142 rad	726109394	2_7_town			0	18896	The Broken Bridge
+Metadata/Characters/Int/Int	529	528	1.571 rad	2621544766	2_7_town					
+Metadata/Characters/StrInt/StrInt	529	528	1.571 rad	2448909918	2_7_town					
+Metadata/Characters/StrDex/StrDex	558	510	3.142 rad	2810334424	2_7_town					
+Metadata/Characters/Int/Int	532	579	5.820 rad	2621544766	2_7_town					
+Metadata/Characters/Dex/Dex	577	613	5.202 rad	2287107054	2_7_town					
+Metadata/Characters/Int/Int	598	626	2.678 rad	2621544766	2_7_town					
+Metadata/Characters/DexInt/DexInt	597	627	2.467 rad	3989868005	2_7_town					
+Metadata/Characters/StrDex/StrDex	598	626	2.678 rad	2810334424	2_7_town					
+Metadata/Characters/Int/Int	590	620	3.605 rad	2621544766	2_7_town					
+Metadata/Characters/StrInt/StrInt	529	528	1.571 rad	2448909918	2_7_town					
+Metadata/NPC/Act7/Weylam	532	410	1.006 rad	241821059	2_7_town					
+Metadata/NPC/Act7/SinTown	580	409	4.101 rad	409762140	2_7_town					
+Metadata/MiscellaneousObjects/MultiplexPortal	529	528	1.571 rad	1600303822	2_7_town					
+Object: Metadata/MiscellaneousObjects/Waypoint	560	529	3.142 rad	552129418	2_7_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	498	573	2.272 rad	2564365857	2_7_town					
+Metadata/NPC/Act7/Eramir	573	572	4.024 rad	2611866682	2_7_town					
+Metadata/NPC/League/Kalguur/VillageFaustusTown	492	592	1.476 rad	3922154524	2_7_town					
+Metadata/NPC/League/Incursion/TreasureHunter	492	606	0.694 rad	4064182530	2_7_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	618	609	4.702 rad	1669564304	2_7_town					
+Metadata/NPC/Act7/YeenaTown	566	632	5.895 rad	1661352205	2_7_town					
+Metadata/Pet/Dragon/TwilightNightfallDragon	567	626	2.090 rad	4101308173	2_7_town					
+Metadata/NPC/Act7/Helena	586	626	0.262 rad	3449325472	2_7_town					
+Object: Metadata/MiscellaneousObjects/Stash	601	632	5.837 rad	2817685266	2_7_town					
+Object: Metadata/NPC/Blocker	489	657	2.011 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownStash	489	657	2.011 rad	3348576580	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	572	664	4.797 rad	1285951471	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	568	650	4.622 rad	1285951471	2_7_town					
+Metadata/NPC/League/Expedition/Gambler	493	684	0.787 rad	13004121	2_7_town					
+Object: Metadata/NPC/Blocker	493	684	0.787 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/Haggler	491	671	1.344 rad	20954719	2_7_town					
+Object: Metadata/NPC/Blocker	491	671	1.344 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	676	1.487 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	1.168 rad	500414267	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	679	5.070 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	3.532 rad	500414267	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	491	688	2.670 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	505	673	5.621 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	676	0.000 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/Saga	518	672	4.522 rad	2589473623	2_7_town					
+Object: Metadata/NPC/Blocker	518	672	4.522 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/Dealer	506	686	0.375 rad	1454344138	2_7_town					
+Object: Metadata/NPC/Blocker	506	686	0.375 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	519	678	2.525 rad	1013622912	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	568	675	5.275 rad	1285951471	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	698	0.293 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	500	703	0.000 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	502	691	0.241 rad	1558386669	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	511	704	5.313 rad	1013622912	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	506	695	0.000 rad	1558386669	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	506	706	5.636 rad	1013622912	2_7_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	573	692	4.712 rad	688764747	2_7_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	551	716	3.142 rad	726109394	2_7_town			0	18896	The Broken Bridge
+Metadata/Characters/StrInt/StrInt	598	626	2.678 rad	2448909918	2_7_town					
+Metadata/Characters/StrDex/StrDex	546	684	4.892 rad	2810334424	2_7_town					
+Metadata/Characters/StrInt/StrInt	561	613	3.055 rad	2448909918	2_7_town					
+Metadata/Characters/Dex/Dex	598	626	2.678 rad	2287107054	2_7_town					
+Metadata/Characters/Str/Str	556	543	0.000 rad	3618279525	2_7_town					
+Metadata/Characters/StrDexInt/StrDexInt	544	605	5.820 rad	1086455624	2_7_town					
+Metadata/Characters/Int/Int	558	639	5.356 rad	2621544766	2_7_town					
+Metadata/Characters/Int/Int	502	588	4.332 rad	2621544766	2_7_town					
+Metadata/Characters/Int/Int	563	571	3.704 rad	2621544766	2_7_town					
+Metadata/Characters/StrInt/StrInt	551	576	3.142 rad	2448909918	2_7_town					
+Metadata/NPC/Act7/Weylam	532	410	1.006 rad	241821059	2_7_town					
+Metadata/NPC/Act7/SinTown	580	409	4.101 rad	409762140	2_7_town	55	-433.084			
+Object: Metadata/MiscellaneousObjects/Waypoint	560	529	3.142 rad	552129418	2_7_town	56	-438.800			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	498	573	2.272 rad	2564365857	2_7_town					
+Metadata/Pet/StygianSteed/StygianSteedPet	507	573	4.754 rad	1214318727	2_7_town					
+Metadata/NPC/Act7/Eramir	573	572	4.024 rad	2611866682	2_7_town					
+Metadata/NPC/League/Kalguur/VillageFaustusTown	492	592	1.476 rad	3922154524	2_7_town					
+Metadata/Pet/UltimateChaosTiger/UltimateChaosTiger	512	590	4.069 rad	3861362650	2_7_town					
+Metadata/NPC/League/Incursion/TreasureHunter	492	606	0.694 rad	4064182530	2_7_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	618	609	4.702 rad	1669564304	2_7_town					
+Metadata/NPC/Act7/YeenaTown	566	632	5.895 rad	1661352205	2_7_town	55	-429.688			
+Metadata/NPC/Act7/Helena	586	626	0.262 rad	3449325472	2_7_town	55	-432.065			
+Object: Metadata/MiscellaneousObjects/Stash	601	632	5.837 rad	2817685266	2_7_town					
+Object: Metadata/NPC/Blocker	489	657	2.011 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownStash	489	657	2.011 rad	3348576580	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	572	664	4.797 rad	1285951471	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	568	650	4.622 rad	1285951471	2_7_town					
+Metadata/NPC/League/Expedition/Gambler	493	684	0.787 rad	13004121	2_7_town					
+Object: Metadata/NPC/Blocker	493	684	0.787 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/Haggler	491	671	1.344 rad	20954719	2_7_town					
+Object: Metadata/NPC/Blocker	491	671	1.344 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	676	1.487 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	1.168 rad	500414267	2_7_town	65	-514.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	679	5.070 rad	3935977174	2_7_town	65	-515.000			
+Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	3.532 rad	500414267	2_7_town	71	-556.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	491	688	2.670 rad	3935977174	2_7_town	55	-429.688			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	505	673	5.621 rad	3935977174	2_7_town	69	-545.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	676	0.000 rad	3935977174	2_7_town	65	-514.000			
+Metadata/NPC/League/Expedition/Saga	518	672	4.522 rad	2589473623	2_7_town					
+Object: Metadata/NPC/Blocker	518	672	4.522 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/Dealer	506	686	0.375 rad	1454344138	2_7_town					
+Object: Metadata/NPC/Blocker	506	686	0.375 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	519	678	2.525 rad	1013622912	2_7_town					
+Metadata/Pet/GothicHorrorGhostChild/misery/MiseryHorrorGhostChild	549	683	3.605 rad	1495027670	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	568	675	5.275 rad	1285951471	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	698	0.293 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	500	703	0.000 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	502	691	0.241 rad	1558386669	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	511	704	5.313 rad	1013622912	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	506	695	0.000 rad	1558386669	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	506	706	5.636 rad	1013622912	2_7_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	573	692	4.712 rad	688764747	2_7_town	55	-435.122			
+Metadata/Pet/GothicHorrorGhostChild/misery/MiseryHorrorGhostChild	552	693	3.716 rad	1495027670	2_7_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	551	716	3.142 rad	726109394	2_7_town	56	-441.282	0	18896	The Broken Bridge
+Metadata/Characters/StrInt/StrInt	540	375	2.705 rad	2448909918	2_7_town					
+Metadata/NPC/Act7/Weylam	532	410	1.006 rad	241821059	2_7_town					
+Metadata/NPC/Act7/SinTown	580	409	4.101 rad	409762140	2_7_town	55	-433.084			
+Object: Metadata/MiscellaneousObjects/Waypoint	560	529	3.142 rad	552129418	2_7_town	56	-438.800			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	498	573	2.272 rad	2564365857	2_7_town					
+Metadata/NPC/Act7/Eramir	573	572	4.024 rad	2611866682	2_7_town					
+Metadata/NPC/League/Kalguur/VillageFaustusTown	492	592	1.476 rad	3922154524	2_7_town					
+Metadata/NPC/League/Incursion/TreasureHunter	492	606	0.694 rad	4064182530	2_7_town					
+Metadata/Characters/Str/Str	550	606	5.401 rad	3618279525	2_7_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	618	609	4.702 rad	1669564304	2_7_town					
+Metadata/NPC/Act7/YeenaTown	566	632	5.895 rad	1661352205	2_7_town	55	-429.688			
+Metadata/NPC/Act7/Helena	586	626	0.262 rad	3449325472	2_7_town	55	-432.065			
+Object: Metadata/MiscellaneousObjects/Stash	601	632	5.837 rad	2817685266	2_7_town					
+Object: Metadata/NPC/Blocker	489	657	2.011 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownStash	489	657	2.011 rad	3348576580	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	572	664	4.797 rad	1285951471	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	568	650	4.622 rad	1285951471	2_7_town					
+Metadata/NPC/League/Expedition/Gambler	493	684	0.787 rad	13004121	2_7_town					
+Object: Metadata/NPC/Blocker	493	684	0.787 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/Haggler	491	671	1.344 rad	20954719	2_7_town					
+Object: Metadata/NPC/Blocker	491	671	1.344 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	676	1.487 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	1.168 rad	500414267	2_7_town	65	-514.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	679	5.070 rad	3935977174	2_7_town	65	-515.000			
+Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	3.532 rad	500414267	2_7_town	71	-556.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	491	688	2.670 rad	3935977174	2_7_town	55	-429.688			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	505	673	5.621 rad	3935977174	2_7_town	69	-545.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	676	0.000 rad	3935977174	2_7_town	65	-514.000			
+Metadata/NPC/League/Expedition/Saga	518	672	4.522 rad	2589473623	2_7_town					
+Object: Metadata/NPC/Blocker	518	672	4.522 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/Dealer	506	686	0.375 rad	1454344138	2_7_town					
+Object: Metadata/NPC/Blocker	506	686	0.375 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	519	678	2.525 rad	1013622912	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	568	675	5.275 rad	1285951471	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	698	0.293 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	500	703	0.000 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	502	691	0.241 rad	1558386669	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	511	704	5.313 rad	1013622912	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	506	695	0.000 rad	1558386669	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	506	706	5.636 rad	1013622912	2_7_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	573	692	4.712 rad	688764747	2_7_town	55	-435.122			
+Object: Metadata/MiscellaneousObjects/AreaTransition	551	716	3.142 rad	726109394	2_7_town	56	-441.282	0	18896	The Broken Bridge
+Metadata/Characters/Int/Int	563	606	0.405 rad	2621544766	2_7_town					
+Metadata/Characters/Str/Str	560	529	3.142 rad	3618279525	2_7_town					
+Metadata/Characters/StrDex/StrDex	540	375	2.705 rad	2810334424	2_7_town					
+Metadata/Characters/Dex/Dex	551	703	3.142 rad	2287107054	2_7_town					
+Metadata/Characters/StrInt/StrInt	560	529	3.142 rad	2448909918	2_7_town					
+Metadata/NPC/Act7/Weylam	532	410	1.006 rad	241821059	2_7_town					
+Metadata/NPC/Act7/SinTown	580	409	4.101 rad	409762140	2_7_town	55	-433.084			
+Object: Metadata/MiscellaneousObjects/Waypoint	560	529	3.142 rad	552129418	2_7_town	56	-438.800			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	498	573	2.272 rad	2564365857	2_7_town					
+Metadata/NPC/Act7/Eramir	573	572	4.024 rad	2611866682	2_7_town					
+Metadata/NPC/League/Kalguur/VillageFaustusTown	492	592	1.476 rad	3922154524	2_7_town					
+Metadata/NPC/League/Incursion/TreasureHunter	492	606	0.694 rad	4064182530	2_7_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	618	609	4.702 rad	1669564304	2_7_town					
+Metadata/NPC/Act7/YeenaTown	566	632	5.895 rad	1661352205	2_7_town	55	-429.688			
+Metadata/NPC/Act7/Helena	586	626	0.262 rad	3449325472	2_7_town	55	-432.065			
+Object: Metadata/MiscellaneousObjects/Stash	601	632	5.837 rad	2817685266	2_7_town					
+Object: Metadata/NPC/Blocker	489	657	2.011 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownStash	489	657	2.011 rad	3348576580	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	572	664	4.797 rad	1285951471	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	568	650	4.622 rad	1285951471	2_7_town					
+Metadata/NPC/League/Expedition/Gambler	493	684	0.787 rad	13004121	2_7_town					
+Object: Metadata/NPC/Blocker	493	684	0.787 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/Haggler	491	671	1.344 rad	20954719	2_7_town					
+Object: Metadata/NPC/Blocker	491	671	1.344 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	676	1.487 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	1.168 rad	500414267	2_7_town	65	-514.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	679	5.070 rad	3935977174	2_7_town	65	-515.000			
+Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	3.532 rad	500414267	2_7_town	71	-556.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	491	688	2.670 rad	3935977174	2_7_town	55	-429.688			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	505	673	5.621 rad	3935977174	2_7_town	69	-545.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	676	0.000 rad	3935977174	2_7_town	65	-514.000			
+Metadata/NPC/League/Expedition/Saga	518	672	4.522 rad	2589473623	2_7_town					
+Object: Metadata/NPC/Blocker	518	672	4.522 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/Dealer	506	686	0.375 rad	1454344138	2_7_town					
+Object: Metadata/NPC/Blocker	506	686	0.375 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	519	678	2.525 rad	1013622912	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	568	675	5.275 rad	1285951471	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	698	0.293 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	500	703	0.000 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	502	691	0.241 rad	1558386669	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	511	704	5.313 rad	1013622912	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	506	695	0.000 rad	1558386669	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	506	706	5.636 rad	1013622912	2_7_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	573	692	4.712 rad	688764747	2_7_town	55	-435.122			
+Object: Metadata/MiscellaneousObjects/AreaTransition	551	716	3.142 rad	726109394	2_7_town	56	-441.282	0	18896	The Broken Bridge
+Object: Metadata/MiscellaneousObjects/AreaTransition	551	716	3.142 rad	726109394	2_7_town	56	-441.282	0	18896	The Broken Bridge
+Metadata/Characters/Str/Str	560	529	3.142 rad	3618279525	2_7_town					
+Metadata/Characters/Str/Str	564	602	5.347 rad	3618279525	2_7_town					
+Metadata/Characters/StrInt/StrInt	530	656	1.499 rad	2448909918	2_7_town					
+Metadata/Characters/Int/Int	529	528	1.571 rad	2621544766	2_7_town					
+Metadata/Characters/StrInt/StrInt	551	576	3.142 rad	2448909918	2_7_town					
+Metadata/NPC/Act7/Weylam	532	410	1.006 rad	241821059	2_7_town					
+Metadata/NPC/Act7/SinTown	580	409	4.101 rad	409762140	2_7_town	55	-433.084			
+Object: Metadata/MiscellaneousObjects/Waypoint	560	529	3.142 rad	552129418	2_7_town	56	-438.800			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	498	573	2.272 rad	2564365857	2_7_town					
+Metadata/NPC/Act7/Eramir	573	572	4.024 rad	2611866682	2_7_town					
+Metadata/NPC/League/Kalguur/VillageFaustusTown	492	592	1.476 rad	3922154524	2_7_town					
+Metadata/NPC/League/Incursion/TreasureHunter	492	606	0.694 rad	4064182530	2_7_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	618	609	4.702 rad	1669564304	2_7_town					
+Metadata/NPC/Act7/YeenaTown	566	632	5.895 rad	1661352205	2_7_town	55	-429.688			
+Metadata/NPC/Act7/Helena	586	626	0.262 rad	3449325472	2_7_town	55	-432.065			
+Object: Metadata/MiscellaneousObjects/Stash	601	632	5.837 rad	2817685266	2_7_town					
+Object: Metadata/NPC/Blocker	489	657	2.011 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownStash	489	657	2.011 rad	3348576580	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	572	664	4.797 rad	1285951471	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	568	650	4.622 rad	1285951471	2_7_town					
+Metadata/NPC/League/Expedition/Gambler	493	684	0.787 rad	13004121	2_7_town					
+Object: Metadata/NPC/Blocker	493	684	0.787 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/Haggler	491	671	1.344 rad	20954719	2_7_town					
+Object: Metadata/NPC/Blocker	491	671	1.344 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	676	1.487 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	1.168 rad	500414267	2_7_town	65	-514.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	679	5.070 rad	3935977174	2_7_town	65	-515.000			
+Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	3.532 rad	500414267	2_7_town	71	-556.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	491	688	2.670 rad	3935977174	2_7_town	55	-429.688			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	505	673	5.621 rad	3935977174	2_7_town	69	-545.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	676	0.000 rad	3935977174	2_7_town	65	-514.000			
+Metadata/NPC/League/Expedition/Saga	518	672	4.522 rad	2589473623	2_7_town					
+Object: Metadata/NPC/Blocker	518	672	4.522 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/Dealer	506	686	0.375 rad	1454344138	2_7_town					
+Object: Metadata/NPC/Blocker	506	686	0.375 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	519	678	2.525 rad	1013622912	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	568	675	5.275 rad	1285951471	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	698	0.293 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	500	703	0.000 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	502	691	0.241 rad	1558386669	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	511	704	5.313 rad	1013622912	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	506	695	0.000 rad	1558386669	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	506	706	5.636 rad	1013622912	2_7_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	573	692	4.712 rad	688764747	2_7_town	55	-435.122			
+Object: Metadata/MiscellaneousObjects/AreaTransition	551	716	3.142 rad	726109394	2_7_town	56	-441.282	0	18896	The Broken Bridge
+Metadata/Characters/Str/Str	601	625	3.142 rad	3618279525	2_7_town					
+Metadata/Characters/StrInt/StrInt	530	656	1.499 rad	2448909918	2_7_town					
+Metadata/Characters/Dex/Dex	555	620	0.000 rad	2287107054	2_7_town					
+Metadata/Characters/StrInt/StrInt	529	528	1.571 rad	2448909918	2_7_town					
+Metadata/NPC/Act7/Weylam	532	410	1.006 rad	241821059	2_7_town					
+Metadata/NPC/Act7/SinTown	580	409	4.101 rad	409762140	2_7_town	55	-433.084			
+Metadata/MiscellaneousObjects/MultiplexPortal	529	528	1.571 rad	1600303822	2_7_town	55	-429.688			
+Object: Metadata/MiscellaneousObjects/Waypoint	560	529	3.142 rad	552129418	2_7_town	56	-438.800			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	498	573	2.272 rad	2564365857	2_7_town					
+Metadata/NPC/Act7/Eramir	573	572	4.024 rad	2611866682	2_7_town					
+Metadata/NPC/League/Kalguur/VillageFaustusTown	492	592	1.476 rad	3922154524	2_7_town					
+Metadata/NPC/League/Incursion/TreasureHunter	492	606	0.694 rad	4064182530	2_7_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	618	609	4.702 rad	1669564304	2_7_town					
+Metadata/NPC/Act7/YeenaTown	566	632	5.895 rad	1661352205	2_7_town	55	-429.688			
+Metadata/NPC/Act7/Helena	586	626	0.262 rad	3449325472	2_7_town	55	-432.065			
+Object: Metadata/MiscellaneousObjects/Stash	601	632	5.837 rad	2817685266	2_7_town					
+Object: Metadata/NPC/Blocker	489	657	2.011 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownStash	489	657	2.011 rad	3348576580	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	572	664	4.797 rad	1285951471	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	568	650	4.622 rad	1285951471	2_7_town					
+Metadata/NPC/League/Expedition/Gambler	493	684	0.787 rad	13004121	2_7_town					
+Object: Metadata/NPC/Blocker	493	684	0.787 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/Haggler	491	671	1.344 rad	20954719	2_7_town					
+Object: Metadata/NPC/Blocker	491	671	1.344 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	676	1.487 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	1.168 rad	500414267	2_7_town	65	-514.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	679	5.070 rad	3935977174	2_7_town	65	-515.000			
+Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	3.532 rad	500414267	2_7_town	71	-556.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	491	688	2.670 rad	3935977174	2_7_town	55	-429.688			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	505	673	5.621 rad	3935977174	2_7_town	69	-545.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	676	0.000 rad	3935977174	2_7_town	65	-514.000			
+Metadata/NPC/League/Expedition/Saga	518	672	4.522 rad	2589473623	2_7_town					
+Object: Metadata/NPC/Blocker	518	672	4.522 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/Dealer	506	686	0.375 rad	1454344138	2_7_town					
+Object: Metadata/NPC/Blocker	506	686	0.375 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	519	678	2.525 rad	1013622912	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	568	675	5.275 rad	1285951471	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	698	0.293 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	500	703	0.000 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	502	691	0.241 rad	1558386669	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	511	704	5.313 rad	1013622912	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	506	695	0.000 rad	1558386669	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	506	706	5.636 rad	1013622912	2_7_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	573	692	4.712 rad	688764747	2_7_town	55	-435.122			
+Object: Metadata/MiscellaneousObjects/AreaTransition	551	716	3.142 rad	726109394	2_7_town	56	-441.282	0	18896	The Broken Bridge
+Metadata/Characters/StrDexInt/StrDexInt	551	576	3.142 rad	1086455624	2_7_town					
+Metadata/Characters/StrInt/StrInt	551	576	3.142 rad	2448909918	2_7_town					
+Metadata/NPC/Act7/Weylam	532	410	1.006 rad	241821059	2_7_town					
+Metadata/NPC/Act7/SinTown	580	409	4.101 rad	409762140	2_7_town	55	-433.084			
+Object: Metadata/MiscellaneousObjects/Waypoint	560	529	3.142 rad	552129418	2_7_town	56	-438.800			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	498	573	2.272 rad	2564365857	2_7_town					
+Metadata/NPC/Act7/Eramir	573	572	4.024 rad	2611866682	2_7_town					
+Metadata/NPC/League/Kalguur/VillageFaustusTown	492	592	1.476 rad	3922154524	2_7_town					
+Metadata/NPC/League/Incursion/TreasureHunter	492	606	0.694 rad	4064182530	2_7_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	618	609	4.702 rad	1669564304	2_7_town					
+Metadata/NPC/Act7/YeenaTown	566	632	5.895 rad	1661352205	2_7_town	55	-429.688			
+Metadata/NPC/Act7/Helena	586	626	0.262 rad	3449325472	2_7_town	55	-432.065			
+Object: Metadata/MiscellaneousObjects/Stash	601	632	5.837 rad	2817685266	2_7_town					
+Object: Metadata/NPC/Blocker	489	657	2.011 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownStash	489	657	2.011 rad	3348576580	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	572	664	4.797 rad	1285951471	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	568	650	4.622 rad	1285951471	2_7_town					
+Metadata/NPC/League/Expedition/Gambler	493	684	0.787 rad	13004121	2_7_town					
+Object: Metadata/NPC/Blocker	493	684	0.787 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/Haggler	491	671	1.344 rad	20954719	2_7_town					
+Object: Metadata/NPC/Blocker	491	671	1.344 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	676	1.487 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	1.168 rad	500414267	2_7_town	65	-514.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	679	5.070 rad	3935977174	2_7_town	65	-515.000			
+Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	3.532 rad	500414267	2_7_town	71	-556.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	491	688	2.670 rad	3935977174	2_7_town	55	-429.688			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	505	673	5.621 rad	3935977174	2_7_town	69	-545.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	676	0.000 rad	3935977174	2_7_town	65	-514.000			
+Metadata/NPC/League/Expedition/Saga	518	672	4.522 rad	2589473623	2_7_town					
+Object: Metadata/NPC/Blocker	518	672	4.522 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/Dealer	506	686	0.375 rad	1454344138	2_7_town					
+Object: Metadata/NPC/Blocker	506	686	0.375 rad	1980547395	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	519	678	2.525 rad	1013622912	2_7_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	568	675	5.275 rad	1285951471	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	698	0.293 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	500	703	0.000 rad	3935977174	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	502	691	0.241 rad	1558386669	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	511	704	5.313 rad	1013622912	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	506	695	0.000 rad	1558386669	2_7_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	506	706	5.636 rad	1013622912	2_7_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	573	692	4.712 rad	688764747	2_7_town	55	-435.122			
+Object: Metadata/MiscellaneousObjects/AreaTransition	551	716	3.142 rad	726109394	2_7_town	56	-441.282	0	18896	The Broken Bridge

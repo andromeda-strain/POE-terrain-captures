@@ -1,0 +1,23 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act2/Area2/Rooms/town_entrance.arm	12	21	3	node	default entrance1
+0	Metadata/Terrain/Act2/Area2/Rooms/gap_exit.arm	21	9	0	node	entrance3 killzone=4
+0	Metadata/Terrain/Act2/Area2/Rooms/road_gate_entrance.arm	65	19	3	node	entrance4
+0	Metadata/Terrain/Act2/Area2/Rooms/cave_entrance.arm	50	26	0	node	entrance2 unique1 killzone=4
+0	Metadata/Terrain/Act2/Area2/Rooms/doorwater.arm	42	36	0	node	
+0	Metadata/Terrain/Act2/Area2/Rooms/side_cliff2_entrance_1.arm	57	6	7	node	sidearea1 accessible
+0	Metadata/Terrain/Act2/Area2/Rooms/cliff_forest_gap_1.arm	33	9	0	node	
+0	Metadata/Terrain/Act2/Area2/Rooms/road_end2.arm	59	17	6	node	
+0	Metadata/Terrain/Act2/Area2/Rooms/road_end1.arm	57	23	1	node	
+0	Metadata/Terrain/Act2/Area2/Rooms/road_end1.arm	28	25	2	node	
+0	Metadata/Terrain/Act2/Area2/Rooms/road_end1.arm	31	26	6	node	
+0	Metadata/Terrain/Act2/Area2/Rooms/waypoint_inert.arm	53	30	4	node	
+0	Metadata/Terrain/Act2/Area2/Rooms/deep_source.arm	54	44	0	node	
+0	Metadata/Terrain/Act2/Area2/Rooms/low_sink.arm	6	6	0	node	
+0	Metadata/Terrain/Act2/Area2/Rooms/mossmonsterboss.arm	35	26	6	node	
+0	Metadata/Terrain/Act2/Area2/Rooms/fill_fields6_4.arm	41	10	3	fill	
+0	Metadata/Terrain/Act2/Area2/Rooms/fill_fields7_3.arm	44	11	0	fill	
+0	Metadata/Terrain/Act2/Area2/Rooms/fill_fields6_2.arm	47	12	3	fill	
+0	Metadata/Terrain/Act2/Area2/Rooms/fill_fields7_1.arm	54	15	3	fill	
+0	Metadata/Terrain/Act2/Area2/Rooms/fill_fields6_1.arm	46	24	1	fill	
+0	Metadata/Terrain/Act2/Area2/Rooms/fill_fields6_1.arm	29	33	4	fill	
+0	Metadata/Terrain/Act2/Area2/Rooms/fill_fields8_1.arm	48	35	5	fill	

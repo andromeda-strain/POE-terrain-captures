@@ -1,0 +1,68 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act8/Area1/Rooms/Unique/west_endcap.arm	0	60	0	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Unique/stairs_up.arm	72	24	0	node	teleport1 telepad1 teleport2 telepad2
+0	Metadata/Terrain/Act8/Area1/Rooms/Unique/entrance_1_1.arm	24	48	0	node	default entrance1-disabled
+0	Metadata/Terrain/Act8/Area1/Rooms/Unique/to_sarn.arm	24	60	0	node	entrance2
+0	Metadata/Terrain/Act8/Area1/Rooms/Unique/secret_entrance_cc.arm	48	60	6	node	teleport3disabled-MapStairAlternativeTunnel telepad4
+0	Metadata/Terrain/Act8/Area1/Rooms/Unique/secret_1.arm	0	0	0	node	telepad3 teleport4-%areaname%
+0	Metadata/Terrain/Act8/Area1/Rooms/slum_docks_straight.arm	72	84	6	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/coast_convex_1_1.arm	36	12	4	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/coast_convex_1_1.arm	72	12	5	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/convex_docks_1_1.arm	48	24	2	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/straight_docks_1_1.arm	36	60	4	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/straight_docks_1_1.arm	48	48	7	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/straight_docks_1_2.arm	48	36	3	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/straight_docks_1_2.arm	60	24	0	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/slum_docks_straight.arm	72	72	6	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/slum_docks_straight.arm	72	60	6	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/slum_docks_straight.arm	72	48	0	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/slum_docks_straight.arm	72	36	6	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/coast_concave_1_1.arm	36	48	4	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/coast_straight_1_1.arm	36	36	2	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/coast_straight_1_1.arm	36	24	4	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/coast_straight_1_1.arm	60	12	5	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/coast_straight_1_1.arm	48	12	3	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/city_water_fill.arm	0	72	5	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/city_water_fill.arm	12	72	1	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	0	48	6	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	12	48	4	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	24	36	2	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/city_water_fill.arm	24	84	3	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/city_water_fill.arm	60	60	1	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/city_water_fill.arm	48	72	3	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	24	0	6	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	0	12	5	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	12	12	0	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/InsideGround_fill.arm	84	84	7	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/city_water_fill.arm	60	84	7	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	24	12	3	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	36	0	1	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	84	12	3	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	72	0	5	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/city_water_fill.arm	36	72	1	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/city_water_fill.arm	60	48	6	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/city_water_fill.arm	60	36	3	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/InsideGround_fill.arm	84	72	1	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/city_water_fill.arm	60	72	5	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/InsideGround_fill.arm	84	60	6	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/InsideGround_fill.arm	84	48	2	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/InsideGround_fill.arm	84	36	2	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	24	24	4	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	60	0	7	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	48	0	4	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/city_water_fill.arm	0	84	2	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/city_water_fill.arm	12	84	1	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	0	36	4	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	12	36	3	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/city_water_fill.arm	36	84	2	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/city_water_fill.arm	48	84	4	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	0	24	4	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	12	24	5	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/InsideGround_fill.arm	96	84	5	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	96	12	2	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	84	0	2	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/InsideGround_fill.arm	96	72	1	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/InsideGround_fill.arm	96	60	2	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/InsideGround_fill.arm	96	48	2	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/InsideGround_fill.arm	96	36	5	node	
+0	Metadata/Terrain/Act8/Area1/Rooms/Fills/water_fill.arm	96	0	7	node	

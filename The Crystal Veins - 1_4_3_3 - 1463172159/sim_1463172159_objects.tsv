@@ -1,0 +1,59 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	972	172	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	517	190	0.0000	125.000	-16	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	908	190	0.0000	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	862	213	6.2832	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	604	264	4.7124	-125.000	16	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	724	259	6.2832	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	949	264	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	581	333	4.7124	-125.000	16	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1788	342	4.7124	-196.595	25	mine_areatransition_v04_01.tdt	0	1	47328	%areaname%
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	167	356	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	374	356	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	264	397	0.0000	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	471	420	0.0000	-125.000	16	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	940	431	0.0000	-321.595	41	mine_areatransition_v04_01.tdt	0	0	41597	1_4_3_2
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	788	540	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1115	554	3.1416	-99.934	13	mine_areatransition_v03_01.tdt	0	1	18365	HideoutMine_Claim
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	1340	540	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	724	558	6.2832	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	678	581	6.2832	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	1253	581	6.2832	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	1363	586	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	420	609	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	563	627	0.0000	125.000	-16	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	632	627	6.2832	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	765	632	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	1317	632	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	397	701	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	788	701	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	1340	701	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	1276	742	6.2832	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	1363	747	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	448	765	0.0000	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	1000	765	0.0000	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	1230	765	0.0000	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	356	788	6.2832	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	517	788	6.2832	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	862	788	6.2832	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	402	811	6.2832	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	1115	811	0.0000	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	926	862	4.7124	125.000	-16	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	972	931	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	862	995	6.2832	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	949	1000	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	862	1133	0.0000	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	954	1156	6.2832	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/MiscellaneousObjects/Waypoint	701	1230	1.5708	-140.108	18	mountainwaypoint_v01_01.tdt	0			
+Metadata/Terrain/Mountain/Mines/Objects/BeastSkinDoor	663	1367	0.0000	-80.777	10	mine_beastwall_v01_01.tdt	0			
+Metadata/QuestObjects/Act4/RaptureTransition	666	1357	0.0000	-102.110	13	mine_beastwall_v01_01.tdt	0	0	61800	1_4_6_1
+Metadata/Terrain/Mountain/Mines/Objects/BeastSkinDoorExplosion	667	1364	0.0000	-0.000	0	mine_beastwall_v01_01.tdt	0			
+Metadata/Terrain/Mountain/Mines/Objects/BeastSkinDoorFX	667	1380	0.0000	-0.000	0	mine_beastwall_v01_01.tdt	0			
+Metadata/Terrain/Mountain/Mines/Objects/BeastShake3	931	311	0.0000	0.000	0	entrance_4.arm	0			
+Metadata/NPC/Act4/DiallaRapture	649	1325	5.7139	0.000	0	rapture_1.arm	0			
+Metadata/QuestObjects/Act4/RaptureDevice	664	1326	3.0449	0.000	0	rapture_1.arm	0			
+Metadata/NPC/Info/MalachaiNotebook	602	1207	4.1662	0.000	0	rapture_1.arm	0			
+Metadata/Terrain/Mountain/Mines/Objects/DreamPortal	710	1335	0.7854	-141.304	18	rapture_1.arm	0	0	26176	1_4_5_1
+Metadata/Terrain/Mountain/Mines/Objects/DreamPortal	610	1341	1.9810	-114.130	15	rapture_1.arm	0	0	56136	1_4_4_1
+Metadata/MiscellaneousObjects/CraftRecipeUnlockMarker	696	1158	6.1455	0.000	0	rapture_1.arm	1			
+Metadata/NPC/Missions/HelenaClaim	1772	318	5.4370	0.000	0	hideout_claim.arm	0			

@@ -1,0 +1,63 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/Dex/Dex	421	361	1.309 rad	2287107054	2_10_town					
+Metadata/Characters/Dex/Dex	581	322	2.715 rad	2287107054	2_10_town					
+Metadata/Characters/StrDexInt/StrDexInt	583	321	2.897 rad	1086455624	2_10_town					
+Metadata/Characters/StrDex/StrDex	446	356	2.897 rad	2810334424	2_10_town					
+Metadata/Characters/Str/Str	515	283	0.559 rad	3618279525	2_10_town					
+Metadata/Characters/StrDex/StrDex	421	361	1.309 rad	2810334424	2_10_town					
+Metadata/Characters/StrInt/StrInt	423	360	1.396 rad	2448909918	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	612	225	5.457 rad	3935977174	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	572	245	0.000 rad	1013622912	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	573	234	5.722 rad	1013622912	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	561	250	4.584 rad	1013622912	2_10_town					
+Metadata/NPC/League/Expedition/Gambler	595	248	3.246 rad	13004121	2_10_town					
+Object: Metadata/NPC/Blocker	595	248	3.246 rad	1980547395	2_10_town					
+Metadata/NPC/League/Expedition/Saga	581	250	3.254 rad	2589473623	2_10_town					
+Object: Metadata/NPC/Blocker	581	250	3.254 rad	1980547395	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	586	233	5.567 rad	3935977174	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	592	234	0.000 rad	3935977174	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	585	241	0.000 rad	3935977174	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	592	236	2.215 rad	3935977174	2_10_town	8	-70.000			
+Metadata/NPC/League/Expedition/TownDoodadSaga	579	232	5.601 rad	1013622912	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	586	241	2.499 rad	3935977174	2_10_town	10	-85.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	579	242	1.376 rad	3935977174	2_10_town	9	-77.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	589	243	0.000 rad	3935977174	2_10_town	29	-230.000			
+Metadata/NPC/League/Expedition/Haggler	607	245	3.543 rad	20954719	2_10_town					
+Object: Metadata/NPC/Blocker	607	245	3.543 rad	1980547395	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	609	233	3.631 rad	3935977174	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	619	246	4.713 rad	500414267	2_10_town	4	-35.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	618	235	0.000 rad	3935977174	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	623	245	4.712 rad	500414267	2_10_town	5	-45.000			
+Metadata/NPC/League/Expedition/TownDoodadHaggler	621	246	2.484 rad	500414267	2_10_town	5	-44.000			
+Metadata/NPC/Act10/Lani	431	274	2.717 rad	2988864454	2_10_town					
+Metadata/NPC/Act10/SinTown	490	275	3.489 rad	2467637454	2_10_town	11	-86.956			
+Metadata/NPC/League/Sanctum/SanctumNPCTown	520	275	3.142 rad	693505554	2_10_town					
+Object: Metadata/NPC/Blocker	569	258	1.693 rad	1980547395	2_10_town					
+Metadata/NPC/League/Expedition/TownStash	569	258	1.693 rad	3348576580	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	564	265	0.000 rad	1013622912	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadSaga	563	263	2.560 rad	1013622912	2_10_town	1	-9.000			
+Metadata/NPC/League/Expedition/Dealer	612	257	4.951 rad	1454344138	2_10_town					
+Object: Metadata/NPC/Blocker	612	257	4.951 rad	1980547395	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	613	270	1.180 rad	1558386669	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	614	265	4.109 rad	1558386669	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	606	268	5.148 rad	1558386669	2_10_town	1	-11.000			
+Metadata/NPC/League/Expedition/TownDoodadDealer	619	253	0.000 rad	1558386669	2_10_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	619	267	3.643 rad	1558386669	2_10_town	3	-25.000			
+Metadata/MiscellaneousObjects/MercenaryMarker	336	291	0.414 rad	1285951471	2_10_town					
+Metadata/NPC/Act10/InnocenceTown	470	295	5.785 rad	89920011	2_10_town					
+Object: Metadata/MiscellaneousObjects/Stash	532	296	5.483 rad	2817685266	2_10_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	619	286	4.712 rad	688764747	2_10_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	344	299	0.547 rad	1285951471	2_10_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	356	300	6.281 rad	1285951471	2_10_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	507	300	0.000 rad	2564365857	2_10_town					
+Metadata/Pet/HarbingerTiger/HarbingerTiger	583	308	3.142 rad	115957247	2_10_town					
+Metadata/Pet/SurvivorHound/SurvivorPackHound	582	303	2.456 rad	2028676625	2_10_town					
+Metadata/NPC/League/Kalguur/VillageFaustusTown	617	321	4.985 rad	3922154524	2_10_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	621	306	4.625 rad	1669564304	2_10_town					
+Object: Metadata/MiscellaneousObjects/Waypoint	586	333	0.000 rad	552129418	2_10_town	1	-15.108			
+Metadata/NPC/Act10/Weylam	457	356	5.203 rad	954125682	2_10_town					
+Metadata/NPC/Act10/Lilly	448	364	6.200 rad	2216676255	2_10_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	620	347	4.712 rad	726109394	2_10_town	17	-139.166	0	4963	The Cathedral Rooftop
+Metadata/Pet/DriftLurker/DriftLurker	417	368	0.000 rad	3337600918	2_10_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	336	291	0.414 rad	1285951471	2_10_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	344	299	0.547 rad	1285951471	2_10_town					

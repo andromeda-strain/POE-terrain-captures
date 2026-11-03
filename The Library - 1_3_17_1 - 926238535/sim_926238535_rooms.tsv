@@ -1,0 +1,24 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/RuinedCity/Library/Rooms/Unique/entrance_1.arm	48	6	0	node	default entrance1 unique2
+0	Metadata/Terrain/RuinedCity/Library/Rooms/Unique/siosa_1.arm	24	24	0	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/Unique/exit_1.arm	6	12	0	node	entrance2disabled unique1
+0	Metadata/Terrain/RuinedCity/Library/Rooms/1x1/var_2_2_3.arm	42	24	5	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/2x2/var_6_1.arm	12	30	1	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/1x1/var_1_1.arm	18	24	2	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/1x1/var_1_2.arm	42	30	1	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/1x1/var_1_1.arm	36	30	4	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/1x1/var_2_1.arm	12	24	7	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/1x1/var_3_1.arm	18	18	0	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/1x1/var_1_1.arm	12	18	5	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/1x1/var_1_2.arm	42	6	5	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/1x1/var_3_2_1.arm	12	12	5	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/2x2/var_8_1.arm	42	12	6	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/2x2/var_6_3_book3.arm	42	36	3	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/2x2/var_6_2.arm	30	36	5	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/1x1/var_5_1_book1.arm	48	30	0	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/1x1/var_2_2_2.arm	48	24	5	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/1x1/var_5_1.arm	36	6	2	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/1x1/var_3_2_2_boss.arm	36	24	0	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/1x1/var_5_1_book2.arm	30	12	2	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/1x1/var_2_1.arm	36	12	0	node	
+0	Metadata/Terrain/RuinedCity/Library/Rooms/1x1/var_5_1.arm	36	18	2	node	

@@ -1,0 +1,10 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Prison/Rooms/Unique/transitiondown_low_unique.arm	13	33	2	node	default entrance1 waypoint
+0	Metadata/Terrain/Prison/Rooms/Unique/transitionup_unique_4a.arm	13	5	3	node	entrance2
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/Unique/axiom_intro.arm	33	21	7	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/Unique/axiom_intro_end.arm	33	33	0	node	
+0	Metadata/Terrain/Prison/Rooms/3x3/cell_low_torture_10b.arm	5	21	1	node	
+0	Metadata/Terrain/Prison/Rooms/Unique/special_skeletonboss1.arm	29	25	2	node	
+0	Metadata/Terrain/Prison/Rooms/1x1/cell_torture_5a.arm	21	29	4	node	
+0	Metadata/Terrain/Prison/Rooms/2x3/open_torture_2a.arm	17	21	5	node	
+0	Metadata/Terrain/Prison/Rooms/2x3/torture_4a.arm	9	13	3	node	

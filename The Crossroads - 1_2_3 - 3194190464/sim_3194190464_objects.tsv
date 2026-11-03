@@ -1,0 +1,65 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1000	264	6.2832	-157.343	20	road_wall_gate_v01_01_reverse.tdt	0	0	13302	1_2_15
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1126	239	3.1416	-32.755	4	tree_normal_v05_05.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1149	245	3.1416	-32.755	4	tree_normal_v05_05.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1219	243	0.0000	-32.755	4	tree_normal_v05_05.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1196	237	0.0000	-32.755	4	tree_normal_v05_05.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1101	355	1.5708	-32.755	4	tree_normal_v05_02.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	918	376	4.7124	-32.755	4	tree_normal_v06_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	935	389	4.7124	-32.755	4	tree_normal_v06_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1289	469	3.1416	-32.755	4	tree_normal_v05_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1283	461	3.1416	-32.755	4	tree_normal_v05_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	859	530	3.1416	-32.755	4	tree_normal_v06_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	872	513	3.1416	-32.755	4	tree_normal_v06_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1112	530	3.1416	-32.755	4	tree_normal_v06_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1125	513	3.1416	-32.755	4	tree_normal_v06_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1114	553	1.5708	-32.755	4	tree_normal_v03_03.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1118	527	1.5708	-32.755	4	tree_normal_v03_03.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1574	553	1.5708	-32.755	4	tree_normal_v03_03.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1578	527	1.5708	-32.755	4	tree_normal_v03_03.tdt	1			
+Metadata/MiscellaneousObjects/AreaTransition	1656	563	0.0000	-31.080	4	bridgeconnection_v01_01.tdt	0	0	47747	1_2_4
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	228	583	4.7124	-32.755	4	tree_normal_v06_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	245	596	4.7124	-32.755	4	tree_normal_v06_01.tdt	1			
+Metadata/MiscellaneousObjects/AreaTransition	218	678	4.7124	-157.343	20	road_wall_gate_v01_01_reverse.tdt	0	0	9731	1_2_2
+Metadata/MiscellaneousObjects/Waypoint	977	678	3.1416	-15.508	2	forest_waypoint_v01_01.tdt	0			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1106	689	1.5708	-32.755	4	tree_normal_v03_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1119	667	1.5708	-32.755	4	tree_normal_v03_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1072	688	0.0000	-32.755	4	tree_normal_v06_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1059	705	0.0000	-32.755	4	tree_normal_v06_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	621	741	0.0000	-32.755	4	tree_normal_v04_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	600	740	0.0000	-32.755	4	tree_normal_v04_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	185	780	4.7124	-32.755	4	tree_normal_v03_05.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	202	761	4.7124	-32.755	4	tree_normal_v03_05.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	514	783	3.1416	-32.755	4	tree_normal_v06_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	527	766	3.1416	-32.755	4	tree_normal_v06_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1083	781	1.5708	-32.755	4	tree_normal_v03_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1096	759	1.5708	-32.755	4	tree_normal_v03_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1370	758	4.7124	-32.755	4	tree_normal_v05_05.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1364	781	4.7124	-32.755	4	tree_normal_v05_05.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	553	826	4.7124	-32.755	4	tree_normal_v03_05.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	570	807	4.7124	-32.755	4	tree_normal_v03_05.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1128	886	0.0000	-32.755	4	tree_normal_v03_03.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1102	882	0.0000	-32.755	4	tree_normal_v03_03.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1196	1021	0.0000	-32.755	4	tree_normal_v03_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1213	1035	0.0000	-32.755	4	tree_normal_v03_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	943	1071	0.0000	-282.755	36	tree_normal_v05_05.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	920	1065	0.0000	-282.755	36	tree_normal_v05_05.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	852	1228	3.1416	-282.755	36	tree_normal_v05_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	846	1220	3.1416	-282.755	36	tree_normal_v05_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1194	1347	0.0000	-282.755	36	tree_normal_v05_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1200	1355	0.0000	-282.755	36	tree_normal_v05_04.tdt	1			
+Metadata/MiscellaneousObjects/AreaTransition	930	1545	0.0000	-712.999	91	temple_entrance_v01_01.tdt	0	0	3398	1_2_6_1
+Metadata/Monsters/Bandits/TentBanditSpawner3	1098	1098	4.9373	-250.000	32	stairsstream_boss.arm	0			
+Metadata/NPC/Info/CrossroadsLoreChapel	1353	379	5.5414	-113.791	15	ruin_chapel.arm	0			
+Metadata/NPC/Info/CrossroadsLoreVilla	736	733	4.1480	-16.304	2	ruin_villa.arm	0			
+Metadata/NPC/Info/CrossroadsLoreVilla2	717	758	6.1427	0.000	0	ruin_villa.arm	0			
+Metadata/MiscellaneousObjects/ProphecyMonsterLocator	700	712	4.7124	0.000	0	ruin_villa.arm	1			
+Metadata/MiscellaneousObjects/ProphecyProximityTrigger	700	718	4.7124	0.000	0	ruin_villa.arm	1			
+Metadata/NPC/Info/CrossroadsLoreWindmill	1302	673	5.2176	-218.750	28	ruin_windmill.arm	0			
+Metadata/Monsters/Bandits/TentBanditSpawner3	1152	357	2.3562	0.000	0	tent1.arm	0			
+Metadata/Monsters/Bandits/TentBanditSpawner3	1166	349	3.5779	0.000	0	tent1.arm	0			
+Metadata/Monsters/Bandits/BanditAmbushPoint	1164	363	1.5708	0.000	0	tent1.arm	1			
+Metadata/Monsters/Bandits/TentBanditSpawner3	1146	1271	4.4506	-250.000	32	tent_camp_1b.arm	0			
+Metadata/Monsters/Bandits/TentBanditSpawner3	1150	1315	4.9742	-250.000	32	tent_camp_1b.arm	0			
+Metadata/Monsters/Bandits/TentBanditSpawner3	1133	1324	0.0873	-250.000	32	tent_camp_1b.arm	0			
+Metadata/Monsters/Bandits/BanditAmbushPoint	1138	1297	0.5236	-250.000	32	tent_camp_1b.arm	1			

@@ -1,0 +1,8 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act2/Area8/Rooms/inca_twist_2.arm	45	9	0	node	entrance1 default
+0	Metadata/Terrain/Act2/Area8/Rooms/dune_join_forest_cliff.arm	33	15	1	node	
+0	Metadata/Terrain/Act2/Area8/Rooms/exit_1.arm	45	78	0	node	entrance3
+0	Metadata/Terrain/Act2/Area8/Rooms/grove_twist.arm	6	30	0	node	entrance2
+0	Metadata/Terrain/Act2/Area8/Rooms/waypoint_river_1.arm	36	21	0	node	
+0	Metadata/Terrain/Act2/Area8/Rooms/azmeri_quest_shrine.arm	6	42	5	node	
+0	Metadata/Terrain/Act2/Area8/Rooms/flow_source_1.arm	52	86	4	node	

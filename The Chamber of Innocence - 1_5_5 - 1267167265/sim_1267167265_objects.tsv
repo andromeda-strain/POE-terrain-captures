@@ -1,0 +1,63 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1413	224	3.1416	-548.160	70	Innocence_boss_transition_v01_01.tdt	0	1	43038	%areaname%
+Metadata/MiscellaneousObjects/AreaTransition	1328	311	1.5708	-548.160	70	Innocence_boss_transition_v01_01.tdt	0	1	43038	%areaname%
+Metadata/MiscellaneousObjects/AreaTransition	1852	425	1.5708	-278.079	36	Innocence_boss_exit_v01_01.tdt	0	1	606343618	ArenaNameAvarius
+Metadata/QuestObjects/Act5/InnocenceShortcutDoor	1852	425	1.5708	-125.000	16	Innocence_boss_exit_v01_01.tdt	0			
+Metadata/QuestObjects/Act5/InnocenceToDestroyedCourts	2096	624	4.7124	-404.613	52	transition_chamber_to_courts_v01_01.tdt	0	0	9877	1_5_4b
+Metadata/QuestObjects/Act5/InnocenceToCourts	2096	624	4.7124	-404.613	52	transition_chamber_to_courts_v01_01.tdt	0	0	41357	1_5_4
+Metadata/NPC/Info/StainedGlassWindow6	764	793	4.7124	-315.099	40	Innocence_stainglass_glyph_06.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1119	934	6.2832	-441.081	56	transition_chamber_to_boss_v01_01.tdt	0	1	606343618	ArenaNameAvarius
+Metadata/NPC/Info/StainedGlassWindow1	2104	925	0.0000	-315.099	40	Innocence_stainglass_glyph_01.tdt	0			
+Metadata/NPC/Info/StainedGlassWindow8	1983	1230	4.7124	-315.099	40	Innocence_stainglass_glyph_08.tdt	0			
+Metadata/NPC/Info/StainedGlassWindow5	655	1362	0.0000	-315.099	40	Innocence_stainglass_glyph_05.tdt	0			
+Metadata/NPC/Info/StainedGlassWindow2	1851	1362	0.0000	-315.099	40	Innocence_stainglass_glyph_02.tdt	0			
+Metadata/NPC/Info/StainedGlassWindow4	825	1750	0.0000	-315.142	40	Innocence_stainglass_glyph_03_02.tdt	0			
+Metadata/NPC/Info/StainedGlassWindow3	808	1750	0.0000	-314.698	40	Innocence_stainglass_glyph_03_02.tdt	0			
+Metadata/NPC/Info/StainedGlassWindow7	1293	1920	4.7124	-315.099	40	Innocence_stainglass_glyph_07.tdt	0			
+Metadata/NPC/Act5/BannonInnocence	2057	635	0.0000	-250.000	32	entrance_01.arm	0			
+Metadata/MiscellaneousObjects/Waypoint	1966	494	0.0000	0.000	0	entrance_01.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker1	1376	312	1.7691	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker1	1380	290	1.8119	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker1	1377	302	1.7789	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker1Ranged	1364	305	1.7691	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker1Ranged	1366	293	1.7691	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker2	1441	335	5.4808	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker3	1453	305	4.1836	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker2	1433	342	5.4808	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker2	1448	327	5.4808	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker2Ranged	1444	346	5.4808	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker2Ranged	1452	338	5.4808	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker3	1446	295	4.1836	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker3	1441	285	4.1836	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker3Ranged	1459	294	4.1836	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker3Ranged	1453	282	4.1836	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/ArenaMiddle	1414	310	5.4775	-375.000	48	boss_02.arm	0			
+Metadata/MiscellaneousObjects/TeleportMarkerSerialized	1480	310	2.3201	-375.000	48	boss_02.arm	0			
+Metadata/MiscellaneousObjects/TeleportMarkerSerialized	1460	353	2.3201	-375.000	48	boss_02.arm	0			
+Metadata/MiscellaneousObjects/TeleportMarkerSerialized	1415	375	2.3201	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusStatueSpawner	1414	409	0.0000	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusStatueSpawner	1349	374	0.7854	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusStatueSpawner	1513	310	4.7124	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusStatueSpawner	1479	246	3.9270	-375.000	48	boss_02.arm	0			
+Metadata/MiscellaneousObjects/TeleportMarkerSerialized	1368	356	2.3201	-375.000	48	boss_02.arm	0			
+Metadata/MiscellaneousObjects/TeleportMarkerSerialized	1354	304	2.3201	-375.000	48	boss_02.arm	0			
+Metadata/MiscellaneousObjects/TeleportMarkerSerialized	1416	253	2.3201	-375.000	48	boss_02.arm	0			
+Metadata/MiscellaneousObjects/TeleportMarkerSerialized	1460	265	2.3201	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker4	1401	344	0.4359	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker4	1413	349	0.4359	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker4	1389	339	0.4359	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker4Ranged	1391	351	0.4359	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker4Ranged	1403	357	0.4359	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker5	1420	274	3.0287	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker5	1409	275	3.0287	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker5	1398	277	3.0287	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker5Ranged	1401	265	3.0287	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker5Ranged	1413	263	3.0287	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker1Boss	1355	297	1.7691	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusTemplarMarker2Boss	1455	348	5.4808	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusCasticusStatue	1513	310	4.7124	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusCasticusStatue	1414	410	6.2832	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusCasticusStatue	1479	246	3.9270	-375.000	48	boss_02.arm	0			
+Metadata/Monsters/AvariusCasticus/AvariusCasticusStatue	1349	374	0.7854	-375.000	48	boss_02.arm	0			
+Metadata/NPC/Info/TriumphOfInnocence	1731	1731	5.4978	-250.000	32	innocence_statue_concave.arm	0			
+Metadata/MiscellaneousObjects/CraftRecipeUnlockMarker	1038	1253	4.7124	125.000	-16	ground_mural.arm	1			

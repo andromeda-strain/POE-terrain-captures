@@ -1,0 +1,5 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1345	255	3.1416	-134.715	17	forest_secretgate_transition_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1529	471	4.7124	-157.343	20	road_wall_gate_v01_01.tdt	0	0	38817	1_2_3
+Metadata/MiscellaneousObjects/AreaTransition	436	641	4.7124	-16.645	2	forestcamp_right_v01_01.tdt	0	0	8755	1_2_town
+Metadata/MiscellaneousObjects/AreaTransition	1195	644	1.5708	12.853	-2	forestcave_entrance_hole_v01_01.tdt	0	0	50108	1_2_2a

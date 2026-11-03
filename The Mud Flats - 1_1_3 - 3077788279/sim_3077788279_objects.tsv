@@ -1,0 +1,10 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	372	361	1.5708	-121.343	16	act1_area2_transition_v01_01_reverse.tdt	0	0	31442	1_1_2
+Metadata/Chests/QuestChests/RhoaChest	425	563	3.1416	-57.546	7	rhoanest_v01_01.tdt	0			
+Metadata/Chests/QuestChests/RhoaChest	678	586	6.2832	-57.546	7	rhoanest_v01_01.tdt	0			
+Metadata/NPC/Info/Karui/Stone3	681	681	0.0000	-0.000	0	beach_karuistone3.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	277	870	4.7124	-167.397	21	act1_beach_toswamp_fetid_v01_01_reverse.tdt	0	0	56912	1_1_3a
+Metadata/Chests/QuestChests/RhoaChest	494	839	6.2832	-57.546	7	rhoanest_v01_01.tdt	0			
+Metadata/QuestObjects/WaterCave/WaterCaveAreaTransition	864	979	4.7124	-61.286	8	Beach_to_watercave_v2.tdt	0	0	12917	1_1_4_1
+Metadata/QuestObjects/WaterCave/GlyphWall	760	996	4.7124	-165.613	21	Beach_to_watercave_v2.tdt	0			
+Metadata/QuestObjects/WaterCave/WaterTransition	837	963	4.7124	37.025	-5	to_cave.arm	0			

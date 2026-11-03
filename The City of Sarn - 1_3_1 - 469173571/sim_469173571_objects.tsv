@@ -1,0 +1,8 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	740	414	4.7124	-487.895	62	act3_pyramid_entrance_v01_01.tdt	0	0	14238	1_2_14_3
+Metadata/QuestObjects/Inca/IncaPyramidOutsideDust	726	413	4.7124	-484.957	62	act3_pyramid_entrance_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Waypoint	677	500	4.7124	-351.046	45	citywaypoint_v01_01.tdt	0			
+Metadata/NPC/Info/Victario/GraffitiIntro	379	1398	0.0000	-288.185	37	act3_walkablelargecliff_convex_01_02_victarioUnique.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	291	1655	4.7124	-115.758	15	act3_docks_to_town_lower_01_01.tdt	0	0	1073	1_3_town
+Metadata/MiscellaneousObjects/CraftRecipeUnlockMarker	700	389	3.9270	-278.750	36	entrance_1a.arm	1			
+Metadata/NPC/Act3/ClarissaSlums	560	1278	1.3525	-335.938	43	clarissa.arm	0			

@@ -1,0 +1,8 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/QuestObjects/WaterCave/WaterCaveAreaTransition	1140	634	4.7124	-61.286	8	Beach_to_watercave_v2.tdt	0			
+Metadata/QuestObjects/WaterCave/GlyphWall	1036	651	4.7124	-165.613	21	Beach_to_watercave_v2.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	361	1076	0.0000	-121.343	16	act6_area2_transition_v01_01_reverse.tdt	0	0	18028	2_6_2
+Metadata/QuestObjects/Act6/MudFlatsKaruiTransition	895	1169	1.5708	-241.970	31	beach_karuipools_v01_01.tdt	0	0	3453	2_6_5
+Metadata/QuestObjects/Act6/MudFlatsKaruiDoor	895	1169	1.5708	-0.000	0	beach_karuipools_v01_01.tdt	0			
+Metadata/NPC/Act6/NessaMudFlats	1126	626	4.8854	-11.549	1	floodedcave.arm	0			
+Metadata/QuestObjects/Act6/SunkenPassageFlooded	1113	622	4.7124	21.739	-3	floodedcave.arm	0			

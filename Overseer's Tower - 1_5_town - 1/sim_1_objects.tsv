@@ -1,0 +1,25 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransitionMapMarker	356	417	3.1416	-797.834	102	tower_waypoint_v01_01.tdt	0	0	62730	1_5_2
+Metadata/MiscellaneousObjects/Waypoint	317	386	3.1416	-651.778	83	tower_waypoint_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransitionMapMarker	356	501	3.1416	-762.234	98	slave_doublewall_tower_stair_transition_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/GuildStash	336	347	4.7601	-903.872	116	town_01.arm	0			
+Metadata/MiscellaneousObjects/NoticeBoard	396	404	5.4978	0.000	0	town_01.arm	0			
+Metadata/NPC/Act5/Utula	352	318	6.1382	0.000	0	town_01.arm	0			
+Metadata/NPC/Act5/BannonTown	419	348	5.2360	-903.872	116	town_01.arm	0			
+Metadata/NPC/Act5/Lani	370	310	5.4978	0.000	0	town_01.arm	0			
+Metadata/NPC/Act5/Vilenta	413	316	4.7124	0.000	0	town_01.arm	0			
+Metadata/MiscellaneousObjects/Stash	338	337	5.1807	0.000	0	town_01.arm	0			
+Metadata/MiscellaneousObjects/TownPortal	363	275	3.1416	-898.438	115	town_01.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	304	311	1.5708	-898.438	115	town_01.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	346	283	2.3562	-898.438	115	town_01.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	309	293	2.3562	-898.438	115	town_01.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	328	289	3.4034	-898.438	115	town_01.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	378	284	4.1888	-898.438	115	town_01.arm	1			
+Metadata/MiscellaneousObjects/NoticeBoardPvP	416	384	5.4978	0.000	0	town_01.arm	0			
+Metadata/MiscellaneousObjects/AreaTransitionMapMarker	287	329	0.0000	0.000	0	town_01.arm	0	0	38062	1_5_1
+Metadata/NPC/Info/TutorialNPC	326	406	6.1817	0.000	0	town_01.arm	0			
+Metadata/MiscellaneousObjects/Necropolis/NecropolisLocker	402	296	3.9270	0.000	0	town_01.arm	0			
+Metadata/MiscellaneousObjects/MercenaryMarker	396	302	4.1569	0.000	0	town_01.arm	0			
+Metadata/MiscellaneousObjects/MercenaryMarker	404	308	4.2147	0.000	0	town_01.arm	0			
+Metadata/MiscellaneousObjects/MercenaryMarker	389	292	3.9095	0.000	0	town_01.arm	0			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	357	375	3.1493	0.000	0	town_01.arm	0			

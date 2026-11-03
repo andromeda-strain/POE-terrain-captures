@@ -1,0 +1,55 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1655	707	1.5708	-202.462	26	market_transition_warehouse_v01_01.tdt	0	0	21356	2_8_9
+Metadata/MiscellaneousObjects/AreaTransition	345	776	4.7124	-202.462	26	market_transition_warehouse_v01_01.tdt	0	1	1706870621	ArenaNameTolmanAnkh
+Metadata/MiscellaneousObjects/AreaTransition	1518	2190	4.7124	-202.462	26	market_transition_warehouse_v01_01.tdt	0	1	36496	%areaname%
+Metadata/MiscellaneousObjects/AreaTransition	908	2518	3.1416	-1.021	0	slum_sewer_entrance_opened_v01_01.tdt	0	0	62307	2_8_2_2
+Metadata/NPC/Act8/ClarissaQuay	1521	2277	3.1478	0.000	0	boss.arm	0			
+Metadata/QuestObjects/Act8/AnkhOfEternity	1518	2285	3.1416	0.000	0	boss.arm	0			
+Metadata/Monsters/Zombies/Tolman/TolmanBossSpawner	1518	2320	0.0000	0.000	0	boss.arm	0			
+Metadata/Monsters/Zombies/Tolman/TolmanMagicSpawner	1470	2328	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanMagicSpawner	1435	2288	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanMagicSpawner	1501	2289	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanMagicSpawner	1465	2287	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanMagicSpawner	1445	2259	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanMagicSpawner	1514	2259	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanMagicSpawner	1533	2300	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanMagicSpawner	1553	2325	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanMagicSpawner	1594	2296	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanMagicSpawner	1570	2266	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanMagicSpawner	1596	2247	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanMagicSpawner	1603	2335	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanMagicSpawner	1495	2334	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanMagicSpawner	1545	2335	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanMagicSpawner	1537	2268	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanMagicSpawner	1569	2236	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanMagicSpawner	1471	2228	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1484	2337	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1452	2329	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1502	2321	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1452	2300	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1432	2278	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1461	2278	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1498	2275	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1443	2249	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1463	2240	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1488	2222	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1507	2300	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1521	2264	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1553	2219	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1535	2288	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1575	2253	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1595	2269	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1573	2291	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1578	2314	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1572	2336	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanNormalSpawner	1610	2292	1.5808	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanDesecrateSpawner	1467	2284	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanDesecrateSpawner	1567	2283	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanDesecrateSpawner	1632	2283	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanDesecrateSpawner	1395	2284	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanDetonateDeadSpawner	1518	2314	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanDetonateDeadSpawner	1516	2243	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanDetonateDeadSpawner	1554	2275	0.0000	0.000	0	boss.arm	1			
+Metadata/Monsters/Zombies/Tolman/TolmanDetonateDeadSpawner	1484	2276	0.0000	0.000	0	boss.arm	1			
+Metadata/Chests/QuestChests/AnkhChest	874	1401	4.1888	0.000	0	quest_chest.arm	0			
+Metadata/Shrines/Shrine	806	1677	4.7124	0.000	0	city_01.arm	0			

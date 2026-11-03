@@ -1,0 +1,47 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	551	716	3.1416	-441.282	56	bridge_town_v01_01.tdt	0	0	18896	2_7_1
+Metadata/MiscellaneousObjects/AreaTransition	526	406	1.5708	-572.012	73	bridge_town_v01_01.tdt	0	0	49540	2_6_15
+Metadata/MiscellaneousObjects/Waypoint	560	529	3.1416	-438.800	56	bridge_town_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/TownPortal	529	528	1.5708	-429.688	55	broken_bridge_town.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	529	488	1.5708	0.000	0	broken_bridge_town.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	529	508	1.5708	0.000	0	broken_bridge_town.arm	1			
+Metadata/NPC/Act7/Eramir	573	572	4.0241	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/Act7/YeenaTown	566	632	5.8955	-429.688	55	broken_bridge_town.arm	0			
+Metadata/NPC/Act7/Helena	586	626	0.2618	-432.065	55	broken_bridge_town.arm	0			
+Metadata/MiscellaneousObjects/TownPortal	529	468	1.5708	-429.688	55	broken_bridge_town.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	574	488	4.7124	-429.688	55	broken_bridge_town.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	574	508	4.7124	-429.688	55	broken_bridge_town.arm	1			
+Metadata/MiscellaneousObjects/NoticeBoardPvP	573	692	4.7124	-435.122	56	broken_bridge_town.arm	0			
+Metadata/MiscellaneousObjects/NoticeBoard	618	609	4.7018	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/Act7/SinTown	580	409	4.1006	-433.084	55	broken_bridge_town.arm	0			
+Metadata/NPC/Act7/Weylam	532	410	1.0060	0.000	0	broken_bridge_town.arm	0			
+Metadata/MiscellaneousObjects/GuildStash	610	622	5.3007	0.000	0	broken_bridge_town.arm	0			
+Metadata/MiscellaneousObjects/Stash	601	632	5.8372	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/League/Incursion/TreasureHunter	492	606	0.6943	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/Info/TutorialNPC	530	666	0.5053	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/Saga	518	672	4.5221	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/Dealer	506	686	0.3753	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/Gambler	493	684	0.7866	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/Haggler	491	671	1.3441	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/TownStash	489	657	2.0112	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	698	0.2926	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	676	1.4866	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/TownDoodadHaggler	484	671	1.1677	-514.000	66	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	485	679	5.0704	-515.000	66	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	500	703	0.0000	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/TownDoodadNoDealer	502	691	0.0000	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/TownDoodadSaga	511	704	5.3133	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/TownDoodadSaga	519	678	2.5252	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/TownDoodadDealer	506	695	0.0000	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/TownDoodadDealer	502	691	0.2413	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	491	688	2.6697	-429.688	55	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/TownDoodadSaga	506	706	5.6363	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	505	673	5.6208	-545.000	70	broken_bridge_town.arm	0			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	487	676	0.0000	-514.000	66	broken_bridge_town.arm	0			
+Metadata/NPC/League/Sanctum/SanctumNPCTownAct7	513	620	0.3865	0.000	0	broken_bridge_town.arm	0			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	498	573	2.2720	0.000	0	broken_bridge_town.arm	0			
+Metadata/MiscellaneousObjects/Necropolis/NecropolisLocker	532	622	0.4008	0.000	0	broken_bridge_town.arm	0			
+Metadata/NPC/League/Kalguur/VillageFaustusTown	492	592	1.4759	0.000	0	broken_bridge_town.arm	0			
+Metadata/MiscellaneousObjects/MercenaryMarker	568	675	5.2748	0.000	0	broken_bridge_town.arm	0			
+Metadata/MiscellaneousObjects/MercenaryMarker	572	664	4.7968	0.000	0	broken_bridge_town.arm	0			
+Metadata/MiscellaneousObjects/MercenaryMarker	568	650	4.6224	0.000	0	broken_bridge_town.arm	0			

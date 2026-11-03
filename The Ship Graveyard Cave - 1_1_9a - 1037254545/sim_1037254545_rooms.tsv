@@ -1,0 +1,15 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Cave/Rooms_new/Unique/entrance1a.arm	4	34	0	node	default entrance1
+0	Metadata/Terrain/Leagues/Deepwater/Act1_ShipGraveyardCave/Rooms/treasure1a.arm	28	4	0	node	entrance2
+0	Metadata/Terrain/Cave/Rooms_new/1x1/type3a.arm	4	28	0	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x2/open.arm	16	22	4	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x2/type3a.arm	4	22	3	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x2/open.arm	28	16	2	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x2/open.arm	22	16	2	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x1/type4a.arm	16	34	2	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x1/type4a.arm	34	28	5	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x1/type2a.arm	28	28	7	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x1/type4a.arm	22	28	2	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x2/type5a.arm	10	28	6	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x1/type3a.arm	22	10	4	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x2/type3a.arm	34	16	0	node	

@@ -1,0 +1,9 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransitionToggleable	206	176	1.5708	-126.016	16	church_exit_up_v01_01.tdt	0	1	38868	%areaname%
+Metadata/MiscellaneousObjects/AreaTransition	1851	713	4.7124	-806.781	103	colosseum_trap_door_v01_01.tdt	0	1	50	Stairs
+Metadata/MiscellaneousObjects/AreaTransition	706	1243	0.0000	251.725	-32	spiderkingtomb_entrance_v01_01.tdt	0	0	22103	2_7_12_2
+Metadata/MiscellaneousObjects/Waypoint	747	1322	0.0000	-15.508	2	forest_waypoint_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	644	1746	3.1416	-396.070	51	act8_docks_v01_01.tdt	0	0	820	2_8_town
+Metadata/Terrain/Act8/Area1/Objects/HiddenDoor_Switch	1162	1428	0.0000	-124.000	16	secret_entrance_cc.arm	0			
+Metadata/Chests/LeagueHeist/HeistSmugglersCoinCacheRamparts	364	158	5.7596	0.000	0	secret_1.arm	0			
+Metadata/Chests/LeaguesHeist/HeistChestSafeRamparts	276	78	4.7124	0.000	0	secret_1.arm	0			

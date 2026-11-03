@@ -1,0 +1,19 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Mountain/Mines/Rooms/Unique/entrance_4.arm	36	36	0	node	default entrance1
+0	Metadata/Terrain/Mountain/Mines/Rooms/Unique/rapture_1.arm	4	44	0	node	entrance3 entrance2 entrance4
+0	Metadata/Terrain/Mountain/Mines/Rooms/Unique/burningman_1.arm	20	20	0	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Unique/entrance_hideout.arm	4	4	2	node	link subarea=hideout
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level3/2x2/var8_1.arm	4	20	6	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level3/2x2/var4_2.arm	28	4	1	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level3/1x1/var2_3.arm	4	36	2	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level3/1x1/var2_2.arm	36	28	0	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level3/1x1/var2_3.arm	12	4	5	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level3/1x1/var2_1.arm	20	44	0	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level3/1x1/var3_1.arm	20	4	4	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level3/1x1/var2_4.arm	20	36	4	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level3/1x1/var2_5.arm	4	12	0	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level3/1x1/var2_1.arm	12	36	1	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level3/1x1/var2_2.arm	20	12	0	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level3/1x1/var3_3.arm	36	20	1	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level3/1x1/var2_2.arm	28	20	5	node	
+1	Metadata/Terrain/Missions/Hideouts/Mine/Rooms/hideout_claim.arm	0	66	0	node	link

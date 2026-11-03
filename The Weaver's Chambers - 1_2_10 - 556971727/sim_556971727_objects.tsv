@@ -1,0 +1,16 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	172	485	4.7124	-133.849	17	spidergrove_exit_lit_v01_01.tdt	0	0	6216	1_2_9
+Metadata/MiscellaneousObjects/AreaTransition	954	715	4.7124	-133.849	17	spidergrove_exit_v01_01.tdt	0	1	1998328170	WeaverArenaName
+Metadata/MiscellaneousObjects/AreaTransition	784	770	3.1416	-133.849	17	spidergrove_exit_v01_01.tdt	0	1	19531	%areaname%
+Metadata/Monsters/Spiders/CeilingSpawners/Normal	734	886	0.0000	0.000	0	treasure.arm	1			
+Metadata/Monsters/Spiders/CeilingSpawners/Normal	740	837	0.0000	0.000	0	treasure.arm	1			
+Metadata/Monsters/Spiders/CeilingSpawners/Magic	753	866	0.0000	0.000	0	treasure.arm	1			
+Metadata/Monsters/Spiders/CeilingSpawners/Normal	786	884	0.0000	0.000	0	treasure.arm	1			
+Metadata/Monsters/Spiders/CeilingSpawners/Normal	741	793	0.0000	0.000	0	treasure.arm	1			
+Metadata/Monsters/Spiders/CeilingSpawners/NormalSwarm	754	841	0.0000	0.000	0	treasure.arm	1			
+Metadata/Monsters/Spiders/CeilingSpawners/Normal	721	857	0.0000	0.000	0	treasure.arm	1			
+Metadata/Monsters/Spiders/CeilingSpawners/NormalSwarm	752	883	0.0000	0.000	0	treasure.arm	1			
+Metadata/Monsters/Spiders/CeilingSpawners/NormalSwarm	782	900	0.0000	0.000	0	treasure.arm	1			
+Metadata/Monsters/Spiders/CeilingSpawners/NormalSwarm	794	860	0.0000	0.000	0	treasure.arm	1			
+Metadata/Monsters/Spiders/CeilingSpawners/NormalSwarm	720	828	0.0000	0.000	0	treasure.arm	1			
+Metadata/Monsters/Spiders/CeilingSpawners/NormalSwarm	744	804	0.0000	0.000	0	treasure.arm	1			

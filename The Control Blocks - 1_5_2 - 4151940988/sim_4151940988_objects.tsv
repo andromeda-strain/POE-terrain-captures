@@ -1,0 +1,38 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	530	326	3.1416	-0.497	0	tower_v01_01.tdt	0	0	48811	1_5_town
+Metadata/MiscellaneousObjects/AreaTransitionMapMarker	632	501	3.1416	-762.234	98	slave_doublewall_tower_stair_transition_v01_01.tdt	0	0	48811	1_5_town
+Metadata/Chests/MeagreBundle03	746	586	1.5708	-250.000	32	slave_thickwall_straight_chest_v01_02.tdt	0			
+Metadata/Chests/MeagreBundle03	1253	891	3.1416	0.000	0	slave_ledge_straight_fence_chest_v01_01.tdt	0			
+Metadata/Chests/MeagreBundle02	1322	891	3.1416	0.000	0	slave_ledge_straight_fence_chest_v01_02.tdt	0			
+Metadata/Chests/MeagreBundle02	817	931	4.7124	-250.000	32	slave_thickwall_straight_chest_v01_01.tdt	0			
+Metadata/Chests/MeagreBundle02	540	1075	3.1416	0.000	0	slave_ledge_fence_door_chest_v01_02.tdt	0			
+Metadata/Chests/MeagreBundle03	609	1075	3.1416	0.000	0	slave_ledge_fence_door_chest_v01_01.tdt	0			
+Metadata/Chests/MeagreBundle03	816	1075	3.1416	0.000	0	slave_ledge_fence_door_chest_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransitionEffects/GlowyFX	1265	1098	6.2832	-0.000	0	slave_crater_v01_01.tdt	0			
+Metadata/Chests/MeagreBundle02	1017	1138	4.7124	0.000	0	slave_ledge_straight_fence_chest_v01_02.tdt	0			
+Metadata/Chests/MeagreBundle03	310	1155	0.0000	0.000	0	slave_lowerwallstraight_chest_v01_02.tdt	0			
+Metadata/QuestObjects/Act5/BloodWingBlockingDoor	1345	1184	3.1416	-357.191	46	slave_thinwall_doorway_straight_boss_v01_03.tdt	0			
+Metadata/Chests/MeagreBundle02	862	1275	3.1416	-250.000	32	slave_thickwall_straight_chest_v01_01.tdt	0			
+Metadata/Chests/MeagreBundle02	402	1298	3.1416	-250.000	32	slave_thickwall_straight_chest_v01_01.tdt	0			
+Metadata/Chests/MeagreBundle03	1208	1368	4.7124	-250.000	32	slave_thickwall_straight_chest_v01_02.tdt	0			
+Metadata/Chests/MeagreBundle03	1017	1414	4.7124	0.000	0	slave_ledge_straight_fence_chest_v01_01.tdt	0			
+Metadata/Chests/MeagreBundle03	816	1436	3.1416	-250.000	32	slave_thickwall_straight_chest_v01_02.tdt	0			
+Metadata/Terrain/Act5/Area2/Objects/SlavePenSecurityDoor	1748	1483	4.7124	-500.000	64	security_exit_v01_01.tdt	0			
+Metadata/QuestObjects/Act5/ControlBlocksToSquare	1749	1480	4.7124	-496.231	64	security_exit_v01_01.tdt	0	0	17974	1_5_3
+Metadata/QuestObjects/Act5/ControlBlocksToDestroyedSquare	1749	1480	4.7124	-496.231	64	security_exit_v01_01.tdt	0			
+Metadata/QuestObjects/Act5/BloodWingBlockingDoor	1621	1460	0.0000	-357.191	46	slave_thinwall_doorway_straight_boss_v01_03.tdt	0			
+Metadata/Chests/MeagreBundle03	816	1484	6.2832	-250.000	32	slave_thickwall_straight_chest_v01_02.tdt	0			
+Metadata/Chests/MeagreBundle03	1017	1506	4.7124	0.000	0	slave_ledge_fence_door_chest_v01_01.tdt	0			
+Metadata/Chests/MeagreBundle02	609	1673	3.1416	0.000	0	slave_ledge_straight_fence_chest_v01_02.tdt	0			
+Metadata/Chests/MeagreBundle02	1000	1799	6.2832	0.000	0	slave_lowerwallstraight_chest_v01_01.tdt	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	1757	1472	6.2832	-250.000	32	exit_01.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	1787	1478	1.5708	-250.000	32	exit_01.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	1785	1442	1.5708	-250.000	32	exit_01.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	1761	1462	1.5708	-250.000	32	exit_01.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	1757	1446	1.5708	-250.000	32	exit_01.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	1760	1441	6.1101	-250.000	32	exit_01.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	1784	1461	0.0715	-250.000	32	exit_01.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	1808	1460	1.5571	-250.000	32	exit_01.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	1811	1478	4.7124	-250.000	32	exit_01.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	1809	1441	4.7124	-250.000	32	exit_01.arm	0			
+Metadata/Chests/QuestChests/Vilenta/SupplyChest	509	1600	1.5708	0.000	0	pietylab_01.arm	0			

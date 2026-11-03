@@ -1,0 +1,20 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act5/Area5/Rooms/Unique/entrance_01.arm	78	14	0	node	default teleport4disabled-ArenaNameAvarius telepad3 entrance2 entrance1
+0	Metadata/Terrain/Act5/Area5/Rooms/Unique/boss_01_alt.arm	38	30	1	node	teleport1-ArenaNameAvarius telepad2
+0	Metadata/Terrain/Act5/Area5/Rooms/Unique/boss_02.arm	54	6	0	node	telepad1 teleport3disabled-%areaname% teleport2-%areaname% telepad4
+0	Metadata/Terrain/Act5/Area5/Rooms/Unique/innocence_statue_concave.arm	62	62	3	node	
+0	Metadata/Terrain/Act5/Area5/Rooms/Outer/concave_1.arm	30	62	0	node	
+0	Metadata/Terrain/Act5/Area5/Rooms/Outer/end_1.arm	22	30	1	node	
+0	Metadata/Terrain/Act5/Area5/Rooms/Outer/straight_2.arm	78	30	3	node	
+0	Metadata/Terrain/Act5/Area5/Rooms/Outer/bend_1.arm	70	46	3	node	
+0	Metadata/Terrain/Act5/Area5/Rooms/Unique/ground_mural.arm	38	46	3	node	
+0	Metadata/Terrain/Act5/Area5/Rooms/Outer/straight_2.arm	46	70	0	node	
+0	Metadata/Terrain/Act5/Area5/Rooms/Outer/bend_1.arm	22	46	5	node	
+0	Metadata/Terrain/Act5/Area5/Rooms/1x1/3_1.arm	70	30	7	node	
+0	Metadata/Terrain/Act5/Area5/Rooms/1x1/2_3.arm	70	22	3	node	
+0	Metadata/Terrain/Act5/Area5/Rooms/1x1/4_1.arm	70	38	4	node	
+0	Metadata/Terrain/Act5/Area5/Rooms/1x1/2_3.arm	54	62	0	node	
+0	Metadata/Terrain/Act5/Area5/Rooms/1x1/2_3.arm	46	54	5	node	
+0	Metadata/Terrain/Act5/Area5/Rooms/1x1/2_2.arm	62	46	7	node	
+0	Metadata/Terrain/Act5/Area5/Rooms/1x1/2_3.arm	62	38	4	node	
+0	Metadata/Terrain/Act5/Area5/Rooms/1x1/4_1.arm	46	62	4	node	

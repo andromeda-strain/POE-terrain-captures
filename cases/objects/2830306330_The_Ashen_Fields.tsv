@@ -1,0 +1,86 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	1506	471	0.000 rad	2448909918	2_7_7					
+Metadata/Chests/Cairn3	1349	251	2.624 rad	1943797426	2_7_7					
+Metadata/Chests/Cairn3	1354	249	4.205 rad	1943797426	2_7_7					
+Metadata/Chests/Cairn2	1362	247	4.645 rad	2820696047	2_7_7					
+Monster: Ralakesh's Horn [Metadata/Monsters/Bandits/StagBandit2@53]	1284	263	2.184 rad	3666333298	2_7_7					
+Monster: Ralakesh's Tusk [Metadata/Monsters/Bandits/BoarBandit2@53]	1284	258	5.056 rad	2039546575	2_7_7					
+Monster: Ralakesh's Tusk [Metadata/Monsters/Bandits/BoarBandit2@53]	1280	271	5.940 rad	2039546575	2_7_7					
+Monster: Ruined Titan [Metadata/Monsters/MossMonster/MossMonsterEmerge@53]	1675	346	5.277 rad	3785924704	2_7_7					
+Monster: Carnage Chieftain [Metadata/Monsters/BloodChieftain/MonkeyChiefBloodEnrage@53]	1335	375	5.031 rad	2003716962	2_7_7					
+Monster: Carnage Ape [Metadata/Monsters/Monkeys/MonkeyJuvenile@53]	1344	387	1.988 rad	304128653	2_7_7					
+Monster: Carnage Ape [Metadata/Monsters/Monkeys/MonkeyJuvenile@53]	1346	390	2.356 rad	304128653	2_7_7					
+Monster: Carnage Ape [Metadata/Monsters/Monkeys/MonkeyJuvenile@53]	1345	397	3.608 rad	304128653	2_7_7					
+Monster: Enraptured Beast [Metadata/Monsters/Beasts/BeastParasite@53]	1349	410	2.602 rad	4145481804	2_7_7					
+Monster: Ralakesh's Claw [Metadata/Monsters/Bandits/BearBandit2@53]	1640	399	3.583 rad	3793237328	2_7_7					
+Monster: Ralakesh's Horn [Metadata/Monsters/Bandits/StagBandit2@53]	1656	406	0.466 rad	3666333298	2_7_7					
+Monster: Enraptured Beast [Metadata/Monsters/Beasts/BeastParasite@53]	1353	425	0.025 rad	4145481804	2_7_7					
+Monster: Ralakesh's Claw [Metadata/Monsters/Bandits/BearBandit2@53]	1650	419	2.454 rad	3793237328	2_7_7					
+Monster: Ralakesh's Tusk [Metadata/Monsters/Bandits/BoarBandit2@53]	1671	430	5.326 rad	2039546575	2_7_7					
+Monster: Enraptured Beast [Metadata/Monsters/Beasts/BeastParasiteSpawnParasite@53]	1343	438	4.958 rad	210429994	2_7_7					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	1502	467	0.982 rad	1570723376	2_7_7					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	1506	468	2.847 rad	1792897079	2_7_7					
+Object: Metadata/MiscellaneousObjects/Waypoint	1506	471	0.000 rad	552129418	2_7_7	1	-15.508			
+Monster: Enraptured Beast [Metadata/Monsters/Beasts/BeastParasite@53]	1675	477	4.246 rad	4145481804	2_7_7					
+Monster: Enraptured Beast [Metadata/Monsters/Beasts/BeastParasite@53]	1671	495	1.129 rad	4145481804	2_7_7					
+Monster: Enraptured Beast [Metadata/Monsters/Beasts/BeastParasiteSpawnParasite@53]	1676	487	0.221 rad	210429994	2_7_7					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1471	552	1.571 rad	726109394	2_7_7	-1	12.853	0	61295	The Den
+Monster: Enraptured Beast [Metadata/Monsters/Beasts/BeastParasite@53]	1335	610	4.860 rad	4145481804	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodSpawnParasiteOnDeath@53]	1401	618	4.197 rad	2006711712	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodParasite@53]	1417	620	5.645 rad	4002895568	2_7_7					
+Monster: Stag Acolyte [Metadata/Monsters/Bandits/StagBanditNoHat@53]	1446	620	4.393 rad	779433779	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodSpawnParasiteOnDeath@53]	1374	629	2.602 rad	2006711712	2_7_7					
+Monster: Host Chieftain [Metadata/Monsters/BloodChieftain/MonkeyChiefBloodParasite@53]	1401	630	0.393 rad	2574256684	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodParasite@53]	1385	641	2.553 rad	4002895568	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodParasite@53]	1395	631	2.847 rad	4002895568	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodParasite@53]	1399	623	5.596 rad	4002895568	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodSpawnParasiteOnDeath@53]	1428	622	5.154 rad	2006711712	2_7_7					
+Monster: Bear Acolyte [Metadata/Monsters/Bandits/BearBanditNoHat@53]	1470	631	6.210 rad	4273071288	2_7_7					
+Monster: Boar Acolyte [Metadata/Monsters/Bandits/BoarBanditNoHat@53]	1495	628	4.737 rad	2073053767	2_7_7					
+Metadata/Chests/TribalChest3	1505	639	2.367 rad	2948926915	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodSpawnParasiteOnDeath@53]	1303	266	5.522 rad	2006711712	2_7_7					
+Monster: Ralakesh's Horn [Metadata/Monsters/Bandits/StagBandit2@53]	1304	273	0.884 rad	3666333298	2_7_7					
+Monster: Ralakesh's Claw [Metadata/Monsters/Bandits/BearBandit2@53]	1308	261	5.743 rad	3793237328	2_7_7					
+Monster: Host Chieftain [Metadata/Monsters/BloodChieftain/MonkeyChiefBloodSpawnParasiteOnDeath_@53]	1322	266	4.025 rad	1093756838	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodParasite@53]	1314	259	6.160 rad	4002895568	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodParasite@53]	1322	259	5.694 rad	4002895568	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodParasite@53]	1312	254	5.719 rad	4002895568	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodSpawnParasiteOnDeath@53]	1326	261	3.952 rad	2006711712	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodSpawnParasiteOnDeath@53]	1328	266	4.246 rad	2006711712	2_7_7					
+Monster: Bear Acolyte [Metadata/Monsters/Bandits/BearBanditNoHat@53]	1351	257	2.528 rad	4273071288	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodParasite@53]	1342	256	1.473 rad	4002895568	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodSpawnParasiteOnDeath@53]	1336	258	5.571 rad	2006711712	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodSpawnParasiteOnDeath@53]	1334	266	3.387 rad	2006711712	2_7_7					
+Monster: Stag Acolyte [Metadata/Monsters/Bandits/StagBanditNoHat@53]	1378	265	0.245 rad	779433779	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodParasite@53]	1303	283	5.964 rad	4002895568	2_7_7					
+Monster: Ralakesh's Claw [Metadata/Monsters/Bandits/BearBandit2@53]	1289	279	2.675 rad	3793237328	2_7_7					
+Monster: Boar Acolyte [Metadata/Monsters/Bandits/BoarBanditNoHat@53]	1373	287	1.104 rad	2073053767	2_7_7					
+Metadata/Chests/TribalChest1	1359	290	3.272 rad	848307785	2_7_7					
+Monster: Ruined Titan [Metadata/Monsters/MossMonster/MossMonsterEmerge@53]	1278	356	4.271 rad	3785924704	2_7_7					
+Monster: Carnage Ape [Metadata/Monsters/Monkeys/MonkeyJuvenile@53]	1323	367	0.687 rad	304128653	2_7_7					
+Monster: Ruined Titan [Metadata/Monsters/MossMonster/MossMonsterEmerge@53]	1266	382	4.271 rad	3785924704	2_7_7					
+Monster: Carnage Ape [Metadata/Monsters/Monkeys/MonkeyJuvenile@53]	1316	379	3.632 rad	304128653	2_7_7					
+Monster: Carnage Ape [Metadata/Monsters/Monkeys/MonkeyJuvenile@53]	1333	380	3.755 rad	304128653	2_7_7					
+Monster: Tormented Thug [Metadata/Monsters/Spirit/TormentedThug@53]	1271	436	0.196 rad	3719266090	2_7_7					
+Monster: Enraptured Beast [Metadata/Monsters/Beasts/BeastParasiteSpawnParasite@53]	1331	440	5.449 rad	210429994	2_7_7					
+Metadata/Chests/Boulder2	1323	478	4.135 rad	1758529206	2_7_7					
+Monster: Carnage Chieftain [Metadata/Monsters/BloodChieftain/MonkeyChiefBloodEnrage@53]	1269	502	5.890 rad	2003716962	2_7_7					
+Monster: Carnage Ape [Metadata/Monsters/Monkeys/MonkeyJuvenile@53]	1266	485	4.222 rad	304128653	2_7_7					
+Monster: Carnage Ape [Metadata/Monsters/Monkeys/MonkeyJuvenile@53]	1273	492	0.049 rad	304128653	2_7_7					
+Monster: Carnage Ape [Metadata/Monsters/Monkeys/MonkeyJuvenile@53]	1288	499	5.203 rad	304128653	2_7_7					
+Monster: Enraptured Beast [Metadata/Monsters/Beasts/BeastParasiteSpawnParasite@53]	1681	500	3.731 rad	210429994	2_7_7					
+Monster: Stag Acolyte [Metadata/Monsters/Bandits/StagBanditNoHat@53]	1277	548	0.491 rad	779433779	2_7_7					
+Monster: Boar Acolyte [Metadata/Monsters/Bandits/BoarBanditNoHat@53]	1279	542	5.424 rad	2073053767	2_7_7					
+Monster: Enraptured Beast [Metadata/Monsters/Beasts/BeastParasiteSpawnParasite@53]	1333	596	4.050 rad	210429994	2_7_7					
+Monster: Ralakesh's Horn [Metadata/Monsters/Bandits/StagBandit2@53]	1273	639	6.210 rad	3666333298	2_7_7					
+Monster: Ralakesh's Claw [Metadata/Monsters/Bandits/BearBandit2@53]	1278	642	3.412 rad	3793237328	2_7_7					
+Monster: Ralakesh's Tusk [Metadata/Monsters/Bandits/BoarBandit2@53]	1281	637	3.755 rad	2039546575	2_7_7					
+Monster: Infested Ape [Metadata/Monsters/Monkeys/MonkeyBloodSpawnParasiteOnDeath@53]	1398	644	5.031 rad	2006711712	2_7_7					
+Monster: Carnage Ape [Metadata/Monsters/Monkeys/MonkeyJuvenile@53]	1471	657	2.086 rad	304128653	2_7_7					
+Monster: Carnage Ape [Metadata/Monsters/Monkeys/MonkeyJuvenile@53]	1476	662	1.620 rad	304128653	2_7_7					
+Monster: Carnage Ape [Metadata/Monsters/Monkeys/MonkeyJuvenile@53]	1463	686	4.442 rad	304128653	2_7_7					
+Monster: Carnage Ape [Metadata/Monsters/Monkeys/MonkeyJuvenile@53]	1470	671	3.461 rad	304128653	2_7_7					
+Monster: Carnage Chieftain [Metadata/Monsters/BloodChieftain/MonkeyChiefBloodEnrage@53]	1475	686	1.595 rad	2003716962	2_7_7					
+Monster: Carnage Ape [Metadata/Monsters/Monkeys/MonkeyJuvenile@53]	1474	673	5.007 rad	304128653	2_7_7					
+Monster: Carnage Ape [Metadata/Monsters/Monkeys/MonkeyJuvenile@53]	1463	691	1.694 rad	304128653	2_7_7					
+Monster: Carnage Ape [Metadata/Monsters/Monkeys/MonkeyJuvenile@53]	1476	703	5.228 rad	304128653	2_7_7					

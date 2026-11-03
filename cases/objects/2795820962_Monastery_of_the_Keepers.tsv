@@ -1,14 +1,14 @@
-type	X	Y	rotation	typehash
-Metadata/Characters/StrInt/StrInt	230	209	0.000 rad	2448909918
-Metadata/MiscellaneousObjects/Brequel/AcolyteMeditateGather01	407	161	3.187 rad	3925590642
-Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	227	206	4.344 rad	1792897079
-Object: Metadata/MiscellaneousObjects/Stash	341	202	1.958 rad	2817685266
-Object: Metadata/MiscellaneousObjects/Waypoint	230	209	0.000 rad	552129418
-Metadata/MiscellaneousObjects/Brequel/TreeTree	402	221	4.974 rad	797102897
-Metadata/NPC/League/Chayula/ChayulaFarmerHub	370	249	0.000 rad	3069885556
-Metadata/MiscellaneousObjects/Brequel/AcolyteMeditateGather03	457	233	5.100 rad	105834883
-Metadata/MiscellaneousObjects/Brequel/OutdoorBrazierOff	219	256	0.029 rad	1841569142
-Metadata/MiscellaneousObjects/Brequel/GraftLocker	345	257	0.508 rad	2355720376
-Metadata/MiscellaneousObjects/Brequel/AcolyteMeditateGather02	420	269	5.957 rad	3132791167
-Metadata/NPC/Info/ChayulaBook	150	325	4.591 rad	2543059517
-Metadata/NPC/League/Breach/Chayula	506	652	5.498 rad	635100645
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	230	209	0.000 rad	2448909918	ChayulaLeague					
+Metadata/MiscellaneousObjects/Brequel/AcolyteMeditateGather01	407	161	3.187 rad	3925590642	ChayulaLeague					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	227	206	4.344 rad	1792897079	ChayulaLeague					
+Object: Metadata/MiscellaneousObjects/Stash	341	202	1.958 rad	2817685266	ChayulaLeague					
+Object: Metadata/MiscellaneousObjects/Waypoint	230	209	0.000 rad	552129418	ChayulaLeague					
+Metadata/MiscellaneousObjects/Brequel/TreeTree	402	221	4.974 rad	797102897	ChayulaLeague					
+Metadata/NPC/League/Chayula/ChayulaFarmerHub	370	249	0.000 rad	3069885556	ChayulaLeague					
+Metadata/MiscellaneousObjects/Brequel/AcolyteMeditateGather03	457	233	5.100 rad	105834883	ChayulaLeague					
+Metadata/MiscellaneousObjects/Brequel/OutdoorBrazierOff	219	256	0.029 rad	1841569142	ChayulaLeague					
+Metadata/MiscellaneousObjects/Brequel/GraftLocker	345	257	0.508 rad	2355720376	ChayulaLeague					
+Metadata/MiscellaneousObjects/Brequel/AcolyteMeditateGather02	420	269	5.957 rad	3132791167	ChayulaLeague					
+Metadata/NPC/Info/ChayulaBook	150	325	4.591 rad	2543059517	ChayulaLeague					
+Metadata/NPC/League/Breach/Chayula	506	652	5.498 rad	635100645	ChayulaLeague					

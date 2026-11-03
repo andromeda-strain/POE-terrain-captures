@@ -1,0 +1,5 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	503	310	4.7124	-134.715	17	forest_secretgate_transition_v01_01.tdt	0	3		parent
+Metadata/NPC/Info/VaalLetters/VaalLetter_05	298	791	1.3517	-97.826	13	boss1.arm	0			
+Metadata/Chests/SideArea/SideAreaChest	254	808	1.5708	0.000	0	boss1.arm	0			
+Metadata/Shrines/Shrine	274	576	6.2832	0.000	0	forest_01.arm	0			

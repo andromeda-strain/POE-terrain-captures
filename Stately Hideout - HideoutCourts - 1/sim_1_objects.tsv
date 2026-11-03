@@ -1,0 +1,20 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	182	149	0.0000	125.000	-16	hideout.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	299	140	1.0472	125.000	-16	hideout.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	245	155	0.0000	125.000	-16	hideout.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	167	129	3.1416	125.000	-16	hideout.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	146	152	4.9742	125.000	-16	hideout.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	340	123	0.0000	125.000	-16	hideout.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	343	158	0.0000	125.000	-16	hideout.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	411	130	5.4978	125.000	-16	hideout.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	541	155	0.0000	125.000	-16	hideout.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	449	140	0.0000	125.000	-16	hideout.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	521	160	0.0000	125.000	-16	hideout.arm	0			
+Metadata/MiscellaneousObjects/Waypoint	219	238	0.0000	125.000	-16	hideout.arm	0			
+Metadata/Terrain/Missions/Hideouts/Objects/HideoutCraftingBench	289	329	3.1416	125.000	-16	hideout.arm	0			
+Metadata/MiscellaneousObjects/Stash	348	325	6.2832	0.000	0	hideout.arm	0			
+Metadata/MiscellaneousObjects/GuildStash	392	325	5.4978	0.000	0	hideout.arm	0			
+Metadata/Terrain/Missions/Hideouts/Objects/StrDexIntMappingDevice	356	287	6.2832	0.000	0	hideout.arm	0			
+Metadata/MiscellaneousObjects/Expedition/ExpeditionStash_Hideout	148	320	1.5708	125.000	-16	hideout.arm	0			
+Metadata/MiscellaneousObjects/Heist/HeistStash_Hideout	149	345	1.5708	125.000	-16	hideout.arm	0			
+Metadata/MiscellaneousObjects/Harvest/CraftingSilo_Hideout	288	353	4.7124	125.000	-16	hideout.arm	0			

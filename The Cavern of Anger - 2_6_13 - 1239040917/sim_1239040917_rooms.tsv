@@ -1,0 +1,40 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act6/Area13/Rooms/teleport.arm	8	20	4	node	telepad2 teleport1-MapStairAlternativePassage
+0	Metadata/Terrain/Act6/Area13/Rooms/old_entry_blocked.arm	32	36	4	node	
+0	Metadata/Terrain/Act6/Area13/Rooms/merveil_empty_nessa.arm	8	36	0	node	telepad1 teleport2-MapStairAlternativePassage default entrance1
+0	Metadata/Terrain/Act6/Area13/Rooms/exit.arm	44	12	6	node	entrance2
+0	Metadata/Terrain/Cave/Rooms/Unique/act6_shallowrivercrossing.arm	20	24	2	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/river_link.arm	8	16	5	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/river_link.arm	24	8	7	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/river_link.arm	20	20	3	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/river_link.arm	20	8	1	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/river_link.arm	24	36	3	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/river_link.arm	16	16	6	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/river_link.arm	24	16	0	node	unique2
+0	Metadata/Terrain/Cave/Rooms/Unique/river_link.arm	12	16	6	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/river_link.arm	20	12	3	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/river_link.arm	24	4	3	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/river_link.arm	28	4	3	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/river_link.arm	32	4	3	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/river_link.arm	36	4	7	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/river_link.arm	24	44	2	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/river_link.arm	24	40	7	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/river_link.arm	20	16	2	node	
+0	Metadata/Terrain/Act6/Area13/Rooms/boss.arm	28	16	7	node	accessible
+0	Metadata/Terrain/Act6/Area13/Rooms/hideout_exit.arm	44	40	1	node	link subarea=hideout
+0	Metadata/Terrain/Cave/Rooms/1x2/passage_8c.arm	36	8	6	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/passage_28a.arm	48	28	2	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/type_3a.arm	16	28	5	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/open_2a.arm	32	28	0	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/passage_8d.arm	48	36	3	node	
+0	Metadata/Terrain/Cave/Rooms/River_1x1/river_crossing_2b.arm	28	36	3	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/type_9a.arm	44	36	1	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/open_1a.arm	28	32	0	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/open_26a.arm	40	28	2	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/type_8a.arm	28	28	0	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/open_1a.arm	36	24	4	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/type_3a.arm	28	24	4	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/low_18a.arm	36	16	2	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/type_8a.arm	36	32	6	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/type_7a.arm	40	12	5	node	
+1	Metadata/Terrain/Missions/Hideouts/Coral/Rooms/hideout_coral_claimable.arm	62	0	0	node	link default

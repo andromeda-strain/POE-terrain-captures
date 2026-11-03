@@ -1,0 +1,6 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1149	192	4.7124	-412.307	53	caveup_exit_v01_01.tdt	0	0	33279	1_1_5
+Metadata/MiscellaneousObjects/AreaTransition	339	730	3.1416	12.853	-2	watery_depth_entrance_v01_01.tdt	0	0	7020	1_1_4_0
+Metadata/MiscellaneousObjects/AreaTransition	265	1334	0.0000	0.000	0	cave_exit_v01_01.tdt	0	0	49149	1_1_3
+Metadata/MiscellaneousObjects/Waypoint	402	1322	0.0000	-16.917	2	beach_waypoint_v01_01.tdt	0			
+Metadata/Terrain/Act1/Area4Level1/Objects/DepthsReturnTransition	514	253	3.2100	-223.000	29	transition_depths_return.arm	0	0	7020	1_1_4_0

@@ -1,0 +1,37 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapAtziri/Rooms/entrance.arm	10	6	1	node	default telepad2 teleport1
+0	Metadata/Terrain/EndGame/MapAtziri/Rooms/boss_room2.arm	66	58	0	node	telepad7 teleport8disabled teleport9disabled telepad10
+0	Metadata/Terrain/EndGame/MapAtziri/Rooms/boss_room3.arm	114	6	0	node	telepad11 teleport12disabled-%areaname%
+0	Metadata/Terrain/EndGame/MapAtziri/Rooms/boss_room1.arm	34	30	0	node	telepad3 teleport4disabled teleport5disabled telepad6
+0	Metadata/Terrain/Dungeon/Rooms/Unique/atziri_transition_1.arm	6	14	0	node	telepad1 teleport2
+0	Metadata/Terrain/Dungeon/Rooms/Unique/atziri_transition_1.arm	30	30	1	node	teleport3 telepad4
+0	Metadata/Terrain/Dungeon/Rooms/Unique/atziri_transition_1.arm	50	30	3	node	telepad5 teleport6
+0	Metadata/Terrain/Dungeon/Rooms/Unique/atziri_transition_1.arm	66	54	2	node	teleport7 telepad8
+0	Metadata/Terrain/Dungeon/Rooms/Unique/atziri_transition_1.arm	82	58	3	node	telepad9 teleport10
+0	Metadata/Terrain/Dungeon/Rooms/Unique/atziri_transition_2.arm	110	70	7	node	teleport11-AtziriArenaName telepad12
+0	Metadata/Terrain/Dungeon/Rooms/3x3/passage_rooms_3b.arm	66	30	3	node	
+0	Metadata/Terrain/Dungeon/Rooms/2x2/ruin_rooms_1a.arm	6	30	5	node	
+0	Metadata/Terrain/Dungeon/Rooms/3x3/passage_rooms_3g.arm	98	58	6	node	
+0	Metadata/Terrain/Dungeon/Rooms/3x3/passage_rooms_4c.arm	98	70	1	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1b.arm	94	58	0	node	
+0	Metadata/Terrain/Dungeon/Rooms/2x2/open_low_2a.arm	86	58	7	node	
+0	Metadata/Terrain/Dungeon/Rooms/3x3/passage_rooms_1d.arm	66	42	0	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/open_1a.arm	62	34	5	node	
+0	Metadata/Terrain/Dungeon/Rooms/2x2/abyss_1a.arm	54	30	4	node	
+0	Metadata/Terrain/Dungeon/Rooms/2x2/ruin_rooms_1a.arm	22	30	6	node	
+0	Metadata/Terrain/Dungeon/Rooms/2x2/corner_1a.arm	14	30	6	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1b.arm	6	26	1	node	
+0	Metadata/Terrain/Dungeon/Rooms/2x2/ruin_rooms_1a.arm	6	18	1	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x2/blocked_1b.arm	86	66	2	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x2/blocked_1a.arm	94	62	5	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1b.arm	62	38	3	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/straight_2a.arm	58	38	0	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/open_2b.arm	54	38	2	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1c.arm	26	38	1	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/open_3a.arm	22	38	7	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x2/blocked_1a.arm	14	38	2	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1c.arm	62	30	5	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1b.arm	14	26	5	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1a.arm	10	26	7	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1a.arm	14	22	6	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/open_1a.arm	14	18	4	node	

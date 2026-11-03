@@ -1,0 +1,6 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	261	762	3.1416	-122.211	16	GrainGateBridge_v01_01.tdt	0	0	21356	2_8_9
+Metadata/QuestObjects/Sewers/SewersLockedTransition	885	1391	0.0000	10.293	-1	slum_sewer_entrance_v01_01.tdt	0			
+Metadata/QuestObjects/Sewers/SewersLockedDoor	885	1392	0.0000	-9.995	1	slum_sewer_entrance_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Waypoint	816	1598	0.0000	-15.508	2	forest_waypoint_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	690	2801	6.2832	-493.563	63	act8_temple_entrance_v01_01.tdt	0	0	9792	2_8_12_1

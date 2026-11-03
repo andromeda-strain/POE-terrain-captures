@@ -1,0 +1,645 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	793	425	0.000 rad	2448909918	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/AreaTransition	792	324	0.000 rad	726109394	1_4_4_3	2	-16.005	0	56136	Kaom's Dream
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	789	421	5.449 rad	1570723376	1_4_4_3					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	793	422	0.172 rad	1792897079	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/Waypoint	793	425	0.000 rad	552129418	1_4_4_3	34	-266.917			
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	695	617	1.129 rad	2313028772	1_4_4_3					
+Metadata/Chests/KaomChest02	970	614	4.776 rad	3603843878	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	707	626	5.890 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	703	633	3.853 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	721	628	4.565 rad	1969003771	1_4_4_3					
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockKaruiPillar	736	631	0.552 rad	4011085767	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	824	627	1.424 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	824	632	0.957 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	811	634	5.694 rad	2313028772	1_4_4_3					
+Monster: Daemon [Metadata/Monsters/Daemon/Archnemesis/CorpseExploderDaemon@38]	824	627	2.675 rad	4263793908	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	744	683	6.087 rad	1482720748	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	959	681	2.970 rad	2777346451	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	745	692	1.914 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	744	710	5.989 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	849	733	0.982 rad	1969003771	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	861	733	0.344 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	851	724	4.737 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	757	746	0.147 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	755	751	3.362 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	738	739	4.541 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	857	743	4.639 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	955	755	2.896 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	976	751	5.890 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	992	755	2.823 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	709	767	3.583 rad	1969003771	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	696	761	0.712 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	714	766	0.933 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	726	768	5.989 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	754	763	5.670 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	972	768	1.424 rad	1482720748	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	977	773	3.387 rad	2777346451	1_4_4_3					
+Metadata/NPC/Info/KaomCarving3	838	818	1.571 rad	3101819893	1_4_4_3	64	-500.000			
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	949	820	5.375 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	963	809	6.062 rad	1482720748	1_4_4_3					
+Monster: Rakango [Metadata/Monsters/Taniwha/Taniwha@38]	965	838	3.583 rad	442756754	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	985	838	2.553 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	973	843	5.743 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	757	519	1.669 rad	1969003771	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	757	519	0.000 rad	2646652649	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	750	531	1.914 rad	885197545	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	750	531	0.000 rad	2646652649	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	760	530	1.939 rad	1969003771	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	760	530	0.000 rad	2646652649	1_4_4_3					
+Monster: Vakali Totem [Metadata/Monsters/Totems/PuiTotem@38]	823	851	4.541 rad	790700399	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	812	857	3.362 rad	2777346451	1_4_4_3					
+Monster: Vakali Totem [Metadata/Monsters/Totems/PuiTotem@38]	1025	867	0.736 rad	790700399	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	766	576	0.196 rad	1969003771	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	766	576	0.000 rad	2646652649	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	768	586	0.123 rad	2313028772	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	768	586	0.000 rad	2646652649	1_4_4_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	787	618	0.000 rad	1450012487	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	766	628	2.396 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	803	620	2.642 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	800	622	3.127 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	800	622	3.889 rad	1418889786	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	800	622	3.730 rad	3875590990	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	757	519	0.000 rad	2646652649	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	750	531	0.000 rad	2646652649	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	760	530	0.000 rad	2646652649	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	766	576	0.000 rad	2646652649	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	768	586	0.000 rad	2646652649	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	609	896	5.645 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	600	892	1.473 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	645	890	2.381 rad	1482720748	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	761	612	1.789 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	756	642	0.876 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	735	623	1.997 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	721	621	1.944 rad	3875590990	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	610	904	4.491 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	612	918	1.399 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	753	914	5.301 rad	1482720748	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	757	667	5.758 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	762	677	1.800 rad	3875590990	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	752	935	2.872 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	775	941	0.442 rad	1969003771	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	761	925	5.130 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	992	755	2.823 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1004	931	4.197 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1005	936	1.963 rad	1482720748	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	752	697	6.152 rad	3875590990	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	760	710	2.943 rad	1418889786	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	760	710	6.118 rad	3875590990	1_4_4_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	760	710	0.000 rad	1450012487	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	609	964	2.209 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1011	944	4.491 rad	1482720748	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	749	712	6.227 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	755	734	0.239 rad	3875590990	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	567	969	5.081 rad	1969003771	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	590	967	3.510 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	602	969	2.577 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	753	979	0.663 rad	1482720748	1_4_4_3					
+Metadata/Chests/KaomChest03	957	974	4.316 rad	3890438212	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	733	758	2.826 rad	1418889786	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	733	758	1.249 rad	3875590990	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	734	759	1.524 rad	1418889786	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	752	993	4.222 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	775	1009	2.332 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	772	989	6.136 rad	1969003771	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	735	763	1.096 rad	3875590990	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	651	1028	3.780 rad	885197545	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	746	1015	6.111 rad	2313028772	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	836	1026	0.491 rad	1969003771	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	823	851	0.000 rad	2646652649	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	751	910	0.000 rad	2646652649	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	729	769	1.882 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	742	772	2.012 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	805	758	4.661 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	806	751	4.249 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	821	765	4.325 rad	3875590990	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	821	759	0.694 rad	1418889786	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	821	759	4.329 rad	3875590990	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	516	955	1.055 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	516	965	3.927 rad	1969003771	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	517	975	0.687 rad	2313028772	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	635	1038	0.000 rad	2313028772	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	663	1041	0.712 rad	2313028772	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	669	1037	4.271 rad	1969003771	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	755	1054	5.621 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	774	1046	0.025 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	782	1053	5.400 rad	1482720748	1_4_4_3					
+Monster: Rakango [Metadata/Monsters/Taniwha/Taniwha@38]	842	1049	0.933 rad	442756754	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	836	1053	2.430 rad	885197545	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	849	1057	5.007 rad	2313028772	1_4_4_3					
+Metadata/Chests/KaomChest03	983	1035	4.258 rad	3890438212	1_4_4_3					
+Monster: Rakango [Metadata/Monsters/Taniwha/Taniwha@38]	643	1074	0.074 rad	442756754	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	652	1072	5.375 rad	1969003771	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	646	1062	5.547 rad	1969003771	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	662	1062	0.859 rad	2313028772	1_4_4_3					
+Monster: Rakango [Metadata/Monsters/Taniwha/Taniwha@38]	760	1066	4.786 rad	442756754	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	774	1079	3.436 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	763	1060	0.000 rad	1482720748	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	824	1065	1.694 rad	885197545	1_4_4_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	752	846	0.000 rad	1450012487	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	765	890	5.498 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	770	893	0.000 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	768	905	6.206 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	751	910	3.980 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	768	919	5.820 rad	3875590990	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	992	755	2.823 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1004	931	4.197 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1005	936	1.963 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1011	944	4.491 rad	1482720748	1_4_4_3					
+Monster: Vakali Totem [Metadata/Monsters/Totems/PuiTotem@38]	1025	867	0.736 rad	790700399	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1013	936	5.915 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1028	955	0.319 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1031	967	4.958 rad	1482720748	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	620	1085	5.719 rad	885197545	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	867	1095	0.000 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	869	1089	5.743 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	862	1083	1.154 rad	1482720748	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	862	1099	2.356 rad	2777346451	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	942	1091	5.989 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	931	1092	0.540 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	957	1103	1.031 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	952	1100	0.589 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	952	1095	3.657 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	969	1098	1.669 rad	1482720748	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	1030	1103	0.736 rad	2777346451	1_4_4_3					
+Metadata/Chests/KaomChest04	1056	721	5.346 rad	141978021	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	1040	853	5.179 rad	2777346451	1_4_4_3					
+Monster: Vakali Totem [Metadata/Monsters/Totems/PuiTotem@38]	1050	1098	4.418 rad	790700399	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	1075	775	0.074 rad	2777346451	1_4_4_3					
+Monster: Vakali Totem [Metadata/Monsters/Totems/PuiTotem@38]	1079	827	3.731 rad	790700399	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	1058	1098	2.651 rad	2777346451	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	795	618	4.712 rad	2313028772	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	803	620	2.642 rad	1418889786	1_4_4_3					
+Metadata/Chests/KaomChest02	970	614	4.776 rad	3603843878	1_4_4_3					
+Monster: Vakali Totem [Metadata/Monsters/Totems/PuiTotem@38]	1092	779	3.853 rad	790700399	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	1094	814	0.540 rad	2777346451	1_4_4_3					
+Monster: Vakali Totem [Metadata/Monsters/Totems/PuiTotem@38]	1083	897	0.761 rad	790700399	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	1085	901	1.816 rad	2777346451	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	867	1095	0.000 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	869	1089	5.743 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	862	1083	1.154 rad	1482720748	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	862	1099	2.356 rad	2777346451	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	942	1091	5.989 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	931	1092	0.540 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	957	1103	1.031 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	952	1100	0.589 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	952	1095	3.657 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	969	1098	1.669 rad	1482720748	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	1030	1103	0.736 rad	2777346451	1_4_4_3					
+Monster: Vakali Totem [Metadata/Monsters/Totems/PuiTotem@38]	1050	1098	4.418 rad	790700399	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	1058	1098	2.651 rad	2777346451	1_4_4_3					
+Metadata/Chests/KaomChest04	1104	655	4.537 rad	141978021	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1124	706	2.013 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1115	704	2.724 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1106	730	5.252 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1119	713	5.743 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1110	956	5.645 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1109	970	3.952 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1118	1026	3.755 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1110	1025	0.221 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	862	1106	4.933 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	851	1110	0.466 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1073	1114	4.884 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1066	1113	4.246 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1059	1126	1.620 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1073	1106	4.639 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1080	1114	5.547 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	635	1038	0.000 rad	2313028772	1_4_4_3					
+Monster: Rakango [Metadata/Monsters/Taniwha/Taniwha@38]	643	1074	0.074 rad	442756754	1_4_4_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	812	857	1.251 rad	316014466	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	973	843	0.000 rad	2646652649	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	1025	867	0.000 rad	2646652649	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	661	1130	4.909 rad	2777346451	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	850	1149	1.227 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	873	1146	6.111 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1060	1132	1.988 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	878	1156	3.093 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	894	1161	5.940 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	884	1153	4.467 rad	1969003771	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	967	1171	4.639 rad	1969003771	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	766	1194	1.890 rad	1969003771	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	761	1178	0.933 rad	885197545	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	774	1195	3.706 rad	2313028772	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	788	1179	0.785 rad	1969003771	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	959	1178	3.264 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	978	1174	2.577 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	994	1190	5.228 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1022	1194	1.399 rad	1482720748	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	754	1212	0.393 rad	885197545	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	755	1197	4.860 rad	2313028772	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	805	1201	5.670 rad	2777346451	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1006	1200	6.111 rad	1482720748	1_4_4_3					
+Metadata/Chests/KaomChest04	1041	1202	3.020 rad	141978021	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	890	1237	0.810 rad	885197545	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	885	1241	2.283 rad	2313028772	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	907	1234	4.148 rad	1969003771	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	612	889	2.034 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	611	894	1.571 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	612	879	5.903 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	605	881	3.009 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	620	897	4.712 rad	1482720748	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	620	1085	5.719 rad	885197545	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	608	1181	1.669 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	600	1192	4.467 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	607	1187	0.172 rad	1969003771	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	607	1216	0.074 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	604	1205	5.154 rad	1969003771	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	615	1234	3.264 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	608	1233	5.031 rad	2313028772	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	848	999	0.519 rad	3875590990	1_4_4_3					
+Monster: Treant [Metadata/Monsters/SaplingMonster/TwigMonsterArchnemesis@38]	641	1252	0.319 rad	334671643	1_4_4_3					
+Metadata/Chests/KaomChest04	783	1247	5.711 rad	141978021	1_4_4_3					
+Metadata/Chests/KaomChest01	803	1247	2.651 rad	1996094979	1_4_4_3					
+Monster: Rakango [Metadata/Monsters/Taniwha/Taniwha@38]	892	1244	0.417 rad	442756754	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	849	1040	0.068 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	838	1036	0.322 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	832	1040	0.165 rad	3875590990	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	590	979	3.860 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	580	980	3.000 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	591	967	4.467 rad	1482720748	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	597	1115	3.362 rad	885197545	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	593	1155	4.541 rad	1969003771	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	592	1161	2.283 rad	2313028772	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	592	1217	0.663 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	586	1224	4.001 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	657	1267	5.007 rad	1482720748	1_4_4_3					
+Monster: Treant [Metadata/Monsters/SaplingMonster/TwigMonsterArchnemesis@38]	646	1274	5.571 rad	334671643	1_4_4_3					
+Monster: Treant [Metadata/Monsters/SaplingMonster/TwigMonsterArchnemesis@38]	664	1269	4.246 rad	334671643	1_4_4_3					
+Monster: Treant [Metadata/Monsters/SaplingMonster/TwigMonsterArchnemesis@38]	646	1283	4.909 rad	334671643	1_4_4_3					
+Monster: Vakali Totem [Metadata/Monsters/Totems/PuiTotem@38]	1079	827	3.731 rad	790700399	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	1058	1098	2.651 rad	2777346451	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1073	1114	4.884 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1066	1113	4.246 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1059	1126	1.620 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1073	1106	4.639 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1080	1114	5.547 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1060	1132	1.988 rad	1482720748	1_4_4_3					
+Metadata/Chests/KaomChest04	773	1301	1.663 rad	141978021	1_4_4_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	838	1069	0.000 rad	1450012487	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	855	1056	0.000 rad	3875590990	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	849	1060	0.012 rad	1418889786	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	849	1060	4.307 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	843	1074	5.857 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	849	1074	5.878 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	856	1070	4.712 rad	3875590990	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	822	1325	5.621 rad	2777346451	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	819	1059	0.611 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	844	1128	6.170 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	901	1089	4.636 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	905	1094	4.712 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	847	1139	5.695 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	912	1101	4.712 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	923	1096	4.712 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	892	1137	0.000 rad	3875590990	1_4_4_3					
+Monster: Vakali Totem [Metadata/Monsters/Totems/PuiTotem@38]	1083	897	0.761 rad	790700399	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	1085	901	1.816 rad	2777346451	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	705	1368	2.994 rad	1482720748	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	710	1367	3.608 rad	2777346451	1_4_4_3					
+Metadata/Chests/KaomChest01	723	1373	3.008 rad	1996094979	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	725	1365	6.136 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	715	1363	3.068 rad	1482720748	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	771	1374	2.356 rad	885197545	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	887	1111	5.253 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	893	1129	4.585 rad	3875590990	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	697	1392	2.896 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	724	1380	0.712 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	768	1386	2.160 rad	1969003771	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	932	1110	3.982 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	862	1099	5.319 rad	316014466	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	620	1085	5.719 rad	885197545	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	608	1181	1.669 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	600	1192	4.467 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	607	1187	0.172 rad	1969003771	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	607	1216	0.074 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	604	1205	5.154 rad	1969003771	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	615	1234	3.264 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	608	1233	5.031 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	602	1394	2.528 rad	1482720748	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	818	1172	1.571 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	803	1176	0.437 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	797	1182	1.571 rad	3875590990	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	590	979	3.860 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	580	980	3.000 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	591	967	4.467 rad	1482720748	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	597	1115	3.362 rad	885197545	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	593	1155	4.541 rad	1969003771	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	592	1161	2.283 rad	2313028772	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	771	1176	1.502 rad	3875590990	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	592	1217	0.663 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	586	1224	4.001 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	585	1385	1.595 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	589	1409	0.810 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	588	1403	1.055 rad	1969003771	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	769	1403	5.473 rad	2313028772	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	774	1188	1.504 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	770	1195	1.204 rad	3875590990	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	967	1412	1.178 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	598	1445	5.890 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	964	1445	2.651 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	966	1438	4.909 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	967	1430	3.559 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	567	969	5.081 rad	1969003771	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	568	1117	0.442 rad	885197545	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	566	1148	4.786 rad	1969003771	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	562	1132	5.522 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	552	1327	0.123 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	553	1333	2.184 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	556	1319	5.007 rad	1969003771	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	585	1455	4.467 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	594	1460	1.497 rad	1482720748	1_4_4_3					
+Monster: Rakango [Metadata/Monsters/Taniwha/Taniwha@38]	612	1461	1.939 rad	442756754	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	619	1450	3.829 rad	1482720748	1_4_4_3					
+Metadata/Chests/KaomChest03	684	1471	6.054 rad	3890438212	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	811	1453	0.589 rad	2777346451	1_4_4_3					
+Monster: Vakali Totem [Metadata/Monsters/Totems/PuiTotem@38]	896	1460	1.374 rad	790700399	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	962	1470	1.644 rad	1482720748	1_4_4_3					
+Metadata/Chests/KaomChest03	537	1101	5.977 rad	3890438212	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	529	1150	3.804 rad	2777346451	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	550	1320	2.356 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	551	1314	2.823 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	597	1472	2.233 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	586	1475	3.362 rad	1482720748	1_4_4_3					
+Metadata/Chests/KaomChest04	643	1474	3.722 rad	141978021	1_4_4_3					
+Metadata/Chests/KaomChest04	724	1483	0.474 rad	141978021	1_4_4_3					
+Metadata/Chests/KaomChest04	852	1473	5.151 rad	141978021	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	913	1477	1.424 rad	2777346451	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	952	1475	0.540 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	967	1482	1.350 rad	1969003771	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	982	1482	6.087 rad	2313028772	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	524	1145	4.688 rad	1969003771	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	522	1140	0.074 rad	2313028772	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	524	1174	4.541 rad	885197545	1_4_4_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	805	1201	0.949 rad	316014466	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	487	1301	0.270 rad	1969003771	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	505	1398	1.129 rad	2313028772	1_4_4_3					
+Metadata/Chests/KaomChest01	753	1514	4.471 rad	1996094979	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	745	1509	0.417 rad	1969003771	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	955	1500	0.221 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	467	1294	1.031 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	473	1312	5.375 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	472	1322	1.595 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	474	1376	1.522 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	479	1397	5.081 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	482	1389	2.945 rad	1969003771	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	651	1028	3.780 rad	885197545	1_4_4_3					
+Metadata/Monsters/SaplingMonster/Objects/seed_Thorn	722	1250	2.854 rad	1439089658	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	772	1010	2.378 rad	1482720748	1_4_4_3					
+Metadata/Monsters/SaplingMonster/Objects/seed_Thorn	703	1266	5.818 rad	1439089658	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	597	1472	2.233 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	586	1475	3.362 rad	1482720748	1_4_4_3					
+Metadata/Chests/KaomChest04	643	1474	3.722 rad	141978021	1_4_4_3					
+Metadata/Chests/KaomChest04	724	1483	0.474 rad	141978021	1_4_4_3					
+Metadata/Chests/KaomChest04	852	1473	5.151 rad	141978021	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	913	1477	1.424 rad	2777346451	1_4_4_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	660	1253	0.000 rad	1450012487	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	687	1251	4.350 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	687	1251	6.144 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	686	1250	4.633 rad	1418889786	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	687	1251	4.957 rad	3875590990	1_4_4_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	693	1246	1.514 rad	2647986052	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	690	1249	5.659 rad	1418889786	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	650	1250	1.212 rad	3875590990	1_4_4_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	671	1261	0.000 rad	1450012487	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	634	1248	5.892 rad	1418889786	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	634	1248	1.474 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	620	1242	1.626 rad	3875590990	1_4_4_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	658	1272	0.000 rad	1450012487	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	623	1241	2.074 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	611	1233	1.713 rad	3875590990	1_4_4_3					
+Metadata/Chests/KaomChest01	753	1514	4.471 rad	1996094979	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	745	1509	0.417 rad	1969003771	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	613	1227	2.536 rad	3875590990	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	743	1521	5.645 rad	2313028772	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	766	1533	1.448 rad	885197545	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	597	1202	2.442 rad	3875590990	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	752	1560	0.957 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	747	1562	0.417 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	757	1555	1.350 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	745	1551	0.589 rad	1482720748	1_4_4_3					
+Metadata/Chests/KaomChest04	714	1564	3.360 rad	141978021	1_4_4_3					
+Monster: Rakango [Metadata/Monsters/Taniwha/Taniwha@38]	735	1570	1.963 rad	442756754	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	734	1577	0.344 rad	1482720748	1_4_4_3					
+Monster: Daemon [Metadata/Monsters/Daemon/Archnemesis/RejuvenatorDaemon@38]	735	1570	0.221 rad	1203133754	1_4_4_3					
+Monster: Rakango [Metadata/Monsters/Taniwha/Taniwha@38]	726	1597	0.245 rad	442756754	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	720	1589	0.565 rad	885197545	1_4_4_3					
+Monster: Daemon [Metadata/Monsters/Daemon/Archnemesis/ArcaneEnchantedDaemon@38]	726	1597	1.203 rad	1315379392	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	742	1605	3.976 rad	2313028772	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	717	1612	3.240 rad	1969003771	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	725	1615	5.228 rad	885197545	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	674	1369	0.596 rad	1418889786	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	674	1369	5.387 rad	3875590990	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	905	1229	6.159 rad	885197545	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	906	1243	3.252 rad	1969003771	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	677	1381	5.293 rad	3875590990	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	913	1477	1.424 rad	2777346451	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	631	1375	1.284 rad	1418889786	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	631	1375	1.326 rad	3875590990	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	926	1529	2.184 rad	1482720748	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	681	1373	5.059 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	691	1375	4.585 rad	3875590990	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	959	1178	3.264 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	964	1445	2.651 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	962	1470	1.644 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	952	1475	0.540 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	955	1500	0.221 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	954	1532	5.645 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	964	1536	5.351 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	944	1536	3.412 rad	2313028772	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	967	1412	1.178 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	966	1438	4.909 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	967	1430	3.559 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	967	1482	1.350 rad	1969003771	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	982	1482	6.087 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	1012	1197	2.257 rad	1482720748	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	746	1479	0.785 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	757	1492	0.101 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	755	1522	0.862 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	710	1367	5.410 rad	316014466	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	896	1460	0.000 rad	2646652649	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	922	1525	0.000 rad	2646652649	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	712	1708	5.449 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	697	1720	1.816 rad	1969003771	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	726	1704	3.657 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	717	1714	5.940 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	834	1714	0.123 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	841	1723	2.233 rad	2313028772	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	573	1355	2.214 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	573	1363	2.369 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	549	1321	5.903 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	547	1329	2.498 rad	1969003771	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	835	1731	3.215 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	828	1731	4.099 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	841	1743	4.491 rad	1969003771	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	767	1532	0.161 rad	3875590990	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	759	1534	0.074 rad	1418889786	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	759	1534	0.588 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	748	1537	0.695 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	742	1539	0.644 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	811	1453	3.808 rad	316014466	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	745	1564	0.245 rad	3875590990	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	735	1570	6.230 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	735	1570	6.120 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	735	1570	5.739 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	740	1566	3.705 rad	1418889786	1_4_4_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	745	1569	0.000 rad	1450012487	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	735	1579	0.653 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	740	1577	0.351 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	725	1579	1.310 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	728	1584	1.107 rad	3875590990	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	726	1597	5.518 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	726	1597	5.696 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	731	1593	3.515 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	726	1597	0.147 rad	1418889786	1_4_4_3					
+Metadata/NPC/Info/KaomCarving4	726	1828	0.000 rad	275629786	1_4_4_3	192	-1500.000			
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	493	1400	4.172 rad	2313028772	1_4_4_3					
+Monster: Vakali Totem [Metadata/Monsters/Totems/PuiTotem@38]	844	1849	2.724 rad	790700399	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	857	1843	5.621 rad	2777346451	1_4_4_3					
+Metadata/Chests/KaomChest03	855	1883	2.009 rad	3890438212	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	753	1902	2.773 rad	885197545	1_4_4_3					
+Monster: Lavianga's Acolyte [Metadata/Monsters/KaomWarrior/KaomWarrior4@38]	771	1905	4.884 rad	885197545	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	762	1898	3.068 rad	2313028772	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	746	1920	5.964 rad	1969003771	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	765	1930	0.638 rad	2313028772	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	719	1678	0.951 rad	3875590990	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	724	1683	3.859 rad	1418889786	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	724	1683	0.000 rad	3875590990	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	712	1696	2.759 rad	1418889786	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	712	1696	0.391 rad	3875590990	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	721	1697	5.757 rad	1418889786	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	721	1697	0.000 rad	3875590990	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	791	1936	2.626 rad	2313028772	1_4_4_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	720	1731	0.000 rad	1450012487	1_4_4_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	725	1731	0.000 rad	1450012487	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	837	1739	0.000 rad	2646652649	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	844	1849	0.000 rad	2646652649	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	785	1962	3.215 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	796	1955	5.596 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	812	1956	3.755 rad	1969003771	1_4_4_3					
+Metadata/Chests/KaomChest04	643	1474	3.722 rad	141978021	1_4_4_3					
+Metadata/Chests/KaomChest04	724	1483	0.474 rad	141978021	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	720	1490	2.356 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	713	1483	2.897 rad	1969003771	1_4_4_3					
+Metadata/Chests/KaomChest04	852	1473	5.151 rad	141978021	1_4_4_3					
+Monster: Volcanic Golem [Metadata/Monsters/FireElemental/FireElementalMeteorAngle@38]	913	1477	1.424 rad	2777346451	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	952	1475	0.540 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	967	1482	1.350 rad	1969003771	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	980	1483	4.181 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	785	1962	3.215 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	796	1955	5.596 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior2@38]	812	1956	3.755 rad	1969003771	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	784	1716	4.004 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	786	1721	4.712 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	780	1726	4.434 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	796	1713	4.931 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	831	1735	4.739 rad	3875590990	1_4_4_3					
+Monster: Totem [Metadata/Monsters/Totems/ChargedBeamTotem@36]	784	1697	0.000 rad	1526475622	1_4_4_3	130	-1015.625			
+Monster: Totem [Metadata/Monsters/Totems/ChargedBeamTotem@36]	781	1738	0.000 rad	1526475622	1_4_4_3	128	-1000.000			
+Monster: Totem [Metadata/Monsters/Totems/ChargedBeamTotem@36]	789	1740	0.000 rad	1526475622	1_4_4_3	128	-1000.000			
+Monster: Totem [Metadata/Monsters/Totems/ChargedBeamTotem@36]	827	1734	0.000 rad	1526475622	1_4_4_3	128	-1000.000			
+Object: Metadata/Effects/Spells/shatter/Shatter	781	1738	0.000 rad	2647986052	1_4_4_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	789	1740	0.000 rad	2647986052	1_4_4_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	827	1734	0.000 rad	2647986052	1_4_4_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	825	1750	0.000 rad	1450012487	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	837	1739	1.536 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	837	1739	1.143 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	841	1736	5.032 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	837	1739	1.296 rad	1418889786	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	837	1739	0.000 rad	2646652649	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	837	1739	5.113 rad	3875590990	1_4_4_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	861	1774	0.000 rad	1450012487	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/BridgeMarker	793	2044	0.000 rad	4227595659	1_4_4_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	856	1802	0.000 rad	1450012487	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	759	1534	0.074 rad	1418889786	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	926	1529	2.184 rad	1482720748	1_4_4_3					
+Monster: Vakali Totem [Metadata/Monsters/Totems/PuiTotem@38]	922	1525	2.731 rad	790700399	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	954	1532	5.645 rad	1482720748	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	964	1536	5.351 rad	1482720748	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	963	1531	1.571 rad	2313028772	1_4_4_3					
+Metadata/Chests/KaomChest01	753	1514	4.471 rad	1996094979	1_4_4_3					
+Monster: Kaom's Chosen [Metadata/Monsters/KaomWarrior/KaomWarrior3@38]	738	1507	3.142 rad	2313028772	1_4_4_3					
+Monster: Hyrri's Sister [Metadata/Monsters/KaomWarrior/KaomArcher@38]	963	1500	1.571 rad	1482720748	1_4_4_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	857	1843	5.701 rad	316014466	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/BridgeMarker	793	2044	0.000 rad	4227595659	1_4_4_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	854	1810	6.245 rad	2647986052	1_4_4_3					
+Monster: Daemon [Metadata/Monsters/Daemons/BloodlinesBearerSelfBeaconDaemonCold@38]	854	1810	1.914 rad	295667882	1_4_4_3					
+Object: Metadata/Effects/Spells/monsters_effects/elemental_beacon_v2/ice/OTs/beacon	854	1810	2.319 rad	1126990490	1_4_4_3					
+Object: Metadata/Effects/Spells/monsters_effects/elemental_beacon_v2/ice/OTs/beacon_aoe	854	1810	0.000 rad	2002688798	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	726	1597	5.518 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	726	1597	5.696 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	726	1597	0.147 rad	1418889786	1_4_4_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	735	1830	0.000 rad	1450012487	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	854	1810	0.000 rad	2646652649	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	777	1861	2.159 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	772	1860	6.159 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	759	1868	5.617 rad	3875590990	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	786	1882	4.283 rad	1418889786	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	786	1882	1.020 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	791	1885	0.000 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	805	1889	0.083 rad	3875590990	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	814	1892	5.820 rad	3875590990	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	812	1903	1.512 rad	1418889786	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	812	1903	5.608 rad	3875590990	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/BridgeMarker	794	2109	0.000 rad	4227595659	1_4_4_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	788	1887	4.712 rad	3875590990	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/AreaTransition	794	2168	0.000 rad	726109394	1_4_4_3	207	-1618.492	1	1592318837	
+Object: Metadata/MiscellaneousObjects/AreaTransitionMapMarkerTR	345	1919	0.461 rad	1760120629	1_4_4_3	195	-1528.913	1	42997	Kaom's Stronghold
+Object: Metadata/Monsters/Kaom/Volcano/kaom_volcano	271	1946	2.094 rad	3881778751	1_4_4_3	218	-1705.163			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	319	1946	2.629 rad	2641019803	1_4_4_3	196	-1531.250			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	312	1951	2.734 rad	2641019803	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	333	1941	2.738 rad	2641019803	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerLow	324	1946	2.629 rad	2029182408	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerMedium	330	1942	2.934 rad	710209226	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	358	1942	3.445 rad	2641019803	1_4_4_3	196	-1531.250			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerMedium	365	1944	3.370 rad	710209226	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerLow	368	1947	3.632 rad	2029182408	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerLow	373	1950	3.835 rad	2029182408	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	377	1951	3.917 rad	2641019803	1_4_4_3	192	-1500.000			
+Object: Metadata/Monsters/Kaom/Volcano/kaom_volcano	416	1945	4.153 rad	3881778751	1_4_4_3	218	-1710.598			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	298	1972	1.818 rad	2641019803	1_4_4_3	196	-1531.250			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerLow	311	1956	2.547 rad	2029182408	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerMedium	385	1958	3.917 rad	710209226	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	391	1972	4.388 rad	2641019803	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	293	1994	1.583 rad	2641019803	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerMedium	293	1997	1.420 rad	710209226	1_4_4_3	192	-1500.000			
+Object: Metadata/Monsters/Kaom/ArenaMiddle	345	1991	0.000 rad	1240896918	1_4_4_3	196	-1536.685			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	396	1999	5.048 rad	2641019803	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerMedium	396	1995	5.048 rad	710209226	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	294	2002	1.337 rad	2641019803	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	295	2007	1.062 rad	2641019803	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerLow	296	2004	1.616 rad	2029182408	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerMedium	297	2012	1.226 rad	710209226	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerMedium	294	2005	1.331 rad	710209226	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	302	2021	0.817 rad	2641019803	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	300	2016	1.501 rad	2641019803	1_4_4_3	196	-1531.250			
+Monster: King Kaom [Metadata/Monsters/Kaom/KaomBoss@38]	339	2009	0.000 rad	1578645491	1_4_4_3					
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	388	2021	5.156 rad	2641019803	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerMedium	390	2020	4.938 rad	710209226	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerLow	391	2013	5.048 rad	2029182408	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerMedium	395	2007	5.048 rad	710209226	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerLow	310	2029	0.552 rad	2029182408	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	308	2029	0.722 rad	2641019803	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerLow	329	2040	0.206 rad	2029182408	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerLow	323	2038	0.291 rad	2029182408	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	328	2041	0.315 rad	2641019803	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	335	2043	0.551 rad	2641019803	1_4_4_3	196	-1531.250			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	359	2040	6.153 rad	2641019803	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerMedium	361	2040	6.028 rad	710209226	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerLow	383	2025	5.134 rad	2029182408	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	385	2034	5.472 rad	2641019803	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerHigh	377	2032	5.472 rad	2641019803	1_4_4_3	196	-1531.250			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerLow	371	2035	6.028 rad	2029182408	1_4_4_3	192	-1500.000			
+Object: Metadata/Terrain/Mountain/Plateau/Objects/KaomBossSkullSpawnerMedium	386	2025	5.048 rad	710209226	1_4_4_3	192	-1500.000			
+Object: Metadata/Monsters/Kaom/Volcano/kaom_volcano	345	2076	0.016 rad	3881778751	1_4_4_3	218	-1710.598			
+Monster: Daemon [Metadata/Monsters/Daemon/KaomVolcanoMortar@38]	345	2076	2.356 rad	1919886715	1_4_4_3					
+Object: Metadata/Effects/ServerEffect	345	2076	0.016 rad	2646652649	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	341	2003	2.120 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	344	2001	1.444 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	341	2003	2.759 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	341	2003	2.894 rad	1418889786	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	341	2003	2.261 rad	1418889786	1_4_4_3					
+Metadata/MiscellaneousObjects/Microtransactions/MonsterStatueCreatorIndicator/MonsterStatueCreatorIndicator	341	2003	0.000 rad	2154865851	1_4_4_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	346	2004	2.630 rad	1418889786	1_4_4_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	340	2001	0.000 rad	1450012487	1_4_4_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	335	1996	0.000 rad	1450012487	1_4_4_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	345	1997	0.000 rad	1450012487	1_4_4_3					
+Metadata/MiscellaneousObjects/MultiplexPortal	336	1984	5.498 rad	1600303822	1_4_4_3					

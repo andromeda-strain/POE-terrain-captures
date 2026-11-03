@@ -1,0 +1,81 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransitionMapMarker	967	468	3.1416	-224.521	29	wagons_transition_v01_01.tdt	0	0	41447	2_9_3
+Metadata/MiscellaneousObjects/AreaTransition	1657	506	0.0000	-226.921	29	rockwall_transition_v01_02.tdt	0	1	388255637	ArenaNameShakari
+Metadata/MiscellaneousObjects/AreaTransition	415	735	3.1416	-226.921	29	rockwall_transition_v01_02.tdt	0	1	19107	HideoutOasis_Claim
+Metadata/MiscellaneousObjects/AreaTransition	1864	851	0.0000	-226.921	29	rockwall_transition_v01_02_reverse.tdt	0	1	2262349192	ArenaNameShakari3
+Metadata/MiscellaneousObjects/AreaTransition	272	1543	0.0000	-248.665	32	ascent_sidearea_entry_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1131	1585	4.7124	-226.921	29	rockwall_transition_v01_01.tdt	0	1	388255637	ArenaNameShakari
+Metadata/MiscellaneousObjects/AreaTransition	1632	1588	1.5708	-226.921	29	rockwall_transition_v01_02.tdt	0	1	9818	%areaname%
+Metadata/MiscellaneousObjects/AreaTransition	622	1610	0.0000	-226.921	29	rockwall_transition_v01_02.tdt	0			
+Metadata/QuestObjects/Act9/Garukhan_Sandwall	1899	1588	4.7124	-148.098	19	boss1.arm	0			
+Metadata/QuestObjects/Act9/Shakari_SandWallValleyEntrance	1886	1582	1.5708	10.870	-1	boss1.arm	0			
+Metadata/QuestObjects/Act9/Shakari_SandWallArenaExit	1629	1585	1.5708	-148.098	19	boss1.arm	0			
+Metadata/QuestObjects/Act9/Shakari_SandWallValleyExit	1871	860	3.1416	-148.098	19	boss1.arm	0			
+Metadata/MiscellaneousObjects/CooldownMarkerSerialised	1912	1588	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Shakari/ShakariScorpionSpawner	2007	1581	3.4341	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Shakari/ShakariScorpionSpawner	2066	1581	5.1147	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Shakari/ShakariScorpionSpawner	2077	1496	4.0959	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Shakari/ShakariScorpionSpawner	2065	1433	2.0666	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Shakari/ShakariScorpionSpawner	2079	1353	3.9448	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Shakari/ShakariScorpionSpawner	2038	1305	3.4878	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Shakari/ShakariScorpionSpawner	1970	1315	1.2385	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Shakari/ShakariScorpionSpawner	1917	1262	1.1145	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Shakari/ShakariScorpionSpawner	1866	1210	3.5350	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Shakari/ShakariScorpionSpawner	1853	1133	2.1613	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Shakari/ShakariScorpionSpawner	1864	1079	4.0196	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Shakari/ShakariScorpionSpawner	1861	989	2.3749	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Shakari/ShakariScorpionSpawner	1863	935	3.8845	-125.000	16	boss1.arm	0			
+Metadata/MiscellaneousObjects/BossTargetMarkerSerialized	1864	811	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Shakari/ShakariScorpionLargeSpawner	2063	1299	3.5836	-125.000	16	boss1.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionLargeSpawner	1976	1325	1.0452	-125.000	16	boss1.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionLargeSpawner	1958	1286	2.0859	-125.000	16	boss1.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionLargeSpawner	1905	1256	0.9993	-125.000	16	boss1.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionLargeSpawner	1942	1234	3.6038	-125.000	16	boss1.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionLargeSpawner	1851	1215	1.6399	-125.000	16	boss1.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionLargeSpawner	1879	1173	3.9065	-125.000	16	boss1.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionLargeSpawner	1807	1101	1.2173	-125.000	16	boss1.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionLargeSpawner	1823	1107	1.9530	-125.000	16	boss1.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionLargeSpawner	1914	1098	4.2716	-125.000	16	boss1.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionLargeSpawner	1895	1119	4.8584	-125.000	16	boss1.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionLargeSpawner	1855	966	2.5657	-125.000	16	boss1.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionLargeSpawner	1868	925	3.5647	-125.000	16	boss1.arm	1			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon	2007	1580	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon	2067	1581	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon	1913	1587	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon	2078	1496	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon	2065	1433	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon	2079	1353	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon	2038	1304	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon	1971	1313	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon	1917	1262	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon	1867	1210	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon	1878	1117	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon	1833	1104	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon	1862	988	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon	1864	934	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon	1854	1133	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon	1908	1107	4.7124	-125.000	16	boss1.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon	1864	1080	4.7124	-125.000	16	boss1.arm	0			
+Metadata/QuestObjects/Act9/Shakari_SandWallArena2Exit	1655	508	0.0000	-125.000	16	boss2.arm	0			
+Metadata/Monsters/Shakari/ArenaMiddle	1654	421	0.0000	-125.000	16	boss2.arm	0			
+Metadata/Monsters/Shakari/ShakariScorpionSpawnerBoss	1627	458	2.0944	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionSpawnerBoss	1608	442	5.7596	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionSpawnerBoss	1617	392	3.4034	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionSpawnerBoss	1627	373	1.0472	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionSpawnerBoss	1705	411	5.4978	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionSpawnerBoss	1694	432	3.4034	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionLargeSpawnerBoss	1621	446	0.7854	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionLargeSpawnerBoss	1696	421	5.4978	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Shakari/ShakariScorpionLargeSpawnerBoss	1624	384	2.3562	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Shakari/ShakariQuicksandSpawnerBoss	1701	471	6.0214	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Shakari/ShakariQuicksandSpawnerBoss	1666	453	0.7854	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Shakari/ShakariQuicksandSpawnerBoss	1602	476	2.0944	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Shakari/ShakariQuicksandSpawnerBoss	1612	413	4.7124	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Shakari/ShakariQuicksandSpawnerBoss	1710	371	5.4978	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Shakari/ShakariQuicksandSpawnerBoss	1669	384	2.6180	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Shakari/ShakariQuicksandSpawnerBoss	1656	357	0.7854	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Shakari/ShakariQuicksandSpawnerBoss	1603	362	4.7124	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Shakari/ShakariQuicksandSpawnerBossMiddle	1654	421	0.0000	-125.000	16	boss2.arm	1			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon2_	1618	451	0.0000	-125.000	16	boss2.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon2_	1699	422	0.0000	-125.000	16	boss2.arm	0			
+Metadata/Monsters/Daemon/ShakariQuicksandDaemon2_	1623	384	0.0000	-125.000	16	boss2.arm	0			

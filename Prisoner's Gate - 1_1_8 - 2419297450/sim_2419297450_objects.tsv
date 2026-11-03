@@ -1,0 +1,57 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/QuestObjects/Spikes/BlockedPassageTransition	1212	282	0.0000	-917.234	117	beach_passageblock_v01_01.tdt	0	0	6216	1_2_9
+Metadata/QuestObjects/Spikes/SpikeBlockageButton	1146	321	0.0000	-872.567	112	beach_passageblock_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	279	335	0.0000	-1399.012	179	beach_prison_front.tdt	0	0	29202	1_1_7_2
+Metadata/MiscellaneousObjects/Waypoint	425	379	0.0000	-766.917	98	beach_waypoint_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1122	1454	0.0000	-127.067	16	shipgraveyard_passageway_v01_01a.tdt	0	0	55297	1_1_9
+Metadata/NPC/Act1/PietyBlockage	1137	321	1.5930	-750.000	96	blocked_passage.arm	0			
+Metadata/QuestObjects/Spikes/SpikeBlockage	1152	283	0.0000	-750.000	96	blocked_passage.arm	0			
+Metadata/QuestObjects/Spikes/SpikeBlockage2	1206	279	0.0000	-750.000	96	blocked_passage.arm	0			
+Metadata/Chests/TribalChest1	1094	256	2.0896	-750.000	96	blocked_passage.arm	0			
+Metadata/Chests/TribalChest3	1066	334	1.8162	-750.000	96	blocked_passage.arm	0			
+Metadata/Chests/TribalChest1	1069	371	1.4735	-750.000	96	blocked_passage.arm	0			
+Metadata/Chests/TribalChest1	1120	373	5.3475	-750.000	96	blocked_passage.arm	0			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	1127	531	3.9270	-750.000	96	goatman_spawner_cv_02.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	1119	518	4.1888	-750.000	96	goatman_spawner_cv_02.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	1144	539	3.4034	-750.000	96	goatman_spawner_cv_02.arm	1			
+Metadata/Terrain/Act1/Area5/Objects/GoatmanAmbushPointStaggered	1124	531	1.5708	-750.000	96	goatman_spawner_cv_02.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	1021	1126	6.2832	-375.000	48	goatman_spawner_stsmall_01.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	988	1126	6.2832	-375.000	48	goatman_spawner_stsmall_01.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	1000	1129	0.5236	-375.000	48	goatman_spawner_stsmall_01.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	976	1128	6.0214	-375.000	48	goatman_spawner_stsmall_01.arm	1			
+Metadata/Terrain/Act1/Area5/Objects/GoatmanAmbushPointStaggered	997	1117	3.1416	-375.000	48	goatman_spawner_stsmall_01.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	910	1503	3.1416	0.000	0	goatman_spawner_st_01.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	943	1503	3.1416	0.000	0	goatman_spawner_st_01.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	931	1500	3.6652	0.000	0	goatman_spawner_st_01.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	955	1501	2.8798	0.000	0	goatman_spawner_st_01.arm	1			
+Metadata/Terrain/Act1/Area5/Objects/GoatmanAmbushPointStaggered	934	1512	0.0000	0.000	0	goatman_spawner_st_01.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	1017	1670	6.0214	-187.500	24	goatman_spawner_st_02.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	999	1675	6.2832	-187.500	24	goatman_spawner_st_02.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	984	1671	0.2618	-187.500	24	goatman_spawner_st_02.arm	1			
+Metadata/Terrain/Act1/Area5/Objects/GoatmanAmbushPointStaggered	997	1661	3.1416	-187.500	24	goatman_spawner_st_02.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	740	1198	6.2832	-375.000	48	goatman_spawner_stsmallmed_02.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	708	1191	6.2832	-375.000	48	goatman_spawner_stsmallmed_02.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	724	1194	0.2618	-375.000	48	goatman_spawner_stsmallmed_02.arm	1			
+Metadata/Terrain/Act1/Area5/Objects/GoatmanAmbushPointStaggered	725	1186	3.1416	-375.000	48	goatman_spawner_stsmallmed_02.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	388	464	1.5708	-750.000	96	goatman_spawner_stsmallmed_02.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	395	432	1.5708	-750.000	96	goatman_spawner_stsmallmed_02.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	392	448	1.8326	-750.000	96	goatman_spawner_stsmallmed_02.arm	1			
+Metadata/Terrain/Act1/Area5/Objects/GoatmanAmbushPointStaggered	400	449	4.7124	-750.000	96	goatman_spawner_stsmallmed_02.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	675	626	1.0472	-562.500	72	goatman_spawner_stmedlarge_01.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	680	649	1.3090	-562.500	72	goatman_spawner_stmedlarge_01.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	678	637	1.3090	-562.500	72	goatman_spawner_stmedlarge_01.arm	1			
+Metadata/Terrain/Act1/Area5/Objects/GoatmanAmbushPointStaggered	685	643	4.7124	-562.500	72	goatman_spawner_stmedlarge_01.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	689	661	1.3090	-562.500	72	goatman_spawner_stmedlarge_01.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	813	764	1.3090	-562.500	72	goatman_spawner_stmedlarge_02.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	818	791	1.0472	-562.500	72	goatman_spawner_stmedlarge_02.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	814	779	1.5708	-562.500	72	goatman_spawner_stmedlarge_02.arm	1			
+Metadata/Terrain/Act1/Area5/Objects/GoatmanAmbushPointStaggered	823	781	4.7124	-562.500	72	goatman_spawner_stmedlarge_02.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	1187	960	4.1888	-562.500	72	goatman_spawner_stmedlarge_01.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	1182	937	4.4506	-562.500	72	goatman_spawner_stmedlarge_01.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	1184	949	4.4506	-562.500	72	goatman_spawner_stmedlarge_01.arm	1			
+Metadata/Terrain/Act1/Area5/Objects/GoatmanAmbushPointStaggered	1177	943	1.5708	-562.500	72	goatman_spawner_stmedlarge_01.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	1173	925	4.4506	-562.500	72	goatman_spawner_stmedlarge_01.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	911	891	4.4506	-562.500	72	goatman_spawner_stmedlarge_02.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	906	864	4.1888	-562.500	72	goatman_spawner_stmedlarge_02.arm	1			
+Metadata/Terrain/Act1/Area8/Objects/GoatmanPrisonersGateSpawner	910	876	4.7124	-562.500	72	goatman_spawner_stmedlarge_02.arm	1			
+Metadata/Terrain/Act1/Area5/Objects/GoatmanAmbushPointStaggered	901	874	1.5708	-562.500	72	goatman_spawner_stmedlarge_02.arm	1			

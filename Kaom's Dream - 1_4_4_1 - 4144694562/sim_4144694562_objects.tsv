@@ -1,0 +1,10 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/NPC/Info/KaomCarving1	496	427	0.0000	-0.000	0	NewKaom1_carving01.tdt	0			
+Metadata/NPC/Info/KaomCarving2	792	1348	6.2832	-1750.000	224	NewKaom1_carving02.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1189	1673	1.5708	-1511.180	193	lava_abyss_transition_entrance_v01_01.tdt	0	0	42997	1_4_4_3
+Metadata/MiscellaneousObjects/BridgeMarker	1263	445	1.5708	-500.000	64	traverse_02.arm	0			
+Metadata/Terrain/Mountain/Mines/Objects/DreamPortal	406	332	3.9438	204.144	-26	entrance1_01.arm	0	0	47328	1_4_3_3
+Metadata/MiscellaneousObjects/BridgeMarker	1027	1621	4.7124	-1500.000	192	entrance2_01.arm	0			
+Metadata/MiscellaneousObjects/BridgeMarker	1116	1619	4.7124	-1500.000	192	entrance2_01.arm	0			
+Metadata/MiscellaneousObjects/BridgeMarker	1344	828	0.0000	-1000.000	128	connection_02.arm	0			
+Metadata/MiscellaneousObjects/BridgeMarker	874	381	4.7124	-500.000	64	connection_01.arm	0			

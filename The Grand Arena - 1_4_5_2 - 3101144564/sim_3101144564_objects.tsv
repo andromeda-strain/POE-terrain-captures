@@ -1,0 +1,196 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	770	179	3.1416	-0.000	0	colosseum_areatransition_v01_01.tdt	0	0	26176	1_4_5_1
+Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleSword	632	339	3.1416	-0.000	0	DaressoMaleSmall03.tdt	0			
+Metadata/Monsters/Statue/Lion/Spawner_Lion	655	357	3.1416	-0.000	0	colosseum_LionSpawner_v01_01.tdt	0			
+Metadata/Monsters/Statue/Lion/Spawner_Lion	885	357	3.1416	-0.000	0	colosseum_LionSpawner_v01_01.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleBow	908	339	3.1416	-0.000	0	DaressoMaleSmall02.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleMaul	615	356	1.5708	-0.000	0	DaressoMaleSmall01.tdt	0			
+Metadata/MiscellaneousObjects/Waypoint	770	356	3.1416	-15.108	2	mountainwaypoint_v01_01.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleBow	926	355	4.7124	-0.000	0	DaressoFemaleSmall02.tdt	0			
+Metadata/Monsters/Statue/Lion/Spawner_Lion	633	379	1.5708	-0.000	0	colosseum_LionSpawner_v01_01.tdt	0			
+Metadata/Monsters/Statue/FemaleLarge/Spawner_DaressoStatueLargeFemaleSpear	655	374	0.0000	-0.000	0	DaressoFemaleLarge02.tdt	0			
+Metadata/Monsters/Statue/MaleLarge/Spawner_DaressoStatueLargeMaleSpear	885	373	0.0000	-0.000	0	DaressoMaleLarge02.tdt	0			
+Metadata/Monsters/Statue/Lion/Spawner_Lion	907	379	4.7124	-0.000	0	colosseum_LionSpawner_v01_01.tdt	0			
+Metadata/Monsters/Statue/Lion/Spawner_Lion	609	470	0.0000	-0.000	0	colosseum_LionSpawner_v01_01.tdt	0			
+Metadata/Monsters/Statue/Lion/Spawner_Lion	655	470	0.0000	-0.000	0	colosseum_LionSpawner_v01_01.tdt	0			
+Metadata/Monsters/Statue/Lion/Spawner_Lion	885	470	0.0000	-0.000	0	colosseum_LionSpawner_v01_01.tdt	0			
+Metadata/Monsters/Statue/Lion/Spawner_Lion	931	470	0.0000	-0.000	0	colosseum_LionSpawner_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	632	536	3.1416	-144.046	18	colosseum_entrance_v01_01.tdt	0	1	2775988652	GrandArenaExterior
+Metadata/MiscellaneousObjects/AreaTransition	908	536	3.1416	-144.046	18	colosseum_entrance_v01_01.tdt	0	1	2775988652	GrandArenaExterior
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner	563	793	3.1416	3.362	0	colosseum_wall_v01_02.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawnerLeft	571	803	3.1416	3.362	0	colosseum_wall_v01_02.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawnerRight	557	808	3.1416	3.362	0	colosseum_wall_v01_02.tdt	1			
+Metadata/MiscellaneousObjects/AreaTransition	563	851	4.7124	36.969	-5	colosseum_trap_door_v01_01.tdt	0	1	3034878579	GrandArenaInterior
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	459	908	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	470	912	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	476	904	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	667	908	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	656	904	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	650	912	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner	379	977	1.5708	3.362	0	colosseum_wall_v01_02.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawnerLeft	389	985	1.5708	3.362	0	colosseum_wall_v01_02.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawnerRight	394	971	1.5708	3.362	0	colosseum_wall_v01_02.tdt	1			
+Metadata/MiscellaneousObjects/AreaTransition	1667	1012	4.7124	36.969	-5	colosseum_trap_door_v01_01.tdt	0	1	3034878579	GrandArenaInterior
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	459	1046	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	470	1050	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	476	1042	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	667	1046	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	656	1042	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	650	1050	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	1563	1046	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	1574	1050	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	1580	1042	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	1771	1046	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	1760	1042	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	1754	1050	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/MiscellaneousObjects/AreaTransitionToggleableReverse	563	1166	0.0000	-0.000	0	colosseum_wall_door_v01_02.tdt	0	1	3034878579	GrandArenaInterior
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoors	563	1161	0.0000	3.362	0	colosseum_wall_door_v01_02.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	1563	1161	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	1574	1165	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	1580	1157	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	1771	1184	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	1760	1180	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	1754	1188	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Monsters/Statue/FemaleLarge/Spawner_DaressoStatueLargeFemaleSpear	1028	1299	1.5708	-0.000	0	DaressoFemaleLarge02.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleSword	1045	1304	3.1416	-0.000	0	DaressoFemaleSmall04.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1088	1322	1.5708	-144.046	18	colosseum_entrance_v01_01.tdt	0	1	2775988652	GrandArenaExterior
+Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleSword	1029	1322	1.5708	-0.000	0	DaressoMaleSmall03.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleBow	908	1443	3.1416	-0.000	0	DaressoMaleSmall02.tdt	0			
+Metadata/Monsters/Statue/Lion/Spawner_Lion	931	1461	3.1416	-0.000	0	colosseum_LionSpawner_v01_01.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleMaul	1160	1442	3.1416	-0.000	0	DaressoFemaleSmall03.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleBow	1202	1436	4.7124	-0.000	0	DaressoFemaleSmall02.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleMaul	891	1460	1.5708	-0.000	0	DaressoMaleSmall01.tdt	0			
+Metadata/NPC/Info/DaressoStatue1	1046	1457	6.2832	-24.818	3	merveilstatue_01.tdt	0			
+Metadata/Monsters/Statue/Lion/Spawner_Lion	1183	1460	4.7124	-0.000	0	colosseum_LionSpawner_v01_01.tdt	0			
+Metadata/Monsters/Statue/Lion/Spawner_Lion	909	1483	1.5708	-0.000	0	colosseum_LionSpawner_v01_01.tdt	0			
+Metadata/Monsters/Statue/FemaleLarge/Spawner_DaressoStatueLargeFemaleSpear	926	1483	4.7124	-0.000	0	DaressoFemaleLarge02.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleMaul	1162	1478	0.0000	-0.000	0	DaressoFemaleSmall03.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleSword	1202	1482	4.7124	-0.000	0	DaressoFemaleSmall04.tdt	0			
+Metadata/Monsters/Statue/Lion/Spawner_Lion	885	1574	0.0000	-0.000	0	colosseum_LionSpawner_v01_01.tdt	0			
+Metadata/Monsters/Statue/Lion/Spawner_Lion	931	1574	0.0000	-0.000	0	colosseum_LionSpawner_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	908	1640	3.1416	-144.046	18	colosseum_entrance_v01_01.tdt	0	1	2775988652	GrandArenaExterior
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner	425	1759	3.1416	3.362	0	colosseum_wall_v01_02.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawnerLeft	433	1769	3.1416	3.362	0	colosseum_wall_v01_02.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawnerRight	419	1774	3.1416	3.362	0	colosseum_wall_v01_02.tdt	1			
+Metadata/MiscellaneousObjects/AreaTransition	494	1840	1.5708	36.969	-5	colosseum_trap_door_v01_01.tdt	0	1	3034878579	GrandArenaInterior
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	356	1908	3.1416	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	352	1919	3.1416	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	360	1925	3.1416	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner	609	1943	4.7124	3.362	0	colosseum_wall_v01_02.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawnerLeft	599	1951	4.7124	3.362	0	colosseum_wall_v01_02.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawnerRight	594	1937	4.7124	3.362	0	colosseum_wall_v01_02.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	483	1966	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	472	1962	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	466	1970	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner	609	2012	4.7124	3.362	0	colosseum_wall_v01_02.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawnerLeft	599	2020	4.7124	3.362	0	colosseum_wall_v01_02.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawnerRight	594	2006	4.7124	3.362	0	colosseum_wall_v01_02.tdt	1			
+Metadata/Monsters/Statue/MaleLarge/Spawner_DaressoStatueLargeMaleSpear	891	1989	1.5708	-0.000	0	DaressoMaleLarge02.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleMaul	907	1994	3.1416	-0.000	0	DaressoFemaleSmall03.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	950	2012	1.5708	-144.046	18	colosseum_entrance_v01_01.tdt	0	1	2775988652	GrandArenaExterior
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner	1667	2035	3.1416	3.362	0	colosseum_wall_v01_02.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawnerLeft	1675	2045	3.1416	3.362	0	colosseum_wall_v01_02.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawnerRight	1661	2050	3.1416	3.362	0	colosseum_wall_v01_02.tdt	1			
+Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleBow	891	2012	1.5708	-0.000	0	DaressoMaleSmall02.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner	241	2081	1.5708	3.362	0	colosseum_wall_v01_02.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawnerLeft	251	2089	1.5708	3.362	0	colosseum_wall_v01_02.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawnerRight	256	2075	1.5708	3.362	0	colosseum_wall_v01_02.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner	609	2081	4.7124	3.362	0	colosseum_wall_v01_02.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawnerLeft	599	2089	4.7124	3.362	0	colosseum_wall_v01_02.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawnerRight	594	2075	4.7124	3.362	0	colosseum_wall_v01_02.tdt	1			
+Metadata/MiscellaneousObjects/AreaTransitionToggleableReverse	1667	2121	1.5708	-10.047	1	colosseum_trap_door_v01_02.tdt	0	1	3034878579	GrandArenaInterior
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumGladiatorTrapdoor	1667	2129	3.1416	-0.000	0	colosseum_trap_door_v01_02.tdt	0			
+Metadata/Monsters/Statue/Lion/Spawner_Lion	909	2127	1.5708	-0.000	0	colosseum_LionSpawner_v01_01.tdt	0			
+Metadata/Monsters/Statue/MaleLarge/Spawner_DaressoStatueLargeMaleSpear	931	2133	3.1416	-0.000	0	DaressoMaleLarge02.tdt	0			
+Metadata/Monsters/Statue/Lion/Spawner_Lion	1160	2127	4.7124	-0.000	0	colosseum_LionSpawner_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1226	2150	1.5708	-144.046	18	colosseum_entrance_v01_01.tdt	0	1	2775988652	GrandArenaExterior
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	1586	2127	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	1597	2131	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	1603	2123	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	1748	2127	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	1737	2123	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	1731	2131	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	321	2150	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	332	2154	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	338	2146	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	402	2139	0.0000	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	406	2128	0.0000	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	398	2122	0.0000	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	448	2139	0.0000	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	452	2128	0.0000	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	444	2122	0.0000	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleMaul	891	2150	1.5708	-0.000	0	DaressoMaleSmall01.tdt	0			
+Metadata/Monsters/Statue/Lion/Spawner_Lion	931	2149	0.0000	-0.000	0	colosseum_LionSpawner_v01_01.tdt	0			
+Metadata/NPC/Info/DaressoStatue2	1047	2147	0.0000	-43.907	6	merveilstatue_02.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleMaul	908	2167	0.0000	-0.000	0	DaressoMaleSmall01.tdt	0			
+Metadata/Monsters/Statue/Lion/Spawner_Lion	1160	2173	4.7124	-0.000	0	colosseum_LionSpawner_v01_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	1563	2173	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	1574	2177	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	1580	2169	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	1771	2173	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	1760	2169	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	1754	2177	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/MiscellaneousObjects/AreaTransitionToggleableReverse	425	2270	0.0000	-0.000	0	colosseum_wall_door_v01_02.tdt	0	1	3034878579	GrandArenaInterior
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoors	425	2265	0.0000	3.362	0	colosseum_wall_door_v01_02.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	1563	2265	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	1574	2269	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	1580	2261	1.5708	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	1771	2265	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	1760	2261	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	1754	2269	4.7124	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	1621	2323	0.0000	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	1625	2312	0.0000	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	1617	2306	0.0000	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	1713	2323	0.0000	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerLeft	1717	2312	0.0000	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerRight	1709	2306	0.0000	-0.000	0	colosseum_trap_door_spawner_v02_01.tdt	1			
+Metadata/MiscellaneousObjects/AreaTransitionToggleableReverse	1667	2408	0.0000	-0.000	0	colosseum_wall_door_v01_02.tdt	0	1	3034878579	GrandArenaInterior
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoors	1667	2403	0.0000	3.362	0	colosseum_wall_door_v01_02.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleMaul	907	2684	3.1416	-0.000	0	DaressoFemaleSmall03.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleBow	931	2685	3.1416	-0.000	0	DaressoMaleSmall02.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleMaul	1160	2684	3.1416	-0.000	0	DaressoFemaleSmall03.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleSword	1184	2685	3.1416	-0.000	0	DaressoMaleSmall03.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleMaul	890	2703	1.5708	-0.000	0	DaressoFemaleSmall03.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleSword	1201	2702	4.7124	-0.000	0	DaressoMaleSmall03.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleSword	890	2726	1.5708	-0.000	0	DaressoFemaleSmall04.tdt	0			
+Metadata/Monsters/Statue/MaleLarge/Spawner_DaressoStatueLargeMaleSpear	925	2725	4.7124	-0.000	0	DaressoMaleLarge02.tdt	0			
+Metadata/Monsters/Statue/MaleLarge/Spawner_DaressoStatueLargeMaleSpear	1167	2725	1.5708	-0.000	0	DaressoMaleLarge02.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleMaul	1201	2725	4.7124	-0.000	0	DaressoMaleSmall01.tdt	0			
+Metadata/NPC/Info/DaressoStatue3	1047	2791	0.0000	-43.907	6	merveilstatue_03.tdt	0			
+Metadata/Monsters/Statue/FemaleLarge/Spawner_DaressoStatueLargeFemaleSword	890	2817	1.5708	-0.000	0	DaressoFemaleLarge03.tdt	0			
+Metadata/Monsters/Statue/FemaleLarge/Spawner_DaressoStatueLargeFemaleSpear	926	2817	4.7124	-0.000	0	DaressoFemaleLarge02.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1226	2840	1.5708	-144.046	18	colosseum_entrance_v01_01.tdt	0	1	2775988652	GrandArenaExterior
+Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleMaul	890	2841	1.5708	-0.000	0	DaressoFemaleSmall03.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleBow	925	2840	4.7124	-0.000	0	DaressoMaleSmall02.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleMaul	1166	2841	1.5708	-0.000	0	DaressoFemaleSmall03.tdt	0			
+Metadata/Monsters/Statue/MaleLarge/Spawner_DaressoStatueLargeMaleSword	1161	2857	0.0000	-0.000	0	DaressoMaleLarge03.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleBow	1185	2858	0.0000	-0.000	0	DaressoFemaleSmall02.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	908	2882	3.1416	-10.185	1	colosseum_entrance_v01_02.tdt	0	1	1542485685	DaressoArenaName
+Metadata/MiscellaneousObjects/AreaTransitionMapMarkerTR	356	3135	3.1416	-228.849	29	daressotier3_wall_door_v01_01.tdt	0	1	3034878579	GrandArenaInterior
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsDaresso	356	3137	3.1416	3.362	0	daressotier3_wall_door_v01_01.tdt	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/MerveilsImage	564	1170	0.3446	-326.087	42	small_2_2_talk.arm	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/DaressoArenaTalk2	568	885	4.7124	0.000	0	small_2_2_talk.arm	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/DaressoArenaTalk1	771	257	0.0000	0.000	0	entrance_1.arm	0			
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockBoundBook	771	391	0.0168	0.000	0	waypoint_1.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	634	443	4.7124	0.000	0	colosseum_hallway_entrance_1.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	906	1547	1.5708	0.000	0	colosseum_hallway_entrance_1.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1001	1351	3.1416	0.000	0	colosseum_hallway_entrance_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	863	2041	3.1416	0.000	0	colosseum_hallway_entrance_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1133	2152	0.0000	0.000	0	colosseum_hallway_entrance_1.arm	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/MerveilGladiator	1668	2410	6.0393	-326.087	42	gladiators.arm	0			
+light	1380	1932	0.2619	0.000	0	gladiators.arm	0			
+medium	1380	1932	0.0000	0.000	0	gladiators.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	1139	2811	0.0000	0.000	0	colosseum_hallway_entrance_2_talk.arm	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/DaressoArenaTalk3	1160	2826	0.0000	0.000	0	colosseum_hallway_entrance_2_talk.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	906	2789	1.5708	0.000	0	colosseum_hallway_daressoentrance_1.arm	1			
+Metadata/Monsters/Daresso/ArenaMiddle	352	3225	1.5708	0.000	0	boss_1.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	906	443	1.5708	0.000	0	colosseum_hallway_entrance_1.arm	1			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/MerveilsImage	425	2271	6.2832	-336.957	43	large_1_1.arm	0			
+Metadata/Terrain/Mountain/Arena/Colosseum/Objects/MerveilsImage	1471	1116	1.5708	-326.087	42	small_1_2.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	1175	1461	0.0000	0.000	0	var_1_1.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1193	2693	1.5708	0.000	0	final_var_2_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	899	2693	4.7124	0.000	0	final_var_2_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	901	2159	3.1416	0.000	0	var_2_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	899	1453	4.7124	0.000	0	var_2_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	915	347	6.2832	0.000	0	var_2_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	625	347	0.0000	0.000	0	var_2_2.arm	1			

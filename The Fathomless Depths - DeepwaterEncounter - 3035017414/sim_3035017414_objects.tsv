@@ -1,0 +1,40 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/Terrain/Leagues/Deepwater/Objects/GhostflameCraftingBenchProps_Stage1	1173	138	0.0000	-0.000	0	DeepwaterHubBoatInterior.tdt	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/GhostflameCraftingBenchProps_Stage2	1127	138	0.0000	-0.000	0	DeepwaterHubBoatInterior.tdt	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/GhostflameCraftingBenchProps_Stage3	1127	161	0.0000	-0.000	0	DeepwaterHubBoatInterior.tdt	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/GhostflameCraftingBenchProps_Stage4	1127	115	0.0000	-0.000	0	DeepwaterHubBoatInterior.tdt	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/GhostflameCraftingBenchProps_Stage5	1150	138	0.0000	-0.000	0	DeepwaterHubBoatInterior.tdt	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/GhostflameCraftingBenchProps_Stage6	1104	138	0.0000	-0.000	0	DeepwaterHubBoatInterior.tdt	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/GhostflamePipes	1127	460	0.0000	-0.000	0	DeepwaterHubBoat.tdt	0			
+Metadata/MiscellaneousObjects/Waypoint	1198	485	3.1416	-570.000	73	DeepwaterHubBoat.tdt	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/CollectionChest	1170	435	4.5172	0.000	0	hub.arm	0			
+Metadata/MiscellaneousObjects/Deepwater/Boat_AreaTransition_Animate	1110	489	1.5708	-296.875	38	hub.arm	0	1	50	Stairs
+Metadata/MiscellaneousObjects/Stash	1157	494	6.0214	0.000	0	hub.arm	0			
+Metadata/MiscellaneousObjects/GuildStash	1144	495	0.0800	0.000	0	hub.arm	0			
+Metadata/NPC/League/Deepwater/ValerieTutorial	935	441	4.2062	0.000	0	hub.arm	0			
+Metadata/NPC/League/Deepwater/ValeriePlacerOne	1164	457	1.5708	0.000	0	hub.arm	0			
+Metadata/NPC/League/Deepwater/Valerie	944	479	1.5708	0.000	0	hub.arm	0			
+Metadata/NPC/League/Deepwater/ValeriePlacerTwo	1154	471	0.2793	0.000	0	hub.arm	0			
+Metadata/NPC/League/Deepwater/ValeriePlacerThree	1140	430	5.2648	0.000	0	hub.arm	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/ChartPortal	1112	383	0.0000	-75.000	10	hub.arm	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/BoatZoom	1116	459	1.5708	0.000	0	hub.arm	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/CorpseBattery	1215	459	0.0000	0.000	0	hub.arm	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/GhostflameExhaust	1159	424	0.0000	0.000	0	hub.arm	0			
+Metadata/MiscellaneousObjects/Deepwater/ChartLocker	1082	442	1.5738	0.000	0	hub.arm	0			
+Metadata/NPC/League/Deepwater/ValeriePostStory	948	471	1.5708	0.000	0	hub.arm	0			
+Metadata/NPC/League/Deepwater/ValerieVesperRevive	1201	446	2.4815	0.000	0	hub.arm	0			
+Metadata/Terrain/Doodads/Leagues/Deepwater/BlankSocket	1099	383	0.0000	-465.000	60	hub.arm	0			
+Metadata/Terrain/Doodads/Leagues/Deepwater/BlankSocket	1125	383	0.0000	-465.000	60	hub.arm	0			
+Metadata/Terrain/Doodads/Leagues/Deepwater/ChartPortalLocator	1112	384	0.0000	-465.000	60	hub.arm	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/LootSpiralMarker	1112	455	0.0000	0.000	0	hub.arm	1			
+Metadata/MiscellaneousObjects/Deepwater/Boat_AreaTransition_Animate	1077	178	4.7124	-260.000	33	hub_interior.arm	0	1	50	Stairs
+Metadata/NPC/League/Deepwater/VesperCrafting	1182	137	4.6815	0.000	0	hub_interior.arm	0			
+Metadata/MiscellaneousObjects/Stash	1014	165	1.2633	0.000	0	hub_interior.arm	0			
+Metadata/MiscellaneousObjects/GuildStash	1021	176	0.9224	0.000	0	hub_interior.arm	0			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	1052	103	4.7046	0.000	0	hub_interior.arm	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/GhostflameCraftingOutput	1166	164	0.0000	0.000	0	hub_interior.arm	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/GhostflameCraftingOutput	1137	164	0.0000	0.000	0	hub_interior.arm	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/GhostflameCraftingOutput	1137	111	3.1416	0.000	0	hub_interior.arm	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/GhostflameCraftingOutput	1166	111	3.1416	0.000	0	hub_interior.arm	0			
+Metadata/NPC/League/Deepwater/ValerieBelowDeckAfterFairgraves	1153	155	0.7490	0.000	0	hub_interior.arm	0			
+Metadata/NPC/League/Deepwater/ValerieBelowDeckCraftingTutorial	1157	155	0.6713	0.000	0	hub_interior.arm	0			

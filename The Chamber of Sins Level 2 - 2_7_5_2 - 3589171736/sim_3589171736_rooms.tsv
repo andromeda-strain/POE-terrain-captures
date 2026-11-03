@@ -1,0 +1,20 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Unique/entrance_1a.arm	35	35	3	node	default entrance1
+0	Metadata/Terrain/Act7/Area5Level2/Rooms/boss.arm	5	17	3	node	entrance2 killzone=0
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/hallway_open_1a.arm	23	5	2	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/RuinedTemple/Rooms/Unique/intro_cruel.arm	41	17	3	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/RuinedTemple/Rooms/Unique/intro_p2_end.arm	59	17	1	node	
+0	Metadata/Terrain/Act7/Area5Level2/Rooms/boss_zombie.arm	29	17	3	node	
+0	Metadata/Terrain/Act7/Area5Level2/Rooms/hideout_entrance.arm	29	11	5	node	link subarea=hideout
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_2x2/type_3a.arm	23	35	5	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/open_1a.arm	35	17	1	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/tri_1a.arm	29	5	4	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/tri_1a.arm	35	11	5	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/corner_1b.arm	35	5	3	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/hallway_straight_1b.arm	11	11	0	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/hallway_corner_1a.arm	11	5	1	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/hallway_straight_1b.arm	17	5	5	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/tri_1a.arm	35	29	1	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/open_blocked_1a.arm	35	23	6	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/corner_1b.arm	29	29	2	node	
+1	Metadata/Terrain/Missions/Hideouts/RuinedTemple/Rooms/hideout_claim.arm	78	0	0	node	link

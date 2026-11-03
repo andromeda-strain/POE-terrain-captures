@@ -1,0 +1,10 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	211	165	0.0000	78.790	-10	ascent_cliff_doorway_v01_01.tdt	0	0	46654	1_4_town
+Metadata/Terrain/Act4/Area7/Objects/PortalDevice	697	1810	5.5009	-1199.389	154	ascent_summit_01.arm	0			
+Metadata/Terrain/Act4/Area7/Objects/PortalDeviceTransition	685	1786	5.5289	-1222.487	156	ascent_summit_01.arm	0	0	38062	1_5_1
+Metadata/Terrain/Act4/Area7/Objects/PortalDeviceLever	703	1784	0.7854	-1224.864	157	ascent_summit_01.arm	0			
+Metadata/NPC/Info/ResonatorInstructions	661	1786	5.8444	-1191.576	153	ascent_summit_01.arm	0			
+Metadata/MiscellaneousObjects/CraftRecipeUnlockMarker	873	1375	4.2989	-500.000	64	ascent_trailend_01.arm	1			
+Metadata/MiscellaneousObjects/BridgeMarker	586	684	0.0000	-250.000	32	ascent_ravinebridge_01.arm	0			
+Metadata/MiscellaneousObjects/BridgeMarker	587	757	0.0000	-250.000	32	ascent_ravinebridge_01.arm	0			
+Metadata/Shrines/Shrine	682	890	0.6665	-250.000	32	shrine_1_1.arm	0			

@@ -1,0 +1,13 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Mountain/Mines/Rooms/Unique/town_entrance_1.arm	20	4	3	node	default entrance1
+0	Metadata/Terrain/Mountain/Mines/Rooms/Unique/entrance_1.arm	20	60	0	node	entrance2
+0	Metadata/Terrain/Mountain/Mines/Rooms/Unique/pikerivet_1.arm	20	36	1	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level1/1x1/var3_1.arm	12	4	2	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level1/1x1/var3_1.arm	20	28	2	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level1/2x2/var2_1.arm	36	20	4	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level1/1x1/var2_8.arm	4	4	1	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level1/1x1/var1_1.arm	4	36	7	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level1/2x2/var4_2.arm	12	44	6	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level1/1x1/var2_4.arm	28	28	5	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level1/1x1/var2_6.arm	12	12	7	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level1/2x2/var3_2.arm	4	20	7	node	

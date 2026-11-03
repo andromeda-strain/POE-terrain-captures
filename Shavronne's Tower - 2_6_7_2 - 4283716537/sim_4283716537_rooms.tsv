@@ -1,0 +1,72 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/Unique/entrance.arm	21	17	0	node	default entrance1 killzone=5
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/Unique/exit_up1.arm	9	25	0	node	telepad1 teleport2 killzone=5
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/Unique/exit_down1.arm	33	25	0	node	telepad2 teleport1 killzone=5
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/walled_1_1.arm	45	21	2	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/Unique/exit_up2.arm	53	25	0	node	telepad3 teleport4 killzone=5
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/Unique/exit_down2.arm	81	25	0	node	telepad4 teleport3 killzone=5
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/walled_2_1.arm	77	21	1	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/Unique/exit_up3.arm	85	13	3	node	telepad5 teleport6 killzone=5
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/Unique/exit_down3.arm	121	13	3	node	telepad6 teleport5 killzone=5
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/walled_3_1.arm	113	13	0	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/Unique/bossentry1.arm	105	17	0	node	telepad7 teleport8-ArenaNameShavronne killzone=1
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/Unique/boss1.arm	129	25	0	node	telepad8 teleport7-%areaname% telepad9 teleport10disabled-BrutusArenaName killzone=1
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/Unique/boss_brutus_exit.arm	145	5	0	node	telepad10 teleport9-ArenaNameShavronne accessible entrance2 AutoWaypoint
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/2x2/2b.arm	9	9	2	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/1x1/5b.arm	9	17	2	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/1x1/5b.arm	5	13	3	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/1x1/2b.arm	9	21	3	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_3.arm	33	21	7	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_5.arm	33	13	3	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_3.arm	49	21	6	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_5.arm	49	13	5	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/1x1/2d.arm	33	9	6	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/1x1/7a.arm	49	9	6	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_3.arm	65	13	3	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_4.arm	77	13	0	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_4.arm	65	21	7	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/1x1/2d.arm	113	9	2	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_5.arm	97	13	4	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_3.arm	97	21	7	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerWalkway/walkway_1_1.arm	105	21	6	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/1x1/3a.arm	97	5	5	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_2.arm	105	13	4	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/1x1/7a.arm	53	17	3	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_1.arm	49	17	5	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_2.arm	73	13	4	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/2x3/2c.arm	65	25	5	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_1.arm	69	21	2	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_5.arm	109	21	1	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_2.arm	101	21	6	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_2.arm	73	21	6	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_2.arm	41	21	6	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_2.arm	37	21	6	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_3.arm	113	17	1	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_6.arm	109	17	2	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_2.arm	97	17	3	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_2.arm	77	17	1	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_2.arm	65	17	3	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_2.arm	33	17	7	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_2.arm	109	13	4	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_2.arm	101	13	0	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_2.arm	69	13	0	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_2.arm	45	13	4	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_2.arm	41	13	4	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_2_2.arm	37	13	4	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/1x1/2d.arm	77	25	4	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/1x1/7b.arm	53	21	3	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/1x1/3b.arm	17	21	5	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/1x1/6a.arm	17	17	5	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/1x1/4b.arm	13	17	5	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/1x1/2d.arm	117	13	4	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/1x1/1h.arm	81	13	0	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/1x1/2d.arm	97	9	7	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/2x2/1a.arm	17	9	5	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/2x2/7a.arm	73	5	2	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/2x2/7a.arm	65	5	5	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_0.arm	45	17	5	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_0.arm	101	17	6	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_0.arm	73	17	1	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_0.arm	69	17	3	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_0.arm	41	17	0	node	
+0	Metadata/Terrain/Act6/Area7Level2/Rooms/TowerAbyss/var_0.arm	37	17	3	node	

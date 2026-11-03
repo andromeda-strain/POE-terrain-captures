@@ -1,0 +1,26 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	296	520	0.0000	-321.882	41	grovewall_entrance_v01_01.tdt	0	0	9666	2_7_9
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	953	518	3.1416	-32.755	4	treeforest_large_cliffs_v01_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	945	526	3.1416	-32.755	4	treeforest_large_cliffs_v01_01.tdt	1			
+Metadata/MiscellaneousObjects/Waypoint	885	793	1.5708	-15.508	2	forest_waypoint_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	907	804	1.5708	47.860	-6	forestriverbank_boat_v01_01.tdt	0			
+Metadata/QuestObjects/Act7/GreustShrine	639	1127	1.5708	-403.446	52	forest_azmeri_shrine.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	913	1833	3.1416	-448.888	57	forestriver_plinthtransition_v01_01.tdt	0	0	6589	2_7_10
+Metadata/MiscellaneousObjects/PortalTransition	896	795	4.7124	0.000	0	waypoint_river_1.arm	0	0	31950	2_7_7
+Metadata/Monsters/Skeletons/SkeletonMeleeAzmeri	685	1111	4.1888	-250.000	32	azmeri_quest_shrine.arm	0			
+Metadata/Monsters/Skeletons/SkeletonMeleeAzmeri3	704	1112	4.4506	-250.000	32	azmeri_quest_shrine.arm	0			
+Metadata/Monsters/Skeletons/SkeletonBowAzmeri3	673	1184	5.7596	-250.000	32	azmeri_quest_shrine.arm	0			
+Metadata/Monsters/Skeletons/SkeletonMeleeAzmeri	692	1121	4.1888	-250.000	32	azmeri_quest_shrine.arm	0			
+Metadata/Monsters/Skeletons/SkeletonBowAzmeri	694	1134	4.6251	-250.000	32	azmeri_quest_shrine.arm	0			
+Metadata/Monsters/Skeletons/SkeletonMeleeAzmeri	693	1146	5.0615	-250.000	32	azmeri_quest_shrine.arm	0			
+Metadata/Monsters/Skeletons/SkeletonMeleeAzmeri	685	1156	5.4105	-250.000	32	azmeri_quest_shrine.arm	0			
+Metadata/Monsters/Skeletons/SkeletonBowAzmeri	676	1165	5.5851	-250.000	32	azmeri_quest_shrine.arm	0			
+Metadata/Monsters/Skeletons/SkeletonMeleeAzmeri	666	1169	6.0214	-250.000	32	azmeri_quest_shrine.arm	0			
+Metadata/Monsters/Skeletons/SkeletonMeleeAzmeri	654	1168	5.9341	-250.000	32	azmeri_quest_shrine.arm	0			
+Metadata/Monsters/Skeletons/SkeletonMeleeAzmeri2	703	1127	4.6251	-250.000	32	azmeri_quest_shrine.arm	0			
+Metadata/Monsters/Skeletons/SkeletonMeleeAzmeri2	704	1141	4.6251	-250.000	32	azmeri_quest_shrine.arm	0			
+Metadata/Monsters/Skeletons/SkeletonBowAzmeri2	713	1134	4.6251	-250.000	32	azmeri_quest_shrine.arm	0			
+Metadata/Monsters/Skeletons/SkeletonBowAzmeri2	692	1166	5.5851	-250.000	32	azmeri_quest_shrine.arm	0			
+Metadata/Monsters/Skeletons/SkeletonBowAzmeri2	681	1176	5.5851	-250.000	32	azmeri_quest_shrine.arm	0			
+Metadata/Monsters/Skeletons/SkeletonMeleeAzmeri2	694	1180	5.5851	-250.000	32	azmeri_quest_shrine.arm	0			
+Metadata/Shrines/Shrine	780	1174	1.5708	-250.000	32	forest_01.arm	0			

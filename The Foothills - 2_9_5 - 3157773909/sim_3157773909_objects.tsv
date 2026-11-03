@@ -1,0 +1,6 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	412	470	4.7124	-305.332	39	foothill_to_desert_v01_01.tdt	0	0	41447	2_9_3
+Metadata/MiscellaneousObjects/AreaTransition	1233	837	4.7124	-475.844	61	foothills_to_boilinglake_v01_01.tdt	0	0	47522	2_9_6
+Metadata/MiscellaneousObjects/Waypoint	1069	793	3.1416	-516.917	66	beach_waypoint_v02_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1023	1768	4.7124	-906.249	116	descent_ravine_convex_winch_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	336	2015	0.0000	-1127.387	144	foothills_tunnel_exit_v01_01.tdt	0	0	9476	2_9_7

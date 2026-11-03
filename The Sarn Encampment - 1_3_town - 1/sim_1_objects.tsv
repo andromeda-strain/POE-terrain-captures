@@ -1,0 +1,28 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	398	184	0.0000	120.690	-15	Act3_town_01_01.tdt	0	0	20735	1_3_1
+Metadata/MiscellaneousObjects/AreaTransition	612	525	0.0000	-603.319	77	Act3_town_01_01.tdt	0	0	37655	1_3_2
+Metadata/MiscellaneousObjects/AreaTransition	299	647	0.0000	-1028.829	132	Act3_town_01_01.tdt	0	0	52994	ffa1_1
+Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.0000	-457.941	59	Act3_town_01_01.tdt	0	0	65071	Labyrinth_Airlock
+Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.0000	-357.592	46	Act3_town_01_01.tdt	0			
+Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.2133	-32.659	4	Act3_town_01_01.tdt	0			
+Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.0000	-357.592	46	Act3_town_01_01.tdt	0			
+Metadata/MiscellaneousObjects/Waypoint	311	326	0.0000	69.022	-9	Act3_town_01_01.tdt	0			
+Metadata/NPC/Act3/Hargan	372	471	5.7909	-18.343	2	city_town.arm	0			
+Metadata/NPC/Act3/Grigor	218	502	5.9230	54.688	-7	city_town.arm	0			
+Metadata/NPC/Act3/Maramoa	374	419	4.9214	-62.500	8	city_town.arm	0			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.2982	54.688	-7	city_town.arm	0			
+Metadata/MiscellaneousObjects/TownPortal	338	336	4.7054	0.000	0	city_town.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	336	317	4.4190	0.000	0	city_town.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	321	304	3.6143	0.000	0	city_town.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	301	302	2.7990	0.000	0	city_town.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	287	314	1.8892	0.000	0	city_town.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	285	334	1.5783	0.000	0	city_town.arm	1			
+Metadata/MiscellaneousObjects/GuildStash	303	428	0.7492	0.000	0	city_town.arm	0			
+Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.0277	0.000	0	city_town.arm	0			
+Metadata/MiscellaneousObjects/Stash	293	422	0.4055	0.000	0	city_town.arm	0			
+Metadata/NPC/Info/TutorialNPC	338	358	4.5170	0.000	0	city_town.arm	0			
+Metadata/MiscellaneousObjects/Necropolis/NecropolisLocker	352	372	4.9742	-21.060	3	city_town.arm	0			
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.0061	0.000	0	city_town.arm	0			
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.1364	0.000	0	city_town.arm	0			
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.1381	0.000	0	city_town.arm	0			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.5708	0.000	0	city_town.arm	0			

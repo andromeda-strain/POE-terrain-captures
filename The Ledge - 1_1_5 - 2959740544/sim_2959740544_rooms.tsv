@@ -1,0 +1,9 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act1/Area5/Rooms/ledge_passageway.arm	9	78	0	node	entrance2
+0	Metadata/Terrain/Act1/Area5/Rooms/ledge_caveentrance.arm	75	30	7	node	entrance1 default
+0	Metadata/Terrain/Act1/Area5/Rooms/waypoint.arm	33	18	2	node	
+0	Metadata/Terrain/Act1/Area5/Rooms/ledge_totem3.arm	18	42	6	node	
+0	Metadata/Terrain/Act1/Area5/Rooms/ledge_miniboss.arm	30	63	0	node	
+0	Metadata/Terrain/Act1/Area5/Rooms/karuistone.arm	18	21	5	node	
+0	Metadata/Terrain/Act1/Area5/Rooms/camp.arm	9	21	0	node	
+0	Metadata/Terrain/Act1/Area5/Rooms/ledge_totem1.arm	48	18	1	node	

@@ -1,0 +1,16 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1796	382	1.5708	-121.000	15	beach_sidearea_cave_v01.tdt	0	1	21977	%areaname%
+Metadata/MiscellaneousObjects/AreaTransition	1218	422	4.7124	-162.307	21	caveup_exit_v01_01.tdt	0	0	6299	2_6_14
+Metadata/MiscellaneousObjects/AreaTransition	261	689	0.0000	-162.307	21	caveup_exit_v01_01.tdt	0	1	2172386531	MapStairAlternativePassage
+Metadata/QuestObjects/BossArenaEntranceTransition	477	970	4.7124	-0.000	0	cavedown_boss_exit_v01_01.tdt	0	1	2172386531	MapStairAlternativePassage
+Metadata/MiscellaneousObjects/AreaTransition	882	1080	0.0000	-162.307	21	caveup_exit_v01_01.tdt	0			
+Metadata/QuestObjects/MerveilExitTransition	399	1116	0.0000	-264.126	34	merveil_exit_clean_v01_01.tdt	0	0	54720	2_6_12
+Metadata/QuestObjects/MerveilExit	398	1110	0.0000	-299.408	38	merveil_exit_clean_v01_01.tdt	0			
+Metadata/QuestObjects/MerveilExit	399	1111	0.0000	-288.133	37	merveil_exit_clean_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransitionToggleableReverse	1158	1149	3.1416	-162.307	21	coralhideout_exit.tdt	0	1	32961	HideoutCoralClaim
+Metadata/NPC/Act6/NessaMerveilsCaverns	465	1042	4.9742	-3.057	0	merveil_empty_nessa.arm	0			
+Metadata/Terrain/Cave/Objects/Part2MerveilExit	405	1071	0.0000	0.000	0	merveil_empty_nessa.arm	0			
+Metadata/Chests/QuestChests/BlackFlagChest	439	1045	4.3633	0.000	0	merveil_empty_nessa.arm	0			
+Metadata/Terrain/Act6/Area13/Objects/Switch_Hideout	1101	1168	1.5708	0.000	0	hideout_exit.arm	0			
+Metadata/Terrain/Act6/Area13/Objects/Door_Hideout	1161	1138	3.1416	-10.190	1	hideout_exit.arm	0			
+Metadata/NPC/Missions/HelenaClaim	1720	415	5.4837	0.000	0	hideout_coral_claimable.arm	0			

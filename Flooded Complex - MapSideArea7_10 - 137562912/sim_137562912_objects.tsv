@@ -1,0 +1,5 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/Door	493	860	0.0000	0.000	0	wildgrowth_door_thick_v02_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	120	969	0.0000	-93.822	12	wildgrowth_inca_exit_ots_v01_01.tdt	0	3		parent
+Metadata/NPC/Info/VaalLetters/VaalLetter_01	851	399	2.9225	-97.826	13	side_boss.arm	0			
+Metadata/Chests/SideArea/SideAreaChest	815	400	3.1416	0.000	0	side_boss.arm	0			

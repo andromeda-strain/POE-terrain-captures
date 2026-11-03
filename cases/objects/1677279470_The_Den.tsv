@@ -1,0 +1,8 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	1102	233	0.000 rad	2448909918	2_7_6					
+Object: Metadata/MiscellaneousObjects/Waypoint	1161	195	0.000 rad	552129418	2_7_6	1	-15.108			
+Monster: Tunnelfiend [Metadata/Monsters/DropBear/DropBearGround2@53]	860	222	3.927 rad	3571117496	2_7_6					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	1098	229	4.344 rad	1570723376	2_7_6					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	1102	230	1.571 rad	1792897079	2_7_6					
+Object: Metadata/MiscellaneousObjects/AreaTransitionMapMarker	1103	247	1.571 rad	3310307721	2_7_6			0	63498	The Chamber of Sins Level 2
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1145	185	0.000 rad	1450012487	2_7_6					

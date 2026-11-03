@@ -1,0 +1,55 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Dungeon/Rooms/Unique/entrance_1a.arm	61	33	2	node	default entrance1
+0	Metadata/Terrain/Dungeon/Rooms/Unique/exit_2a.arm	5	29	3	node	entrance2
+0	Metadata/Terrain/Dungeon/Rooms/Unique/side_inca_entrance_1.arm	61	5	7	node	sidearea1 accessible
+0	Metadata/Terrain/Dungeon/Rooms/Unique/releaseblack.arm	13	17	0	node	
+0	Metadata/Terrain/Dungeon/Rooms/Unique/corruption_altar_1.arm	29	33	5	node	
+0	Metadata/Terrain/Dungeon/Rooms/2x2/ruin_rooms_1a.arm	45	25	5	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x2/open_3a.arm	53	5	4	node	
+0	Metadata/Terrain/Dungeon/Rooms/2x2/corner_1a.arm	53	33	6	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/open_3a.arm	53	29	2	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x2/open_3a.arm	25	29	6	node	
+0	Metadata/Terrain/Dungeon/Rooms/2x2/abyss_2c.arm	33	25	5	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/open_1a.arm	25	25	5	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/type_1a.arm	9	25	3	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/open_3a.arm	49	21	4	node	
+0	Metadata/Terrain/Dungeon/Rooms/2x2/abyss_1a.arm	41	5	5	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1c.arm	49	5	0	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x2/open_5b.arm	33	21	6	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/open_2b.arm	25	21	1	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/open_1a.arm	9	21	2	node	
+0	Metadata/Terrain/Dungeon/Rooms/3x3/open_ruin_2b.arm	49	9	7	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/type_1a.arm	41	13	3	node	
+0	Metadata/Terrain/Dungeon/Rooms/2x2/ruin_rooms_1a.arm	33	13	5	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/end_1a.arm	37	41	0	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x2/corridor_1c.arm	29	41	0	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/type_1a.arm	25	41	4	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/end_1a.arm	21	41	1	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/end_2a.arm	33	5	5	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/end_1b.arm	37	5	2	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1c.arm	49	37	2	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1b.arm	33	9	3	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/end_2a.arm	37	9	5	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/end_2a.arm	45	37	4	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/end_1b.arm	17	13	2	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1c.arm	21	13	6	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/corner_2b.arm	25	13	0	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/end_1b.arm	37	37	7	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/end_1a.arm	5	17	5	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/end_1b.arm	9	17	5	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1c.arm	25	17	5	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/end_2a.arm	41	17	6	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/open_2b.arm	5	21	7	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/end_2a.arm	45	21	2	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/end_1a.arm	53	21	6	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/end_1b.arm	57	21	1	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1a.arm	25	37	3	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/end_1b.arm	5	25	4	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x2/blocked_1b.arm	53	25	2	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/open_3a.arm	49	33	3	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/type_1a.arm	21	29	2	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1c.arm	57	29	4	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/end_1a.arm	45	33	2	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x2/corridor_1a.arm	21	33	5	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1c.arm	25	33	1	node	
+0	Metadata/Terrain/Dungeon/Rooms/1x1/open_3b.arm	37	33	7	node	

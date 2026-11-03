@@ -1,0 +1,38 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Mountain/Mines/Rooms/Unique/entrance_2.arm	20	52	3	node	default entrance1
+0	Metadata/Terrain/Mountain/Mines/Rooms/Unique/entrance_3.arm	44	20	0	node	entrance2
+0	Metadata/Terrain/Mountain/Mines/Rooms/Unique/deshret_quest.arm	20	20	2	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Unique/voidscream_1.arm	20	12	4	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level2/1x2/var6_1.arm	44	4	1	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level2/1x1/var2_5.arm	4	12	7	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level2/1x1/var2_5.arm	12	52	3	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level2/1x1/var2_1.arm	12	44	2	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level2/1x2/var3_1.arm	12	4	4	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level2/1x1/var2_6.arm	28	4	1	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level2/1x1/var3_1.arm	36	4	5	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level2/1x1/var3_3.arm	12	12	5	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level2/1x1/var2_5.arm	28	12	7	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level2/1x1/var2_2.arm	36	12	4	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level2/2x2/var3_2.arm	4	20	0	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level2/1x1/var2_3.arm	28	20	7	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level2/1x1/var2_6.arm	12	36	2	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var2_6.arm	28	52	7	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var1_3.arm	20	28	6	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var2_2.arm	4	4	4	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var2_2.arm	4	52	7	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var2_3.arm	4	44	4	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var1_2.arm	4	36	1	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var2_5.arm	36	52	5	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/Blackfill.arm	28	44	6	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var2_4.arm	44	52	4	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var2_4.arm	36	44	3	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var2_1.arm	28	36	2	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var2_5.arm	44	44	2	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var2_3.arm	36	36	2	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var1_2.arm	44	36	3	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var2_5.arm	20	44	3	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var2_5.arm	44	28	0	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var1_1.arm	36	20	2	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/Blackfill.arm	28	28	6	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var2_5.arm	20	36	5	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms/Drillfill/var2_1.arm	36	28	5	node	

@@ -1,0 +1,18 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act6/Area5/Rooms/verdantfalls.arm	61	25	4	node	entrance2
+0	Metadata/Terrain/Act6/Area5/Rooms/transition.arm	16	7	4	node	default entrance1
+0	Metadata/Terrain/Act6/Area5/Rooms/miniboss.arm	34	7	0	node	telepad1 telepad2 telepad3 telepad4 teleport2-%areaname% teleport1-ArenaNameTukohama teleport3-ArenaNameTukohama teleport4-%areaname% killzone=0 bosszone=2-ArenaNameTukohama
+0	Metadata/Terrain/Act6/Area5/Rooms/bridge.arm	43	34	0	node	
+0	Metadata/Terrain/Act6/Area5/Rooms/tattoo_2.arm	25	25	2	node	
+0	Metadata/Terrain/Act6/Area5/Rooms/CliffWater/var_2_2.arm	7	16	3	node	
+0	Metadata/Terrain/Act6/Area5/Rooms/CliffWater/var_2_1.arm	52	34	1	node	
+0	Metadata/Terrain/Act6/Area5/Rooms/CliffWater/var_2_1.arm	25	7	3	node	
+0	Metadata/Terrain/Act6/Area5/Rooms/CliffWater/2x2/var_9_5.arm	52	7	5	node	
+0	Metadata/Terrain/Act6/Area5/Rooms/CliffWater/var_3_2.arm	25	16	7	node	
+0	Metadata/Terrain/Act6/Area5/Rooms/CliffWater/var_2_1.arm	7	25	7	node	
+0	Metadata/Terrain/Act6/Area5/Rooms/CliffWater/var_3_1.arm	16	25	3	node	
+0	Metadata/Terrain/Act6/Area5/Rooms/CliffWater/var_3.arm	52	25	2	node	
+0	Metadata/Terrain/Act6/Area5/Rooms/CliffWater/var_1_3.arm	34	34	2	node	
+0	Metadata/Terrain/Act6/Area5/Rooms/CliffWater/var_2_1.arm	16	34	7	node	
+0	Metadata/Terrain/Act6/Area5/Rooms/Fill/cliff.arm	7	7	0	node	
+0	Metadata/Terrain/Act6/Area5/Rooms/Fill/cliff.arm	7	34	1	node	

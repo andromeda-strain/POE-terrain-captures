@@ -1,0 +1,103 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	390	436	4.712 rad	2448909918	2_8_2_2					
+Metadata/Chests/Barrel4old	251	436	4.051 rad	2804926028	2_8_2_2					
+Metadata/Chests/Barrel3old	251	428	1.199 rad	3865749632	2_8_2_2					
+Metadata/Chests/Crate1	246	432	0.058 rad	1993491399	2_8_2_2					
+Metadata/Chests/Crate1	256	430	0.763 rad	1993491399	2_8_2_2					
+Metadata/Chests/Crate2	256	435	3.580 rad	589372418	2_8_2_2					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	386	432	1.595 rad	1570723376	2_8_2_2					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	390	433	1.571 rad	1792897079	2_8_2_2					
+Object: Metadata/MiscellaneousObjects/Waypoint	390	436	4.712 rad	552129418	2_8_2_2	2	-21.060			
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockGravestone	329	447	0.000 rad	1116692226	2_8_2_2					
+Monster: Sewer Goliath [Metadata/Monsters/MinerLarge/MinerLargeSewerElemental@56]	576	450	5.547 rad	3010251710	2_8_2_2					
+Monster: Sewer Goliath [Metadata/Monsters/MinerLarge/MinerLargeSewerElemental@56]	583	459	2.233 rad	3010251710	2_8_2_2					
+Monster: Sewer Goliath [Metadata/Monsters/MinerLarge/MinerLargeSewerElemental@56]	584	469	0.589 rad	3010251710	2_8_2_2					
+Monster: Sewer Goliath [Metadata/Monsters/MinerLarge/MinerLargeSewerElemental@56]	584	480	4.786 rad	3010251710	2_8_2_2					
+Monster: Sewer Goliath [Metadata/Monsters/MinerLarge/MinerLargeSewerElemental@56]	596	469	3.191 rad	3010251710	2_8_2_2					
+Metadata/Chests/Crate1	509	500	1.222 rad	1993491399	2_8_2_2					
+Monster: Sewer Goliath [Metadata/Monsters/MinerLarge/MinerLargeSewerElemental@56]	588	495	0.933 rad	3010251710	2_8_2_2					
+Monster: Sewer Goliath [Metadata/Monsters/MinerLarge/MinerLargeSewerElemental@56]	603	488	1.301 rad	3010251710	2_8_2_2					
+Metadata/Chests/Crate1	177	571	6.278 rad	1993491399	2_8_2_2					
+Metadata/Chests/Crate2	177	564	0.104 rad	589372418	2_8_2_2					
+Metadata/Chests/Crate1	186	565	0.830 rad	1993491399	2_8_2_2					
+Metadata/Chests/Barrel3old	184	572	5.568 rad	3865749632	2_8_2_2					
+Metadata/Chests/Barrel4old	189	570	0.916 rad	2804926028	2_8_2_2					
+Metadata/Chests/Crate1	189	575	5.774 rad	1993491399	2_8_2_2					
+Object: Metadata/MiscellaneousObjects/AreaTransition	160	601	0.000 rad	726109394	2_8_2_2	24	-192.849	0	57160	The Grand Promenade
+Monster: Undying Alchemist [Metadata/Monsters/Pyromaniac/PyromaniacPoison@56]	663	355	5.351 rad	2328785673	2_8_2_2					
+Metadata/Chests/Chest4	647	375	0.000 rad	1679736977	2_8_2_2					
+Monster: Undying Alchemist [Metadata/Monsters/Pyromaniac/PyromaniacPoison@56]	666	369	3.387 rad	2328785673	2_8_2_2					
+Monster: Undying Alchemist [Metadata/Monsters/Pyromaniac/PyromaniacPoison@56]	676	367	4.712 rad	2328785673	2_8_2_2					
+Monster: Undying Alchemist [Metadata/Monsters/Pyromaniac/PyromaniacPoison@56]	679	376	4.737 rad	2328785673	2_8_2_2					
+Monster: Undying Alchemist [Metadata/Monsters/Pyromaniac/PyromaniacPoison@56]	684	383	0.295 rad	2328785673	2_8_2_2					
+Monster: Undying Alchemist [Metadata/Monsters/Pyromaniac/PyromaniacPoison@56]	688	401	1.252 rad	2328785673	2_8_2_2					
+Metadata/Chests/Crate2	695	371	2.648 rad	589372418	2_8_2_2					
+Metadata/Chests/Barrel3old	703	377	2.534 rad	3865749632	2_8_2_2					
+Metadata/Chests/Crate2	697	376	4.871 rad	589372418	2_8_2_2					
+Metadata/Chests/Barrel2old	694	381	1.746 rad	3707287636	2_8_2_2					
+Object: Metadata/MiscellaneousObjects/AreaTransition	747	386	1.571 rad	726109394	2_8_2_2	17	-135.808	0	36496	The Quay
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	592	486	0.000 rad	1450012487	2_8_2_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	590	505	0.000 rad	1450012487	2_8_2_2					
+Monster: Daemon [Metadata/Monsters/Daemon/DaemonExplodingPusBubbles@56]	595	481	3.832 rad	4100969492	2_8_2_2					
+Object: Metadata/Effects/ServerEffect	595	481	0.000 rad	2646652649	2_8_2_2	0	-0.000			
+Metadata/Effects/Spells/shatter/ShatterEpic	595	481	3.832 rad	2429136184	2_8_2_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	597	491	4.369 rad	1418889786	2_8_2_2					
+Monster: Daemon [Metadata/Monsters/Daemon/DaemonExplodingPusBubbles@56]	597	491	4.218 rad	4100969492	2_8_2_2					
+Object: Metadata/Effects/ServerEffect	597	491	0.000 rad	2646652649	2_8_2_2	0	-0.000			
+Metadata/Effects/Spells/shatter/ShatterEpic	597	491	4.218 rad	2429136184	2_8_2_2					
+Monster: Daemon [Metadata/Monsters/Daemon/DaemonExplodingPusBubbles@56]	588	479	3.589 rad	4100969492	2_8_2_2					
+Object: Metadata/Effects/ServerEffect	588	479	0.000 rad	2646652649	2_8_2_2	0	-0.000			
+Metadata/Effects/Spells/shatter/ShatterEpic	588	479	3.589 rad	2429136184	2_8_2_2					
+Monster: Daemon [Metadata/Monsters/Daemon/DaemonExplodingPusBubbles@56]	580	475	3.346 rad	4100969492	2_8_2_2					
+Object: Metadata/Effects/ServerEffect	580	475	0.000 rad	2646652649	2_8_2_2	0	-0.000			
+Metadata/Effects/Spells/shatter/ShatterEpic	580	475	3.346 rad	2429136184	2_8_2_2					
+Monster: Daemon [Metadata/Monsters/Daemon/DaemonExplodingPusBubbles@56]	585	474	1.571 rad	4100969492	2_8_2_2					
+Object: Metadata/Effects/ServerEffect	585	474	0.000 rad	2646652649	2_8_2_2	0	-0.000			
+Metadata/Effects/Spells/shatter/ShatterEpic	585	474	1.571 rad	2429136184	2_8_2_2					
+Monster: Daemon [Metadata/Monsters/Daemon/DaemonExplodingPusBubbles@56]	592	474	2.356 rad	4100969492	2_8_2_2					
+Object: Metadata/Effects/ServerEffect	592	474	0.000 rad	2646652649	2_8_2_2	0	-0.000			
+Metadata/Effects/Spells/shatter/ShatterEpic	592	474	2.356 rad	2429136184	2_8_2_2					
+Monster: Daemon [Metadata/Monsters/Daemon/DaemonExplodingPusBubbles@56]	575	473	3.142 rad	4100969492	2_8_2_2					
+Object: Metadata/Effects/ServerEffect	575	473	0.000 rad	2646652649	2_8_2_2	0	-0.000			
+Metadata/Effects/Spells/shatter/ShatterEpic	575	473	3.142 rad	2429136184	2_8_2_2					
+Monster: Muck Vortex [Metadata/Monsters/WaterSpiral/WaterSpiralSewers@56]	910	617	1.424 rad	3625770628	2_8_2_2					
+Monster: Muck Vortex [Metadata/Monsters/WaterSpiral/WaterSpiralSewers@56]	918	623	3.412 rad	3625770628	2_8_2_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	659	385	3.387 rad	3875590990	2_8_2_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	670	392	5.530 rad	1418889786	2_8_2_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	670	392	4.038 rad	3875590990	2_8_2_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	677	394	3.127 rad	1418889786	2_8_2_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	677	394	4.040 rad	3875590990	2_8_2_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	674	383	4.983 rad	1418889786	2_8_2_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	674	383	3.904 rad	3875590990	2_8_2_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	674	368	5.094 rad	1418889786	2_8_2_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	674	368	3.743 rad	3875590990	2_8_2_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	683	370	1.131 rad	1418889786	2_8_2_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	683	370	3.871 rad	3875590990	2_8_2_2					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@56]	694	381	1.522 rad	3513339546	2_8_2_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	673	369	0.000 rad	1450012487	2_8_2_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	678	370	0.000 rad	1450012487	2_8_2_2					
+Monster: Muck Vortex [Metadata/Monsters/WaterSpiral/WaterSpiralSewers@56]	925	617	1.963 rad	3625770628	2_8_2_2					
+Object: Metadata/MiscellaneousObjects/Waypoint	390	436	4.712 rad	552129418	2_8_2_2	2	-21.060			
+Monster: Muck Vortex [Metadata/Monsters/WaterSpiral/WaterSpiralSewers@56]	910	617	1.424 rad	3625770628	2_8_2_2					
+Monster: Muck Vortex [Metadata/Monsters/WaterSpiral/WaterSpiralSewers@56]	925	617	1.963 rad	3625770628	2_8_2_2					
+Metadata/Chests/Chest25	968	618	0.000 rad	4273880312	2_8_2_2					
+Metadata/Characters/StrInt/StrInt	390	436	4.712 rad	2448909918	2_8_2_2					
+Metadata/Chests/Barrel4old	251	436	4.051 rad	2804926028	2_8_2_2					
+Metadata/Chests/Barrel3old	251	428	1.199 rad	3865749632	2_8_2_2					
+Metadata/Chests/Crate1	246	432	0.058 rad	1993491399	2_8_2_2					
+Metadata/Chests/Crate1	256	430	0.763 rad	1993491399	2_8_2_2					
+Metadata/Chests/Crate2	256	435	3.580 rad	589372418	2_8_2_2					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	386	432	4.320 rad	1570723376	2_8_2_2					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	390	433	6.160 rad	1792897079	2_8_2_2					
+Object: Metadata/MiscellaneousObjects/Waypoint	390	436	4.712 rad	552129418	2_8_2_2	2	-21.060			
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockGravestone	329	447	0.000 rad	1116692226	2_8_2_2					
+Metadata/Chests/Crate1	509	500	1.222 rad	1993491399	2_8_2_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	597	491	4.369 rad	1418889786	2_8_2_2					
+Metadata/Chests/Crate1	177	571	6.278 rad	1993491399	2_8_2_2					
+Metadata/Chests/Crate2	177	564	0.104 rad	589372418	2_8_2_2					
+Metadata/Chests/Crate1	186	565	0.830 rad	1993491399	2_8_2_2					
+Metadata/Chests/Barrel3old	184	572	5.568 rad	3865749632	2_8_2_2					
+Metadata/Chests/Barrel4old	189	570	0.916 rad	2804926028	2_8_2_2					
+Metadata/Chests/Crate1	189	575	5.774 rad	1993491399	2_8_2_2					
+Object: Metadata/MiscellaneousObjects/AreaTransition	160	601	0.000 rad	726109394	2_8_2_2	24	-192.849	0	57160	The Grand Promenade
+Metadata/Chests/Crate1	509	500	1.222 rad	1993491399	2_8_2_2					

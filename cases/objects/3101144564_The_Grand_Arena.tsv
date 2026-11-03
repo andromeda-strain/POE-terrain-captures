@@ -1,0 +1,650 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	770	205	3.229 rad	2448909918	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/AreaTransition	770	179	3.142 rad	726109394	1_4_5_2	0	-0.000	0	26176	Daresso's Dream
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	766	201	2.479 rad	1570723376	1_4_5_2					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	770	202	4.737 rad	1792897079	1_4_5_2					
+Metadata/Chests/ArmourRack1	738	209	1.571 rad	3961067590	1_4_5_2					
+Metadata/Chests/ArmourRack3	738	229	1.571 rad	2695625138	1_4_5_2					
+Metadata/Chests/WeaponRack5	801	209	4.712 rad	2679343626	1_4_5_2					
+Metadata/Chests/WeaponRack1	801	229	4.712 rad	1646025398	1_4_5_2					
+Metadata/Chests/WeaponRack2	738	249	1.571 rad	4186118306	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/DaressoArenaTalk1	771	257	0.000 rad	2235121946	1_4_5_2					
+Metadata/Chests/Urn1	639	321	6.137 rad	1421211170	1_4_5_2					
+Metadata/Chests/Urn4v2	642	319	2.434 rad	4242361032	1_4_5_2					
+Metadata/Chests/WeaponRack6	609	323	3.142 rad	3013563835	1_4_5_2					
+Metadata/Chests/Urn1	643	322	6.166 rad	1421211170	1_4_5_2					
+Metadata/Chests/Urn2v1	637	324	4.385 rad	2278403995	1_4_5_2					
+Object: Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleSword	632	339	3.142 rad	2174484090	1_4_5_2	0	-0.000			
+Metadata/Chests/Urn3	647	324	0.013 rad	3085105031	1_4_5_2					
+Object: Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleBow	908	339	3.142 rad	2756345837	1_4_5_2	0	-0.000			
+Metadata/Chests/ArmourRack2	942	339	4.712 rad	3314055612	1_4_5_2					
+Metadata/Chests/ArmourRack4	931	323	3.142 rad	1057572109	1_4_5_2					
+Object: Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleMaul	615	356	1.571 rad	1199609706	1_4_5_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Lion/Spawner_Lion	655	357	3.142 rad	102280688	1_4_5_2	0	-0.000			
+Object: Metadata/MiscellaneousObjects/Waypoint	770	356	3.142 rad	552129418	1_4_5_2	1	-15.108			
+Object: Metadata/Monsters/Statue/Lion/Spawner_Lion	885	357	3.142 rad	102280688	1_4_5_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleBow	926	355	4.712 rad	2565032654	1_4_5_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Lion/Spawner_Lion	633	379	1.571 rad	102280688	1_4_5_2	0	-0.000			
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_DaressoStatueLargeFemaleSpear	655	374	0.000 rad	3554855676	1_4_5_2	0	-0.000			
+Metadata/Chests/Basket3old	732	386	2.914 rad	3468315289	1_4_5_2					
+Metadata/Chests/ArmourRack2	750	390	0.000 rad	3314055612	1_4_5_2					
+Metadata/Chests/Basket3old	742	387	0.824 rad	3468315289	1_4_5_2					
+Metadata/Chests/ArmourRack4	790	390	0.000 rad	1057572109	1_4_5_2					
+Object: Metadata/Monsters/Statue/MaleLarge/Spawner_DaressoStatueLargeMaleSpear	885	373	0.000 rad	1728649962	1_4_5_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Lion/Spawner_Lion	907	379	4.712 rad	102280688	1_4_5_2	0	-0.000			
+Metadata/Chests/Basket1old	939	389	4.556 rad	2211595643	1_4_5_2					
+Metadata/Chests/Basket2old	944	388	6.241 rad	866946829	1_4_5_2					
+Metadata/Chests/Basket1old	737	391	1.396 rad	2211595643	1_4_5_2					
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockBoundBook	771	391	0.017 rad	1806537463	1_4_5_2					
+Metadata/Chests/Basket3old	939	394	2.916 rad	3468315289	1_4_5_2					
+Metadata/Chests/Basket1old	944	393	6.185 rad	2211595643	1_4_5_2					
+Metadata/Chests/ArmourRack4	598	467	1.571 rad	1057572109	1_4_5_2					
+Object: Metadata/Monsters/Statue/Lion/Spawner_Lion	609	470	0.000 rad	102280688	1_4_5_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Lion/Spawner_Lion	655	470	0.000 rad	102280688	1_4_5_2	0	-0.000			
+Metadata/Chests/WeaponRack6	669	466	4.712 rad	3013563835	1_4_5_2					
+Metadata/Chests/ArmourRack4	871	466	1.571 rad	1057572109	1_4_5_2					
+Object: Metadata/Monsters/Statue/Lion/Spawner_Lion	885	470	0.000 rad	102280688	1_4_5_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Lion/Spawner_Lion	931	470	0.000 rad	102280688	1_4_5_2	0	-0.000			
+Object: Metadata/MiscellaneousObjects/AreaTransition	632	536	3.142 rad	726109394	1_4_5_2	18	-144.046	1	2775988652	
+Object: Metadata/MiscellaneousObjects/AreaTransition	908	536	3.142 rad	726109394	1_4_5_2	18	-144.046	1	2775988652	
+Monster: Figment of Swords [Metadata/Monsters/Statue/DaressoStatueMaleSword@38]	632	339	3.142 rad	546515675	1_4_5_2					
+Monster: Majestic Statue [Metadata/Monsters/Statue/Lion@38]	633	379	1.571 rad	3947958643	1_4_5_2					
+Monster: Figment of Destruction [Metadata/Monsters/Statue/DaressoStatueMaleMaul@38]	615	356	1.571 rad	1962733590	1_4_5_2					
+Monster: Towering Figment [Metadata/Monsters/Statue/DaressoStatueLargeFemaleSpear@38]	655	374	0.000 rad	3598011092	1_4_5_2					
+Monster: Majestic Statue [Metadata/Monsters/Statue/Lion@38]	655	357	3.142 rad	3947958643	1_4_5_2					
+Monster: Majestic Statue [Metadata/Monsters/Statue/Lion@38]	609	470	0.000 rad	3947958643	1_4_5_2					
+Monster: Majestic Statue [Metadata/Monsters/Statue/Lion@38]	655	470	0.000 rad	3947958643	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner	563	793	3.142 rad	1094035947	1_4_5_2	0	3.362			
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	490	821	6.038 rad	588015740	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	466	849	3.780 rad	588015740	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	468	830	4.712 rad	588015740	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	486	830	2.577 rad	588015740	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	634	838	2.111 rad	3188738114	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	491	872	0.466 rad	588015740	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	483	856	2.553 rad	588015740	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/AreaTransition	563	851	4.712 rad	726109394	1_4_5_2	-4	36.969	1	3034878579	
+Monster: Icy Manifestation [Metadata/Monsters/IceElemental/IceElemental@38]	626	853	1.497 rad	4051301746	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	621	853	4.442 rad	3188738114	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	665	862	1.522 rad	588015740	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	653	853	0.295 rad	3188738114	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	681	856	1.694 rad	588015740	1_4_5_2					
+Monster: Daemon [Metadata/Monsters/LeagueBestiary/ModDaemonFire1@38]	681	856	2.135 rad	2366797763	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	477	890	1.055 rad	588015740	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	463	877	3.583 rad	588015740	1_4_5_2					
+Metadata/Chests/Chest16	504	885	4.712 rad	937110464	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/DaressoArenaTalk2	568	885	4.712 rad	2491454225	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	666	885	1.301 rad	588015740	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	459	908	1.571 rad	2089114364	1_4_5_2	0	-0.000			
+Metadata/Chests/Chest26	613	905	4.712 rad	634639336	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	667	908	4.712 rad	2089114364	1_4_5_2	0	-0.000			
+Metadata/Chests/Basket1old	730	919	2.053 rad	2211595643	1_4_5_2					
+Metadata/Chests/Basket2old	727	914	6.266 rad	866946829	1_4_5_2					
+Metadata/Chests/WeaponRack2	396	925	1.920 rad	4186118306	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	442	932	1.031 rad	588015740	1_4_5_2					
+Metadata/Chests/Basket2old	731	924	2.573 rad	866946829	1_4_5_2					
+Monster: Icy Manifestation [Metadata/Monsters/IceElemental/IceElemental@38]	427	951	3.755 rad	4051301746	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	433	945	2.209 rad	588015740	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	563	950	4.418 rad	3188738114	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	587	956	2.847 rad	3188738114	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	642	965	2.283 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	639	952	5.424 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	647	959	1.129 rad	2252139960	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner	379	977	1.571 rad	1094035947	1_4_5_2	0	3.362			
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	420	970	0.638 rad	588015740	1_4_5_2					
+Metadata/Chests/Chest16	489	974	4.974 rad	937110464	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	525	977	0.245 rad	3188738114	1_4_5_2					
+Metadata/Chests/Basket3old	539	975	1.992 rad	3468315289	1_4_5_2					
+Metadata/Chests/Basket2old	544	973	2.604 rad	866946829	1_4_5_2					
+Metadata/Chests/Basket1old	539	970	1.129 rad	2211595643	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	530	976	1.522 rad	3188738114	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	529	969	4.933 rad	3188738114	1_4_5_2					
+Monster: Icy Manifestation [Metadata/Monsters/IceElemental/IceElemental@38]	567	967	3.608 rad	4051301746	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	563	980	3.191 rad	3188738114	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	606	984	0.098 rad	588015740	1_4_5_2					
+Monster: Icy Manifestation [Metadata/Monsters/IceElemental/IceElemental@38]	665	986	1.669 rad	4051301746	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	651	971	3.240 rad	3188738114	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	430	1009	0.442 rad	588015740	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	463	1004	3.362 rad	588015740	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	526	992	3.608 rad	3188738114	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	545	1011	4.491 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	538	991	1.350 rad	3188738114	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	534	998	1.963 rad	3188738114	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	560	1006	4.369 rad	2252139960	1_4_5_2					
+Monster: Icy Manifestation [Metadata/Monsters/IceElemental/IceElemental@38]	613	1002	0.245 rad	4051301746	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	604	997	4.295 rad	588015740	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	653	997	6.160 rad	3188738114	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	662	992	1.252 rad	3188738114	1_4_5_2					
+Metadata/Chests/ArmourRack1	396	1027	1.222 rad	3961067590	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	421	1019	3.019 rad	588015740	1_4_5_2					
+Monster: Daemon [Metadata/Monsters/Daemon/DaemonGoatmanAmbushBestiaryMod_@38]	421	1019	3.264 rad	1647365092	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	550	1033	4.295 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	548	1017	0.368 rad	2252139960	1_4_5_2					
+Monster: Icy Manifestation [Metadata/Monsters/IceElemental/IceElemental@38]	555	1013	3.142 rad	4051301746	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	571	1013	6.185 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	574	1025	2.086 rad	2252139960	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	601	1013	1.571 rad	588015740	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	459	1046	1.571 rad	2089114364	1_4_5_2	0	-0.000			
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	667	1046	4.712 rad	2089114364	1_4_5_2	0	-0.000			
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	486	1080	4.172 rad	2252139960	1_4_5_2					
+Metadata/Chests/Chest21	530	1068	1.571 rad	3165843968	1_4_5_2					
+Metadata/Chests/Chest25	599	1068	4.712 rad	4273880312	1_4_5_2					
+Monster: Icy Manifestation [Metadata/Monsters/IceElemental/IceElemental@38]	681	1079	0.344 rad	4051301746	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	689	1079	4.909 rad	588015740	1_4_5_2					
+Metadata/Chests/Basket2old	422	1092	1.633 rad	866946829	1_4_5_2					
+Metadata/Chests/Basket1old	427	1088	0.672 rad	2211595643	1_4_5_2					
+Metadata/Chests/Basket1old	417	1091	1.758 rad	2211595643	1_4_5_2					
+Metadata/Chests/Basket1old	422	1097	5.554 rad	2211595643	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	468	1093	0.344 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	487	1092	0.319 rad	2252139960	1_4_5_2					
+Metadata/Chests/Urn2v1	643	1094	3.142 rad	2278403995	1_4_5_2					
+Metadata/Chests/Urn4v1	641	1087	0.682 rad	288426497	1_4_5_2					
+Metadata/Chests/Urn2v1	640	1092	3.359 rad	2278403995	1_4_5_2					
+Metadata/Chests/Urn4v2	651	1091	5.915 rad	4242361032	1_4_5_2					
+Metadata/Chests/Urn3	645	1090	2.598 rad	3085105031	1_4_5_2					
+Metadata/Chests/Urn1	646	1094	2.624 rad	1421211170	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	669	1096	0.565 rad	588015740	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	494	1110	6.160 rad	2252139960	1_4_5_2					
+Metadata/Chests/Basket1old	525	1145	0.699 rad	2211595643	1_4_5_2					
+Metadata/Chests/Basket3old	520	1147	4.454 rad	3468315289	1_4_5_2					
+Metadata/Chests/Basket1old	530	1145	5.230 rad	2211595643	1_4_5_2					
+Monster: Farric Ember Hellion [Metadata/Monsters/LeagueBestiary/HellionBestiaryClone@38]	527	862	4.050 rad	899877947	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/MerveilsImage	564	1170	0.345 rad	1894803238	1_4_5_2	41	-326.087			
+Object: Metadata/MiscellaneousObjects/AreaTransitionToggleableReverse	563	1166	0.000 rad	1390760111	1_4_5_2	0	-0.000	1	3034878579	
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoors	563	1161	0.000 rad	3465083057	1_4_5_2	0	3.362			
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumForward@38]	571	803	3.142 rad	2258914428	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumForward@38]	557	808	3.142 rad	2258914428	1_4_5_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	602	1058	0.000 rad	1450012487	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	565	1032	2.001 rad	2647986052	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	562	1012	2.425 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	568	1006	0.287 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	574	998	2.705 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	556	1001	2.034 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	568	978	0.000 rad	3875590990	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	545	973	2.200 rad	1418889786	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumForward@38]	571	803	3.142 rad	2258914428	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner	563	793	3.142 rad	1094035947	1_4_5_2	0	3.362			
+Object: Metadata/MiscellaneousObjects/WorldItem	539	970	1.364 rad	1418889786	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	539	975	1.432 rad	1418889786	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	625	1047	5.650 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	655	1077	4.957 rad	3875590990	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	671	1081	5.260 rad	1418889786	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	671	1081	3.459 rad	1418889786	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	671	1081	5.162 rad	2647986052	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	678	1019	4.419 rad	2647986052	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	613	1020	2.007 rad	2647986052	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	625	1008	4.313 rad	1418889786	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	625	1008	3.981 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	629	1001	1.571 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	593	981	4.712 rad	3875590990	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	564	909	0.000 rad	2646652649	1_4_5_2	0	-0.000			
+Metadata/Effects/Spells/shatter/ShatterLarge	594	971	4.249 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	593	962	2.034 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	603	965	2.678 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	610	961	4.202 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	621	954	2.396 rad	3875590990	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUp@38]	667	1046	4.712 rad	2917794769	1_4_5_2					
+Metadata/Chests/WeaponRack2	396	925	1.920 rad	4186118306	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	412	949	5.093 rad	588015740	1_4_5_2					
+Metadata/Chests/ArmourRack1	396	1027	1.222 rad	3961067590	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	586	985	1.571 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	591	982	5.663 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	581	980	2.954 rad	3875590990	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	586	980	4.455 rad	1418889786	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	586	980	0.000 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	591	976	4.910 rad	3875590990	1_4_5_2					
+Monster: Daemon [Metadata/Monsters/Daemons/BloodlinesBearerSelfBeaconDaemonFire@38]	586	980	5.792 rad	1913919838	1_4_5_2					
+Monster: Daemon [Metadata/Monsters/Daemons/BloodlinesBearerSelfBeaconDaemonFire@38]	591	976	2.307 rad	1913919838	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	573	975	2.944 rad	3875590990	1_4_5_2					
+Object: Metadata/Effects/Spells/monsters_effects/elemental_beacon_v2/fire/OTs/beacon	586	980	4.172 rad	2188208305	1_4_5_2					
+Object: Metadata/Effects/Spells/monsters_effects/elemental_beacon_v2/fire/OTs/beacon_aoe	586	980	0.000 rad	1754937929	1_4_5_2					
+Object: Metadata/Effects/Spells/monsters_effects/elemental_beacon_v2/fire/OTs/beacon	591	976	4.645 rad	2188208305	1_4_5_2					
+Object: Metadata/Effects/Spells/monsters_effects/elemental_beacon_v2/fire/OTs/beacon_aoe	591	976	0.000 rad	1754937929	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	576	970	1.571 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	588	968	3.420 rad	3875590990	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	656	1042	4.712 rad	3461188041	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	585	962	1.571 rad	3875590990	1_4_5_2					
+Monster: Daemon [Metadata/Monsters/Daemons/BloodlinesBearerSelfBeaconDaemonFire@38]	585	962	1.154 rad	1913919838	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	581	968	2.521 rad	3875590990	1_4_5_2					
+Object: Metadata/Effects/Spells/monsters_effects/elemental_beacon_v2/fire/OTs/beacon	585	962	3.350 rad	2188208305	1_4_5_2					
+Object: Metadata/Effects/Spells/monsters_effects/elemental_beacon_v2/fire/OTs/beacon_aoe	585	962	0.000 rad	1754937929	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	591	960	2.356 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	576	959	3.142 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	592	952	2.356 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	580	950	3.024 rad	3875590990	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner	379	977	1.571 rad	1094035947	1_4_5_2	0	3.362			
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	650	1050	4.712 rad	3461188041	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	554	953	4.842 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	579	945	2.993 rad	3875590990	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUp@38]	667	1046	4.712 rad	2917794769	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	656	1042	4.712 rad	3461188041	1_4_5_2					
+Monster: Farric Ember Hellion [Metadata/Monsters/LeagueBestiary/HellionBestiaryClone@38]	546	979	5.179 rad	899877947	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	650	1050	4.712 rad	3461188041	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	521	1082	1.279 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	500	1098	1.521 rad	3875590990	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	481	1102	1.444 rad	1418889786	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	481	1102	1.009 rad	3875590990	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	586	980	0.000 rad	2646652649	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	591	976	0.000 rad	2646652649	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	540	1128	2.356 rad	3875590990	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	530	1145	3.865 rad	1418889786	1_4_5_2					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_DaressoStatueLargeFemaleSpear	1028	1299	1.571 rad	3554855676	1_4_5_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleSword	1045	1304	3.142 rad	1450788713	1_4_5_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleSword	1029	1322	1.571 rad	2174484090	1_4_5_2	0	-0.000			
+Object: Metadata/MiscellaneousObjects/AreaTransition	1088	1322	1.571 rad	726109394	1_4_5_2	18	-144.046	1	2775988652	
+Metadata/Chests/ArmourRack1	1185	1425	3.142 rad	3961067590	1_4_5_2					
+Metadata/Chests/Basket1old	1218	1421	2.788 rad	2211595643	1_4_5_2					
+Metadata/Chests/Basket3old	1213	1421	0.954 rad	3468315289	1_4_5_2					
+Metadata/Chests/WeaponRack1	891	1426	3.142 rad	1646025398	1_4_5_2					
+Metadata/Chests/WeaponRack2	875	1437	1.571 rad	4186118306	1_4_5_2					
+Object: Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleBow	908	1443	3.142 rad	2756345837	1_4_5_2	0	-0.000			
+Metadata/Chests/Urn2v1	1023	1431	5.753 rad	2278403995	1_4_5_2					
+Metadata/Chests/Urn4v2	1028	1426	1.140 rad	4242361032	1_4_5_2					
+Metadata/Chests/Urn3	1020	1432	0.075 rad	3085105031	1_4_5_2					
+Metadata/Chests/Urn3	1016	1429	5.930 rad	3085105031	1_4_5_2					
+Object: Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleMaul	1160	1442	3.142 rad	3606344118	1_4_5_2	0	-0.000			
+Metadata/Chests/Basket3old	1218	1427	1.717 rad	3468315289	1_4_5_2					
+Object: Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleBow	1202	1436	4.712 rad	2565032654	1_4_5_2	0	-0.000			
+Metadata/Chests/Urn4v2	870	1471	6.267 rad	4242361032	1_4_5_2					
+Metadata/Chests/Urn2v1	871	1467	6.224 rad	2278403995	1_4_5_2					
+Metadata/Chests/Urn4v2	868	1467	0.804 rad	4242361032	1_4_5_2					
+Metadata/Chests/Urn3	876	1471	0.533 rad	3085105031	1_4_5_2					
+Object: Metadata/Monsters/Statue/Lion/Spawner_Lion	931	1461	3.142 rad	102280688	1_4_5_2	0	-0.000			
+Metadata/NPC/Info/DaressoStatue1	1046	1457	0.000 rad	4207509799	1_4_5_2	3	-24.818			
+Object: Metadata/Monsters/Statue/Lion/Spawner_Lion	1183	1460	4.712 rad	102280688	1_4_5_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Lion/Spawner_Lion	909	1483	1.571 rad	102280688	1_4_5_2	0	-0.000			
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_DaressoStatueLargeFemaleSpear	926	1483	4.712 rad	3554855676	1_4_5_2	0	-0.000			
+Metadata/Chests/Basket3old	1145	1492	5.273 rad	3468315289	1_4_5_2					
+Metadata/Chests/Basket3old	1150	1491	4.138 rad	3468315289	1_4_5_2					
+Object: Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleMaul	1162	1478	0.000 rad	3606344118	1_4_5_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleSword	1202	1482	4.712 rad	1450788713	1_4_5_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleMaul	891	1460	1.571 rad	1199609706	1_4_5_2	0	-0.000			
+Metadata/Chests/Basket1old	870	1489	3.665 rad	2211595643	1_4_5_2					
+Metadata/Chests/Basket2old	870	1494	0.926 rad	866946829	1_4_5_2					
+Metadata/Chests/Urn2v1	873	1472	5.245 rad	2278403995	1_4_5_2					
+Metadata/Chests/Urn1	868	1474	3.370 rad	1421211170	1_4_5_2					
+Metadata/Chests/Basket2old	875	1494	3.031 rad	866946829	1_4_5_2					
+Metadata/Chests/Basket2old	880	1491	2.014 rad	866946829	1_4_5_2					
+Metadata/Chests/ArmourRack3	1083	1496	3.142 rad	2695625138	1_4_5_2					
+Metadata/Chests/Basket1old	1147	1497	1.221 rad	2211595643	1_4_5_2					
+Metadata/Chests/ArmourRack3	1186	1496	0.000 rad	2695625138	1_4_5_2					
+Monster: Figment of Swords [Metadata/Monsters/Statue/DaressoStatueFemaleSword@38]	1045	1304	3.142 rad	1957688251	1_4_5_2					
+Object: Metadata/Monsters/Statue/Lion/Spawner_Lion	885	1574	0.000 rad	102280688	1_4_5_2	0	-0.000			
+Metadata/Chests/WeaponRack3	942	1571	4.712 rad	3932009639	1_4_5_2					
+Object: Metadata/Monsters/Statue/Lion/Spawner_Lion	931	1574	0.000 rad	102280688	1_4_5_2	0	-0.000			
+Monster: Figment of Swords [Metadata/Monsters/Statue/DaressoStatueMaleSword@38]	1029	1322	1.571 rad	546515675	1_4_5_2					
+Monster: Towering Figment [Metadata/Monsters/Statue/DaressoStatueLargeFemaleSpear@38]	1028	1299	1.571 rad	3598011092	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1045	1304	5.395 rad	1418889786	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1045	1304	3.142 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	1028	1299	1.571 rad	2429136184	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1029	1322	1.571 rad	3875590990	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/AreaTransition	908	1640	3.142 rad	726109394	1_4_5_2	18	-144.046	1	2775988652	
+Monster: Figment of Winds [Metadata/Monsters/Statue/DaressoStatueFemaleBow@38]	1202	1436	4.712 rad	3019447786	1_4_5_2					
+Monster: Figment of Destruction [Metadata/Monsters/Statue/DaressoStatueFemaleMaul@38]	1160	1442	3.142 rad	454215493	1_4_5_2					
+Monster: Majestic Statue [Metadata/Monsters/Statue/Lion@38]	1183	1460	4.712 rad	3947958643	1_4_5_2					
+Monster: Figment of Destruction [Metadata/Monsters/Statue/DaressoStatueFemaleMaul@38]	1162	1478	0.000 rad	454215493	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1160	1442	3.142 rad	3875590990	1_4_5_2					
+Monster: Figment of Swords [Metadata/Monsters/Statue/DaressoStatueFemaleSword@38]	1202	1482	4.712 rad	1957688251	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1183	1460	4.712 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1202	1436	4.712 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1162	1478	0.000 rad	3875590990	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1202	1482	6.046 rad	1418889786	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1202	1482	4.712 rad	3875590990	1_4_5_2					
+Object: Metadata/Monsters/Statue/Lion/Spawner_Lion	931	1461	3.142 rad	102280688	1_4_5_2	0	-0.000			
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_DaressoStatueLargeFemaleSpear	926	1483	4.712 rad	3554855676	1_4_5_2	0	-0.000			
+Metadata/Chests/WeaponRack3	942	1571	4.712 rad	3932009639	1_4_5_2					
+Object: Metadata/Monsters/Statue/Lion/Spawner_Lion	931	1574	0.000 rad	102280688	1_4_5_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleBow	908	1443	3.142 rad	2756345837	1_4_5_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Lion/Spawner_Lion	909	1483	1.571 rad	102280688	1_4_5_2	0	-0.000			
+Object: Metadata/MiscellaneousObjects/AreaTransition	908	1640	3.142 rad	726109394	1_4_5_2	18	-144.046	1	2775988652	
+Metadata/Chests/WeaponRack1	891	1426	3.142 rad	1646025398	1_4_5_2					
+Metadata/Chests/WeaponRack2	875	1437	1.571 rad	4186118306	1_4_5_2					
+Metadata/Chests/Urn3	876	1471	0.533 rad	3085105031	1_4_5_2					
+Object: Metadata/Monsters/Statue/Male/Spawner_DaressoStatueMaleMaul	891	1460	1.571 rad	1199609706	1_4_5_2	0	-0.000			
+Metadata/Chests/Basket2old	875	1494	3.031 rad	866946829	1_4_5_2					
+Metadata/Chests/Basket2old	880	1491	2.014 rad	866946829	1_4_5_2					
+Object: Metadata/Monsters/Statue/Lion/Spawner_Lion	885	1574	0.000 rad	102280688	1_4_5_2	0	-0.000			
+Metadata/Chests/Urn4v2	870	1471	6.267 rad	4242361032	1_4_5_2					
+Metadata/Chests/Urn2v1	871	1467	6.224 rad	2278403995	1_4_5_2					
+Metadata/Chests/Urn4v2	868	1467	0.804 rad	4242361032	1_4_5_2					
+Metadata/Chests/Basket1old	870	1489	3.665 rad	2211595643	1_4_5_2					
+Metadata/Chests/Basket2old	870	1494	0.926 rad	866946829	1_4_5_2					
+Metadata/Chests/Urn2v1	873	1472	5.245 rad	2278403995	1_4_5_2					
+Metadata/Chests/Urn1	868	1474	3.370 rad	1421211170	1_4_5_2					
+Monster: Majestic Statue [Metadata/Monsters/Statue/Lion@38]	909	1483	1.571 rad	3947958643	1_4_5_2					
+Monster: Figment of Winds [Metadata/Monsters/Statue/DaressoStatueMaleBow@38]	908	1443	3.142 rad	1177560163	1_4_5_2					
+Monster: Towering Figment [Metadata/Monsters/Statue/DaressoStatueLargeFemaleSpear@38]	926	1483	4.712 rad	3598011092	1_4_5_2					
+Monster: Figment of Destruction [Metadata/Monsters/Statue/DaressoStatueMaleMaul@38]	891	1460	1.571 rad	1962733590	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	908	1443	3.142 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	891	1460	1.571 rad	3875590990	1_4_5_2					
+Monster: Majestic Statue [Metadata/Monsters/Statue/Lion@38]	931	1461	3.142 rad	3947958643	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	931	1461	3.142 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterEpic	926	1483	4.712 rad	2429136184	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	909	1483	1.571 rad	3875590990	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	876	1471	5.425 rad	1418889786	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	873	1472	0.860 rad	1418889786	1_4_5_2					
+Object: Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleMaul	1160	1442	3.142 rad	3606344118	1_4_5_2	0	-0.000			
+Metadata/Chests/Basket3old	1150	1491	4.138 rad	3468315289	1_4_5_2					
+Object: Metadata/Monsters/Statue/Female/Spawner_DaressoStatueFemaleMaul	1162	1478	0.000 rad	3606344118	1_4_5_2	0	-0.000			
+Monster: Majestic Statue [Metadata/Monsters/Statue/Lion@38]	885	1574	0.000 rad	3947958643	1_4_5_2					
+Monster: Majestic Statue [Metadata/Monsters/Statue/Lion@38]	931	1574	0.000 rad	3947958643	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	931	1574	0.000 rad	3875590990	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner	425	1759	3.142 rad	1094035947	1_4_5_2	0	3.362			
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	418	1771	0.614 rad	3188738114	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	421	1791	2.135 rad	3188738114	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	449	1781	2.970 rad	3188738114	1_4_5_2					
+Metadata/Chests/Basket1old	567	1837	3.977 rad	2211595643	1_4_5_2					
+Metadata/Chests/Basket3old	562	1832	4.767 rad	3468315289	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	306	1862	1.767 rad	588015740	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	320	1848	3.657 rad	588015740	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/AreaTransition	494	1840	1.571 rad	726109394	1_4_5_2	-4	36.969	1	3034878579	
+Metadata/Chests/Basket1old	563	1842	5.854 rad	2211595643	1_4_5_2					
+Metadata/Chests/Basket2old	581	1861	1.027 rad	866946829	1_4_5_2					
+Metadata/Chests/Basket1old	580	1856	1.708 rad	2211595643	1_4_5_2					
+Metadata/Chests/Basket1old	576	1861	3.310 rad	2211595643	1_4_5_2					
+Metadata/Chests/Basket3old	575	1853	4.382 rad	3468315289	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	320	1878	1.325 rad	588015740	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	329	1873	3.191 rad	588015740	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	370	1884	5.007 rad	3188738114	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	537	1884	3.412 rad	2252139960	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	356	1908	3.142 rad	2089114364	1_4_5_2	0	-0.000			
+Monster: Icy Manifestation [Metadata/Monsters/IceElemental/IceElemental@38]	374	1892	3.215 rad	4051301746	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	375	1886	1.424 rad	3188738114	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	392	1891	5.007 rad	3188738114	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	400	1897	4.369 rad	3188738114	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	533	1890	3.461 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	537	1895	2.872 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	543	1888	1.963 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	556	1894	4.222 rad	2252139960	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	340	1923	0.417 rad	588015740	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	361	1915	6.062 rad	3188738114	1_4_5_2					
+Monster: Icy Manifestation [Metadata/Monsters/IceElemental/IceElemental@38]	357	1923	4.786 rad	4051301746	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	349	1923	0.025 rad	588015740	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	451	1929	0.614 rad	588015740	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	356	1948	3.093 rad	588015740	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	346	1945	3.534 rad	588015740	1_4_5_2					
+Monster: Icy Manifestation [Metadata/Monsters/IceElemental/IceElemental@38]	445	1941	4.295 rad	4051301746	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	458	1937	5.670 rad	588015740	1_4_5_2					
+Metadata/Chests/Urn4v2	498	1943	5.734 rad	4242361032	1_4_5_2					
+Metadata/Chests/Urn4v1	495	1942	5.561 rad	288426497	1_4_5_2					
+Metadata/Chests/Urn4v1	498	1948	2.902 rad	288426497	1_4_5_2					
+Metadata/Chests/Urn4v1	501	1941	3.348 rad	288426497	1_4_5_2					
+Metadata/Chests/Urn2v1	498	1940	2.607 rad	2278403995	1_4_5_2					
+Metadata/Chests/Urn4v1	506	1943	4.108 rad	288426497	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner	609	1943	4.712 rad	1094035947	1_4_5_2	0	3.362			
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	426	1972	1.914 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	428	1967	4.222 rad	2252139960	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	444	1958	1.350 rad	588015740	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	456	1977	1.571 rad	3188738114	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	483	1966	4.712 rad	2089114364	1_4_5_2	0	-0.000			
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	422	1987	3.412 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	416	1989	2.675 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	446	1986	0.638 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	441	1997	0.466 rad	3188738114	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSwordShield@38]	477	1998	2.577 rad	3188738114	1_4_5_2					
+Metadata/Chests/Chest26	517	1999	6.283 rad	634639336	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	258	2020	3.412 rad	588015740	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	277	2015	3.829 rad	588015740	1_4_5_2					
+Metadata/Chests/Chest16	530	2010	1.571 rad	937110464	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner	609	2012	4.712 rad	1094035947	1_4_5_2	0	3.362			
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	533	2046	3.952 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	543	2032	5.890 rad	2252139960	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	366	2063	3.583 rad	588015740	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	389	2056	4.590 rad	588015740	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	560	2052	3.632 rad	2252139960	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	290	2073	2.626 rad	588015740	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	357	2071	5.719 rad	588015740	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	401	2070	1.963 rad	588015740	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	449	2071	4.197 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	471	2077	5.007 rad	2252139960	1_4_5_2					
+Metadata/Chests/Chest25	531	2081	1.571 rad	4273880312	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	545	2071	0.933 rad	2252139960	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner	609	2081	4.712 rad	1094035947	1_4_5_2	0	3.362			
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	281	2110	0.687 rad	588015740	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	286	2103	0.417 rad	588015740	1_4_5_2					
+Metadata/Chests/WeaponRack1	331	2094	3.229 rad	1646025398	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	455	2100	3.559 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	411	2127	6.136 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	411	2136	0.638 rad	2252139960	1_4_5_2					
+Monster: Icy Manifestation [Metadata/Monsters/IceElemental/IceElemental@38]	424	2129	3.093 rad	4051301746	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	424	2123	5.498 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	417	2124	6.136 rad	2252139960	1_4_5_2					
+Monster: Nemesis Daemon [Metadata/Monsters/Daemon/NemesisDaemonLightningStorm@38]	424	2129	2.602 rad	716967271	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	451	2135	1.546 rad	2252139960	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	537	1884	5.260 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	533	1890	5.410 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	543	1888	5.265 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	537	1895	5.433 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	556	1894	5.240 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	457	1918	4.172 rad	3875590990	1_4_5_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	520	1928	0.000 rad	1450012487	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	469	1933	2.267 rad	1418889786	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	469	1933	3.252 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	457	1936	0.540 rad	3875590990	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	448	1934	3.969 rad	1418889786	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	448	1934	0.464 rad	2647986052	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	449	1948	1.081 rad	3875590990	1_4_5_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	520	1923	0.000 rad	1450012487	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	445	1959	0.785 rad	3875590990	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	321	2150	1.571 rad	2089114364	1_4_5_2	0	-0.000			
+Metadata/Chests/Chest21	368	2148	4.712 rad	3165843968	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	402	2139	0.000 rad	2089114364	1_4_5_2	0	-0.000			
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	418	2142	3.657 rad	2252139960	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand	448	2139	0.000 rad	2089114364	1_4_5_2	0	-0.000			
+Monster: Icy Manifestation [Metadata/Monsters/IceElemental/IceElemental@38]	500	2154	3.043 rad	4051301746	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	486	2154	4.590 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	495	2145	1.448 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	502	2146	0.417 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	507	2158	3.485 rad	2252139960	1_4_5_2					
+Monster: Adolescent Saqawine Rhoa [Metadata/Monsters/LeagueBestiary/RhoaBestiaryMinion_@38]	514	2155	3.780 rad	2479706898	1_4_5_2					
+Monster: Aggressive Saqawine Rhoa [Metadata/Monsters/LeagueBestiary/RhoaBestiaryMinionCharge@38]	511	2149	2.111 rad	2130199251	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	538	2148	4.639 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	557	2161	5.621 rad	2252139960	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	258	2020	3.412 rad	588015740	1_4_5_2					
+Monster: Saqawine Rhoa [Metadata/Monsters/LeagueBestiary/RhoaBestiary@38]	498	2171	1.374 rad	181906941	1_4_5_2					
+Monster: Adolescent Saqawine Rhoa [Metadata/Monsters/LeagueBestiary/RhoaBestiaryMinion_@38]	485	2175	5.301 rad	2479706898	1_4_5_2					
+Monster: Adolescent Saqawine Rhoa [Metadata/Monsters/LeagueBestiary/RhoaBestiaryMinion_@38]	505	2175	1.252 rad	2479706898	1_4_5_2					
+Monster: Aggressive Saqawine Rhoa [Metadata/Monsters/LeagueBestiary/RhoaBestiaryMinionCharge@38]	496	2181	4.344 rad	2130199251	1_4_5_2					
+Monster: Daemon [Metadata/Monsters/Daemon/Archnemesis/FrostWalkerDaemon@38]	498	2171	4.467 rad	83977641	1_4_5_2					
+Monster: Daemon [Metadata/Monsters/LeagueBestiary/ModDaemonVultureBomb1@38]	498	2171	2.479 rad	3628562018	1_4_5_2					
+Monster: Daemon [Metadata/Monsters/Daemon/DaemonRavenStormBestiaryMod@38]	498	2171	1.154 rad	3628752381	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	498	2171	1.237 rad	316014466	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	479	1950	0.350 rad	1418889786	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	479	1950	0.988 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	481	1957	5.093 rad	3875590990	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	483	1962	4.596 rad	1418889786	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	483	1962	4.712 rad	3875590990	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner	241	2081	1.571 rad	1094035947	1_4_5_2	0	3.362			
+Metadata/Effects/Spells/shatter/ShatterLarge	458	1968	0.814 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	462	1974	0.748 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	431	1978	0.785 rad	3875590990	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	314	2206	5.596 rad	2252139960	1_4_5_2					
+Monster: Icy Manifestation [Metadata/Monsters/IceElemental/IceElemental@38]	325	2202	3.510 rad	4051301746	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	336	2202	4.516 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	350	2195	2.675 rad	2252139960	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	487	2201	1.154 rad	588015740	1_4_5_2					
+Monster: Adolescent Saqawine Rhoa [Metadata/Monsters/LeagueBestiary/RhoaBestiaryMinion_@38]	508	2192	1.522 rad	2479706898	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUp@38]	483	1966	4.712 rad	2917794769	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	472	1962	4.712 rad	3461188041	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	342	2218	1.325 rad	2252139960	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	487	2208	5.203 rad	588015740	1_4_5_2					
+Monster: Fighting Bull [Metadata/Monsters/Bull/Bull@38]	504	2220	3.632 rad	588015740	1_4_5_2					
+Monster: Daemon [Metadata/Monsters/Daemon/DaemonGoatmanAmbushBestiaryMod_@38]	487	2208	5.130 rad	1647365092	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	466	1970	4.712 rad	3461188041	1_4_5_2					
+Metadata/Chests/Urn3	342	2242	1.835 rad	3085105031	1_4_5_2					
+Metadata/Chests/Urn4v1	347	2241	1.854 rad	288426497	1_4_5_2					
+Metadata/Chests/Urn4v1	350	2240	5.729 rad	288426497	1_4_5_2					
+Metadata/Chests/Urn4v2	350	2243	1.679 rad	4242361032	1_4_5_2					
+Metadata/Chests/Urn1	353	2244	3.002 rad	1421211170	1_4_5_2					
+Metadata/Chests/ArmourRack2	463	2250	1.571 rad	3314055612	1_4_5_2					
+Metadata/Chests/WeaponRack5	478	2247	1.571 rad	2679343626	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUp@38]	483	1966	4.712 rad	2917794769	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	472	1962	4.712 rad	3461188041	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	506	2170	4.134 rad	316014466	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	426	2030	5.407 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	385	1960	1.446 rad	3875590990	1_4_5_2					
+Monster: Daemon [Metadata/Monsters/LeagueBestiary/ModDaemonVultureBombCast1@38]	502	2164	3.878 rad	4292832334	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	512	2174	1.883 rad	316014466	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	384	1943	1.989 rad	3875590990	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	466	1970	4.712 rad	3461188041	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	363	1920	2.852 rad	2647986052	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	468	2074	5.797 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	509	2181	2.280 rad	316014466	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	465	2086	5.549 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	403	2027	4.249 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	395	2041	6.242 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	405	2041	3.115 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	369	2049	0.395 rad	3875590990	1_4_5_2					
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/MerveilsImage	425	2271	6.283 rad	1894803238	1_4_5_2	43	-336.957			
+Object: Metadata/MiscellaneousObjects/AreaTransitionToggleableReverse	425	2270	0.000 rad	1390760111	1_4_5_2	0	-0.000	1	3034878579	
+Object: Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoors	425	2265	0.000 rad	3465083057	1_4_5_2	0	3.362			
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	420	2098	0.000 rad	1450012487	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	515	2174	4.055 rad	316014466	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	410	2104	5.498 rad	3875590990	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	422	2114	3.969 rad	1418889786	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	422	2114	4.756 rad	1418889786	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	422	2114	1.684 rad	1418889786	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	422	2114	6.159 rad	2647986052	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	410	2121	6.231 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	405	2118	0.176 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	421	2125	6.127 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	413	2137	6.233 rad	3875590990	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	435	2112	2.409 rad	1418889786	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	435	2112	0.000 rad	3875590990	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	459	2052	0.350 rad	1418889786	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	459	2052	4.249 rad	3875590990	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	463	2042	4.184 rad	1418889786	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	463	2042	4.141 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	470	2060	4.566 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	451	2024	2.535 rad	316014466	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	451	2024	0.000 rad	2646652649	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	460	2010	4.228 rad	316014466	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	460	2010	0.000 rad	2646652649	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	460	2010	3.194 rad	2647986052	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	510	2170	6.140 rad	316014466	1_4_5_2					
+Monster: Farric Bleeter [Metadata/Monsters/LeagueBestiary/GoatmanLeapSlamAmbush@38]	490	2201	5.154 rad	4049579885	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	427	2062	2.882 rad	1418889786	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	427	2062	2.453 rad	316014466	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	427	2062	0.000 rad	2646652649	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	427	2062	2.554 rad	2647986052	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	424	2045	2.082 rad	316014466	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	424	2045	0.000 rad	2646652649	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	424	2045	3.142 rad	2647986052	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	431	2043	3.037 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	440	2042	3.142 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	408	2038	3.142 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	436	2031	2.315 rad	316014466	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	436	2031	0.000 rad	2646652649	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	436	2031	3.927 rad	2647986052	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	425	2031	3.897 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	446	2046	0.042 rad	316014466	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	446	2046	0.000 rad	2646652649	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	446	2046	3.605 rad	2647986052	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	506	2163	1.516 rad	316014466	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	448	2024	3.444 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	510	2158	1.699 rad	316014466	1_4_5_2					
+Monster: Farric Bleeter [Metadata/Monsters/LeagueBestiary/GoatmanLeapSlamAmbush@38]	396	2117	0.221 rad	4049579885	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	458	2119	5.523 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	470	2114	5.206 rad	3875590990	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	465	2117	5.498 rad	2647986052	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	509	2151	4.570 rad	316014466	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	509	2151	2.695 rad	316014466	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	484	2141	3.257 rad	1418889786	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	484	2141	5.961 rad	3875590990	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	497	2146	5.498 rad	2647986052	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	505	2145	5.224 rad	316014466	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	492	2160	2.409 rad	1418889786	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	492	2160	5.776 rad	2647986052	1_4_5_2					
+Monster: Einhar, Beastmaster [Metadata/Monsters/Masters/Einhar@38]	515	2095	2.356 rad	2381220893	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	515	2095	5.618 rad	2646652649	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	501	2160	5.475 rad	2647986052	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	489	2167	6.038 rad	2647986052	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	452	2196	5.176 rad	3875590990	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	511	2165	5.498 rad	2647986052	1_4_5_2					
+Monster: Farric Bleeter [Metadata/Monsters/LeagueBestiary/GoatmanLeapSlamAmbush@38]	375	2124	4.320 rad	4049579885	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	499	2139	0.647 rad	316014466	1_4_5_2					
+Monster: Aggressive Saqawine Rhoa [Metadata/Monsters/LeagueBestiary/RhoaBestiaryMinionCharge@38]	522	2161	5.476 rad	2130199251	1_4_5_2					
+Monster: Daemon [Metadata/Monsters/LeagueBestiary/ModDaemonVultureBombCast1@38]	515	2141	2.626 rad	4292832334	1_4_5_2					
+Monster: Farric Bleeter [Metadata/Monsters/LeagueBestiary/GoatmanLeapSlamAmbush@38]	447	2111	2.970 rad	4049579885	1_4_5_2					
+Monster: Aggressive Saqawine Rhoa [Metadata/Monsters/LeagueBestiary/RhoaBestiaryMinionCharge@38]	519	2132	4.376 rad	2130199251	1_4_5_2					
+Monster: Aggressive Saqawine Rhoa [Metadata/Monsters/LeagueBestiary/RhoaBestiaryMinionCharge@38]	474	2121	2.195 rad	2130199251	1_4_5_2					
+Monster: Adolescent Saqawine Rhoa [Metadata/Monsters/LeagueBestiary/RhoaBestiaryMinion_@38]	530	2154	5.163 rad	2479706898	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	364	2072	1.571 rad	3875590990	1_4_5_2					
+Object: Metadata/Monsters/traps/ToraTrap	515	2095	3.613 rad	2070376987	1_4_5_2					
+Object: Metadata/Monsters/traps/ToraTrap	515	2095	3.717 rad	2070376987	1_4_5_2					
+Object: Metadata/Monsters/traps/ToraTrap	515	2095	3.481 rad	2070376987	1_4_5_2					
+Object: Metadata/Monsters/traps/ToraTrap	515	2095	3.277 rad	2070376987	1_4_5_2					
+Object: Metadata/Monsters/traps/ToraTrap	515	2095	3.395 rad	2070376987	1_4_5_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	363	2095	0.000 rad	1450012487	1_4_5_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	388	2094	0.000 rad	1450012487	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	324	2069	1.571 rad	3875590990	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	384	2082	1.394 rad	2646652649	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	515	2095	2.920 rad	2646652649	1_4_5_2					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	403	2089	0.000 rad	1450012487	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	457	2193	4.712 rad	3875590990	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	454	2115	4.983 rad	2647986052	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	470	2129	5.149 rad	2647986052	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	503	2136	6.224 rad	1418889786	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	499	2139	1.677 rad	1418889786	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	499	2139	5.831 rad	1418889786	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	503	2139	2.624 rad	1418889786	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	499	2139	4.836 rad	1418889786	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	499	2139	4.061 rad	1418889786	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	499	2139	1.008 rad	1418889786	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	499	2139	2.992 rad	1418889786	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	504	2142	0.012 rad	1418889786	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	499	2139	4.025 rad	1418889786	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	474	2162	0.828 rad	2646652649	1_4_5_2	0	0.000			
+Metadata/Projectiles/EinharGrenadeMortarTriggerNova	425	2139	2.416 rad	299342788	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	357	2126	0.858 rad	3875590990	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUp@38]	402	2139	0.000 rad	2917794769	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUp@38]	448	2139	0.000 rad	2917794769	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	344	2174	0.602 rad	3875590990	1_4_5_2					
+Object: Metadata/Monsters/traps/ToraTrap	384	2088	2.301 rad	2070376987	1_4_5_2					
+Object: Metadata/Monsters/traps/ToraTrap	384	2088	2.482 rad	2070376987	1_4_5_2					
+Object: Metadata/Monsters/traps/ToraTrap	384	2088	2.678 rad	2070376987	1_4_5_2					
+Object: Metadata/Monsters/traps/ToraTrap	384	2088	2.678 rad	2070376987	1_4_5_2					
+Object: Metadata/Monsters/traps/ToraTrap	384	2088	2.356 rad	2070376987	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	406	2128	0.000 rad	3461188041	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	452	2128	0.000 rad	3461188041	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	398	2122	0.000 rad	3461188041	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	444	2122	0.000 rad	3461188041	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUp@38]	402	2139	0.000 rad	2917794769	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	406	2128	0.000 rad	3461188041	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	402	2139	0.332 rad	1418889786	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	402	2139	4.534 rad	316014466	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	402	2139	0.000 rad	2646652649	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	402	2139	5.498 rad	2647986052	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUp@38]	448	2139	0.000 rad	2917794769	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUp@38]	321	2150	1.571 rad	2917794769	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	448	2139	6.138 rad	1418889786	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	448	2139	2.030 rad	316014466	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	448	2139	0.000 rad	2646652649	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	448	2139	5.498 rad	2647986052	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	452	2128	0.000 rad	3461188041	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	398	2122	0.000 rad	3461188041	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	332	2154	1.571 rad	3461188041	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	444	2122	0.000 rad	3461188041	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	338	2146	1.571 rad	3461188041	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	426	2102	3.319 rad	2646652649	1_4_5_2	0	0.000			
+Object: Metadata/MiscellaneousObjects/WorldItem	420	2136	3.318 rad	1418889786	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	420	2136	4.664 rad	1418889786	1_4_5_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	420	2136	2.679 rad	1418889786	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUp@38]	321	2150	1.571 rad	2917794769	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	312	2121	1.571 rad	3875590990	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	332	2154	1.571 rad	3461188041	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	322	2161	3.321 rad	316014466	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	322	2161	0.000 rad	2646652649	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	322	2161	3.142 rad	2647986052	1_4_5_2					
+Monster: Shackled Hellion [Metadata/Monsters/Hellion/HellionColosseumUpForward@38]	338	2146	1.571 rad	3461188041	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	323	2188	0.000 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	328	2190	5.347 rad	3875590990	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	332	2154	4.607 rad	316014466	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	332	2154	0.000 rad	2646652649	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	332	2154	0.785 rad	2647986052	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	335	2197	5.415 rad	2647986052	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	553	2070	2.246 rad	2252139960	1_4_5_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	338	2146	4.951 rad	316014466	1_4_5_2					
+Object: Metadata/Effects/ServerEffect	338	2146	0.000 rad	2646652649	1_4_5_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	338	2146	3.927 rad	2647986052	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	555	2139	4.931 rad	2252139960	1_4_5_2					
+Monster: Mad Gladiator [Metadata/Monsters/Gladiator/GladiatorSword@38]	573	2153	0.896 rad	2252139960	1_4_5_2					

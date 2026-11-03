@@ -1,0 +1,14 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	995	149	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	448	259	6.2832	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	632	259	0.0000	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	954	351	6.2832	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	926	379	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	218	604	6.2832	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1115	618	0.0000	-99.934	13	mine_areatransition_v03_01.tdt	0	0	47328	1_4_3_3
+Metadata/Monsters/ChaosElemental/ChaosElementalSpawner	397	724	4.7124	-0.000	0	mine_thickwall_straight_v01_02_spawner.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	607	1310	4.7124	-106.957	14	mine_areatransition_v02_02.tdt	0	0	44813	1_4_3_1
+Metadata/Terrain/Mountain/Mines/Objects/BeastShake2	501	1295	4.7124	0.000	0	entrance_2.arm	0			
+Metadata/QuestObjects/Act4/DeshretSpirit	560	528	3.1416	0.000	0	deshret_quest.arm	0			
+Metadata/QuestObjects/Act4/DeshretHand	560	528	3.1416	0.000	0	deshret_quest.arm	0			
+Metadata/QuestObjects/Act4/DeshretAura	560	528	3.1416	0.000	0	deshret_quest.arm	0			

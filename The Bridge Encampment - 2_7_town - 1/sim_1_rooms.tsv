@@ -1,0 +1,10 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act7/Town/Rooms/broken_bridge_town.arm	19	9	0	node	default entrance2 entrance1disabled
+0	Metadata/Terrain/Act7/Town/Rooms/flow_source_1.arm	10	15	6	node	
+0	Metadata/Terrain/Act7/Town/Rooms/flow_source_1.arm	10	33	0	node	
+0	Metadata/Terrain/Act7/Town/Rooms/flow_sink_1.arm	41	33	6	node	
+0	Metadata/Terrain/Act7/Town/Rooms/flow_sink_1.arm	41	15	5	node	
+0	Metadata/Terrain/Act7/Town/Rooms/flow_source_1.arm	10	31	7	node	
+0	Metadata/Terrain/Act7/Town/Rooms/flow_source_1.arm	12	12	7	node	
+0	Metadata/Terrain/Act7/Town/Rooms/flow_sink_1.arm	41	13	5	node	
+0	Metadata/Terrain/Act7/Town/Rooms/flow_sink_1.arm	41	30	6	node	

@@ -1,0 +1,4 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1756	357	3.3383	19.762	-3	ledge_to_fetidpool_transition_v01_01.tdt	0	0	3453	2_6_5
+Metadata/MiscellaneousObjects/Waypoint	1736	402	4.7124	-16.917	2	beach_waypoint_v02_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	665	1813	6.2832	-484.185	62	ledge_prisonback.tdt	0	0	28415	2_6_7_1

@@ -1,0 +1,24 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	287	279	0.0000	-153.601	20	forest_cliffs_transition_v01_02.tdt	0	3		parent
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1013	207	5.7596	-32.755	4	tree_v01_03.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1033	217	1.4411	-22.590	3	tree_v01_03.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawnerParasite	1013	207	5.7596	-32.755	4	tree_v01_03.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawnerParasite	1033	217	1.4411	-22.590	3	tree_v01_03.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	434	298	2.4955	-25.373	3	tree_v04_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawnerParasite	434	298	2.4955	-25.373	3	tree_v04_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	488	285	0.6503	-20.514	3	treeclump_v02_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	479	309	3.1409	-24.080	3	treeclump_v02_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	442	311	3.7879	-20.968	3	treeclump_v02_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawnerParasite	488	285	0.6503	-20.514	3	treeclump_v02_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawnerParasite	479	309	3.1409	-24.080	3	treeclump_v02_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawnerParasite	442	311	3.7879	-20.968	3	treeclump_v02_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	574	340	2.1118	-20.169	3	tree_v05_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	553	322	5.6293	-34.073	4	tree_v05_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawnerParasite	574	340	2.1118	-20.169	3	tree_v05_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawnerParasite	553	322	5.6293	-34.073	4	tree_v05_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	783	324	5.6366	-22.590	3	tree_v01_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	803	328	1.0483	-22.590	3	tree_v01_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawnerParasite	783	324	5.6396	-22.590	3	tree_v01_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawnerParasite	803	328	1.0472	-22.590	3	tree_v01_01.tdt	1			
+Metadata/NPC/Info/VaalLetters/VaalLetter_04	1068	328	3.3607	-97.826	13	boss.arm	0			
+Metadata/Chests/SideArea/SideAreaChest	1086	251	3.1416	0.000	0	boss.arm	0			

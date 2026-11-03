@@ -1,0 +1,29 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act8/Area5/Rooms/Unique/entrance.arm	4	22	0	node	default entrance1
+0	Metadata/Terrain/Act8/Area5/Rooms/Unique/boss_1.arm	22	28	7	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/Unique/exit_1.arm	46	16	0	node	entrance2
+0	Metadata/Terrain/Act8/Area5/Rooms/Unique/trial_01.arm	4	40	4	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/Unique/exit_gardens.arm	40	46	0	node	entrance3
+0	Metadata/Terrain/Act8/Area5/Rooms/Unique/hideout_01.arm	52	28	0	node	link subarea=hideout
+0	Metadata/Terrain/Act8/Area5/Rooms/Unique/hidden_sewer_1.arm	28	22	1	node	entrance4 unique2
+0	Metadata/Terrain/Act8/Area5/Rooms/Unique/den.arm	46	4	0	node	telepad1 teleport2-%areaname%
+0	Metadata/Terrain/Act8/Area5/Rooms/Unique/den_entrance.arm	52	52	0	node	unique3 telepad2 teleport1-PrivateBathEntrance
+0	Metadata/Terrain/Act8/Area5/Rooms/2x2/8open_04.arm	40	28	0	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/1x1/2open_bend_04.arm	34	46	4	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/1x1/3open_03.arm	16	16	6	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/2x2/4open_corner_01.arm	4	10	5	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/1x1/2open_bend_03.arm	10	34	5	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/1x1/2open_bend_04.arm	22	40	0	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/1x1/3open_03.arm	52	46	7	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/1x1/3open_01.arm	52	40	7	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/1x1/3open_03.arm	34	40	5	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/1x1/3open_03.arm	16	40	0	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/1x1/3open_03.arm	52	34	3	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/1x1/2open_bend_03.arm	22	16	6	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/2x2/6open_side_01.arm	34	16	6	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/1x1/3open_01.arm	16	22	4	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/1x1/3open_03.arm	22	22	7	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/1x1/3open_01.arm	16	34	2	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/1x1/3open_03.arm	46	40	4	node	
+0	Metadata/Terrain/Act8/Area5/Rooms/1x1/3open_04.arm	40	40	4	node	
+1	Metadata/Terrain/Missions/Hideouts/Baths/Rooms/hideout_baths_claim.arm	64	0	0	node	link

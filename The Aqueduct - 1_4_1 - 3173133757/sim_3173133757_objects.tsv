@@ -1,0 +1,7 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/Waypoint	256	83	4.7124	-358.858	46	aqueduct_arch_entrance_v01_01.tdt	0			
+Metadata/QuestObjects/Sewers/SewersGrateTransition	494	1230	3.1416	-333.457	43	aqueduct_sewer_entrance_v01_01.tdt	0			
+Metadata/QuestObjects/Sewers/SewersGrate	494	1229	3.1416	-353.745	45	aqueduct_sewer_entrance_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	364	3429	4.7124	-550.254	70	mountiantown_connection.tdt	0	0	46654	1_4_town
+Metadata/NPC/Info/HighgateNote	369	3314	4.2577	0.000	0	exit_1.arm	0			
+Metadata/NPC/Act4/DiallaAqueduct	255	116	5.4733	-343.750	44	hub_1.arm	0			

@@ -1,0 +1,14 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act6/Area12/Rooms/temp_cave_entrance_waypoint.arm	54	9	3	node	entrance2
+0	Metadata/Terrain/Act6/Area12/Rooms/caves_sinkhole_01.arm	42	15	0	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/part2_crossing.arm	42	54	3	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/forest_old_towndock.arm	57	60	3	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/monkeyboss.arm	62	44	3	node	unique2
+0	Metadata/Terrain/Act6/Area12/Rooms/connection_06.arm	39	75	0	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/southernforest_to_riverways.arm	21	78	0	node	default entrance1
+0	Metadata/Terrain/Act6/Area12/Rooms/connection_01.arm	39	45	4	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/bears_01.arm	12	36	0	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/connection_05.arm	21	63	6	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/waterfall_01.arm	9	78	0	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/crossing_01.arm	16	67	7	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/crossing_01.arm	30	55	5	node	

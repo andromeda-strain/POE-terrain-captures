@@ -1,0 +1,15 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	263	528	1.5708	-114.042	15	sewerwall_end_tunnel_v01_03.tdt	0	0	37655	1_3_2
+Metadata/MiscellaneousObjects/Waypoint	724	908	3.1416	-15.108	2	citywaypoint_v02_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1214	1092	3.1416	-48.557	6	sewerwall_entrance_v01_01.tdt	0	1	63169	HideoutSewer_Claim
+Metadata/MiscellaneousObjects/AreaTransition	547	1242	0.0000	-168.729	22	sewerexit_v01_01.tdt	0	0	44418	1_3_13
+Metadata/MiscellaneousObjects/AreaTransition	1046	1651	4.7124	-135.808	17	sewerwall_exit_v01_01.tdt	0	0	20497	1_3_5
+Metadata/MiscellaneousObjects/AreaTransition	218	2387	1.5708	-48.557	6	sewerwall_entrance_v01_01.tdt	0	1	61682	%areaname%
+Metadata/Chests/QuestChests/Victario/Stash3	1194	618	1.5708	-10.870	1	hideout_grass_3.arm	0			
+Metadata/QuestObjects/Sewers/BioWall	621	1002	0.0000	1.698	0	biowall_waypoint_1.arm	0			
+Metadata/MiscellaneousObjects/CraftRecipeUnlockMarker	516	1127	3.1416	0.000	0	biowall_waypoint_1.arm	1			
+Metadata/Chests/QuestChests/Victario/Stash2	964	899	1.5708	-10.870	1	hideout_grass_2.arm	0			
+Metadata/Chests/QuestChests/Victario/Stash1	273	921	6.2832	-10.870	1	hideout_grass_1.arm	0			
+Metadata/Terrain/Leagues/Blight/Objects/BlightPump	839	723	4.7124	0.000	0	blight_01.arm	0			
+Metadata/NPC/League/Blight/BlightBuilderWildMarker	852	732	4.7124	0.000	0	blight_01.arm	1			
+Metadata/NPC/Missions/HelenaClaim	198	2372	0.5738	0.000	0	hideout_claim.arm	0			

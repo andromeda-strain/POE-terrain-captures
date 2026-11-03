@@ -1,0 +1,68 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	608	826	0.000 rad	2448909918	1_5_4b					
+Metadata/Chests/Urn3	616	616	4.956 rad	3085105031	1_5_4b					
+Metadata/Chests/Urn3	607	616	2.866 rad	3085105031	1_5_4b					
+Metadata/Chests/Urn4v2	611	616	2.157 rad	4242361032	1_5_4b					
+Metadata/Chests/Urn2v1	606	619	1.542 rad	2278403995	1_5_4b					
+Metadata/Chests/TemplarChest07	694	652	4.712 rad	5482802	1_5_4b					
+Metadata/Chests/TemplarChest04	821	663	3.142 rad	1080611175	1_5_4b					
+Metadata/Chests/TemplarChest01	838	647	6.283 rad	204702032	1_5_4b					
+Metadata/Chests/Urn4v2	523	778	1.840 rad	4242361032	1_5_4b					
+Metadata/Chests/Urn4v1	523	775	5.767 rad	288426497	1_5_4b					
+Metadata/Chests/Urn2v1	526	781	3.957 rad	2278403995	1_5_4b					
+Metadata/Chests/Urn4v2	531	775	3.639 rad	4242361032	1_5_4b					
+Metadata/Chests/Urn4v1	716	781	1.164 rad	288426497	1_5_4b					
+Metadata/Chests/Urn2v1	719	779	5.290 rad	2278403995	1_5_4b					
+Metadata/Chests/Urn3	716	777	0.073 rad	3085105031	1_5_4b					
+Metadata/Chests/Urn3	528	784	3.484 rad	3085105031	1_5_4b					
+Metadata/Chests/Urn4v1	527	787	1.167 rad	288426497	1_5_4b					
+Metadata/Chests/Urn3	718	789	3.802 rad	3085105031	1_5_4b					
+Metadata/Chests/Urn4v2	719	782	0.056 rad	4242361032	1_5_4b					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	604	822	5.743 rad	1570723376	1_5_4b					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	608	823	4.418 rad	1792897079	1_5_4b					
+Metadata/Chests/TemplarChest06	693	813	4.712 rad	4098139603	1_5_4b					
+Metadata/Chests/Urn4v1	549	848	5.361 rad	288426497	1_5_4b					
+Metadata/Chests/Urn2v1	546	845	5.871 rad	2278403995	1_5_4b					
+Metadata/Chests/Urn2v1	552	849	3.734 rad	2278403995	1_5_4b					
+Metadata/Chests/Urn1	548	855	3.196 rad	1421211170	1_5_4b					
+Metadata/Chests/Urn1	548	851	4.869 rad	1421211170	1_5_4b					
+Metadata/Chests/Urn4v1	555	856	5.019 rad	288426497	1_5_4b					
+Object: Metadata/MiscellaneousObjects/AreaTransition	609	860	0.000 rad	726109394	1_5_4b	49	-386.299	0	43038	The Chamber of Innocence
+Metadata/Chests/Urn1	835	727	3.712 rad	1421211170	1_5_4b					
+Metadata/Chests/Urn4v1	835	723	0.429 rad	288426497	1_5_4b					
+Metadata/Chests/Urn2v1	835	720	4.742 rad	2278403995	1_5_4b					
+Metadata/Chests/Urn1	834	730	3.836 rad	1421211170	1_5_4b					
+Metadata/Chests/Urn1	832	718	2.326 rad	1421211170	1_5_4b					
+Metadata/Chests/Urn3	835	733	0.033 rad	3085105031	1_5_4b					
+Monster: Kitava Zealot [Metadata/Monsters/KitavaCultist/KitavaCultistSpear@44]	865	639	1.669 rad	2354827017	1_5_4b					
+Metadata/Chests/Urn4v2	730	559	2.529 rad	4242361032	1_5_4b					
+Metadata/Chests/Urn4v1	727	559	2.397 rad	288426497	1_5_4b					
+Metadata/Chests/Urn2v1	729	556	5.776 rad	2278403995	1_5_4b					
+Metadata/Chests/Urn2v1	733	557	2.394 rad	2278403995	1_5_4b					
+Metadata/Chests/Urn4v2	726	556	2.056 rad	4242361032	1_5_4b					
+Metadata/Chests/TemplarChest04	814	555	0.000 rad	1080611175	1_5_4b					
+Metadata/Chests/Urn4v2	654	531	2.977 rad	4242361032	1_5_4b					
+Metadata/Chests/Urn4v1	651	535	0.319 rad	288426497	1_5_4b					
+Metadata/Chests/Urn1	654	534	1.106 rad	1421211170	1_5_4b					
+Metadata/Chests/Urn1	651	530	1.180 rad	1421211170	1_5_4b					
+Monster: Heretical Guardian [Metadata/Monsters/ReligiousTemplar/ReligiousTemplarTwoHandedKitava@44]	730	540	5.449 rad	3664072729	1_5_4b					
+Monster: Heretical Ward [Metadata/Monsters/ReligiousTemplar/ReligiousTemplarKitava@44]	719	543	2.970 rad	1962684500	1_5_4b					
+Monster: Heretical Ward [Metadata/Monsters/ReligiousTemplar/ReligiousTemplarKitava@44]	731	548	2.553 rad	1962684500	1_5_4b					
+Monster: Heretical Ward [Metadata/Monsters/ReligiousTemplar/ReligiousTemplarKitava@44]	718	535	0.712 rad	1962684500	1_5_4b					
+Monster: Heretical Ward [Metadata/Monsters/ReligiousTemplar/ReligiousTemplarKitavaNoThrow@44]	724	542	4.933 rad	498757942	1_5_4b					
+Monster: Sanguine Sister [Metadata/Monsters/BlessedSister/BlessedSisterKitava2@44]	885	544	0.614 rad	3248621518	1_5_4b					
+Monster: Sanguine Sister [Metadata/Monsters/BlessedSister/BlessedSisterKitava2@44]	885	562	3.682 rad	3248621518	1_5_4b					
+Monster: Sanguine Sister [Metadata/Monsters/BlessedSister/BlessedSisterKitava2@44]	878	569	4.491 rad	3248621518	1_5_4b					
+Monster: Sanguine Sister [Metadata/Monsters/BlessedSister/BlessedSisterKitava2@44]	882	554	3.755 rad	3248621518	1_5_4b					
+Monster: Kitava Zealot [Metadata/Monsters/KitavaCultist/KitavaCultistDaggers@44]	887	630	2.749 rad	1879256456	1_5_4b					
+Monster: Kitava Zealot [Metadata/Monsters/KitavaCultist/KitavaCultistKnifestick@44]	894	624	0.638 rad	4068868733	1_5_4b					
+Monster: Kitava Zealot [Metadata/Monsters/KitavaCultist/KitavaCultistKnifestick@44]	896	630	6.013 rad	4068868733	1_5_4b					
+Monster: Kitava Zealot [Metadata/Monsters/KitavaCultist/KitavaCultistDaggers@44]	882	644	1.178 rad	1879256456	1_5_4b					
+Monster: Kitava Zealot [Metadata/Monsters/KitavaCultist/KitavaCultistDaggers@44]	914	645	3.093 rad	1879256456	1_5_4b					
+Monster: Kitava Zealot [Metadata/Monsters/KitavaCultist/KitavaCultistKnifestick@44]	897	654	0.098 rad	4068868733	1_5_4b					
+Monster: Kitava Zealot [Metadata/Monsters/KitavaCultist/KitavaCultistSpear@44]	904	669	3.461 rad	2354827017	1_5_4b					
+Monster: Crimson Scholar [Metadata/Monsters/Axis/Cleric/BlackguardClericKitava1@44]	930	580	4.614 rad	3505857359	1_5_4b					
+Monster: Depraved Justicar [Metadata/Monsters/BlackguardInquisitor/BlackguardInquisitorKitava2@44]	930	631	3.412 rad	4126450227	1_5_4b					
+Metadata/Chests/TemplarChest05	938	692	6.196 rad	1602983198	1_5_4b					
+Metadata/Chests/TemplarChest01	937	1002	1.571 rad	204702032	1_5_4b					
+Monster: Heretical Ward [Metadata/Monsters/ReligiousTemplar/ReligiousTemplarKitavaNoThrow@44]	940	1033	4.491 rad	498757942	1_5_4b					

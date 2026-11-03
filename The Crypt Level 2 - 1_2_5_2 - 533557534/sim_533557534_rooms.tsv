@@ -1,0 +1,17 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Church/Rooms/Unique/transition_1a.arm	41	13	1	node	default entrance1
+0	Metadata/Terrain/Church/Rooms/Unique/treasure.arm	5	37	2	node	
+0	Metadata/Terrain/Church/Rooms/3x3/abyss_low_1a.arm	5	21	0	node	
+0	Metadata/Terrain/Church/Rooms/3x3/abyss_low_2a.arm	21	13	7	node	
+0	Metadata/Terrain/Church/Rooms/1x2/low_5b.arm	25	41	0	node	
+0	Metadata/Terrain/Church/Rooms/1x2/abyss_1a.arm	33	29	3	node	
+0	Metadata/Terrain/Church/Rooms/1x2/crypt_1a.arm	17	45	6	node	
+0	Metadata/Terrain/Church/Rooms/1x1/type_2a.arm	9	33	1	node	
+0	Metadata/Terrain/Church/Rooms/2x3/allopen_1a.arm	25	29	0	node	
+0	Metadata/Terrain/Church/Rooms/1x2/open_4b.arm	21	29	0	node	
+0	Metadata/Terrain/Church/Rooms/1x2/type_1a.arm	17	29	0	node	
+0	Metadata/Terrain/Church/Rooms/1x2/hall_1a.arm	13	29	2	node	
+0	Metadata/Terrain/Church/Rooms/1x1/type_3a.arm	37	25	6	node	
+0	Metadata/Terrain/Church/Rooms/1x2/hall_1a.arm	29	25	5	node	
+0	Metadata/Terrain/Church/Rooms/1x2/type_1a.arm	33	21	3	node	
+0	Metadata/Terrain/Church/Rooms/1x2/type_1b.arm	37	13	2	node	

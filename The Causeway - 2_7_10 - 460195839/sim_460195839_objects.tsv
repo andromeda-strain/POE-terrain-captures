@@ -1,0 +1,16 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	231	632	1.5708	-226.742	29	causeway_plinth_transition_v01_01.tdt	0	0	20052	2_7_8
+Metadata/MiscellaneousObjects/Door	2496	657	3.1416	0.000	0	wildgrowth_door_thick_v02_01.tdt	0			
+Metadata/MiscellaneousObjects/Waypoint	1736	678	0.0000	-144.813	19	waypoint_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	3186	736	4.7124	-148.901	19	vaal_stairs_bottom_v01_01.tdt	0	0	27253	2_7_11
+Metadata/Chests/QuestChests/KisharaStarChest	3080	699	4.7124	0.000	0	city.arm	0			
+Metadata/NPC/Info/ArakaaliGlyph3	1609	756	6.2690	-47.554	6	walkways.arm	0			
+Metadata/MiscellaneousObjects/CraftRecipeUnlockMarker	1735	567	3.1416	0.000	0	walkways.arm	1			
+Metadata/Terrain/Act7/Area10/Traps/CausewayArrowTrap_SingleSlowOffset	1432	656	0.0000	0.000	0	dart1.arm	0			
+Metadata/Terrain/Act7/Area10/Traps/CausewayArrowTrap_SingleSlow	1420	656	0.0000	0.000	0	dart1.arm	0			
+Metadata/Terrain/Act7/Area10/Traps/CausewayArrowTrap_Single	2795	580	4.7124	0.000	0	dart5.arm	0			
+Metadata/Terrain/Act7/Area10/Traps/CausewayArrowTrap_SingleSlow	2795	570	4.7124	0.000	0	dart5.arm	0			
+Metadata/Terrain/Act7/Area10/Traps/CausewayArrowTrap_Triggered	2795	560	4.7124	0.000	0	dart5.arm	0			
+Metadata/Terrain/Act7/Area10/Traps/CausewayArrowTrap_SingleSlowOffset	2795	549	4.7124	0.000	0	dart5.arm	0			
+Metadata/Terrain/Act7/Area10/Traps/CausewayArrowTrap_SingleSlowOffset	466	518	0.0000	0.000	0	dart1.arm	0			
+Metadata/Terrain/Act7/Area10/Traps/CausewayArrowTrap_SingleSlow	454	518	0.0000	0.000	0	dart1.arm	0			

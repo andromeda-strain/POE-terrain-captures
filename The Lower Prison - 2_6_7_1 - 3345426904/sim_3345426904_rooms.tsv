@@ -1,0 +1,27 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/Unique/transition_act1_2_ceiling_unique.arm	13	17	2	node	default entrance1 waypoint
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/Unique/transitionup_unique_4a.arm	45	5	3	node	entrance2
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/Unique/axiom_intro_cruel.arm	29	25	0	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/Unique/axiom_p2_intro_end.arm	41	25	7	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/3x3/cell_torture_7b.arm	9	5	6	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/cell_torture_5b.arm	25	5	5	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/torture_6b.arm	5	13	3	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/type_2a.arm	29	21	0	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/Unique/special_skeletonboss1.arm	33	21	2	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/cell_torture_4a.arm	21	5	1	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/3x3/cell_torture_8b.arm	29	5	1	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/type_2a.arm	41	5	6	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/cell_torture_7b.arm	29	17	6	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/open_torture_1a.arm	25	17	1	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/cell_4a.arm	25	9	0	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/cell_4a.arm	9	17	7	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/type_2b.arm	21	13	4	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/cell_torture_4a.arm	25	13	6	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/cell_torture_7b.arm	5	17	1	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/torture_6b.arm	37	21	4	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/cell_torture_7a.arm	25	21	1	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/cell_torture_7a.arm	21	9	2	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/cell_torture_7b.arm	41	9	0	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/3x3/cell_torture_7a.arm	41	13	3	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/torture_6b.arm	33	17	6	node	
+0	Metadata/Terrain/Act6/Area7Level1/Rooms/1x1/cell_torture_7a.arm	37	17	0	node	

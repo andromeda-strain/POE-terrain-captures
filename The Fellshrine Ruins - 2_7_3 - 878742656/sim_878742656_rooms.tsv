@@ -1,0 +1,47 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act7/Area3/Rooms/church_ruin_entrance.arm	72	9	2	node	entrance3
+0	Metadata/Terrain/Act7/Area3/Rooms/church_wall_gate_transition.arm	29	49	2	node	default entrance1
+0	Metadata/Terrain/Act7/Area3/Rooms/flow_source_1.arm	36	48	0	node	
+0	Metadata/Terrain/Act7/Area3/Rooms/cliffgate.arm	12	18	3	node	
+0	Metadata/Terrain/Act7/Area3/Rooms/churchwallgate.arm	25	32	1	node	
+0	Metadata/Terrain/Act7/Area3/Rooms/churchwallgate.arm	23	42	6	node	
+0	Metadata/Terrain/Act7/Area3/Rooms/rivergate.arm	36	42	7	node	
+0	Metadata/Terrain/Act7/Area3/Rooms/churchwallgate.arm	63	25	1	node	
+0	Metadata/Terrain/Act7/Area3/Rooms/rivergate.arm	53	36	0	node	
+0	Metadata/Terrain/Act7/Area3/Rooms/cliffgate.arm	63	9	4	node	
+0	Metadata/Terrain/Act7/Area3/Rooms/boss_1.arm	26	16	1	node	
+0	Metadata/Terrain/Act7/Area3/Rooms/flow_sink_1.arm	103	6	3	node	
+0	Metadata/Terrain/Act7/Area3/Rooms/sanctum_entrance.arm	43	16	0	node	entrance2
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_6.arm	19	12	4	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/graves_3.arm	42	12	4	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_1.arm	48	12	2	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/graves_3.arm	31	13	4	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_7.arm	66	15	1	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_8.arm	55	16	4	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_6.arm	21	17	0	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_11.arm	15	20	4	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_7.arm	65	20	5	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_11.arm	21	24	4	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_10.arm	50	28	3	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_5.arm	15	29	6	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/graves_3.arm	84	29	7	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_1.arm	90	29	6	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_6.arm	60	32	0	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_11.arm	58	37	3	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_5.arm	29	38	5	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/graves_3.arm	17	40	7	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/graves_2.arm	45	42	1	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/graves_3.arm	77	43	4	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/graves_3.arm	31	44	4	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_2.arm	51	45	6	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_11.arm	99	45	2	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_11.arm	45	47	4	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/graves_3.arm	47	47	1	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/graves_2.arm	59	47	5	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_10.arm	101	48	6	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_5.arm	87	50	1	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_6.arm	93	51	0	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_5.arm	35	52	2	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_3.arm	58	52	3	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/churchruin_10.arm	13	54	5	fill	
+0	Metadata/Terrain/Act2/Area15/Rooms/graves_3.arm	87	54	4	fill	

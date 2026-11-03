@@ -1,0 +1,33 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1206	288	0.0000	-161.782	21	market_to_battlefront_v01_02.tdt	0	0	20497	1_3_5
+Metadata/Monsters/Statue/Female/Spawner_StoneStatueFemaleUnarmed	1271	746	4.7124	-0.000	0	act3_statue_spawner_01_01.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_StoneStatueMaleMaul	1351	747	1.5708	-0.000	0	act3_statue_spawner_03_01.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_StoneStatueFemaleSword	1271	769	4.7124	-0.000	0	act3_statue_spawner_01_04.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_StoneStatueMaleBow	1322	799	3.1416	-0.000	0	act3_statue_spawner_03_02.tdt	0			
+Metadata/QuestObjects/BridgeBarrier	523	966	0.0000	-237.144	30	act3_brokenbridge_v01_01.tdt	0			
+Metadata/NPC/Info/Victario/GraffitiBattlefront	860	907	0.0000	-87.633	11	mosaic_ledge_concave_v01_01_victarioUnique.tdt	0			
+Metadata/MiscellaneousObjects/Waypoint	886	971	1.5708	-296.358	38	citywaypoint_v01_01.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleSword	1023	1592	0.0000	-562.500	72	act3_statue_spawner_04_03.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleMaul	1046	1592	0.0000	-562.500	72	act3_statue_spawner_04_01.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleMaul	1069	1592	0.0000	-562.500	72	act3_statue_spawner_04_01.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleSword	1277	1593	0.0000	-562.500	72	act3_statue_spawner_02_04.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleMaul	1300	1593	0.0000	-562.500	72	act3_statue_spawner_02_03.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleBow	1322	1592	0.0000	-562.500	72	act3_statue_spawner_04_02.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleSword	1022	1649	3.1416	-562.500	72	act3_statue_spawner_02_04.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleBow	1046	1650	3.1416	-562.500	72	act3_statue_spawner_04_02.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleBow	1069	1650	3.1416	-562.500	72	act3_statue_spawner_04_02.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleSword	1120	1668	1.5708	-562.500	72	act3_statue_spawner_02_04.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleBow	1224	1667	4.7124	-562.500	72	act3_statue_spawner_04_02.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleMaul	1202	1689	4.7124	-562.500	72	act3_statue_spawner_02_03.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1173	1835	6.2832	-1056.063	135	act3_temple_entrance_v01_01.tdt	0	0	61957	1_3_8_1
+Metadata/MiscellaneousObjects/AreaTransition	793	1860	6.2832	-0.005	0	battlefield_arch_v01_03.tdt	0	0	8231	1_3_9
+Metadata/MiscellaneousObjects/AmbushPoint	1301	1567	6.2832	-562.500	72	temple_entrance.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1174	1664	6.2832	-562.500	72	temple_entrance.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1044	1668	6.2832	-562.500	72	temple_entrance.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1041	1570	6.2832	-562.500	72	temple_entrance.arm	1			
+Metadata/Chests/QuestChests/Dialla/RibbonSpoolChest	730	990	0.7479	0.000	0	bridge_1.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	495	988	0.0000	-257.813	33	bridge_1.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	496	946	0.0000	-257.813	33	bridge_1.arm	0			
+Metadata/MiscellaneousObjects/ProphecyMonsterLocator	557	964	1.5708	0.000	0	bridge_1.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1311	771	0.0000	0.000	0	tree_7.arm	1			
+bloodsplat	1024	1001	3.1416	-281.250	36	bodies_1_6.arm	0			

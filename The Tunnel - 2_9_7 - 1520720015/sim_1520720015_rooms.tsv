@@ -1,0 +1,18 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act9/Area7/Rooms/tunnel_entrance_1.arm	36	4	2	node	default entrance1
+0	Metadata/Terrain/Act9/Area7/Rooms/tunnel_exit_1.arm	36	92	0	node	entrance2
+0	Metadata/Terrain/Act9/Area7/Rooms/tunnels_keypath.arm	28	44	5	node	
+0	Metadata/Terrain/Act9/Area7/Rooms/boss.arm	28	60	0	node	
+0	Metadata/Terrain/Act9/Area7/Rooms/tunnels_trial_entry.arm	44	36	4	node	
+0	Metadata/Terrain/Act9/Area7/Rooms/tunnels_trial2.arm	44	44	4	node	accessible
+0	Metadata/Terrain/Act9/Area7/Rooms/tunnels_trial_end.arm	52	36	4	node	accessible
+0	Metadata/Terrain/Act9/Area7/Rooms/tunnels_brokentracks.arm	36	44	0	node	
+0	Metadata/Terrain/Act9/Area7/Rooms/tunnels_key.arm	36	68	1	node	
+0	Metadata/Terrain/Act9/Area7/Rooms/tunnels_path2.arm	28	52	0	node	
+0	Metadata/Terrain/Act9/Area7/Rooms/tunnels_path3.arm	20	52	6	node	accessible
+0	Metadata/Terrain/Act9/Area7/Rooms/1x1/var3_2.arm	36	28	2	node	
+0	Metadata/Terrain/Act9/Area7/Rooms/2x2/var2_1.arm	36	76	0	node	
+0	Metadata/Terrain/Act9/Area7/Rooms/tunnel/tunnel7.arm	36	36	2	node	
+0	Metadata/Terrain/Act9/Area7/Rooms/1x1/var3_4.arm	44	28	7	node	
+0	Metadata/Terrain/Act9/Area7/Rooms/tunnel/tunnel7.arm	36	20	4	node	
+0	Metadata/Terrain/Act9/Area7/Rooms/shrine_3_1.arm	36	12	1	node	

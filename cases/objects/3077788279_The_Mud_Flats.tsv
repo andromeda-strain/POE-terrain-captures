@@ -1,0 +1,532 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	400	351	0.960 rad	2448909918	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	562	321	5.596 rad	3904372160	1_1_3					
+Object: Metadata/MiscellaneousObjects/AreaTransition	372	361	1.571 rad	726109394	1_1_3	15	-121.343	0	31442	The Coast
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	397	348	4.123 rad	1792897079	1_1_3					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	401	347	0.712 rad	1570723376	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	526	358	2.503 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	547	363	3.952 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	554	367	5.817 rad	1930853374	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	615	366	1.080 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	613	359	4.369 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	547	372	0.123 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	550	384	3.387 rad	2744027549	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	488	410	5.719 rad	3904372160	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	597	413	0.540 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired1@4]	637	409	1.595 rad	3592112374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired3@4]	637	397	1.571 rad	4195274676	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired3@4]	632	391	4.982 rad	4195274676	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	569	455	6.185 rad	3904372160	1_1_3					
+Metadata/Chests/Chest2v2	287	473	5.253 rad	3722740639	1_1_3					
+Metadata/Chests/ProdWounded2	323	462	2.315 rad	2220685483	1_1_3					
+Metadata/Chests/Chest2v2	355	460	1.920 rad	3722740639	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	269	496	0.049 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	274	498	3.657 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	286	483	1.325 rad	2253631582	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	339	493	2.675 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	345	487	1.890 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	468	497	3.755 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	268	506	5.670 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	267	516	1.914 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	436	509	3.804 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	451	524	0.270 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	474	517	5.817 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	551	523	1.890 rad	3904372160	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	584	424	4.933 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	602	426	2.700 rad	1930853374	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	586	458	6.160 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	317	536	0.196 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	418	572	2.773 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	435	552	0.319 rad	3960227300	1_1_3					
+Metadata/Chests/QuestChests/RhoaChest2	425	563	3.142 rad	410361374	1_1_3	7	-57.546			
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	618	563	0.982 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired2@4]	610	574	5.694 rad	2162003979	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	624	564	0.565 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	260	576	3.780 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	254	591	4.663 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	274	575	5.964 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	336	596	5.105 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	368	587	4.050 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	381	582	0.270 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	402	575	2.528 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	406	581	2.037 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	620	576	6.136 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired1@4]	620	591	0.221 rad	3592112374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired3@4]	611	584	5.473 rad	4195274676	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	646	362	4.001 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired2@4]	653	384	4.516 rad	2162003979	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	664	479	2.160 rad	3904372160	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	682	480	4.835 rad	3904372160	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	680	567	5.277 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	670	590	2.503 rad	3960227300	1_1_3					
+Metadata/Chests/QuestChests/RhoaChest3	678	586	0.000 rad	3571656195	1_1_3	7	-57.546			
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	722	520	1.841 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	723	546	5.866 rad	3960227300	1_1_3					
+Monster: Oozeback Bloom [Metadata/Monsters/Rhoas/RhoaBoss@4]	262	603	0.960 rad	45993206	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	452	612	2.823 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	439	615	1.890 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	468	616	1.865 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	508	606	1.055 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	678	605	3.264 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	687	602	3.559 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	738	550	6.087 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	744	548	1.571 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	749	578	0.687 rad	1930853374	1_1_3					
+Monster: Tide Strider [Metadata/Monsters/WaterElemental/WaterElementalTidal@4]	776	358	5.547 rad	53975337	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	768	499	2.970 rad	1930853374	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	775	507	4.393 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	393	638	5.007 rad	3904372160	1_1_3					
+Metadata/Chests/Crate2	443	643	1.372 rad	589372418	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	519	622	1.669 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	550	630	6.087 rad	2744027549	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	683	621	2.086 rad	3904372160	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	689	637	1.718 rad	2253631582	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	707	621	1.644 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	717	643	4.761 rad	2253631582	1_1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	495	371	3.680 rad	1418889786	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	783	468	0.810 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	789	501	3.117 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	803	617	0.515 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	795	631	1.424 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	523	644	3.608 rad	1930853374	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	687	645	2.381 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	689	650	4.541 rad	1930853374	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	710	656	0.074 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	704	650	3.608 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	815	597	3.853 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	809	620	2.994 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired1@4]	817	636	5.522 rad	3592112374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired1@4]	823	646	0.614 rad	3592112374	1_1_3					
+Metadata/Chests/ProdWounded2	323	462	2.315 rad	2220685483	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	340	494	2.467 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	336	596	5.105 rad	3904372160	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	815	597	3.853 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	809	620	2.994 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired1@4]	817	636	5.522 rad	3592112374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired1@4]	823	646	0.614 rad	3592112374	1_1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	561	435	0.000 rad	1450012487	1_1_3					
+Monster: Tide Strider [Metadata/Monsters/WaterElemental/WaterElementalTidal@4]	388	683	1.546 rad	53975337	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	495	688	1.104 rad	3904372160	1_1_3					
+Metadata/NPC/Info/Karui/Stone3	681	681	0.000 rad	759428757	1_1_3	0	-0.000			
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	753	674	2.626 rad	1930853374	1_1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	586	483	0.000 rad	1450012487	1_1_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	573	439	2.191 rad	2647986052	1_1_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	567	441	1.222 rad	2647986052	1_1_3					
+Metadata/Chests/Barrel1old	347	705	0.127 rad	1528648667	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	484	701	2.209 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	609	709	3.117 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	613	702	4.884 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	749	692	2.160 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	777	690	5.989 rad	2253631582	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	584	424	4.933 rad	3875590990	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	597	413	0.540 rad	3875590990	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	602	426	2.700 rad	3875590990	1_1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	625	412	2.353 rad	1418889786	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	625	412	4.837 rad	3875590990	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	628	402	4.249 rad	3875590990	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	637	394	2.761 rad	3875590990	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	645	384	4.712 rad	3875590990	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	419	729	5.743 rad	2744027549	1_1_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	580	458	2.933 rad	2647986052	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	345	753	2.037 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	404	750	4.688 rad	2253631582	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	591	737	4.442 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	750	747	3.682 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	768	750	3.731 rad	2744027549	1_1_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	613	359	4.369 rad	2647986052	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	550	384	3.387 rad	3875590990	1_1_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	612	348	0.464 rad	2647986052	1_1_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	635	364	3.360 rad	2647986052	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	362	771	1.963 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	405	766	3.289 rad	1930853374	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	449	770	2.602 rad	3960227300	1_1_3					
+Metadata/Chests/Chest4	481	774	2.177 rad	1679736977	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	460	777	1.571 rad	3904372160	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	503	767	6.136 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	513	771	5.105 rad	2253631582	1_1_3					
+Metadata/Chests/Chest2v1	615	777	0.653 rad	4023569337	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	741	762	3.117 rad	1930853374	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	460	785	3.510 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	478	783	2.896 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	503	788	5.841 rad	1930853374	1_1_3					
+Monster: Tide Strider [Metadata/Monsters/WaterElemental/WaterElementalTidal@4]	764	798	4.050 rad	53975337	1_1_3					
+Monster: Tide Strider [Metadata/Monsters/WaterElemental/WaterElementalTidal@4]	781	793	1.374 rad	53975337	1_1_3					
+Monster: Tide Strider [Metadata/Monsters/WaterElemental/WaterElementalTidal@4]	774	791	3.853 rad	53975337	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired1@4]	663	822	2.356 rad	3592112374	1_1_3					
+Metadata/Chests/QuestChests/RhoaChest	494	839	0.000 rad	1759963746	1_1_3	7	-57.546			
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	515	839	2.626 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	571	842	3.706 rad	3904372160	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired2@4]	653	845	2.700 rad	2162003979	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired3@4]	645	837	6.210 rad	4195274676	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired3@4]	660	843	1.571 rad	4195274676	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	483	855	2.135 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	502	853	1.497 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	521	863	1.252 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	528	870	4.467 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	573	852	4.442 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	616	853	2.823 rad	3904372160	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired1@4]	669	852	1.350 rad	3592112374	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	451	888	0.785 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	452	882	6.087 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	476	888	0.638 rad	3960227300	1_1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	595	552	5.186 rad	1418889786	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	451	903	2.135 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	608	916	1.006 rad	3904372160	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	686	904	0.466 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	677	910	3.289 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	845	586	5.866 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	847	592	0.221 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	835	608	3.927 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired3@4]	839	623	3.019 rad	4195274676	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired3@4]	839	649	3.019 rad	4195274676	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired2@4]	837	668	3.191 rad	2162003979	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	573	956	5.768 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	563	965	2.921 rad	1930853374	1_1_3					
+Object: Metadata/QuestObjects/WaterCave/WaterTransition	837	963	4.712 rad	2473129094	1_1_3	-4	37.025			
+Metadata/Chests/Chest2v2	437	975	1.554 rad	3722740639	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	502	983	4.001 rad	3904372160	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	486	991	3.657 rad	3904372160	1_1_3					
+Object: Metadata/QuestObjects/WaterCave/GlyphWall	760	996	4.712 rad	1806945548	1_1_3	21	-165.613			
+Metadata/Effects/Spells/shatter/ShatterLarge	660	820	5.093 rad	3875590990	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	643	837	5.498 rad	3875590990	1_1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	659	842	5.069 rad	1418889786	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	659	842	5.498 rad	3875590990	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	654	845	5.784 rad	3875590990	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	669	852	5.463 rad	3875590990	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	858	662	0.270 rad	1930853374	1_1_3					
+Object: Metadata/QuestObjects/WaterCave/WaterCaveAreaTransition	864	979	4.712 rad	1004714836	1_1_3	7	-61.286	0	12917	The Submerged Passage
+Object: Metadata/Effects/Spells/shatter/Shatter	599	840	5.747 rad	2647986052	1_1_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	592	847	2.554 rad	2647986052	1_1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	676	909	3.005 rad	1418889786	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	677	910	3.289 rad	3875590990	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	686	904	0.466 rad	3875590990	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	619	700	5.640 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	749	692	2.160 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	777	690	5.989 rad	2253631582	1_1_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	618	907	3.142 rad	2647986052	1_1_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	541	873	3.546 rad	2647986052	1_1_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	559	847	1.802 rad	2647986052	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	503	672	1.661 rad	3904372160	1_1_3					
+Metadata/NPC/Info/Karui/Stone3	681	681	0.000 rad	759428757	1_1_3	0	-0.000			
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	753	674	2.626 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired2@4]	837	668	3.191 rad	2162003979	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	443	779	3.730 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	458	776	0.588 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	458	799	3.339 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	454	892	2.513 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	455	897	0.540 rad	3960227300	1_1_3					
+Metadata/Chests/Chest2v2	437	975	1.554 rad	3722740639	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	419	729	5.743 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	404	750	4.688 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	405	766	3.289 rad	1930853374	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	573	956	5.768 rad	3875590990	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	563	965	2.921 rad	3875590990	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	345	753	2.037 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	362	771	1.963 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	334	764	5.571 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	322	763	5.596 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	309	749	2.675 rad	2744027549	1_1_3					
+Object: Metadata/MiscellaneousObjects/AreaTransition	277	870	4.712 rad	726109394	1_1_3	21	-167.397	0	56912	The Fetid Pool
+Object: Metadata/Effects/Spells/shatter/Shatter	508	985	1.295 rad	2647986052	1_1_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	495	983	1.249 rad	2647986052	1_1_3					
+Metadata/Chests/Barrel3old	337	713	4.136 rad	3865749632	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	419	729	5.743 rad	2744027549	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	610	732	3.089 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	272	693	5.792 rad	3904372160	1_1_3					
+Metadata/Chests/Barrel3old	339	706	1.801 rad	3865749632	1_1_3					
+Metadata/Chests/Barrel1old	347	705	0.127 rad	1528648667	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	619	700	5.640 rad	3960227300	1_1_3					
+Monster: Tide Strider [Metadata/Monsters/WaterElemental/WaterElementalTidal@4]	388	683	1.546 rad	53975337	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	503	672	1.661 rad	3904372160	1_1_3					
+Metadata/Chests/Chest9	250	658	5.019 rad	324145545	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	504	659	0.896 rad	3904372160	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	523	644	3.608 rad	1930853374	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	393	638	5.007 rad	3904372160	1_1_3					
+Metadata/Chests/Crate2	443	643	1.372 rad	589372418	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	477	631	2.774 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	472	634	1.406 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	482	621	1.373 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	519	622	1.669 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	550	630	6.087 rad	2744027549	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	251	603	4.590 rad	3960227300	1_1_3					
+Monster: Oozeback Bloom [Metadata/Monsters/Rhoas/RhoaBoss@4]	262	603	0.960 rad	45993206	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	503	601	3.730 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	260	576	3.780 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	254	591	4.663 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	274	575	5.964 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	336	596	5.105 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	368	587	4.050 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	381	582	0.270 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	422	580	4.060 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	414	585	6.131 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired3@4]	597	590	4.410 rad	4195274676	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	601	579	5.729 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired1@4]	611	584	4.991 rad	3592112374	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	614	581	4.984 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	402	574	0.000 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	408	574	0.000 rad	3904372160	1_1_3					
+Metadata/Chests/QuestChests/RhoaChest2	425	563	3.142 rad	410361374	1_1_3	7	-57.546			
+Object: Metadata/MiscellaneousObjects/WorldItem	595	552	5.186 rad	1418889786	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	594	552	5.034 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired2@4]	604	573	4.608 rad	2162003979	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	317	536	0.196 rad	3960227300	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	362	771	1.963 rad	3875590990	1_1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	345	753	5.616 rad	1418889786	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	345	753	2.037 rad	3875590990	1_1_3					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@4]	347	705	5.571 rad	1166182142	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	519	622	1.669 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	523	644	3.608 rad	1930853374	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	510	681	3.307 rad	3904372160	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	513	771	5.105 rad	2253631582	1_1_3					
+Metadata/Characters/StrInt/StrInt	278	862	6.283 rad	2448909918	1_1_3					
+Metadata/Chests/Crate2	443	643	1.372 rad	589372418	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	467	621	5.916 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	475	623	4.434 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	483	628	1.081 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	519	622	1.669 rad	2253631582	1_1_3					
+Metadata/Chests/Chest9	250	658	5.019 rad	324145545	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	272	701	2.191 rad	3904372160	1_1_3					
+Metadata/Chests/Barrel3old	339	706	1.801 rad	3865749632	1_1_3					
+Metadata/Chests/Barrel1old	347	705	0.127 rad	1528648667	1_1_3					
+Metadata/Chests/Barrel3old	337	713	4.136 rad	3865749632	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	419	729	5.743 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	307	751	4.084 rad	2744027549	1_1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	345	753	5.616 rad	1418889786	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	396	752	3.998 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	319	763	1.966 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	334	763	1.720 rad	2253631582	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	356	772	4.910 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	376	769	5.093 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	401	768	4.765 rad	1930853374	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	458	776	0.588 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	382	797	5.878 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	427	799	4.272 rad	3904372160	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	392	810	5.662 rad	3904372160	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	419	823	5.034 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	396	831	5.635 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	391	830	6.062 rad	3960227300	1_1_3					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	275	859	5.473 rad	1792897079	1_1_3					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	279	858	4.099 rad	1570723376	1_1_3					
+Object: Metadata/MiscellaneousObjects/AreaTransition	277	870	4.712 rad	726109394	1_1_3	21	-167.397	0	56912	The Fetid Pool
+Metadata/Chests/Chest2v2	437	975	1.554 rad	3722740639	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	393	656	3.730 rad	3904372160	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	523	644	3.608 rad	1930853374	1_1_3					
+Monster: Tide Strider [Metadata/Monsters/WaterElemental/WaterElementalTidal@4]	388	683	1.546 rad	53975337	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	490	676	4.501 rad	3904372160	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	510	681	3.307 rad	3904372160	1_1_3					
+Metadata/Chests/Chest4	481	774	2.177 rad	1679736977	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	503	767	6.136 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	513	771	5.105 rad	2253631582	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	462	794	5.131 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	503	788	5.841 rad	1930853374	1_1_3					
+Metadata/Chests/QuestChests/RhoaChest	494	839	0.000 rad	1759963746	1_1_3	7	-57.546			
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	467	939	3.110 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	251	603	4.590 rad	3960227300	1_1_3					
+Monster: Oozeback Bloom [Metadata/Monsters/Rhoas/RhoaBoss@4]	262	603	0.960 rad	45993206	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	502	602	3.730 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	260	576	3.780 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	254	591	4.663 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	274	575	5.964 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	336	596	5.105 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	368	587	4.050 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	381	582	0.270 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	422	580	4.060 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	414	585	6.131 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	402	574	0.000 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	408	574	0.000 rad	3904372160	1_1_3					
+Metadata/Chests/QuestChests/RhoaChest2	425	563	3.142 rad	410361374	1_1_3	7	-57.546			
+Metadata/Characters/StrInt/StrInt	278	862	6.283 rad	2448909918	1_1_3					
+Metadata/Chests/Crate2	443	643	1.372 rad	589372418	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	467	621	5.916 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	475	623	4.434 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	483	628	1.081 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	519	622	1.669 rad	2253631582	1_1_3					
+Metadata/Chests/Chest9	250	658	5.019 rad	324145545	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	239	695	4.931 rad	3904372160	1_1_3					
+Metadata/Chests/Barrel3old	339	706	1.801 rad	3865749632	1_1_3					
+Metadata/Chests/Barrel1old	347	705	0.127 rad	1528648667	1_1_3					
+Metadata/Chests/Barrel3old	337	713	4.136 rad	3865749632	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	419	729	5.743 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	307	751	4.084 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	336	754	0.000 rad	2253631582	1_1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	345	753	5.616 rad	1418889786	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	406	736	0.606 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	403	755	0.261 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	319	763	1.966 rad	2744027549	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	375	760	2.356 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	395	775	5.261 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	382	788	1.107 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	378	782	2.145 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	388	786	5.300 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	384	819	4.261 rad	3904372160	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	430	846	1.571 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	417	833	2.297 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	427	834	2.356 rad	3960227300	1_1_3					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	275	859	3.191 rad	1792897079	1_1_3					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	279	858	5.203 rad	1570723376	1_1_3					
+Object: Metadata/MiscellaneousObjects/AreaTransition	277	870	4.712 rad	726109394	1_1_3	21	-167.397	0	56912	The Fetid Pool
+Metadata/Chests/Chest2v2	437	975	1.554 rad	3722740639	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	402	665	1.893 rad	3904372160	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	523	644	3.608 rad	1930853374	1_1_3					
+Monster: Tide Strider [Metadata/Monsters/WaterElemental/WaterElementalTidal@4]	388	683	1.546 rad	53975337	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	490	676	4.501 rad	3904372160	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	510	681	3.307 rad	3904372160	1_1_3					
+Metadata/Chests/Chest4	481	774	2.177 rad	1679736977	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	503	767	6.136 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	513	771	5.105 rad	2253631582	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	462	794	5.131 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	503	788	5.841 rad	1930853374	1_1_3					
+Metadata/Chests/QuestChests/RhoaChest	494	839	0.000 rad	1759963746	1_1_3	7	-57.546			
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	467	939	3.110 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	251	603	4.590 rad	3960227300	1_1_3					
+Monster: Oozeback Bloom [Metadata/Monsters/Rhoas/RhoaBoss@4]	262	603	0.960 rad	45993206	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	502	602	3.730 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	260	576	3.780 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	254	591	4.663 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	274	575	5.964 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	336	596	5.105 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	368	587	4.050 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	381	582	0.270 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	422	580	4.060 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	414	585	6.131 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	402	574	0.000 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	408	574	0.000 rad	3904372160	1_1_3					
+Metadata/Chests/QuestChests/RhoaChest2	425	563	3.142 rad	410361374	1_1_3	7	-57.546			
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	317	536	0.196 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	519	622	1.669 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	523	644	3.608 rad	1930853374	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	510	681	3.307 rad	3904372160	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	513	771	5.105 rad	2253631582	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	266	521	4.712 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	267	516	1.914 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	449	511	5.924 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	455	511	3.142 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	550	630	6.087 rad	2744027549	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	269	496	0.049 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	274	498	3.657 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	286	483	1.325 rad	2253631582	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	340	494	2.467 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	346	501	3.307 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	460	501	0.322 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	470	505	0.571 rad	3904372160	1_1_3					
+Metadata/Chests/Chest2v2	287	473	5.253 rad	3722740639	1_1_3					
+Metadata/Chests/ProdWounded2	323	462	2.315 rad	2220685483	1_1_3					
+Metadata/Chests/Chest2v2	355	460	1.920 rad	3722740639	1_1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	595	552	5.186 rad	1418889786	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	594	552	5.034 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired3@4]	597	590	4.410 rad	4195274676	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	600	459	1.168 rad	3904372160	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired2@4]	604	573	4.608 rad	2162003979	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	601	579	5.729 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired1@4]	611	584	4.991 rad	3592112374	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	614	581	4.984 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	619	700	5.640 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	610	732	3.089 rad	3960227300	1_1_3					
+Metadata/Chests/Chest2v1	615	777	0.653 rad	4023569337	1_1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	659	842	5.069 rad	1418889786	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	681	474	6.017 rad	3904372160	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	682	495	0.574 rad	3904372160	1_1_3					
+Metadata/Chests/QuestChests/RhoaChest3	678	586	0.000 rad	3571656195	1_1_3	7	-57.546			
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	679	593	4.467 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	688	609	3.000 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	678	609	1.571 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	689	637	1.718 rad	2253631582	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	682	639	5.588 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	674	622	1.736 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	689	650	4.541 rad	1930853374	1_1_3					
+Metadata/NPC/Info/Karui/Stone3	681	681	0.000 rad	759428757	1_1_3	0	-0.000			
+Object: Metadata/MiscellaneousObjects/WorldItem	676	909	3.005 rad	1418889786	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	707	638	1.446 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	707	632	1.571 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	710	656	3.042 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	704	650	3.608 rad	2744027549	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	725	534	4.622 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	719	546	3.256 rad	3904372160	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	717	643	4.761 rad	2253631582	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	738	550	6.087 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	744	548	1.571 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	749	578	0.687 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	753	674	2.626 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	749	692	2.160 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	750	747	3.682 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	741	762	3.117 rad	1930853374	1_1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	536	692	0.000 rad	1450012487	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	768	499	2.970 rad	1930853374	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	775	507	4.393 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	777	690	5.989 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	768	750	3.731 rad	2744027549	1_1_3					
+Monster: Tide Strider [Metadata/Monsters/WaterElemental/WaterElementalTidal@4]	764	798	4.050 rad	53975337	1_1_3					
+Monster: Tide Strider [Metadata/Monsters/WaterElemental/WaterElementalTidal@4]	781	793	1.374 rad	53975337	1_1_3					
+Monster: Tide Strider [Metadata/Monsters/WaterElemental/WaterElementalTidal@4]	774	791	3.853 rad	53975337	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	515	647	2.705 rad	3875590990	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	539	644	3.177 rad	3875590990	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	525	630	3.042 rad	3875590990	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	783	468	0.810 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	789	501	3.117 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	803	617	0.515 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	795	631	1.424 rad	2253631582	1_1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	487	738	4.295 rad	1418889786	1_1_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	487	738	3.047 rad	2647986052	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	815	597	3.853 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	809	620	2.994 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired1@4]	817	636	5.522 rad	3592112374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired1@4]	823	646	0.614 rad	3592112374	1_1_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	436	712	1.012 rad	2647986052	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	845	586	5.866 rad	2744027549	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	847	592	0.221 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	835	608	3.927 rad	2253631582	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired3@4]	839	623	3.019 rad	4195274676	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired3@4]	839	649	3.019 rad	4195274676	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMired2@4]	837	668	3.191 rad	2162003979	1_1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	625	412	2.353 rad	1418889786	1_1_3					
+Metadata/Chests/Barrel1old	869	414	0.337 rad	1528648667	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	859	598	1.644 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	858	662	0.270 rad	1930853374	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	883	577	4.369 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	887	595	1.620 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	906	447	2.233 rad	3904372160	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	909	455	3.412 rad	2253631582	1_1_3					
+Metadata/Chests/Chest6	899	514	4.212 rad	2224233642	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	902	583	1.914 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	920	404	2.921 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	927	453	3.068 rad	2744027549	1_1_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	635	642	3.948 rad	2647986052	1_1_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	668	620	4.445 rad	2647986052	1_1_3					
+Object: Metadata/Effects/Spells/shatter/Shatter	679	644	4.712 rad	2647986052	1_1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	689	650	4.541 rad	3875590990	1_1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	676	909	3.005 rad	1418889786	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	467	499	5.820 rad	3904372160	1_1_3					
+Metadata/Chests/Chest4	481	774	2.177 rad	1679736977	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	467	939	3.110 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	658	924	2.795 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	445	505	5.851 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	448	499	5.498 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	458	507	3.420 rad	3960227300	1_1_3					
+Metadata/Chests/Crate2	443	643	1.372 rad	589372418	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	438	797	4.391 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	444	796	0.245 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	442	864	2.705 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	447	874	1.920 rad	3904372160	1_1_3					
+Metadata/Chests/QuestChests/RhoaChest2	425	563	3.142 rad	410361374	1_1_3	7	-57.546			
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	429	576	0.359 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	436	660	0.785 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	435	666	4.336 rad	3960227300	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge2@4]	419	729	5.743 rad	2744027549	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	432	796	2.290 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	423	794	1.893 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	428	854	2.622 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	626	954	3.037 rad	3904372160	1_1_3					
+Object: Metadata/QuestObjects/WaterCave/WaterTransition	837	963	4.712 rad	2473129094	1_1_3	-4	37.025			
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	401	574	4.364 rad	3904372160	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	399	582	4.845 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	393	596	3.000 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	413	590	4.943 rad	3960227300	1_1_3					
+Monster: Tercel Rhoa [Metadata/Monsters/Rhoas/RhoaBig@4]	412	677	1.441 rad	3904372160	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge3@4]	396	729	0.795 rad	1930853374	1_1_3					
+Monster: Dripping Dead [Metadata/Monsters/ZombieDismember/ZombieMiredGraspEmerge1@4]	403	729	0.077 rad	2253631582	1_1_3					
+Metadata/Chests/Chest2v2	437	975	1.554 rad	3722740639	1_1_3					
+Object: Metadata/QuestObjects/WaterCave/WaterCaveAreaTransition	864	979	4.712 rad	1004714836	1_1_3	7	-61.286	0	12917	The Submerged Passage
+Object: Metadata/QuestObjects/WaterCave/GlyphWall	760	996	4.712 rad	1806945548	1_1_3	21	-165.613			
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	883	577	4.369 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	887	595	1.620 rad	3960227300	1_1_3					
+Monster: Rhoa Mare [Metadata/Monsters/Rhoas/Rhoa@4]	902	583	1.914 rad	3960227300	1_1_3					

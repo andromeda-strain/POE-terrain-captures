@@ -1,0 +1,14 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1078	241	4.7124	-93.242	12	forest_caveexit_inca_v01_01.tdt	0	0	59770	1_2_11
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	943	374	3.1416	-32.755	4	treeforest_large_cliffs_v01_02.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	916	379	3.1416	-32.755	4	treeforest_large_cliffs_v01_02.tdt	1			
+Metadata/MiscellaneousObjects/Waypoint	931	540	3.1416	-15.508	2	forest_waypoint_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	244	779	4.7124	-321.882	41	grovewall_entrance_v01_01.tdt	0	0	64768	1_2_13
+Metadata/QuestObjects/Act7/GreustShrine	225	1080	1.5708	-403.446	52	forest_azmeri_shrine.tdt	0			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	423	1246	6.2832	-282.755	36	treeforest_large_cliffs_v01_04.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	539	1275	0.0000	-282.755	36	treeforest_large_cliffs_v01_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	531	1267	0.0000	-282.755	36	treeforest_large_cliffs_v01_01.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	988	1833	6.2832	-282.755	36	treeforest_large_cliffs_v01_02.tdt	1			
+Metadata/Monsters/Monkeys/TreeMonkeySpawner	1015	1828	6.2832	-282.755	36	treeforest_large_cliffs_v01_02.tdt	1			
+Metadata/MiscellaneousObjects/AreaTransition	1107	1839	1.5708	-423.281	54	waterfall_cave_entrance_v01_01.tdt	0	0	17515	1_2_14_2
+Metadata/QuestObjects/Act7/GreustShrineDisabler	235	1075	1.5708	-250.000	32	azmeri_quest_shrine.arm	1			

@@ -1,0 +1,46 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/Monsters/Statue/Male/Spawner_StoneStatueMaleMaul	655	155	3.1416	-335.938	43	act3_statue_spawner_03_01.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_StoneStatueMaleMaul	678	155	3.1416	-335.938	43	act3_statue_spawner_03_01.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_StoneStatueMaleMaul	632	189	0.0000	-335.938	43	act3_statue_spawner_03_01.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_StoneStatueFemaleSword	656	190	0.0000	-335.938	43	act3_statue_spawner_01_04.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_StoneStatueMaleMaul	678	189	0.0000	-335.938	43	act3_statue_spawner_03_01.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_StoneStatueFemaleBow	821	288	1.5708	-335.938	43	act3_statue_spawner_01_02.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_StoneStatueMaleMaul	856	287	4.7124	-335.938	43	act3_statue_spawner_03_01.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_StoneStatueMaleMaul	856	310	4.7124	-335.938	43	act3_statue_spawner_03_01.tdt	0			
+Metadata/QuestObjects/Sewers/SewersLockedTransition	1138	310	3.1416	-325.644	42	slum_sewer_entrance_v02_01.tdt	0	0	61682	1_3_10_1
+Metadata/QuestObjects/Sewers/SewersLockedDoor	1138	309	3.1416	-345.932	44	slum_sewer_entrance_v02_01.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_StoneStatueFemaleSword	857	332	4.7124	-335.938	43	act3_statue_spawner_01_04.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_StoneStatueFemaleSword	568	633	1.5708	-335.938	43	act3_statue_spawner_01_04.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_StoneStatueMaleBow	569	655	1.5708	-335.938	43	act3_statue_spawner_03_02.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_StoneStatueFemaleMaul	604	654	4.7124	-335.938	43	act3_statue_spawner_01_03.tdt	0			
+Metadata/Monsters/Statue/MaleLarge/Spawner_StoneStatueLargeMaleSpear	603	678	4.7124	-335.938	43	statue_largemalestone_v01_02.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_StoneStatueFemaleMaul	568	702	1.5708	-335.938	43	act3_statue_spawner_01_03.tdt	0			
+Metadata/Monsters/Statue/MaleLarge/Spawner_StoneStatueLargeMaleSpear	632	707	3.1416	-335.938	43	statue_largemalestone_v01_02.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_StoneStatueMaleMaul	678	707	3.1416	-335.938	43	act3_statue_spawner_03_01.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_StoneStatueMaleBow	701	707	3.1416	-335.938	43	act3_statue_spawner_03_02.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_StoneStatueMaleMaul	724	707	3.1416	-335.938	43	act3_statue_spawner_03_01.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_StoneStatueMaleBow	741	724	4.7124	-335.938	43	act3_statue_spawner_03_02.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_StoneStatueMaleBow	586	741	0.0000	-335.938	43	act3_statue_spawner_03_02.tdt	0			
+Metadata/Monsters/Statue/MaleLarge/Spawner_StoneStatueLargeMaleBoss	678	741	0.0000	-335.938	43	statue_largemalestone_v01_01.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_StoneStatueFemaleMaul	742	746	4.7124	-335.938	43	act3_statue_spawner_01_03.tdt	0			
+Metadata/Monsters/Statue/FemaleLarge/Spawner_StoneStatueLargeFemaleSpear	706	770	1.5708	-335.938	43	statue_largefemalestone_01_02.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_StoneStatueFemaleSword	706	794	1.5708	-335.938	43	act3_statue_spawner_01_04.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_StoneStatueFemaleSword	742	792	4.7124	-335.938	43	act3_statue_spawner_01_04.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_StoneStatueMaleMaul	707	816	1.5708	-335.938	43	act3_statue_spawner_03_01.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_StoneStatueFemaleSword	742	815	4.7124	-335.938	43	act3_statue_spawner_01_04.tdt	0			
+Metadata/MiscellaneousObjects/Waypoint	724	862	3.1416	-351.046	45	citywaypoint_v02_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	870	966	4.7124	-333.474	43	markettochurchdungeon_v01_01.tdt	0	0	49887	1_3_6
+Metadata/Monsters/Statue/MaleLarge/Spawner_StoneStatueLargeMaleSpear	724	1017	0.0000	-335.938	43	statue_largemalestone_v01_02.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	792	1668	0.0000	-497.719	64	market_to_battlefront_v01_01.tdt	0	0	25759	1_3_7
+Metadata/MiscellaneousObjects/AmbushPointSmall	690	710	3.1416	-335.938	43	special_boss_var_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPointSmall	683	744	3.1416	-335.938	43	special_boss_var_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPointSmall	702	767	3.1416	-335.938	43	special_boss_var_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPointSmall	736	754	3.1416	-335.938	43	special_boss_var_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPointSmall	625	738	1.5708	-335.938	43	var_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPointSmall	569	687	1.5708	-335.938	43	var_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPointSmall	600	687	1.5708	-335.938	43	var_2.arm	1			
+Metadata/MiscellaneousObjects/AmbushPointSmall	625	709	1.5708	-335.938	43	var_2.arm	1			
+Metadata/Chests/QuestChests/Fairgraves/DecanterChest	875	1398	4.5185	-351.562	45	decanter_1.arm	0			
+Metadata/NPC/Info/Victario/Notebook	585	170	5.4456	-422.894	54	victario_notebook.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	658	172	6.2832	-335.938	43	statue_3.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	839	313	1.5708	-335.938	43	statue_3.arm	1			

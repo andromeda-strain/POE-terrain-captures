@@ -1,0 +1,18 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	873	842	4.7124	-162.307	21	caveup_exit_v01_01.tdt	0	0	12917	1_1_4_1
+Metadata/Terrain/Act1/Area4Level0/Objects/BubblesFloodedDepths	255	205	3.6407	0.000	0	boss_water_wet_unique_10a.arm	0			
+Metadata/Terrain/Act1/Area4Level0/Objects/BubblesFloodedDepths	138	191	3.6407	0.000	0	boss_water_wet_unique_10a.arm	0			
+Metadata/Terrain/Act1/Area4Level0/Objects/BubblesFloodedDepths	137	299	3.6407	0.000	0	boss_water_wet_unique_10a.arm	0			
+Metadata/Terrain/Act1/Area4Level0/Objects/BubblesFloodedDepths	206	337	3.6407	0.000	0	boss_water_wet_unique_10a.arm	0			
+Metadata/Terrain/Act1/Area4Level0/Objects/BubblesFloodedDepths	324	267	3.6407	0.000	0	boss_water_wet_unique_10a.arm	0			
+Metadata/Terrain/Act1/Area4Level0/Objects/BubblesFloodedDepths	328	375	3.6407	0.000	0	boss_water_wet_unique_10a.arm	0			
+Metadata/Terrain/Act1/Area4Level0/Objects/BubblesFloodedDepths	313	437	3.6407	0.000	0	boss_water_wet_unique_10a.arm	0			
+Metadata/Terrain/Act1/Area4Level0/Objects/DepthsExitTransition	186	134	2.8123	27.000	-3	boss_water_wet_unique_10a.arm	0	0	12917	1_1_4_1
+Metadata/Monsters/CrabMonsters/CrabCoconutEmerge	311	270	4.4506	0.000	0	boss_water_wet_unique_10a.arm	0			
+Metadata/Monsters/CrabMonsters/CrabCoconutEmerge	313	374	4.6251	0.000	0	boss_water_wet_unique_10a.arm	0			
+Metadata/Monsters/CrabMonsters/CrabCoconutEmerge	313	446	3.0543	0.000	0	boss_water_wet_unique_10a.arm	0			
+Metadata/Monsters/CrabMonsters/CrabCoconutEmerge	250	212	3.8397	0.000	0	boss_water_wet_unique_10a.arm	0			
+Metadata/Monsters/CrabMonsters/CrabCoconutEmerge	217	339	1.6581	0.000	0	boss_water_wet_unique_10a.arm	0			
+Metadata/Monsters/CrabMonsters/CrabCoconutEmerge	146	194	2.0071	0.000	0	boss_water_wet_unique_10a.arm	0			
+Metadata/Monsters/CrabMonsters/CrabCoconutEmerge	150	300	1.2217	0.000	0	boss_water_wet_unique_10a.arm	0			
+Metadata/Shrines/Shrine	885	701	2.1923	0.000	0	shrine_01.arm	0			

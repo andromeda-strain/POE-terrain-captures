@@ -1,0 +1,349 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/Int/Int	287	374	4.249 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	328	398	3.927 rad	1086455624	1_3_town					
+Metadata/Characters/Str/Str	363	419	1.571 rad	3618279525	1_3_town					
+Metadata/Characters/StrInt/StrInt	385	191	3.142 rad	2448909918	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Characters/Str/Str	244	435	2.761 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	244	435	2.761 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Characters/StrDex/StrDex	287	419	2.034 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	293	415	3.142 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	297	427	5.608 rad	2448909918	1_3_town					
+Metadata/Characters/Dex/Dex	290	416	2.678 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	296	416	3.605 rad	2621544766	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/Characters/DexInt/DexInt	370	429	0.381 rad	3989868005	1_3_town					
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/Characters/DexInt/DexInt	368	461	2.761 rad	3989868005	1_3_town					
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/Characters/DexInt/DexInt	368	461	2.761 rad	3989868005	1_3_town					
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Object: Metadata/MiscellaneousObjects/AreaTransition	612	525	0.000 rad	726109394	1_3_town	77	-603.319	0	37655	The Slums
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/Int/Int	287	374	4.249 rad	2621544766	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Characters/StrDex/StrDex	287	419	2.034 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	293	415	3.142 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	290	416	2.678 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	296	416	3.605 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	244	435	2.761 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	244	435	2.761 rad	2621544766	1_3_town					
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/StrInt/StrInt	311	326	0.000 rad	2448909918	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	311	326	0.000 rad	1086455624	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	612	525	0.000 rad	726109394	1_3_town	77	-603.319	0	37655	The Slums
+Metadata/Characters/StrInt/StrInt	322	383	2.976 rad	2448909918	1_3_town					
+Metadata/Characters/Str/Str	325	391	5.961 rad	3618279525	2_8_town					
+Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
+Metadata/Characters/Int/Int	369	461	2.761 rad	2621544766	2_8_town					
+Metadata/Characters/StrInt/StrInt	311	326	0.000 rad	2448909918	2_8_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	276	255	0.000 rad	726109394	2_8_town	67	-531.223	0	38868	The Sarn Ramparts
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	2_8_town	63	-493.478			
+Metadata/NPC/League/Expedition/TownDoodadDealer	350	366	3.903 rad	1558386669	2_8_town	75	-585.940			
+Metadata/NPC/League/Expedition/TownDoodadDealer	357	365	3.238 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/League/Expedition/TownDoodadDealer	354	367	4.417 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/Act8/SinTown	274	375	1.648 rad	252408322	2_8_town					
+Metadata/NPC/League/Expedition/Dealer	347	370	4.188 rad	1454344138	2_8_town					
+Object: Metadata/NPC/Blocker	347	370	4.188 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/Gambler	356	375	3.960 rad	13004121	2_8_town					
+Object: Metadata/NPC/Blocker	356	375	3.960 rad	1980547395	2_8_town					
+Object: Metadata/NPC/Blocker	365	388	4.290 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/TownStash	365	388	4.290 rad	3348576580	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	362	372	0.716 rad	3935977174	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	364	375	0.834 rad	3935977174	2_8_town	84	-664.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	361	379	1.348 rad	3935977174	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	358	369	1.007 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	369	377	0.000 rad	3935977174	2_8_town	84	-664.000			
+Metadata/NPC/League/Expedition/TownDoodadHaggler	375	387	5.225 rad	500414267	2_8_town	75	-590.000			
+Metadata/NPC/League/Expedition/TownDoodadSaga	381	382	5.109 rad	1013622912	2_8_town	73	-577.570			
+Metadata/NPC/League/Expedition/TownDoodadSaga	369	383	1.828 rad	1013622912	2_8_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	226	397	2.692 rad	2564365857	2_8_town					
+Metadata/NPC/League/Expedition/Saga	368	406	5.745 rad	2589473623	2_8_town					
+Object: Metadata/NPC/Blocker	368	406	5.745 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/Haggler	372	398	4.647 rad	20954719	2_8_town					
+Object: Metadata/NPC/Blocker	372	398	4.647 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	384	393	3.858 rad	500414267	2_8_town	74	-582.000			
+Metadata/NPC/League/Expedition/TownDoodadSaga	376	404	5.176 rad	1013622912	2_8_town					
+Object: Metadata/MiscellaneousObjects/Stash	294	422	0.398 rad	2817685266	2_8_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	2_8_town	76	-595.159			
+Metadata/NPC/Act8/Maramoa	373	418	4.921 rad	2132397824	2_8_town					
+Metadata/NPC/League/Kalguur/VillageFaustusTown	414	434	4.142 rad	3922154524	2_8_town					
+Metadata/NPC/Act8/ClarissaTown	239	451	5.794 rad	2084654684	2_8_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	316	460	0.028 rad	688764747	2_8_town					
+Metadata/NPC/Act8/Hargan	373	471	5.791 rad	1895069522	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	393	464	0.040 rad	1285951471	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	403	464	5.983 rad	1285951471	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	413	462	5.669 rad	1285951471	2_8_town					
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	2_8_town	130	-1020.441	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	2_8_town	117	-920.092			
+Metadata/Terrain/Leagues/Affliction/Act8_DeliriumTown/Objects/BaseToRemove	299	503	0.000 rad	319389079	2_8_town	117	-920.092			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	2_8_town	117	-920.092			
+Metadata/Characters/Str/Str	325	391	5.961 rad	3618279525	2_8_town					
+Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
+Metadata/Characters/Int/Int	227	438	3.584 rad	2621544766	2_8_town					
+Metadata/Characters/Dex/Dex	252	416	4.172 rad	2287107054	2_8_town					
+Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	276	255	0.000 rad	726109394	2_8_town	67	-531.223	0	38868	The Sarn Ramparts
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	2_8_town	63	-493.478			
+Metadata/MiscellaneousObjects/MultiplexPortal	337	337	4.705 rad	1600303822	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	350	366	3.903 rad	1558386669	2_8_town	75	-585.940			
+Metadata/NPC/League/Expedition/TownDoodadDealer	357	365	3.238 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/League/Expedition/TownDoodadDealer	354	367	4.417 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/Act8/SinTown	274	375	1.648 rad	252408322	2_8_town					
+Metadata/NPC/League/Expedition/Dealer	347	370	4.188 rad	1454344138	2_8_town					
+Object: Metadata/NPC/Blocker	347	370	4.188 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/Gambler	356	375	3.960 rad	13004121	2_8_town					
+Object: Metadata/NPC/Blocker	356	375	3.960 rad	1980547395	2_8_town					
+Object: Metadata/NPC/Blocker	365	388	4.290 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/TownStash	365	388	4.290 rad	3348576580	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	362	372	0.716 rad	3935977174	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	364	375	0.834 rad	3935977174	2_8_town	84	-664.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	361	379	1.348 rad	3935977174	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	358	369	1.007 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	369	377	0.000 rad	3935977174	2_8_town	84	-664.000			
+Metadata/NPC/League/Expedition/TownDoodadHaggler	375	387	5.225 rad	500414267	2_8_town	75	-590.000			
+Metadata/NPC/League/Expedition/TownDoodadSaga	381	382	5.109 rad	1013622912	2_8_town	73	-577.570			
+Metadata/NPC/League/Expedition/TownDoodadSaga	369	383	1.828 rad	1013622912	2_8_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	226	397	2.692 rad	2564365857	2_8_town					
+Metadata/NPC/League/Expedition/Saga	368	406	5.745 rad	2589473623	2_8_town					
+Object: Metadata/NPC/Blocker	368	406	5.745 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/Haggler	372	398	4.647 rad	20954719	2_8_town					
+Object: Metadata/NPC/Blocker	372	398	4.647 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	384	393	3.858 rad	500414267	2_8_town	74	-582.000			
+Metadata/NPC/League/Expedition/TownDoodadSaga	376	404	5.176 rad	1013622912	2_8_town					
+Object: Metadata/MiscellaneousObjects/Stash	294	422	0.398 rad	2817685266	2_8_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	2_8_town	76	-595.159			
+Metadata/NPC/Act8/Maramoa	373	418	4.921 rad	2132397824	2_8_town					
+Metadata/NPC/League/Kalguur/VillageFaustusTown	414	434	4.142 rad	3922154524	2_8_town					
+Metadata/NPC/Act8/ClarissaTown	239	451	5.794 rad	2084654684	2_8_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	316	460	0.028 rad	688764747	2_8_town					
+Metadata/NPC/Act8/Hargan	373	471	5.791 rad	1895069522	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	393	464	0.040 rad	1285951471	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	403	464	5.983 rad	1285951471	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	413	462	5.669 rad	1285951471	2_8_town					
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	2_8_town	130	-1020.441	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	2_8_town	117	-920.092			
+Metadata/Terrain/Leagues/Affliction/Act8_DeliriumTown/Objects/BaseToRemove	299	503	0.000 rad	319389079	2_8_town	117	-920.092			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	2_8_town	117	-920.092			
+Metadata/Characters/Str/Str	325	391	5.961 rad	3618279525	2_8_town					
+Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
+Metadata/Characters/DexInt/DexInt	288	419	2.034 rad	3989868005	2_8_town					
+Metadata/Characters/Dex/Dex	328	398	3.927 rad	2287107054	2_8_town					
+Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	276	255	0.000 rad	726109394	2_8_town	67	-531.223	0	38868	The Sarn Ramparts
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	2_8_town	63	-493.478			
+Metadata/MiscellaneousObjects/MultiplexPortal	337	337	4.705 rad	1600303822	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	350	366	3.903 rad	1558386669	2_8_town	75	-585.940			
+Metadata/NPC/League/Expedition/TownDoodadDealer	357	365	3.238 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/League/Expedition/TownDoodadDealer	354	367	4.417 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/Act8/SinTown	274	375	1.648 rad	252408322	2_8_town					
+Metadata/NPC/League/Expedition/Dealer	347	370	4.188 rad	1454344138	2_8_town					
+Object: Metadata/NPC/Blocker	347	370	4.188 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/Gambler	356	375	3.960 rad	13004121	2_8_town					
+Object: Metadata/NPC/Blocker	356	375	3.960 rad	1980547395	2_8_town					
+Object: Metadata/NPC/Blocker	365	388	4.290 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/TownStash	365	388	4.290 rad	3348576580	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	362	372	0.716 rad	3935977174	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	364	375	0.834 rad	3935977174	2_8_town	84	-664.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	361	379	1.348 rad	3935977174	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	358	369	1.007 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	369	377	0.000 rad	3935977174	2_8_town	84	-664.000			
+Metadata/NPC/League/Expedition/TownDoodadHaggler	375	387	5.225 rad	500414267	2_8_town	75	-590.000			
+Metadata/NPC/League/Expedition/TownDoodadSaga	381	382	5.109 rad	1013622912	2_8_town	73	-577.570			
+Metadata/NPC/League/Expedition/TownDoodadSaga	369	383	1.828 rad	1013622912	2_8_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	226	397	2.692 rad	2564365857	2_8_town					
+Metadata/NPC/League/Expedition/Saga	368	406	5.745 rad	2589473623	2_8_town					
+Object: Metadata/NPC/Blocker	368	406	5.745 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/Haggler	372	398	4.647 rad	20954719	2_8_town					
+Object: Metadata/NPC/Blocker	372	398	4.647 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	384	393	3.858 rad	500414267	2_8_town	74	-582.000			
+Metadata/NPC/League/Expedition/TownDoodadSaga	376	404	5.176 rad	1013622912	2_8_town					
+Object: Metadata/MiscellaneousObjects/Stash	294	422	0.398 rad	2817685266	2_8_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	2_8_town	76	-595.159			
+Metadata/NPC/Act8/Maramoa	373	418	4.921 rad	2132397824	2_8_town					
+Metadata/NPC/League/Kalguur/VillageFaustusTown	414	434	4.142 rad	3922154524	2_8_town					
+Metadata/NPC/Act8/ClarissaTown	239	451	5.794 rad	2084654684	2_8_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	316	460	0.028 rad	688764747	2_8_town					
+Metadata/NPC/Act8/Hargan	373	471	5.791 rad	1895069522	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	393	464	0.040 rad	1285951471	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	403	464	5.983 rad	1285951471	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	413	462	5.669 rad	1285951471	2_8_town					
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	2_8_town	130	-1020.441	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	2_8_town	117	-920.092			
+Metadata/Terrain/Leagues/Affliction/Act8_DeliriumTown/Objects/BaseToRemove	299	503	0.000 rad	319389079	2_8_town	117	-920.092			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	2_8_town	117	-920.092			
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	2_8_town					
+Metadata/Characters/Str/Str	325	391	5.961 rad	3618279525	2_8_town					
+Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
+Metadata/Characters/DexInt/DexInt	288	419	2.034 rad	3989868005	2_8_town					
+Metadata/Characters/Dex/Dex	328	398	3.927 rad	2287107054	2_8_town					
+Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	276	255	0.000 rad	726109394	2_8_town	67	-531.223	0	38868	The Sarn Ramparts
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	2_8_town	63	-493.478			
+Metadata/MiscellaneousObjects/MultiplexPortal	337	337	4.705 rad	1600303822	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	350	366	3.903 rad	1558386669	2_8_town	75	-585.940			
+Metadata/NPC/League/Expedition/TownDoodadDealer	357	365	3.238 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/League/Expedition/TownDoodadDealer	354	367	4.417 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/Act8/SinTown	274	375	1.648 rad	252408322	2_8_town					
+Metadata/NPC/League/Expedition/Dealer	347	370	4.188 rad	1454344138	2_8_town					
+Object: Metadata/NPC/Blocker	347	370	4.188 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/Gambler	356	375	3.960 rad	13004121	2_8_town					
+Object: Metadata/NPC/Blocker	356	375	3.960 rad	1980547395	2_8_town					
+Object: Metadata/NPC/Blocker	365	388	4.290 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/TownStash	365	388	4.290 rad	3348576580	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	362	372	0.716 rad	3935977174	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	364	375	0.834 rad	3935977174	2_8_town	84	-664.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	361	379	1.348 rad	3935977174	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	358	369	1.007 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	369	377	0.000 rad	3935977174	2_8_town	84	-664.000			
+Metadata/NPC/League/Expedition/TownDoodadHaggler	375	387	5.225 rad	500414267	2_8_town	75	-590.000			
+Metadata/NPC/League/Expedition/TownDoodadSaga	381	382	5.109 rad	1013622912	2_8_town	73	-577.570			
+Metadata/NPC/League/Expedition/TownDoodadSaga	369	383	1.828 rad	1013622912	2_8_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	226	397	2.692 rad	2564365857	2_8_town					
+Metadata/NPC/League/Expedition/Saga	368	406	5.745 rad	2589473623	2_8_town					
+Object: Metadata/NPC/Blocker	368	406	5.745 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/Haggler	372	398	4.647 rad	20954719	2_8_town					
+Object: Metadata/NPC/Blocker	372	398	4.647 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	384	393	3.858 rad	500414267	2_8_town	74	-582.000			
+Metadata/NPC/League/Expedition/TownDoodadSaga	376	404	5.176 rad	1013622912	2_8_town					
+Object: Metadata/MiscellaneousObjects/Stash	294	422	0.398 rad	2817685266	2_8_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	2_8_town	76	-595.159			
+Metadata/NPC/Act8/Maramoa	373	418	4.921 rad	2132397824	2_8_town					
+Metadata/NPC/League/Kalguur/VillageFaustusTown	414	434	4.142 rad	3922154524	2_8_town					
+Metadata/NPC/Act8/ClarissaTown	239	451	5.794 rad	2084654684	2_8_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	316	460	0.028 rad	688764747	2_8_town					
+Metadata/NPC/Act8/Hargan	373	471	5.791 rad	1895069522	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	393	464	0.040 rad	1285951471	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	403	464	5.983 rad	1285951471	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	413	462	5.669 rad	1285951471	2_8_town					
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	2_8_town	130	-1020.441	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	2_8_town	117	-920.092			
+Metadata/Terrain/Leagues/Affliction/Act8_DeliriumTown/Objects/BaseToRemove	299	503	0.000 rad	319389079	2_8_town	117	-920.092			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	2_8_town	117	-920.092			
+Metadata/Characters/Str/Str	325	391	5.961 rad	3618279525	2_8_town					
+Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
+Metadata/Characters/DexInt/DexInt	288	419	2.034 rad	3989868005	2_8_town					
+Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	276	255	0.000 rad	726109394	2_8_town	67	-531.223	0	38868	The Sarn Ramparts
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	2_8_town	63	-493.478			
+Metadata/MiscellaneousObjects/MultiplexPortal	337	337	4.705 rad	1600303822	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	350	366	3.903 rad	1558386669	2_8_town	75	-585.940			
+Metadata/NPC/League/Expedition/TownDoodadDealer	357	365	3.238 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/League/Expedition/TownDoodadDealer	354	367	4.417 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/Act8/SinTown	274	375	1.648 rad	252408322	2_8_town					
+Metadata/NPC/League/Expedition/Dealer	347	370	4.188 rad	1454344138	2_8_town					
+Object: Metadata/NPC/Blocker	347	370	4.188 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/Gambler	356	375	3.960 rad	13004121	2_8_town					
+Object: Metadata/NPC/Blocker	356	375	3.960 rad	1980547395	2_8_town					
+Object: Metadata/NPC/Blocker	365	388	4.290 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/TownStash	365	388	4.290 rad	3348576580	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	362	372	0.716 rad	3935977174	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	364	375	0.834 rad	3935977174	2_8_town	84	-664.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	361	379	1.348 rad	3935977174	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	358	369	1.007 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	369	377	0.000 rad	3935977174	2_8_town	84	-664.000			
+Metadata/NPC/League/Expedition/TownDoodadHaggler	375	387	5.225 rad	500414267	2_8_town	75	-590.000			
+Metadata/NPC/League/Expedition/TownDoodadSaga	381	382	5.109 rad	1013622912	2_8_town	73	-577.570			
+Metadata/NPC/League/Expedition/TownDoodadSaga	369	383	1.828 rad	1013622912	2_8_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	226	397	2.692 rad	2564365857	2_8_town					
+Metadata/NPC/League/Expedition/Saga	368	406	5.745 rad	2589473623	2_8_town					
+Object: Metadata/NPC/Blocker	368	406	5.745 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/Haggler	372	398	4.647 rad	20954719	2_8_town					
+Object: Metadata/NPC/Blocker	372	398	4.647 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	384	393	3.858 rad	500414267	2_8_town	74	-582.000			
+Metadata/NPC/League/Expedition/TownDoodadSaga	376	404	5.176 rad	1013622912	2_8_town					
+Object: Metadata/MiscellaneousObjects/Stash	294	422	0.398 rad	2817685266	2_8_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	2_8_town	76	-595.159			
+Metadata/NPC/Act8/Maramoa	373	418	4.921 rad	2132397824	2_8_town					
+Metadata/NPC/League/Kalguur/VillageFaustusTown	414	434	4.142 rad	3922154524	2_8_town					
+Metadata/NPC/Act8/ClarissaTown	239	451	5.794 rad	2084654684	2_8_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	316	460	0.028 rad	688764747	2_8_town					
+Metadata/NPC/Act8/Hargan	373	471	5.791 rad	1895069522	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	393	464	0.040 rad	1285951471	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	403	464	5.983 rad	1285951471	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	413	462	5.669 rad	1285951471	2_8_town					
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	2_8_town	130	-1020.441	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	2_8_town	117	-920.092			
+Metadata/Terrain/Leagues/Affliction/Act8_DeliriumTown/Objects/BaseToRemove	299	503	0.000 rad	319389079	2_8_town	117	-920.092			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	2_8_town	117	-920.092			
+Metadata/Characters/Str/Str	325	391	5.961 rad	3618279525	2_8_town					
+Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
+Metadata/Characters/Str/Str	309	336	0.197 rad	3618279525	2_8_town					
+Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	276	255	0.000 rad	726109394	2_8_town	67	-531.223	0	38868	The Sarn Ramparts
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	2_8_town	63	-493.478			
+Metadata/MiscellaneousObjects/MultiplexPortal	337	337	4.705 rad	1600303822	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	350	366	3.903 rad	1558386669	2_8_town	75	-585.940			
+Metadata/NPC/League/Expedition/TownDoodadDealer	357	365	3.238 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/League/Expedition/TownDoodadDealer	354	367	4.417 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/Act8/SinTown	274	375	1.648 rad	252408322	2_8_town					
+Metadata/NPC/League/Expedition/Dealer	347	370	4.188 rad	1454344138	2_8_town					
+Object: Metadata/NPC/Blocker	347	370	4.188 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/Gambler	356	375	3.960 rad	13004121	2_8_town					
+Object: Metadata/NPC/Blocker	356	375	3.960 rad	1980547395	2_8_town					
+Object: Metadata/NPC/Blocker	365	388	4.290 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/TownStash	365	388	4.290 rad	3348576580	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	362	372	0.716 rad	3935977174	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadGwennen	364	375	0.834 rad	3935977174	2_8_town	84	-664.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	361	379	1.348 rad	3935977174	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadDealer	358	369	1.007 rad	1558386669	2_8_town	84	-663.000			
+Metadata/NPC/League/Expedition/TownDoodadGwennen	369	377	0.000 rad	3935977174	2_8_town	84	-664.000			
+Metadata/NPC/League/Expedition/TownDoodadHaggler	375	387	5.225 rad	500414267	2_8_town	75	-590.000			
+Metadata/NPC/League/Expedition/TownDoodadSaga	381	382	5.109 rad	1013622912	2_8_town	73	-577.570			
+Metadata/NPC/League/Expedition/TownDoodadSaga	369	383	1.828 rad	1013622912	2_8_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	226	397	2.692 rad	2564365857	2_8_town					
+Metadata/NPC/League/Expedition/Saga	368	406	5.745 rad	2589473623	2_8_town					
+Object: Metadata/NPC/Blocker	368	406	5.745 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/Haggler	372	398	4.647 rad	20954719	2_8_town					
+Object: Metadata/NPC/Blocker	372	398	4.647 rad	1980547395	2_8_town					
+Metadata/NPC/League/Expedition/TownDoodadHaggler	384	393	3.858 rad	500414267	2_8_town	74	-582.000			
+Metadata/NPC/League/Expedition/TownDoodadSaga	376	404	5.176 rad	1013622912	2_8_town					
+Object: Metadata/MiscellaneousObjects/Stash	294	422	0.398 rad	2817685266	2_8_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	2_8_town	76	-595.159			
+Metadata/NPC/Act8/Maramoa	373	418	4.921 rad	2132397824	2_8_town					
+Metadata/NPC/League/Kalguur/VillageFaustusTown	414	434	4.142 rad	3922154524	2_8_town					
+Metadata/NPC/Act8/ClarissaTown	239	451	5.794 rad	2084654684	2_8_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	316	460	0.028 rad	688764747	2_8_town					
+Metadata/NPC/Act8/Hargan	373	471	5.791 rad	1895069522	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	393	464	0.040 rad	1285951471	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	403	464	5.983 rad	1285951471	2_8_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	413	462	5.669 rad	1285951471	2_8_town					
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	2_8_town	130	-1020.441	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	2_8_town	117	-920.092			
+Metadata/Terrain/Leagues/Affliction/Act8_DeliriumTown/Objects/BaseToRemove	299	503	0.000 rad	319389079	2_8_town	117	-920.092			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	2_8_town	117	-920.092			
+Metadata/Characters/StrDex/StrDex	280	256	3.142 rad	2810334424	2_8_town					

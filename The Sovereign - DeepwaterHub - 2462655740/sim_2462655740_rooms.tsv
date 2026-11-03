@@ -1,3 +1,3 @@
-sub	arm	x	y	o
-0	Metadata/Terrain/Leagues/Deepwater/Hub/hub.arm	0	12	0
-1	Metadata/Terrain/Leagues/Deepwater/Hub/hub_interior.arm	0	0	0
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Leagues/Deepwater/Hub/hub.arm	0	12	0	node	default telepad1 teleport2 telepad3
+1	Metadata/Terrain/Leagues/Deepwater/Hub/hub_interior.arm	0	0	0	node	teleport1 telepad2

@@ -1,0 +1,5 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	850	321	1.5708	12.853	-2	forestcave_entrance_hole_v01_01.tdt	0	1	31479	HideoutForest_Claim
+Metadata/MiscellaneousObjects/AreaTransition	1383	459	1.5708	-173.281	22	waterfall_cave_entrance_v01_01.tdt	0	1	64768	%areaname%
+Metadata/MiscellaneousObjects/AreaTransition	172	761	1.5708	-133.849	17	grove_wall_exit_v01_01.tdt	0	0	47696	1_2_8
+Metadata/NPC/Missions/HelenaClaim	1355	434	0.0000	0.000	0	hideout_claim.arm	0			

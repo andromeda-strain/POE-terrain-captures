@@ -1,0 +1,64 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/Door	1644	241	3.1416	-0.000	0	dungeon_prison_door_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Door	448	264	3.1416	-0.000	0	dungeon_prison_door_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Door	540	264	3.1416	-0.000	0	dungeon_prison_door_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Door	1805	264	4.7124	-0.000	0	dungeon_prison_door_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Door	471	310	1.5708	-0.000	0	dungeon_prison_door_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Door	517	310	4.7124	-0.000	0	dungeon_prison_door_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Door	494	356	4.7124	-0.000	0	dungeon_prison_door_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	3472	379	4.7124	-252.346	32	shavronne_prison_door_up_v01_03.tdt	0	1	1109484874	ArenaNameShavronne
+Metadata/MiscellaneousObjects/AreaTransitionToggleable	2108	390	3.1416	-125.000	16	prison_exit_up_v01_01.tdt	0	1	50	Stairs
+Metadata/MiscellaneousObjects/AreaTransition	3541	379	4.7124	-252.346	32	prison_door_up_v01_01.tdt	0	0	22655	2_6_8
+Metadata/MiscellaneousObjects/AreaTransitionToggleable	2921	437	6.2832	150.942	-19	prison_entrance_down_v01_01.tdt	0	1	50	Stairs
+Metadata/MiscellaneousObjects/AreaTransition	2472	444	3.1416	-204.175	26	prison_ladder_v01_01.tdt	0	1	1109484874	ArenaNameShavronne
+Metadata/MiscellaneousObjects/AreaTransition	616	591	1.5708	-106.770	14	shavronne_prison_door_up_v01_02.tdt	0	0	28415	2_6_7_1
+Metadata/MiscellaneousObjects/Door	1644	678	1.5708	-0.000	0	dungeon_prison_door_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransitionToggleable	850	713	0.0000	150.942	-19	prison_entrance_down_v01_01.tdt	0	1	50	Stairs
+Metadata/MiscellaneousObjects/AreaTransitionToggleable	1978	713	6.2832	150.942	-19	prison_entrance_down_v01_01.tdt	0	1	50	Stairs
+Metadata/MiscellaneousObjects/AreaTransitionToggleable	321	728	1.5708	-125.000	16	prison_exit_up_v01_01.tdt	0	1	50	Stairs
+Metadata/MiscellaneousObjects/AreaTransitionToggleable	1333	728	1.5708	-125.000	16	prison_exit_up_v01_01.tdt	0	1	50	Stairs
+Metadata/MiscellaneousObjects/AreaTransition	3139	720	3.1416	53.874	-7	prison_ladder_v02_01.tdt	0	1	46634	%areaname%
+Metadata/MiscellaneousObjects/AnimateReversible	3139	724	3.1416	0.000	0	prison_ladder_v02_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	3094	787	4.7124	196.966	-25	tower_spiral_stair_v01_01.tdt	0	1	732914757	BrutusArenaName
+Metadata/MiscellaneousObjects/Door_Disabled	3107	801	4.7124	0.000	0	tower_spiral_stair_v01_01.tdt	0			
+Metadata/NPC/Info/ShavronneManifesto	3232	842	0.9456	0.000	0	boss1.arm	0			
+Metadata/Monsters/Shavronne/ShavronneArenaMiddle	3174	773	4.7025	0.000	0	boss1.arm	0			
+Metadata/MiscellaneousObjects/TeleportMarker	3123	780	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3121	800	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3125	823	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3149	801	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3174	835	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3152	758	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3193	818	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3195	751	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3179	814	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3151	821	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3195	774	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3198	796	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3217	772	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3217	799	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3195	732	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3217	743	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3239	768	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3218	721	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3196	714	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3168	715	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3148	738	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3126	755	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3151	778	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3176	795	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3172	752	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3153	846	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3168	733	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker3	3224	832	5.7596	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3132	844	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker2	3218	822	2.6180	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3235	724	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3238	746	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3236	791	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3256	784	0.0000	0.000	0	boss1.arm	1			
+Metadata/MiscellaneousObjects/TeleportMarker	3257	768	0.0000	0.000	0	boss1.arm	1			
+Metadata/Monsters/Brute/BruteCradlePart2	3184	849	0.0000	0.000	0	boss1.arm	0			
+Metadata/MiscellaneousObjects/GenericBlockerDisable	3224	832	2.6180	0.000	0	boss1.arm	0			
+Metadata/MiscellaneousObjects/CraftRecipeUnlockMarker	3592	298	4.5288	0.000	0	boss_brutus_exit.arm	1			
+slime_small	3335	115	2.6180	0.000	0	boss_brutus_exit.arm	0			

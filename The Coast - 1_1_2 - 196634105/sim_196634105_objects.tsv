@@ -1,0 +1,13 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1793	411	4.7124	-148.210	19	act1_karui_coast_to_island_transition_v01_01.tdt	0	0	61641	1_1_2a
+Metadata/MiscellaneousObjects/AreaTransition	328	432	0.0000	-193.770	25	beachtown_north_entrance_v2.tdt	0	0	9052	1_1_town
+Metadata/MiscellaneousObjects/AreaTransition	1890	637	1.5708	-121.343	16	act1_area2_transition_v01_01.tdt	0	0	49149	1_1_3
+Metadata/MiscellaneousObjects/Waypoint	1782	632	4.7124	-16.917	2	beach_waypoint_v01_01.tdt	0			
+Metadata/NPC/Info/Karui/Stone1	1094	933	0.0000	-375.000	48	beach_karuistone1.tdt	0			
+Metadata/NPC/League/Hellscape/HellscapeNPCWild	411	403	5.2286	0.000	0	town_entrance_exclude.arm	0			
+Metadata/Terrain/Leagues/Deepwater/Act1_Coast/DeepwaterTutorialBoat	1724	552	2.7282	50.000	-6	toisland.arm	0			
+Metadata/NPC/League/Deepwater/ValerieTutorial	1709	597	2.6354	0.000	0	toisland.arm	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/CoastBathysphere	1439	492	3.1416	223.000	-29	toisland.arm	0			
+Metadata/Terrain/Doodads/Leagues/Deepwater/BlankSocket	1448	492	4.7124	-259.000	33	toisland.arm	0			
+Metadata/Terrain/Doodads/Leagues/Deepwater/BlankSocket	1430	492	4.7124	-259.000	33	toisland.arm	0			
+Metadata/MiscellaneousObjects/ProphecyMonsterLocator	1057	1055	6.2832	-562.500	72	scavenger_camp_2a.arm	1			

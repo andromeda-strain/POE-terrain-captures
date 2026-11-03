@@ -1,0 +1,4 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	728	181	1.5708	-124.589	16	warehouse_internalborder_entrance_v01_01.tdt	0	3		parent
+Metadata/NPC/Info/VaalLetters/VaalLetter_07	267	300	4.4933	-97.826	13	side_area_boss3.arm	0			
+Metadata/Chests/SideArea/SideAreaChest	249	343	4.7124	0.000	0	side_area_boss3.arm	0			

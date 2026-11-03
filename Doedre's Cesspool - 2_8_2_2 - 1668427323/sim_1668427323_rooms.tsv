@@ -1,0 +1,25 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act8/Area2Level2/Rooms/Unique/exit_graingate.arm	24	9	4	node	entrance3
+0	Metadata/Terrain/Act8/Area2Level2/Rooms/Unique/waypoint_1.arm	9	14	3	node	telepad4 teleport3disabled-Arena
+0	Metadata/Terrain/Act8/Area2Level1/Rooms/Unique/side_sewer_entrance_2.arm	29	34	4	node	sidearea1 accessible
+0	Metadata/Terrain/Act8/Area2Level2/Rooms/Unique/exit_promenade.arm	4	19	0	node	entrance2
+0	Metadata/Terrain/Act8/Area2Level2/Rooms/Unique/3x3_feature_1.arm	44	34	0	node	
+0	Metadata/Terrain/Act8/Area2Level2/Rooms/Unique/doedre_boss_room_1.arm	4	34	3	node	telepad3 teleport4-MapStairAlternativeSewerOutlet telepad2 teleport1-%areaname%
+0	Metadata/Terrain/Act8/Area2Level2/Rooms/Unique/down_1.arm	44	4	2	node	telepad1 teleport2-ArenaNameDoedre
+0	Metadata/Terrain/Act8/Area2Level2/Rooms/Unique/entrance_1.arm	49	54	3	node	default entrance1
+0	Metadata/Terrain/Act8/Area2Level1/Rooms/Room_dry_1x1/var_2_grass.arm	24	19	7	node	
+0	Metadata/Terrain/Act8/Area2Level1/Rooms/Room_dry_1x1/var_2_grass.arm	59	54	0	node	
+0	Metadata/Terrain/Act8/Area2Level1/Rooms/Room_dry_1x1/var_2_grass.arm	39	44	1	node	
+0	Metadata/Terrain/Act8/Area2Level1/Rooms/Pipe_dry_1x1/var_4.arm	59	44	2	node	
+0	Metadata/Terrain/Act8/Area2Level1/Rooms/Room_dry_1x1/var_2_grass.arm	39	34	4	node	
+0	Metadata/Terrain/Act8/Area2Level1/Rooms/Room_dry_1x1/var_2_grass.arm	59	34	4	node	
+0	Metadata/Terrain/Act8/Area2Level1/Rooms/Room_dry_1x1/var_3.arm	54	24	3	node	
+0	Metadata/Terrain/Act8/Area2Level1/Rooms/Pipe_dry_1x1/var_4.arm	44	19	0	node	
+0	Metadata/Terrain/Act8/Area2Level1/Rooms/Pipe_dry_2x2/var_3_5_1_grass.arm	39	54	2	node	
+0	Metadata/Terrain/Act8/Area2Level1/Rooms/Room_dry_1x1/var_3_grass.arm	59	49	1	node	
+0	Metadata/Terrain/Act8/Area2Level1/Rooms/Room_dry_1x1/var_3_grass.arm	39	49	3	node	
+0	Metadata/Terrain/Act8/Area2Level1/Rooms/Pipe_dry_1x1/var_3.arm	59	29	7	node	
+0	Metadata/Terrain/Act8/Area2Level1/Rooms/Pipe_dry_1x1/var_3.arm	54	29	5	node	
+0	Metadata/Terrain/Act8/Area2Level1/Rooms/Pipe_dry_2x2/var_4_2_grass.arm	39	24	0	node	
+0	Metadata/Terrain/Act8/Area2Level1/Rooms/Pipe_dry_1x1/var_3.arm	54	19	2	node	
+0	Metadata/Terrain/Act8/Area2Level1/Rooms/Room_dry_1x1/var_2.arm	49	19	0	node	

@@ -1,7 +1,7 @@
-sub	arm	x	y	o	src
-0	Metadata/Terrain/Act9/SideAreaRefinery/Rooms/Unique/entrance_01.arm	12	3	1	node
-0	Metadata/Terrain/Act9/SideAreaRefinery/Rooms/Unique/bridge_01.arm	33	15	3	node
-0	Metadata/Terrain/Act9/SideAreaRefinery/Rooms/Unique/boss_01.arm	48	9	0	node
-0	Metadata/Terrain/Act9/SideAreaRefinery/Rooms/Unique/stairs_01.arm	6	21	0	node
-0	Metadata/Terrain/Act9/SideAreaRefinery/Rooms/Unique/stairs_02.arm	21	24	4	node
-0	Metadata/Terrain/Act4/Area7/Rooms/Unique/shrine_1_1.arm	42	18	7	pass
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act9/SideAreaRefinery/Rooms/Unique/entrance_01.arm	12	3	1	node	default sideentrance killzone=6
+0	Metadata/Terrain/Act9/SideAreaRefinery/Rooms/Unique/bridge_01.arm	33	15	3	node	
+0	Metadata/Terrain/Act9/SideAreaRefinery/Rooms/Unique/boss_01.arm	48	9	0	node	
+0	Metadata/Terrain/Act9/SideAreaRefinery/Rooms/Unique/stairs_01.arm	6	21	0	node	
+0	Metadata/Terrain/Act9/SideAreaRefinery/Rooms/Unique/stairs_02.arm	21	24	4	node	
+0	Metadata/Terrain/Act4/Area7/Rooms/Unique/shrine_1_1.arm	42	18	7	pass	

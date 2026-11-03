@@ -1,0 +1,9 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	563	439	1.5708	-406.249	52	descent_ravine_convex_winch_v01_01.tdt	0	1	936315683	AreaTransitionName
+Metadata/MiscellaneousObjects/AreaTransition	1323	484	3.1416	-142.120	18	decent_ravinestraight_tocliff_winch_v01_01.tdt	0	0	41447	2_9_3
+Metadata/MiscellaneousObjects/AreaTransition	548	1129	0.0000	-623.665	80	ascent_sidearea_entry_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1185	1234	4.7124	-698.247	89	descent_elevator_v01_01.tdt	0	1	936315683	AreaTransitionName
+Metadata/MiscellaneousObjects/AreaTransition	337	1323	0.0000	-948.247	121	descent_elevator_v01_01.tdt	0	1	936315683	AreaTransitionName
+Metadata/MiscellaneousObjects/AreaTransition	349	1821	0.0000	78.790	-10	ascent_cliff_doorway_v01_01.tdt	0	0	9203	2_9_town
+Metadata/MiscellaneousObjects/AreaTransition	1035	1864	4.7124	-406.623	52	descent_top_winch_v01_01.tdt	0	1	936315683	AreaTransitionName
+Metadata/Shrines/Shrine	521	913	0.6665	-500.000	64	shrine_1_1.arm	0			

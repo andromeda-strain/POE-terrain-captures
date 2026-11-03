@@ -1,0 +1,4 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/Waypoint	1161	195	6.2832	-15.108	2	forestcave_waypoint_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	399	1172	0.0000	-162.307	21	forestcave_exit_up_v01_01.tdt	0	0	31950	2_7_7
+Metadata/MiscellaneousObjects/AreaTransitionMapMarker	1103	247	1.5708	125.000	-16	den_exit_maligaro.arm	0	0	63498	2_7_5_2

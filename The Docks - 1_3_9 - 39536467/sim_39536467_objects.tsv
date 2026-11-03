@@ -1,0 +1,7 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	503	632	4.7124	-515.663	66	docks_wall_arch_v01_01.tdt	0	0	25759	1_3_7
+Metadata/MiscellaneousObjects/Waypoint	1270	1229	0.0000	-15.108	2	citywaypoint_v01_01.tdt	0			
+Metadata/NPC/Info/Victario/GraffitiDocks	294	1349	0.0000	-0.000	0	docks_smallcliff_straight_01_01_victarioUnique.tdt	0			
+Metadata/NPC/Act3/Fairgraves	1158	1242	0.4054	51.970	-7	dockarm_end_special_fairgraves.arm	0			
+Metadata/NPC/Act3/FairgravesFigurehead	1160	1279	0.0077	-48.913	6	dockarm_end_special_fairgraves.arm	0			
+Metadata/Chests/QuestChests/Dialla/SulphiteChest	983	1275	4.6769	0.000	0	dockarm_end_special_sulphite.arm	0			

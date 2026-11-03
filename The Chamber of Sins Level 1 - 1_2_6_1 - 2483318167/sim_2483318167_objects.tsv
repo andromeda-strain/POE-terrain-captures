@@ -1,0 +1,17 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/Monsters/Spiders/SpiderSpawner	701	147	6.2832	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	724	147	6.2832	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	676	172	4.7124	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	749	172	1.5708	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	724	197	3.1416	118.575	-15	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/MiscellaneousObjects/AreaTransition	203	571	1.5708	248.348	-32	templeruinforest_exit_down_v01_01.tdt	0	0	58279	1_2_6_2
+Metadata/MiscellaneousObjects/Waypoint	563	632	6.2832	-16.517	2	templeruinforest_waypoint_v01_01.tdt	0			
+Metadata/NPC/Info/MapDeviceOld	608	632	0.0000	-55.182	7	destroyed_temple_maporrery.tdt	0			
+Metadata/Monsters/Spiders/SpiderSpawner	1092	676	6.2832	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	1117	701	1.5708	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	1067	717	4.9029	118.575	-15	templeruinforest_crevice_corner_convex_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	1117	724	1.5708	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	1069	749	3.1416	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/Monsters/Spiders/SpiderSpawner	1092	749	3.1416	-6.425	1	templeruinforest_crevice_v01_01.tdt	1			
+Metadata/MiscellaneousObjects/AreaTransition	551	1071	1.5708	-142.950	18	templeruinforest_entrance_v01_01.tdt	0	0	38817	1_2_3
+Metadata/MiscellaneousObjects/ProphecyMonsterLocator	632	680	0.7854	0.000	0	hallway_4way_1a.arm	1			

@@ -1,0 +1,44 @@
+sub	arm	x	y	o	src	tags
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Unique/exit_corner_1.arm	30	24	3	node	teleport1 telepad2
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Unique/tower_base_entrance_1.arm	0	12	3	node	default entrance1
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/corner_1_2_1.arm	6	24	0	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Unique/shrine_10.arm	18	30	0	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/corner_1_2_1.arm	6	0	1	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_1.arm	18	0	2	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/corner_1_2_1.arm	30	0	7	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_1.arm	36	12	3	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/2x2/room_6_3.arm	18	18	6	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/1x2/room_5_1.arm	12	12	2	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/1x2/room_5_1.arm	30	12	6	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/2x2/room_6_2.arm	18	6	4	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Fills/sky_1.arm	0	24	2	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Fills/sky_1.arm	0	30	0	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Fills/sky_1.arm	0	0	2	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Fills/sky_1.arm	0	6	4	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Unique/exit_corner_1.arm	48	24	0	node	teleport3 telepad4
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Unique/entrance_corner_1.arm	72	0	2	node	teleport2 telepad1
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/corner_1_1_1.arm	48	0	1	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_1.arm	48	12	1	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_1.arm	60	0	6	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_1.arm	78	12	3	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/corner_1_2_1.arm	72	24	3	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_1.arm	60	30	0	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/1x2/room_5_1.arm	72	12	2	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/1x2/room_3_2.arm	54	12	0	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/2x2/room_7_2_boss.arm	60	12	0	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/1x1/room_2_1.arm	60	6	3	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/1x1/room_3_1.arm	66	6	1	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/1x2/room_3_2.arm	60	24	5	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Unique/exit_corner_1.arm	114	0	2	node	entrance2
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Unique/entrance_corner_1.arm	90	24	5	node	teleport4 telepad3
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Unique/waypoint_corner_1.arm	114	24	3	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_1.arm	120	12	7	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_1.arm	102	30	0	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_1.arm	90	12	5	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/corner_1_2_1.arm	90	0	6	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_1.arm	102	0	6	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/2x2/room_6_2.arm	102	6	2	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/1x2/open_1.arm	96	12	6	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/1x1/room_3_1.arm	114	12	4	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/2x2/room_6_3.arm	102	18	6	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Fills/black_1.arm	114	18	3	node	

@@ -1,0 +1,17 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/RuinedCity/Docks/Rooms/Unique/dock_body_wall_entrance_1.arm	8	8	6	node	default entrance1
+0	Metadata/Terrain/RuinedCity/Docks/Rooms/Connections/dock_body_arm1.arm	28	38	1	node	
+0	Metadata/Terrain/RuinedCity/Docks/Rooms/Connections/dock_body_arm1.arm	48	38	1	node	
+0	Metadata/Terrain/RuinedCity/Docks/Rooms/Connections/dock_body_arm1.arm	8	38	1	node	
+0	Metadata/Terrain/RuinedCity/Docks/Rooms/Unique/dockarm_end_special_fairgraves.arm	48	48	7	node	unique1 killzone=9
+0	Metadata/Terrain/RuinedCity/Docks/Rooms/Unique/flow_sink.arm	58	8	3	node	
+0	Metadata/Terrain/RuinedCity/Docks/Rooms/Unique/flow_source.arm	58	58	2	node	
+0	Metadata/Terrain/RuinedCity/Docks/Rooms/Unique/flow_source.arm	8	68	4	node	
+0	Metadata/Terrain/RuinedCity/Docks/Rooms/Unique/dockarm_end_special_boss.arm	28	58	1	node	
+0	Metadata/Terrain/RuinedCity/Docks/Rooms/DockArm/dockarm_end_1.arm	8	58	1	node	
+0	Metadata/Terrain/RuinedCity/Docks/Rooms/DockBody/dockbody_straight_2.arm	38	38	2	node	
+0	Metadata/Terrain/RuinedCity/Docks/Rooms/DockBody/dockbody_straight_2.arm	18	38	2	node	
+0	Metadata/Terrain/RuinedCity/Docks/Rooms/DockArm/dockarm_open_1.arm	28	48	6	node	
+0	Metadata/Terrain/RuinedCity/Docks/Rooms/DockArm/dockarm_straight_5.arm	8	48	7	node	
+0	Metadata/Terrain/RuinedCity/Docks/Rooms/Unique/dockarm_end_special_sulphite.arm	38	48	0	node	
+0	Metadata/Terrain/RuinedCity/Docks/Rooms/DockArm/dockarm_end_1.arm	18	48	2	node	

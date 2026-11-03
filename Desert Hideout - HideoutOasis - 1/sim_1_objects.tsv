@@ -1,0 +1,10 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	274	183	3.1416	-101.921	13	rockwall_transition_v01_02.tdt	0	1	750	%areaname%
+Metadata/Terrain/Missions/Hideouts/Objects/HideoutCraftingBench	203	209	3.7874	0.000	0	hideout.arm	0			
+Metadata/MiscellaneousObjects/Stash	278	260	5.3756	0.000	0	hideout.arm	0			
+Metadata/MiscellaneousObjects/GuildStash	278	271	4.2062	0.000	0	hideout.arm	0			
+Metadata/Terrain/Missions/Hideouts/Objects/StrDexIntMappingDevice	431	362	5.4978	0.000	0	hideout.arm	0			
+Metadata/MiscellaneousObjects/Waypoint	240	241	0.0000	0.000	0	hideout.arm	0			
+Metadata/MiscellaneousObjects/Expedition/ExpeditionStash_Hideout	289	201	3.1416	0.000	0	hideout.arm	0			
+Metadata/MiscellaneousObjects/Heist/HeistStash_Hideout	308	200	3.1416	0.000	0	hideout.arm	0			
+Metadata/MiscellaneousObjects/Harvest/CraftingSilo_Hideout	202	247	1.3614	0.000	0	hideout.arm	0			

@@ -1,0 +1,11 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act1/Area2a/Rooms/toislandcliff.arm	24	36	1	node	default entrance1
+0	Metadata/Terrain/Act1/Area2a/Rooms/medicine_boat_2.arm	6	18	3	node	
+0	Metadata/Terrain/Act1/Area2a/Rooms/ledge_water_connection_1.arm	33	27	0	node	
+0	Metadata/Terrain/Act1/Area2a/Rooms/seagulls_5.arm	32	9	2	fill	
+0	Metadata/Terrain/Act1/Area2a/Rooms/seagulls_4.arm	22	12	2	fill	
+0	Metadata/Terrain/Act1/Area2a/Rooms/seagulls_6.arm	30	12	0	fill	
+0	Metadata/Terrain/Act1/Area2a/Rooms/seagulls_4.arm	33	12	0	fill	
+0	Metadata/Terrain/Act1/Area2a/Rooms/pools_2.arm	31	30	7	fill	
+0	Metadata/Terrain/Act1/Area2a/Rooms/pools_2.arm	30	32	2	fill	
+0	Metadata/Terrain/Act1/Area2a/Rooms/pools_3.arm	30	34	1	fill	

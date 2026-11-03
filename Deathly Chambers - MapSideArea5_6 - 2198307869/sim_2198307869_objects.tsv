@@ -1,0 +1,26 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/Lights/LightModularTrigger	563	172	3.1416	14.530	-2	Ossuary_thickwall_Fire_straight_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Lights/LightModularTrigger	403	219	5.3748	-110.657	14	Ossuary_thickwall_Fire_convex_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	684	241	4.7124	-133.569	17	Ossuary_thickwall_transition_v01_01.tdt	0	3		parent
+Metadata/MiscellaneousObjects/Lights/LightModularTrigger	563	310	6.2832	14.530	-2	Ossuary_thickwall_Fire_straight_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Lights/LightModularTrigger	403	355	3.8040	-110.657	14	Ossuary_thickwall_Fire_convex_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Lights/LightModularTrigger	540	379	4.7124	-110.657	14	Ossuary_Fire_Abyss_v01_04.tdt	0			
+Metadata/MiscellaneousObjects/Lights/LightModularTrigger	494	379	4.7124	-110.657	14	Ossuary_Fire_Abyss_v01_04.tdt	0			
+Metadata/MiscellaneousObjects/Lights/LightModularTrigger	655	425	4.7124	-110.470	14	Ossuary_thickwall_Fire_straight_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Lights/LightModularTrigger	447	447	2.4792	-110.657	14	Ossuary_thickwall_Fire_convex_v01_01.tdt	0			
+Metadata/Chests/OssuaryChests/WallChest	448	496	6.2832	-0.000	0	Ossuary_thickwall_Chest_straight_v01_01.tdt	0			
+Metadata/Chests/OssuaryChests/WallChest	680	494	4.7124	-0.000	0	Ossuary_thickwall_Chest_straight_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Lights/LightModularTrigger	587	587	5.6208	-110.657	14	Ossuary_thickwall_Fire_convex_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Lights/LightModularTrigger	632	609	1.5708	-235.470	30	Ossuary_thickwall_Fire_straight_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Lights/LightModularTrigger	678	609	4.7124	-235.470	30	Ossuary_thickwall_Fire_straight_v01_01.tdt	0			
+Metadata/Chests/OssuaryChests/WallChest	864	655	4.7124	-0.000	0	Ossuary_thickwall_Chest_straight_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Lights/LightModularTrigger	815	679	0.9084	-110.657	14	Ossuary_thickwall_Fire_convex_v01_01.tdt	0			
+Metadata/Chests/OssuaryChests/WallChest	864	770	4.7124	-0.000	0	Ossuary_thickwall_Chest_straight_v01_01.tdt	0			
+Metadata/Chests/OssuaryChests/WallChest	1071	839	4.7124	-0.000	0	Ossuary_thickwall_Chest_straight_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Lights/LightModularTrigger	816	885	1.5708	-110.470	14	Ossuary_thickwall_Fire_straight_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Lights/LightModularTrigger	862	885	4.7124	-110.470	14	Ossuary_thickwall_Fire_straight_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Lights/LightModularTrigger	1069	885	4.7124	-110.470	14	Ossuary_thickwall_Fire_straight_v01_01.tdt	0			
+Metadata/NPC/Info/VaalLetters/VaalLetter_15	1059	891	0.2207	-103.261	13	boss_01.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_MedOrange_Prox	920	883	4.7124	0.000	0	boss_01.arm	0			
+Metadata/Chests/SideArea/SideAreaChest	1035	919	4.7997	0.000	0	boss_01.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_MedOrange_Prox	471	175	3.1416	0.000	0	3open_02.arm	0			

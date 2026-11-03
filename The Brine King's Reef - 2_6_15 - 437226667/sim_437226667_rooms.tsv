@@ -1,0 +1,11 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act6/Area15/Rooms/crossing_01.arm	33	18	3	node	
+0	Metadata/Terrain/Act6/Area15/Rooms/boss_1.arm	84	51	0	node	teleport2-%areaname% telepad1 entrance2
+0	Metadata/Terrain/Act6/Area15/Rooms/crossing_01.arm	54	30	6	node	
+0	Metadata/Terrain/Act6/Area15/Rooms/crossing_01.arm	18	30	3	node	
+0	Metadata/Terrain/Act6/Area15/Rooms/boss_tp_1.arm	63	45	1	node	teleport1-ArenaNameBrineKing telepad2
+0	Metadata/Terrain/Act6/Area15/Rooms/glyph.arm	22	45	0	node	unique2
+0	Metadata/Terrain/Act6/Area15/Rooms/entrance_1.arm	18	60	2	node	default entrance1disabled
+0	Metadata/Terrain/Act6/Area15/Rooms/shipwreck_1.arm	57	9	1	node	
+0	Metadata/Terrain/Act6/Area15/Rooms/reef_fill_02.arm	50	24	1	fill	
+0	Metadata/Terrain/Act6/Area15/Rooms/reef_fill_01.arm	33	51	1	fill	

@@ -1,0 +1,21 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act2/Area9/Rooms/tunnel_entrance.arm	81	48	2	node	default entrance1
+0	Metadata/Terrain/Act2/Area9/Rooms/passageblock.arm	6	33	6	node	entrance3 killzone=7
+0	Metadata/Terrain/Act2/Area9/Rooms/roadpath.arm	52	35	6	node	
+0	Metadata/Terrain/Act2/Area9/Rooms/waypoint.arm	71	33	2	node	
+0	Metadata/Terrain/Act2/Area9/Rooms/side_valley_entrance_1.arm	39	6	2	node	sidearea1 accessible
+0	Metadata/Terrain/Act2/Area9/Rooms/spidercon_1.arm	39	57	2	node	
+0	Metadata/Terrain/Act2/Area9/Rooms/spidergrove.arm	48	63	2	node	entrance2
+0	Metadata/Terrain/Act2/Area9/Rooms/intbanditfight.arm	57	15	1	node	
+0	Metadata/Terrain/Act2/Area9/Rooms/spidercon_1.arm	63	60	5	node	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_8a.arm	31	21	6	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_7a.arm	40	21	2	fill	
+0	Metadata/Terrain/Act2/Area8/Rooms/tent_camp_6b.arm	71	27	4	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_6a.arm	54	41	5	fill	
+0	Metadata/Terrain/Act2/Area8/Rooms/tent_camp_3b.arm	24	42	1	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_3a.arm	36	42	2	fill	
+0	Metadata/Terrain/Act2/Area8/Rooms/tent_camp_4b.arm	67	43	6	fill	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_2.arm	28	45	2	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_6a.arm	48	49	7	fill	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_2.arm	55	54	0	fill	
+0	Metadata/Terrain/Act2/Area9/Rooms/circlestones.arm	25	23	3	pass	

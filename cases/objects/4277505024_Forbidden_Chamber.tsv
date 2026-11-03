@@ -1,0 +1,298 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	208	509	6.109 rad	2448909918	1_SideArea2_8					
+Metadata/Chests/Pot4v1	141	296	3.142 rad	1060404135	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	242	287	0.000 rad	1259749696	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	160	310	0.000 rad	1012101947	1_SideArea2_8	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	149	307	0.000 rad	1130306758	1_SideArea2_8	24	-190.514			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	172	314	0.000 rad	1130306758	1_SideArea2_8	24	-190.485			
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	299	300	2.356 rad	2280300790	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	179	372	1.571 rad	1259749696	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	256	435	1.571 rad	1259749696	1_SideArea2_8					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	209	505	3.461 rad	1570723376	1_SideArea2_8					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	205	506	3.142 rad	1792897079	1_SideArea2_8					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	192	515	1.571 rad	3094797593	1_SideArea2_8	18	-140.752			
+Object: Metadata/MiscellaneousObjects/AreaTransition	207	521	1.571 rad	726109394	1_SideArea2_8	11	-93.695	3	59770	The Vaal Ruins
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	221	515	1.571 rad	3094797593	1_SideArea2_8	17	-139.070			
+Metadata/Chests/Pot4v2	262	260	5.852 rad	2954886560	1_SideArea2_8					
+Metadata/Chests/Pot3	259	259	4.542 rad	2356047353	1_SideArea2_8					
+Metadata/Chests/Pot4v2	267	263	3.378 rad	2954886560	1_SideArea2_8					
+Metadata/Chests/Pot2v1	260	256	5.640 rad	252085906	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@21]	296	275	5.522 rad	1164431201	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@21]	288	274	1.350 rad	1164431201	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@21]	283	273	0.319 rad	1164431201	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	287	261	0.319 rad	2280300790	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	292	256	0.614 rad	2280300790	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	276	268	2.454 rad	2280300790	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	185	251	3.142 rad	1259749696	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	289	240	0.000 rad	1259749696	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	299	251	0.540 rad	2280300790	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@21]	349	231	5.252 rad	1164431201	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	402	240	3.142 rad	1259749696	1_SideArea2_8					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	234	450	0.000 rad	1450012487	1_SideArea2_8					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	239	447	0.000 rad	1450012487	1_SideArea2_8					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	239	452	0.000 rad	1450012487	1_SideArea2_8					
+Metadata/Chests/Chest19	192	225	3.142 rad	2183838137	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@21]	341	208	3.240 rad	1164431201	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	357	215	3.436 rad	2280300790	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	353	209	3.142 rad	1259749696	1_SideArea2_8					
+Monster: Vaal Thunderguard [Metadata/Monsters/Skeletons/SkeletonCasterKnightLightning@21]	400	208	4.541 rad	1138576282	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	450	227	3.142 rad	1259749696	1_SideArea2_8					
+Metadata/Chests/Pot1	343	185	3.142 rad	1878789778	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@21]	337	203	1.129 rad	1164431201	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@21]	344	202	3.853 rad	1164431201	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@21]	347	192	2.405 rad	1164431201	1_SideArea2_8					
+Monster: Vaal Thunderguard [Metadata/Monsters/Skeletons/SkeletonCasterKnightLightning@21]	399	191	2.994 rad	1138576282	1_SideArea2_8					
+Monster: Vaal Thunderguard [Metadata/Monsters/Skeletons/SkeletonCasterKnightLightning@21]	409	187	5.228 rad	1138576282	1_SideArea2_8					
+Monster: Vaal Thunderguard [Metadata/Monsters/Skeletons/SkeletonCasterKnightLightning@21]	418	191	5.449 rad	1138576282	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	509	178	5.719 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	522	191	3.338 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	507	201	1.571 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	519	199	1.792 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	527	193	0.442 rad	4220614080	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	179	372	1.571 rad	1208694913	1_SideArea2_8					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	160	314	0.000 rad	1450012487	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	185	251	3.142 rad	1208694913	1_SideArea2_8					
+Monster: Vaal Thunderguard [Metadata/Monsters/Skeletons/SkeletonCasterKnightLightning@21]	399	191	2.994 rad	1138576282	1_SideArea2_8					
+Monster: Vaal Thunderguard [Metadata/Monsters/Skeletons/SkeletonCasterKnightLightning@21]	409	187	5.228 rad	1138576282	1_SideArea2_8					
+Monster: Vaal Thunderguard [Metadata/Monsters/Skeletons/SkeletonCasterKnightLightning@21]	400	208	4.541 rad	1138576282	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	402	240	3.142 rad	1259749696	1_SideArea2_8					
+Monster: Vaal Thunderguard [Metadata/Monsters/Skeletons/SkeletonCasterKnightLightning@21]	418	191	5.449 rad	1138576282	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	450	227	3.142 rad	1259749696	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	242	287	0.000 rad	1208694913	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	289	240	0.000 rad	1208694913	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	278	267	5.498 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	277	272	4.712 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	287	267	5.608 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	283	279	4.931 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	295	266	4.712 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	296	261	4.848 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	293	275	4.957 rad	3875590990	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	291	254	2.237 rad	1418889786	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	291	254	4.765 rad	3875590990	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	509	178	5.719 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	522	191	3.338 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	507	201	1.571 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	519	199	1.792 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	527	193	0.442 rad	4220614080	1_SideArea2_8					
+Metadata/Chests/Pot2v1	539	179	4.338 rad	252085906	1_SideArea2_8					
+Metadata/Chests/Pot3	540	172	3.544 rad	2356047353	1_SideArea2_8					
+Metadata/Chests/Pot1	543	170	1.851 rad	1878789778	1_SideArea2_8					
+Metadata/Chests/Pot4v1	545	176	2.834 rad	1060404135	1_SideArea2_8					
+Metadata/Chests/Pot1	534	178	2.231 rad	1878789778	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	531	198	1.890 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	541	188	4.442 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	547	199	0.540 rad	4220614080	1_SideArea2_8					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	543	358	1.571 rad	3094797593	1_SideArea2_8	22	-173.954			
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	345	267	0.000 rad	1450012487	1_SideArea2_8					
+Metadata/Chests/Basket1old	569	201	3.765 rad	2211595643	1_SideArea2_8					
+Metadata/Chests/Basket2old	570	192	3.272 rad	866946829	1_SideArea2_8					
+Metadata/Chests/Basket1old	558	202	2.154 rad	2211595643	1_SideArea2_8					
+Metadata/Chests/Basket1old	564	203	1.109 rad	2211595643	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	353	209	3.142 rad	1208694913	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	338	226	3.142 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	343	234	4.092 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	333	221	3.142 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	351	220	3.816 rad	3875590990	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	344	212	6.034 rad	1418889786	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	344	212	3.204 rad	3875590990	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	341	201	4.338 rad	1418889786	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	341	201	3.463 rad	3875590990	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	582	250	4.712 rad	1259749696	1_SideArea2_8					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	355	194	0.000 rad	1450012487	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	392	213	4.712 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	392	190	4.854 rad	3875590990	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	399	186	2.863 rad	1418889786	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	399	186	5.176 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	408	193	3.700 rad	3875590990	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	256	435	1.571 rad	1259749696	1_SideArea2_8					
+Metadata/Chests/Chest19	609	229	4.712 rad	2183838137	1_SideArea2_8					
+Metadata/Chests/Pot4v1	610	297	4.712 rad	1060404135	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	606	285	5.130 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	615	304	0.834 rad	4220614080	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	402	240	3.142 rad	1208694913	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	630	295	3.412 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	632	290	5.277 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	630	282	5.571 rad	4220614080	1_SideArea2_8					
+Metadata/Chests/Pot3	649	164	4.712 rad	2356047353	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	648	282	5.056 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	655	278	3.117 rad	4220614080	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	450	227	3.142 rad	1208694913	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	682	278	4.712 rad	1259749696	1_SideArea2_8					
+Metadata/Chests/Barrel3old	694	199	3.293 rad	3865749632	1_SideArea2_8					
+Metadata/Chests/Barrel3old	693	192	0.511 rad	3865749632	1_SideArea2_8					
+Metadata/Chests/Barrel2old	705	202	1.046 rad	3707287636	1_SideArea2_8					
+Metadata/Chests/Barrel1old	708	192	0.603 rad	1528648667	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	711	337	1.178 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	700	349	2.013 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	710	376	4.712 rad	4220614080	1_SideArea2_8					
+Metadata/Chests/Pot2v1	707	411	0.000 rad	252085906	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	711	391	0.933 rad	4220614080	1_SideArea2_8					
+Metadata/Chests/Pot2v1	735	155	3.723 rad	252085906	1_SideArea2_8					
+Metadata/Chests/Pot2v2	735	158	2.151 rad	3943222399	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@21]	732	181	0.565 rad	1164431201	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	727	176	3.461 rad	2280300790	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	730	188	2.724 rad	2280300790	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	733	333	5.105 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	723	361	3.534 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	717	360	1.473 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	714	354	2.749 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	715	386	5.866 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	730	394	3.093 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	715	412	0.295 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	722	393	3.240 rad	4220614080	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	724	402	3.142 rad	1012101947	1_SideArea2_8	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	713	406	3.142 rad	1130306758	1_SideArea2_8	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	735	398	3.142 rad	1130306758	1_SideArea2_8	24	-189.671			
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	729	414	6.136 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	720	414	4.442 rad	4220614080	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	256	435	1.571 rad	1259749696	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	729	414	6.136 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	720	414	4.442 rad	4220614080	1_SideArea2_8					
+Metadata/Chests/Chest6	755	156	4.712 rad	2224233642	1_SideArea2_8					
+Metadata/Chests/Pot1	738	155	4.464 rad	1878789778	1_SideArea2_8					
+Metadata/Chests/Pot2v1	741	155	4.930 rad	252085906	1_SideArea2_8					
+Metadata/Chests/Pot1	738	158	1.478 rad	1878789778	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	504	181	4.956 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	504	181	4.570 rad	3875590990	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@21]	752	170	3.166 rad	1164431201	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	752	165	0.859 rad	2280300790	1_SideArea2_8					
+Metadata/Chests/Chest6	750	190	4.712 rad	2224233642	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	737	342	4.516 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	740	412	3.093 rad	4220614080	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@21]	744	419	1.914 rad	1164431201	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	757	432	4.418 rad	2280300790	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	746	436	0.000 rad	1259749696	1_SideArea2_8					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	548	184	0.000 rad	1450012487	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	510	193	4.921 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	510	193	0.869 rad	3875590990	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	518	178	5.063 rad	1418889786	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	518	178	4.050 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	518	178	3.836 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	517	190	4.107 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	517	190	5.695 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	524	186	0.882 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	524	186	5.253 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	530	183	1.943 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	530	183	4.854 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	527	195	5.224 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	527	195	0.785 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	541	195	0.358 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	541	195	5.851 rad	3875590990	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	729	414	6.136 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	720	414	4.442 rad	4220614080	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@21]	744	419	1.914 rad	1164431201	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	757	432	4.418 rad	2280300790	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	746	436	0.000 rad	1259749696	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	731	447	3.829 rad	2280300790	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	750	442	4.197 rad	2280300790	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	742	449	1.301 rad	2280300790	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	758	459	0.245 rad	2280300790	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	755	449	2.479 rad	2280300790	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@21]	759	442	6.087 rad	1164431201	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	693	192	4.614 rad	1418889786	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	724	176	4.910 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	738	168	3.785 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	750	172	4.030 rad	3875590990	1_SideArea2_8					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@21]	705	202	2.749 rad	1603431780	1_SideArea2_8					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@21]	708	192	2.233 rad	1603431780	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	730	194	3.463 rad	3875590990	1_SideArea2_8					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	741	194	0.000 rad	1450012487	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	731	447	3.829 rad	2280300790	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	750	442	4.197 rad	2280300790	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	742	449	1.301 rad	2280300790	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	758	459	0.245 rad	2280300790	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@21]	755	449	2.479 rad	2280300790	1_SideArea2_8					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@21]	759	442	6.087 rad	1164431201	1_SideArea2_8					
+Monster: Vaal Thunderguard [Metadata/Monsters/Skeletons/SkeletonCasterKnightLightning@21]	722	461	5.228 rad	1138576282	1_SideArea2_8					
+Monster: Vaal Thunderguard [Metadata/Monsters/Skeletons/SkeletonCasterKnightLightning@21]	719	472	3.215 rad	1138576282	1_SideArea2_8					
+Monster: Vaal Thunderguard [Metadata/Monsters/Skeletons/SkeletonCasterKnightLightning@21]	728	484	5.449 rad	1138576282	1_SideArea2_8					
+Monster: Vaal Thunderguard [Metadata/Monsters/Skeletons/SkeletonCasterKnightLightning@21]	719	487	4.025 rad	1138576282	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	724	494	3.142 rad	1012101947	1_SideArea2_8	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	735	498	3.142 rad	1130306758	1_SideArea2_8	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	713	490	3.142 rad	1130306758	1_SideArea2_8	24	-189.671			
+Metadata/NPC/Info/VaalLetters/VaalLetter_09	629	562	1.352 rad	539154081	1_SideArea2_8	12	-97.826			
+Object: Metadata/MiscellaneousObjects/WorldItem	725	340	3.828 rad	1418889786	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	725	340	3.222 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	725	340	0.702 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	730	344	1.021 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	730	344	0.322 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	715	344	2.696 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	715	344	0.464 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	737	341	5.504 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	737	341	0.058 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	709	346	5.377 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	709	346	0.000 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	706	354	4.786 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	706	354	1.930 rad	3875590990	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	718	352	2.077 rad	1418889786	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	718	352	4.893 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	718	352	0.927 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	718	365	6.194 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	718	365	0.714 rad	3875590990	1_SideArea2_8					
+Metadata/Chests/SideArea/SideAreaChest	663	576	1.571 rad	1048892336	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	674	596	2.626 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	669	588	2.184 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	671	577	4.663 rad	4220614080	1_SideArea2_8					
+Monster: Haviri, Vaal Metalsmith [Metadata/Monsters/Skeletons/ConstructMeleeBossSideArea@21]	641	606	1.571 rad	306506343	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	668	600	2.872 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	668	611	0.712 rad	4220614080	1_SideArea2_8					
+Monster: Wrapped Nobleman [Metadata/Monsters/Zombies/ZombieMummy@21]	673	609	5.645 rad	4220614080	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	717	383	2.280 rad	1418889786	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	717	383	1.278 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	717	383	0.785 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	724	384	2.323 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	724	384	1.571 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	388	2.493 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	716	388	2.356 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	730	393	6.122 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	730	409	2.661 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	730	409	5.300 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	727	418	2.712 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	727	418	2.034 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	720	406	5.616 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	720	406	0.927 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	718	419	1.333 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	718	419	0.519 rad	3875590990	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	746	436	0.000 rad	1208694913	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	733	425	5.934 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	735	437	5.695 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	732	445	5.961 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	726	460	0.147 rad	3875590990	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	754	442	4.664 rad	1418889786	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	722	470	0.238 rad	3875590990	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	727	477	0.079 rad	3875590990	1_SideArea2_8					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	667	601	0.000 rad	1450012487	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	675	571	4.295 rad	1418889786	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	571	3.653 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	675	571	5.878 rad	3875590990	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	672	583	5.499 rad	1418889786	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	672	583	1.941 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	672	583	5.820 rad	3875590990	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	667	584	0.246 rad	1418889786	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	667	584	2.659 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	667	584	0.278 rad	3875590990	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	671	594	1.573 rad	1418889786	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	671	594	0.247 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	671	594	0.165 rad	3875590990	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	676	602	4.713 rad	1418889786	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	676	602	4.951 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	676	602	0.000 rad	3875590990	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	650	591	0.510 rad	1418889786	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	655	587	2.329 rad	1418889786	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	650	591	2.003 rad	1418889786	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	655	590	0.627 rad	1418889786	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	650	591	3.459 rad	1418889786	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	650	591	1.659 rad	1418889786	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	650	591	5.008 rad	1418889786	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	650	591	0.399 rad	1418889786	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	681	609	4.584 rad	1418889786	1_SideArea2_8					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	681	609	2.658 rad	316014466	1_SideArea2_8					
+Metadata/Effects/Spells/shatter/ShatterLarge	681	609	0.000 rad	3875590990	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	671	578	4.104 rad	1418889786	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	671	578	2.445 rad	1418889786	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	669	573	4.344 rad	1418889786	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	670	579	5.530 rad	1418889786	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	671	578	0.381 rad	1418889786	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	669	579	1.413 rad	1418889786	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/WorldItem	669	579	0.731 rad	1418889786	1_SideArea2_8					
+Object: Metadata/MiscellaneousObjects/VaalSideAreaReturnPortal	643	596	0.000 rad	1553559060	1_SideArea2_8			8	59770	The Vaal Ruins

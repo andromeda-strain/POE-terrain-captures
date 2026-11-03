@@ -1,0 +1,15 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act4/Area7/Rooms/Unique/entrance2.arm	6	6	0	node	default entrance1
+0	Metadata/Terrain/Act4/Area7/Rooms/Unique/ascent_trailstart_01.arm	33	15	0	node	
+0	Metadata/Terrain/Act4/Area7/Rooms/Unique/ascent_summit_01.arm	21	72	0	node	entrance2 AutoWaypoint
+0	Metadata/Terrain/Act4/Area7/Rooms/Unique/cliff_ledge_01.arm	33	48	4	node	
+0	Metadata/Terrain/Act4/Area7/Rooms/Unique/ascent_trailend_01.arm	30	57	4	node	
+0	Metadata/Terrain/Act4/Area7/Rooms/Unique/ledge_ramp_trail.arm	21	48	4	node	
+0	Metadata/Terrain/Act4/Area7/Rooms/Unique/ledge_ravine.arm	24	9	0	node	
+0	Metadata/Terrain/Act4/Area7/Rooms/Unique/join_boss2.arm	6	54	4	node	
+0	Metadata/Terrain/Act4/Area7/Rooms/Unique/ascent_ravine_01.arm	12	39	0	node	
+0	Metadata/Terrain/Act4/Area7/Rooms/Unique/ascent_ravinebridge_01.arm	24	27	0	node	
+0	Metadata/Terrain/Act4/Area7/Rooms/Unique/ascent_ravine_01.arm	36	30	4	node	
+0	Metadata/Terrain/Act4/Area7/Rooms/Unique/cliff_ledge_01.arm	6	21	0	node	
+0	Metadata/Terrain/Act4/Area7/Rooms/Unique/ascent_nobridge_trail_1.arm	21	57	0	node	
+0	Metadata/Terrain/Act4/Area7/Rooms/Unique/shrine_1_1.arm	28	37	4	pass	

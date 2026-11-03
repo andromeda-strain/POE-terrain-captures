@@ -1,0 +1,24 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act7/Area9/Rooms/entrance.arm	35	31	0	node	default entrance1
+0	Metadata/Terrain/Act7/Area9/Rooms/chaos_boss.arm	15	15	4	node	
+0	Metadata/Terrain/Act7/Area9/Rooms/despair_boss.arm	3	31	0	node	teleport2-%areaname% telepad1 killzone=0
+0	Metadata/Terrain/Act7/Area9/Rooms/despair_entrance.arm	39	11	7	node	teleport1-ArenaNameGruthkul telepad2 killzone=0
+0	Metadata/Terrain/Grove/Rooms/2x2/room9.arm	11	7	2	node	
+0	Metadata/Terrain/Grove/Rooms/2x2/room8.arm	43	3	2	node	
+0	Metadata/Terrain/Grove/Rooms/1x1/room1.arm	31	31	5	node	
+0	Metadata/Terrain/Grove/Rooms/2x2/room6.arm	27	3	6	node	
+0	Metadata/Terrain/Grove/Rooms/1x1/room1.arm	23	27	1	node	
+0	Metadata/Terrain/Grove/Rooms/1x1/room1.arm	19	27	5	node	
+0	Metadata/Terrain/Grove/Rooms/2x2/room3.arm	27	23	2	node	
+0	Metadata/Terrain/Grove/Rooms/2x2/room11.arm	19	3	3	node	
+0	Metadata/Terrain/Grove/Rooms/3x3/room11.arm	27	11	1	node	
+0	Metadata/Terrain/Grove/Rooms/1x1/room1.arm	27	31	5	node	
+0	Metadata/Terrain/Grove/Rooms/2x2/room7.arm	19	31	1	node	
+0	Metadata/Terrain/Grove/Rooms/1x1/room5.arm	35	27	7	node	
+0	Metadata/Terrain/Grove/Rooms/1x1/room1.arm	35	3	1	node	
+0	Metadata/Terrain/Grove/Rooms/1x1/room1.arm	39	3	7	node	
+0	Metadata/Terrain/Grove/Rooms/1x1/room2.arm	35	7	3	node	
+0	Metadata/Terrain/Grove/Rooms/1x1/room1.arm	39	7	3	node	
+0	Metadata/Terrain/Grove/Rooms/1x1/room1.arm	35	23	4	node	
+0	Metadata/Terrain/Grove/Rooms/1x1/room1.arm	39	19	5	node	
+0	Metadata/Terrain/Grove/Rooms/1x1/room1.arm	23	11	3	node	

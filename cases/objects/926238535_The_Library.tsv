@@ -1,0 +1,683 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	770	701	4.712 rad	2448909918	1_3_17_1					
+Metadata/Chests/Chest3	881	466	3.142 rad	3172158140	1_3_17_1					
+Metadata/Chests/Urn4v2	907	460	4.309 rad	4242361032	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	901	482	3.313 rad	3396104111	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	915	478	4.639 rad	974417570	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	920	482	1.522 rad	3396104111	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	970	478	3.142 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	602	611	0.000 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	671	603	0.000 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	750	605	0.000 rad	2349764741	1_3_17_1					
+Metadata/Chests/Chest20	868	605	0.000 rad	1315527116	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	919	609	0.491 rad	4099852392	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	930	607	4.982 rad	4099852392	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	927	620	1.129 rad	4099852392	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	911	633	0.000 rad	2349764741	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	940	630	3.657 rad	4099852392	1_3_17_1					
+Metadata/Chests/Chest3	860	684	0.000 rad	3172158140	1_3_17_1					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	767	698	3.976 rad	1792897079	1_3_17_1					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	771	697	2.283 rad	1570723376	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Waypoint	770	701	4.712 rad	552129418	1_3_17_1	2	-16.517			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	917	701	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	900	701	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	908	701	0.000 rad	1430781049	1_3_17_1	0	-0.000			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	621	723	0.000 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	783	713	0.000 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	626	752	1.571 rad	2349764741	1_3_17_1	16	-128.245			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	718	736	0.000 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	882	748	3.142 rad	2349764741	1_3_17_1	9	-74.313			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	898	745	3.142 rad	2349764741	1_3_17_1	9	-74.313			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	915	749	3.142 rad	2349764741	1_3_17_1	9	-75.740			
+Metadata/NPC/Act3/Siosa	712	768	5.861 rad	2795461779	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	839	761	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	839	779	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	839	770	1.571 rad	1430781049	1_3_17_1	0	-0.000			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	884	776	0.000 rad	2349764741	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	921	761	3.093 rad	3396104111	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	942	779	0.221 rad	3396104111	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	804	794	0.000 rad	2349764741	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	898	782	2.872 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	911	789	5.792 rad	3317351086	1_3_17_1					
+Metadata/Chests/Chest2v3	866	805	0.000 rad	1813572401	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	779	839	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	761	839	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	770	839	0.000 rad	1430781049	1_3_17_1	0	-0.000			
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	906	829	0.982 rad	3317351086	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	917	839	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	899	839	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	908	839	3.142 rad	1430781049	1_3_17_1	0	-0.000			
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	827	857	3.682 rad	1588848860	1_3_17_1					
+Monster: Skeletal Beast [Metadata/Monsters/Beasts/BeastSkeletonWake@30]	850	873	0.000 rad	520231058	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	849	865	0.859 rad	1588848860	1_3_17_1					
+Metadata/Chests/MapChest1	836	853	1.571 rad	1298295267	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	858	863	5.989 rad	974417570	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	535	500	0.000 rad	2349764741	1_3_17_1	16	-128.245			
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	895	500	3.731 rad	974417570	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	882	483	3.142 rad	2648527569	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	882	502	3.142 rad	2648527569	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	882	491	1.571 rad	2349764741	1_3_17_1	12	-101.260			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	878	499	1.571 rad	2349764741	1_3_17_1	16	-128.059			
+Monster: Tyrannursus Maximus [Metadata/Monsters/Beasts/BeastSkeletonWakeBoss@30]	897	644	3.142 rad	649031926	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	918	496	0.000 rad	2349764741	1_3_17_1	9	-74.313			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	901	492	0.000 rad	2349764741	1_3_17_1	9	-75.740			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	934	493	0.000 rad	2349764741	1_3_17_1	9	-74.313			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	977	503	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	977	485	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	977	494	1.571 rad	1430781049	1_3_17_1	0	-0.000			
+Metadata/Chests/Chest20	876	520	3.142 rad	1315527116	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	882	510	2.381 rad	1588848860	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	924	525	0.319 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	923	518	3.534 rad	3317351086	1_3_17_1					
+Metadata/Chests/Urn2v1	1009	530	4.503 rad	2278403995	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	546	608	3.142 rad	2349764741	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	563	641	4.712 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	563	623	4.712 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	563	632	4.712 rad	1430781049	1_3_17_1	0	-0.000			
+Monster: Thunder Keeper [Metadata/Monsters/Skeletons/SkeletonCasterLightning7@30]	546	654	2.503 rad	4093729693	1_3_17_1					
+Metadata/Chests/Urn4v2	985	670	5.563 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn4v1	988	670	1.749 rad	288426497	1_3_17_1					
+Metadata/Chests/Urn4v1	988	667	3.975 rad	288426497	1_3_17_1					
+Metadata/Chests/Urn4v2	985	667	4.290 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn4v2	991	669	1.206 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn2v1	994	668	4.226 rad	2278403995	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	964	751	5.645 rad	3396104111	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	944	770	0.344 rad	3396104111	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	977	779	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	977	761	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	977	770	1.571 rad	1430781049	1_3_17_1	0	-0.000			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	960	794	0.000 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	752	880	1.571 rad	2349764741	1_3_17_1					
+Metadata/Chests/Chest2v2	769	886	1.571 rad	3722740639	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	821	875	4.246 rad	974417570	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	864	891	1.571 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	925	904	1.571 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	817	942	1.571 rad	2349764741	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	517	485	0.196 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	512	486	1.522 rad	1588848860	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	522	497	4.958 rad	1588848860	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	506	585	1.890 rad	3317351086	1_3_17_1					
+Monster: Thunder Keeper [Metadata/Monsters/Skeletons/SkeletonCasterLightning7@30]	522	633	0.761 rad	4093729693	1_3_17_1					
+Monster: Thunder Keeper [Metadata/Monsters/Skeletons/SkeletonCasterLightning7@30]	512	656	3.436 rad	4093729693	1_3_17_1					
+Monster: Thunder Keeper [Metadata/Monsters/Skeletons/SkeletonCasterLightning7@30]	522	647	4.344 rad	4093729693	1_3_17_1					
+Monster: Thunder Keeper [Metadata/Monsters/Skeletons/SkeletonCasterLightning7@30]	528	645	6.185 rad	4093729693	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	506	727	0.540 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	514	754	6.259 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	509	746	2.013 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	523	751	3.706 rad	1588848860	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	513	859	1.571 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	743	982	1.571 rad	2349764741	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	918	975	2.773 rad	3396104111	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	907	988	1.571 rad	2349764741	1_3_17_1					
+Metadata/Chests/Urn4v2	939	988	4.556 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn1	942	986	0.465 rad	1421211170	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	925	975	0.442 rad	3396104111	1_3_17_1					
+Metadata/Chests/Urn2v1	945	988	1.521 rad	2278403995	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	486	509	5.817 rad	3317351086	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	500	515	0.000 rad	2349764741	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	487	532	3.534 rad	3317351086	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	503	563	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	485	563	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	494	563	3.142 rad	1430781049	1_3_17_1	0	-0.000			
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	502	578	0.565 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	489	592	5.228 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	487	602	4.737 rad	3317351086	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	497	656	3.142 rad	2349764741	1_3_17_1	9	-74.313			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	485	701	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	503	701	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	494	701	3.142 rad	1430781049	1_3_17_1	0	-0.000			
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	498	727	6.013 rad	1588848860	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	490	734	3.117 rad	1588848860	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	498	741	1.546 rad	1588848860	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	499	736	1.252 rad	974417570	1_3_17_1					
+Monster: Thunder Keeper [Metadata/Monsters/Skeletons/SkeletonCasterLightning7@30]	490	777	0.098 rad	4093729693	1_3_17_1					
+Monster: Thunder Keeper [Metadata/Monsters/Skeletons/SkeletonCasterLightning7@30]	488	800	4.222 rad	4093729693	1_3_17_1					
+Monster: Thunder Keeper [Metadata/Monsters/Skeletons/SkeletonCasterLightning7@30]	499	800	2.602 rad	4093729693	1_3_17_1					
+Monster: Thunder Keeper [Metadata/Monsters/Skeletons/SkeletonCasterLightning7@30]	492	794	2.872 rad	4093729693	1_3_17_1					
+Metadata/Chests/Chest9	485	909	1.571 rad	324145545	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	711	993	4.418 rad	1588848860	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	722	1010	1.031 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	735	999	4.491 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	748	997	3.632 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	756	995	2.405 rad	1588848860	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	740	992	5.547 rad	1588848860	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	763	990	3.952 rad	1588848860	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	817	1011	1.571 rad	2349764741	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	908	995	3.608 rad	3396104111	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	919	991	0.466 rad	3396104111	1_3_17_1					
+Metadata/Chests/Urn4v1	942	990	5.494 rad	288426497	1_3_17_1					
+Metadata/Chests/Urn1	937	992	5.116 rad	1421211170	1_3_17_1					
+Metadata/Chests/Urn1	945	991	0.639 rad	1421211170	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	486	509	5.817 rad	3317351086	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	500	515	0.000 rad	2349764741	1_3_17_1					
+Metadata/Chests/Chest20	876	520	3.142 rad	1315527116	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	882	510	2.381 rad	1588848860	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	924	525	0.319 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	923	518	3.534 rad	3317351086	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	492	490	3.264 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	502	491	6.234 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	517	485	0.196 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	512	486	1.522 rad	1588848860	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	522	497	4.958 rad	1588848860	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	535	500	0.000 rad	2349764741	1_3_17_1	16	-128.245			
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	895	500	3.731 rad	974417570	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	882	483	3.142 rad	2648527569	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	882	502	3.142 rad	2648527569	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	882	491	1.571 rad	2349764741	1_3_17_1	12	-101.260			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	878	499	1.571 rad	2349764741	1_3_17_1	16	-128.059			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	918	496	0.000 rad	2349764741	1_3_17_1	9	-74.313			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	901	492	0.000 rad	2349764741	1_3_17_1	9	-75.740			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	934	493	0.000 rad	2349764741	1_3_17_1	9	-74.313			
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	499	470	3.043 rad	1588848860	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	487	481	5.007 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	500	476	4.786 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	501	481	1.031 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	528	482	0.319 rad	3317351086	1_3_17_1					
+Metadata/Chests/Chest3	881	466	3.142 rad	3172158140	1_3_17_1					
+Metadata/Chests/Urn4v2	907	460	4.309 rad	4242361032	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	901	482	3.313 rad	3396104111	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	915	478	4.639 rad	974417570	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	920	482	1.522 rad	3396104111	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	469	519	1.227 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	469	539	3.706 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	464	533	0.810 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	469	530	4.590 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	461	552	5.694 rad	3317351086	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	460	616	0.245 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	460	640	2.405 rad	974417570	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	470	626	3.142 rad	2349764741	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	470	644	3.927 rad	1588848860	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	481	653	3.142 rad	2349764741	1_3_17_1	9	-74.313			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	464	657	3.142 rad	2349764741	1_3_17_1	9	-75.740			
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	476	750	5.940 rad	974417570	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	468	805	1.571 rad	2349764741	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	481	939	0.687 rad	3317351086	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	469	920	1.571 rad	2349764741	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	493	449	2.626 rad	3317351086	1_3_17_1					
+Metadata/Chests/Urn4v2	913	455	5.976 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn4v1	912	458	4.412 rad	288426497	1_3_17_1					
+Metadata/Chests/Urn2v1	909	455	1.907 rad	2278403995	1_3_17_1					
+Metadata/Chests/Chest2v3	442	546	0.000 rad	1813572401	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	454	532	5.694 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	438	539	2.209 rad	3317351086	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	442	638	0.123 rad	1588848860	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	459	749	1.571 rad	2349764741	1_3_17_1					
+Metadata/Chests/Chest2v1	738	382	3.142 rad	4023569337	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	876	388	0.270 rad	974417570	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	434	455	0.000 rad	2349764741	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	425	485	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	425	502	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	425	494	1.571 rad	1430781049	1_3_17_1	0	-0.000			
+Metadata/NPC/Info/LibraryMilitary1	744	356	1.571 rad	2366817590	1_3_17_1	0	-0.000			
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	744	345	3.142 rad	2648527569	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	744	364	3.142 rad	2648527569	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	839	347	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	839	365	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	839	356	1.571 rad	1430781049	1_3_17_1	0	-0.000			
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	895	366	1.890 rad	4099852392	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	874	361	2.921 rad	4099852392	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	892	358	0.933 rad	1588848860	1_3_17_1					
+Metadata/Chests/Chest2v1	391	529	1.571 rad	4023569337	1_3_17_1					
+Metadata/Chests/Chest2v1	391	762	1.571 rad	4023569337	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	399	794	1.571 rad	2349764741	1_3_17_1	9	-75.740			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	403	810	1.571 rad	2349764741	1_3_17_1	9	-75.740			
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	371	449	5.866 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	369	465	0.196 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	371	460	0.295 rad	3317351086	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	378	477	4.712 rad	2349764741	1_3_17_1	9	-75.740			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	382	493	4.712 rad	2349764741	1_3_17_1	9	-75.740			
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	370	523	1.963 rad	1588848860	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	380	540	1.154 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	374	547	5.645 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	368	529	0.025 rad	1588848860	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	368	572	1.129 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	370	595	6.234 rad	3317351086	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	387	650	4.712 rad	2349764741	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	374	689	2.258 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	373	675	4.737 rad	3317351086	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	380	770	1.571 rad	2648527569	1_3_17_1					
+Monster: Skeletal Beast [Metadata/Monsters/Beasts/BeastSkeletonWake@30]	368	782	3.142 rad	520231058	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	383	799	2.307 rad	3396104111	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	390	827	0.884 rad	3396104111	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	385	824	2.602 rad	3396104111	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	384	816	1.129 rad	3396104111	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	779	839	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	761	839	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	770	839	0.000 rad	1430781049	1_3_17_1	0	-0.000			
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	347	379	3.461 rad	4099852392	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	347	425	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	365	425	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	356	425	0.000 rad	1430781049	1_3_17_1	0	-0.000			
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	345	445	1.080 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	362	460	0.245 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	359	472	4.148 rad	3317351086	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	350	470	1.571 rad	2349764741	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	361	530	0.466 rad	1588848860	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	365	563	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	347	563	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	356	563	3.142 rad	1430781049	1_3_17_1	0	-0.000			
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	352	594	6.136 rad	3317351086	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	364	636	3.755 rad	1588848860	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	350	634	2.454 rad	1588848860	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	365	701	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	347	701	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	356	701	0.000 rad	1430781049	1_3_17_1	0	-0.000			
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	360	781	3.829 rad	3396104111	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	354	770	1.571 rad	2648527569	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	367	799	6.136 rad	3396104111	1_3_17_1					
+Monster: Skeletal Beast [Metadata/Monsters/Beasts/BeastSkeletonWake@30]	367	827	0.000 rad	520231058	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLightSpawned	563	632	4.712 rad	4213178734	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	354	852	1.571 rad	2648527569	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	383	852	1.571 rad	2648527569	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	513	859	1.571 rad	2349764741	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	333	490	3.436 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	327	495	5.915 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	326	500	0.466 rad	3317351086	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	332	546	1.571 rad	2349764741	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	328	620	2.430 rad	974417570	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	333	601	4.712 rad	2349764741	1_3_17_1					
+Metadata/Chests/Chest20	333	629	4.712 rad	1315527116	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	343	626	0.417 rad	974417570	1_3_17_1					
+Metadata/Chests/Urn4v2	323	779	0.756 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn4v2	326	778	4.333 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn2v1	323	782	5.768 rad	2278403995	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	306	502	4.688 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	313	508	5.498 rad	3317351086	1_3_17_1					
+Metadata/Chests/Urn4v2	320	781	0.138 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn4v2	318	778	0.637 rad	4242361032	1_3_17_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	510	639	0.000 rad	1450012487	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	490	643	1.190 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	484	637	1.249 rad	3875590990	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	478	633	1.045 rad	1418889786	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	478	633	1.654 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	472	644	1.571 rad	3875590990	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	330	377	0.515 rad	4099852392	1_3_17_1					
+Monster: Daemon [Metadata/Monsters/Daemon/Archnemesis/HexPoleSpawnerDaemon@30]	330	377	6.087 rad	4021199949	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	347	379	3.461 rad	4099852392	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	526	640	1.440 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	515	644	1.338 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	515	655	1.039 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	528	648	3.065 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	533	650	1.119 rad	3875590990	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	287	347	4.712 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	287	365	4.712 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	287	356	4.712 rad	1430781049	1_3_17_1	0	-0.000			
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	346	357	2.798 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	351	357	3.191 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	355	345	4.761 rad	1588848860	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLightSpawned	494	563	3.142 rad	4213178734	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	312	332	1.571 rad	2349764741	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	338	342	3.559 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	349	344	3.068 rad	1588848860	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	366	331	1.571 rad	2349764741	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	384	323	4.123 rad	4099852392	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	388	334	1.154 rad	4099852392	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	499	614	3.241 rad	3875590990	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	374	335	0.196 rad	4099852392	1_3_17_1					
+Metadata/Chests/Urn4v1	734	340	1.322 rad	288426497	1_3_17_1					
+Metadata/Chests/Urn1	732	343	0.153 rad	1421211170	1_3_17_1					
+Metadata/Chests/Urn4v2	731	337	5.002 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn3	734	337	2.150 rad	3085105031	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	493	606	3.065 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	484	594	2.761 rad	3875590990	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	499	594	4.012 rad	1418889786	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	499	594	5.820 rad	3875590990	1_3_17_1					
+Monster: Hex Pole [Metadata/Monsters/LeagueArchnemesis/HexPole@30]	318	358	1.743 rad	1846523816	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	490	546	1.279 rad	3875590990	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	245	347	0.000 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	497	532	4.774 rad	1418889786	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	497	532	5.264 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	481	530	0.852 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	478	525	4.249 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	488	519	2.447 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	471	527	0.785 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	493	516	2.678 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	495	511	3.463 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	490	507	3.522 rad	3875590990	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLightSpawned	425	494	1.571 rad	4213178734	1_3_17_1					
+Object: Metadata/QuestObjects/Library/HiddenDoor	196	352	0.000 rad	79304283	1_3_17_1	14	-110.309			
+Object: Metadata/QuestObjects/Library/HiddenDoorTrigger	180	354	0.000 rad	1078604867	1_3_17_1	18	-144.669			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	177	349	0.000 rad	2349764741	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	383	457	2.678 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	377	451	1.571 rad	3875590990	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLightSpawned	356	425	0.000 rad	4213178734	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	363	458	0.006 rad	1418889786	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	363	458	1.571 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	367	444	1.713 rad	3875590990	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	368	450	1.124 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	368	450	5.763 rad	1418889786	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	368	450	0.896 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	367	463	0.785 rad	3875590990	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	3.859 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	2.593 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	1.094 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	4.160 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	1.690 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	5.751 rad	1418889786	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterEpic	333	378	2.505 rad	2429136184	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	343	389	2.678 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterEpic	348	385	1.849 rad	2429136184	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	339	383	3.605 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	348	378	1.571 rad	3875590990	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	350	372	1.966 rad	1418889786	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	350	372	3.000 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	349	365	3.142 rad	3875590990	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLightSpawned	287	356	4.712 rad	4213178734	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	447	502	4.749 rad	1588848860	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	443	490	4.712 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	451	497	4.712 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	437	502	5.271 rad	3317351086	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	449	508	4.712 rad	1588848860	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	457	516	0.689 rad	3317351086	1_3_17_1					
+Metadata/Chests/Chest2v3	442	546	0.000 rad	1813572401	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	467	499	3.420 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	477	497	5.716 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	482	492	3.142 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	477	492	4.369 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	470	534	5.004 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	376	594	2.761 rad	3317351086	1_3_17_1					
+Object: Metadata/QuestObjects/Library/HiddenDoorTransition	201	361	0.000 rad	167204738	1_3_17_1	12	-100.885	0	14632	The Archives
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	447	502	4.749 rad	1588848860	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	443	490	4.712 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	451	497	4.712 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	437	502	5.271 rad	3317351086	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	449	508	4.712 rad	1588848860	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	457	516	0.689 rad	3317351086	1_3_17_1					
+Metadata/Chests/Chest2v3	442	546	0.000 rad	1813572401	1_3_17_1					
+Metadata/Characters/StrInt/StrInt	197	334	0.000 rad	2448909918	1_3_17_1					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	194	331	5.719 rad	1792897079	1_3_17_1					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	198	330	4.491 rad	1570723376	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	312	332	1.571 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	366	331	1.571 rad	2349764741	1_3_17_1					
+Object: Metadata/QuestObjects/Library/HiddenDoorTrigger	180	354	0.000 rad	1078604867	1_3_17_1	18	-144.669			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	177	349	0.000 rad	2349764741	1_3_17_1					
+Object: Metadata/QuestObjects/Library/HiddenDoorTransition	201	361	0.000 rad	167204738	1_3_17_1	12	-100.885	0	14632	The Archives
+Object: Metadata/QuestObjects/Library/HiddenDoor	196	352	0.000 rad	79304283	1_3_17_1	14	-110.309			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	245	347	0.000 rad	2349764741	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	287	347	4.712 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	287	365	4.712 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLightSpawned	287	356	4.712 rad	4213178734	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	340	346	1.893 rad	4099852392	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	326	356	3.816 rad	4099852392	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	343	352	2.850 rad	4099852392	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	3.859 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	2.593 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	1.094 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	4.160 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	1.690 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	5.751 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	350	372	1.966 rad	1418889786	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	356	428	3.110 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	351	416	3.142 rad	1588848860	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	347	425	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	365	425	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLightSpawned	356	425	0.000 rad	4213178734	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	339	457	3.546 rad	1588848860	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	363	458	0.006 rad	1418889786	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	377	455	0.000 rad	974417570	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	368	450	5.763 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	434	455	0.000 rad	2349764741	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	339	482	5.176 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	367	480	1.816 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	356	475	3.083 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	358	463	4.515 rad	3317351086	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	350	470	1.571 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	378	477	4.712 rad	2349764741	1_3_17_1	9	-75.740			
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	339	493	3.283 rad	3317351086	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	382	493	4.712 rad	2349764741	1_3_17_1	9	-75.740			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	425	485	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	425	502	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLightSpawned	425	494	1.571 rad	4213178734	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	332	546	1.571 rad	2349764741	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	366	542	0.785 rad	1588848860	1_3_17_1					
+Metadata/Chests/Chest2v1	391	529	1.571 rad	4023569337	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	365	563	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	347	563	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	356	563	3.142 rad	1430781049	1_3_17_1	0	-0.000			
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	447	502	4.749 rad	1588848860	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	443	490	4.712 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	451	497	4.712 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	437	502	5.271 rad	3317351086	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	449	508	4.712 rad	1588848860	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	457	516	0.689 rad	3317351086	1_3_17_1					
+Metadata/Chests/Chest2v3	442	546	0.000 rad	1813572401	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	467	499	3.420 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	477	497	5.716 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	482	492	3.142 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	477	492	4.369 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	470	534	5.004 rad	3317351086	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	500	515	0.000 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	497	532	4.774 rad	1418889786	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	503	563	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	485	563	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLightSpawned	494	563	3.142 rad	4213178734	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	376	594	2.761 rad	3317351086	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	535	500	0.000 rad	2349764741	1_3_17_1	16	-128.245			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	333	601	4.712 rad	2349764741	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	353	606	4.641 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	367	598	3.770 rad	3317351086	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	546	608	3.142 rad	2349764741	1_3_17_1					
+Metadata/Chests/Chest20	333	629	4.712 rad	1315527116	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	356	636	1.893 rad	1588848860	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	363	636	2.246 rad	974417570	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	478	633	1.045 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	470	626	3.142 rad	2349764741	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	563	641	4.712 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	563	623	4.712 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLightSpawned	563	632	4.712 rad	4213178734	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	353	644	3.536 rad	1588848860	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	359	649	1.571 rad	974417570	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	387	650	4.712 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	481	653	3.142 rad	2349764741	1_3_17_1	9	-74.313			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	464	657	3.142 rad	2349764741	1_3_17_1	9	-75.740			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	497	656	3.142 rad	2349764741	1_3_17_1	9	-74.313			
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	340	414	0.000 rad	1450012487	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	336	404	4.712 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	340	396	2.703 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterEpic	337	378	2.839 rad	2429136184	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterEpic	325	378	2.601 rad	2429136184	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	375	677	1.874 rad	3317351086	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterEpic	323	362	2.856 rad	2429136184	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	602	611	0.000 rad	2349764741	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	361	695	3.142 rad	3317351086	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	365	701	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	347	701	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	356	701	0.000 rad	1430781049	1_3_17_1	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	485	701	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	503	701	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	494	701	3.142 rad	1430781049	1_3_17_1	0	-0.000			
+Metadata/Effects/Spells/shatter/ShatterLarge	365	447	2.869 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	368	459	1.373 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	360	470	0.951 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	358	477	0.785 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	361	482	0.000 rad	3875590990	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	368	476	0.540 rad	3875590990	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	350	485	4.891 rad	1418889786	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	350	485	0.291 rad	3875590990	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	361	695	3.142 rad	3317351086	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	365	701	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	347	701	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	356	701	0.000 rad	1430781049	1_3_17_1	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	485	701	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	503	701	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/WorldItem	356	486	3.146 rad	1418889786	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	356	486	0.588 rad	3875590990	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	494	701	3.142 rad	1430781049	1_3_17_1	0	-0.000			
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	476	734	5.139 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	490	734	3.117 rad	1588848860	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	621	723	0.000 rad	2349764741	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	426	494	5.253 rad	3875590990	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	671	603	0.000 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	459	749	1.571 rad	2349764741	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	492	752	2.058 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	503	746	3.574 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	506	755	4.712 rad	1588848860	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	512	742	1.326 rad	1588848860	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	516	749	1.515 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	518	754	4.712 rad	1588848860	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	626	752	1.571 rad	2349764741	1_3_17_1	16	-128.245			
+Metadata/Chests/Urn4v2	320	781	0.138 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn4v2	318	778	0.637 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn4v2	323	779	0.756 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn4v2	326	778	4.333 rad	4242361032	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	360	781	3.829 rad	3396104111	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	354	770	1.571 rad	2648527569	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	380	770	1.571 rad	2648527569	1_3_17_1					
+Metadata/Chests/Chest2v1	391	762	1.571 rad	4023569337	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	515	759	3.730 rad	974417570	1_3_17_1					
+Metadata/NPC/Act3/Siosa	712	768	5.861 rad	2795461779	1_3_17_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	427	494	5.093 rad	3875590990	1_3_17_1					
+Metadata/Chests/Urn4v1	734	340	1.322 rad	288426497	1_3_17_1					
+Metadata/Chests/Urn1	732	343	0.153 rad	1421211170	1_3_17_1					
+Metadata/Chests/Urn4v2	731	337	5.002 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn3	734	337	2.150 rad	3085105031	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	718	736	0.000 rad	2349764741	1_3_17_1					
+Metadata/Chests/Urn2v1	323	782	5.768 rad	2278403995	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	367	799	6.136 rad	3396104111	1_3_17_1					
+Monster: Skeletal Beast [Metadata/Monsters/Beasts/BeastSkeletonWake@30]	368	782	3.142 rad	520231058	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	371	789	0.951 rad	3396104111	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	399	794	1.571 rad	2349764741	1_3_17_1	9	-75.740			
+Monster: Thunder Keeper [Metadata/Monsters/Skeletons/SkeletonCasterLightning7@30]	481	804	4.205 rad	4093729693	1_3_17_1					
+Monster: Thunder Keeper [Metadata/Monsters/Skeletons/SkeletonCasterLightning7@30]	483	797	0.733 rad	4093729693	1_3_17_1					
+Monster: Thunder Keeper [Metadata/Monsters/Skeletons/SkeletonCasterLightning7@30]	498	791	2.539 rad	4093729693	1_3_17_1					
+Metadata/NPC/Info/LibraryMilitary1	744	356	1.571 rad	2366817590	1_3_17_1	0	-0.000			
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	744	345	3.142 rad	2648527569	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	744	364	3.142 rad	2648527569	1_3_17_1					
+Metadata/Chests/Chest2v1	738	382	3.142 rad	4023569337	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	750	605	0.000 rad	2349764741	1_3_17_1					
+Monster: Skeletal Beast [Metadata/Monsters/Beasts/BeastSkeletonWake@30]	367	827	0.000 rad	520231058	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	390	827	0.884 rad	3396104111	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	385	824	2.602 rad	3396104111	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	384	816	1.129 rad	3396104111	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	403	810	1.571 rad	2349764741	1_3_17_1	9	-75.740			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	468	805	1.571 rad	2349764741	1_3_17_1					
+Monster: Thunder Keeper [Metadata/Monsters/Skeletons/SkeletonCasterLightning7@30]	492	805	4.712 rad	4093729693	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Waypoint	770	701	4.712 rad	552129418	1_3_17_1	2	-16.517			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	779	839	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	761	839	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	770	839	0.000 rad	1430781049	1_3_17_1	0	-0.000			
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	354	852	1.571 rad	2648527569	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	383	852	1.571 rad	2648527569	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	513	859	1.571 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	783	713	0.000 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	804	794	0.000 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	3.859 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	2.593 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	1.094 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	4.160 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	1.690 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	5.751 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	350	372	1.966 rad	1418889786	1_3_17_1					
+Metadata/Chests/Chest2v1	738	382	3.142 rad	4023569337	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	3.859 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	2.593 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	1.094 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	4.160 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	1.690 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	378	5.751 rad	1418889786	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	332	546	1.571 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	333	601	4.712 rad	2349764741	1_3_17_1					
+Metadata/Chests/Chest20	333	629	4.712 rad	1315527116	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	339	640	4.481 rad	1588848860	1_3_17_1					
+Metadata/Chests/Urn4v2	323	779	0.756 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn4v2	326	778	4.333 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn2v1	323	782	5.768 rad	2278403995	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	354	852	1.571 rad	2648527569	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	383	852	1.571 rad	2648527569	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	513	859	1.571 rad	2349764741	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	839	761	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	839	779	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	839	770	1.571 rad	1430781049	1_3_17_1	0	-0.000			
+Monster: Skeletal Beast [Metadata/Monsters/Beasts/BeastSkeletonWake@30]	850	873	0.000 rad	520231058	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	842	870	2.356 rad	1588848860	1_3_17_1					
+Metadata/Chests/MapChest1	836	853	1.571 rad	1298295267	1_3_17_1					
+Metadata/Chests/Chest2v1	738	382	3.142 rad	4023569337	1_3_17_1					
+Metadata/NPC/Info/LibraryMilitary1	744	356	1.571 rad	2366817590	1_3_17_1	0	-0.000			
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	744	345	3.142 rad	2648527569	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	744	364	3.142 rad	2648527569	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	839	347	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	839	365	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	839	356	1.571 rad	1430781049	1_3_17_1	0	-0.000			
+Metadata/Chests/Chest20	868	605	0.000 rad	1315527116	1_3_17_1					
+Metadata/Chests/Chest3	860	684	0.000 rad	3172158140	1_3_17_1					
+Metadata/Chests/Chest2v3	866	805	0.000 rad	1813572401	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	895	366	1.890 rad	4099852392	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	874	361	2.921 rad	4099852392	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	892	358	0.933 rad	1588848860	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	876	388	0.270 rad	974417570	1_3_17_1					
+Metadata/Chests/Chest3	881	466	3.142 rad	3172158140	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	895	500	3.731 rad	974417570	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	882	483	3.142 rad	2648527569	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightMultiTrigger	882	502	3.142 rad	2648527569	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	882	491	1.571 rad	2349764741	1_3_17_1	12	-101.260			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	878	499	1.571 rad	2349764741	1_3_17_1	16	-128.059			
+Metadata/Chests/Chest20	876	520	3.142 rad	1315527116	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	882	510	2.381 rad	1588848860	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	882	748	3.142 rad	2349764741	1_3_17_1	9	-74.313			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	884	776	0.000 rad	2349764741	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	904	355	0.147 rad	4099852392	1_3_17_1					
+Metadata/Chests/Urn4v2	913	455	5.976 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn4v1	912	458	4.412 rad	288426497	1_3_17_1					
+Metadata/Chests/Urn2v1	909	455	1.907 rad	2278403995	1_3_17_1					
+Metadata/Chests/Urn4v2	907	460	4.309 rad	4242361032	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	901	482	3.313 rad	3396104111	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	915	478	4.639 rad	974417570	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	918	496	0.000 rad	2349764741	1_3_17_1	9	-74.313			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	901	492	0.000 rad	2349764741	1_3_17_1	9	-75.740			
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	919	609	0.491 rad	4099852392	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	911	633	0.000 rad	2349764741	1_3_17_1					
+Monster: Tyrannursus Maximus [Metadata/Monsters/Beasts/BeastSkeletonWakeBoss@30]	897	644	3.142 rad	649031926	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	917	701	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	900	701	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	908	701	0.000 rad	1430781049	1_3_17_1	0	-0.000			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	898	745	3.142 rad	2349764741	1_3_17_1	9	-74.313			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	915	749	3.142 rad	2349764741	1_3_17_1	9	-75.740			
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	918	794	2.934 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	913	794	2.356 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	918	799	0.359 rad	3317351086	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	779	839	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	761	839	0.000 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	770	839	0.000 rad	1430781049	1_3_17_1	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	917	839	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	899	839	3.142 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	908	839	3.142 rad	1430781049	1_3_17_1	0	-0.000			
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	926	387	0.000 rad	2349764741	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	920	482	1.522 rad	3396104111	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	934	493	0.000 rad	2349764741	1_3_17_1	9	-74.313			
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	924	525	0.319 rad	3317351086	1_3_17_1					
+Monster: Ancient Bonestalker [Metadata/Monsters/Skeletons/SkeletonMelee@30]	923	518	3.534 rad	3317351086	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	934	609	5.300 rad	4099852392	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	924	615	3.142 rad	4099852392	1_3_17_1					
+Monster: Colossal Bonestalker [Metadata/Monsters/Skeletons/SkeletonMeleeLarge@30]	929	617	3.605 rad	4099852392	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	964	751	5.645 rad	3396104111	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	944	770	0.344 rad	3396104111	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	943	779	1.134 rad	3396104111	1_3_17_1					
+Monster: Bone Rhoa [Metadata/Monsters/Rhoas/RhoaSkeleton@30]	943	765	1.571 rad	3396104111	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	960	794	0.000 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	513	859	1.571 rad	2349764741	1_3_17_1					
+Monster: Skeletal Beast [Metadata/Monsters/Beasts/BeastSkeletonWake@30]	850	873	0.000 rad	520231058	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	842	870	2.356 rad	1588848860	1_3_17_1					
+Metadata/Chests/MapChest1	836	853	1.571 rad	1298295267	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	752	880	1.571 rad	2349764741	1_3_17_1					
+Metadata/Chests/Chest2v2	769	886	1.571 rad	3722740639	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	816	875	3.142 rad	974417570	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulse2@30]	844	875	3.213 rad	1588848860	1_3_17_1					
+Monster: Undying Archivist [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulse2@30]	833	881	2.034 rad	974417570	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	864	891	1.571 rad	2349764741	1_3_17_1					
+Metadata/Chests/Chest9	485	909	1.571 rad	324145545	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	925	904	1.571 rad	2349764741	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	970	478	3.142 rad	2349764741	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	977	503	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	977	485	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	977	494	1.571 rad	1430781049	1_3_17_1	0	-0.000			
+Metadata/Chests/Urn4v2	985	670	5.563 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn4v1	988	670	1.749 rad	288426497	1_3_17_1					
+Metadata/Chests/Urn4v1	988	667	3.975 rad	288426497	1_3_17_1					
+Metadata/Chests/Urn4v2	985	667	4.290 rad	4242361032	1_3_17_1					
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	977	779	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Metadata/MiscellaneousObjects/Lights/LightTrigger_Nonblocking	977	761	1.571 rad	1048281722	1_3_17_1	24	-191.130			
+Object: Metadata/MiscellaneousObjects/Lights/LibraryDoorLight	977	770	1.571 rad	1430781049	1_3_17_1	0	-0.000			
+Metadata/Chests/Urn2v1	1009	530	4.503 rad	2278403995	1_3_17_1					
+Metadata/Chests/Urn4v2	991	669	1.206 rad	4242361032	1_3_17_1					
+Metadata/Chests/Urn2v1	994	668	4.226 rad	2278403995	1_3_17_1					
+Object: Metadata/MiscellaneousObjects/Lights/LightTrigger	817	942	1.571 rad	2349764741	1_3_17_1					

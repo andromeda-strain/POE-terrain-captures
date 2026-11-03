@@ -1,0 +1,38 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	240	265	4.294 rad	2448909918	HideoutOasis					
+Metadata/MiscellaneousObjects/Settlers/RecombinatingBench	230	191	3.338 rad	35119791	HideoutOasis					
+Metadata/MiscellaneousObjects/Heist/HeistStash_Hideout	259	203	3.142 rad	2720744077	HideoutOasis					
+Metadata/MiscellaneousObjects/Brequel/GraftLocker_Hideout	276	201	5.614 rad	843442937	HideoutOasis					
+Metadata/MiscellaneousObjects/Expedition/ExpeditionStash_Hideout	293	201	3.142 rad	2895737018	HideoutOasis					
+Metadata/MiscellaneousObjects/Sanctum/SanctumLocker_Hideout	306	198	5.630 rad	2403444532	HideoutOasis					
+Metadata/Terrain/Missions/Hideouts/Objects/HideoutCraftingBench	203	209	3.787 rad	60453592	HideoutOasis					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	311	224	1.144 rad	2224417429	HideoutOasis					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	323	212	1.406 rad	2224417429	HideoutOasis					
+Metadata/MiscellaneousObjects/Harvest/CraftingSilo_Hideout	202	247	1.361 rad	45087824	HideoutOasis					
+Object: Metadata/MiscellaneousObjects/Waypoint	242	241	1.571 rad	552129418	HideoutOasis					
+Object: Metadata/MiscellaneousObjects/Stash	264	243	5.376 rad	2817685266	HideoutOasis					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	299	236	0.910 rad	2224417429	HideoutOasis					
+Metadata/NPC/Epilogue/LillyHideout	206	263	4.124 rad	1278960326	HideoutOasis					
+Metadata/NPC/League/Kalguur/VillageMayorHideout	195	274	0.380 rad	134316826	HideoutOasis					
+Metadata/NPC/League/Expedition/HagglerHideout	217	256	0.197 rad	3108367810	HideoutOasis					
+Metadata/NPC/League/Expedition/DealerHideout	216	273	1.190 rad	2077148119	HideoutOasis					
+Metadata/NPC/League/Kalguur/VillageFaustusHideout	231	269	1.190 rad	2052913407	HideoutOasis					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	236	261	0.442 rad	1570723376	HideoutOasis					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	240	262	0.270 rad	1792897079	HideoutOasis					
+Metadata/NPC/League/Expedition/SagaHideout	185	284	0.380 rad	1435863423	HideoutOasis					
+Metadata/NPC/League/Expedition/GamblerHideout	204	283	6.183 rad	3098437301	HideoutOasis					
+Object: Metadata/MiscellaneousObjects/HideoutDoodad	193	291	0.000 rad	2224417429	HideoutOasis					
+Metadata/NPC/League/Bestiary/EinharHideout	211	290	4.515 rad	3328367310	HideoutOasis					
+Metadata/NPC/League/Delve/DelveMinerHideout	222	297	6.133 rad	3178262659	HideoutOasis					
+Metadata/NPC/League/Blight/BlightBuilderHideout	223	280	3.142 rad	917937318	HideoutOasis					
+Metadata/NPC/Missions/Hideout/Helena	242	279	3.785 rad	2035396592	HideoutOasis					
+Metadata/NPC/Epilogue/KiracHideout	232	289	5.498 rad	1724116750	HideoutOasis					
+Metadata/MapDevices/FountainHallwayMapDevice/FountainHallwayMapDevice	277	279	0.000 rad	4240722938	HideoutOasis					
+Metadata/MapDevices/FountainHallwayMapDevice/MapTossInteractable	277	279	0.000 rad	107633326	HideoutOasis					
+Metadata/NPC/Epilogue/EagonHideout	203	312	4.332 rad	2468014904	HideoutOasis					
+Metadata/NPC/League/Betrayal/BetrayalNinjaCopHideout	202	299	1.951 rad	2742707254	HideoutOasis					
+Metadata/NPC/League/Incursion/TreasureHunterHideout	212	309	3.463 rad	3505577100	HideoutOasis					
+Metadata/MiscellaneousObjects/MultiplexPortal	296	269	1.086 rad	1600303822	HideoutOasis					
+Metadata/MiscellaneousObjects/MultiplexPortal	258	289	4.228 rad	1600303822	HideoutOasis					
+Metadata/MiscellaneousObjects/MultiplexPortal	296	289	2.055 rad	1600303822	HideoutOasis					
+Metadata/MiscellaneousObjects/MultiplexPortal	277	300	3.142 rad	1600303822	HideoutOasis					

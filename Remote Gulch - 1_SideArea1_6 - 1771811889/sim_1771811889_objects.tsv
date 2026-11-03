@@ -1,0 +1,4 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	275	260	4.7124	-157.628	20	beach_toswamp2_v03_02.tdt	0	3		parent
+Metadata/NPC/Info/VaalLetters/VaalLetter_02	321	1344	1.3517	-282.609	36	boss.arm	0			
+Metadata/Chests/SideArea/SideAreaChest	295	1347	1.5708	-187.500	24	boss.arm	0			

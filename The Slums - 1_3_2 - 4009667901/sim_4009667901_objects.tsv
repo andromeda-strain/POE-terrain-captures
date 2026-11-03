@@ -1,0 +1,6 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1464	442	4.7124	-355.818	46	act3_prison_entrance_01_01.tdt	0	0	20663	1_3_3_1
+Metadata/NPC/Info/Victario/GraffitiSlum	1437	858	3.1416	-42.144	5	slum_thinwall_01_01_victarioUnique.tdt	0			
+Metadata/QuestObjects/Sewers/SewersLockedTransition	793	1069	1.5708	-208.457	27	slum_sewer_entrance_v02_01.tdt	0	0	61682	1_3_10_1
+Metadata/QuestObjects/Sewers/SewersLockedDoor	792	1069	1.5708	-228.745	29	slum_sewer_entrance_v02_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	387	1172	0.0000	-342.911	44	act3_to_slums_area_transition.tdt	0	0	1073	1_3_town

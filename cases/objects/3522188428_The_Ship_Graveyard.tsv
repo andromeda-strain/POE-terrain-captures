@@ -1,0 +1,767 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	448	724	4.712 rad	2448909918	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	520	540	1.546 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	520	546	4.835 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	526	561	5.007 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	521	564	3.166 rad	1096866908	1_1_9					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	445	721	2.528 rad	1792897079	1_1_9					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	449	720	2.258 rad	1570723376	1_1_9					
+Object: Metadata/MiscellaneousObjects/Waypoint	448	724	4.712 rad	552129418	1_1_9	2	-16.917			
+Metadata/Chests/Crate2	624	728	3.572 rad	589372418	1_1_9					
+Object: Metadata/MiscellaneousObjects/AreaTransition	225	764	0.000 rad	726109394	1_1_9	16	-127.067	0	30227	Prisoner's Gate
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	658	769	0.687 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	665	772	4.001 rad	1380027046	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	524	838	3.461 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	527	845	2.503 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	528	839	1.546 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	541	841	6.038 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	555	843	5.915 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	553	839	5.522 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	556	847	5.817 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	561	844	0.638 rad	2749254369	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	671	774	2.994 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	687	764	2.724 rad	1380027046	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	625	813	4.614 rad	2327300241	1_1_9					
+Metadata/Chests/Crate2	664	809	2.627 rad	589372418	1_1_9					
+Metadata/Chests/Crate1	664	814	0.407 rad	1993491399	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	644	822	1.620 rad	2327300241	1_1_9					
+Metadata/Chests/Barrel5old	669	813	2.423 rad	2116127741	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	688	864	4.148 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	708	858	0.270 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	733	506	0.319 rad	730717525	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	727	729	2.872 rad	1096866908	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	735	807	3.952 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	735	810	3.485 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	731	827	1.374 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	720	827	4.025 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	723	830	4.025 rad	2749254369	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	721	857	1.227 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	741	493	2.773 rad	730717525	1_1_9					
+Metadata/Chests/QuestChests/Fairgraves/PirateBootySpawner_Skeleton	748	485	2.860 rad	4196575078	1_1_9					
+Metadata/Chests/QuestChests/Fairgraves/PirateBootySpawner_TormentedSpirit	750	505	2.860 rad	131526660	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	737	513	1.939 rad	730717525	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	738	727	2.332 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	746	725	3.142 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	737	734	0.785 rad	1096866908	1_1_9					
+Metadata/Chests/Chest22	754	740	5.238 rad	390337063	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	755	795	0.859 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	747	796	5.277 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	744	794	5.007 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	754	800	0.245 rad	2749254369	1_1_9					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	527	731	0.000 rad	1450012487	1_1_9					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	525	726	0.000 rad	1450012487	1_1_9					
+Metadata/Chests/GraveyardBootyChest	774	490	3.287 rad	2989335070	1_1_9					
+Metadata/Chests/QuestChests/Fairgraves/PirateBootySpawner_Miniboss	760	529	0.352 rad	3944617414	1_1_9					
+Metadata/Chests/Chest18	775	566	2.140 rad	2444280933	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	778	782	0.221 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	772	819	3.412 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	765	819	1.178 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	761	806	3.215 rad	2749254369	1_1_9					
+Metadata/Chests/QuestChests/Fairgraves/PirateBootySpawner_TormentedSpirit	790	515	4.150 rad	131526660	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	804	656	3.240 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	799	661	3.338 rad	2749254369	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	800	654	4.884 rad	730717525	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	792	683	1.104 rad	2749254369	1_1_9					
+Metadata/Chests/QuestChests/Fairgraves/PirateBootySpawner_Skeleton	809	510	4.298 rad	4196575078	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	812	666	0.663 rad	2749254369	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	806	650	0.393 rad	730717525	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	825	674	4.909 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	821	680	3.608 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	805	670	1.718 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	820	721	3.952 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	826	729	0.761 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	825	749	1.497 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	825	760	0.442 rad	2749254369	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	827	792	0.393 rad	1380027046	1_1_9					
+Metadata/Monsters/Skeletons/Skeleton/FairgravesCrewFastSpawnerDeepwater	706	1003	6.079 rad	1570596650	1_1_9					
+Monster: Captain Fairgraves [Metadata/Monsters/Skeletons/SkeletonBossFairgravesDeepwater@11]	735	1006	0.000 rad	1309572612	1_1_9					
+Metadata/Monsters/Skeletons/Skeleton/FairgravesCrewFastSpawnerDeepwater	766	999	6.207 rad	1570596650	1_1_9					
+Metadata/Monsters/Skeletons/Skeleton/FairgravesCrewFastSpawnerDeepwater	730	1029	6.248 rad	1570596650	1_1_9					
+Metadata/Monsters/Skeletons/Skeleton/FairgravesCrewFastSpawnerDeepwater	713	1022	6.164 rad	1570596650	1_1_9					
+Metadata/Monsters/Skeletons/Skeleton/FairgravesCrewFastSpawnerDeepwater	748	1025	6.177 rad	1570596650	1_1_9					
+Metadata/Monsters/Skeletons/Skeleton/FairgravesCrewFastSpawnerDeepwater	761	1018	6.277 rad	1570596650	1_1_9					
+Metadata/Terrain/Leagues/Deepwater/Act1_ShipGraveyard/FlameBarrier1	732	1039	3.194 rad	254568530	1_1_9	33	-260.000			
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	804	656	3.240 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	799	661	3.338 rad	2749254369	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	800	654	4.884 rad	730717525	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	792	683	1.104 rad	2749254369	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	528	839	1.546 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	541	841	6.038 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	553	839	5.522 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	555	843	5.915 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	561	844	0.638 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	524	838	3.461 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	527	845	2.503 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	556	847	5.817 rad	1713641240	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	812	666	0.663 rad	2749254369	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	806	650	0.393 rad	730717525	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	825	674	4.909 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	821	680	3.608 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	805	670	1.718 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	820	721	3.952 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	826	729	0.761 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	825	749	1.497 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	825	760	0.442 rad	2749254369	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	827	792	0.393 rad	1380027046	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	849	713	1.963 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	840	726	6.136 rad	2749254369	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	833	790	0.344 rad	1380027046	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	862	756	2.405 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	858	772	1.301 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	862	761	1.620 rad	1096866908	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	617	828	4.031 rad	1418889786	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	617	828	3.142 rad	2647986052	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	624	827	3.142 rad	2647986052	1_1_9					
+Metadata/Chests/Chest21	908	661	5.642 rad	3165843968	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	684	861	1.137 rad	1418889786	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	684	861	2.790 rad	1418889786	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	689	865	2.206 rad	1418889786	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	689	865	2.003 rad	1418889786	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	689	865	4.819 rad	3875590990	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	694	853	3.502 rad	1418889786	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	694	853	4.644 rad	3875590990	1_1_9					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	701	921	0.000 rad	1450012487	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	474	1164	3.142 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	497	1160	3.682 rad	1380027046	1_1_9					
+Metadata/Chests/Chest3	792	1172	0.931 rad	3172158140	1_1_9					
+Metadata/Chests/Barrel4old	965	1115	3.513 rad	2804926028	1_1_9					
+Metadata/Chests/Barrel3old	965	1120	1.876 rad	3865749632	1_1_9					
+Object: Metadata/Effects/ServerEffect	735	1006	0.000 rad	2646652649	1_1_9	24	-187.500			
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	590	1192	5.817 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	614	1191	0.147 rad	2749254369	1_1_9					
+Metadata/Chests/Barrel3old	504	1210	6.258 rad	3865749632	1_1_9					
+Metadata/Chests/Barrel3old	503	1203	3.501 rad	3865749632	1_1_9					
+Metadata/Chests/Barrel2old	506	1198	2.888 rad	3707287636	1_1_9					
+Metadata/Chests/Barrel3old	509	1207	1.382 rad	3865749632	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	614	1203	4.025 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	614	1207	6.185 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	632	1217	4.025 rad	2749254369	1_1_9					
+Metadata/Chests/Chest2v1	791	1212	5.492 rad	4023569337	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	830	1216	5.621 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	835	1216	4.541 rad	1380027046	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	909	1212	4.320 rad	730717525	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	955	1218	4.418 rad	2327300241	1_1_9					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	736	988	0.000 rad	1450012487	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	474	1164	3.142 rad	1380027046	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	464	1192	5.940 rad	2327300241	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	600	1222	2.921 rad	2749254369	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	635	1234	2.430 rad	730717525	1_1_9					
+Metadata/Chests/Chest9	555	1262	4.783 rad	324145545	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	619	1250	4.933 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	624	1242	5.841 rad	730717525	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	941	1248	3.829 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	941	1255	0.859 rad	2327300241	1_1_9					
+Metadata/Chests/Barrel4old	965	1115	3.513 rad	2804926028	1_1_9					
+Metadata/Chests/Barrel3old	965	1120	1.876 rad	3865749632	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	955	1218	4.418 rad	2327300241	1_1_9					
+Metadata/Chests/Barrel1old	970	1118	3.415 rad	1528648667	1_1_9					
+Metadata/Chests/Barrel3old	975	1118	2.428 rad	3865749632	1_1_9					
+Object: Metadata/Effects/ServerEffect	735	1006	0.000 rad	2646652649	1_1_9	24	-187.500			
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1006	1102	3.117 rad	2327300241	1_1_9					
+Object: Metadata/Effects/ServerEffect	735	1006	0.000 rad	2646652649	1_1_9	24	-187.500			
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	658	769	0.687 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	665	772	4.001 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	671	774	2.994 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	687	764	2.724 rad	1380027046	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	825	760	0.442 rad	2749254369	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	858	772	1.301 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	862	761	1.620 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	732	744	2.820 rad	1096866908	1_1_9					
+Metadata/Chests/Chest22	754	740	5.238 rad	390337063	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	825	749	1.497 rad	2749254369	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	862	756	2.405 rad	1096866908	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	761	1018	6.277 rad	2915939456	1_1_9					
+Metadata/Chests/Crate2	624	728	3.572 rad	589372418	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	740	728	2.214 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	746	725	3.142 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	737	734	1.736 rad	1096866908	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	820	721	3.952 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	826	729	0.761 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	849	713	1.963 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	840	726	6.136 rad	2749254369	1_1_9					
+Object: Metadata/Effects/ServerEffect	735	1006	0.000 rad	2646652649	1_1_9	24	-187.500			
+Object: Metadata/Effects/ServerEffect	735	1006	0.000 rad	2646652649	1_1_9	24	-187.500			
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	766	999	6.207 rad	2915939456	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	734	1006	1.444 rad	1418889786	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	734	1006	4.356 rad	1418889786	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	734	1006	5.530 rad	1418889786	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	734	1006	1.026 rad	1418889786	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	739	1002	0.719 rad	1418889786	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	730	1029	6.248 rad	2915939456	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	766	999	6.207 rad	3875590990	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	748	1025	6.177 rad	2915939456	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	761	1018	6.277 rad	3875590990	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	748	1025	6.177 rad	3875590990	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	761	1018	6.277 rad	2915939456	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	713	1022	6.164 rad	2915939456	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	497	1160	3.682 rad	1380027046	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	730	1029	6.248 rad	3875590990	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	713	1022	6.164 rad	3875590990	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	761	1018	6.277 rad	3875590990	1_1_9					
+Metadata/Chests/Barrel3old	504	1210	6.258 rad	3865749632	1_1_9					
+Metadata/Chests/Barrel3old	503	1203	3.501 rad	3865749632	1_1_9					
+Metadata/Chests/Barrel2old	506	1198	2.888 rad	3707287636	1_1_9					
+Metadata/Chests/Barrel3old	509	1207	1.382 rad	3865749632	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	614	1203	4.025 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	614	1207	6.185 rad	2749254369	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	706	1003	6.079 rad	2915939456	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	632	1217	4.025 rad	2749254369	1_1_9					
+Metadata/Chests/Chest2v1	791	1212	5.492 rad	4023569337	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	830	1216	5.621 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	835	1216	4.541 rad	1380027046	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	909	1212	4.320 rad	730717525	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	955	1218	4.418 rad	2327300241	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	766	999	6.207 rad	2915939456	1_1_9					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	720	967	0.000 rad	1450012487	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	706	1003	6.079 rad	3875590990	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	766	999	6.207 rad	3875590990	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	474	1164	3.142 rad	1380027046	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	464	1192	5.940 rad	2327300241	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	706	1003	6.079 rad	2915939456	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	748	1025	6.177 rad	2915939456	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	600	1222	2.921 rad	2749254369	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	635	1234	2.430 rad	730717525	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	761	1018	6.277 rad	2915939456	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	730	1029	6.248 rad	2915939456	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	713	1022	6.164 rad	2915939456	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	706	1003	3.318 rad	1418889786	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	706	1003	6.079 rad	3875590990	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	713	1022	6.164 rad	3875590990	1_1_9					
+Metadata/Chests/Barrel4old	965	1115	3.513 rad	2804926028	1_1_9					
+Metadata/Chests/Barrel3old	965	1120	1.876 rad	3865749632	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	955	1218	4.418 rad	2327300241	1_1_9					
+Metadata/Chests/Chest9	555	1262	4.783 rad	324145545	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	619	1250	4.933 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	624	1242	5.841 rad	730717525	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	941	1248	3.829 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	941	1255	0.859 rad	2327300241	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	748	1025	6.177 rad	3875590990	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	730	1029	6.248 rad	3875590990	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	748	1025	6.177 rad	2915939456	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	748	1025	2.095 rad	1418889786	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	748	1025	6.177 rad	3875590990	1_1_9					
+Metadata/Chests/Chest21	951	1272	4.038 rad	3165843968	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	766	999	6.207 rad	2915939456	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	706	1003	6.079 rad	2915939456	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	713	1022	6.164 rad	2915939456	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	500	1307	5.228 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	525	1294	1.080 rad	2749254369	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	511	1302	2.847 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	521	1289	3.534 rad	730717525	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	539	1301	1.178 rad	2749254369	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	531	1297	1.129 rad	730717525	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	601	1294	4.246 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	615	1289	1.595 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	910	1307	5.056 rad	1380027046	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	503	1323	0.172 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	521	1318	2.872 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	519	1329	4.761 rad	2749254369	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	513	1311	1.276 rad	730717525	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	540	1324	1.424 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	531	1322	6.259 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	535	1326	1.203 rad	2749254369	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	890	1314	4.001 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	903	1326	4.344 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	915	1328	0.196 rad	1380027046	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	963	1311	0.736 rad	2327300241	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	474	1164	3.142 rad	1380027046	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	464	1192	5.940 rad	2327300241	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	730	1029	6.248 rad	2915939456	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	761	1018	6.277 rad	2915939456	1_1_9					
+Metadata/Chests/Chest2v1	732	1335	5.271 rad	4023569337	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	713	1022	6.164 rad	2915939456	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	766	999	6.207 rad	2915939456	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	748	1025	6.177 rad	2915939456	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	706	1003	6.079 rad	2915939456	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	437	1190	4.148 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	450	1190	0.319 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	742	1396	6.013 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	736	1384	1.325 rad	2327300241	1_1_9					
+Object: Metadata/MiscellaneousObjects/AreaTransition	842	1402	3.142 rad	726109394	1_1_9	-8	68.428	0	11322	The Ship Graveyard Cave
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	730	1029	6.248 rad	2915939456	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	765	1407	5.498 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	428	1218	2.651 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	431	1199	3.485 rad	2327300241	1_1_9					
+Metadata/Chests/Chest2v1	641	1434	3.435 rad	4023569337	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	632	1217	4.025 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	636	1231	0.736 rad	3875590990	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	626	1226	0.964 rad	3875590990	1_1_9					
+Metadata/Chests/Barrel3old	732	1468	2.141 rad	3865749632	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	734	1459	6.259 rad	1096866908	1_1_9					
+Metadata/Chests/Barrel3old	740	1460	4.584 rad	3865749632	1_1_9					
+Metadata/Chests/Barrel3old	737	1465	3.990 rad	3865749632	1_1_9					
+Metadata/Chests/Barrel3old	739	1455	0.691 rad	3865749632	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	629	1241	1.911 rad	1418889786	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	629	1241	0.657 rad	3875590990	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	614	1203	4.025 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	614	1207	6.185 rad	1713641240	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	708	1481	5.056 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	722	1489	2.332 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	731	1478	4.786 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	738	1483	1.203 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	727	1504	1.424 rad	1096866908	1_1_9					
+Metadata/Chests/Barrel3old	692	1521	1.746 rad	3865749632	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	615	1289	0.219 rad	3875590990	1_1_9					
+Metadata/Chests/Barrel2old	742	1545	2.156 rad	3707287636	1_1_9					
+Metadata/Chests/Barrel3old	749	1549	1.118 rad	3865749632	1_1_9					
+Metadata/Chests/Barrel3old	747	1544	4.879 rad	3865749632	1_1_9					
+Metadata/Chests/Barrel4old	737	1543	1.314 rad	2804926028	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	601	1294	4.246 rad	3875590990	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	890	1314	4.001 rad	1380027046	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	909	1212	4.320 rad	730717525	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	910	1307	5.056 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	903	1326	4.344 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	915	1328	0.196 rad	1380027046	1_1_9					
+Metadata/Chests/Barrel3old	918	1473	5.164 rad	3865749632	1_1_9					
+Metadata/Chests/Crate2	912	1480	2.677 rad	589372418	1_1_9					
+Metadata/Chests/Crate1	907	1476	4.990 rad	1993491399	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	906	1516	4.958 rad	730717525	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	941	1248	3.829 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	941	1255	0.859 rad	2327300241	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	932	1504	3.976 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	925	1501	5.252 rad	730717525	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	938	1531	3.976 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	924	1518	2.773 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	937	1519	2.749 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	935	1522	4.295 rad	2749254369	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	723	1401	3.029 rad	1418889786	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	723	1401	4.875 rad	2647986052	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	726	1409	5.232 rad	2647986052	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	739	1398	4.816 rad	2647986052	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	955	1218	4.418 rad	2327300241	1_1_9					
+Metadata/Chests/Chest21	951	1272	4.038 rad	3165843968	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	963	1311	0.736 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	957	1392	0.908 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	959	1381	0.982 rad	2327300241	1_1_9					
+Metadata/Chests/Barrel3old	961	1513	4.546 rad	3865749632	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	944	1537	3.510 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	944	1528	5.645 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	950	1539	1.031 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	945	1543	5.351 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	963	1557	5.449 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	950	1561	3.043 rad	2749254369	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	735	1460	4.731 rad	1418889786	1_1_9					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1460	4.063 rad	316014466	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	735	1460	5.498 rad	3875590990	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	958	1594	4.123 rad	730717525	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	979	1311	5.105 rad	2327300241	1_1_9					
+Metadata/Chests/Chest2v1	975	1334	5.043 rad	4023569337	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	985	1485	1.104 rad	2327300241	1_1_9					
+Metadata/Chests/Barrel2old	966	1517	1.537 rad	3707287636	1_1_9					
+Metadata/Chests/Barrel4old	974	1526	2.125 rad	2804926028	1_1_9					
+Metadata/Chests/Barrel2old	969	1527	3.688 rad	3707287636	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	969	1602	4.418 rad	730717525	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1010	1334	4.074 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1009	1345	3.534 rad	1380027046	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	994	1500	1.374 rad	2327300241	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1014	1367	1.399 rad	1380027046	1_1_9					
+Metadata/Chests/Barrel5old	1030	1503	0.551 rad	2116127741	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1033	1620	4.786 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1026	1633	2.577 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1044	1463	3.043 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1042	1477	5.375 rad	730717525	1_1_9					
+Metadata/Chests/Barrel1old	1038	1511	5.039 rad	1528648667	1_1_9					
+Metadata/Chests/Barrel4old	1037	1502	2.519 rad	2804926028	1_1_9					
+Metadata/Chests/Barrel3old	1042	1503	3.702 rad	3865749632	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1056	1599	1.203 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1055	1619	1.914 rad	730717525	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1050	1654	5.817 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1047	1638	5.130 rad	2327300241	1_1_9					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	810	1413	0.000 rad	1450012487	1_1_9					
+Metadata/Chests/Chest3	792	1172	0.931 rad	3172158140	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1074	1164	1.644 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1070	1171	3.657 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1076	1178	4.982 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1079	1204	2.135 rad	2327300241	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1058	1464	1.055 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1077	1609	3.412 rad	730717525	1_1_9					
+Metadata/Characters/StrInt/StrInt	821	1386	5.498 rad	2448909918	1_1_9					
+Metadata/Chests/Chest3	792	1172	0.931 rad	3172158140	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	590	1192	5.817 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	614	1191	0.147 rad	2749254369	1_1_9					
+Metadata/Chests/Chest2v1	791	1212	5.492 rad	4023569337	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	830	1216	5.621 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	835	1216	4.541 rad	1380027046	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	957	1254	2.034 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	964	1245	1.107 rad	2327300241	1_1_9					
+Metadata/Chests/Chest21	951	1272	4.038 rad	3165843968	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	910	1307	5.056 rad	1380027046	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	961	1298	6.098 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	974	1309	3.444 rad	2327300241	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	890	1314	4.001 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	903	1326	4.344 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	915	1328	0.196 rad	1380027046	1_1_9					
+Metadata/Chests/Chest2v1	732	1335	5.271 rad	4023569337	1_1_9					
+Metadata/Chests/Chest2v1	975	1334	5.043 rad	4023569337	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	723	1401	3.029 rad	1418889786	1_1_9					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	818	1383	6.259 rad	1792897079	1_1_9					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	822	1382	1.325 rad	1570723376	1_1_9					
+Object: Metadata/MiscellaneousObjects/AreaTransition	842	1402	3.142 rad	726109394	1_1_9	-8	68.428	0	11322	The Ship Graveyard Cave
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	834	1392	3.142 rad	1450012487	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	954	1394	4.249 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	971	1402	3.017 rad	2327300241	1_1_9					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	805	1406	0.825 rad	1450012487	1_1_9					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	809	1411	0.000 rad	1450012487	1_1_9					
+Metadata/Chests/Barrel3old	732	1468	2.141 rad	3865749632	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	735	1460	4.731 rad	1418889786	1_1_9					
+Metadata/Chests/Barrel3old	739	1455	0.691 rad	3865749632	1_1_9					
+Metadata/Chests/Barrel3old	740	1460	4.584 rad	3865749632	1_1_9					
+Metadata/Chests/Barrel3old	737	1465	3.990 rad	3865749632	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	711	1482	5.865 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	725	1480	6.005 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	730	1484	3.605 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	721	1491	0.111 rad	1096866908	1_1_9					
+Monster: Fetid Shambler [Metadata/Monsters/ZombieDismember/ZombieTar@11]	730	1473	1.571 rad	1096866908	1_1_9					
+Metadata/Chests/Barrel3old	918	1473	5.164 rad	3865749632	1_1_9					
+Metadata/Chests/Crate2	912	1480	2.677 rad	589372418	1_1_9					
+Metadata/Chests/Crate1	907	1476	4.990 rad	1993491399	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	928	1482	0.464 rad	730717525	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	988	1484	0.261 rad	2327300241	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	934	1500	1.460 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	932	1495	2.246 rad	730717525	1_1_9					
+Metadata/Chests/Barrel3old	961	1513	4.546 rad	3865749632	1_1_9					
+Metadata/Chests/Barrel2old	966	1517	1.537 rad	3707287636	1_1_9					
+Metadata/Chests/Barrel3old	692	1521	1.746 rad	3865749632	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	938	1531	3.976 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	924	1518	2.773 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	937	1519	2.749 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	935	1522	4.295 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	944	1537	3.510 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	944	1528	5.645 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	950	1539	1.031 rad	2749254369	1_1_9					
+Metadata/Chests/Barrel4old	974	1526	2.125 rad	2804926028	1_1_9					
+Metadata/Chests/Barrel2old	969	1527	3.688 rad	3707287636	1_1_9					
+Metadata/Chests/Barrel2old	742	1545	2.156 rad	3707287636	1_1_9					
+Metadata/Chests/Barrel3old	749	1549	1.118 rad	3865749632	1_1_9					
+Metadata/Chests/Barrel3old	747	1544	4.879 rad	3865749632	1_1_9					
+Metadata/Chests/Barrel4old	737	1543	1.314 rad	2804926028	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	945	1543	5.351 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	963	1557	5.449 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	950	1561	3.043 rad	2749254369	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	909	1212	4.320 rad	730717525	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	955	1218	4.418 rad	2327300241	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	600	1222	2.921 rad	2749254369	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	629	1241	1.911 rad	1418889786	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	592	1320	2.326 rad	730717525	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1010	1334	4.074 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1009	1345	3.534 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1014	1367	1.399 rad	1380027046	1_1_9					
+Metadata/Chests/Chest2v1	641	1434	3.435 rad	4023569337	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1044	1463	3.043 rad	730717525	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	997	1482	0.153 rad	2327300241	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1042	1477	5.375 rad	730717525	1_1_9					
+Metadata/Chests/Barrel5old	1030	1503	0.551 rad	2116127741	1_1_9					
+Metadata/Chests/Barrel1old	1038	1511	5.039 rad	1528648667	1_1_9					
+Metadata/Chests/Barrel4old	1037	1502	2.519 rad	2804926028	1_1_9					
+Metadata/Chests/Barrel3old	1042	1503	3.702 rad	3865749632	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	958	1594	4.123 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	969	1602	4.418 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1056	1599	1.203 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1033	1620	4.786 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1055	1619	1.914 rad	730717525	1_1_9					
+Metadata/Chests/Chest9	555	1262	4.783 rad	324145545	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1026	1633	2.577 rad	730717525	1_1_9					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	778	1539	0.000 rad	1450012487	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	539	1301	1.178 rad	2749254369	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	532	1301	2.850 rad	730717525	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	540	1324	1.424 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	531	1322	6.259 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	535	1326	1.203 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	525	1294	1.080 rad	2749254369	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	514	1301	5.654 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	524	1298	4.712 rad	730717525	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	521	1318	2.872 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	519	1329	4.761 rad	2749254369	1_1_9					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	734	1498	0.000 rad	1450012487	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	740	1502	4.387 rad	1418889786	1_1_9					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	740	1502	2.613 rad	316014466	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	740	1502	1.571 rad	3875590990	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	732	1492	3.386 rad	1418889786	1_1_9					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	732	1492	4.260 rad	316014466	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	732	1492	1.736 rad	3875590990	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	734	1486	1.069 rad	1418889786	1_1_9					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	734	1486	6.160 rad	316014466	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	734	1486	2.356 rad	3875590990	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	717	1488	4.424 rad	1418889786	1_1_9					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	717	1488	6.057 rad	316014466	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	717	1488	2.396 rad	3875590990	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	718	1483	4.344 rad	1418889786	1_1_9					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	718	1483	4.244 rad	316014466	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	718	1483	1.571 rad	3875590990	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	500	1307	5.228 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	503	1323	0.172 rad	2749254369	1_1_9					
+Metadata/Chests/Chest9	555	1262	4.783 rad	324145545	1_1_9					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	692	1483	0.000 rad	1450012487	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	600	1222	2.921 rad	2749254369	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	629	1241	1.911 rad	1418889786	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	428	1218	2.651 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	431	1199	3.485 rad	2327300241	1_1_9					
+Metadata/Chests/Barrel3old	504	1210	6.258 rad	3865749632	1_1_9					
+Metadata/Chests/Barrel3old	503	1203	3.501 rad	3865749632	1_1_9					
+Metadata/Chests/Barrel2old	506	1198	2.888 rad	3707287636	1_1_9					
+Metadata/Chests/Barrel3old	509	1207	1.382 rad	3865749632	1_1_9					
+Metadata/Chests/Chest2v1	791	1212	5.492 rad	4023569337	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	830	1216	5.621 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	835	1216	4.541 rad	1380027046	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	437	1190	4.148 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	450	1190	0.319 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	469	1182	3.980 rad	2327300241	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	590	1192	5.817 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	614	1191	0.147 rad	2749254369	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	474	1164	3.142 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	497	1160	3.682 rad	1380027046	1_1_9					
+Metadata/Chests/Chest3	792	1172	0.931 rad	3172158140	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	720	1071	3.856 rad	2915939456	1_1_9					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	543	1290	0.000 rad	1450012487	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	1302	6.138 rad	1418889786	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	550	1302	2.373 rad	3875590990	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	539	1301	1.178 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	552	1307	1.352 rad	3875590990	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	532	1315	1.777 rad	3875590990	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	540	1324	1.424 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	521	1318	2.872 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	531	1322	6.259 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	535	1326	1.203 rad	1713641240	1_1_9					
+Metadata/Terrain/Leagues/Deepwater/Act1_ShipGraveyard/FlameBarrier1	732	1039	3.194 rad	254568530	1_1_9	33	-260.000			
+Metadata/Effects/Spells/shatter/ShatterSmall	527	1293	0.464 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	511	1307	1.550 rad	1713641240	1_1_9					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	494	1286	0.000 rad	1450012487	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	441	1232	2.973 rad	2647986052	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	475	1219	6.038 rad	2647986052	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	451	1197	3.690 rad	2647986052	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	431	1205	2.556 rad	1418889786	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	431	1205	2.871 rad	2647986052	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	439	1196	3.005 rad	2647986052	1_1_9					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@11]	506	1198	4.737 rad	3022221792	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	706	1003	6.079 rad	2915939456	1_1_9					
+Metadata/Monsters/Skeletons/Skeleton/FairgravesCrewFastSpawnerDeepwater	706	1003	6.079 rad	1570596650	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	706	1003	3.318 rad	1418889786	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	706	1003	6.079 rad	2915939456	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	497	1160	3.682 rad	3875590990	1_1_9					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	484	1151	0.000 rad	1450012487	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	734	1006	1.444 rad	1418889786	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	734	1006	4.356 rad	1418889786	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	734	1006	5.530 rad	1418889786	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	734	1006	1.026 rad	1418889786	1_1_9					
+Monster: Captain Fairgraves [Metadata/Monsters/Skeletons/SkeletonBossFairgravesDeepwater@11]	734	1006	4.878 rad	1309572612	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	717	1031	2.820 rad	2915939456	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	730	1029	6.248 rad	2915939456	1_1_9					
+Metadata/Monsters/Skeletons/Skeleton/FairgravesCrewFastSpawnerDeepwater	730	1029	6.248 rad	1570596650	1_1_9					
+Metadata/Monsters/Skeletons/Skeleton/FairgravesCrewFastSpawnerDeepwater	713	1022	6.164 rad	1570596650	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	717	1026	2.356 rad	2915939456	1_1_9					
+Metadata/Terrain/Leagues/Deepwater/Act1_ShipGraveyard/FlameBarrier1	732	1039	3.194 rad	254568530	1_1_9	33	-260.000			
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	720	1071	3.856 rad	2915939456	1_1_9					
+Metadata/Chests/Chest2v1	732	1335	5.271 rad	4023569337	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	723	1401	3.029 rad	1418889786	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	739	1002	0.719 rad	1418889786	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	747	1022	4.494 rad	2915939456	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	741	1029	3.360 rad	2915939456	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	747	1032	3.927 rad	2915939456	1_1_9					
+Metadata/Monsters/Skeletons/Skeleton/FairgravesCrewFastSpawnerDeepwater	748	1025	6.177 rad	1570596650	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	748	1025	2.095 rad	1418889786	1_1_9					
+Metadata/Chests/Chest2v1	641	1434	3.435 rad	4023569337	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	766	999	6.207 rad	2915939456	1_1_9					
+Metadata/Monsters/Skeletons/Skeleton/FairgravesCrewFastSpawnerDeepwater	766	999	6.207 rad	1570596650	1_1_9					
+Metadata/Monsters/Skeletons/Skeleton/FairgravesCrewFastSpawnerDeepwater	761	1018	6.277 rad	1570596650	1_1_9					
+Monster: Fairgraves' Crewman [Metadata/Monsters/Skeletons/SkeletonMeleeFairgravesCrewStandardFastDeepwater@11]	761	1018	6.277 rad	2915939456	1_1_9					
+Metadata/Chests/Chest3	792	1172	0.931 rad	3172158140	1_1_9					
+Metadata/Chests/Chest2v1	791	1212	5.492 rad	4023569337	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	830	1216	5.621 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	835	1216	4.541 rad	1380027046	1_1_9					
+Object: Metadata/MiscellaneousObjects/AreaTransition	842	1402	3.142 rad	726109394	1_1_9	-8	68.428	0	11322	The Ship Graveyard Cave
+Metadata/Effects/Spells/shatter/ShatterSmall	590	1192	5.817 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	600	1222	2.921 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	614	1191	0.147 rad	1713641240	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	890	1314	4.001 rad	1380027046	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	909	1212	4.320 rad	730717525	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	910	1307	5.056 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	903	1326	4.344 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	915	1328	0.196 rad	1380027046	1_1_9					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	725	1179	0.000 rad	1450012487	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	715	1128	3.246 rad	3875590990	1_1_9					
+Metadata/Chests/Barrel4old	965	1115	3.513 rad	2804926028	1_1_9					
+Metadata/Chests/Barrel3old	965	1120	1.876 rad	3865749632	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	955	1218	4.418 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	965	1218	5.820 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	948	1218	0.000 rad	2327300241	1_1_9					
+Metadata/Chests/Chest21	951	1272	4.038 rad	3165843968	1_1_9					
+Metadata/Chests/Barrel1old	970	1118	3.415 rad	1528648667	1_1_9					
+Metadata/Chests/Barrel3old	975	1118	2.428 rad	3865749632	1_1_9					
+Metadata/Chests/Chest2v1	975	1334	5.043 rad	4023569337	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1006	1102	3.117 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	989	1312	2.266 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	989	1322	1.166 rad	2327300241	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1010	1334	4.074 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1009	1345	3.534 rad	1380027046	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	989	1418	1.571 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	989	1404	2.737 rad	2327300241	1_1_9					
+Metadata/Chests/Chest2v1	641	1434	3.435 rad	4023569337	1_1_9					
+Metadata/Chests/Crate2	1032	1084	3.128 rad	589372418	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1014	1367	1.399 rad	1380027046	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1074	1164	1.644 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1070	1171	3.657 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1076	1178	4.982 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1079	1204	2.135 rad	2327300241	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	830	1216	5.621 rad	3875590990	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	835	1216	4.541 rad	3875590990	1_1_9					
+Metadata/Chests/Chest2v2	1087	1291	3.859 rad	3722740639	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1099	1333	0.761 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1101	1399	2.381 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1084	1410	4.933 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1109	1227	0.933 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1107	1235	3.338 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1112	1331	2.356 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1113	1395	2.209 rad	2327300241	1_1_9					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	898	1208	0.000 rad	1450012487	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	908	1212	4.643 rad	3875590990	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	922	1213	5.176 rad	2647986052	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	932	1221	5.176 rad	2647986052	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	942	1208	4.671 rad	2647986052	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1171	1114	4.884 rad	1380027046	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1153	1171	4.025 rad	730717525	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	1167	1226	2.773 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	1161	1232	3.093 rad	2749254369	1_1_9					
+Metadata/Chests/Barrel3old	1194	1078	6.034 rad	3865749632	1_1_9					
+Metadata/Chests/Barrel3old	1177	1078	6.166 rad	3865749632	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1184	1115	5.522 rad	1380027046	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1185	1148	3.755 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1174	1149	3.829 rad	730717525	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1173	1130	2.651 rad	1380027046	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1174	1172	4.467 rad	730717525	1_1_9					
+Metadata/Chests/Barrel3old	1176	1192	2.289 rad	3865749632	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1182	1175	0.442 rad	730717525	1_1_9					
+Metadata/Chests/Barrel4old	1185	1201	2.458 rad	2804926028	1_1_9					
+Metadata/Chests/Barrel2old	1181	1196	1.024 rad	3707287636	1_1_9					
+Metadata/Chests/Barrel3old	1180	1201	0.145 rad	3865749632	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	1173	1238	1.252 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	1184	1254	1.448 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	1174	1258	3.853 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	1182	1259	2.356 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	1176	1250	0.270 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	1174	1253	2.994 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	1176	1267	4.099 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	1179	1266	2.086 rad	2749254369	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1207	1076	0.074 rad	2327300241	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1201	1090	2.062 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1202	1095	4.909 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1212	1092	1.939 rad	730717525	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1207	1084	0.074 rad	2327300241	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1208	1126	5.130 rad	1380027046	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1219	1082	4.933 rad	2327300241	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	1008	1134	3.228 rad	2647986052	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	975	1118	2.968 rad	1418889786	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	1034	1175	4.883 rad	2647986052	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	1060	1164	4.648 rad	2647986052	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	1088	1175	2.159 rad	2647986052	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	1092	1191	0.785 rad	2647986052	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	1143	1152	5.300 rad	3875590990	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	1152	1150	5.232 rad	3875590990	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	1166	1146	5.006 rad	3875590990	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	1162	1161	0.786 rad	1418889786	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	1162	1161	5.093 rad	3875590990	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	1164	1156	5.413 rad	1418889786	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	1164	1156	5.248 rad	3875590990	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	1173	1130	2.651 rad	3875590990	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	1171	1114	3.650 rad	1418889786	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	1171	1114	4.884 rad	3875590990	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1101	1399	2.381 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1113	1395	2.209 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	989	1418	1.571 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	989	1404	2.737 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1084	1410	4.933 rad	2327300241	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	1172	1131	2.694 rad	3875590990	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	1180	1118	4.222 rad	3875590990	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	1193	1124	3.863 rad	3875590990	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	1198	1118	6.200 rad	1418889786	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	1198	1118	3.509 rad	2647986052	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	1177	1078	1.628 rad	1418889786	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterLarge	1205	1129	3.850 rad	3875590990	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	1194	1078	1.856 rad	1418889786	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	1207	1084	0.074 rad	2647986052	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	1137	1202	5.810 rad	2647986052	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	1144	1203	5.961 rad	2647986052	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	940	1470	0.245 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1044	1463	3.043 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1058	1464	1.055 rad	730717525	1_1_9					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@11]	1181	1196	6.259 rad	3022221792	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	1167	1226	2.773 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	1161	1232	3.093 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	1173	1238	1.252 rad	1713641240	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	933	1480	2.747 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	921	1487	3.360 rad	730717525	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	997	1482	0.153 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	989	1480	0.381 rad	2327300241	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1042	1477	5.375 rad	730717525	1_1_9					
+Metadata/Chests/Barrel3old	961	1513	4.546 rad	3865749632	1_1_9					
+Metadata/Chests/Barrel2old	966	1517	1.537 rad	3707287636	1_1_9					
+Metadata/Chests/Barrel5old	1030	1503	0.551 rad	2116127741	1_1_9					
+Metadata/Chests/Barrel1old	1038	1511	5.039 rad	1528648667	1_1_9					
+Metadata/Chests/Barrel4old	1037	1502	2.519 rad	2804926028	1_1_9					
+Metadata/Chests/Barrel3old	1042	1503	3.702 rad	3865749632	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	938	1531	3.976 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	924	1518	2.773 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	937	1519	2.749 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	935	1522	4.295 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	944	1537	3.510 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	944	1528	5.645 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	950	1539	1.031 rad	2749254369	1_1_9					
+Metadata/Chests/Barrel4old	974	1526	2.125 rad	2804926028	1_1_9					
+Metadata/Chests/Barrel2old	969	1527	3.688 rad	3707287636	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1147	1540	1.939 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1184	1529	4.295 rad	1380027046	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	945	1543	5.351 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	963	1557	5.449 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	950	1561	3.043 rad	2749254369	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1170	1559	0.810 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1151	1551	4.344 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1155	1546	3.706 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1149	1570	5.351 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	1165	1568	1.988 rad	1380027046	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	1150	1300	0.590 rad	1418889786	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	1150	1300	5.057 rad	1418889786	1_1_9					
+Object: Metadata/MiscellaneousObjects/WorldItem	1150	1300	5.493 rad	1418889786	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	1150	1300	2.601 rad	2647986052	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	1168	1292	3.171 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	1176	1288	3.142 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	1179	1286	3.360 rad	1713641240	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	1112	1310	0.442 rad	2647986052	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	1170	1300	3.185 rad	1713641240	1_1_9					
+Metadata/Effects/Spells/shatter/ShatterSmall	1173	1296	3.142 rad	1713641240	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	969	1602	4.418 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	966	1593	1.446 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1056	1599	1.203 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1077	1609	3.412 rad	730717525	1_1_9					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1373	1594	6.258 rad	726109394	1_1_9	18	-147.307	0	14670	The Cavern of Wrath
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1154	1387	0.000 rad	1450012487	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	1122	1386	1.062 rad	2647986052	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	1112	1392	1.768 rad	2647986052	1_1_9					
+Object: Metadata/Effects/Spells/shatter/Shatter	1080	1399	5.934 rad	2647986052	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1033	1620	4.786 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1055	1619	1.914 rad	730717525	1_1_9					
+Metadata/Chests/Barrel4old	1164	1619	4.284 rad	2804926028	1_1_9					
+Metadata/Chests/Crate2	1162	1624	2.691 rad	589372418	1_1_9					
+Metadata/Chests/Crate1	1157	1621	2.781 rad	1993491399	1_1_9					
+Metadata/Chests/Crate1	1151	1625	5.247 rad	1993491399	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	910	1307	5.056 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	903	1326	4.344 rad	1380027046	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	915	1328	0.196 rad	1380027046	1_1_9					
+Metadata/Chests/Barrel3old	918	1473	5.164 rad	3865749632	1_1_9					
+Metadata/Chests/Crate2	912	1480	2.677 rad	589372418	1_1_9					
+Metadata/Chests/Crate1	907	1476	4.990 rad	1993491399	1_1_9					
+Monster: Seething Brine [Metadata/Monsters/WaterElemental/WaterElementalColdSnap@11]	890	1314	4.001 rad	1380027046	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1026	1633	2.577 rad	730717525	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1050	1654	5.817 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1047	1638	5.130 rad	2327300241	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1066	1651	0.515 rad	2327300241	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	1100	1641	5.449 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	1117	1648	2.896 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	1107	1648	0.270 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	1108	1640	5.351 rad	2749254369	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	1115	1640	1.546 rad	2749254369	1_1_9					
+Monster: Murk Runner [Metadata/Monsters/Rhoas/RhoaBigPale@11]	1074	1658	3.682 rad	2327300241	1_1_9					
+Monster: Slimy Bloodsucker [Metadata/Monsters/Spawn/SpawnEmerge@11]	1117	1661	0.393 rad	2749254369	1_1_9					
+Metadata/NPC/Info/Karui/Stone7	1229	1669	1.571 rad	2652943535	1_1_9	0	-0.000			
+Metadata/Effects/Spells/shatter/ShatterLarge	1070	1449	1.571 rad	3875590990	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1157	1719	5.081 rad	730717525	1_1_9					
+Monster: Spectral Swashbuckler [Metadata/Monsters/GhostPirates/GhostPirateChampion@11]	1178	1724	3.215 rad	730717525	1_1_9					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1373	1594	6.258 rad	726109394	1_1_9	18	-147.307	0	14670	The Cavern of Wrath

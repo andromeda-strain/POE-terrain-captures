@@ -1,0 +1,29 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Cave/Rooms/Unique/transition_entry_waypoint.arm	8	48	0	node	default entrance1
+0	Metadata/Terrain/Cave/Rooms/Unique/transition_depths.arm	12	28	2	node	entrance3
+0	Metadata/Terrain/Cave/Rooms/Unique/transitionup_unique_7a.arm	44	4	0	node	entrance2
+0	Metadata/Terrain/Cave/Rooms/Unique/caves_heightchange.arm	24	20	2	node	heightchange
+0	Metadata/Terrain/Cave/Rooms/Unique/transition_depths_return.arm	20	8	0	node	shuffle1 entrance4disabled
+0	Metadata/Terrain/Cave/Rooms/Unique/jellyfish_room.arm	32	12	4	node	shuffle1
+0	Metadata/Terrain/Cave/Rooms/1x2/type_3a.arm	24	48	0	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/type_3a.arm	28	12	5	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/open_1a.arm	20	48	3	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/type_3a.arm	28	44	3	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/open_2a.arm	28	36	1	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/type_3a.arm	20	36	0	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/type_3a.arm	20	28	6	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/type_9a.arm	28	8	2	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/type_6a.arm	32	8	6	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/open_1a.arm	36	8	1	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/abyss_16a.arm	40	8	0	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/passage_8a.arm	24	52	3	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/special_seawitchboss0b.arm	24	44	0	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/passage_8c.arm	32	4	7	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/type_8a.arm	40	4	5	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/type_5a.arm	20	44	5	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/type_7a.arm	24	40	4	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/type_8a.arm	20	40	1	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/passage_8c.arm	28	32	1	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/type_3a.arm	36	28	7	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/type_7a.arm	32	28	0	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/type_5a.arm	28	28	2	node	

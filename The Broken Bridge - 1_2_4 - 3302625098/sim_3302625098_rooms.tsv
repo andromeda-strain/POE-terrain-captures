@@ -1,0 +1,17 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act2/Area4/Rooms/broken_bridge_left.arm	41	6	0	node	
+0	Metadata/Terrain/Act2/Area4/Rooms/bridge_transition_main.arm	8	48	0	node	default entrance1
+0	Metadata/Terrain/Act2/Area4/Rooms/waypoint.arm	26	49	2	node	
+0	Metadata/Terrain/Act2/Area4/Rooms/manor.arm	20	35	2	node	
+0	Metadata/Terrain/Act2/Area4/Rooms/flow_source_weak.arm	22	68	0	node	
+0	Metadata/Terrain/Act2/Area4/Rooms/flow_sink_1.arm	40	69	7	node	
+0	Metadata/Terrain/Act2/Area4/Rooms/flow_source_1.arm	29	9	5	node	
+0	Metadata/Terrain/Act2/Area4/Rooms/flow_sink_1.arm	49	18	1	node	
+0	Metadata/Terrain/Act2/Area4/Rooms/watercliff_1.arm	21	27	4	node	
+0	Metadata/Terrain/Act2/Area4/Rooms/flow_sink_weak.arm	15	16	7	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent2.arm	6	27	7	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent_camp_1b.arm	52	28	0	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent1.arm	57	29	3	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent_camp_1b.arm	37	37	6	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_4a.arm	44	47	3	fill	
+0	Metadata/Terrain/Act2/Area4/Rooms/breach_encounter.arm	56	46	4	pass	

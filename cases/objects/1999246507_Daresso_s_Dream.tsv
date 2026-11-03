@@ -1,0 +1,1390 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	943	122	3.142 rad	2448909918	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Mines/Objects/DreamPortal	943	108	1.571 rad	1376132649	1_4_5_1	2	-16.304	0	47328	The Crystal Veins
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	939	118	3.731 rad	1570723376	1_4_5_1					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	943	119	0.049 rad	1792897079	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/DaressoPitIntro1	943	196	0.000 rad	3932248699	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGateTransition	942	446	4.712 rad	2784797553	1_4_5_1	27	-216.537			
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGate	943	459	4.712 rad	3490532983	1_4_5_1	-16	125.000			
+Metadata/Chests/Barrel5old	1111	476	3.608 rad	2116127741	1_4_5_1					
+Metadata/Chests/Barrel3old	1115	482	2.049 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1120	481	4.527 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel5old	1116	475	3.139 rad	2116127741	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	903	488	2.356 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	905	483	2.356 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	898	490	2.356 rad	2080229045	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	903	486	2.356 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	983	489	3.927 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	988	491	3.927 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	981	484	3.927 rad	2080229045	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	985	489	3.927 rad	1146641759	1_4_5_1	-16	125.000			
+Metadata/Chests/Barrel5old	1115	490	4.668 rad	2116127741	1_4_5_1					
+Metadata/Chests/Barrel4old	1120	486	4.873 rad	2804926028	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1152	504	5.792 rad	1435977904	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGateTransition	1021	528	0.000 rad	2784797553	1_4_5_1	27	-216.537			
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1159	527	1.890 rad	1435977904	1_4_5_1					
+Metadata/Chests/StrongBoxes/Strongbox	1152	528	4.817 rad	1658933178	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGate	1012	529	0.000 rad	3490532983	1_4_5_1	-16	125.000			
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1118	548	6.013 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1113	540	5.547 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1116	531	1.546 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1106	535	4.786 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1144	548	4.909 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1133	541	4.344 rad	1435977904	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	902	568	0.785 rad	2538077649	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	897	566	0.785 rad	2538077649	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	904	573	0.785 rad	2538077649	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	900	568	0.785 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	983	568	5.498 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	988	566	5.498 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	981	573	5.498 rad	2080229045	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	985	568	5.498 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1117	556	5.694 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1110	566	1.350 rad	1435977904	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1166	565	5.719 rad	3818114638	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1153	555	2.086 rad	1435977904	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1186	477	0.049 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1185	492	4.467 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1179	503	4.418 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1193	507	5.522 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1182	540	1.841 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1188	570	2.013 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1186	565	2.454 rad	3818114638	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	903	488	2.356 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	905	483	2.356 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	898	490	2.356 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	983	489	3.927 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	988	491	3.927 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	981	484	3.927 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	902	568	0.785 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	897	566	0.785 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	904	573	0.785 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	983	568	5.498 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	988	566	5.498 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	981	573	5.498 rad	2386197658	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1202	513	4.712 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1199	564	2.135 rad	3818114638	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	944	556	0.000 rad	1450012487	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	942	548	1.571 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	937	528	0.512 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	936	517	2.665 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	969	536	3.927 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	975	522	5.924 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	930	492	1.373 rad	2647986052	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1152	504	5.792 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1159	527	1.890 rad	1435977904	1_4_5_1					
+Metadata/Chests/StrongBoxes/Strongbox	1152	528	4.817 rad	1658933178	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1150	541	1.571 rad	1435977904	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1166	565	5.719 rad	3818114638	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1153	555	2.086 rad	1435977904	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	903	488	2.356 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	905	483	2.356 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	898	490	2.356 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	983	489	3.927 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	988	491	3.927 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	981	484	3.927 rad	2538077649	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	968	548	5.550 rad	2647986052	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	902	568	0.785 rad	2538077649	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	897	566	0.785 rad	2538077649	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	904	573	0.785 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	983	568	5.498 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	988	566	5.498 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	981	573	5.498 rad	2080229045	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1186	477	0.049 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1185	492	4.467 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1179	503	4.418 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1193	507	5.522 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1182	540	1.841 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1188	570	2.013 rad	3818114638	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	988	566	5.498 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	983	568	5.498 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	981	573	3.680 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	981	573	5.498 rad	2647986052	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1186	565	2.454 rad	3818114638	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	983	489	3.927 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	988	492	4.565 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	988	491	3.927 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	981	484	3.927 rad	2647986052	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1202	513	4.712 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1199	564	2.135 rad	3818114638	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	952	554	1.190 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	943	551	1.249 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	930	555	1.893 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	946	521	2.385 rad	2647986052	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	931	550	0.000 rad	1450012487	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	903	488	2.356 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	905	483	2.356 rad	2538077649	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	898	490	2.356 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	983	489	3.927 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	988	491	3.927 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	981	484	3.927 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	902	568	0.785 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	897	566	0.785 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	904	573	0.785 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	983	568	5.498 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	988	566	5.498 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	981	573	5.498 rad	2080229045	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	988	566	5.498 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	983	568	2.906 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	983	568	5.498 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	981	573	5.498 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	904	573	0.785 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	902	568	0.785 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	897	566	0.785 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	967	515	3.986 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	977	515	3.887 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	940	517	3.230 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	935	522	2.616 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	898	490	2.356 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	903	488	2.734 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	903	488	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	903	488	4.627 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	903	488	0.270 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	904	573	0.785 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	981	573	5.498 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	983	568	5.498 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	988	566	5.498 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	965	503	4.712 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	970	510	3.643 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	967	508	4.712 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	934	517	5.032 rad	1418889786	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1186	477	0.049 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1185	492	4.467 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1179	503	4.418 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1193	507	5.522 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1182	540	1.841 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1188	570	2.013 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1186	565	2.454 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1173	567	0.785 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1202	513	4.712 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1199	564	2.135 rad	3818114638	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1287	730	5.694 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1285	742	4.050 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1298	730	2.945 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1296	740	1.399 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1304	736	5.964 rad	1518629717	1_4_5_1					
+Metadata/Chests/Barrel5old	1332	711	2.068 rad	2116127741	1_4_5_1					
+Metadata/Chests/Barrel2old	1329	706	5.778 rad	3707287636	1_4_5_1					
+Metadata/Chests/Barrel3old	1327	711	0.241 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel4old	1331	716	6.281 rad	2804926028	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1318	730	4.982 rad	1518629717	1_4_5_1					
+Monster: Steelchaw [Metadata/Monsters/Pitbull/PitbullBoss@37]	1344	531	4.712 rad	2713679756	1_4_5_1					
+Metadata/Chests/Barrel3old	1334	706	1.591 rad	3865749632	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1353	693	0.663 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1353	713	1.644 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1350	767	1.350 rad	1518629717	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1104	540	4.885 rad	1418889786	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1104	540	5.025 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1111	548	5.137 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1110	557	5.477 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1121	540	4.858 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1127	537	4.771 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1117	559	5.519 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1105	563	5.805 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1134	544	4.957 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1133	534	4.652 rad	3875590990	1_4_5_1					
+Monster: Eyepecker [Metadata/Monsters/Cockerel/CockerelBowBoss@37]	1362	562	4.712 rad	1918114436	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1372	707	3.313 rad	1518629717	1_4_5_1					
+Metadata/Chests/Chest22	1375	733	0.000 rad	390337063	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1362	741	5.841 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1376	755	6.185 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1367	758	3.166 rad	1518629717	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1144	535	4.592 rad	3875590990	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1142	552	3.582 rad	1418889786	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1142	552	5.121 rad	3875590990	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1359	762	0.245 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1373	772	4.344 rad	1518629717	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1161	540	4.636 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1165	517	4.712 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1170	502	4.662 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1169	551	4.749 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1167	558	5.071 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1168	563	4.712 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1175	508	4.712 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1170	568	4.712 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1191	513	4.156 rad	3875590990	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1167	538	0.000 rad	1450012487	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1165	495	3.927 rad	3875590990	1_4_5_1					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonSummonNormal@37]	1152	528	3.605 rad	3475344365	1_4_5_1					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonExplode@37]	1152	528	5.645 rad	4004690671	1_4_5_1					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonIgnite@37]	1152	528	3.605 rad	3849724691	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1157	548	5.768 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1154	543	3.829 rad	1518629717	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1157	548	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1154	543	0.000 rad	2646652649	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1176	539	1.154 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1176	548	3.191 rad	1518629717	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1176	539	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1176	548	0.000 rad	2646652649	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1185	561	0.687 rad	1518629717	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1185	561	0.000 rad	2646652649	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1132	488	0.393 rad	1518629717	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1132	488	0.000 rad	2646652649	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1156	496	4.271 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1169	505	3.780 rad	1518629717	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1156	496	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1169	505	0.000 rad	2646652649	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1183	503	1.497 rad	1518629717	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1183	503	0.000 rad	2646652649	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1162	514	2.626 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1158	509	4.884 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1163	509	3.829 rad	1518629717	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1162	514	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1158	509	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1163	509	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1152	541	5.498 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1160	546	0.983 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1162	514	2.626 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1172	547	5.061 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1176	538	4.712 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1180	557	1.364 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1180	557	5.387 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1183	503	0.814 rad	2647986052	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1142	521	1.890 rad	3818114638	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1142	521	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1156	510	3.463 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1163	511	3.321 rad	2647986052	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1103	534	5.964 rad	3818114638	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1103	534	0.000 rad	2646652649	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1120	538	3.755 rad	3818114638	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1120	538	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1166	504	4.712 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1154	503	3.478 rad	2647986052	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1120	538	4.991 rad	3875590990	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1134	498	3.045 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1120	486	3.785 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1152	528	4.175 rad	2646652649	1_4_5_1					
+Metadata/Chests/Chest13	1394	517	4.712 rad	2545718021	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1117	540	1.571 rad	3875590990	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1157	533	5.911 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1158	534	4.086 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1159	535	2.366 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1157	533	1.837 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1157	533	2.925 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1157	533	1.462 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1158	534	3.840 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1157	533	5.241 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1158	534	5.665 rad	1418889786	1_4_5_1					
+Monster: Totem [Metadata/Monsters/Totems/DexterityTotem@37]	1362	516	0.000 rad	979288672	1_4_5_1	-16	125.000			
+Monster: Totem [Metadata/Monsters/Totems/DexterityTotem@37]	1332	537	0.000 rad	979288672	1_4_5_1	-16	125.000			
+Object: Metadata/MiscellaneousObjects/WorldItem	1159	535	3.084 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1322	531	5.260 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1322	531	3.816 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1322	531	2.599 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1322	531	2.857 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1332	537	0.000 rad	2647986052	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1350	767	1.350 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1359	762	0.245 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1373	772	4.344 rad	1518629717	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1332	528	4.737 rad	316014466	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1348	550	5.856 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1352	547	0.129 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1352	550	4.719 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1348	550	4.338 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1353	553	1.358 rad	1418889786	1_4_5_1					
+Metadata/Chests/StrongBoxes/Strongbox	1152	528	4.817 rad	1658933178	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1157	533	5.911 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1158	534	4.086 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1159	535	2.366 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1157	533	1.837 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1157	533	2.925 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1157	533	1.462 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1158	534	3.840 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1157	533	5.241 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1158	534	5.665 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1159	535	3.084 rad	1418889786	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1142	521	1.890 rad	3818114638	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1142	552	3.582 rad	1418889786	1_4_5_1					
+Metadata/Chests/Barrel2old	1309	909	5.245 rad	3707287636	1_4_5_1					
+Metadata/Chests/Barrel3old	1310	899	3.367 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1310	904	4.699 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel5old	1307	914	4.020 rad	2116127741	1_4_5_1					
+Metadata/Chests/Barrel3old	1304	904	5.948 rad	3865749632	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1331	914	4.148 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1329	919	4.074 rad	1518629717	1_4_5_1					
+Metadata/Chests/StrongBoxes/Arcanist	1328	909	5.829 rad	2978104417	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1353	909	1.522 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1348	912	5.743 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1376	913	0.074 rad	1518629717	1_4_5_1					
+Metadata/Chests/Chest23	1396	911	3.142 rad	3442855071	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1384	906	5.989 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1334	930	1.031 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1354	929	2.577 rad	1518629717	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1359	703	0.695 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1367	730	0.059 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1361	733	0.083 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1350	737	3.893 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1365	739	0.464 rad	2647986052	1_4_5_1					
+Monster: Rotten Gladiator [Metadata/Monsters/ZombieDismember/ArenaZombieEmerge3@37]	1305	964	1.497 rad	3916234008	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1401	965	0.466 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1405	955	1.031 rad	1435977904	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1340	721	1.504 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1369	739	5.903 rad	2647986052	1_4_5_1					
+Monster: Rotten Gladiator [Metadata/Monsters/ZombieDismember/ArenaZombieEmerge2@37]	1328	977	5.130 rad	3899730579	1_4_5_1					
+Monster: Rotten Gladiator [Metadata/Monsters/ZombieDismember/ArenaZombieEmerge2@37]	1330	985	0.957 rad	3899730579	1_4_5_1					
+Monster: Rotten Gladiator [Metadata/Monsters/ZombieDismember/ArenaZombieEmerge3@37]	1330	970	5.522 rad	3916234008	1_4_5_1					
+Metadata/Chests/Chest11	1357	980	3.142 rad	3940991968	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1388	988	0.393 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1395	981	5.351 rad	1435977904	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1142	521	1.890 rad	3818114638	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1142	552	3.582 rad	1418889786	1_4_5_1					
+Monster: Rotten Gladiator [Metadata/Monsters/ZombieDismember/ArenaZombieEmerge3@37]	1307	993	4.982 rad	3916234008	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1395	990	4.442 rad	1435977904	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1344	717	0.437 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1384	731	3.605 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1370	752	0.571 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1104	540	4.885 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1357	790	2.790 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1357	790	0.117 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1334	723	0.519 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1319	735	1.107 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1316	729	1.310 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1327	745	2.294 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1329	706	1.849 rad	1418889786	1_4_5_1					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@37]	1329	706	0.982 rad	2898348182	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1363	906	3.551 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1363	906	6.256 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1374	910	6.233 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1358	905	0.087 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1353	911	0.000 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1343	912	2.761 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1341	918	3.625 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1341	918	0.896 rad	2647986052	1_4_5_1					
+Metadata/Chests/Chest22	1383	1126	0.000 rad	390337063	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1372	1147	4.344 rad	1518629717	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1353	896	2.863 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1338	904	1.920 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1379	939	5.862 rad	1418889786	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1379	939	5.333 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1379	951	5.498 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1383	938	5.149 rad	3875590990	1_4_5_1					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonSummonNormal@37]	1328	909	3.682 rad	3475344365	1_4_5_1					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonLightningStorm@37]	1328	909	5.940 rad	3871958749	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1367	936	5.378 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1355	943	5.498 rad	3875590990	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1338	939	5.154 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1343	937	4.050 rad	3818114638	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1338	939	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1343	937	0.000 rad	2646652649	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1359	933	0.295 rad	3818114638	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1359	933	0.000 rad	2646652649	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1333	961	1.792 rad	3818114638	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1333	961	0.000 rad	2646652649	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1343	937	4.050 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1359	933	0.295 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1338	939	0.053 rad	3875590990	1_4_5_1					
+Monster: Rotten Gladiator [Metadata/Monsters/ZombieDismember/ArenaZombieEmerge2@37]	1339	890	0.245 rad	3899730579	1_4_5_1					
+Monster: Rotten Gladiator [Metadata/Monsters/ZombieDismember/ArenaZombieEmerge3@37]	1350	894	1.252 rad	3916234008	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1339	890	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1350	894	0.000 rad	2646652649	1_4_5_1					
+Monster: Rotten Gladiator [Metadata/Monsters/ZombieDismember/ArenaZombieEmerge2@37]	1336	919	5.915 rad	3899730579	1_4_5_1					
+Monster: Rotten Gladiator [Metadata/Monsters/ZombieDismember/ArenaZombieEmerge3@37]	1344	918	3.289 rad	3916234008	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1336	919	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1344	918	0.000 rad	2646652649	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1333	959	0.000 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1305	964	1.497 rad	3875590990	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1330	970	1.057 rad	1418889786	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1330	970	5.522 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1350	894	1.252 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1339	890	0.245 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1344	918	3.289 rad	3875590990	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1326	890	3.436 rad	1435977904	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1326	890	0.000 rad	2646652649	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1324	904	0.834 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1322	909	5.621 rad	1435977904	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1324	904	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1322	909	0.000 rad	2646652649	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1336	919	5.915 rad	3875590990	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1305	922	1.276 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1308	932	6.259 rad	1435977904	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1305	922	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1308	932	0.000 rad	2646652649	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1313	920	3.093 rad	1435977904	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1313	920	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1322	909	2.495 rad	1418889786	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1322	909	5.621 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1324	904	0.834 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1305	922	1.276 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1328	977	5.130 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1330	985	0.957 rad	3875590990	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1304	904	1.917 rad	1418889786	1_4_5_1					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@37]	1309	909	1.792 rad	2898348182	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1341	887	1.864 rad	316014466	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1308	912	2.655 rad	316014466	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1344	910	3.705 rad	316014466	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1308	911	0.530 rad	316014466	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1347	929	3.336 rad	316014466	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1336	904	2.193 rad	316014466	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1310	889	1.823 rad	316014466	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1327	926	2.661 rad	316014466	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1324	881	4.985 rad	316014466	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1319	929	5.540 rad	316014466	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1318	924	0.858 rad	316014466	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1326	912	3.244 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1326	912	0.055 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1326	912	3.939 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1326	912	6.243 rad	1418889786	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1354	1155	5.081 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1365	1154	5.400 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1357	1172	2.798 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1373	1154	1.669 rad	1518629717	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1307	979	0.043 rad	3875590990	1_4_5_1					
+Metadata/Chests/Chest22	1353	1186	0.000 rad	390337063	1_4_5_1					
+Metadata/Chests/Basket3old	1379	1192	1.815 rad	3468315289	1_4_5_1					
+Metadata/Chests/Basket3old	1386	1193	2.310 rad	3468315289	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1353	1203	5.547 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1360	1207	6.210 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1374	1200	4.025 rad	3818114638	1_4_5_1					
+Metadata/Chests/Basket2old	1381	1197	5.241 rad	866946829	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1350	1228	3.485 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1360	1225	2.626 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1360	1230	0.859 rad	3818114638	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGateTransition	1356	1274	4.712 rad	2784797553	1_4_5_1	27	-216.537			
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGate	1357	1287	4.712 rad	3490532983	1_4_5_1	-16	125.000			
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1361	1049	0.000 rad	1450012487	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1354	1118	0.000 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1363	1126	0.000 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1368	1128	2.678 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1363	1115	6.253 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1354	1147	0.000 rad	2647986052	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1151	1288	3.338 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1150	1294	6.111 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1152	1303	1.203 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1155	1298	2.307 rad	1435977904	1_4_5_1					
+Metadata/Chests/Barrel3old	1195	1332	5.704 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1187	1332	4.115 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1192	1327	4.529 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel2old	1199	1327	1.300 rad	3707287636	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1317	1316	2.356 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1319	1311	2.356 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1312	1318	2.356 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	1317	1314	2.356 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1396	1316	3.927 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1394	1311	3.927 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1401	1318	3.927 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	1396	1314	3.927 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1187	1344	1.104 rad	1518629717	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1181	1344	3.289 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1194	1348	1.644 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1201	1355	0.491 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1200	1340	0.712 rad	1435977904	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGate	1287	1356	3.142 rad	3490532983	1_4_5_1	-16	125.000			
+Metadata/Chests/Chest23	1147	1375	4.712 rad	3442855071	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1171	1364	1.571 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1172	1369	2.356 rad	1518629717	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1195	1359	1.325 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1194	1364	3.191 rad	1435977904	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGateTransition	1278	1357	3.142 rad	2784797553	1_4_5_1	27	-216.537			
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1159	1386	5.203 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1170	1385	0.368 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1173	1380	2.184 rad	1518629717	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1317	1397	0.785 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1319	1402	0.785 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1312	1395	0.785 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	1317	1399	0.785 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1396	1397	5.498 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1394	1402	5.498 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1401	1395	5.498 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	1396	1399	5.498 rad	1146641759	1_4_5_1	-16	125.000			
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGate	1357	1426	4.712 rad	3490532983	1_4_5_1	-16	125.000			
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGateTransition	1357	1435	1.571 rad	2784797553	1_4_5_1	27	-216.537			
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1122	1353	4.001 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1116	1353	5.252 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1109	1350	3.240 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1104	1357	3.608 rad	3818114638	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGate	1357	1426	4.712 rad	3490532983	1_4_5_1	-16	125.000			
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGateTransition	1357	1435	1.571 rad	2784797553	1_4_5_1	27	-216.537			
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1122	1353	4.001 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1116	1353	5.252 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1109	1350	3.240 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1104	1357	3.608 rad	3818114638	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1358	1515	2.896 rad	1435977904	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1319	1531	2.724 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1324	1530	2.062 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1316	1536	4.295 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1340	1520	1.055 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1343	1530	5.203 rad	3818114638	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1338	1536	6.185 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1386	1520	6.234 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1394	1539	5.645 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1399	1532	1.522 rad	1435977904	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	1317	1316	2.356 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	1319	1311	2.356 rad	2538077649	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	1312	1318	2.356 rad	2538077649	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	1396	1316	3.927 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	1394	1311	3.927 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	1401	1318	3.927 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	1317	1397	0.785 rad	2538077649	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	1319	1402	0.785 rad	2538077649	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	1312	1395	0.785 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	1396	1397	5.498 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	1394	1402	5.498 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	1401	1395	5.498 rad	2538077649	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1328	1547	2.233 rad	3818114638	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1394	1553	2.553 rad	1435977904	1_4_5_1					
+Metadata/Chests/Basket2old	1318	1577	4.869 rad	866946829	1_4_5_1					
+Metadata/Chests/Basket3old	1322	1572	5.444 rad	3468315289	1_4_5_1					
+Metadata/Chests/Basket1old	1323	1577	5.131 rad	2211595643	1_4_5_1					
+Metadata/Chests/Basket1old	1317	1571	0.174 rad	2211595643	1_4_5_1					
+Metadata/Chests/Barrel4old	1394	1571	2.833 rad	2804926028	1_4_5_1					
+Metadata/Chests/Barrel1old	1397	1578	2.108 rad	1528648667	1_4_5_1					
+Metadata/Chests/Barrel4old	1392	1577	0.309 rad	2804926028	1_4_5_1					
+Metadata/Chests/Barrel3old	1389	1582	5.907 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel2old	1399	1573	0.198 rad	3707287636	1_4_5_1					
+Metadata/Chests/Barrel3old	1355	1616	3.616 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1351	1611	4.668 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1350	1616	1.053 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1360	1612	6.014 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1365	1610	2.079 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel4old	1365	1615	5.804 rad	2804926028	1_4_5_1					
+Metadata/Chests/Chest23	1147	1375	4.712 rad	3442855071	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1122	1353	4.001 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1116	1353	5.252 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1109	1350	3.240 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1104	1357	3.608 rad	3818114638	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1341	1388	0.000 rad	1450012487	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1122	1353	4.001 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1116	1353	5.252 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1109	1350	3.240 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1104	1357	3.608 rad	3818114638	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1350	1388	2.266 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1351	1383	1.816 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1348	1393	1.571 rad	2647986052	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1081	1362	5.841 rad	3818114638	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1365	1406	0.494 rad	2647986052	1_4_5_1					
+Metadata/Chests/Chest22	1383	1126	0.000 rad	390337063	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1326	1350	4.354 rad	2647986052	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1336	1351	0.000 rad	1450012487	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1345	1348	3.605 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1373	1327	3.682 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1376	1319	4.602 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1376	1319	4.467 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1374	1355	5.093 rad	2647986052	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1317	1316	2.356 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1319	1311	2.356 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1312	1318	2.356 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1396	1316	3.927 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1394	1311	3.927 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1401	1318	3.927 rad	2386197658	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1381	1363	6.200 rad	2647986052	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1317	1397	0.785 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1319	1402	0.785 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1312	1395	0.785 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1396	1397	5.498 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1394	1402	5.498 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1401	1395	5.498 rad	2386197658	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1401	1318	3.927 rad	2647986052	1_4_5_1					
+Metadata/Chests/Barrel3old	1355	1616	3.616 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1351	1611	4.668 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1350	1616	1.053 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1360	1612	6.014 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1365	1610	2.079 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel4old	1365	1615	5.804 rad	2804926028	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1317	1392	0.000 rad	1450012487	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1312	1395	4.074 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1312	1395	0.785 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1317	1397	0.785 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1319	1402	0.785 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1378	1398	4.762 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1386	1393	3.668 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1386	1393	4.987 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1384	1388	4.823 rad	2647986052	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1122	1353	4.001 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1116	1353	5.252 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1109	1350	3.240 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1104	1357	3.608 rad	3818114638	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1319	1351	3.208 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1328	1341	3.368 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1324	1325	2.400 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1362	1333	3.874 rad	2647986052	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	1317	1316	2.356 rad	2538077649	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	1319	1311	2.356 rad	2538077649	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	1312	1318	2.356 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	1396	1316	3.927 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	1394	1311	3.927 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	1401	1318	3.927 rad	2080229045	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1377	1343	2.723 rad	2647986052	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	1317	1397	0.785 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	1319	1402	0.785 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	1312	1395	0.785 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	1396	1397	5.498 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	1394	1402	5.498 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	1401	1395	5.498 rad	2080229045	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1317	1316	2.356 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1319	1311	4.387 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1319	1311	2.356 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1312	1318	2.356 rad	2647986052	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1081	1362	5.841 rad	3818114638	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1396	1316	3.927 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1401	1318	4.516 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1401	1318	3.927 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1394	1312	4.215 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1394	1311	3.927 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1317	1397	1.874 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1317	1397	0.785 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1320	1400	4.043 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1319	1402	0.785 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1312	1395	5.180 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1312	1395	0.785 rad	2647986052	1_4_5_1					
+Metadata/Chests/Barrel3old	1076	1609	2.682 rad	3865749632	1_4_5_1					
+Metadata/Chests/Chest22	1383	1126	0.000 rad	390337063	1_4_5_1					
+Metadata/Chests/Barrel3old	1076	1609	2.682 rad	3865749632	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1362	1389	4.931 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1364	1395	4.957 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1368	1385	0.086 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1368	1385	5.498 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1394	1402	5.498 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1396	1397	2.728 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1396	1397	5.498 rad	2647986052	1_4_5_1					
+Metadata/Chests/Barrel3old	1355	1616	3.616 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1351	1611	4.668 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1350	1616	1.053 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1360	1612	6.014 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1365	1610	2.079 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel4old	1365	1615	5.804 rad	2804926028	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1399	1395	2.249 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1401	1395	5.498 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1312	1395	0.785 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1317	1397	0.785 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1320	1402	2.120 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1319	1402	0.785 rad	2647986052	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1364	1385	0.000 rad	1450012487	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1359	1388	0.000 rad	1450012487	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1391	1343	3.860 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1380	1339	3.294 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1379	1327	3.605 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1333	1371	2.820 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1334	1364	1.751 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1334	1364	4.172 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1326	1356	2.863 rad	2647986052	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1122	1353	4.001 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1116	1353	5.252 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1109	1350	3.240 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1104	1357	3.608 rad	3818114638	1_4_5_1					
+Metadata/Chests/Barrel2old	1147	1696	5.748 rad	3707287636	1_4_5_1					
+Metadata/Chests/Barrel4old	1147	1701	3.219 rad	2804926028	1_4_5_1					
+Metadata/Chests/Barrel3old	1142	1695	0.279 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1152	1700	1.697 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1147	1706	2.158 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel1old	1152	1705	5.660 rad	1528648667	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1353	1490	0.219 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1362	1492	6.001 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1352	1500	0.000 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1357	1501	6.159 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1342	1514	1.077 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1349	1515	0.675 rad	3875590990	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1122	1353	4.001 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1116	1353	5.252 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1109	1350	3.240 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1104	1357	3.608 rad	3818114638	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1367	1520	5.980 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1338	1513	1.249 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1335	1518	1.305 rad	3875590990	1_4_5_1					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@37]	1156	1793	5.154 rad	3962795897	1_4_5_1					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@37]	1179	1793	1.080 rad	3962795897	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1081	1362	5.841 rad	3818114638	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1081	1644	1.669 rad	1435977904	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1081	1652	1.620 rad	3818114638	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1088	1662	2.381 rad	1435977904	1_4_5_1					
+Metadata/Chests/Chest12	1082	1692	0.000 rad	2121128972	1_4_5_1					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@37]	1139	1800	5.596 rad	3962795897	1_4_5_1					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@37]	1170	1795	5.694 rad	3962795897	1_4_5_1					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@37]	1162	1801	0.933 rad	3962795897	1_4_5_1					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@37]	1162	1808	5.547 rad	3962795897	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1104	1357	3.608 rad	3818114638	1_4_5_1					
+Metadata/Chests/Chest23	1147	1375	4.712 rad	3442855071	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1169	1366	1.571 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1167	1371	4.712 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1172	1376	4.712 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1183	1362	1.043 rad	1518629717	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1188	1360	2.761 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1193	1357	3.142 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1182	1367	4.712 rad	1435977904	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGateTransition	1278	1357	3.142 rad	2784797553	1_4_5_1	27	-216.537			
+Object: Metadata/MiscellaneousObjects/WorldItem	1334	1364	1.751 rad	1418889786	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	1398	1379	5.498 rad	2386197658	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1351	1540	3.463 rad	3875590990	1_4_5_1					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@37]	1399	1573	2.430 rad	2898348182	1_4_5_1					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@37]	1397	1578	5.179 rad	2898348182	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1392	1577	0.510 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1351	1611	5.100 rad	1418889786	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1081	1362	5.841 rad	3818114638	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1081	1644	1.669 rad	1435977904	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1081	1652	1.620 rad	3818114638	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1088	1662	2.381 rad	1435977904	1_4_5_1					
+Metadata/Chests/Chest12	1082	1692	0.000 rad	2121128972	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1122	1353	4.001 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1116	1353	5.252 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1109	1350	3.240 rad	3818114638	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1185	1341	5.924 rad	1435977904	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1173	1353	0.785 rad	1518629717	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1193	1351	3.605 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1198	1344	6.212 rad	1435977904	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGate	1287	1356	3.142 rad	3490532983	1_4_5_1	-16	125.000			
+Metadata/Chests/Barrel3old	1195	1332	5.704 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1187	1332	4.115 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1192	1327	4.529 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel2old	1199	1327	1.300 rad	3707287636	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	1317	1314	2.356 rad	1146641759	1_4_5_1	-16	125.000			
+Object: Metadata/MiscellaneousObjects/WorldItem	1319	1311	4.387 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1376	1319	4.602 rad	1418889786	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	1396	1314	3.927 rad	1146641759	1_4_5_1	-16	125.000			
+Object: Metadata/MiscellaneousObjects/WorldItem	1401	1318	4.516 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1394	1312	4.215 rad	1418889786	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1149	1296	3.682 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1152	1303	1.203 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1155	1298	2.307 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1145	1278	6.017 rad	1435977904	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGateTransition	1356	1274	4.712 rad	2784797553	1_4_5_1	27	-216.537			
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGate	1357	1287	4.712 rad	3490532983	1_4_5_1	-16	125.000			
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1353	1203	3.142 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1358	1202	0.464 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1363	1207	5.961 rad	3818114638	1_4_5_1					
+Metadata/Chests/Basket2old	1381	1197	5.241 rad	866946829	1_4_5_1					
+Metadata/Chests/Chest22	1353	1186	0.000 rad	390337063	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1356	1195	1.012 rad	3818114638	1_4_5_1					
+Metadata/Chests/Basket3old	1379	1192	1.815 rad	3468315289	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1365	1195	2.356 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1364	1183	6.212 rad	3818114638	1_4_5_1					
+Metadata/Chests/Basket3old	1386	1193	2.310 rad	3468315289	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1122	1353	4.001 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1116	1353	5.252 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1109	1350	3.240 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1104	1357	3.608 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1081	1362	5.841 rad	3818114638	1_4_5_1					
+Metadata/Chests/Barrel3old	1076	1609	2.682 rad	3865749632	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1017	1607	3.632 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1002	1357	4.369 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	994	1357	5.228 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	991	1362	0.982 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	991	1376	2.405 rad	1518629717	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1001	1580	1.497 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1011	1576	6.013 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	995	1576	4.663 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	996	1568	1.301 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1010	1592	2.577 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1005	1587	1.055 rad	1435977904	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1224	1350	1.951 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1214	1357	1.731 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1210	1352	1.902 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1208	1362	1.601 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1204	1367	1.450 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1202	1352	1.940 rad	3875590990	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1193	1358	5.610 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1193	1358	1.488 rad	2647986052	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	974	1360	3.412 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	983	1376	2.970 rad	1518629717	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	968	1528	2.528 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	977	1548	3.755 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	988	1564	0.442 rad	1435977904	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1183	1368	1.107 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1181	1363	1.544 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1178	1358	1.571 rad	2647986052	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	944	1365	3.878 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	953	1374	2.602 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	945	1386	1.792 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	963	1381	0.491 rad	1435977904	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	943	1411	3.657 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	948	1432	0.614 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	946	1443	1.178 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	943	1433	3.682 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	946	1438	4.516 rad	1518629717	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	963	1530	2.013 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	965	1538	2.135 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	961	1544	2.283 rad	1435977904	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1183	1366	0.909 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1183	1366	1.300 rad	2647986052	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	944	1576	0.540 rad	3818114638	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1171	1358	0.000 rad	1450012487	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1157	1354	1.681 rad	3875590990	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	936	1357	0.884 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	938	1377	5.277 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	924	1383	4.737 rad	1435977904	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	929	1562	0.589 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	931	1585	0.785 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	927	1599	3.731 rad	3818114638	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1140	1361	1.497 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1123	1350	1.571 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1129	1356	1.571 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1103	1362	1.571 rad	3875590990	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	908	1548	5.449 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	907	1585	5.179 rad	3818114638	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1164	1331	2.562 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1155	1325	2.904 rad	3875590990	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1147	1318	2.353 rad	1418889786	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1147	1318	2.875 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1154	1319	2.159 rad	3875590990	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1182	1366	5.387 rad	2647986052	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	878	1360	3.461 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	893	1570	6.185 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	896	1565	3.682 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	896	1578	1.350 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	856	1355	5.964 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	869	1362	0.933 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	855	1360	3.093 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	867	1357	3.731 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	844	1358	0.491 rad	3818114638	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1055	1353	0.000 rad	1450012487	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	927	1599	3.731 rad	3818114638	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1010	1592	2.577 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1005	1587	1.055 rad	1435977904	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1017	1607	3.632 rad	1518629717	1_4_5_1					
+Metadata/Chests/Barrel3old	1076	1609	2.682 rad	3865749632	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1019	1357	1.534 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1014	1363	1.497 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	996	1366	3.889 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	996	1366	4.332 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	993	1356	4.712 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	993	1361	1.030 rad	2647986052	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	981	1368	1.406 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	970	1368	1.571 rad	3875590990	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	979	1374	0.785 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	948	1365	0.338 rad	1418889786	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	948	1365	1.571 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	953	1374	1.249 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	943	1357	1.591 rad	3875590990	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGate	736	1357	0.000 rad	3490532983	1_4_5_1	-16	125.000			
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGateTransition	745	1357	3.142 rad	2784797553	1_4_5_1	27	-216.537			
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	949	1372	0.000 rad	1450012487	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	725	1283	4.712 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	719	1287	4.712 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	724	1287	4.712 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	725	1292	4.712 rad	2386197658	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	959	1379	1.174 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	957	1385	0.991 rad	3875590990	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	945	1407	0.381 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	949	1421	3.605 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	944	1425	0.094 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	949	1426	0.000 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	939	1415	0.100 rad	2647986052	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	707	1248	3.927 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	712	1250	3.927 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	705	1243	3.927 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	709	1248	3.927 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	707	1396	5.498 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	712	1394	5.498 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	705	1401	5.498 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	709	1396	5.498 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1011	1618	3.166 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1016	1614	1.865 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1029	1625	0.196 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1050	1630	2.381 rad	1518629717	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1057	1631	3.804 rad	3818114638	1_4_5_1					
+Metadata/Chests/Barrel2old	1061	1613	1.254 rad	3707287636	1_4_5_1					
+Metadata/Chests/Barrel3old	1073	1614	1.564 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel5old	1068	1612	2.590 rad	2116127741	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	909	1364	2.356 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	897	1355	1.874 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	895	1365	1.920 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	884	1352	2.715 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	882	1361	2.415 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	872	1361	1.571 rad	3875590990	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1022	1644	3.853 rad	1518629717	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1056	1647	0.123 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1076	1636	0.736 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1081	1644	1.669 rad	1435977904	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1081	1652	1.620 rad	3818114638	1_4_5_1					
+Metadata/Chests/Chest22	977	1663	0.000 rad	390337063	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	984	1662	5.940 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1002	1658	3.853 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	997	1667	1.252 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1003	1670	4.222 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1057	1660	4.393 rad	3818114638	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1071	1660	4.148 rad	1435977904	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1064	1659	3.534 rad	3818114638	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1088	1662	2.381 rad	1435977904	1_4_5_1					
+Metadata/Chests/Barrel3old	1195	1332	5.704 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1187	1332	4.115 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1192	1327	4.529 rad	3865749632	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1193	1358	5.610 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1183	1366	0.909 rad	1418889786	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	983	1686	4.565 rad	1518629717	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	1007	1688	3.240 rad	3818114638	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1005	1683	3.093 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	989	1693	1.890 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1012	1693	3.657 rad	1518629717	1_4_5_1					
+Metadata/Chests/Chest12	1082	1692	0.000 rad	2121128972	1_4_5_1					
+Metadata/Chests/Barrel2old	1147	1696	5.748 rad	3707287636	1_4_5_1					
+Metadata/Chests/Barrel4old	1147	1701	3.219 rad	2804926028	1_4_5_1					
+Metadata/Chests/Barrel3old	1142	1695	0.279 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1152	1700	1.697 rad	3865749632	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	707	1248	3.927 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	712	1250	3.927 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	705	1243	3.927 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	709	1248	3.927 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	707	1396	5.498 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	712	1394	5.498 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	705	1401	5.498 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	709	1396	5.498 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	988	1705	4.222 rad	1518629717	1_4_5_1					
+Metadata/Chests/Barrel3old	1147	1706	2.158 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel1old	1152	1705	5.660 rad	1528648667	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1008	1743	0.319 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	999	1732	2.209 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	992	1727	0.565 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1017	1735	0.221 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1024	1734	0.908 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	1035	1735	4.467 rad	1518629717	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	929	1530	0.000 rad	1450012487	1_4_5_1					
+Metadata/Chests/Barrel4old	1010	1760	1.748 rad	2804926028	1_4_5_1					
+Metadata/Chests/Barrel3old	998	1769	2.405 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1013	1765	4.504 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1015	1760	4.447 rad	3865749632	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	955	1518	5.743 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	923	1527	0.644 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	950	1525	5.833 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	960	1533	5.415 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	934	1537	0.322 rad	3875590990	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	919	1545	4.817 rad	1418889786	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	919	1545	0.588 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	929	1546	0.000 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	916	1560	0.000 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	909	1548	0.644 rad	3875590990	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	921	1559	5.696 rad	1418889786	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	921	1559	0.245 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	938	1557	0.000 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	910	1559	0.588 rad	3875590990	1_4_5_1					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@37]	1156	1793	5.154 rad	3962795897	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	963	1526	5.356 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	969	1533	4.921 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	967	1521	5.007 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	974	1541	4.712 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	973	1546	4.654 rad	3875590990	1_4_5_1					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@37]	1139	1800	5.596 rad	3962795897	1_4_5_1					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@37]	1170	1795	5.694 rad	3962795897	1_4_5_1					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@37]	1162	1801	0.933 rad	3962795897	1_4_5_1					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@37]	1162	1808	5.547 rad	3962795897	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	979	1548	4.670 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	979	1548	3.644 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	983	1545	1.161 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	979	1548	1.321 rad	1418889786	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	979	1548	6.038 rad	3875590990	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	942	1590	0.000 rad	1450012487	1_4_5_1					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@37]	1179	1793	1.080 rad	3962795897	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	978	1633	5.032 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	978	1633	1.641 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	978	1633	2.359 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	978	1633	3.939 rad	1418889786	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	978	1633	5.008 rad	3875590990	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1007	1620	4.957 rad	2647986052	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	974	1670	0.000 rad	1450012487	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	967	1653	0.000 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	969	1662	5.640 rad	3875590990	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1047	1630	4.756 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	982	1657	5.004 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	966	1669	5.695 rad	2647986052	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	988	1668	5.034 rad	3875590990	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	993	1688	5.498 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1000	1679	5.279 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	983	1701	5.793 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	990	1719	3.472 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1016	1755	1.571 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1025	1621	4.154 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1025	1621	2.419 rad	2647986052	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1015	1644	3.890 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1028	1639	3.808 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1034	1638	3.142 rad	3875590990	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1047	1634	5.985 rad	1418889786	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1047	1634	4.712 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1053	1643	5.034 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1061	1634	5.093 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1056	1652	5.498 rad	3875590990	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1063	1606	4.467 rad	2647986052	1_4_5_1					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@37]	1061	1613	0.049 rad	2898348182	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1076	1609	0.252 rad	1418889786	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1011	1740	0.000 rad	1450012487	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1048	1776	0.000 rad	1450012487	1_4_5_1					
+Metadata/Chests/Basket3old	1322	1572	5.444 rad	3468315289	1_4_5_1					
+Metadata/Chests/Basket1old	1323	1577	5.131 rad	2211595643	1_4_5_1					
+Metadata/Chests/Basket2old	1318	1577	4.869 rad	866946829	1_4_5_1					
+Metadata/Chests/Basket1old	1317	1571	0.174 rad	2211595643	1_4_5_1					
+Metadata/Chests/Barrel3old	1351	1611	4.668 rad	3865749632	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1351	1611	5.100 rad	1418889786	1_4_5_1					
+Metadata/Chests/Barrel3old	1355	1616	3.616 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1350	1616	1.053 rad	3865749632	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1105	1783	3.916 rad	316014466	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1105	1783	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1105	1783	5.223 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1128	1794	5.438 rad	1418889786	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1128	1794	5.768 rad	316014466	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1128	1794	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1128	1794	5.253 rad	2647986052	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1145	1799	0.838 rad	316014466	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1145	1799	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1145	1799	5.053 rad	2647986052	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1373	1521	5.807 rad	1435977904	1_4_5_1					
+Metadata/Chests/Barrel3old	1360	1612	6.014 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1365	1610	2.079 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel4old	1365	1615	5.804 rad	2804926028	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1164	1810	2.762 rad	316014466	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1164	1810	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1164	1810	3.785 rad	2647986052	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1168	1803	4.982 rad	316014466	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1168	1803	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1168	1803	4.931 rad	2647986052	1_4_5_1					
+Metadata/Chests/Barrel2old	1399	1573	0.198 rad	3707287636	1_4_5_1					
+Metadata/Chests/Barrel4old	1394	1571	2.833 rad	2804926028	1_4_5_1					
+Metadata/Chests/Barrel1old	1397	1578	2.108 rad	1528648667	1_4_5_1					
+Metadata/Chests/Barrel4old	1392	1577	0.309 rad	2804926028	1_4_5_1					
+Metadata/Chests/Barrel3old	1389	1582	5.907 rad	3865749632	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1392	1577	0.510 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1185	1787	2.833 rad	1418889786	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1185	1787	4.867 rad	316014466	1_4_5_1					
+Object: Metadata/Effects/ServerEffect	1185	1787	0.000 rad	2646652649	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	1185	1787	0.418 rad	2647986052	1_4_5_1					
+Metadata/Chests/Barrel3old	1076	1609	2.682 rad	3865749632	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1076	1609	0.252 rad	1418889786	1_4_5_1					
+Metadata/Chests/Basket3old	1322	1572	5.444 rad	3468315289	1_4_5_1					
+Metadata/Chests/Basket1old	1323	1577	5.131 rad	2211595643	1_4_5_1					
+Metadata/Chests/Basket2old	1318	1577	4.869 rad	866946829	1_4_5_1					
+Metadata/Chests/Basket1old	1317	1571	0.174 rad	2211595643	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	1085	1771	2.313 rad	3875590990	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	919	1545	4.817 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	921	1559	5.696 rad	1418889786	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	981	1552	2.678 rad	1435977904	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	979	1548	4.670 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	979	1548	3.644 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	983	1545	1.161 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	979	1548	1.321 rad	1418889786	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	966	1527	3.778 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	970	1540	0.100 rad	1435977904	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	707	1396	5.498 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	712	1394	5.498 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	705	1401	5.498 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	709	1396	5.498 rad	1146641759	1_4_5_1	-16	125.000			
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGate	736	1357	0.000 rad	3490532983	1_4_5_1	-16	125.000			
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGateTransition	745	1357	3.142 rad	2784797553	1_4_5_1	27	-216.537			
+Object: Metadata/MiscellaneousObjects/WorldItem	996	1366	3.889 rad	1418889786	1_4_5_1					
+Metadata/Chests/Chest23	1147	1375	4.712 rad	3442855071	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	671	1415	0.000 rad	2386197658	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1147	1318	2.353 rad	1418889786	1_4_5_1					
+Metadata/Chests/Barrel3old	1152	1700	1.697 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel1old	1152	1705	5.660 rad	1528648667	1_4_5_1					
+Metadata/Chests/Barrel3old	1195	1332	5.704 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1187	1332	4.115 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1192	1327	4.529 rad	3865749632	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1193	1358	5.610 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1183	1366	0.909 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1185	1787	2.833 rad	1418889786	1_4_5_1					
+Metadata/Chests/Barrel2old	1199	1327	1.300 rad	3707287636	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1128	1794	5.438 rad	1418889786	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGateTransition	1278	1357	3.142 rad	2784797553	1_4_5_1	27	-216.537			
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	1317	1399	0.785 rad	1146641759	1_4_5_1	-16	125.000			
+Object: Metadata/MiscellaneousObjects/WorldItem	1317	1397	1.874 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1320	1400	4.043 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1312	1395	5.180 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1320	1402	2.120 rad	1418889786	1_4_5_1					
+Metadata/Chests/Basket3old	1322	1572	5.444 rad	3468315289	1_4_5_1					
+Metadata/Chests/Basket1old	1323	1577	5.131 rad	2211595643	1_4_5_1					
+Metadata/Chests/Basket2old	1318	1577	4.869 rad	866946829	1_4_5_1					
+Metadata/Chests/Basket1old	1317	1571	0.174 rad	2211595643	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	1090	1634	0.000 rad	1450012487	1_4_5_1					
+Metadata/Chests/Barrel3old	1351	1611	4.668 rad	3865749632	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1351	1611	5.100 rad	1418889786	1_4_5_1					
+Metadata/Chests/Barrel3old	1355	1616	3.616 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1350	1616	1.053 rad	3865749632	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1369	1511	5.793 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	1373	1521	5.807 rad	1435977904	1_4_5_1					
+Metadata/Chests/Barrel3old	1360	1612	6.014 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1365	1610	2.079 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel4old	1365	1615	5.804 rad	2804926028	1_4_5_1					
+Metadata/Chests/Barrel2old	1399	1573	0.198 rad	3707287636	1_4_5_1					
+Metadata/Chests/Barrel4old	1394	1571	2.833 rad	2804926028	1_4_5_1					
+Metadata/Chests/Barrel1old	1397	1578	2.108 rad	1528648667	1_4_5_1					
+Metadata/Chests/Barrel4old	1392	1577	0.309 rad	2804926028	1_4_5_1					
+Metadata/Chests/Barrel3old	1389	1582	5.907 rad	3865749632	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1392	1577	0.510 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	979	1548	3.644 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	979	1548	1.321 rad	1418889786	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	983	1594	3.373 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	984	1619	3.252 rad	1435977904	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	978	1633	1.641 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	978	1633	2.359 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	978	1633	3.939 rad	1418889786	1_4_5_1					
+Metadata/Chests/Chest22	977	1663	0.000 rad	390337063	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	974	1715	2.820 rad	1518629717	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	947	1567	3.271 rad	1435977904	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	921	1559	5.696 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	919	1545	4.817 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	919	1545	4.817 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	921	1559	5.696 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	979	1548	3.644 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	979	1548	1.321 rad	1418889786	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	707	1396	5.498 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	712	1394	5.498 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	705	1401	5.498 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	709	1396	5.498 rad	1146641759	1_4_5_1	-16	125.000			
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGate	736	1357	0.000 rad	3490532983	1_4_5_1	-16	125.000			
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGateTransition	745	1357	3.142 rad	2784797553	1_4_5_1	27	-216.537			
+Object: Metadata/MiscellaneousObjects/WorldItem	996	1366	3.889 rad	1418889786	1_4_5_1					
+Metadata/Chests/Chest23	1147	1375	4.712 rad	3442855071	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	671	1415	0.000 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	662	1415	0.000 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	666	1409	0.000 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	666	1414	0.000 rad	1146641759	1_4_5_1	-16	125.000			
+Metadata/Chests/Chest23	1147	1375	4.712 rad	3442855071	1_4_5_1					
+Metadata/Chests/Barrel2old	1147	1696	5.748 rad	3707287636	1_4_5_1					
+Metadata/Chests/Barrel4old	1147	1701	3.219 rad	2804926028	1_4_5_1					
+Metadata/Chests/Barrel3old	1142	1695	0.279 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1147	1706	2.158 rad	3865749632	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1128	1794	5.438 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1147	1318	2.353 rad	1418889786	1_4_5_1					
+Metadata/Chests/Barrel3old	1152	1700	1.697 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel1old	1152	1705	5.660 rad	1528648667	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	725	1292	4.712 rad	2386197658	1_4_5_1					
+Metadata/Chests/Barrel3old	1195	1332	5.704 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1187	1332	4.115 rad	3865749632	1_4_5_1					
+Metadata/Chests/Barrel3old	1192	1327	4.529 rad	3865749632	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1193	1358	5.610 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	1183	1366	0.909 rad	1418889786	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	725	1283	4.712 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	719	1287	4.712 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	724	1287	4.712 rad	1146641759	1_4_5_1	-16	125.000			
+Metadata/Chests/Barrel2old	1199	1327	1.300 rad	3707287636	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	725	1283	4.712 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	719	1287	4.712 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	724	1287	4.712 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	725	1292	4.712 rad	2386197658	1_4_5_1					
+Metadata/Chests/Barrel2old	1199	1327	1.300 rad	3707287636	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	725	1283	4.712 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	719	1287	4.712 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	724	1287	4.712 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	725	1292	4.712 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	707	1248	3.927 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	712	1250	3.927 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	705	1243	3.927 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	709	1248	3.927 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	707	1396	5.498 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	712	1394	5.498 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	705	1401	5.498 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	709	1396	5.498 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	671	1229	3.142 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	667	1235	3.142 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	667	1230	3.142 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	671	1415	0.000 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	662	1229	3.142 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	662	1415	0.000 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	666	1409	0.000 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	666	1414	0.000 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	625	1229	3.142 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	625	1415	0.000 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	616	1229	3.142 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	620	1235	3.142 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	620	1230	3.142 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Barkhul [Metadata/Monsters/Viking/Viking@37]	601	1321	1.571 rad	1143083982	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	616	1415	0.000 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	620	1409	0.000 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	620	1414	0.000 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	580	1248	2.356 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	575	1250	2.356 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	582	1243	2.356 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	578	1248	2.356 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	580	1396	0.785 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	575	1394	0.785 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	582	1401	0.785 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	578	1396	0.785 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	562	1283	1.571 rad	2386197658	1_4_5_1					
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	568	1287	1.571 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitSpawnerGate	563	1287	1.571 rad	1146641759	1_4_5_1	-16	125.000			
+Monster: Pit Butcher [Metadata/Monsters/Pitbull/PitbullEmergePitEncounter@37]	562	1292	1.571 rad	2386197658	1_4_5_1					
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGate	551	1334	0.000 rad	3490532983	1_4_5_1	-16	125.000			
+Object: Metadata/Terrain/Mountain/Arena/Pit/Objects/PitGateTransition	538	1334	3.142 rad	2784797553	1_4_5_1	27	-216.537			
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	411	1360	1.595 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	374	1359	2.356 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	382	1358	2.700 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	377	1365	2.724 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	372	1378	4.099 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	371	1384	4.369 rad	1518629717	1_4_5_1					
+Metadata/Chests/Barrel2old	370	1405	0.499 rad	3707287636	1_4_5_1					
+Metadata/Chests/Barrel1old	370	1410	1.006 rad	1528648667	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	616	1229	3.142 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	620	1235	3.142 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	625	1229	3.142 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	662	1229	3.142 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	671	1229	3.142 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	667	1235	3.142 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	580	1248	2.356 rad	2538077649	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	575	1250	2.356 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	582	1243	2.356 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	707	1248	3.927 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	712	1250	3.927 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	705	1243	3.927 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	562	1283	1.571 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	568	1287	1.571 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	725	1283	4.712 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	719	1287	4.712 rad	2538077649	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	562	1292	1.571 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	725	1292	4.712 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	580	1396	0.785 rad	2538077649	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	575	1394	0.785 rad	2538077649	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	582	1401	0.785 rad	2538077649	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	707	1396	5.498 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	712	1394	5.498 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	705	1401	5.498 rad	2538077649	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	616	1415	0.000 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	620	1409	0.000 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	625	1415	0.000 rad	2080229045	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	662	1415	0.000 rad	2080229045	1_4_5_1					
+Monster: Talon Demon [Metadata/Monsters/Cockerel/CockerelEmergePitEncounter@37]	666	1409	0.000 rad	2538077649	1_4_5_1					
+Monster: Talon Archer [Metadata/Monsters/Cockerel/CockerelBowEmergePitEncounter@37]	671	1415	0.000 rad	2080229045	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	597	1343	2.792 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	607	1336	3.202 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	602	1341	6.058 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	604	1337	2.968 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	606	1340	1.161 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	602	1353	1.941 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	600	1346	5.058 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	607	1353	0.496 rad	1773597000	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	357	1355	3.780 rad	1518629717	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	605	1347	4.797 rad	1773597000	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	357	1379	0.368 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	357	1363	0.147 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	360	1372	1.276 rad	1518629717	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	601	1357	3.745 rad	1773597000	1_4_5_1					
+Metadata/Chests/Barrel2old	365	1400	5.710 rad	3707287636	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	353	1395	0.245 rad	3818114638	1_4_5_1					
+Metadata/Chests/Barrel3old	360	1408	6.133 rad	3865749632	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	614	1361	0.643 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	600	1360	6.113 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	604	1362	1.472 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	609	1360	0.294 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	609	1364	2.062 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	606	1366	2.001 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	609	1368	2.733 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	605	1369	1.374 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	601	1375	2.975 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	608	1376	0.752 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	605	1380	4.638 rad	1773597000	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	654	1399	5.202 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	632	1401	5.498 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	621	1396	1.249 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	594	1382	0.905 rad	2647986052	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	609	1381	0.339 rad	1773597000	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	587	1380	5.776 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	587	1380	0.464 rad	2647986052	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	610	1385	2.960 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	606	1392	1.097 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	605	1389	5.286 rad	1773597000	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	333	1379	1.424 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	332	1384	2.872 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	339	1384	5.277 rad	3818114638	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	332	1404	1.743 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	344	1408	4.761 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	325	1430	5.964 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	325	1435	5.940 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	323	1457	2.062 rad	1435977904	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	614	1392	6.118 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	605	1395	4.900 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	617	1395	5.452 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	610	1401	6.042 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	609	1398	1.873 rad	1773597000	1_4_5_1					
+Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect	608	1404	2.775 rad	1773597000	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	601	1321	0.498 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	601	1321	0.719 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	601	1321	1.425 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	581	1306	0.733 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	585	1292	2.356 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	595	1275	2.453 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	610	1378	4.193 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	579	1358	5.924 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	606	1396	5.498 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	611	1397	0.000 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	578	1391	3.463 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	582	1401	5.663 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	580	1396	5.300 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	628	1314	1.954 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	628	1314	1.633 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	589	1287	2.159 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	587	1294	3.142 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	602	1271	2.652 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	589	1277	2.394 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	607	1359	2.992 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	607	1359	5.378 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	611	1379	5.498 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	590	1370	0.934 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	590	1370	5.541 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	570	1330	2.593 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	623	1329	4.481 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	629	1318	4.200 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	631	1313	4.712 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	644	1296	3.117 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	602	1286	3.194 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	591	1294	3.142 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	587	1287	3.605 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	599	1278	3.142 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	610	1268	3.192 rad	2647986052	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	657	1321	0.000 rad	1450012487	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	658	1331	3.850 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	684	1316	4.667 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	658	1347	3.893 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	667	1348	5.928 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	688	1308	4.249 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	666	1353	1.571 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	701	1295	4.172 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	919	1545	4.817 rad	1418889786	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	643	1294	4.160 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	643	1294	3.400 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	653	1299	3.969 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	644	1302	3.405 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	647	1279	2.622 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	628	1320	3.662 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	628	1320	0.876 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	651	1339	0.245 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	619	1335	1.571 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	643	1348	0.910 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	614	1369	1.352 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	687	1309	3.911 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	919	1545	4.817 rad	1418889786	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	675	1319	0.000 rad	1450012487	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	374	1359	2.356 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	382	1358	2.700 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	377	1365	2.724 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	372	1378	4.099 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	390	1361	4.671 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	371	1384	4.369 rad	1518629717	1_4_5_1					
+Metadata/Chests/Barrel2old	370	1405	0.499 rad	3707287636	1_4_5_1					
+Metadata/Chests/Barrel1old	370	1410	1.006 rad	1528648667	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	357	1355	3.780 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	357	1379	0.368 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	357	1363	0.147 rad	1518629717	1_4_5_1					
+Monster: Pitbull Demon [Metadata/Monsters/Pitbull/Pitbull@37]	360	1372	1.276 rad	1518629717	1_4_5_1					
+Metadata/Chests/Barrel2old	365	1400	5.710 rad	3707287636	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	353	1395	0.245 rad	3818114638	1_4_5_1					
+Metadata/Chests/Barrel3old	360	1408	6.133 rad	3865749632	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	333	1379	1.424 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	332	1384	2.872 rad	3818114638	1_4_5_1					
+Monster: Rooster Fiend [Metadata/Monsters/Cockerel/Cockerel@37]	339	1384	5.277 rad	3818114638	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	332	1404	1.743 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	344	1408	4.761 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	325	1430	5.964 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	325	1435	5.940 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	323	1457	2.062 rad	1435977904	1_4_5_1					
+Monster: Rooster Demon [Metadata/Monsters/Cockerel/CockerelBow@37]	321	1404	4.393 rad	1435977904	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	428	1361	0.785 rad	2647986052	1_4_5_1					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	365	1375	0.000 rad	1450012487	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	399	1357	5.942 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	399	1357	1.249 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	396	1362	6.126 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	396	1362	4.712 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	390	1354	1.429 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	384	1355	1.585 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	384	1355	2.111 rad	2647986052	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	360	1372	0.418 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	354	1375	1.571 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	350	1391	0.915 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	349	1384	0.983 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	337	1383	1.030 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	339	1406	0.785 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	325	1435	5.940 rad	3875590990	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	369	1356	2.498 rad	3875590990	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	369	1367	3.546 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	374	1370	1.849 rad	1418889786	1_4_5_1					
+Metadata/Effects/Spells/shatter/ShatterLarge	374	1370	5.865 rad	3875590990	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	376	1363	4.553 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	376	1363	0.000 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	374	1354	0.896 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	387	1356	0.633 rad	1418889786	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	387	1356	1.571 rad	2647986052	1_4_5_1					
+Object: Metadata/Effects/Spells/shatter/Shatter	382	1360	2.678 rad	2647986052	1_4_5_1					
+Object: Metadata/MiscellaneousObjects/AreaTransition	322	1617	0.000 rad	726109394	1_4_5_1	-16	125.000	0	60808	The Grand Arena
+Metadata/Effects/Spells/shatter/ShatterLarge	323	1452	0.180 rad	3875590990	1_4_5_1					

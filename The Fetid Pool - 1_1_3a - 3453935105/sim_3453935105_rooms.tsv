@@ -1,0 +1,13 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act1/Area3a/Rooms/miniboss.arm	25	34	0	node	
+0	Metadata/Terrain/Act1/Area3a/Rooms/transition.arm	16	7	0	node	default entrance1
+0	Metadata/Terrain/Act1/Area3a/Rooms/CliffWater/var_2_2.arm	34	34	6	node	
+0	Metadata/Terrain/Act1/Area3a/Rooms/CliffWater/var_2_2.arm	7	16	4	node	
+0	Metadata/Terrain/Act1/Area3a/Rooms/CliffWater/2x2/var_9_4.arm	25	16	5	node	
+0	Metadata/Terrain/Act1/Area3a/Rooms/CliffWater/2x2/var_9_5.arm	7	25	7	node	
+0	Metadata/Terrain/Act1/Area3a/Rooms/Fill/cliff.arm	34	43	4	node	
+0	Metadata/Terrain/Act1/Area3a/Rooms/Fill/cliff.arm	7	7	4	node	
+0	Metadata/Terrain/Act1/Area3a/Rooms/Fill/cliff.arm	25	7	5	node	
+0	Metadata/Terrain/Act1/Area3a/Rooms/Fill/cliff.arm	34	7	7	node	
+0	Metadata/Terrain/Act1/Area3a/Rooms/Fill/cliff.arm	7	43	3	node	
+0	Metadata/Terrain/Act1/Area3a/Rooms/Fill/cliff.arm	16	43	4	node	

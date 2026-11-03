@@ -1,0 +1,41 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	188	165	4.7124	338.041	-43	forestcamp_center_v01_01.tdt	0	0	50717	1_2_1
+Metadata/MiscellaneousObjects/AreaTransition	311	264	4.7124	-16.645	2	forestcamp_center_v01_01.tdt	0	0	9731	1_2_2
+Metadata/MiscellaneousObjects/AreaTransition	63	266	4.7124	-17.067	2	forestcamp_center_v01_01.tdt	0	0	3474	1_2_7
+Metadata/MiscellaneousObjects/NoticeBoard	184	307	4.7124	-105.697	14	forestcamp_center_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Waypoint	188	208	4.7124	-16.813	2	forestcamp_center_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/TownPortal	229	268	4.7124	0.000	0	forest_town.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	229	246	4.7124	0.000	0	forest_town.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	211	246	4.7124	0.000	0	forest_town.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	260	244	4.7124	0.000	0	forest_town.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	275	244	4.7124	0.000	0	forest_town.arm	1			
+Metadata/MiscellaneousObjects/TownPortal	285	263	4.6763	0.000	0	forest_town.arm	1			
+Metadata/QuestObjects/DoodadNoDarkness	163	332	4.7124	0.000	0	forest_town.arm	0			
+Metadata/QuestObjects/DoodadNoDarkness	200	338	4.7124	0.000	0	forest_town.arm	0			
+Metadata/QuestObjects/DoodadNoDarkness	185	321	4.7124	16.644	-2	forest_town.arm	0			
+Metadata/QuestObjects/DoodadNoDarkness	208	307	4.7124	0.000	0	forest_town.arm	0			
+Metadata/QuestObjects/DoodadNoDarkness	164	348	4.7124	0.000	0	forest_town.arm	0			
+Metadata/QuestObjects/DoodadNoDarkness	203	335	4.7124	0.000	0	forest_town.arm	0			
+Metadata/QuestObjects/DoodadNoDarkness	173	305	4.7124	0.000	0	forest_town.arm	0			
+Metadata/QuestObjects/DoodadNoDarkness	220	326	4.7124	234.375	-30	forest_town.arm	0			
+Metadata/QuestObjects/DoodadNoDarkness	161	298	4.7124	93.071	-12	forest_town.arm	0			
+Metadata/QuestObjects/DoodadNoDarkness	177	278	4.7124	0.000	0	forest_town.arm	0			
+Metadata/NPC/Act2/Yeena	153	338	0.8727	0.000	0	forest_town.arm	0			
+Metadata/NPC/Act2/Eramir	159	278	0.4701	-15.625	2	forest_town.arm	0			
+Metadata/NPC/Act2/Greust	203	268	5.9048	0.000	0	forest_town.arm	0			
+Metadata/NPC/Act2/Silk	179	338	5.5851	0.000	0	forest_town.arm	0			
+Metadata/QuestObjects/DoodadNoDarkness	217	320	4.7124	0.000	0	forest_town.arm	0			
+Metadata/QuestObjects/DoodadNoDarkness	175	300	4.7124	0.000	0	forest_town.arm	0			
+Metadata/QuestObjects/DoodadNoDarkness	179	335	4.7124	0.000	0	forest_town.arm	0			
+Metadata/QuestObjects/DoodadNoDarkness	214	332	4.7124	0.000	0	forest_town.arm	0			
+Metadata/NPC/Act2/HelenaTown	168	348	6.0214	0.000	0	forest_town.arm	0			
+Metadata/MiscellaneousObjects/GuildStash	206	302	0.7252	-21.060	3	forest_town.arm	0			
+Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.0015	187.500	-24	forest_town.arm	0			
+Metadata/MiscellaneousObjects/Stash	191	296	5.8425	0.000	0	forest_town.arm	0			
+Metadata/NPC/League/Bestiary/Einhar	153	246	2.6717	-15.625	2	forest_town.arm	0			
+Metadata/NPC/Info/TutorialNPC	174	243	1.5708	0.000	0	forest_town.arm	0			
+Metadata/MiscellaneousObjects/Necropolis/NecropolisLocker	224	327	4.9742	0.000	0	forest_town.arm	0			
+Metadata/MiscellaneousObjects/MercenaryMarker	292	279	6.0896	0.000	0	forest_town.arm	0			
+Metadata/MiscellaneousObjects/MercenaryMarker	279	282	6.2797	0.000	0	forest_town.arm	0			
+Metadata/MiscellaneousObjects/MercenaryMarker	267	280	0.0965	0.000	0	forest_town.arm	0			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	223	298	4.6334	0.000	0	forest_town.arm	0			

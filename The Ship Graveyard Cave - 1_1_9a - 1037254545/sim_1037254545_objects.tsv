@@ -1,0 +1,6 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	873	175	4.7124	-162.307	21	caveup_exit_v01_01.tdt	0	0	55297	1_1_9
+Metadata/MiscellaneousObjects/AreaTransition	183	859	4.7124	-162.307	21	caveup_exit_v01_01.tdt	0	0	55297	1_1_9
+Metadata/Monsters/WaterElemental/StranglecharmCharmedPirateEnrageSpawner	853	191	4.4876	0.000	0	treasure1a.arm	1			
+Metadata/Monsters/WaterElemental/StranglecharmCharmedPirateEnrageSpawner	842	174	4.1754	0.000	0	treasure1a.arm	1			
+Metadata/Monsters/WaterElemental/StranglecharmCharmedPirateEnrageSpawner	851	156	4.1840	0.000	0	treasure1a.arm	1			

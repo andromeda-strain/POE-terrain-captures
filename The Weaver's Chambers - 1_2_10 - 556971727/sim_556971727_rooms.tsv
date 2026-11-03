@@ -1,0 +1,18 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/SpiderGrove/Rooms/Unique/treasure.arm	27	27	0	node	teleport1-WeaverArenaName telepad1 teleport2-%areaname% telepad2
+0	Metadata/Terrain/SpiderGrove/Rooms/Unique/entrance.arm	3	11	0	node	default entrance1
+0	Metadata/Terrain/SpiderGrove/Rooms/Unique/end1.arm	3	31	3	node	
+0	Metadata/Terrain/SpiderGrove/Rooms/1x1/2wayStraight3.arm	27	23	1	node	
+0	Metadata/Terrain/SpiderGrove/Rooms/2x2/4tightX.arm	19	31	1	node	
+0	Metadata/Terrain/SpiderGrove/Rooms/3x3/6open5.arm	19	7	3	node	
+0	Metadata/Terrain/SpiderGrove/Rooms/1x1/2wayStraight.arm	23	27	4	node	
+0	Metadata/Terrain/SpiderGrove/Rooms/1x1/2wayCorner.arm	19	27	5	node	
+0	Metadata/Terrain/SpiderGrove/Rooms/1x1/2wayCornerb.arm	15	27	7	node	
+0	Metadata/Terrain/SpiderGrove/Rooms/1x1/2wayCorner.arm	39	23	0	node	
+0	Metadata/Terrain/SpiderGrove/Rooms/1x1/2wayStraight3.arm	35	23	3	node	
+0	Metadata/Terrain/SpiderGrove/Rooms/1x1/2wayStraight2.arm	31	23	7	node	
+0	Metadata/Terrain/SpiderGrove/Rooms/2x2/5tri.arm	19	19	1	node	
+0	Metadata/Terrain/SpiderGrove/Rooms/2x2/5tri2.arm	11	19	1	node	
+0	Metadata/Terrain/SpiderGrove/Rooms/2x2/8open2.arm	11	11	2	node	
+0	Metadata/Terrain/SpiderGrove/Rooms/1x1/2wayStraight2.arm	27	19	5	node	
+0	Metadata/Terrain/SpiderGrove/Rooms/2x2/3passageArea.arm	11	3	2	node	

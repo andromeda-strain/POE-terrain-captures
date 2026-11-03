@@ -1,0 +1,11 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	901	566	1.5708	-400.997	51	act3_riverbridge_transition_v01_01_barracks.tdt	0	0	22455	2_8_13
+Metadata/MiscellaneousObjects/AreaTransition	299	1000	1.5708	-281.255	36	EbonyBarracks_arch_v01_01.tdt	0	0	25726	2_8_5
+Metadata/MiscellaneousObjects/Waypoint	781	1127	4.7124	-577.608	74	citywaypoint_v01_02.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1334	1345	4.7124	-728.349	93	garden_arch_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1145	2553	4.7124	-2181.063	279	act3_temple_entrance_v01_01.tdt	0	0	4381	2_8_7_1_
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1076	2572	0.0000	-1687.500	216	temple_entrance_1_2.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1076	2533	0.0000	-1687.500	216	temple_entrance_1_2.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1027	2567	0.0000	-1687.500	216	temple_entrance_1_2.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1027	2538	0.0000	-1687.500	216	temple_entrance_1_2.arm	0			
+Metadata/MiscellaneousObjects/ProphecyMonsterLocator	1007	744	5.1603	0.000	0	bridge_1.arm	1			

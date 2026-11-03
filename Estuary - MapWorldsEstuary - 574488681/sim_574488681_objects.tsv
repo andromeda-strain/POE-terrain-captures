@@ -1,0 +1,29 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/BridgeMarker	793	1208	3.1416	0.000	0	bridge_1.arm	0			
+Metadata/MiscellaneousObjects/MapReturnPortal	414	976	3.2029	0.000	0	entrance_1.arm	1			
+Metadata/MiscellaneousObjects/BridgeMarker	727	1611	0.0000	0.000	0	lava_1.arm	0			
+Metadata/MiscellaneousObjects/AreaTransitionMapMarker	1532	1035	0.0000	-21.739	3	bossentry.arm	0	1	2642601211	Arena
+Metadata/MiscellaneousObjects/BridgeMarker	517	1344	1.5708	0.000	0	join_2.arm	0			
+Metadata/MiscellaneousObjects/AreaTransitionMapMarker	522	413	0.0000	-21.739	3	boss_island.arm	0	1	40753	%areaname%
+Metadata/MiscellaneousObjects/CraftRecipeUnlockMarker	406	432	1.0675	0.000	0	boss_island.arm	1			
+Metadata/Chests/LeagueDeepwater/CursedTreasureChestEncounter	1233	1308	5.7297	0.000	0	DeepwaterEncounter_CursedTreasure_01.arm	0			
+Metadata/Terrain/Leagues/Deepwater/Objects/CursedTreasureChestEncounterLamp	1240	1312	5.7315	0.000	0	DeepwaterEncounter_CursedTreasure_01.arm	0			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/OreNode	1414	840	0.0000	0.000	0	ore_node.arm	1			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/NodeTypes/MineralClaimedMarker	1426	862	0.0000	0.000	0	ore_node.arm	0			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/NodeTypes/MineralClaimedMarker	1438	851	0.0000	0.000	0	ore_node.arm	0			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/NodeTypes/MineralClaimedMarker	1437	828	0.0000	0.000	0	ore_node.arm	0			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/NodeTypes/MineralClaimedMarker	1403	816	0.0000	0.000	0	ore_node.arm	0			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/NodeTypes/MineralClaimedMarker	1391	827	0.0000	0.000	0	ore_node.arm	0			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/NodeTypes/MineralClaimedMarker	1391	850	0.0000	0.000	0	ore_node.arm	0			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/NodeTypes/MineralClaimedMarker	1404	862	0.0000	0.000	0	ore_node.arm	0			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/NodeTypes/MineralClaimedMarker	1426	816	0.0000	0.000	0	ore_node.arm	0			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/OreNode	1483	817	0.0000	0.000	0	ore_node.arm	1			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/NodeTypes/MineralClaimedMarker	1495	839	0.0000	0.000	0	ore_node.arm	0			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/NodeTypes/MineralClaimedMarker	1507	828	0.0000	0.000	0	ore_node.arm	0			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/NodeTypes/MineralClaimedMarker	1506	805	0.0000	0.000	0	ore_node.arm	0			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/NodeTypes/MineralClaimedMarker	1472	793	0.0000	0.000	0	ore_node.arm	0			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/NodeTypes/MineralClaimedMarker	1460	804	0.0000	0.000	0	ore_node.arm	0			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/NodeTypes/MineralClaimedMarker	1460	827	0.0000	0.000	0	ore_node.arm	0			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/NodeTypes/MineralClaimedMarker	1473	839	0.0000	0.000	0	ore_node.arm	0			
+Metadata/Terrain/Leagues/Settlers/Node/Objects/NodeTypes/MineralClaimedMarker	1495	793	0.0000	0.000	0	ore_node.arm	0			
+Metadata/MiscellaneousObjects/PortalTransition	908	1439	0.0000	0.000	0	vaal_side_area.arm	0			

@@ -1,0 +1,53 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	854	379	4.7124	-0.000	0	Oriath_AreaTransition_v01_02.tdt	0	0	7086	1_5_7
+Metadata/QuestObjects/Act5/OriathSquareToCourts	2585	517	4.7124	-158.930	20	Oriath_AreaTransition_v01_03.tdt	0	0	9877	1_5_4b
+Metadata/QuestObjects/Act5/TemplarCourtsDoor	2577	517	4.7124	-0.000	0	Oriath_AreaTransition_v01_03.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	261	724	4.7124	1.583	0	slaveden_entrance_steps_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/Waypoint	2380	1161	3.1416	-15.108	2	citywaypoint_v02_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	2380	1199	6.2832	-0.000	0	Oriath_AreaTransition_v01_04.tdt	0	0	57402	1_5_6
+Metadata/MiscellaneousObjects/AreaTransition	1235	1549	0.0000	-264.534	34	chitus_statuewall_transition_v01_01.tdt	0	0	53304	1_5_8
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	989	851	5.4978	31.250	-4	fountain.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1283	850	0.7854	31.250	-4	fountain.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	988	1145	3.9270	31.250	-4	fountain.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1283	1146	2.3562	31.250	-4	fountain.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1055	917	5.5492	0.000	0	fountain.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1223	916	0.7854	0.000	0	fountain.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	1022	882	0.0000	0.000	0	fountain.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1257	885	0.0000	0.000	0	fountain.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1270	1138	0.0000	31.250	-4	fountain.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	998	1135	0.0000	31.250	-4	fountain.arm	1			
+Metadata/QuestObjects/Act5/CathedralRoofFlame	1217	1480	0.0000	-125.000	16	entrance_04.arm	0			
+Metadata/MiscellaneousObjects/AreaTransition	1104	212	0.0000	0.000	0	hideout_alleyway_01.arm	0	1	28882	HideoutCourts_Claim
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	492	1173	1.5708	0.000	0	corner_02.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	516	1200	1.5708	0.000	0	corner_02.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	2199	767	3.9270	0.000	0	cross_01.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	494	549	1.5708	0.000	0	corner_03.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	513	548	1.5708	0.000	0	corner_03.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	2172	1092	6.2832	0.000	0	branch_01.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	2172	1067	1.5708	0.000	0	branch_01.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	2475	819	5.4978	0.000	0	cross_01.arm	0			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	2148	551	1.5708	0.000	0	corner_02.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	2172	524	1.5708	0.000	0	corner_02.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	767	491	2.3940	0.000	0	corner_01.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	777	500	4.7124	0.000	0	corner_01.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	667	1187	3.1416	0.000	0	straight_03.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	666	1205	1.5708	0.000	0	straight_03.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	537	1057	4.7124	0.000	0	straight_03.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	519	1058	0.0000	0.000	0	straight_03.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	2197	654	4.7124	0.000	0	straight_02.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	2174	655	0.0000	0.000	0	straight_02.arm	1			
+Metadata/Monsters/StatueFingerMage/StatueFingerMageSpawner	1183	380	1.5708	0.000	0	straight_02.arm	0			
+Metadata/MiscellaneousObjects/AmbushPoint	1206	379	3.1416	0.000	0	straight_02.arm	1			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	3172	149	0.0000	125.000	-16	hideout_claim.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	3289	140	1.0472	125.000	-16	hideout_claim.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	3235	155	0.0000	125.000	-16	hideout_claim.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	3157	129	3.1416	125.000	-16	hideout_claim.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	3136	152	4.9742	125.000	-16	hideout_claim.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	3330	123	0.0000	125.000	-16	hideout_claim.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	3333	158	0.0000	125.000	-16	hideout_claim.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	3401	130	5.4978	125.000	-16	hideout_claim.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	3531	155	0.0000	125.000	-16	hideout_claim.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	3439	140	0.0000	125.000	-16	hideout_claim.arm	0			
+Metadata/QuestObjects/Act5/DestroyedOriathObstructions	3511	160	0.0000	125.000	-16	hideout_claim.arm	0			
+Metadata/MiscellaneousObjects/AreaTransition	3209	169	1.5708	125.000	-16	hideout_claim.arm	0	1	51718	%areaname%
+Metadata/NPC/Missions/HelenaClaim	3192	187	2.5947	125.000	-16	hideout_claim.arm	0			

@@ -1,0 +1,10 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	477	379	1.5708	-217.518	28	act3_promenade_boss_entry_v01_01.tdt	0	1	28470	%areaname%
+Metadata/MiscellaneousObjects/Waypoint	242	310	1.5708	-281.250	36	hideout.arm	0			
+Metadata/Terrain/Missions/Hideouts/Objects/StrDexIntMappingDevice	276	445	6.2832	-562.500	72	hideout.arm	0			
+Metadata/MiscellaneousObjects/GuildStash	251	366	4.7124	-281.250	36	hideout.arm	0			
+Metadata/MiscellaneousObjects/Stash	251	350	4.7124	-281.250	36	hideout.arm	0			
+Metadata/Terrain/Missions/Hideouts/Objects/HideoutCraftingBench	225	363	4.7124	-281.250	36	hideout.arm	0			
+Metadata/MiscellaneousObjects/Harvest/CraftingSilo_Hideout	196	363	0.0000	-281.250	36	hideout.arm	0			
+Metadata/MiscellaneousObjects/Heist/HeistStash_Hideout	183	340	1.5708	-281.250	36	hideout.arm	0			
+Metadata/MiscellaneousObjects/Expedition/ExpeditionStash_Hideout	181	320	1.5708	-281.250	36	hideout.arm	0			

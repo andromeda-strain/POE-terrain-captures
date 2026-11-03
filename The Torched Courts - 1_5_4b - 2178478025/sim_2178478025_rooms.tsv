@@ -1,0 +1,26 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act5/Area4b/Rooms/Unique/destroyed_square_entrance2.arm	26	56	0	node	entrance2
+0	Metadata/Terrain/Act5/Area4b/Rooms/Unique/destroyed_innocence_entrance1.arm	20	26	0	node	default entrance1
+0	Metadata/Terrain/Act5/Area4b/Rooms/Unique/boss_01.arm	56	26	1	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Unique/office.arm	56	44	0	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Windows/window_concave_03.arm	50	38	4	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/1x1/2open_turn_01.arm	38	38	2	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Windows/window_T_04.arm	38	62	4	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Windows/window_convex_02.arm	50	62	7	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Windows/window_end_02.arm	56	50	3	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Windows/window_convex_03.arm	50	32	5	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Archives/1x1/2open_turn_01.arm	62	14	6	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Windows/window_T_01.arm	44	62	0	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Windows/window_convex_01.arm	56	56	7	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Windows/window_concave_02.arm	50	56	2	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Archives/1x1/2open_straight_02.arm	62	20	3	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Archives/2x2/8open_01.arm	32	20	6	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Archives/1x1/2open_turn_02.arm	26	20	5	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Archives/1x1/2open_straight_01.arm	56	14	4	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Archives/2x2/8open_04.arm	44	14	7	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/1x1/4open_03.arm	38	56	7	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/1x1/3open_02.arm	38	50	5	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/2x2/8open_04.arm	44	44	0	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/1x1/3open_02.arm	38	44	5	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/1x1/3open_03.arm	44	38	2	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/1x1/3open_03.arm	44	56	7	node	

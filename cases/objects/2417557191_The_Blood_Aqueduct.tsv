@@ -1,0 +1,5 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	515	259	0.000 rad	2448909918	2_9_1					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	511	255	2.651 rad	1570723376	2_9_1					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	515	256	6.160 rad	1792897079	2_9_1					
+Object: Metadata/MiscellaneousObjects/Waypoint	515	259	0.000 rad	552129418	2_9_1	46	-360.146			

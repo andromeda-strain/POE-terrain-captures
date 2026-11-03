@@ -1,0 +1,49 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	701	1253	0.000 rad	2448909918	1_3_15					
+Metadata/Chests/CityBoulder1	742	1034	1.155 rad	3862226264	1_3_15					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@30]	807	1034	3.927 rad	1608485357	1_3_15					
+Monster: Avian Retch [Metadata/Monsters/Kiweth/Kiweth@30]	914	1018	4.197 rad	3767114460	1_3_15					
+Monster: Avian Retch [Metadata/Monsters/Kiweth/Kiweth@30]	942	1029	4.786 rad	3767114460	1_3_15					
+Object: Metadata/Monsters/Statue/Male/Spawner_GardenStatueMaleMaul	931	1034	0.000 rad	319243764	1_3_15	0	0.000			
+Object: Metadata/Monsters/Statue/Male/Spawner_GardenStatueMaleBow	701	1046	3.142 rad	1395876382	1_3_15	0	-0.000			
+Object: Metadata/Monsters/Statue/Male/Spawner_GardenStatueMaleBow	701	1092	0.000 rad	1395876382	1_3_15	0	-0.000			
+Object: Metadata/Monsters/Statue/Male/Spawner_GardenStatueMaleMaul	540	1161	4.712 rad	319243764	1_3_15	0	-0.000			
+Object: Metadata/Monsters/Statue/Female/Spawner_GardenStatueFemaleUnarmed	770	1184	0.000 rad	359314961	1_3_15	0	-0.000			
+Object: Metadata/Monsters/Statue/Male/Spawner_GardenStatueMaleMaul	793	1184	0.000 rad	319243764	1_3_15	0	-0.000			
+Object: Metadata/Monsters/Statue/Female/Spawner_GardenStatueFemaleMaul	816	1184	0.000 rad	106365816	1_3_15	0	-0.000			
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_GardenStoneStatueLargeFemaleSword	766	1207	4.712 rad	4116854956	1_3_15	0	-0.000			
+Object: Metadata/Monsters/Statue/MaleLarge/Spawner_GardenStoneStatueLargeMaleSpear	822	1207	1.571 rad	3559934328	1_3_15	0	-0.000			
+Object: Metadata/Monsters/Statue/Male/Spawner_GardenStatueMaleBow	770	1230	3.142 rad	1395876382	1_3_15	0	-0.000			
+Object: Metadata/Monsters/Statue/Female/Spawner_GardenStatueFemaleUnarmed	793	1230	3.142 rad	359314961	1_3_15	0	-0.000			
+Object: Metadata/Monsters/Statue/Female/Spawner_GardenStatueFemaleUnarmed	816	1230	3.142 rad	359314961	1_3_15	0	-0.000			
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	698	1250	1.718 rad	1792897079	1_3_15					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	702	1249	2.626 rad	1570723376	1_3_15					
+Object: Metadata/MiscellaneousObjects/Waypoint	701	1253	0.000 rad	552129418	1_3_15	1	-15.108			
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@30]	773	1036	4.099 rad	1608485357	1_3_15					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@30]	764	1037	5.473 rad	1608485357	1_3_15					
+Object: Metadata/Monsters/Statue/Male/Spawner_GardenStatueMaleSword	896	1069	4.712 rad	3336292377	1_3_15	0	0.000			
+Monster: Porcupine Goliath [Metadata/Monsters/Spiker/Spiker@30]	905	1102	3.068 rad	4125591130	1_3_15					
+Monster: Porcupine Goliath [Metadata/Monsters/Spiker/Spiker@30]	909	1120	3.313 rad	4125591130	1_3_15					
+Monster: Porcupine Goliath [Metadata/Monsters/Spiker/Spiker@30]	927	1126	0.515 rad	4125591130	1_3_15					
+Monster: Porcupine Goliath [Metadata/Monsters/Spiker/Spiker@30]	934	1123	6.087 rad	4125591130	1_3_15					
+Object: Metadata/Monsters/Statue/Female/Spawner_GardenStatueFemaleBow	931	1104	3.142 rad	3465551741	1_3_15	0	0.000			
+Object: Metadata/Monsters/Statue/Male/Spawner_GardenStatueMaleBow	494	1161	1.571 rad	1395876382	1_3_15	0	-0.000			
+Metadata/Chests/CityBoulder2	479	1215	0.224 rad	297157849	1_3_15					
+Monster: Pale Blackguard [Metadata/Monsters/ZombieDismember/BlackguardZombie@30]	918	1246	0.245 rad	799702388	1_3_15					
+Monster: Pale Blackguard [Metadata/Monsters/ZombieDismember/BlackguardZombie@30]	919	1260	4.614 rad	799702388	1_3_15					
+Monster: Pale Blackguard [Metadata/Monsters/ZombieDismember/BlackguardZombie@30]	930	1270	5.031 rad	799702388	1_3_15					
+Monster: Pale Blackguard [Metadata/Monsters/ZombieDismember/BlackguardZombie@30]	923	1266	4.295 rad	799702388	1_3_15					
+Monster: Devourer [Metadata/Monsters/RootSpiders/RootSpiderHidden@30]	888	1344	1.178 rad	730634423	1_3_15					
+Monster: Porcupine Goliath [Metadata/Monsters/Spiker/Spiker@30]	694	1458	2.454 rad	4125591130	1_3_15					
+Monster: Porcupine Goliath [Metadata/Monsters/Spiker/Spiker@30]	712	1466	4.811 rad	4125591130	1_3_15					
+Object: Metadata/Monsters/Statue/Female/Spawner_GardenStatueFemaleUnarmed	701	1460	3.142 rad	359314961	1_3_15	36	-281.250			
+Monster: Porcupine Goliath [Metadata/Monsters/Spiker/Spiker@30]	697	1479	4.541 rad	4125591130	1_3_15					
+Monster: Avian Retch [Metadata/Monsters/Kiweth/Kiweth@30]	938	1491	1.963 rad	3767114460	1_3_15					
+Monster: Devourer [Metadata/Monsters/RootSpiders/RootSpiderHidden@30]	927	1479	2.135 rad	730634423	1_3_15					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	680	1267	0.000 rad	1450012487	1_3_15					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	679	1262	0.000 rad	1450012487	1_3_15					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	684	1259	0.000 rad	1450012487	1_3_15					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	680	1267	0.000 rad	1450012487	1_3_15					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	679	1262	0.000 rad	1450012487	1_3_15					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	684	1259	0.000 rad	1450012487	1_3_15					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	689	1258	0.000 rad	1450012487	1_3_15					

@@ -1,0 +1,35 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	472	80	4.7124	-175.849	23	temple_to_battlefront_v01_01.tdt	0	0	44418	1_3_13
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	631	1142	3.1416	-57.845	7	templeclean_bloodpool_straight_v01_03.tdt	1			
+Metadata/MiscellaneousObjects/Door	701	1184	4.7124	0.001	0	templeclean_door_thin_v01_02_FAKE.tdt	0			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	884	1594	0.0000	67.155	-9	templeclean_bloodpool_straight_v01_01.tdt	1			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	858	1620	4.7124	67.155	-9	templeclean_bloodpool_straight_v01_04.tdt	1			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	884	1648	3.1416	67.155	-9	templeclean_bloodpool_straight_v01_03.tdt	1			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	912	2155	1.5708	-57.845	7	templeclean_bloodpool_convex_v01_01.tdt	1			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	926	2154	3.1416	-57.845	7	templeclean_bloodpool_convex_v01_02.tdt	1			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	1004	2149	1.5708	-57.845	7	templeclean_bloodpool_straight_v01_04.tdt	1			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	912	2168	1.5708	-57.845	7	templeclean_bloodpool_convex_v01_03.tdt	1			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	953	2177	3.1416	-57.845	7	templeclean_bloodpool_straight_v01_01.tdt	1			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	978	2177	3.1416	-57.845	7	templeclean_bloodpool_straight_v01_01.tdt	1			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	935	2195	1.5708	-57.845	7	templeclean_bloodpool_straight_v01_01.tdt	1			
+Metadata/MiscellaneousObjects/AreaTransition	958	2239	3.1416	239.062	-31	templeclean_exit_down_v01_01.tdt	0	0	10694	1_3_14_2
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	1088	2201	4.7124	-57.845	7	templeclean_bloodpool_convex_v01_01.tdt	1			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	935	2220	1.5708	-57.845	7	templeclean_bloodpool_straight_v01_04.tdt	1			
+Metadata/MiscellaneousObjects/Waypoint	1069	2219	4.7124	-16.517	2	templeclean_waypoint_v01_01.tdt	0			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	1088	2220	4.7124	-57.845	7	templeclean_bloodpool_straight_v01_04.tdt	1			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	1088	2237	4.7124	-57.845	7	templeclean_bloodpool_convex_v01_03.tdt	1			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	913	2269	3.1416	-57.845	7	templeclean_bloodpool_convex_v01_02.tdt	1			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	976	2261	0.0000	-57.845	7	templeclean_bloodpool_straight_v01_03.tdt	1			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	912	2283	1.5708	-57.845	7	templeclean_bloodpool_convex_v01_04.tdt	1			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	926	2284	6.2832	-57.845	7	templeclean_bloodpool_convex_v01_03.tdt	1			
+Metadata/Monsters/BloodElemental/BloodElementalSpawner	1004	2289	1.5708	-57.845	7	templeclean_bloodpool_straight_v01_04.tdt	1			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	404	1288	4.7124	0.000	0	inner_1.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	379	1288	4.7124	0.000	0	inner_1.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	508	1163	4.7124	0.000	0	inner_1.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	507	1206	4.7124	0.000	0	inner_1.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	197	1154	4.7124	0.000	0	inner_1.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	198	1211	4.7124	0.000	0	inner_1.arm	0			
+Metadata/MiscellaneousObjects/PortalTransition	310	404	0.0000	0.000	0	vaal_side_area.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	655	1311	6.2832	0.000	0	special_brute_1.arm	0			
+Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	643	1299	6.2832	0.000	0	special_brute_1.arm	0			
+slime3_large	988	1518	4.7124	0.000	0	template_6b.arm	0			

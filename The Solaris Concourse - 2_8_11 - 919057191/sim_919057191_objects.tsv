@@ -1,0 +1,30 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	1758	426	0.0000	-161.782	21	market_to_battlefront_v01_02.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	507	778	0.0000	-501.072	64	act3_battlefront_to_harbor_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	495	770	4.7124	-146.674	19	act3_battlefront_to_harbor_v01_01.tdt	0	0	22455	2_8_13
+Metadata/QuestObjects/Sewers/SewersLockedTransition	1598	632	3.1416	10.293	-1	slum_sewer_entrance_battlefront.tdt	0	0	37269	2_8_14
+Metadata/QuestObjects/Sewers/SewersLockedDoor	1598	631	3.1416	-9.995	1	slum_sewer_entrance_battlefront.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1598	632	3.1416	10.293	-1	slum_sewer_entrance_battlefront.tdt	0			
+Metadata/QuestObjects/Sewers/SewersHiddenDoor_Battlefront	1598	631	3.1416	-9.995	1	slum_sewer_entrance_battlefront.tdt	0			
+Metadata/MiscellaneousObjects/Waypoint	891	700	6.2832	-296.358	38	citywaypoint_v01_01.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_StoneStatueMaleBow	1023	994	0.0000	-562.500	72	act3_statue_spawner_03_02.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_StoneStatueFemaleMaul	1047	995	0.0000	-562.500	72	act3_statue_spawner_01_03.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1454	1027	0.0000	-699.568	90	act3_prison_entrance_01_01.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_StoneStatueFemaleUnarmed	1074	1047	1.5708	-562.500	72	act3_statue_spawner_01_01.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleSword	1207	1178	0.0000	-562.500	72	act3_statue_spawner_04_03.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleSword	1414	1178	0.0000	-562.500	72	act3_statue_spawner_04_03.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleUnarmed	1438	1179	0.0000	-562.500	72	act3_statue_spawner_02_01.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleMaul	1460	1178	0.0000	-562.500	72	act3_statue_spawner_04_01.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleUnarmed	1160	1235	3.1416	-562.500	72	act3_statue_spawner_02_01.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleMaul	1184	1236	3.1416	-562.500	72	act3_statue_spawner_04_01.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleSword	1206	1235	3.1416	-562.500	72	act3_statue_spawner_02_04.tdt	0			
+Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleMaul	1362	1253	4.7124	-562.500	72	act3_statue_spawner_04_01.tdt	0			
+Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleBow	1340	1275	4.7124	-562.500	72	act3_statue_spawner_02_02.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1311	1421	6.2832	-1056.063	135	act3_temple_entrance_v01_01.tdt	0	0	9792	2_8_12_1
+Metadata/MiscellaneousObjects/AmbushPoint	1439	1153	6.2832	-562.500	72	temple_entrance.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1312	1250	6.2832	-562.500	72	temple_entrance.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1182	1254	6.2832	-562.500	72	temple_entrance.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1179	1156	6.2832	-562.500	72	temple_entrance.arm	1			
+Metadata/MiscellaneousObjects/AmbushPoint	1035	1022	3.1416	-562.500	72	tree_7.arm	1			
+bloodsplat	815	1160	4.7124	0.000	0	bodies_1_6.arm	0			
+bloodsplat	794	746	6.2832	0.000	0	bodies_1_6.arm	0			

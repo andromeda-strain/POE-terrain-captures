@@ -1,0 +1,12 @@
+type	X	Y	rotation	z	height_step	src	internal	exit_kind	exit_target	exit_name
+Metadata/MiscellaneousObjects/AreaTransition	213	437	6.2832	-54.350	7	caveskeleton_exit_v01_01.tdt	0	0	55297	1_1_9
+Metadata/MiscellaneousObjects/Waypoint	310	402	4.7124	-141.917	18	beach_waypoint_v01_01.tdt	0			
+Metadata/MiscellaneousObjects/AreaTransition	1333	859	4.7124	-162.307	21	caveup_exit_v01_01.tdt	0	0	37116	1_1_11_2
+Metadata/Terrain/Cave/Objects/MerveilExit1	1191	873	4.7124	0.000	0	river_exit_2a.arm	0			
+Metadata/Terrain/Cave/Objects/MerveilEnter1	329	333	0.0000	0.000	0	river_entrance_waypoint_2a.arm	0			
+Metadata/NPC/Info/MerveilSkin	406	217	5.8381	0.000	0	river_entrance_waypoint_2a.arm	0			
+Metadata/Chests/AmarissaTrickChest	866	596	1.0472	0.000	0	special_seawitchboss1c.arm	0			
+Metadata/MiscellaneousObjects/TreasurePileNoGlow	866	584	6.2177	0.000	0	special_seawitchboss1c.arm	0			
+Metadata/MiscellaneousObjects/TreasurePileNoGlow	872	603	3.3963	0.000	0	special_seawitchboss1c.arm	0			
+Metadata/MiscellaneousObjects/TreasurePileNoGlow	872	596	6.2832	0.000	0	special_seawitchboss1c.arm	0			
+Metadata/MiscellaneousObjects/TreasurePileNoGlow	867	588	2.6276	0.000	0	special_seawitchboss1c.arm	0			
