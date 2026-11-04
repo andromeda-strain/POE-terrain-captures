@@ -1,55 +1,9 @@
 type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
-Metadata/Characters/Dex/Dex	176	236	0.121 rad	2287107054	1_2_town					
-Metadata/Characters/StrDexInt/StrDexInt	197	251	5.071 rad	1086455624	1_2_town					
-Metadata/Characters/Int/Int	162	309	6.038 rad	2621544766	1_2_town					
-Metadata/Characters/Int/Int	175	289	0.785 rad	2621544766	1_2_town					
-Metadata/Characters/StrDex/StrDex	183	259	2.923 rad	2810334424	1_2_town					
-Metadata/Characters/DexInt/DexInt	194	290	3.605 rad	3989868005	1_2_town					
-Metadata/Characters/StrDexInt/StrDexInt	185	274	6.141 rad	1086455624	1_2_town					
-Metadata/Characters/Dex/Dex	183	220	0.395 rad	2287107054	1_2_town					
-Metadata/Characters/StrDexInt/StrDexInt	183	220	0.395 rad	1086455624	1_2_town					
-Metadata/Characters/Int/Int	151	332	2.820 rad	2621544766	1_2_town					
-Metadata/Characters/StrDexInt/StrDexInt	165	334	5.764 rad	1086455624	1_2_town					
-Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
-Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
-Object: Metadata/MiscellaneousObjects/AreaTransition	188	165	4.712 rad	726109394	1_2_town	-43	338.041	0	50717	The Southern Forest
-Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.001 rad	688764747	1_2_town	-24	187.500			
-Object: Metadata/MiscellaneousObjects/Waypoint	188	208	4.712 rad	552129418	1_2_town	2	-16.813			
-Metadata/NPC/League/Bestiary/Einhar	153	246	2.672 rad	3494584835	1_2_town	2	-15.625			
-Object: Metadata/MiscellaneousObjects/AreaTransition	63	266	4.712 rad	726109394	1_2_town	2	-17.067	0	3474	The Riverways
-Metadata/NPC/Act2/Greust	203	268	5.905 rad	2302925468	1_2_town					
-Object: Metadata/MiscellaneousObjects/AreaTransition	311	264	4.712 rad	726109394	1_2_town	2	-16.645	0	9731	The Old Fields
-Metadata/NPC/Act2/Eramir	159	278	0.470 rad	2330252191	1_2_town	2	-15.625			
-Object: Metadata/QuestObjects/DoodadNoDarkness	161	298	4.712 rad	708577821	1_2_town	-11	93.071			
-Object: Metadata/QuestObjects/DoodadNoDarkness	177	278	4.712 rad	708577821	1_2_town					
-Object: Metadata/MiscellaneousObjects/Stash	191	296	5.842 rad	2817685266	1_2_town					
-Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	223	298	4.633 rad	2564365857	1_2_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	267	280	0.097 rad	1285951471	1_2_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	292	279	6.090 rad	1285951471	1_2_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	279	282	6.280 rad	1285951471	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	173	305	4.712 rad	708577821	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	175	300	4.712 rad	708577821	1_2_town					
-Object: Metadata/MiscellaneousObjects/NoticeBoard	184	307	4.712 rad	1669564304	1_2_town	13	-105.697			
-Object: Metadata/QuestObjects/DoodadNoDarkness	185	321	4.712 rad	708577821	1_2_town	-2	16.644			
-Object: Metadata/QuestObjects/DoodadNoDarkness	208	307	4.712 rad	708577821	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	217	320	4.712 rad	708577821	1_2_town					
-Metadata/NPC/Act2/Yeena	153	338	0.873 rad	3496506456	1_2_town					
-Metadata/NPC/Act2/Silk	179	338	5.585 rad	185275073	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	163	332	4.712 rad	708577821	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	179	335	4.712 rad	708577821	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	200	338	4.712 rad	708577821	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	203	335	4.712 rad	708577821	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	220	326	4.712 rad	708577821	1_2_town	-30	234.375			
-Object: Metadata/QuestObjects/DoodadNoDarkness	214	332	4.712 rad	708577821	1_2_town					
-Metadata/NPC/Act2/HelenaTown	168	348	6.021 rad	1466794034	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	164	348	4.712 rad	708577821	1_2_town					
-Metadata/Characters/StrDexInt/StrDexInt	197	251	5.071 rad	1086455624	1_2_town					
-Metadata/Characters/DexInt/DexInt	194	290	3.605 rad	3989868005	1_2_town					
-Metadata/Characters/Str/Str	188	208	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/Dex/Dex	190	292	2.897 rad	2287107054	1_2_town					
+Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
 Metadata/Characters/Int/Int	184	296	1.571 rad	2621544766	1_2_town					
-Metadata/Characters/Str/Str	171	342	1.107 rad	3618279525	1_2_town					
-Metadata/Characters/StrDex/StrDex	192	261	3.068 rad	2810334424	1_2_town					
-Metadata/Characters/StrDexInt/StrDexInt	194	274	0.983 rad	1086455624	1_2_town					
+Metadata/Characters/Dex/Dex	187	291	2.467 rad	2287107054	1_2_town					
+Metadata/Characters/Dex/Dex	163	334	4.332 rad	2287107054	1_2_town					
 Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
 Object: Metadata/MiscellaneousObjects/AreaTransition	188	165	4.712 rad	726109394	1_2_town	-43	338.041	0	50717	The Southern Forest
 Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.001 rad	688764747	1_2_town	-24	187.500			
@@ -83,54 +37,3 @@ Object: Metadata/QuestObjects/DoodadNoDarkness	220	326	4.712 rad	708577821	1_2_t
 Object: Metadata/QuestObjects/DoodadNoDarkness	214	332	4.712 rad	708577821	1_2_town					
 Metadata/NPC/Act2/HelenaTown	168	348	6.021 rad	1466794034	1_2_town					
 Object: Metadata/QuestObjects/DoodadNoDarkness	164	348	4.712 rad	708577821	1_2_town					
-Metadata/Characters/Dex/Dex	297	259	5.061 rad	2287107054	1_2_town					
-Metadata/Characters/StrDexInt/StrDexInt	197	251	5.071 rad	1086455624	1_2_town					
-Metadata/Characters/DexInt/DexInt	194	290	3.605 rad	3989868005	1_2_town					
-Metadata/Characters/Str/Str	188	208	4.712 rad	3618279525	1_2_town					
-Metadata/Characters/Str/Str	188	290	2.678 rad	3618279525	1_2_town					
-Metadata/Characters/StrDex/StrDex	184	296	1.571 rad	2810334424	1_2_town					
-Metadata/Characters/Dex/Dex	188	290	2.678 rad	2287107054	1_2_town					
-Metadata/Characters/Int/Int	162	332	4.124 rad	2621544766	1_2_town					
-Metadata/Characters/Int/Int	187	295	1.816 rad	2621544766	1_2_town					
-Metadata/Characters/Int/Int	196	276	0.719 rad	2621544766	1_2_town					
-Metadata/Characters/Int/Int	187	291	2.467 rad	2621544766	1_2_town					
-Metadata/Characters/StrInt/StrInt	163	334	4.332 rad	2448909918	1_2_town					
-Metadata/Characters/Str/Str	194	290	3.605 rad	3618279525	1_2_town					
-Metadata/Characters/DexInt/DexInt	196	263	4.594 rad	3989868005	1_2_town					
-Metadata/Characters/DexInt/DexInt	177	283	3.398 rad	3989868005	1_2_town					
-Metadata/Characters/Dex/Dex	164	338	4.712 rad	2287107054	1_2_town					
-Metadata/Characters/StrDex/StrDex	188	208	4.712 rad	2810334424	1_2_town					
-Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
-Object: Metadata/MiscellaneousObjects/AreaTransition	188	165	4.712 rad	726109394	1_2_town	-43	338.041	0	50717	The Southern Forest
-Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.001 rad	688764747	1_2_town	-24	187.500			
-Object: Metadata/MiscellaneousObjects/Waypoint	188	208	4.712 rad	552129418	1_2_town	2	-16.813			
-Metadata/NPC/League/Bestiary/Einhar	153	246	2.672 rad	3494584835	1_2_town	2	-15.625			
-Object: Metadata/MiscellaneousObjects/AreaTransition	63	266	4.712 rad	726109394	1_2_town	2	-17.067	0	3474	The Riverways
-Metadata/NPC/Act2/Greust	203	268	5.905 rad	2302925468	1_2_town					
-Metadata/MiscellaneousObjects/MultiplexPortal	229	268	4.712 rad	1600303822	1_2_town					
-Object: Metadata/MiscellaneousObjects/AreaTransition	311	264	4.712 rad	726109394	1_2_town	2	-16.645	0	9731	The Old Fields
-Metadata/NPC/Act2/Eramir	159	278	0.470 rad	2330252191	1_2_town	2	-15.625			
-Object: Metadata/QuestObjects/DoodadNoDarkness	161	298	4.712 rad	708577821	1_2_town	-11	93.071			
-Object: Metadata/QuestObjects/DoodadNoDarkness	177	278	4.712 rad	708577821	1_2_town					
-Object: Metadata/MiscellaneousObjects/Stash	191	296	5.842 rad	2817685266	1_2_town					
-Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	223	298	4.633 rad	2564365857	1_2_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	267	280	0.097 rad	1285951471	1_2_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	292	279	6.090 rad	1285951471	1_2_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	279	282	6.280 rad	1285951471	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	173	305	4.712 rad	708577821	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	175	300	4.712 rad	708577821	1_2_town					
-Object: Metadata/MiscellaneousObjects/NoticeBoard	184	307	4.712 rad	1669564304	1_2_town	13	-105.697			
-Object: Metadata/QuestObjects/DoodadNoDarkness	185	321	4.712 rad	708577821	1_2_town	-2	16.644			
-Object: Metadata/QuestObjects/DoodadNoDarkness	208	307	4.712 rad	708577821	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	217	320	4.712 rad	708577821	1_2_town					
-Metadata/NPC/Act2/Yeena	153	338	0.873 rad	3496506456	1_2_town					
-Metadata/NPC/Act2/Silk	179	338	5.585 rad	185275073	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	163	332	4.712 rad	708577821	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	179	335	4.712 rad	708577821	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	200	338	4.712 rad	708577821	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	203	335	4.712 rad	708577821	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	220	326	4.712 rad	708577821	1_2_town	-30	234.375			
-Object: Metadata/QuestObjects/DoodadNoDarkness	214	332	4.712 rad	708577821	1_2_town					
-Metadata/NPC/Act2/HelenaTown	168	348	6.021 rad	1466794034	1_2_town					
-Object: Metadata/QuestObjects/DoodadNoDarkness	164	348	4.712 rad	708577821	1_2_town					
-Metadata/Characters/StrDexInt/StrDexInt	180	256	3.142 rad	1086455624	1_2_town					

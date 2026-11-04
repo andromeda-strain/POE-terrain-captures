@@ -1,0 +1,25 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 350989839 doodad hash 1988184869 (CLI_ACTIVATE_MAP)
+AUTO seed 2453465762 Twisted Inquisitorium: dungeon area (capture captures/Twisted Inquisitorium - MapSideArea5_5 - 2453465762/stages_20261103_230348.csv)
+   dungeon (.dgr) pipeline: 1168 draws in 18 call sites (2 generator draws before it, 3644 after it - the post passes); no generator model yet
+   0x14203a8e0: 14 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 1
+   0x1420038a1: 7 draws, bounds 100,200,300,400
+   0x142107272: 5 draws, bounds 1164
+   0x1420fd32a: 20 draws, bounds 128
+   0x142012839: 1 draws, bounds 8
+   0x1420fd640: 31 draws, bounds 1164
+   0x142001ee5: 17 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x142100f13: 11 draws, bounds 0,1,2
+   0x142101086: 4 draws, bounds 100
+   0x14210862e: 9 draws, bounds 80,440,1640,3280,7280
+   0x14210871c: 9 draws, bounds 840
+   0x1420efc0c: 290 draws, bounds 1,2,4,8
+   0x1420f6875: 65 draws, bounds 1,2,4,8
+   0x1420f7228: 6 draws, bounds 2
+   0x141febf93: 338 draws, bounds 1,100
+   0x141febfcf: 338 draws, bounds 8
+   tile grid: captures\Twisted Inquisitorium - MapSideArea5_5 - 2453465762\truth_5104fd43bf0.tsv (49x49, 2401 cells) VERIFIED against tile hash 350989839
+   walkable field: captures\Twisted Inquisitorium - MapSideArea5_5 - 2453465762\walkable_5104fd43bf0_melee.png (11.3% of the sub-cells walkable, matches the tiles' hull field at IoU 0.952; 4 layer(s) read; stored for the grid as walkable_5104fd43bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Twisted Inquisitorium - MapSideArea5_5 - 2453465762\minimap.png

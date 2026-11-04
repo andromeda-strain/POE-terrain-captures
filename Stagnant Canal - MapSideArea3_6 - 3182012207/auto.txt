@@ -1,0 +1,25 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1753261150 doodad hash 624128836 (CLI_ACTIVATE_MAP)
+AUTO seed 3182012207 Stagnant Canal: dungeon area (capture captures/Stagnant Canal - MapSideArea3_6 - 3182012207/stages_20261102_232249.csv)
+   dungeon (.dgr) pipeline: 910 draws in 18 call sites (2 generator draws before it, 6525 after it - the post passes); no generator model yet
+   0x14203a8e0: 1 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 100
+   0x1420fd32a: 8 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 6 draws, bounds 300
+   0x142001ee5: 4 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 3 draws, bounds 12300
+   0x14210871c: 3 draws, bounds 840
+   0x142108799: 1 draws, bounds 12300
+   0x1421087b9: 1 draws, bounds 840
+   0x1420efc0c: 128 draws, bounds 1,2,100,200,260,400,660,800,1200,1320,1600,12800
+   0x1420f6875: 30 draws, bounds 200,260,660
+   0x141fed896: 87 draws, bounds 1
+   0x141fed8d4: 87 draws, bounds 8
+   0x141febf93: 270 draws, bounds 1,10,100
+   0x141febfcf: 270 draws, bounds 8
+   0x14202795d: 7 draws, bounds 100
+   tile grid: captures\Stagnant Canal - MapSideArea3_6 - 3182012207\truth_3f823d693f0.tsv (60x33, 1980 cells) VERIFIED against tile hash 1753261150
+   walkable field: captures\Stagnant Canal - MapSideArea3_6 - 3182012207\walkable_3f823d693f0_melee.png (7.9% of the sub-cells walkable, matches the tiles' hull field at IoU 0.969; 2 layer(s) read; stored for the grid as walkable_3f823d693f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Stagnant Canal - MapSideArea3_6 - 3182012207\minimap.png

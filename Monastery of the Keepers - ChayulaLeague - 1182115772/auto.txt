@@ -1,0 +1,9 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 739522572 doodad hash 3027715398 (CLI_ACTIVATE_MAP)
+AUTO seed 1182115772 Monastery of the Keepers: dungeon area (capture captures/Monastery of the Keepers - ChayulaLeague - 1182115772/stages_20261103_231326.csv)
+   dungeon (.dgr) pipeline: 2 draws in 2 call sites (1 generator draws before it, 491 after it - the post passes); no generator model yet
+   0x142105ee9: 1 draws, bounds 1
+   0x1420efc0c: 1 draws, bounds 1
+   tile grid: captures\Monastery of the Keepers - ChayulaLeague - 1182115772\truth_5104f3013f0.tsv (30x36, 1080 cells) VERIFIED against tile hash 739522572
+   walkable field: captures\Monastery of the Keepers - ChayulaLeague - 1182115772\walkable_5104f3013f0_melee.png (11.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.989; 2 layer(s) read; stored for the grid as walkable_5104f3013f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Monastery of the Keepers - ChayulaLeague - 1182115772\minimap.png

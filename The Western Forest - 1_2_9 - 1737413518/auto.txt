@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2044947465 doodad hash 938155651 (CLI_ACTIVATE_MAP)
+AUTO seed 1737413518 The Western Forest: terrain act2/area9/ graph macro_bandit_camp1_1_2.tgr (2 locked nodes match; capture 39 nodes, graph 25)
+   typed nodes never placed by the client (untilised): [0, 1, 4, 5, 13, 14, 15, 16, 17, 18]
+   node pipeline: pre-pick words 4, vaal_pending False, hideout_claim False: free nodes 11/11 match
+   tile grid: captures\The Western Forest - 1_2_9 - 1737413518\truth_3dbe8ca1bf0.tsv (102x81, 8262 cells) VERIFIED against tile hash 2044947465
+   walkable field: captures\The Western Forest - 1_2_9 - 1737413518\walkable_3dbe8ca1bf0_melee.png (27.1% of the sub-cells walkable, matches the tiles' hull field at IoU 0.992; 2 layer(s) read; stored for the grid as walkable_3dbe8ca1bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Western Forest - 1_2_9 - 1737413518\minimap.png
+   FAIL: permute-in 16/16, permute-out 16/16, rounder-in-1 16/16, rounder-in-2 16/16, rounder-in-3 17/19, rounder-in-4 17/19, rounder-in-5 11/19, rounder-in-6 16/19
+   layout: captures\The Western Forest - 1_2_9 - 1737413518\layout.png; minimap captures\The Western Forest - 1_2_9 - 1737413518\minimap.png
+   corpus row appended

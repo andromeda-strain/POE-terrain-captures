@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1593346562 doodad hash 1678361381 (CLI_ACTIVATE_MAP)
+AUTO seed 2586840265 The Southern Forest: terrain act2/area1/ graph macro_forest_intro_waypoint.tgr (7 locked nodes match; capture 29 nodes, graph 19)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 8, 10, 14, 17, 18]
+   node pipeline: pre-pick words 0, vaal_pending False, hideout_claim False: free nodes 6/6 match
+   tile grid: captures\The Southern Forest - 1_2_1 - 2586840265\truth_343e759b3f0.tsv (51x84, 4284 cells) VERIFIED against tile hash 1593346562
+   walkable field: captures\The Southern Forest - 1_2_1 - 2586840265\walkable_343e759b3f0_melee.png (14.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.534; 4 layer(s) read; stored for the grid as walkable_343e759b3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Southern Forest - 1_2_1 - 2586840265\minimap.png
+   PASS: permute-in 13/13, permute-out 13/13, rounder-in-1 13/13, rounder-in-2 13/13, rounder-in-3 18/18, rounder-in-4 18/18, rounder-in-5 18/18
+   layout: captures\The Southern Forest - 1_2_1 - 2586840265\layout.png; minimap captures\The Southern Forest - 1_2_1 - 2586840265\minimap.png
+   corpus row appended

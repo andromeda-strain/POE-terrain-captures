@@ -1,0 +1,24 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act7/Area1/Rooms/broken_bridge.arm	74	38	1	node	default entrance1
+0	Metadata/Terrain/Act7/Area1/Rooms/bridge_transition_main.arm	10	21	0	node	entrance2
+0	Metadata/Terrain/Act7/Area1/Rooms/flow_sink_weak.arm	30	6	0	node	
+0	Metadata/Terrain/Act7/Area1/Rooms/waypoint_broken.arm	47	49	4	node	
+0	Metadata/Terrain/Act7/Area1/Rooms/manor.arm	41	56	0	node	
+0	Metadata/Terrain/Act7/Area1/Rooms/flow_sink_1.arm	86	75	5	node	
+0	Metadata/Terrain/Act7/Area1/Rooms/flow_source_1.arm	51	9	2	node	
+0	Metadata/Terrain/Act7/Area1/Rooms/flow_source_weak.arm	62	77	4	node	
+0	Metadata/Terrain/Act7/Area1/Rooms/flow_source_weak.arm	58	77	7	node	
+0	Metadata/Terrain/Act7/Area1/Rooms/flow_sink_weak.arm	32	6	6	node	
+0	Metadata/Terrain/Act7/Area1/Rooms/flow_source_weak.arm	52	77	0	node	
+0	Metadata/Terrain/Act7/Area1/Rooms/flow_sink_weak.arm	28	6	1	node	
+0	Metadata/Terrain/Act7/Area1/Rooms/tent3.arm	10	9	2	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_5a.arm	22	20	6	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_5a.arm	37	30	7	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_3a.arm	19	35	0	fill	
+0	Metadata/Terrain/Act7/Area1/Rooms/tent3.arm	9	41	2	fill	
+0	Metadata/Terrain/Act7/Area1/Rooms/tent_camp_1b.arm	54	41	1	fill	
+0	Metadata/Terrain/Act7/Area1/Rooms/tent2.arm	22	42	1	fill	
+0	Metadata/Terrain/Act7/Area1/Rooms/tent3.arm	47	44	3	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_6a.arm	30	49	4	fill	
+0	Metadata/Terrain/Act7/Area1/Rooms/tent_camp_1b.arm	10	51	2	fill	
+0	Metadata/Terrain/Act7/Area1/Rooms/tent_camp_1b.arm	6	56	4	fill	

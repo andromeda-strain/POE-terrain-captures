@@ -1,12 +1,12 @@
 truth	truth_3dbc0f173f0.tsv
 layer	ranged
-source	walk_2
-read	2026-11-01 22:10:34
+source	walk_1
+read	2026-11-04 10:59:19
 width	483
 height	667
 stride	242
-base	0x42181a80000
-origin	0x110010
+base	0x4c6cb230000
+origin	0x3d0010
 score	0.9885
 iou_melee	0.2752
 iou_ranged	0.9885

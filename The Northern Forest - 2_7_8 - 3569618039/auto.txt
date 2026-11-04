@@ -1,0 +1,4 @@
+KNOWN The Northern Forest [2_7_8] seed 3569618039: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain act7/area8/, tile hash 3527937857 (1 of 1 rows), last capture captures/The Northern Forest - 2_7_8 - 3569618039/stages_20261104_103658.csv (DIFF)
+   this load's tile hash 3527937857 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\The Northern Forest - 2_7_8 - 3569618039\truth_343b86f1bf0.tsv): captures\The Northern Forest - 2_7_8 - 3569618039\minimap.png

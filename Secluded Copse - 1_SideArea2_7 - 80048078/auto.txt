@@ -1,0 +1,22 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 350385503 doodad hash 840568699 (CLI_ACTIVATE_MAP)
+AUTO seed 80048078 Secluded Copse: dungeon area (capture captures/Secluded Copse - 1_SideArea2_7 - 80048078/stages_20261104_103730.csv)
+   dungeon (.dgr) pipeline: 776 draws in 15 call sites (3 generator draws before it, 2793 after it - the post passes); no generator model yet
+   0x14203a8e0: 1 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 1
+   0x1420fd32a: 13 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 31 draws, bounds 28
+   0x142001ee5: 5 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 4 draws, bounds 12,53,2048
+   0x14210871c: 4 draws, bounds 840
+   0x1420ff711: 1 draws, bounds 3
+   0x1420ff72b: 1 draws, bounds 3
+   0x1420efc0c: 195 draws, bounds 2,4,18,20,22
+   0x1420f6875: 55 draws, bounds 18,20,22
+   0x141febf93: 231 draws, bounds 1
+   0x141febfcf: 231 draws, bounds 8
+   tile grid: captures\Secluded Copse - 1_SideArea2_7 - 80048078\truth_343e75953f0.tsv (39x31, 1209 cells) VERIFIED against tile hash 350385503
+   walkable field: captures\Secluded Copse - 1_SideArea2_7 - 80048078\walkable_343e75953f0_melee.png (14.8% of the sub-cells walkable, matches the tiles' hull field at IoU 0.995; 2 layer(s) read; stored for the grid as walkable_343e75953f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Secluded Copse - 1_SideArea2_7 - 80048078\minimap.png

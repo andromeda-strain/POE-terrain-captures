@@ -1,0 +1,4 @@
+KNOWN Reef [MapWorldsReef] seed 4263329148: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain endgame/mapshipgraveyard/, tile hash 2986147481 (1 of 1 rows), last capture captures/Reef - MapWorldsReef - 4263329148/stages_20261103_222510.csv (DIFF)
+   this load's tile hash 2986147481 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Reef - MapWorldsReef - 4263329148\truth_51019bc23f0.tsv): captures\Reef - MapWorldsReef - 4263329148\minimap.png

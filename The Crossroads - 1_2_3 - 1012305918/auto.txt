@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1021925876 doodad hash 2960040675 (CLI_ACTIVATE_MAP)
+AUTO seed 1012305918 The Crossroads: terrain act2/area3/ graph macro_crossroads.tgr (16 locked nodes match; capture 89 nodes, graph 53)
+   typed nodes never placed by the client (untilised): [1, 2, 3, 4, 5, 9, 11, 17, 18, 19, 20, 21, 22, 24, 31, 32, 33, 38, 41, 42, 44, 50, 51]
+   node pipeline: pre-pick words 2, vaal_pending False, hideout_claim False: free nodes 16/16 match
+   tile grid: captures\The Crossroads - 1_2_3 - 1012305918\truth_4c6c9b293f0.tsv (81x78, 6318 cells) VERIFIED against tile hash 1021925876
+   walkable field: captures\The Crossroads - 1_2_3 - 1012305918\walkable_4c6c9b293f0_melee.png (26.4% of the sub-cells walkable, matches the tiles' hull field at IoU 0.660; 2 layer(s) read; stored for the grid as walkable_4c6c9b293f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Crossroads - 1_2_3 - 1012305918\minimap.png
+   FAIL: permute-in 44/44, permute-out 44/44, rounder-in-1 44/44, rounder-in-2 44/44, rounder-in-3 56/58, rounder-in-4 56/58, rounder-in-5 26/58, rounder-in-6 49/58
+   layout: captures\The Crossroads - 1_2_3 - 1012305918\layout.png; minimap captures\The Crossroads - 1_2_3 - 1012305918\minimap.png
+   corpus row appended

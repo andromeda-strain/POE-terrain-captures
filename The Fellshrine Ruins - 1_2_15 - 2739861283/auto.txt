@@ -1,0 +1,16 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2064371444 doodad hash 170196877 (CLI_ACTIVATE_MAP)
+AUTO seed 2739861283 The Fellshrine Ruins: terrain act2/area15/ graph macro_ruins.tgr (12 locked nodes match; capture 46 nodes, graph 28)
+   truth offset (0, 18) (the .tgr subgraph rect inside the level)
+   typed nodes never placed by the client (untilised): [2, 8, 9, 10, 11, 12, 13, 14, 16, 17, 19, 20, 21, 22, 24, 25, 26]
+   node pipeline: pre-pick words 8, vaal_pending False, hideout_claim False: free nodes 5/7 match
+   deletion candidates: certain [2, 8, 9, 20], uncertain [17, 19]; 1 option(s) for -18 deleted node(s)
+   removed nodes [2, 8, 9, 20], pre-mover words 0: free nodes 0/7 match (legacy fit)
+   tile grid: captures\The Fellshrine Ruins - 1_2_15 - 2739861283\truth_4c6c96253f0.tsv (69x129, 8901 cells) VERIFIED against tile hash 2064371444
+   walkable field: captures\The Fellshrine Ruins - 1_2_15 - 2739861283\walkable_4c6c96253f0_melee.png (36.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.592; 4 layer(s) read; stored for the grid as walkable_4c6c96253f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Fellshrine Ruins - 1_2_15 - 2739861283\minimap.png
+   FAIL: permute-in 0/23 ERROR RuntimeError: Could not permute edges: 9
+   layout: not rendered: "D:\repos\POE 3.29.3b\Work\tools\permute.py", line 269, in permute
+    raise RuntimeError('Could not permute edges: ' + ', '.join(str(e.label) for e in again))
+RuntimeError: Could not permute edges: 9; minimap captures\The Fellshrine Ruins - 1_2_15 - 2739861283\minimap.png
+   corpus row appended

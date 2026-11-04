@@ -1,66 +1,5 @@
 type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
-Metadata/Characters/StrInt/StrInt	655	249	0.000 rad	2448909918	2_11_endgame_town					
-Metadata/NPC/Epilogue/HelenaIntro	602	265	0.903 rad	1536629249	2_11_endgame_town					
-Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockKaruiRackNoHelena	550	378	6.248 rad	4102048003	2_11_endgame_town	3	-24.000			
-Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolMapPortal	968	924	6.021 rad	2708616267	2_11_endgame_town					
-Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolMapPortal	946	947	4.887 rad	2708616267	2_11_endgame_town					
-Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolMapPortal	998	931	0.750 rad	2708616267	2_11_endgame_town					
-Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolMapDevice	977	954	0.733 rad	277486716	2_11_endgame_town					
-Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolGoalMarkerLeft	939	945	1.745 rad	3517923225	2_11_endgame_town					
-Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolActivationMarker	957	932	2.251 rad	1460769265	2_11_endgame_town					
-Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolGoalMarkerRight	1003	925	3.840 rad	4055946376	2_11_endgame_town					
-Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolGoalMarkerCentre	966	917	2.862 rad	3525269677	2_11_endgame_town					
-Metadata/NPC/League/Expedition/TownDoodadSaga	324	383	0.575 rad	1013622912	2_11_endgame_town	-2	16.250			
-Metadata/NPC/League/Expedition/TownDoodadSaga	327	382	4.480 rad	1013622912	2_11_endgame_town	-4	31.250			
-Metadata/NPC/League/Expedition/Saga	326	398	4.073 rad	2589473623	2_11_endgame_town					
-Object: Metadata/NPC/Blocker	326	398	4.073 rad	1980547395	2_11_endgame_town					
-Metadata/NPC/League/Expedition/TownDoodadSaga	335	391	2.560 rad	1013622912	2_11_endgame_town	4	-35.000			
-Metadata/NPC/League/Expedition/Haggler	299	390	2.594 rad	20954719	2_11_endgame_town					
-Object: Metadata/NPC/Blocker	299	390	2.594 rad	1980547395	2_11_endgame_town					
-Metadata/NPC/League/Expedition/Gambler	311	385	3.806 rad	13004121	2_11_endgame_town					
-Object: Metadata/NPC/Blocker	311	385	3.806 rad	1980547395	2_11_endgame_town					
-Metadata/NPC/League/Expedition/TownDoodadGwennen	318	385	2.245 rad	3935977174	2_11_endgame_town	3	-29.000			
-Metadata/NPC/League/Expedition/TownDoodadGwennen	320	386	5.272 rad	3935977174	2_11_endgame_town	4	-34.375			
-Metadata/NPC/League/Expedition/TownDoodadHaggler	285	378	0.224 rad	500414267	2_11_endgame_town	-1	9.062			
-Metadata/NPC/League/Expedition/TownDoodadHaggler	281	380	2.789 rad	500414267	2_11_endgame_town	-2	21.250			
-Metadata/NPC/League/Expedition/TownDoodadDealer	283	386	6.013 rad	1558386669	2_11_endgame_town	-3	23.438			
-Metadata/NPC/League/Expedition/TownDoodadHaggler	294	386	1.278 rad	500414267	2_11_endgame_town					
-Metadata/NPC/League/Expedition/Dealer	295	404	1.529 rad	1454344138	2_11_endgame_town					
-Object: Metadata/NPC/Blocker	295	404	1.529 rad	1980547395	2_11_endgame_town					
-Metadata/NPC/League/Expedition/TownDoodadDealer	280	395	4.454 rad	1558386669	2_11_endgame_town					
-Metadata/NPC/League/Expedition/TownDoodadDealer	294	395	0.000 rad	1558386669	2_11_endgame_town	0	2.812			
-Object: Metadata/NPC/Blocker	290	423	1.028 rad	1980547395	2_11_endgame_town					
-Metadata/NPC/League/Expedition/TownStash	290	423	1.028 rad	3348576580	2_11_endgame_town					
-Metadata/NPC/Epilogue/Lilly	278	458	0.499 rad	2308463683	2_11_endgame_town	25	-202.500			
-Metadata/NPC/League/Expedition/TownDoodadDealer	275	390	5.374 rad	1558386669	2_11_endgame_town	-3	25.625			
-Metadata/NPC/Epilogue/HelenaIntro	602	265	0.903 rad	1536629249	2_11_endgame_town					
-Metadata/NPC/League/Delve/DelveMiner	728	637	5.299 rad	2089339921	2_11_endgame_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	807	707	4.708 rad	1285951471	2_11_endgame_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	808	691	4.681 rad	1285951471	2_11_endgame_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	807	721	4.743 rad	1285951471	2_11_endgame_town					
-Metadata/NPC/League/Betrayal/BetrayalNinjaCop	832	750	0.871 rad	4157275625	2_11_endgame_town					
-Metadata/NPC/League/Incursion/TreasureHunter	843	738	4.147 rad	4064182530	2_11_endgame_town					
-Metadata/NPC/League/Blight/BlightBuilder	852	661	1.533 rad	2306110952	2_11_endgame_town					
-Metadata/NPC/League/Metamorphosis/MetamorphosisNPC	934	618	4.995 rad	4195779126	2_11_endgame_town					
-Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	762	780	4.712 rad	2564365857	2_11_endgame_town					
-Metadata/NPC/Epilogue/Kirac	878	767	3.962 rad	3612673795	2_11_endgame_town					
-Metadata/Terrain/Act11/Camp/Objects/AtlasVaultEntranceDoor	954	517	3.142 rad	3227380936	2_11_endgame_town	24	-187.500			
-Metadata/NPC/Epilogue/Helena	863	788	0.564 rad	2371224320	2_11_endgame_town					
-Metadata/NPC/League/Bestiary/Einhar	710	807	0.381 rad	3494584835	2_11_endgame_town					
-Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	701	835	0.005 rad	688764747	2_11_endgame_town					
-Object: Metadata/MiscellaneousObjects/NoticeBoard	747	841	6.175 rad	1669564304	2_11_endgame_town					
-Metadata/NPC/League/Kalguur/VillageFaustusTown	778	838	1.287 rad	3922154524	2_11_endgame_town					
-Object: Metadata/MiscellaneousObjects/Waypoint	810	831	5.498 rad	552129418	2_11_endgame_town					
-Object: Metadata/MiscellaneousObjects/Stash	835	839	5.498 rad	2817685266	2_11_endgame_town					
-Metadata/NPC/League/Kalguur/VillageMayorTown	778	851	0.830 rad	168633771	2_11_endgame_town					
-Metadata/NPC/Epilogue/Lani	804	870	5.928 rad	1169943186	2_11_endgame_town					
-Metadata/Characters/DexInt/DexInt	886	861	2.404 rad	3989868005	2_11_endgame_town					
-Object: Metadata/QuestObjects/MapRoom/Orrery	977	862	0.000 rad	850933355	2_11_endgame_town	-40	312.500			
-Object: Metadata/MiscellaneousObjects/MapDevice	953	862	0.000 rad	561515709	2_11_endgame_town	-28	220.307			
-Metadata/NPC/Epilogue/Weylam	793	876	5.404 rad	154974220	2_11_endgame_town					
-Metadata/Terrain/Act11/Camp/Objects/AtlasVaultDoor_01	1046	575	0.000 rad	2892806753	2_11_endgame_town	24	-187.500			
-Metadata/Chests/AtlasPass/AtlasPassChest_01	1046	626	0.000 rad	2231727392	2_11_endgame_town					
-Metadata/Characters/StrDexInt/StrDexInt	949	867	2.356 rad	1086455624	2_11_endgame_town					
+Metadata/Characters/Int/Int	810	831	2.269 rad	2621544766	2_11_endgame_town					
 Metadata/Characters/StrInt/StrInt	810	831	2.269 rad	2448909918	2_11_endgame_town					
 Metadata/NPC/League/Metamorphosis/MetamorphosisNPC	934	618	4.995 rad	4195779126	2_11_endgame_town					
 Metadata/NPC/League/Delve/DelveMiner	728	637	5.299 rad	2089339921	2_11_endgame_town					
@@ -75,9 +14,11 @@ Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	762	780	4.712 rad	2
 Metadata/NPC/Epilogue/Kirac	878	767	3.962 rad	3612673795	2_11_endgame_town					
 Metadata/NPC/Epilogue/Helena	863	788	0.564 rad	2371224320	2_11_endgame_town					
 Metadata/NPC/League/Bestiary/Einhar	710	807	0.381 rad	3494584835	2_11_endgame_town					
+Metadata/Pet/DriftLurker/DriftLurker	810	820	0.000 rad	3337600918	2_11_endgame_town					
 Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	701	835	0.005 rad	688764747	2_11_endgame_town					
 Object: Metadata/MiscellaneousObjects/NoticeBoard	747	841	6.175 rad	1669564304	2_11_endgame_town					
 Metadata/NPC/League/Kalguur/VillageFaustusTown	778	838	1.287 rad	3922154524	2_11_endgame_town					
+Metadata/Pet/BreachHandSpider/BreachHandSpider	799	849	3.142 rad	3695598681	2_11_endgame_town					
 Object: Metadata/MiscellaneousObjects/Waypoint	810	831	5.498 rad	552129418	2_11_endgame_town					
 Object: Metadata/MiscellaneousObjects/Stash	835	839	5.498 rad	2817685266	2_11_endgame_town					
 Metadata/NPC/League/Kalguur/VillageMayorTown	778	851	0.830 rad	168633771	2_11_endgame_town					
@@ -93,10 +34,9 @@ Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolMapPortal	998	931	0.750 rad	27086
 Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolGoalMarkerLeft	939	945	1.745 rad	3517923225	2_11_endgame_town					
 Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolMapPortal	946	947	4.887 rad	2708616267	2_11_endgame_town					
 Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolMapDevice	977	954	0.733 rad	277486716	2_11_endgame_town					
-Metadata/Characters/Str/Str	832	833	2.678 rad	3618279525	2_11_endgame_town					
-Metadata/Characters/Str/Str	810	831	2.269 rad	3618279525	2_11_endgame_town					
-Metadata/Characters/Int/Int	946	855	2.269 rad	2621544766	2_11_endgame_town					
-Metadata/Characters/StrInt/StrInt	810	831	2.269 rad	2448909918	2_11_endgame_town					
+Metadata/Characters/DexInt/DexInt	810	831	2.269 rad	3989868005	2_11_endgame_town					
+Metadata/Characters/StrDexInt/StrDexInt	810	831	5.498 rad	1086455624	2_11_endgame_town					
+Metadata/Characters/StrInt/StrInt	810	831	5.498 rad	2448909918	2_11_endgame_town					
 Metadata/NPC/League/Metamorphosis/MetamorphosisNPC	934	618	4.995 rad	4195779126	2_11_endgame_town					
 Metadata/NPC/League/Delve/DelveMiner	728	637	5.299 rad	2089339921	2_11_endgame_town					
 Metadata/Chests/AtlasPass/AtlasPassChest_01	1046	626	0.000 rad	2231727392	2_11_endgame_town					
@@ -114,6 +54,7 @@ Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	701	835	0.005 rad	688764747
 Object: Metadata/MiscellaneousObjects/NoticeBoard	747	841	6.175 rad	1669564304	2_11_endgame_town					
 Metadata/NPC/League/Kalguur/VillageFaustusTown	778	838	1.287 rad	3922154524	2_11_endgame_town					
 Object: Metadata/MiscellaneousObjects/Waypoint	810	831	5.498 rad	552129418	2_11_endgame_town					
+Object: Metadata/Effects/ServerEffect	810	831	0.000 rad	2646652649	2_11_endgame_town					
 Object: Metadata/MiscellaneousObjects/Stash	835	839	5.498 rad	2817685266	2_11_endgame_town					
 Metadata/NPC/League/Kalguur/VillageMayorTown	778	851	0.830 rad	168633771	2_11_endgame_town					
 Metadata/NPC/Epilogue/Lani	804	870	5.928 rad	1169943186	2_11_endgame_town					

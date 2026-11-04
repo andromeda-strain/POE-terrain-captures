@@ -1,0 +1,11 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act7/Area8/Rooms/inca_twist_2.arm	30	9	0	node	
+0	Metadata/Terrain/Act7/Area8/Rooms/dune_join_forest_cliff.arm	18	12	1	node	
+0	Metadata/Terrain/Act7/Area8/Rooms/grove_twist.arm	9	18	0	node	entrance2
+0	Metadata/Terrain/Act7/Area8/Rooms/waypoint_river_1.arm	39	24	3	node	default entrance1disabled
+0	Metadata/Terrain/Act7/Area8/Rooms/exit_1.arm	33	81	0	node	entrance3
+0	Metadata/Terrain/Act7/Area8/Rooms/cross_1.arm	15	30	0	node	
+0	Metadata/Terrain/Act7/Area8/Rooms/azmeri_quest_shrine.arm	24	36	6	node	
+0	Metadata/Terrain/Act7/Area8/Rooms/boss_rootspider_3.arm	21	63	7	node	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_2.arm	31	42	0	fill	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_1.arm	27	75	2	fill	

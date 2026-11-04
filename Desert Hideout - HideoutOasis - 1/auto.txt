@@ -1,6 +1,6 @@
 KNOWN Desert Hideout [HideoutOasis] seed 1: 2 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
    generator dgr, terrain -, tile hash 3903144892 (2 of 2 rows), last capture captures/Desert Hideout - HideoutOasis - 1/stages_20261002_210335.csv (dungeon trace)
    this load's tile hash 3903144892 (CLI_ACTIVATE_MAP): the same level as the stored grid
-   walkable field: none of the 3 layer(s) read is this area's (each below IoU 0.5 against the tiles' hull field)
+   walkable field: only the ranged layer among the 3 layer(s) read is this area's; stored for the grid as walkable_53dfed5f3f0_{ranged}.png/.bin/.tsv; the map is not drawn with it
    walkable field: captures\Desert Hideout - HideoutOasis - 1\hull_ranged.png composed from the tiles' hull planes (97.0% of the sub-cells walkable, agrees with the grid on 82.2% of the cells; the placed objects' hulls are not in it)
    minimap (the stored grid captures\Desert Hideout - HideoutOasis - 1\truth_53dfed5f3f0.tsv): captures\Desert Hideout - HideoutOasis - 1\minimap.png

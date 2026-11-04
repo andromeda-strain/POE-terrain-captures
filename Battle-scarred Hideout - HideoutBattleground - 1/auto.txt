@@ -1,5 +1,4 @@
 KNOWN Battle-scarred Hideout [HideoutBattleground] seed 1: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
    generator dgr, terrain -, tile hash 2479215559 (1 of 1 rows), last capture captures/Battle-scarred Hideout - HideoutBattleground - 1/stages_20261005_162451.csv (dungeon trace)
    this load's tile hash 2479215559 (CLI_ACTIVATE_MAP): the same level as the stored grid
-   walkable field: captures\Battle-scarred Hideout - HideoutBattleground - 1\walkable_20df5037bf0_melee.png (8.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.705; 4 layer(s) read; stored for the grid as walkable_20df5037bf0_{melee,ranged}.png/.bin/.tsv)
-   minimap (rendered from the stored grid captures\Battle-scarred Hideout - HideoutBattleground - 1\truth_20df5037bf0.tsv with the walkable field walkable_20df5037bf0_melee.png (matches the tiles' hull field at IoU 0.705)): captures\Battle-scarred Hideout - HideoutBattleground - 1\minimap.png
+   minimap (the stored grid captures\Battle-scarred Hideout - HideoutBattleground - 1\truth_20df5037bf0.tsv): captures\Battle-scarred Hideout - HideoutBattleground - 1\minimap.png

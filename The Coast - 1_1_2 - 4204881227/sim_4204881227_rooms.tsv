@@ -1,0 +1,30 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act1/Area2/Rooms/town_entrance_exclude.arm	9	12	0	node	default entrance1
+0	Metadata/Terrain/Leagues/Deepwater/Act1_Coast/Rooms/toisland.arm	54	9	3	node	entrance2 entrance3
+0	Metadata/Terrain/Act1/Area2/Rooms/block_ledge.arm	27	21	0	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/block_ledge_stairs.arm	45	24	5	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/smcliff_to_lgcliffvalley.arm	36	39	4	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/stairs_high.arm	51	45	4	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/ledge_up.arm	9	39	0	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/smcliff_to_lgcliffvalley.arm	21	33	0	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/scavenger_camp_2a.arm	42	46	4	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	18	25	3	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	75	28	6	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire5.arm	48	30	4	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire5.arm	52	30	5	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	49	34	0	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire1.arm	51	34	5	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire4.arm	56	35	2	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire4.arm	59	36	2	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	18	39	1	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	43	39	6	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	46	41	7	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire3.arm	16	42	5	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	49	47	2	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire4.arm	14	48	5	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire4.arm	39	48	7	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	51	48	6	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	9	51	2	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	45	52	4	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	47	52	7	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/Overlays/beach_shore_Cv_02.arm	24	18	0	overlay	

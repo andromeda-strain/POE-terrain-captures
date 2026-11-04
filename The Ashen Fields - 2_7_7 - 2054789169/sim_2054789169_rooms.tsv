@@ -1,0 +1,26 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act7/Area7/Rooms/town_entrance.arm	12	21	3	node	telepad2 teleport1-ArenaNameRalakesh telepad1 teleport2-%areaname% entrance2disabled bosszone=2-ArenaNameRalakesh
+0	Metadata/Terrain/Act7/Area7/Rooms/road_gate_entrance.arm	72	14	3	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/cave_entrance.arm	62	22	0	node	entrance1 default
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burningriver.arm	45	30	0	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burningroad.arm	50	22	5	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_1.arm	45	6	2	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burningroad2.arm	32	26	1	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/doorcliffburning.arm	36	15	2	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burningroad2.arm	59	18	3	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/waypoint.arm	64	18	0	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burningroad2.arm	42	23	7	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/deep_source.arm	60	41	4	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/low_sink.arm	12	6	7	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields8_1.arm	72	6	0	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields7_3.arm	74	9	1	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields7_3.arm	72	11	7	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill1.arm	45	12	3	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields6_3.arm	58	12	4	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill1.arm	50	15	2	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields8_1.arm	74	17	2	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields7_3.arm	71	20	0	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields6_2.arm	65	21	5	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill5.arm	39	24	1	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields8_1.arm	32	34	0	fill	
+0	Metadata/Shrines/forest_01.arm	47	16	4	pass	
