@@ -1,0 +1,35 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/traverse_02.arm	45	12	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/entrance1_01.arm	12	9	2	node	default entrance1
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/entrance2_01.arm	39	60	0	node	entrance2
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Whale/NewKaomWhale_01.arm	30	15	3	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/ramp_01.arm	12	24	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/connection_02.arm	54	24	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/connection_01.arm	36	15	3	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/traverse_04.arm	54	36	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/ramp_02.arm	39	48	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/ramp_03.arm	15	54	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/boss_02.arm	39	33	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Whale/NewKaomWhale_05.arm	15	33	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/lava_01.arm	30	51	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/lava_02.arm	27	66	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/lava_03.arm	12	45	6	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/carving2_06.arm	26	59	3	node	unique1
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/lava_04.arm	54	48	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Whale/NewKaomWhale_03.arm	22	24	3	node	unique2
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Whale/NewKaomWhale_07.arm	21	45	3	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/boss_01.arm	30	42	6	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/kaom1_rock_sparse_9.arm	26	18	7	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/kaom1_rock_sparse_8.arm	18	29	3	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/kaom1_rock_sparse_8.arm	27	30	7	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/kaom1_rock_sparse_7.arm	31	30	7	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/kaom1_rock_sparse_4.arm	34	30	2	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/kaom1_rock_sparse_9.arm	24	39	1	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/rock_clumps_9.arm	36	39	3	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/kaom1_rock_sparse_9.arm	27	41	5	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/kaom1_rock_sparse_9.arm	36	42	2	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/kaom1_rock_clumps_3.arm	21	57	5	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/rock_clumps_9.arm	34	57	7	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/kaom1_rock_sparse_9.arm	21	65	5	fill	
+0	Metadata/Terrain/Leagues/Mercenaries/TerrainFeatures/Witch1.arm	34	54	0	pass	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_BrinerotStores_01.arm	21	21	0	pass	

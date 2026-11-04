@@ -1,0 +1,23 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/endcap.arm	15	6	1	node	
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/endcap2.arm	54	51	7	node	
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/entrance_1.arm	24	6	0	node	default
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/boss_1.arm	27	66	3	node	teleport1-%areaname% telepad2 teleport2-Arena telepad1 killzone=5
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/Fills/bananas_1_1.arm	25	19	6	fill	
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/Fills/bananas_1_2.arm	28	20	3	fill	
+0	Metadata/Terrain/Leagues/Expedition/encounter.arm	27	23	0	pass	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	25	63	0	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	39	38	0	pass	
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/Overlays/beach_virtual_Cv_03.arm	39	21	5	overlay	
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/Overlays/beach_virtual_Cv_03.arm	45	30	5	overlay	
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/Overlays/beach_virtual_St_03.arm	42	36	1	overlay	
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/Overlays/beach_deep_Cv_01.arm	45	60	5	overlay	
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/Overlays/beach_deep_Cv_01.arm	39	9	0	overlay	
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/Overlays/beach_deep_St_02.arm	30	6	0	overlay	
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/Overlays/beach_deep_St_02.arm	42	51	1	overlay	
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/Overlays/beach_deep_St_03.arm	39	15	1	overlay	
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/Overlays/beach_deep_St_04.arm	45	45	1	overlay	
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/Overlays/beach_deep_St_05.arm	42	27	5	overlay	
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/Overlays/beach_shore_St_01.arm	36	63	0	overlay	
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/Overlays/beach_shore_St_01.arm	36	18	5	overlay	
+0	Metadata/Terrain/EndGame/MapBeach2/Rooms/Overlays/beach_shore_St_01.arm	33	57	5	overlay	

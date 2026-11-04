@@ -1,0 +1,13 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act7/Area8/Rooms/inca_twist_2.arm	42	12	0	node	
+0	Metadata/Terrain/Act7/Area8/Rooms/waypoint_river_1.arm	33	33	3	node	default entrance1disabled
+0	Metadata/Terrain/Act7/Area8/Rooms/exit_1.arm	30	72	0	node	entrance3
+0	Metadata/Terrain/Act7/Area8/Rooms/dune_join_forest_cliff.arm	12	39	0	node	
+0	Metadata/Terrain/Act7/Area8/Rooms/grove_twist.arm	9	60	0	node	entrance2
+0	Metadata/Terrain/Act7/Area8/Rooms/thickforest_river_join.arm	24	60	3	node	
+0	Metadata/Terrain/Act7/Area8/Rooms/boss_rootspider.arm	18	27	4	node	
+0	Metadata/Terrain/Act7/Area8/Rooms/azmeri_quest_shrine.arm	6	48	5	node	
+0	Metadata/Terrain/Act7/Area8/Rooms/thickforest_river_join.arm	30	54	7	node	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	21	63	0	pass	
+0	Metadata/Terrain/Leagues/Breach/brequel_established.arm	16	19	0	pass	
+0	Metadata/Shrines/forest_01.arm	15	31	3	pass	

@@ -1,0 +1,21 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act6/Area9/Rooms/tunnel_entrance.arm	81	57	4	node	entrance2
+0	Metadata/Terrain/Act6/Area9/Rooms/passageblock.arm	6	33	6	node	default entrance1 killzone=7
+0	Metadata/Terrain/Act6/Area9/Rooms/roadpath.arm	45	35	4	node	
+0	Metadata/Terrain/Act6/Area9/Rooms/waypoint.arm	71	44	0	node	
+0	Metadata/Terrain/Act6/Area9/Rooms/intbanditfight.arm	42	54	3	node	
+0	Metadata/Terrain/Act6/Area9/Rooms/spidergrove.arm	66	15	1	node	
+0	Metadata/Terrain/Act6/Area9/Rooms/spidercon_1.arm	57	21	4	node	
+0	Metadata/Terrain/Act6/Area9/Rooms/spidercon_1.arm	87	33	1	node	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_6a.arm	36	24	7	fill	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_2.arm	30	28	1	fill	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_1.arm	56	28	1	fill	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_1.arm	31	39	4	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_4a.arm	76	39	3	fill	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_1.arm	38	42	1	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_9a.arm	21	45	3	fill	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_2.arm	55	45	1	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_8a.arm	56	51	1	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_3a.arm	66	54	4	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	51	42	0	pass	
+0	Metadata/Terrain/Act6/Area9/Rooms/circlestones.arm	35	48	3	pass	

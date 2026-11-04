@@ -1,0 +1,30 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act9/Area4/Rooms/Unique/oasis_entire.arm	23	45	0	node	
+0	Metadata/Terrain/Act9/Area4/Rooms/Unique/entrance.arm	36	6	0	node	default entrance1
+0	Metadata/Terrain/Act9/Area4/Rooms/Unique/boss_entry.arm	39	66	3	node	telepad1 teleport2-ArenaNameShakari
+0	Metadata/Terrain/Act9/Area4/Rooms/Unique/sidearea_cliff.arm	9	57	1	node	sidearea2 accessible
+0	Metadata/Terrain/Act9/Area4/Rooms/Unique/Camps/camp.arm	30	63	5	node	
+0	Metadata/Terrain/Act9/Area4/Rooms/Unique/hideout_entrance.arm	9	21	5	node	link subarea=hideout
+0	Metadata/Terrain/Act9/Area4/Rooms/Unique/boss1.arm	63	33	3	node	telepad2 teleport1-%areaname% telepad3 teleport4-ArenaNameShakari3
+0	Metadata/Terrain/Act9/Area4/Rooms/Unique/boss2.arm	60	6	0	node	telepad4 teleport3-ArenaNameShakari
+0	Metadata/Terrain/Act9/Area4/Rooms/Unique/story_vault.arm	21	63	0	node	link subarea=BetrayalStoryVault
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/trees_1_1.arm	45	23	3	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/trees_1_3.arm	22	27	3	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/trees_1_3.arm	29	31	2	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/trees_1_1.arm	17	33	7	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_1.arm	21	41	4	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	31	41	2	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	26	43	2	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	35	43	4	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/blank_tent1.arm	12	46	5	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/trees_1_2.arm	32	47	4	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_1.arm	19	48	4	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	20	50	0	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_1.arm	20	52	2	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/trees_1_2.arm	42	52	6	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	33	53	1	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	38	53	4	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/trees_1_2.arm	26	54	7	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	22	55	0	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_1.arm	34	55	5	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_1.arm	33	58	7	fill	

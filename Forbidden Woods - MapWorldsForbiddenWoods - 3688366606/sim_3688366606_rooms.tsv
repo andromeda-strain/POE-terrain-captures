@@ -1,0 +1,13 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapColdWood/Rooms/entrance.arm	66	12	7	node	default killzone=5
+0	Metadata/Terrain/EndGame/MapColdWood/Rooms/boss_entrance.arm	36	45	0	node	telepad1 teleport2-Arena
+0	Metadata/Terrain/EndGame/MapColdWood/Rooms/boss_arena.arm	60	60	0	node	telepad2 teleport1-%areaname%
+0	Metadata/Terrain/EndGame/MapColdWood/Rooms/village_01.arm	39	21	0	node	
+0	Metadata/Terrain/EndGame/MapColdWood/Rooms/fill_04.arm	12	33	3	fill	
+0	Metadata/Terrain/EndGame/MapColdWood/Rooms/fill_05.arm	9	57	1	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_BrinerotStores_01.arm	60	22	0	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	46	39	0	pass	
+0	Metadata/Terrain/Leagues/Legion/legion_monolith.arm	38	15	7	pass	
+0	Metadata/Terrain/EndGame/MapColdWood/Rooms/Overlays/jut_01.arm	9	39	5	overlay	
+0	Metadata/Terrain/EndGame/MapColdWood/Rooms/Overlays/overlay_village_04.arm	27	21	1	overlay	
+0	Metadata/Terrain/EndGame/MapColdWood/Rooms/Overlays/jut_04.arm	18	27	6	overlay	

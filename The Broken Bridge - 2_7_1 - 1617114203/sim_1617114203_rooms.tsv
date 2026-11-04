@@ -1,0 +1,19 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act7/Area1/Rooms/broken_bridge.arm	55	12	1	node	default entrance1
+0	Metadata/Terrain/Act7/Area1/Rooms/bridge_transition_main.arm	8	44	0	node	entrance2
+0	Metadata/Terrain/Act7/Area1/Rooms/flow_source_1.arm	41	6	5	node	
+0	Metadata/Terrain/Act7/Area1/Rooms/waypoint_broken.arm	44	43	6	node	
+0	Metadata/Terrain/Act7/Area1/Rooms/manor.arm	39	50	0	node	
+0	Metadata/Terrain/Act7/Area1/Rooms/flow_sink_1.arm	68	71	3	node	
+0	Metadata/Terrain/Act7/Area1/Rooms/flow_sink_weak.arm	15	7	0	node	
+0	Metadata/Terrain/Act7/Area1/Rooms/flow_source_weak.arm	23	71	7	node	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_6a.arm	43	27	2	fill	
+0	Metadata/Terrain/Act7/Area1/Rooms/tent_camp_4b.arm	30	29	4	fill	
+0	Metadata/Terrain/Act2/Area4/Rooms/stronghold2.arm	19	32	0	fill	
+0	Metadata/Terrain/Act7/Area1/Rooms/tent1.arm	35	35	1	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_5a.arm	38	37	4	fill	
+0	Metadata/Terrain/Act7/Area1/Rooms/tent2.arm	47	48	2	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_8a.arm	53	49	4	fill	
+0	Metadata/Terrain/Act7/Area1/Rooms/tent3.arm	44	63	6	fill	
+0	Metadata/Terrain/Act7/Area1/Rooms/tent3.arm	53	63	5	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_CursedTreasure_01.arm	61	46	0	pass	

@@ -1,0 +1,8 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act4/SideAscent/Rooms/Unique/entrance_01.arm	21	21	2	node	default sideentrance
+0	Metadata/Terrain/Act4/SideAscent/Rooms/Unique/bridge_01.arm	18	51	6	node	
+0	Metadata/Terrain/Act4/SideAscent/Rooms/Unique/boss_01.arm	6	81	2	node	
+0	Metadata/Terrain/Act4/SideAscent/Rooms/Unique/stairs_01.arm	12	9	1	node	
+0	Metadata/Terrain/Act4/SideAscent/Rooms/Unique/stairs_02.arm	6	36	0	node	
+0	Metadata/Terrain/Act4/Area7/Rooms/Unique/shrine_1_1.arm	9	39	0	pass	
+0	Metadata/Terrain/Act4/Area7/Rooms/Unique/shrine_1_1.arm	9	81	0	pass	

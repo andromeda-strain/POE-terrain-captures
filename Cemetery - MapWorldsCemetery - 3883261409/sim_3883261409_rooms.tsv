@@ -1,0 +1,16 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/entrance_1.arm	14	38	0	node	default unique1
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/despair_boss.arm	60	6	0	node	telepad1 teleport2=%areaname% killzone=7
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/exit_1.arm	39	35	3	node	teleport1-Arena unique2 killzone=0 telepad2
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_3.arm	24	10	0	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_2.arm	21	26	1	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/stairs_1.arm	28	27	6	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/ledge_1.arm	25	31	4	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/walls_1.arm	30	32	5	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_1.arm	32	38	6	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_3.arm	38	41	0	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/ledge_1.arm	33	44	7	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	31	19	0	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	17	33	0	pass	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	33	28	4	pass	
+0	Metadata/Terrain/vaal_side_area.arm	32	23	0	pass	

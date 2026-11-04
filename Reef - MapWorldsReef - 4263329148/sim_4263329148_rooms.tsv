@@ -1,0 +1,9 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapShipGraveyard/Rooms/boss_tp_1.arm	42	21	6	node	teleport1-Arena telepad2
+0	Metadata/Terrain/EndGame/MapShipGraveyard/Rooms/entrance_1.arm	15	66	7	node	default
+0	Metadata/Terrain/EndGame/MapShipGraveyard/Rooms/boss_1.arm	60	63	0	node	telepad1 teleport2-%areaname%
+0	Metadata/Terrain/Leagues/Expedition/encounter.arm	27	63	0	pass	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_BrinerotStores_01.arm	22	36	0	pass	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	29	18	0	pass	
+0	Metadata/Terrain/Leagues/Settlers/Node/ore_node.arm	20	32	0	pass	
+0	Metadata/Terrain/vaal_side_area.arm	21	23	0	pass	

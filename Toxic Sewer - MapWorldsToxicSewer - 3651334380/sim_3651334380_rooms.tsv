@@ -1,0 +1,23 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Unique/map_entrance.arm	29	39	0	node	default
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Unique/map_boss_1.arm	4	4	3	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Unique/side_sewer_entrance_1.arm	34	9	3	node	sidearea accessible
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Pipe_dry_1x1/var_3.arm	34	24	2	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Pipe_dry_1x1/var_3.arm	14	44	0	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Pipe_dry_2x2/var_6_2_grass.arm	19	24	6	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Pipe_dry_2x2/var_2_1.arm	4	24	7	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Unique/mission_dry_04.arm	24	9	0	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Pipe_dry_1x1/var_3.arm	24	44	3	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Room_dry_1x1/var_3_grass.arm	19	44	6	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Pipe_dry_1x1/var_3.arm	24	39	6	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Pipe_dry_2x2/var_2_4_grass.arm	14	34	5	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Pipe_dry_2x2/var_2_4.arm	29	29	7	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Pipe_dry_1x1/var_7_grass.arm	29	24	5	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Pipe_dry_2x2/var_2_3_2.arm	14	14	6	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Pipe_dry_1x1/var_6.arm	14	24	3	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Unique/mission_dry_03.arm	9	19	1	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms_EndGame/Unique/mission_dry_03.arm	24	19	1	node	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	28	13	0	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_BrinerotStores_01.arm	10	20	0	fill	
+0	Metadata/Terrain/Leagues/Legion/legion_monolith.arm	25	20	1	fill	
+1	Metadata/Terrain/Leagues/Harvest/NightGarden/Rooms/garden.arm	60	5	0	node	default link

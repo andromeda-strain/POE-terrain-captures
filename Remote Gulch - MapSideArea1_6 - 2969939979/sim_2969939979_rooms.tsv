@@ -1,0 +1,5 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act1/SideCliff1/Rooms/entrance1.arm	6	6	0	node	default sideentrance
+0	Metadata/Terrain/Act1/SideCliff1/Rooms/boss.arm	54	6	6	node	
+0	Metadata/Terrain/Act1/Area6/Rooms/fill_ledge_down_3a.arm	18	9	2	fill	
+0	Metadata/Shrines/beach_01.arm	39	13	1	pass	

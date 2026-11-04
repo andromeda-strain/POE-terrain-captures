@@ -1,0 +1,21 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Unique/bossentry_01.arm	54	9	2	node	telepad1 teleport2-Arena killzone=0 zone=1
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Unique/entrance_01.arm	75	63	4	node	default
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Connections/gap_1.arm	72	30	4	node	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Unique/boss_01.arm	6	6	0	node	telepad2 teleport1-%areaname% zone=2
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Connections/gap_1.arm	42	27	0	node	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Connections/gap_1.arm	66	60	7	node	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Connections/gap_1.arm	60	72	3	node	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Fill/fill_01.arm	45	30	6	fill	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Fill/fill_05.arm	58	63	7	fill	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Fill/fill_01.arm	53	67	1	fill	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Fill/fill_02.arm	68	67	3	fill	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Fill/fill_04.arm	33	69	6	fill	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	30	71	4	pass	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	47	46	4	pass	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	45	39	4	pass	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	45	35	4	pass	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	40	66	4	pass	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	53	36	4	pass	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	50	35	4	pass	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Overlay/overlay_01.arm	63	33	3	overlay	

@@ -1,0 +1,12 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act1/Area3/Rooms/to_cave.arm	42	21	3	node	entrance2 killzone=4
+0	Metadata/Terrain/Act1/Area3/Rooms/to_coast.arm	9	42	3	node	default entrance1
+0	Metadata/Terrain/Act1/Area3/Rooms/4waypool2.arm	25	33	2	node	
+0	Metadata/Terrain/Act1/Area3/Rooms/3waypool2.arm	22	24	7	node	
+0	Metadata/Terrain/Act1/Area3/Rooms/2waypool1.arm	32	28	1	node	
+0	Metadata/Terrain/Act1/Area3/Rooms/transition.arm	36	39	2	node	entrance3 killzone=4
+0	Metadata/Terrain/Act1/Area3/Rooms/miniboss5.arm	24	51	4	node	
+0	Metadata/Terrain/Act1/Area3/Rooms/envline_start.arm	16	30	7	node	
+0	Metadata/Terrain/Beach/LargeCliffs/Rooms/fill_cliff_island_4a.arm	34	18	4	fill	
+0	Metadata/Terrain/Beach/LargeCliffs/Rooms/fill_cliff_island_1a.arm	15	26	3	fill	
+0	Metadata/Terrain/Beach/LargeCliffs/Rooms/fill_cliff_island_4a.arm	27	40	1	fill	

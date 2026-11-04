@@ -1,0 +1,12 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapDarkForest/Rooms/exit_1.arm	12	21	0	node	
+0	Metadata/Terrain/EndGame/MapDarkForest/Rooms/road_split_1.arm	42	21	0	node	
+0	Metadata/Terrain/EndGame/MapDarkForest/Rooms/boss_entrance.arm	45	36	3	node	teleport1-Arena telepad2 killzone=3
+0	Metadata/Terrain/EndGame/MapDarkForest/Rooms/thickforest_valley_1.arm	60	24	0	node	
+0	Metadata/Terrain/EndGame/MapDarkForest/Rooms/exit_1.arm	78	12	4	node	
+0	Metadata/Terrain/EndGame/MapDarkForest/Rooms/entrance_1.arm	21	15	0	node	default unique1
+0	Metadata/Terrain/EndGame/MapDarkForest/Rooms/boss_rigwald.arm	57	45	0	node	teleport2-%areaname% telepad1 killzone=20
+0	Metadata/Terrain/Leagues/Expedition/encounter.arm	39	20	0	pass	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_BrinerotStores_01.arm	58	9	0	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	16	11	0	pass	
+0	Metadata/Terrain/vaal_side_area.arm	40	32	0	pass	

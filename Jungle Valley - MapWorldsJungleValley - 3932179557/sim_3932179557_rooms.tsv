@@ -1,0 +1,13 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapForest2/Rooms/entrance_1.arm	6	6	0	node	default
+0	Metadata/Terrain/EndGame/MapForest2/Rooms/boss_1.arm	75	18	0	node	teleport1-MapWeaverArenaName telepad1 teleport2-%areaname% telepad2
+0	Metadata/Terrain/EndGame/MapForest2/Rooms/ramp_1.arm	39	9	2	node	
+0	Metadata/Terrain/EndGame/MapForest2/Rooms/ramp_1.arm	42	21	4	node	
+0	Metadata/Terrain/EndGame/MapForest2/Rooms/ramp_1.arm	63	9	2	node	
+0	Metadata/Terrain/EndGame/MapForest2/Rooms/ramp_feature.arm	60	24	4	node	
+0	Metadata/Terrain/EndGame/MapForest2/Rooms/ramp_1.arm	24	24	4	node	
+0	Metadata/Terrain/EndGame/MapForest2/Rooms/ramp_1.arm	24	6	2	node	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_CursedTreasure_01.arm	21	23	0	pass	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	26	19	0	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	57	16	0	pass	
+0	Metadata/Terrain/vaal_side_area.arm	52	18	0	pass	

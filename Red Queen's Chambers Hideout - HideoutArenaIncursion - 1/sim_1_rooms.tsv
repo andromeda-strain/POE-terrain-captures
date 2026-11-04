@@ -1,0 +1,3 @@
+sub	arm	x	y	o	src	tags
+1	Metadata/Terrain/Hideouts/ArenaIncursion/Rooms/atziri_leadup_01.arm	10	10	0	node	teleport1-Arena telepad2
+2	Metadata/Terrain/Hideouts/ArenaIncursion/Rooms/atziri_arena_01.arm	30	10	0	node	telepad1 teleport2-ObjectDisplayTextPortal

@@ -1,0 +1,13 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act6/Area4/Rooms/floodedcave.arm	39	18	3	node	
+0	Metadata/Terrain/Act6/Area4/Rooms/to_coast.arm	9	42	3	node	default entrance1 killzone=6
+0	Metadata/Terrain/Act6/Area4/Rooms/4waypool1.arm	24	35	0	node	
+0	Metadata/Terrain/Act6/Area4/Rooms/3waypool2.arm	22	24	1	node	
+0	Metadata/Terrain/Act6/Area4/Rooms/2waypool1.arm	29	26	7	node	
+0	Metadata/Terrain/Act6/Area4/Rooms/transition.arm	36	45	2	node	entrance2 killzone=4
+0	Metadata/Terrain/Act6/Area4/Rooms/whare/mudflats_hut_free5.arm	28	40	5	node	
+0	Metadata/Terrain/Act6/Area4/Rooms/whare/mudflats_hut_free1.arm	35	15	7	node	
+0	Metadata/Terrain/Act6/Area4/Rooms/whare/mudflats_hut_stream_corner2.arm	45	33	7	node	
+0	Metadata/Terrain/Beach/LargeCliffs/Rooms/fill_cliff_island_3a.arm	36	37	4	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	39	16	0	pass	
+0	Metadata/Terrain/Leagues/Breach/brequel_established.arm	32	38	0	pass	

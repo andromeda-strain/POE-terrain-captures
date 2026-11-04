@@ -1,0 +1,5 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act1/SideLedge1/Rooms/entrance_1.arm	9	15	3	node	default sideentrance killzone=8
+0	Metadata/Terrain/Act1/SideLedge1/Rooms/boss_1.arm	60	9	1	node	
+0	Metadata/Shrines/beach_01.arm	60	12	4	pass	
+0	Metadata/Shrines/beach_01.arm	43	15	0	pass	

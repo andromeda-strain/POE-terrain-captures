@@ -1,0 +1,12 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapForest2/Rooms/entrance_1.arm	6	6	0	node	default
+0	Metadata/Terrain/EndGame/MapForest2/Rooms/boss_1.arm	75	18	0	node	teleport1-MapWeaverArenaName telepad1 teleport2-%areaname% telepad2
+0	Metadata/Terrain/EndGame/MapForest2/Rooms/ramp_1.arm	39	9	2	node	
+0	Metadata/Terrain/EndGame/MapForest2/Rooms/ramp_1.arm	39	21	4	node	
+0	Metadata/Terrain/EndGame/MapForest2/Rooms/ramp_1.arm	57	9	2	node	
+0	Metadata/Terrain/EndGame/MapForest2/Rooms/ramp_feature.arm	60	21	4	node	
+0	Metadata/Terrain/EndGame/MapForest2/Rooms/ramp_1.arm	27	24	4	node	
+0	Metadata/Terrain/EndGame/MapForest2/Rooms/ramp_1.arm	24	9	2	node	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_BrinerotStores_01.arm	35	16	0	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	58	21	0	pass	
+0	Metadata/Terrain/vaal_side_area.arm	53	18	0	pass	

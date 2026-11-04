@@ -1,0 +1,42 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act6/Area10/Rooms/tunnel_transition.arm	15	30	6	node	default entrance1
+0	Metadata/Terrain/Act6/Area10/Rooms/oldtown_entrance.arm	87	39	3	node	
+0	Metadata/Terrain/Act6/Area10/Rooms/rivercliff_exit_1.arm	87	15	3	node	entrance3
+0	Metadata/Terrain/Act2/Area7/Rooms/forestriver_sink3.arm	15	21	3	node	
+0	Metadata/Terrain/Act6/Area10/Rooms/river_thickforest_dualbridge.arm	36	21	0	node	
+0	Metadata/Terrain/Act6/Area10/Rooms/river_cliff_dualbridge.arm	72	12	0	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/waterfall_source1.arm	72	45	0	node	
+0	Metadata/Terrain/Act6/Area10/Rooms/bridge_3.arm	77	39	0	node	
+0	Metadata/Terrain/Act6/Area10/Rooms/brokenbridge_3.arm	50	26	0	node	
+0	Metadata/Terrain/Act6/Area10/Rooms/bridge_1.arm	31	36	4	node	
+0	Metadata/Terrain/Act6/Area10/Rooms/inca2toroad.arm	42	34	4	node	
+0	Metadata/Terrain/Act6/Area10/Rooms/bridgetransition.arm	42	41	3	node	entrance2
+0	Metadata/Terrain/Act6/Area10/Rooms/rivercliff.arm	18	48	0	node	
+0	Metadata/Terrain/Act6/Area10/Rooms/rivercliff.arm	33	54	5	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/waterfall_source1.arm	63	51	3	node	
+0	Metadata/Terrain/Act6/Area10/Rooms/side_valley_entrance_2.arm	48	9	0	node	sidearea1 accessible accessible
+0	Metadata/Terrain/Act2/Area7/Rooms/deep_source.arm	103	61	0	node	
+0	Metadata/Terrain/Act2/Area7/Rooms/low_sink.arm	103	14	0	node	
+0	Metadata/Terrain/Act6/Area10/Rooms/bridge_2.arm	64	22	0	node	
+0	Metadata/Terrain/Act6/Area11/Rooms/tent_camp_2b.arm	22	12	7	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_3.arm	71	21	7	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_1.arm	74	23	3	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_3.arm	72	24	5	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_6a.arm	83	27	4	fill	
+0	Metadata/Terrain/Act6/Area11/Rooms/tent1.arm	42	29	6	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_1.arm	70	30	6	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_3.arm	43	32	3	fill	
+0	Metadata/Terrain/Act6/Area11/Rooms/tent3.arm	35	33	1	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_4a.arm	86	33	4	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_3.arm	59	37	0	fill	
+0	Metadata/Terrain/Act6/Area11/Rooms/tent_camp_6b.arm	61	38	4	fill	
+0	Metadata/Terrain/Act6/Area11/Rooms/tent_camp_2b.arm	45	39	7	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_1.arm	53	41	7	fill	
+0	Metadata/Terrain/Act6/Area11/Rooms/tent2.arm	31	43	2	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_1.arm	36	47	2	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_2.arm	33	50	2	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_3.arm	91	51	0	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_1.arm	49	53	4	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_1.arm	59	54	1	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_1.arm	40	59	6	fill	
+0	Metadata/Terrain/Act2/Area7/Rooms/tree_fill_1.arm	40	61	7	fill	

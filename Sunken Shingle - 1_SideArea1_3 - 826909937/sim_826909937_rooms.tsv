@@ -1,0 +1,7 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act1/SideBeach1/Rooms/toislandcliff.arm	12	6	3	node	default sideentrance killzone=6
+0	Metadata/Terrain/Act1/SideBeach1/Rooms/beach_shore.arm	6	18	3	node	
+0	Metadata/Terrain/Act1/SideBeach1/Rooms/beach_shore.arm	21	18	1	node	
+0	Metadata/Terrain/Act1/SideBeach1/Rooms/boss_shore.arm	12	21	2	node	
+0	Metadata/Terrain/Act1/Area2a/Rooms/pools_3.arm	12	15	5	fill	
+0	Metadata/Terrain/Act1/Area2a/Rooms/pools_2.arm	15	18	4	fill	

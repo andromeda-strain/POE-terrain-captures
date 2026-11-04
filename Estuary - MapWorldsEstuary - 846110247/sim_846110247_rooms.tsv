@@ -1,0 +1,50 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/bossentry_end.arm	18	48	2	node	telepad1 teleport2-Arena killzone=2
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/entrance_1.arm	66	9	6	node	default
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/lava_1.arm	45	51	0	node	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/bridge_3.arm	45	33	0	node	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/join_2.arm	66	36	3	node	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/boss_island.arm	12	9	1	node	telepad2 teleport1-%areaname%
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/ocean_3.arm	63	12	6	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/ocean_3.arm	60	15	4	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/ocean_1.arm	63	15	5	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/ocean_3.arm	57	18	1	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/ocean_2.arm	57	21	5	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_05.arm	63	21	0	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/ocean_2.arm	57	24	7	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_04.arm	65	24	5	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_04.arm	68	27	7	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_04.arm	58	31	2	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_04.arm	63	31	1	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_04.arm	67	31	0	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/estuary_fill_01.arm	66	32	0	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_04.arm	54	33	1	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_04.arm	51	34	6	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/estuary_fill_02.arm	66	35	4	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/ocean_5.arm	33	36	4	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/ocean_1.arm	35	36	1	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/ocean_3.arm	38	36	1	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_04.arm	60	37	6	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_04.arm	64	37	7	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_04.arm	65	38	7	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_04.arm	68	38	2	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/ocean_2.arm	24	39	5	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/ocean_3.arm	27	39	0	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/ocean_1.arm	30	39	0	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_04.arm	62	40	7	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/ocean_1.arm	27	42	3	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/lake_1.arm	38	42	4	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_04.arm	61	44	6	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/lake_3.arm	33	48	0	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/lake_5.arm	37	48	1	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_04.arm	46	49	7	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/ocean_3.arm	27	51	7	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_04.arm	53	53	1	fill	
+0	Metadata/Terrain/EndGame/MapEstuary/Rooms/Fills/lake_3.arm	35	54	7	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_06.arm	33	58	1	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_06.arm	35	58	6	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_04.arm	21	59	1	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/KaomSkulls_04.arm	30	59	5	fill	
+0	Metadata/Terrain/Leagues/Expedition/encounter.arm	64	25	0	pass	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_CursedTreasure_01.arm	33	45	0	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	54	30	0	pass	

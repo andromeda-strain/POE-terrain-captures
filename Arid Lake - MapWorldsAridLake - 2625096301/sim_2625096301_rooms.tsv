@@ -1,0 +1,8 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapSaltFlats/Rooms/entrance_1.arm	48	33	6	node	default
+0	Metadata/Terrain/EndGame/MapSaltFlats/Rooms/bossentry_1.arm	27	9	0	node	unique killzone=0 telepad1 teleport2-Arena
+0	Metadata/Terrain/EndGame/MapSaltFlats/Rooms/boss_1.arm	39	3	1	node	telepad2 teleport1-%areaname% killzone=0
+0	Metadata/Terrain/EndGame/MapSaltFlats/Rooms/pool_feature_2.arm	13	7	2	node	
+0	Metadata/Terrain/Leagues/Expedition/encounter.arm	24	36	0	pass	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	30	29	0	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	36	36	0	pass	

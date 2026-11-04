@@ -1,0 +1,27 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Unique/bossentry_01.arm	9	12	5	node	telepad1 teleport2-Arena killzone=0 zone=1
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Unique/entrance_01.arm	96	72	4	node	default
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Unique/boss_01.arm	6	78	0	node	telepad2 teleport1-%areaname% zone=2
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Connections/gap_1.arm	42	27	7	node	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Connections/gap_1.arm	60	24	7	node	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Connections/gap_1.arm	57	39	3	node	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Connections/gap_1.arm	87	69	0	node	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Connections/gap_1.arm	99	63	4	node	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Unique/abyss_01.arm	63	45	0	node	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Fill/fill_03.arm	69	25	3	fill	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Fill/fill_05.arm	22	26	6	fill	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Fill/fill_03.arm	66	26	7	fill	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Fill/fill_05.arm	17	30	0	fill	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Fill/fill_05.arm	24	30	5	fill	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Fill/fill_05.arm	45	33	3	fill	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Fill/fill_04.arm	46	36	7	fill	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Fill/fill_04.arm	72	49	6	fill	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Fill/fill_03.arm	95	60	1	fill	
+0	Metadata/Terrain/EndGame/MapBrambleFall/Rooms/Fill/fill_03.arm	96	68	2	fill	
+0	Metadata/Terrain/EndGame/MapAtlasMemory/memory_tear.arm	70	32	0	pass	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_CursedTreasure_01.arm	66	33	0	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	63	31	0	pass	
+0	Metadata/Terrain/Leagues/Legion/legion_monolith.arm	44	39	6	pass	
+0	Metadata/Terrain/Leagues/Legion/legion_monolith.arm	23	33	4	pass	
+0	Metadata/Terrain/Leagues/Legion/legion_monolith.arm	48	30	7	pass	
+0	Metadata/Terrain/Leagues/Legion/legion_monolith.arm	60	35	5	pass	

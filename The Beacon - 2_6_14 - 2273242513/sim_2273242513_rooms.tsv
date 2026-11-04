@@ -1,0 +1,11 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act6/Area14/Rooms/endcap.arm	87	42	4	node	
+0	Metadata/Terrain/Act6/Area14/Rooms/Incidental/driftwood5.arm	45	6	0	node	
+0	Metadata/Terrain/Act6/Area14/Rooms/entrance_1.arm	9	45	0	node	default entrance1
+0	Metadata/Terrain/Act6/Area14/Rooms/beach_to_lighthouse.arm	78	21	0	node	
+0	Metadata/Terrain/Act6/Area14/Rooms/lighthouse/lighthouse.arm	96	6	7	node	entrance2
+0	Metadata/Terrain/Act6/Area14/Rooms/sidearea_1.arm	54	39	2	node	sidearea2 accessible
+0	Metadata/Terrain/Act6/Area14/Rooms/skeletons.arm	69	33	0	node	
+0	Metadata/Terrain/Act6/Area14/Rooms/glyph.arm	21	33	3	node	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_BrinerotStores_01.arm	70	31	0	pass	
+0	Metadata/Terrain/Leagues/Breach/brequel_established.arm	18	41	0	pass	

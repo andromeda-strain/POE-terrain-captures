@@ -8715,10 +8715,10 @@ x	y	ground	flags	height
 70	67	Metadata/Terrain/Mountain/DriedLake/RockWall/lake_inside_rockwall.gt	3	16
 71	67	Metadata/Terrain/Mountain/DriedLake/RockWall/lake_inside_rockwall.gt	3	16
 72	67	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	16
-73	67	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	16
-74	67	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	16
-75	67	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
-76	67	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	16
+73	67	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	1
+74	67	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	1
+75	67	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
+76	67	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	1
 77	67	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	0
 78	67	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	0
 79	67	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	0
@@ -8844,7 +8844,7 @@ x	y	ground	flags	height
 70	68	Metadata/Terrain/Mountain/DriedLake/RockWall/lake_inside_rockwall.gt	3	16
 71	68	Metadata/Terrain/Mountain/DriedLake/RockWall/lake_inside_rockwall.gt	3	16
 72	68	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	16
-73	68	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	16
+73	68	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	1
 74	68	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	0
 75	68	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	0
 76	68	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	0
@@ -8973,7 +8973,7 @@ x	y	ground	flags	height
 70	69	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	16
 71	69	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	16
 72	69	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
-73	69	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
+73	69	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
 74	69	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	0
 75	69	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	0
 76	69	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	0
@@ -9237,7 +9237,7 @@ x	y	ground	flags	height
 76	71	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	0
 77	71	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	0
 78	71	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	0
-79	71	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	16
+79	71	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	1
 80	71	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	16
 81	71	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	16
 82	71	Metadata/Terrain/Act2/Area3/GroundTypes/forest_grass.gt	3	16

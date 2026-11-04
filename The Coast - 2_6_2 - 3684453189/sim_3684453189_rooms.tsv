@@ -1,0 +1,11 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act6/Area2/Rooms/town_entrance_exclude_v2.arm	9	6	0	node	default entrance1
+0	Metadata/Terrain/Act6/Area2/Rooms/to_karui_island.arm	57	9	3	node	entrance2 entrance3 killzone=6
+0	Metadata/Terrain/Act1/Area2/Rooms/block_ledge.arm	24	15	0	node	
+0	Metadata/Terrain/Act6/Area2/Rooms/block_ledge_stairs.arm	36	21	4	node	
+0	Metadata/Terrain/Act6/Area2/Rooms/whare/whare_virtual4.arm	33	42	7	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/stairs_high2.arm	51	33	4	node	
+0	Metadata/Terrain/Act6/Area2/Rooms/stairs_high.arm	27	30	4	node	
+0	Metadata/Terrain/Act6/Area2/Rooms/scavenger_camp_2a.arm	39	39	4	node	
+0	Metadata/Terrain/Act6/Area2/Rooms/whare/whare_5.arm	41	35	7	node	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_BrinerotStores_01.arm	24	27	0	pass	

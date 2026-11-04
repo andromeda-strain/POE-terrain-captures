@@ -1,0 +1,6 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Hideouts/Sacrifice/Rooms/HideoutSacrifice.arm	0	0	0	node	default
+0	Metadata/Terrain/Hideouts/Sacrifice/Rooms/Hideout_Interior.arm	36	0	0	node	
+0	Metadata/Terrain/Hideouts/Sacrifice/Rooms/fill_01.arm	36	36	0	node	
+0	Metadata/Terrain/Hideouts/Sacrifice/Rooms/fill_01.arm	48	36	0	node	
+0	Metadata/Terrain/Hideouts/Sacrifice/Rooms/fill_01.arm	60	36	0	node	

@@ -1,0 +1,19 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act7/Area2/Rooms/bridge_transition.arm	71	23	2	node	default entrance1
+0	Metadata/Terrain/Act7/Area2/Rooms/road_gate_entrance_main.arm	8	26	0	node	
+0	Metadata/Terrain/Act7/Area2/Rooms/temple.arm	36	63	0	node	entrance3
+0	Metadata/Terrain/Act7/Area2/Rooms/crossroad.arm	42	25	0	node	waypoint
+0	Metadata/Terrain/Act7/Area2/Rooms/road_gate_entrance.arm	40	8	0	node	entrance2
+0	Metadata/Terrain/Act7/Area2/Rooms/gatecliff.arm	24	39	0	node	
+0	Metadata/Terrain/Act7/Area2/Rooms/roadendwall.arm	44	34	4	node	
+0	Metadata/Terrain/Act7/Area2/Rooms/cliffslope.arm	27	45	0	node	
+0	Metadata/Terrain/Act7/Area2/Rooms/cliffslope.arm	48	60	4	node	
+0	Metadata/Terrain/Act7/Area2/Rooms/stairsstream.arm	39	59	4	node	
+0	Metadata/Terrain/Act7/Area2/Rooms/stairsstream_boss.arm	40	46	4	node	
+0	Metadata/Terrain/Act7/Area2/Rooms/wall_door.arm	60	35	1	node	
+0	Metadata/Terrain/Act7/Area2/Rooms/ruin_chapel.arm	56	17	3	node	
+0	Metadata/Terrain/Act7/Area2/Rooms/ruin_villa.arm	31	26	1	node	
+0	Metadata/Terrain/Act7/Area2/Rooms/ruin_windmill.arm	54	24	0	node	
+0	Metadata/Terrain/Act7/Area2/Rooms/stream_river_cliff_connection.arm	54	39	0	node	
+0	Metadata/Terrain/Act7/Area2/Rooms/flow_sink_1.arm	74	6	6	node	
+0	Metadata/Terrain/Act7/Area2/Rooms/flow_source_1.arm	74	43	2	node	

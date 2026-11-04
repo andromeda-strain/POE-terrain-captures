@@ -1,0 +1,10 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act6/Area2/Rooms/town_entrance_exclude_v2.arm	9	42	0	node	default entrance1
+0	Metadata/Terrain/Act6/Area2/Rooms/lgcliff_dune_ledge_2.arm	24	42	3	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/lgcliff_smcliff_water_2.arm	36	27	4	node	
+0	Metadata/Terrain/Act6/Area2/Rooms/to_karui_island.arm	57	9	3	node	entrance2 entrance3 killzone=6
+0	Metadata/Terrain/Act6/Area2/Rooms/stairs_high_whare.arm	39	42	0	node	
+0	Metadata/Terrain/Act6/Area2/Rooms/stairs_high_whare.arm	33	57	3	node	
+0	Metadata/Terrain/Act6/Area2/Rooms/scavenger_camp_2a.arm	46	35	7	node	
+0	Metadata/Terrain/Act6/Area2/Rooms/whare/whare_straight1.arm	54	36	4	node	
+0	Metadata/Shrines/beach_01.arm	45	48	2	pass	

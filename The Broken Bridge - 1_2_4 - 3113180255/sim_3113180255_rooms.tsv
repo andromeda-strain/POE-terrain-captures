@@ -1,0 +1,20 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act2/Area4/Rooms/broken_bridge_left.arm	14	7	0	node	
+0	Metadata/Terrain/Act2/Area4/Rooms/bridge_transition_main.arm	23	66	0	node	default entrance1
+0	Metadata/Terrain/Act2/Area4/Rooms/flow_sink_weak.arm	6	58	3	node	
+0	Metadata/Terrain/Act2/Area4/Rooms/waypoint.arm	28	38	7	node	
+0	Metadata/Terrain/Act2/Area4/Rooms/manor.arm	35	32	3	node	
+0	Metadata/Terrain/Act2/Area4/Rooms/flow_sink_1.arm	42	87	6	node	
+0	Metadata/Terrain/Act2/Area4/Rooms/flow_source_1.arm	6	18	3	node	
+0	Metadata/Terrain/Act2/Area4/Rooms/flow_source_weak.arm	28	89	3	node	
+0	Metadata/Terrain/Act2/Area4/Rooms/flow_sink_1.arm	22	22	1	node	
+0	Metadata/Terrain/Act2/Area4/Rooms/watercliff_1.arm	12	48	4	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent_camp_3b.arm	39	25	4	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent1.arm	30	26	6	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent2.arm	34	27	5	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent2.arm	26	34	0	fill	
+0	Metadata/Terrain/Forest/LargeCliffs/Rooms/fill_cliff_island_6a.arm	40	46	5	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent2.arm	18	79	7	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	23	76	0	pass	
+0	Metadata/Shrines/forest_01.arm	37	25	0	pass	
+0	Metadata/Terrain/Act2/Area4/Rooms/breach_encounter.arm	40	55	0	pass	

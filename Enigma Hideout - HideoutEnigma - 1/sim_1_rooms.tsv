@@ -1,0 +1,5 @@
+sub	arm	x	y	o	src	tags
+1	Metadata/Terrain/Missions/Hideouts/Escher/Rooms/hideout1.arm	8	1	0	node	telepad1 telepad2 teleport4-Portal teleport5-Portal
+2	Metadata/Terrain/Missions/Hideouts/Escher/Rooms/hideout2.arm	8	22	0	node	telepad3 telepad4 teleport1-Portal teleport6-Portal default
+3	Metadata/Terrain/Missions/Hideouts/Escher/Rooms/hideout3.arm	8	43	0	node	telepad5 telepad6 teleport2-Portal teleport3-Portal
+4	Metadata/Terrain/Missions/Hideouts/Escher/Rooms/hideout4.arm	1	1	0	node	

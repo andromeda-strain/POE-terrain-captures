@@ -1,0 +1,13 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapForest/Rooms/cave.arm	70	6	4	node	telepad2 teleport1-MapTropicalIslandCave
+0	Metadata/Terrain/EndGame/MapForest/Rooms/dock.arm	117	30	2	node	default
+0	Metadata/Terrain/EndGame/MapForest/Rooms/cave.arm	81	30	0	node	telepad4 teleport3-MapTropicalIslandCave
+0	Metadata/Terrain/EndGame/MapForest/Rooms/boss.arm	29	6	4	node	
+0	Metadata/Terrain/EndGame/MapForest/Rooms/tunnel1.arm	6	6	0	node	telepad3 teleport4-%areaname% telepad1 teleport2-%areaname%
+0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	124	6	7	node	
+0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	124	18	0	node	
+0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	125	30	2	node	
+0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	124	12	1	node	
+0	Metadata/Terrain/Leagues/Expedition/encounter.arm	33	16	0	pass	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_CursedTreasure_01.arm	81	7	0	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	91	16	0	pass	

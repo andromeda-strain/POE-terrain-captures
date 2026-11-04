@@ -1,0 +1,12 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act6/Area8/Rooms/prison_front.arm	15	12	1	node	default entrance1disabled
+0	Metadata/Terrain/Act6/Area8/Rooms/lgcliff_valley_smcliff_2_stairs.arm	21	27	7	node	
+0	Metadata/Terrain/Act6/Area8/Rooms/lgcliff_valley_smcliff_2_stairs.arm	30	54	3	node	
+0	Metadata/Terrain/Act6/Area8/Rooms/lgcliff_valley_smcliff_3_stairs.arm	27	42	3	node	
+0	Metadata/Terrain/Act6/Area8/Rooms/lgcliff_valley_smcliff_7.arm	36	42	5	node	
+0	Metadata/Terrain/Act6/Area8/Rooms/bossentrance.arm	45	48	5	node	teleport1-ArenaNameAbberath1 telepad2 telepad7
+0	Metadata/Terrain/Act6/Area8/Rooms/shipgraveyard.arm	42	30	5	node	
+0	Metadata/Terrain/Act6/Area8/Rooms/blocked_passage.arm	24	69	0	node	entrance2
+0	Metadata/Terrain/Act6/Area8/Rooms/boss_connector.arm	57	51	0	node	teleport4-ArenaNameAbberath1 telepad3 teleport5-ArenaNameAbberath3 telepad6 accessible
+0	Metadata/Terrain/Act6/Area8/Rooms/bossphase1.arm	24	6	0	node	teleport3-ArenaNameAbberath2 telepad4 teleport2-%areaname% telepad1 accessible
+0	Metadata/Terrain/Act6/Area8/Rooms/bossphase2.arm	57	6	0	node	teleport6-ArenaNameAbberath2 telepad5 teleport7-%areaname% accessible

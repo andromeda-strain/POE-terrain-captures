@@ -1,0 +1,12 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapShipGraveyard/Rooms/entrance_1.arm	69	9	0	node	default
+0	Metadata/Terrain/EndGame/MapShipGraveyard/Rooms/boss_tp_1.arm	60	66	6	node	teleport1-Arena telepad2
+0	Metadata/Terrain/EndGame/MapShipGraveyard/Rooms/boss_1.arm	9	33	0	node	telepad1 teleport2-%areaname%
+0	Metadata/Terrain/EndGame/MapShipGraveyard/Rooms/reef_fill_01.arm	67	51	0	fill	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	66	48	4	pass	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	71	58	4	pass	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	66	28	4	pass	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	66	58	4	pass	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	71	24	4	pass	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	66	40	4	pass	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	63	60	4	pass	

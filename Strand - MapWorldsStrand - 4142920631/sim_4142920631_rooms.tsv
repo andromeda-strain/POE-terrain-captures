@@ -1,0 +1,26 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/entrance_01.arm	28	154	0	node	telepad1 default
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Features/shrine_lunaris.arm	39	169	0	node	accessible
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Features/shrine_gruthkul.arm	38	147	0	node	accessible
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Features/clearing_treant_henge_01_04.arm	14	141	0	node	accessible
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Features/clearing_domination_01.arm	14	165	0	node	accessible
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/connection_02.arm	6	160	0	node	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/connection_02.arm	6	151	6	node	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/connection_02.arm	33	175	3	node	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/connection_02.arm	21	175	5	node	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_14.arm	42	139	3	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_14.arm	29	149	3	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_11.arm	24	151	4	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_11.arm	19	157	1	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_11.arm	21	158	0	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_12.arm	19	161	7	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_11.arm	37	163	1	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_11.arm	45	165	0	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_02.arm	42	169	5	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Overlays/StWS_long.arm	9	163	0	overlay	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Overlays/StMM_long.arm	36	136	6	overlay	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Overlays/StMM_long.arm	39	175	4	overlay	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Overlays/StWS_long.arm	6	148	1	overlay	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Overlays/StMM_long.arm	42	175	4	overlay	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Overlays/StMM_long.arm	39	136	2	overlay	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Overlays/StMM_long.arm	48	169	7	overlay	

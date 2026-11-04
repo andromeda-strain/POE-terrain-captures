@@ -1,0 +1,16 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act6/Area12/Rooms/temp_cave_entrance_waypoint.arm	48	21	3	node	entrance2
+0	Metadata/Terrain/Act6/Area12/Rooms/caves_sinkhole_01.arm	36	12	0	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/part2_crossing.arm	43	51	3	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/forest_old_towndock.arm	63	48	2	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/connection_06.arm	45	72	0	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/southernforest_to_riverways.arm	39	81	0	node	default entrance1
+0	Metadata/Terrain/Act6/Area12/Rooms/connection_01.arm	36	42	0	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/bears_01.arm	12	39	0	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/connection_03.arm	12	60	0	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/crossing_01.arm	23	64	7	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/connection_05.arm	30	63	1	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/crossing_01.arm	34	54	7	node	
+0	Metadata/Terrain/Act6/Area12/Rooms/side_grove_entrance_1.arm	24	33	7	node	sidearea1 accessible
+0	Metadata/Terrain/Act6/Area12/Rooms/monkeyboss.arm	26	47	4	node	unique2
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_CursedTreasure_01.arm	23	58	0	pass	

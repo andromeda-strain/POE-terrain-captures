@@ -1,0 +1,18 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/despair_boss.arm	60	6	0	node	telepad1 teleport2-%areaname% killzone=7
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/exit_1.arm	44	47	0	node	teleport1-Arena unique2 killzone=0 telepad2
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/entrance_1.arm	10	24	1	node	default unique1
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_1.arm	14	9	4	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_2.arm	21	14	3	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_1.arm	25	19	5	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_3.arm	22	30	6	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_1.arm	15	32	2	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/stairs_2.arm	18	33	1	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/walls_1.arm	15	38	6	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_1.arm	20	39	7	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/stairs_1.arm	24	41	7	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_6.arm	10	43	1	fill	
+0	Metadata/Terrain/Leagues/Expedition/encounter.arm	23	27	0	pass	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_BrinerotStores_01.arm	29	40	0	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	18	12	0	pass	
+0	Metadata/Terrain/vaal_side_area.arm	24	22	0	pass	

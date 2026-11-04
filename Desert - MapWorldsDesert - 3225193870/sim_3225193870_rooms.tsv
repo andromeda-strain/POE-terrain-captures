@@ -1,0 +1,40 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/RockWallCliff/rockwall_cliff_gap.arm	60	18	7	node	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/RockWallCliff/rockwall_cliff_gap.arm	39	12	1	node	
+0	Metadata/Terrain/EndGame/MapDesert/Rooms/boss_1.arm	63	48	2	node	unique1
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/RockWallCliff/rockwall_cliff_nogap.arm	39	45	4	node	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/RockWallCliff/rockwall_cliff_gap.arm	72	36	3	node	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Connections/cliff_rockwall_tgr1.arm	24	15	7	node	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Connections/cliff_rockwall_tgr1.arm	12	30	0	node	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Connections/cliff_rockwall_tgr1.arm	21	60	3	node	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Connections/cliff_rockwall_tgr1.arm	12	39	6	node	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Unique/massive_pillars.arm	21	24	1	node	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Unique/map_entrance_3.arm	18	42	7	node	default killzone=5
+0	Metadata/Terrain/EndGame/MapDesert/Rooms/sidearea_1.arm	51	15	2	node	sidearea accessible
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants7.arm	33	15	3	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants1.arm	56	15	1	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants4.arm	58	15	3	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants5.arm	49	16	5	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/dune2.arm	33	17	0	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants8.arm	54	17	6	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants5.arm	51	18	1	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants2.arm	31	19	1	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants8.arm	51	21	6	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants7.arm	70	22	4	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants2.arm	33	24	6	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants4.arm	70	27	4	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants9.arm	35	33	7	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants1.arm	20	36	3	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants5.arm	22	36	0	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants6.arm	25	37	5	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants2.arm	28	37	2	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants2.arm	61	45	0	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants10.arm	69	46	3	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants6.arm	30	47	7	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/tent1.arm	59	48	3	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants9.arm	35	54	6	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants3.arm	30	57	6	fill	
+0	Metadata/Terrain/Mountain/DriedLake/Rooms/Fills/plants7.arm	27	61	2	fill	
+0	Metadata/Terrain/Leagues/Expedition/encounter.arm	31	54	0	pass	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	30	60	0	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	56	19	0	pass	

@@ -1,0 +1,6 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act9/SideAreaRefinery/Rooms/Unique/entrance_01.arm	21	51	5	node	default sideentrance killzone=6
+0	Metadata/Terrain/Act9/SideAreaRefinery/Rooms/Unique/bridge_01.arm	9	21	0	node	
+0	Metadata/Terrain/Act9/SideAreaRefinery/Rooms/Unique/boss_01.arm	18	3	5	node	
+0	Metadata/Terrain/Act9/SideAreaRefinery/Rooms/Unique/stairs_01.arm	6	39	6	node	
+0	Metadata/Terrain/Act9/SideAreaRefinery/Rooms/Unique/stairs_01.arm	6	9	6	node	

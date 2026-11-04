@@ -1,0 +1,17 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act7/Area8/Rooms/inca_twist_2.arm	51	12	0	node	
+0	Metadata/Terrain/Act7/Area8/Rooms/dune_join_forest_cliff.arm	42	12	1	node	
+0	Metadata/Terrain/Act7/Area8/Rooms/grove_twist.arm	6	24	0	node	entrance2
+0	Metadata/Terrain/Act7/Area8/Rooms/boss_rootspider_3.arm	27	12	0	node	unique2
+0	Metadata/Terrain/Act7/Area8/Rooms/exit_1.arm	33	87	0	node	entrance3
+0	Metadata/Terrain/Act7/Area8/Rooms/waypoint_river_1.arm	45	24	0	node	default entrance1disabled
+0	Metadata/Terrain/Act7/Area8/Rooms/azmeri_quest_shrine.arm	12	45	6	node	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_1.arm	13	19	2	fill	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_2.arm	20	23	2	fill	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_4.arm	26	24	6	fill	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_1.arm	17	51	3	fill	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_3.arm	23	52	7	fill	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_1.arm	16	58	0	fill	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_1.arm	15	64	5	fill	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_2.arm	24	74	6	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_CursedTreasure_01.arm	21	20	0	pass	

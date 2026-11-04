@@ -1,0 +1,13 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act1/Area2a/Rooms/toislandcliff.arm	21	30	1	node	default entrance1
+0	Metadata/Terrain/Act1/Area2a/Rooms/medicine_boat_1.arm	15	6	4	node	
+0	Metadata/Terrain/Act1/Area2a/Rooms/cliff_ridge_valley_connection_1.arm	21	21	4	node	
+0	Metadata/Terrain/Act1/Area2a/Rooms/pools_3.arm	27	12	3	fill	
+0	Metadata/Terrain/Act1/Area2a/Rooms/pools_2.arm	21	13	0	fill	
+0	Metadata/Terrain/Act1/Area2a/Rooms/pools_3.arm	27	15	3	fill	
+0	Metadata/Terrain/Act1/Area2a/Rooms/pools_2.arm	31	15	7	fill	
+0	Metadata/Terrain/Act1/Area2a/Rooms/pools_3.arm	34	21	3	fill	
+0	Metadata/Terrain/Act1/Area2a/Rooms/pools_3.arm	31	22	7	fill	
+0	Metadata/Terrain/Act1/Area2a/Rooms/pools_1.arm	18	23	4	fill	
+0	Metadata/Terrain/Act1/Area2a/Rooms/pools_1.arm	18	27	7	fill	
+0	Metadata/Terrain/Act1/Area2a/Rooms/pools_1.arm	18	31	3	fill	

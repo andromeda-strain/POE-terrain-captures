@@ -1,0 +1,40 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/graingate_entrance.arm	9	18	0	node	default entrance1
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/watercliff_to_slums.arm	18	9	0	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/graingate_slums_2.arm	27	9	0	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/cliff_to_slums.arm	39	21	0	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/watercliff_to_arch.arm	27	72	0	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/arch_to_temple.arm	24	105	0	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/graingate_roadend_2.arm	39	42	0	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/cliff_to_walkway_1.arm	42	84	3	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/temple_entrance.arm	36	102	0	node	entrance2
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/farm_road_end.arm	34	70	4	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/road_junction.arm	24	43	6	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/boss.arm	29	83	0	node	unique2
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/waypoint.arm	30	46	1	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/low_source.arm	6	105	1	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/low_sink.arm	15	6	5	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/low_sink.arm	18	6	1	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Features/low_source.arm	12	105	2	node	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_07.arm	21	16	0	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_04.arm	24	21	0	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_05.arm	28	27	5	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_07.arm	36	27	4	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_03.arm	27	30	1	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_06.arm	33	31	0	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_07.arm	36	33	6	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_01.arm	30	37	3	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_05.arm	21	38	4	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_05.arm	31	54	4	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_05.arm	42	55	1	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_07.arm	44	61	0	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_07.arm	44	67	0	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_07.arm	40	70	0	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_05.arm	34	77	1	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_06.arm	36	84	0	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_06.arm	32	88	2	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_07.arm	35	92	0	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_07.arm	39	94	0	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_05.arm	31	96	2	fill	
+0	Metadata/Terrain/Act8/Area10/Rooms/Fills/farm_fill_04.arm	30	102	6	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	24	28	0	pass	

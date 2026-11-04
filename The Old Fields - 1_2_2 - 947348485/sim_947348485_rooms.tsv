@@ -1,0 +1,13 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act2/Area2/Rooms/town_entrance.arm	12	24	3	node	default entrance1
+0	Metadata/Terrain/Act2/Area2/Rooms/exit_twist.arm	48	8	0	node	entrance4
+0	Metadata/Terrain/Act2/Area2/Rooms/cave_entrance.arm	40	18	0	node	entrance2 unique4
+0	Metadata/Terrain/Act2/Area2/Rooms/dungeon_exit.arm	36	15	0	node	unique1 entrance3
+0	Metadata/Terrain/Act2/Area2/Rooms/mossmonsterboss.arm	46	24	7	node	unique2
+0	Metadata/Terrain/Act2/Area2/Rooms/waypoint_inert.arm	49	20	1	node	
+0	Metadata/Terrain/Act2/Area2/Rooms/deep_source.arm	53	50	0	node	
+0	Metadata/Terrain/Act2/Area2/Rooms/low_sink.arm	7	6	0	node	
+0	Metadata/Terrain/Act2/Area2/Rooms/fill_fields6_2.arm	55	16	1	fill	
+0	Metadata/Terrain/Act2/Area2/Rooms/fill_fields8_1.arm	27	33	7	fill	
+0	Metadata/Terrain/Act2/Area2/Rooms/fill_fields7_3.arm	27	43	0	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_BrinerotStores_01.arm	32	18	0	pass	

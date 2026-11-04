@@ -1,0 +1,16 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act6/Area15/Rooms/entrance_1.arm	9	69	2	node	default entrance1disabled
+0	Metadata/Terrain/Act6/Area15/Rooms/crossing_01.arm	21	48	2	node	
+0	Metadata/Terrain/Act6/Area15/Rooms/boss_1.arm	72	21	0	node	teleport2-%areaname% telepad1 entrance2
+0	Metadata/Terrain/Act6/Area15/Rooms/crossing_01.arm	39	45	1	node	
+0	Metadata/Terrain/Act6/Area15/Rooms/crossing_01.arm	33	27	5	node	
+0	Metadata/Terrain/Act6/Area15/Rooms/shipwreck_1.arm	54	39	4	node	
+0	Metadata/Terrain/Act6/Area15/Rooms/crossing_01.arm	33	63	5	node	
+0	Metadata/Terrain/Act6/Area15/Rooms/boss_tp_1.arm	51	18	1	node	teleport1-ArenaNameBrineKing telepad2
+0	Metadata/Terrain/Act6/Area15/Rooms/side_island_entrance_1.arm	21	39	2	node	sidearea1 accessible
+0	Metadata/Terrain/Act6/Area15/Rooms/glyph.arm	27	36	0	node	unique2
+0	Metadata/Terrain/Act6/Area15/Rooms/reef_fill_04.arm	54	48	2	fill	
+0	Metadata/Terrain/Act6/Area15/Rooms/reef_fill_03.arm	45	56	5	fill	
+0	Metadata/Terrain/Act6/Area15/Rooms/reef_fill_02.arm	18	57	2	fill	
+0	Metadata/Terrain/Leagues/Expedition/encounter.arm	51	52	0	pass	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_BrinerotStores_01.arm	21	64	0	pass	

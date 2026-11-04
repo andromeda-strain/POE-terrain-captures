@@ -4374,10 +4374,10 @@ x	y	ground	flags	height
 26	41		3	0
 27	41		3	0
 28	41		3	0
-29	41	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	16
-30	41		3	16
-31	41		3	16
-32	41	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
+29	41	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	1
+30	41		3	1
+31	41		3	1
+32	41	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
 33	41		3	0
 34	41		3	0
 35	41	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	0
@@ -4480,15 +4480,15 @@ x	y	ground	flags	height
 26	42		3	0
 27	42		3	0
 28	42	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	0
-29	42	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
-30	42		3	16
-31	42		3	16
-32	42	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
+29	42	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
+30	42		3	1
+31	42		3	1
+32	42	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
 33	42	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	0
 34	42		3	0
-35	42		3	16
-36	42	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
-37	42		3	16
+35	42		3	1
+36	42	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
+37	42		3	1
 38	42		3	0
 39	42		3	0
 40	42		3	0
@@ -4586,15 +4586,15 @@ x	y	ground	flags	height
 26	43		3	0
 27	43		3	0
 28	43	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	0
-29	43	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
-30	43		3	16
-31	43	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
-32	43	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	16
+29	43	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
+30	43		3	1
+31	43	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
+32	43	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	1
 33	43	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	0
 34	43		3	0
-35	43		3	16
-36	43		3	16
-37	43		3	16
+35	43		3	1
+36	43		3	1
+37	43		3	1
 38	43		3	0
 39	43		3	0
 40	43		3	0
@@ -4692,15 +4692,15 @@ x	y	ground	flags	height
 26	44		3	0
 27	44		3	0
 28	44	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	0
-29	44		3	16
-30	44		3	16
-31	44	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	16
+29	44		3	1
+30	44		3	1
+31	44	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	1
 32	44	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	0
 33	44		3	0
 34	44	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	0
-35	44	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
-36	44	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
-37	44	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
+35	44	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
+36	44	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
+37	44	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
 38	44	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	0
 39	44		3	0
 40	44		3	0
@@ -4798,9 +4798,9 @@ x	y	ground	flags	height
 26	45		3	0
 27	45		3	0
 28	45		3	0
-29	45		3	16
-30	45	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
-31	45		3	16
+29	45		3	1
+30	45	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
+31	45		3	1
 32	45		3	0
 33	45		3	0
 34	45		3	0
@@ -5325,10 +5325,10 @@ x	y	ground	flags	height
 23	50		3	0
 24	50		3	0
 25	50		3	0
-26	50		3	16
-27	50		3	16
-28	50		3	16
-29	50	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
+26	50		3	1
+27	50		3	1
+28	50		3	1
+29	50	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
 30	50		3	0
 31	50	Metadata/Terrain/Beach/Features/Coral/coral.gt	3	0
 32	50		3	0
@@ -5431,10 +5431,10 @@ x	y	ground	flags	height
 23	51		3	0
 24	51		3	0
 25	51		3	0
-26	51		3	16
-27	51	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
-28	51		3	16
-29	51	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
+26	51		3	1
+27	51	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
+28	51		3	1
+29	51	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
 30	51	Metadata/Terrain/Beach/Features/Coral/coral.gt	3	0
 31	51		3	0
 32	51		3	0
@@ -7457,9 +7457,9 @@ x	y	ground	flags	height
 35	70		3	0
 36	70		3	0
 37	70	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	0
-38	70	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
-39	70	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
-40	70		3	16
+38	70	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
+39	70	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
+40	70		3	1
 41	70		3	0
 42	70		3	0
 43	70		3	0
@@ -7563,10 +7563,10 @@ x	y	ground	flags	height
 35	71		3	0
 36	71		3	0
 37	71		3	0
-38	71		3	16
-39	71		3	16
-40	71		3	16
-41	71		3	16
+38	71		3	1
+39	71		3	1
+40	71		3	1
+41	71		3	1
 42	71		3	0
 43	71		3	0
 44	71	Metadata/Terrain/Beach/Shoreline/beach_ocean_shallow_wet.gt	3	0
@@ -7669,10 +7669,10 @@ x	y	ground	flags	height
 35	72		3	0
 36	72		3	0
 37	72		3	0
-38	72		3	16
-39	72		3	16
-40	72		3	16
-41	72	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
+38	72		3	1
+39	72		3	1
+40	72		3	1
+41	72	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
 42	72	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_trim.gt	3	0
 43	72		3	0
 44	72	Metadata/Terrain/Beach/Shoreline/beach_ocean_shallow_wet.gt	3	0
@@ -7775,10 +7775,10 @@ x	y	ground	flags	height
 35	73		3	0
 36	73		3	0
 37	73		3	0
-38	73		3	16
-39	73		3	16
-40	73		3	16
-41	73	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	16
+38	73		3	1
+39	73		3	1
+40	73		3	1
+41	73	Metadata/Terrain/Mountain/DriedLake/SmallCliff/mountain_ledge_top_trim.gt	3	1
 42	73		3	0
 43	73		3	0
 44	73	Metadata/Terrain/Beach/Shoreline/beach_ocean_shallow_wet.gt	3	0

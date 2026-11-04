@@ -1,0 +1,30 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act7/Area7/Rooms/town_entrance.arm	12	15	3	node	telepad2 teleport1-ArenaNameRalakesh telepad1 teleport2-%areaname% entrance2disabled bosszone=2-ArenaNameRalakesh
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/churchwall_burning.arm	66	9	2	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/churchwall_burning2.arm	69	24	7	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/road_gate_burning_entrance.arm	72	14	3	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/cave_entrance.arm	62	19	0	node	entrance1 default
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burningriver2.arm	45	33	3	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burningroad3.arm	48	26	3	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burningroad2.arm	32	20	1	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burningroad5.arm	55	22	7	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/waypoint.arm	60	16	0	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burningroad2.arm	66	16	5	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/low_sink.arm	12	6	1	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/deep_source.arm	42	41	3	node	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields6_3.arm	73	6	3	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields8_1.arm	72	9	4	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields7_1.arm	76	11	6	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields6_4.arm	57	12	6	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill5.arm	47	18	3	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill2.arm	50	18	0	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill2.arm	47	20	6	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill5.arm	38	22	1	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/fill_fields6_4.arm	61	22	1	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill2.arm	66	24	4	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill2.arm	39	25	5	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill5.arm	44	28	4	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill3.arm	49	30	2	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill3.arm	54	30	3	fill	
+0	Metadata/Terrain/Act7/Area7/Rooms/BurningGround/burning_fields_fill2.arm	60	30	5	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_CursedTreasure_01.arm	39	33	0	pass	

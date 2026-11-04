@@ -1,0 +1,10 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapShipGraveyard/Rooms/entrance_1.arm	66	51	6	node	default
+0	Metadata/Terrain/EndGame/MapShipGraveyard/Rooms/boss_tp_1.arm	15	57	6	node	teleport1-Arena telepad2
+0	Metadata/Terrain/EndGame/MapShipGraveyard/Rooms/boss_1.arm	57	9	0	node	telepad1 teleport2-%areaname%
+0	Metadata/Terrain/EndGame/MapShipGraveyard/Rooms/reef_fill_01.arm	60	51	4	fill	
+0	Metadata/Terrain/EndGame/MapShipGraveyard/Rooms/reef_fill_01.arm	43	57	0	fill	
+0	Metadata/Terrain/EndGame/MapShipGraveyard/Rooms/reef_fill_04.arm	52	57	6	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_BrinerotStores_01.arm	62	57	0	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	39	60	0	pass	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	49	62	4	pass	

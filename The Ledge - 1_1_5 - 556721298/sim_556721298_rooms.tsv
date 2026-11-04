@@ -1,0 +1,10 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act1/Area5/Rooms/ledge_passageway.arm	9	15	0	node	entrance2
+0	Metadata/Terrain/Act1/Area5/Rooms/ledge_caveentrance.arm	75	81	7	node	entrance1 default
+0	Metadata/Terrain/Act1/Area5/Rooms/ledge_totem2.arm	72	42	4	node	
+0	Metadata/Terrain/Act1/Area5/Rooms/waypoint.arm	72	30	3	node	
+0	Metadata/Terrain/Act1/Area5/Rooms/ledge_totem2.arm	60	18	1	node	
+0	Metadata/Terrain/Act1/Area5/Rooms/ledge_miniboss.arm	36	21	7	node	
+0	Metadata/Terrain/Act1/Area5/Rooms/karuistone.arm	72	18	3	node	
+0	Metadata/Terrain/Act1/Area5/Rooms/camp.arm	84	18	4	node	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_CursedTreasure_01.arm	76	12	0	pass	

@@ -1,0 +1,34 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/entrance_01.arm	109	30	0	node	telepad1 default
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Features/clearing_ambush_03.arm	124	38	0	node	accessible
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Features/clearing_huts_03_04.arm	118	11	0	node	accessible
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Features/clearing_huts_01_04.arm	103	14	0	node	accessible
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Features/clearing_gruthkul_blood_01_04.arm	100	38	0	node	accessible
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/connection_02.arm	134	33	4	node	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/connection_02.arm	134	21	2	node	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_12.arm	121	9	2	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_13.arm	128	11	5	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_11.arm	104	12	7	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_13.arm	98	14	3	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_14.arm	123	15	0	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_12.arm	98	21	1	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_13.arm	102	22	3	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_13.arm	105	24	0	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_13.arm	108	24	3	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_13.arm	125	33	0	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_11.arm	102	36	4	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_13.arm	104	36	5	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_07.arm	107	36	4	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_13.arm	98	41	3	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_12.arm	129	42	6	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Fills/fill_11.arm	122	44	4	fill	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Overlays/StSS_long.arm	119	39	2	overlay	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Overlays/StWW_long.arm	110	48	0	overlay	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Overlays/StMM_long.arm	107	6	6	overlay	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Overlays/StWW_long.arm	107	48	0	overlay	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Overlays/StWW_long.arm	92	36	1	overlay	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Overlays/StWS_long.arm	113	21	3	overlay	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Overlays/StWS_long.arm	131	33	2	overlay	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Overlays/StWW_long.arm	131	27	1	overlay	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Overlays/StMM_long.arm	104	6	2	overlay	
+0	Metadata/Terrain/Leagues/Azmeri/AzmeriWoods/Rooms/Overlays/StMM_long.arm	134	39	3	overlay	

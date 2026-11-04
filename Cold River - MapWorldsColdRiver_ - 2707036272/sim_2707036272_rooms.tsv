@@ -1,0 +1,20 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapColdRiver/Rooms/entrance.arm	24	66	3	node	default killzone=7
+0	Metadata/Terrain/EndGame/MapColdRiver/Rooms/upstream_block.arm	33	66	0	node	
+0	Metadata/Terrain/EndGame/MapColdRiver/Rooms/side_entrance.arm	63	42	3	node	sidearea accessible
+0	Metadata/Terrain/EndGame/MapColdRiver/Rooms/join_2.arm	60	57	7	node	
+0	Metadata/Terrain/EndGame/MapColdRiver/Rooms/join_3.arm	30	54	0	node	
+0	Metadata/Terrain/EndGame/MapColdRiver/Rooms/boss_arena_3.arm	30	6	0	node	telepad1 teleport1-Arena
+0	Metadata/Terrain/EndGame/MapColdRiver/Rooms/join_2.arm	54	27	2	node	
+0	Metadata/Terrain/EndGame/MapColdRiver/Rooms/downstream_block.arm	66	57	3	node	
+0	Metadata/Terrain/EndGame/MapColdRiver/Rooms/join_2.arm	18	27	6	node	
+0	Metadata/Terrain/Leagues/Expedition/encounter.arm	10	33	0	pass	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	21	45	0	pass	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_BrinerotStores_01.arm	13	36	0	pass	
+0	Metadata/Terrain/Labyrinth/RoomSets/LabyrinthTrial.arm	19	49	3	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	15	44	0	pass	
+0	Metadata/Terrain/EndGame/MapColdRiver/Rooms/Overlays/jut_01.arm	6	39	1	overlay	
+0	Metadata/Terrain/EndGame/MapColdRiver/Rooms/Overlays/jut_01.arm	36	54	2	overlay	
+0	Metadata/Terrain/EndGame/MapColdRiver/Rooms/Overlays/jut_01.arm	39	54	2	overlay	
+0	Metadata/Terrain/EndGame/MapColdRiver/Rooms/Overlays/jut_01.arm	42	54	2	overlay	
+0	Metadata/Terrain/EndGame/MapColdRiver/Rooms/Overlays/jut_01.arm	60	33	7	overlay	

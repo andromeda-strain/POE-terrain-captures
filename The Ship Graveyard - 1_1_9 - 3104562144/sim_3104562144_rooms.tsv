@@ -1,0 +1,17 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act1/Area9/Rooms/entrance_beach.arm	6	6	6	node	entrance1 default
+0	Metadata/Terrain/Act1/Area9/Rooms/cliff_shore.arm	51	54	3	node	
+0	Metadata/Terrain/Leagues/Deepwater/Act1_ShipGraveyard/Rooms/intact_ship.arm	18	6	0	node	
+0	Metadata/Terrain/Leagues/Deepwater/Act1_ShipGraveyard/Rooms/shipdungeon_entrance.arm	21	49	2	node	unique1 entrance2 entrance3 killzone=0
+0	Metadata/Terrain/Act1/Area9/Rooms/exit_cliff.arm	30	57	1	node	entrance4 killzone=4
+0	Metadata/Terrain/Act1/Area9/Rooms/cliff_beach_sea2.arm	39	30	6	node	
+0	Metadata/Terrain/Leagues/Deepwater/Act1_ShipGraveyard/Rooms/fairgraves_shoreline_cliff.arm	9	30	0	node	
+0	Metadata/Terrain/Act1/Area9/Rooms/cliff_shore.arm	27	24	4	node	
+0	Metadata/Terrain/Act1/Area9/Rooms/treasure_ship.arm	27	36	1	node	
+0	Metadata/Terrain/Act1/Area9/Rooms/waypoint.arm	16	19	0	node	
+0	Metadata/Terrain/Act1/Area9/Rooms/cliff_beach_sea.arm	36	21	3	node	
+0	Metadata/Terrain/Act1/Area9/Rooms/glyph7_shore.arm	42	45	0	node	unique2
+0	Metadata/Terrain/Beach/LargeCliffs/Rooms/fill_cliff_island_6a.arm	34	42	3	fill	
+0	Metadata/Terrain/Beach/LargeCliffs/Rooms/fill_cliff_island_5a.arm	9	46	7	fill	
+0	Metadata/Terrain/Beach/LargeCliffs/Rooms/fill_cliff_island_4a.arm	28	48	4	fill	
+0	Metadata/Terrain/Beach/LargeCliffs/Rooms/fill_cliff_island_4a.arm	36	51	6	fill	

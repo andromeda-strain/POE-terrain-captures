@@ -1,0 +1,7 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act6/SideRadiantPool/Rooms/sidearea_entrance.arm	12	6	0	node	default sideentrance
+0	Metadata/Terrain/Act6/SideRadiantPool/Rooms/3waypool1.arm	18	20	2	node	
+0	Metadata/Terrain/Act6/SideRadiantPool/Rooms/2waypool1.arm	21	33	1	node	
+0	Metadata/Terrain/Act6/SideRadiantPool/Rooms/sidearea_boss.arm	12	36	0	node	
+0	Metadata/Terrain/Act6/SideRadiantPool/Rooms/3waypool2.arm	28	24	7	node	
+0	Metadata/Shrines/beach_01.arm	33	26	2	pass	

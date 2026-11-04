@@ -1,0 +1,17 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act1/Area8/Rooms/prison_front.arm	12	15	1	node	default entrance1disabled
+0	Metadata/Terrain/Act1/Area8/Rooms/lgcliff_valley_smcliff_2_stairs.arm	21	36	7	node	
+0	Metadata/Terrain/Act1/Area8/Rooms/lgcliff_valley_smcliff_2_stairs.arm	24	57	3	node	
+0	Metadata/Terrain/Act1/Area8/Rooms/lgcliff_valley_smcliff_3.arm	24	48	7	node	
+0	Metadata/Terrain/Act1/Area8/Rooms/lgcliff_valley_smcliff_7.arm	33	36	0	node	
+0	Metadata/Terrain/Act1/Area8/Rooms/lgcliff_valley_smcliff_6_stairs.arm	45	36	2	node	
+0	Metadata/Terrain/Act1/Area8/Rooms/lgcliff_valley_smcliff_8_stairs.arm	30	27	7	node	
+0	Metadata/Terrain/Act1/Area8/Rooms/blocked_passage.arm	24	66	0	node	entrance3
+0	Metadata/Terrain/Act1/Area8/Rooms/lgcliff_valley_smcliff_1.arm	30	15	5	node	
+0	Metadata/Terrain/Act1/Area8/Rooms/exit.arm	48	12	6	node	entrance2
+0	Metadata/Terrain/Act1/Area8/Rooms/lgcliff_valley_smcliff_6_stairs.arm	42	6	4	node	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	12	49	0	pass	
+0	Metadata/Terrain/Act1/Area8/Rooms/Overlays/goatman_spawner_cv_02.arm	36	15	0	overlay	
+0	Metadata/Terrain/Act1/Area8/Rooms/Overlays/goatman_spawner_cv_02.arm	42	30	2	overlay	
+0	Metadata/Terrain/Act1/Area8/Rooms/Overlays/goatman_spawner_st_02.arm	9	39	1	overlay	
+0	Metadata/Terrain/Act1/Area8/Rooms/Overlays/goatman_spawner_st_02.arm	39	6	6	overlay	

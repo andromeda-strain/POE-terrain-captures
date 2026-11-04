@@ -1,0 +1,31 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act2/Area12/Rooms/exit_1.arm	12	57	0	node	entrance2 killzone=5
+0	Metadata/Terrain/Act2/Area12/Rooms/flow_sink_1_weak.arm	12	6	5	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/river_dune_4.arm	27	63	4	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/flow_source_1.arm	33	21	3	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/bandit_boss_dune_1a.arm	18	36	3	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/ledgefall_blocker_1.arm	27	27	0	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/pool_river_2.arm	32	14	0	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/ledgefall_blocker_1.arm	12	42	0	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/flow_source_4.arm	6	51	6	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/bridge_transition.arm	24	9	1	node	default entrance1
+0	Metadata/Terrain/Act2/Area12/Rooms/flow_source_4.arm	42	39	4	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/Fill/pool_1.arm	28	6	1	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent2.arm	33	6	2	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/Fill/pool_2.arm	38	6	4	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent3.arm	44	7	3	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/Fill/pool_2.arm	32	8	1	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/Fill/pool_2.arm	37	11	2	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/Fill/pool_1.arm	44	11	3	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent_camp_4b.arm	21	15	3	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/Fill/pool_4.arm	40	16	3	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/Fill/pool_1.arm	15	18	3	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/Fill/pool_1.arm	21	20	6	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent2.arm	19	22	2	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent_camp_2b.arm	15	27	6	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/Fill/pool_4.arm	33	41	3	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/Fill/pool_3.arm	22	47	7	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent_camp_6b.arm	31	48	6	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent_camp_3b.arm	37	51	4	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent_camp_2b.arm	18	54	4	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent3.arm	24	58	5	fill	

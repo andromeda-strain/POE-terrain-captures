@@ -1,0 +1,18 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act6/Area1/Rooms/town_entrance_exclude.arm	54	24	0	node	entrance1 default
+0	Metadata/Terrain/Act6/Area1/Rooms/washed_up3.arm	9	6	3	node	
+0	Metadata/Terrain/Act6/Area1/Rooms/cliff_nests.arm	15	24	3	node	
+0	Metadata/Terrain/Act6/Area1/Rooms/glyph.arm	30	21	0	node	
+0	Metadata/Terrain/Act6/Area1/Rooms/wall_1b.arm	27	21	7	fill	
+0	Metadata/Terrain/Act6/Area1/Rooms/wall_1b.arm	34	27	7	fill	
+0	Metadata/Terrain/Act6/Area1/Rooms/wall_1a.arm	37	27	3	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_CursedTreasure_01.arm	25	15	0	pass	
+0	Metadata/Shrines/beach_01.arm	22	16	5	pass	
+0	Metadata/Terrain/Act1/Area1/Rooms/Overlays/beach_deep_St_02.arm	39	18	4	overlay	
+0	Metadata/Terrain/Act1/Area1/Rooms/Overlays/beach_deep_St_05.arm	33	15	1	overlay	
+0	Metadata/Terrain/Act1/Area1/Rooms/Overlays/beach_virtual_Cv_01.arm	33	6	5	overlay	
+0	Metadata/Terrain/Act1/Area1/Rooms/Overlays/beach_deep_St_02.arm	54	9	3	overlay	
+0	Metadata/Terrain/Act1/Area1/Rooms/Overlays/beach_deep_St_03.arm	54	18	7	overlay	
+0	Metadata/Terrain/Act1/Area1/Rooms/Overlays/beach_virtual_Split_01.arm	18	6	0	overlay	
+0	Metadata/Terrain/Act1/Area1/Rooms/Overlays/beach_shore_St_01.arm	36	24	0	overlay	
+0	Metadata/Terrain/Act1/Area1/Rooms/Overlays/beach_virtual_Split_01.arm	27	6	4	overlay	

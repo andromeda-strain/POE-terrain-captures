@@ -1,0 +1,32 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapOasis/Rooms/Unique/oasis_entire.arm	23	45	7	node	
+0	Metadata/Terrain/EndGame/MapOasis/Rooms/Unique/entrance.arm	36	12	0	node	default
+0	Metadata/Terrain/EndGame/MapOasis/Rooms/Unique/boss_entry.arm	39	66	3	node	telepad1 teleport2-ArenaNameShakari telepad5 teleport6disabled-ArenaNameShakari3
+0	Metadata/Terrain/EndGame/MapOasis/Rooms/Unique/Camps/camp.arm	27	63	5	node	
+0	Metadata/Terrain/EndGame/MapOasis/Rooms/Unique/Camps/camp1_2.arm	15	30	5	node	
+0	Metadata/Terrain/EndGame/MapOasis/Rooms/Unique/boss1.arm	63	33	3	node	telepad2 teleport1-%areaname% telepad3 teleport4-ArenaNameShakari3
+0	Metadata/Terrain/EndGame/MapOasis/Rooms/Unique/boss2.arm	60	6	0	node	telepad4 teleport3-ArenaNameShakari teleport5disabled-%areaname% telepad6
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/blank_tent1.arm	24	30	3	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/blank_tent1.arm	45	31	0	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	30	38	5	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	32	38	3	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	27	39	2	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	21	40	4	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_1.arm	24	41	0	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	27	41	5	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_1.arm	33	42	3	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/blank_tent1.arm	12	43	7	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	28	43	5	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_1.arm	18	45	1	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	20	49	5	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	22	53	1	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_1.arm	25	55	6	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	27	57	5	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	30	57	3	fill	
+0	Metadata/Terrain/Act9/Area4/Rooms/Fills/blank_tent1.arm	34	57	5	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	17	57	0	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	13	50	0	pass	
+0	Metadata/Terrain/Leagues/Legion/legion_monolith.arm	42	48	1	pass	
+0	Metadata/Terrain/Leagues/Legion/legion_monolith.arm	50	28	3	pass	
+0	Metadata/Terrain/Leagues/Legion/legion_monolith.arm	29	33	4	pass	
+0	Metadata/Terrain/Leagues/Legion/legion_monolith.arm	51	35	6	pass	

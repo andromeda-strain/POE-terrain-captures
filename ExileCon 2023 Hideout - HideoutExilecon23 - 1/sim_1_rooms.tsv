@@ -1,0 +1,4 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Missions/Hideouts/Exilecon23/hideout_level2.arm	6	22	0	node	default telepad2 telepad3 teleport1 teleport4
+0	Metadata/Terrain/Missions/Hideouts/Exilecon23/hideout_level1.arm	6	6	0	node	telepad1 teleport2
+0	Metadata/Terrain/Missions/Hideouts/Exilecon23/hideout_level3.arm	6	38	0	node	telepad4 teleport3

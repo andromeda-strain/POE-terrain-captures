@@ -1,0 +1,14 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act2/Area8/Rooms/inca_twist_2.arm	48	9	0	node	entrance1 default
+0	Metadata/Terrain/Act2/Area8/Rooms/dune_join_forest_cliff.arm	33	21	1	node	
+0	Metadata/Terrain/Act2/Area8/Rooms/waypoint_river_1.arm	36	27	3	node	
+0	Metadata/Terrain/Act2/Area8/Rooms/exit_1.arm	36	78	0	node	entrance3
+0	Metadata/Terrain/Act2/Area8/Rooms/grove_twist.arm	9	18	7	node	entrance2
+0	Metadata/Terrain/Act7/Area8/Rooms/thickforest_river_join.arm	36	51	7	node	
+0	Metadata/Terrain/Act2/Area8/Rooms/azmeri_quest_shrine.arm	24	48	0	node	
+0	Metadata/Terrain/Act2/Area8/Rooms/flow_source_1.arm	48	92	2	node	
+0	Metadata/Terrain/Act7/Area8/Rooms/thickforest_river_join.arm	36	66	3	node	
+0	Metadata/Terrain/Act7/Area8/Rooms/thickforest_river_join.arm	36	42	3	node	
+0	Metadata/Terrain/Act7/Area8/Rooms/thickforest_river_join.arm	36	36	7	node	
+0	Metadata/Terrain/Forest/ThickForest/Rooms/fill_island_2.arm	30	71	6	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	30	68	0	pass	

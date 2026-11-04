@@ -1,0 +1,38 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Unique/entrance.arm	4	16	0	node	default
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Unique/exit.arm	4	88	0	node	teleport1-BetrayalSafehouseEntranceText telepad2
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Border/border_end.arm	28	88	0	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Border/border_end.arm	28	16	6	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Shoreline/shore_2_1.arm	4	70	6	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Shoreline/shore_1_2.arm	4	52	6	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Shoreline/shore_2_2.arm	4	34	0	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Border/border_straight.arm	22	88	4	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Border/border_straight.arm	22	16	6	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	28	82	3	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	28	22	1	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	22	70	1	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	22	76	3	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	22	82	4	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	22	52	2	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	22	58	3	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	22	64	7	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	22	34	3	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	22	40	5	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	22	46	4	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	22	22	3	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	28	76	3	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	28	28	3	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	28	70	4	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	28	52	6	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	28	58	6	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	28	64	1	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	28	34	6	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	22	28	6	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	28	40	2	node	
+0	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Assassins/Rooms/Fill/ocean_fill.arm	28	46	3	node	
+1	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/boss_assassin.arm	10	112	0	node	teleport2disabled-%areaname% telepad1
+1	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/loothallway.arm	16	124	0	node	
+1	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_leo.arm	22	124	0	node	
+1	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/loothallway2_assassins.arm	16	130	0	node	
+1	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_tora.arm	16	136	7	node	
+1	Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_vagan.arm	10	130	4	node	

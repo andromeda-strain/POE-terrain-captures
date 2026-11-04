@@ -1,0 +1,6 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Missions/Hideouts/Shaper/Rooms/hideout_hub.arm	15	15	0	node	default
+1	Metadata/Terrain/Missions/Hideouts/Shaper/Chimera/Rooms/hideout_chimera.arm	21	3	0	node	teleport3-Portal telepad1
+2	Metadata/Terrain/Missions/Hideouts/Shaper/Phoenix/Rooms/hideout_phoenix.arm	21	33	0	node	teleport1-Portal telepad3
+3	Metadata/Terrain/Missions/Hideouts/Shaper/Minotaur/Rooms/hideout_minotaur.arm	33	21	0	node	teleport2-Portal telepad4
+4	Metadata/Terrain/Missions/Hideouts/Shaper/Hydra/Rooms/hideout_hydra.arm	3	21	0	node	teleport4-Portal telepad2

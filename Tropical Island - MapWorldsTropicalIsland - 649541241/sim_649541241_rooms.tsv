@@ -1,0 +1,16 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapForest/Rooms/cave.arm	70	6	4	node	telepad2 teleport1-MapTropicalIslandCave
+0	Metadata/Terrain/EndGame/MapForest/Rooms/dock.arm	117	30	2	node	default
+0	Metadata/Terrain/EndGame/MapForest/Rooms/cave.arm	81	30	0	node	telepad4 teleport3-MapTropicalIslandCave
+0	Metadata/Terrain/EndGame/MapForest/Rooms/boss.arm	29	6	4	node	
+0	Metadata/Terrain/EndGame/MapForest/Rooms/tunnel1.arm	6	6	0	node	telepad3 teleport4-%areaname% telepad1 teleport2-%areaname%
+0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	124	6	1	node	
+0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	124	18	7	node	
+0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	125	30	2	node	
+0	Metadata/Terrain/EndGame/MapForest/Rooms/flow_source_1.arm	124	12	7	node	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_BrinerotStores_01.arm	97	17	0	pass	
+0	Metadata/Terrain/Leagues/Blight/blight_encounter.arm	64	20	4	pass	
+0	Metadata/Terrain/Leagues/Settlers/Node/ore_node.arm	92	14	0	pass	
+0	Metadata/Terrain/Leagues/Settlers/Node/ore_node.arm	66	23	0	pass	
+0	Metadata/Terrain/Leagues/Settlers/Node/ore_node.arm	59	22	0	pass	
+0	Metadata/Terrain/vaal_side_area.arm	80	12	0	pass	

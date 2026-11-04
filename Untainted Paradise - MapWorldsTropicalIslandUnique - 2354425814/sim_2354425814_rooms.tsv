@@ -1,0 +1,6 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapParadise/Rooms/water_smallcliff_stairs_1.arm	27	9	3	node	
+0	Metadata/Terrain/EndGame/MapParadise/Rooms/boss_1.arm	54	6	0	node	telepad1 teleport2-%areaname%
+0	Metadata/Terrain/EndGame/MapParadise/Rooms/water_smallcliff_stairs_1.arm	12	51	7	node	
+0	Metadata/Terrain/EndGame/MapParadise/Rooms/caveentrance_1.arm	32	42	0	node	teleport1-Arena telepad2
+0	Metadata/Terrain/EndGame/MapParadise/Rooms/entrance_1.arm	6	15	3	node	default

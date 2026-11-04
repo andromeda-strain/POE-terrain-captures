@@ -1,0 +1,24 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Features/boss.arm	12	9	3	node	telepad2 teleport1-Arena telepad1 teleport2-%areaname% bosszone=2-Arena
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Features/bandit_joins_lowwater2.arm	66	21	1	node	
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Features/entrance.arm	57	36	1	node	default
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Features/bandit_joins_cliff2.arm	27	27	2	node	
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Features/bandit_joins_lowwater1.arm	57	12	1	node	
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Features/bandit_joins_cliff1.arm	36	39	1	node	
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Features/bandit_joins_lowwater2.arm	36	9	0	node	
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Features/bandit_bridge_1.arm	39	32	5	node	
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Features/pittraps_end.arm	40	17	6	node	
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Features/pittraps_end.arm	54	35	4	node	
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Features/bandit_sink.arm	75	27	0	node	
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Features/deep_source.arm	9	54	0	node	
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Fills/farm_fill_07.arm	33	15	5	fill	
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Fills/farm_fill_06.arm	63	15	6	fill	
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Fills/farm_fill_06.arm	44	17	5	fill	
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Fills/farm_fill_07.arm	46	21	5	fill	
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Fills/farm_fill_08.arm	59	21	4	fill	
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Fills/farm_fill_06.arm	49	31	4	fill	
+0	Metadata/Terrain/EndGame/MapFields/Rooms/Fills/farm_fill_07.arm	48	38	3	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	62	30	0	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	45	34	0	pass	
+0	Metadata/Terrain/vaal_side_area.arm	35	27	0	pass	
+0	Metadata/Shrines/forest_01.arm	65	31	3	pass	

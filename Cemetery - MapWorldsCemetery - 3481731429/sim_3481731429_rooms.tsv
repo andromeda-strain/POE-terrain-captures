@@ -1,0 +1,19 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/despair_boss.arm	62	6	0	node	telepad1 teleport2-%areaname% killzone=7
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/entrance_1.arm	23	38	0	node	default unique1
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/exit_1.arm	7	27	0	node	teleport1-Arena unique2 killzone=0 telepad2
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_1.arm	28	8	0	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_5.arm	11	12	2	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_4.arm	25	12	0	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_1.arm	30	12	3	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_4.arm	27	17	7	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_1.arm	8	20	5	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_2.arm	27	22	1	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_3.arm	12	23	0	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_3.arm	18	23	2	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_2.arm	25	31	1	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_3.arm	14	32	1	fill	
+0	Metadata/Terrain/EndGame/MapCemetary/Rooms/Fills/abyss_3.arm	31	34	2	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_CursedTreasure_01.arm	36	36	0	pass	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	37	45	0	pass	
+0	Metadata/Terrain/vaal_side_area.arm	19	19	0	pass	

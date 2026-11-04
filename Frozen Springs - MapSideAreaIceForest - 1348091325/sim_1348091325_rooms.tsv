@@ -1,0 +1,14 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapColdWood/SideAreaIceForest/Rooms/sidearea_entrance.arm	18	12	0	node	default sideentrance
+0	Metadata/Terrain/EndGame/MapColdWood/SideAreaIceForest/Rooms/pool4.arm	20	25	0	node	
+0	Metadata/Terrain/EndGame/MapColdWood/SideAreaIceForest/Rooms/pool2.arm	24	37	6	node	
+0	Metadata/Terrain/EndGame/MapColdWood/SideAreaIceForest/Rooms/sidearea_boss.arm	12	45	0	node	
+0	Metadata/Terrain/EndGame/MapColdWood/SideAreaIceForest/Rooms/pool1.arm	30	31	2	node	
+0	Metadata/Terrain/EndGame/MapColdWood/Rooms/fill_05.arm	18	18	2	fill	
+0	Metadata/Terrain/EndGame/MapColdWood/Rooms/fill_04.arm	30	21	6	fill	
+0	Metadata/Terrain/EndGame/MapColdWood/Rooms/fill_05.arm	20	31	0	fill	
+0	Metadata/Terrain/EndGame/MapColdWood/Rooms/fill_05.arm	15	39	1	fill	
+0	Metadata/Terrain/EndGame/MapColdWood/Rooms/fill_04.arm	33	41	5	fill	
+0	Metadata/Terrain/EndGame/MapColdWood/Rooms/Overlays/jut_01.arm	36	36	3	overlay	
+0	Metadata/Terrain/EndGame/MapColdWood/Rooms/Overlays/jut_01.arm	36	33	3	overlay	
+0	Metadata/Terrain/EndGame/MapColdWood/Rooms/Overlays/jut_01.arm	12	36	1	overlay	
