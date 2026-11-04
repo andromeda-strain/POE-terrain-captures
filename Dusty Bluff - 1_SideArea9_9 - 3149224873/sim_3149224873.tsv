@@ -1612,7 +1612,7 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 26	44	0x0	0x0	0	0	32	4	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Ravine/ascent_void_v01_01.tdt
 27	44	0x0	0x0	0	0	32	5	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Ravine/ascent_void_v01_01.tdt
 28	44	0x0	0x0	0	0	32	3	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Ravine/ascent_void_v01_01.tdt
-29	44	0x0	0x0	0	0	64	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Ravine/ascent_void_v01_01.tdt
+29	44	0x0	0x0	0	0	32	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Ravine/ascent_void_v01_01.tdt
 30	44	0x0	0x0	0	2	64	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Ravine/ascent_abyssstraight_cliffstraight_v01_01.tdt
 31	44	0x0	0x0	1	2	64	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Ravine/ascent_abyssstraight_cliffstraight_v01_01.tdt
 32	44	0x0	0x0	2	2	64	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Ravine/ascent_abyssstraight_cliffstraight_v01_01.tdt
@@ -1652,9 +1652,9 @@ x	y	tile	tiledef	subx	suby	w48	b54	b55	w16	w18	w20	w22	q24	q32	q40	w50	path
 30	45	0x0	0x0	0	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Ravine/ascent_abyssstraight_cliffstraight_v01_01.tdt
 31	45	0x0	0x0	1	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Ravine/ascent_abyssstraight_cliffstraight_v01_01.tdt
 32	45	0x0	0x0	2	0	0	2	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Ravine/ascent_abyssstraight_cliffstraight_v01_01.tdt
-33	45	0x0	0x0	0	0	64	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Cliff/ascent_clifftop_fill_v01_01.tdt
-34	45	0x0	0x0	0	0	64	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Cliff/ascent_clifftop_fill_v01_01.tdt
-35	45	0x0	0x0	0	0	64	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Cliff/ascent_clifftop_fill_v01_01.tdt
+33	45	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Cliff/ascent_clifftop_fill_v01_01.tdt
+34	45	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Cliff/ascent_clifftop_fill_v01_01.tdt
+35	45	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Cliff/ascent_clifftop_fill_v01_01.tdt
 0	46	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Cliff/ascent_clifftop_fill_v01_01.tdt
 1	46	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Cliff/ascent_clifftop_fill_v01_01.tdt
 2	46	0x0	0x0	0	0	0	0	8	0	0	0	0	0x0	0x0	0x0	0	Metadata/Terrain/Act4/Area7/Cliff/ascent_clifftop_fill_v01_01.tdt

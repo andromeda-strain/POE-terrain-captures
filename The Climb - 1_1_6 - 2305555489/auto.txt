@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 475197573 doodad hash 3608486354 (CLI_ACTIVATE_MAP)
+AUTO seed 2305555489 The Climb: terrain act1/area6/ graph macro_climb1_1.tgr (4 locked nodes match; capture 46 nodes, graph 30)
+   typed nodes never placed by the client (untilised): [0, 1, 2, 3, 4, 5, 8, 9, 13, 18, 21, 28, 29]
+   node pipeline: pre-pick words 1, vaal_pending False, hideout_claim False: free nodes 14/14 match
+   tile grid: captures\The Climb - 1_1_6 - 2305555489\truth_2ae2bfe4bf0.tsv (87x54, 4698 cells) VERIFIED against tile hash 475197573
+   walkable field: captures\The Climb - 1_1_6 - 2305555489\walkable_2ae2bfe4bf0_melee.png (12.3% of the sub-cells walkable, matches the tiles' hull field at IoU 0.984; 6 layer(s) read; stored for the grid as walkable_2ae2bfe4bf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Climb - 1_1_6 - 2305555489\minimap.png
+   FAIL: permute-in 18/18, permute-out 18/18, rounder-in-1 18/18, rounder-in-2 18/18, rounder-in-3 20/21, rounder-in-4 20/21, rounder-in-5 20/21
+   layout: captures\The Climb - 1_1_6 - 2305555489\layout.png; minimap captures\The Climb - 1_1_6 - 2305555489\minimap.png
+   corpus row appended

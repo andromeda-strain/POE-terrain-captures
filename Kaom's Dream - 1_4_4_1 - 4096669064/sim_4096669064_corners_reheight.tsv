@@ -771,9 +771,9 @@ x	y	ground	flags	height
 46	21	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
 47	21	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
 48	21	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
-49	21	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	64
-50	21	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	64
-51	21	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	64
+49	21	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
+50	21	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
+51	21	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
 52	21	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	64
 53	21	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_large_cliff_trim.gt	3	64
 54	21	Metadata/Terrain/Mountain/Plateau/Abyss/plateau_abyss_edge.gt	3	64
@@ -2243,7 +2243,7 @@ x	y	ground	flags	height
 54	45	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
 55	45	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	192
 56	45	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	192
-57	45	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	192
+57	45	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
 58	45	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
 59	45	Metadata/Terrain/Mountain/Plateau/Abyss/plateau_abyss_edge.gt	3	128
 60	45	Metadata/Terrain/Mountain/Plateau/Abyss/plateau_abyss_edge.gt	3	128
@@ -2301,10 +2301,10 @@ x	y	ground	flags	height
 51	46	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
 52	46	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
 53	46	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
-54	46	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
+54	46	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	192
 55	46	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	192
 56	46	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	192
-57	46	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	192
+57	46	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
 58	46	Metadata/Terrain/Act4/Area4Level1/GroundTypes/kaom_ground.gt	3	128
 59	46	Metadata/Terrain/Act4/Area4Level1/GroundTypes/kaom_ground.gt	3	128
 60	46	Metadata/Terrain/Act4/Area4Level1/GroundTypes/kaom_ground.gt	3	128
@@ -2362,7 +2362,7 @@ x	y	ground	flags	height
 51	47	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
 52	47	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
 53	47	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
-54	47	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
+54	47	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	192
 55	47	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	192
 56	47	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_large_cliff_trim.gt	3	192
 57	47	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_large_cliff_trim.gt	3	192
@@ -2423,7 +2423,7 @@ x	y	ground	flags	height
 51	48	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
 52	48	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
 53	48	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
-54	48	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
+54	48	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	192
 55	48	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	192
 56	48	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_large_cliff_trim.gt	3	192
 57	48	Metadata/Terrain/Act4/Area4Level1/GroundTypes/kaom_ground.gt	3	192
@@ -2602,7 +2602,7 @@ x	y	ground	flags	height
 47	51	Metadata/Terrain/Act4/Area4Level1/GroundTypes/kaom_ground.gt	3	128
 48	51	Metadata/Terrain/Act4/Area4Level1/GroundTypes/kaom_ground.gt	3	128
 49	51	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_large_cliff_trim.gt	3	128
-50	51	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	128
+50	51	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	192
 51	51	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	192
 52	51	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	192
 53	51	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	192

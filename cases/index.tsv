@@ -1740,3 +1740,15 @@ seed	area	terrain	generator	capture	truth	tile_hash	truth_hash	verified	status	a
 2054789169	The Ashen Fields	act7/area7/	tgr	captures/The Ashen Fields - 2_7_7 - 2054789169/stages_20261104_110039.csv	captures/The Ashen Fields - 2_7_7 - 2054789169/truth_4c6ae6133f0.tsv	3378197410	3378197410	yes	DIFF	2_7_7
 268953775	The Crossroads	act7/area2/	tgr	captures/The Crossroads - 2_7_2 - 268953775/stages_20261104_110103.csv	captures/The Crossroads - 2_7_2 - 268953775/truth_4c6efae9bf0.tsv	1542874368	1542874368	yes	DIFF	2_7_2
 724239180	The Broken Bridge	act7/area1/	tgr	captures/The Broken Bridge - 2_7_1 - 724239180/stages_20261104_110127.csv	captures/The Broken Bridge - 2_7_1 - 724239180/truth_4c6c968e3f0.tsv	3523526409	3523526409	yes	DIFF	2_7_1
+2521507425	The Climb	-	?	captures/The Climb - 1_1_6 - 2521507425/stages_20261104_163112.csv	-	113708051	-	no	no stages	1_1_6
+3498603391	The Climb	act1/area6/	tgr	captures/The Climb - 1_1_6 - 3498603391/stages_20261104_163407.csv	captures/The Climb - 1_1_6 - 3498603391/truth_2ae41b923f0.tsv	940061143	940061143	yes	DIFF	1_1_6
+3321500148	The Climb	act1/area6/	tgr	captures/The Climb - 1_1_6 - 3321500148/stages_20261104_163349.csv	captures/The Climb - 1_1_6 - 3321500148/truth_2ae2b615bf0.tsv	2557506026	2557506026	yes	DIFF	1_1_6
+2667958865	The Climb	act1/area6/	tgr	captures/The Climb - 1_1_6 - 2667958865/stages_20261104_163425.csv	captures/The Climb - 1_1_6 - 2667958865/truth_2ae064d13f0.tsv	1869172047	1869172047	yes	DIFF	1_1_6
+3962889636	The Climb	act1/area6/	tgr	captures/The Climb - 1_1_6 - 3962889636/stages_20261104_163558.csv	captures/The Climb - 1_1_6 - 3962889636/truth_2ae0617a3f0.tsv	9325112	9325112	yes	DIFF	1_1_6
+1422566649	The Climb	act1/area6/	tgr	captures/The Climb - 1_1_6 - 1422566649/stages_20261104_163613.csv	captures/The Climb - 1_1_6 - 1422566649/truth_2add1e7cbf0.tsv	193718255	193718255	yes	DIFF	1_1_6
+1243546895	The Climb	act1/area6/	tgr	captures/The Climb - 1_1_6 - 1243546895/stages_20261104_163627.csv	captures/The Climb - 1_1_6 - 1243546895/truth_2ae2b61bbf0.tsv	1408781798	1408781798	yes	DIFF	1_1_6
+2305555489	The Climb	act1/area6/	tgr	captures/The Climb - 1_1_6 - 2305555489/stages_20261104_163651.csv	captures/The Climb - 1_1_6 - 2305555489/truth_2ae2bfe4bf0.tsv	475197573	475197573	yes	DIFF	1_1_6
+4148475360	The Climb	act1/area6/	tgr	captures/The Climb - 1_1_6 - 4148475360/stages_20261104_163706.csv	captures/The Climb - 1_1_6 - 4148475360/truth_2ae2bf36bf0.tsv	3653112660	3653112660	yes	DIFF	1_1_6
+3133523472	The Climb	act1/area6/	tgr	captures/The Climb - 1_1_6 - 3133523472/stages_20261104_163840.csv	captures/The Climb - 1_1_6 - 3133523472/truth_2ae42c693f0.tsv	4081257637	4081257637	yes	DIFF	1_1_6
+2634771453	Shrine	-	dgr	captures/Shrine - MapWorldsShrine - 2634771453/stages_20261104_163949.csv	captures/Shrine - MapWorldsShrine - 2634771453/truth_2add1d0bbf0.tsv	2059947685	2059947685	yes	dungeon trace	MapWorldsShrine
+4035516448	Sealed Repository	-	dgr	captures/Sealed Repository - MapSideArea7_4 - 4035516448/stages_20261104_165923.csv	captures/Sealed Repository - MapSideArea7_4 - 4035516448/truth_2ae42b8cbf0.tsv	2059947685	2059947685	yes	dungeon trace	MapSideArea7_4

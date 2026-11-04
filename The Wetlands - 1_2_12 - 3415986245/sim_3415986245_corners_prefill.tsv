@@ -560,7 +560,7 @@ x	y	ground	flags	height
 12	18	Metadata/Terrain/Forest/LargeCliffs/forest_inside_cliff.gt	3	32
 13	18	Metadata/Terrain/Forest/LargeCliffs/forest_inside_cliff.gt	3	32
 14	18	Metadata/Terrain/Forest/LargeCliffs/forest_inside_cliff.gt	3	32
-15	18	Metadata/Terrain/Forest/LargeCliffs/forest_inside_cliff.gt	3	32
+15	18	Metadata/Terrain/Forest/LargeCliffs/forest_inside_cliff.gt	3	0
 16	18	Metadata/Terrain/Forest/LargeCliffs/forest_inside_cliff.gt	3	0
 17	18	Metadata/Terrain/Forest/LargeCliffs/forest_large_cliff_trim.gt	3	0
 18	18	Metadata/Terrain/Forest/LargeCliffs/forest_large_cliff_trim.gt	3	0
@@ -2513,7 +2513,7 @@ x	y	ground	flags	height
 33	60	Metadata/Terrain/Act2/Area12/GroundTypes/forest_top.gt	3	64
 34	60	Metadata/Terrain/Forest/LargeCliffs/forest_large_cliff_trim.gt	3	64
 35	60	Metadata/Terrain/Forest/LargeCliffs/forest_inside_cliff.gt	3	64
-36	60	Metadata/Terrain/Forest/LargeCliffs/forest_inside_cliff.gt	3	32
+36	60	Metadata/Terrain/Forest/LargeCliffs/forest_inside_cliff.gt	3	64
 37	60	Metadata/Terrain/Forest/LargeCliffs/forest_inside_cliff.gt	3	32
 38	60	Metadata/Terrain/Forest/LargeCliffs/forest_inside_cliff.gt	3	32
 39	60	Metadata/Terrain/Forest/LargeCliffs/forest_inside_cliff.gt	3	32

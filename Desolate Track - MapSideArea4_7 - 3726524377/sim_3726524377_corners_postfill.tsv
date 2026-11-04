@@ -202,8 +202,8 @@ x	y	ground	flags	height
 17	9	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	3	32
 18	9	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	3	32
 19	9	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	3	32
-20	9	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	3	64
-21	9	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	3	64
+20	9	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	3	0
+21	9	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	3	0
 22	9	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	3	0
 23	9	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	3	0
 24	9	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	3	0
@@ -1033,7 +1033,7 @@ x	y	ground	flags	height
 11	36		3	32
 12	36		3	32
 13	36	Metadata/Terrain/trims2.gt	3	32
-14	36	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	32
+14	36	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	64
 15	36	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	64
 16	36	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	64
 17	36	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	64
@@ -1415,9 +1415,9 @@ x	y	ground	flags	height
 21	48		3	64
 22	48	Metadata/Terrain/trims2.gt	3	64
 23	48	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	64
-24	48	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	0
-25	48	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	0
-26	48	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	0
+24	48	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	64
+25	48	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	64
+26	48	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	64
 27	48	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	0
 28	48	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	0
 29	48	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	3	0
@@ -2714,7 +2714,7 @@ x	y	ground	flags	height
 18	90	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	64
 19	90	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	64
 20	90	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	64
-21	90	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	64
+21	90	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	0
 22	90	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	0
 23	90	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	3	0
 24	90	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	3	0
@@ -2745,7 +2745,7 @@ x	y	ground	flags	height
 18	91	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	64
 19	91	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	64
 20	91	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	64
-21	91	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	64
+21	91	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	0
 22	91	Metadata/Terrain/Act4/Area7/Ravine/ascent_void.gt	3	0
 23	91	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	3	0
 24	91	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	3	0
@@ -2776,7 +2776,7 @@ x	y	ground	flags	height
 18	92	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	11	64
 19	92	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	11	64
 20	92	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	11	64
-21	92	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	11	64
+21	92	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	11	0
 22	92	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	11	0
 23	92	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	11	0
 24	92	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	11	0
@@ -2807,7 +2807,7 @@ x	y	ground	flags	height
 18	93	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	11	64
 19	93	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	11	64
 20	93	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	11	64
-21	93	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	11	64
+21	93	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	11	0
 22	93	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	11	0
 23	93	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	11	0
 24	93	Metadata/Terrain/Act4/Area7/Cliff/ascent_cliff.gt	11	0

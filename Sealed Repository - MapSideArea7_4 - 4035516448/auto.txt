@@ -1,0 +1,42 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2059947685 doodad hash 3739990416 (CLI_ACTIVATE_MAP)
+AUTO seed 4035516448 Sealed Repository: dungeon area (capture captures/Sealed Repository - MapSideArea7_4 - 4035516448/stages_20261104_165923.csv)
+   dungeon (.dgr) pipeline: 21258 draws in 35 call sites (20 generator draws before it, 72370 after it - the post passes); no generator model yet
+   0x14203a8e0: 35 draws, bounds 100
+   0x142105ee9: 25 draws, bounds 1,100
+   0x142107272: 26 draws, bounds 140,300,441,1502
+   0x1420fd32a: 308 draws, bounds 128
+   0x142012839: 8 draws, bounds 1,3,4,8
+   0x1420fd640: 456 draws, bounds 300,441,480,1502
+   0x142001ee5: 112 draws, bounds 1
+   0x1420fc763: 5 draws, bounds 1,3
+   0x14210862e: 105 draws, bounds 1,120,410,530,4100,7380,32201
+   0x14210871c: 105 draws, bounds 840
+   0x142108799: 5 draws, bounds 120,7380
+   0x1421087b9: 5 draws, bounds 840
+   0x142109942: 99 draws, bounds 6,100
+   0x142109cdf: 99 draws, bounds 6,100
+   0x142109cf6: 99 draws, bounds 840
+   0x1421029c7: 5 draws, bounds 9
+   0x1420ff711: 5 draws, bounds 7,8,9,10,11
+   0x1420ff72b: 5 draws, bounds 1,2
+   0x142102c41: 5 draws, bounds 840
+   0x1420efc0c: 2478 draws, bounds 1,2,4,6,8,14,100,200,280,320,400,520,...
+   0x141d8b5ab: 5 draws, bounds 1,2,3,4,5
+   0x141fe9a73: 37 draws, bounds 800
+   0x141fe90a5: 826 draws, bounds 20,100
+   0x141fe9173: 826 draws, bounds 8
+   0x1420f6875: 279 draws, bounds 1,2,4,14,100,200,320,400,800
+   0x1420f45dc: 4 draws, bounds 1
+   0x1420f4807: 4 draws, bounds 800
+   0x141feddbe: 143 draws, bounds 24,64
+   0x141fee98b: 18 draws, bounds 8
+   0x141fee88c: 78 draws, bounds 8
+   0x141febd7f: 1900 draws, bounds 24,64
+   0x141fed1ec: 908 draws, bounds 8
+   0x141fed087: 350 draws, bounds 8
+   0x141febf93: 5945 draws, bounds 1,100
+   0x141febfcf: 5945 draws, bounds 8
+   tile grid: captures\Sealed Repository - MapSideArea7_4 - 4035516448\truth_2ae42b8cbf0.tsv (201x83, 15743 cells) VERIFIED against tile hash 2059947685
+   walkable field: captures\Sealed Repository - MapSideArea7_4 - 4035516448\walkable_2ae42b8cbf0_melee.png (9.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.937; 2 layer(s) read; stored for the grid as walkable_2ae42b8cbf0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Sealed Repository - MapSideArea7_4 - 4035516448\minimap.png

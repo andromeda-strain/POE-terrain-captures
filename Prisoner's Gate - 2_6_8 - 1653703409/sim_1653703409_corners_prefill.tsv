@@ -1676,7 +1676,7 @@ x	y	ground	flags	height
 21	27	Metadata/Terrain/Act1/Area8/GroundTypes/climb_down_top.gt	3	48
 22	27	Metadata/Terrain/Act1/Area8/GroundTypes/climb_down_top.gt	3	48
 23	27	Metadata/Terrain/trims1.gt	3	48
-24	27	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	48
+24	27	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	24
 25	27	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	24
 26	27	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	24
 27	27	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	24
@@ -2408,7 +2408,7 @@ x	y	ground	flags	height
 42	36	Metadata/Terrain/Act1/Area8/GroundTypes/climb_down.gt	3	24
 43	36	Metadata/Terrain/trims1.gt	3	24
 44	36	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	24
-45	36	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	24
+45	36	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	0
 46	36	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	0
 47	36	Metadata/Terrain/Act1/Area8/GroundTypes/climb_down_bottom.gt	3	0
 48	36	Metadata/Terrain/Act1/Area8/GroundTypes/climb_down_bottom.gt	3	0

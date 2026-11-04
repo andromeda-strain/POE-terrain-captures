@@ -1,0 +1,34 @@
+--- 2026-11-04 16:37:07.753 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_9668_10.go --parent-pid 9668
+
+standby: go file seen 2 ms ago -> captures\stages_20261104_163706.csv
+standby: go file seen 6 ms ago -> captures\stages_20261104_163706.csv
+16:37:07.765 (the attach call took 4 ms)
+attached to pid 18536, image base 0x7ff6d5eb0000 (dump base 0x140000000); DR0 generator 0x7ff6d7efd820 (then the draw 0x7ff6d7ea9720 on its thread)  DR1 permute 0x7ff6d7fd5790  DR3 dungeon 0x7ff6d7eec900 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+level generator on tid 2304: draws traced on this thread
+permute stage on tid 2304; tracing continues for 10.0 s
+outdoor pipeline: switching to the stage dumps
+permute grid 57x60 written to captures\stages_20261104_163706.grid.tsv
+edge tiliser started on tid 2304: post-pass placements will be logged
+    corner grid 70x73: 9 ground table entries, 454 unwalkable corners -> captures\The Climb - 1_1_6 - 4148475360\truth_prefill_corners_2ae2bf36bf0.tsv
+    corner grid 70x73: 9 ground table entries, 454 unwalkable corners -> captures\The Climb - 1_1_6 - 4148475360\truth_postfill_corners_2ae2bf36bf0.tsv
+    corner grid 70x73: 9 ground table entries, 454 unwalkable corners -> captures\The Climb - 1_1_6 - 4148475360\truth_reheight_corners_2ae2bf36bf0.tsv
+Traceback (most recent call last):
+  File "D:\repos\POE 3.29.3b\Work\tools\draw_tracer.py", line 1486, in <module>
+    main()
+    ~~~~^^
+  File "D:\repos\POE 3.29.3b\Work\tools\draw_tracer.py", line 1482, in main
+    t.run()
+    ~~~~~^^
+  File "D:\repos\POE 3.29.3b\Work\tools\draw_tracer.py", line 1174, in run
+    raise OSError('DebugActiveProcess failed: %d (run as administrator? another debugger attached?)' % err)
+OSError: DebugActiveProcess failed: 87 (run as administrator? another debugger attached?)
+level generator returned
+--- TileMap T=0x2ae2bf36bf0 69x72: 4968 cells with a tile, 64 distinct tiles -> captures\The Climb - 1_1_6 - 4148475360\truth_2ae2bf36bf0.tsv
+    corner grid 70x73: 10 ground table entries, 2227 unwalkable corners -> captures\The Climb - 1_1_6 - 4148475360\truth_corners_2ae2bf36bf0.tsv
+    tile hash over 755 origin cells = 3653112660
+trace window after the marker elapsed
+clear before detach: all 65 threads verified clear
+clear after detach: all 65 threads verified clear
+detached; client keeps running
+40438 events written to captures\stages_20261104_163706.csv

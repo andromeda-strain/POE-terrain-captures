@@ -1,0 +1,14 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act1/Area6/Rooms/passageway2.arm	9	9	0	node	default entrance1
+0	Metadata/Terrain/Act1/Area6/Rooms/prison.arm	36	75	4	node	entrance2
+0	Metadata/Terrain/Act1/Area6/Rooms/rocky_step_boss1.arm	24	60	0	node	
+0	Metadata/Terrain/Act1/Area6/Rooms/navali_cage.arm	24	66	0	node	
+0	Metadata/Terrain/Act1/Area6/Rooms/largecliff_stairs2.arm	15	39	0	node	
+0	Metadata/Terrain/Act1/Area6/Rooms/largecliff_stairs1.arm	27	27	7	node	
+0	Metadata/Terrain/Act1/Area6/Rooms/largecliff_stairs3.arm	15	21	7	node	
+0	Metadata/Terrain/Act1/Area6/Rooms/largecliff_stairs2.arm	18	48	0	node	
+0	Metadata/Terrain/Act1/Area6/Rooms/largecliff_stairs2.arm	33	42	4	node	
+0	Metadata/Terrain/Act1/Area6/Rooms/flag_hill_1.arm	24	51	0	node	
+0	Metadata/Terrain/Act1/Area6/Rooms/largecliff_waypoint.arm	30	30	2	node	killzone=4
+0	Metadata/Terrain/Act1/Area6/Rooms/fill_ledge_up_3a.arm	18	30	6	fill	
+0	Metadata/Terrain/Beach/LargeCliffs/Rooms/fill_cliff_island_3a.arm	30	36	5	fill	

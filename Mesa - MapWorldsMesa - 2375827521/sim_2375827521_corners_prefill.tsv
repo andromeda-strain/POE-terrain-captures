@@ -1382,7 +1382,7 @@ x	y	ground	flags	height
 45	30	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	96
 46	30	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	96
 47	30	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	96
-48	30	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	64
+48	30	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	96
 49	30	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	64
 50	30	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	64
 51	30	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	64
@@ -3494,7 +3494,7 @@ x	y	ground	flags	height
 45	63	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
 46	63	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
 47	63	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
-48	63	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
+48	63	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	0
 49	63	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	0
 50	63	Metadata/Terrain/EndGame/MapMesa/Tiles/plateau_outer_large_cliff_trim.gt	11	0
 51	63	Metadata/Terrain/impassable_ground.gt	11	0
@@ -3558,7 +3558,7 @@ x	y	ground	flags	height
 45	64	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	3	64
 46	64	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
 47	64	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
-48	64	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
+48	64	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	0
 49	64	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	0
 50	64	Metadata/Terrain/EndGame/MapMesa/Tiles/plateau_outer_large_cliff_trim.gt	11	0
 51	64	Metadata/Terrain/impassable_ground.gt	11	0
@@ -3622,7 +3622,7 @@ x	y	ground	flags	height
 45	65	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
 46	65	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
 47	65	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
-48	65	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
+48	65	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	0
 49	65	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	0
 50	65	Metadata/Terrain/EndGame/MapMesa/Tiles/plateau_outer_large_cliff_trim.gt	11	0
 51	65	Metadata/Terrain/impassable_ground.gt	11	0
@@ -3680,13 +3680,13 @@ x	y	ground	flags	height
 39	66	Metadata/Terrain/impassable_ground.gt	11	0
 40	66	Metadata/Terrain/EndGame/MapMesa/Tiles/plateau_outer_large_cliff_trim.gt	11	0
 41	66	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	0
-42	66	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
-43	66	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
-44	66	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
-45	66	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
-46	66	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
-47	66	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
-48	66	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	64
+42	66	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	0
+43	66	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	0
+44	66	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	0
+45	66	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	0
+46	66	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	0
+47	66	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	0
+48	66	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	0
 49	66	Metadata/Terrain/Mountain/Plateau/LargeCliff/plateau_inside_cliff.gt	11	0
 50	66	Metadata/Terrain/EndGame/MapMesa/Tiles/plateau_outer_large_cliff_trim.gt	11	0
 51	66	Metadata/Terrain/impassable_ground.gt	11	0

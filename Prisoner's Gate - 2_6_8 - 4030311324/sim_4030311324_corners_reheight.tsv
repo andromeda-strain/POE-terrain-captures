@@ -2210,7 +2210,7 @@ x	y	ground	flags	height
 30	48	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	24
 31	48	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	24
 32	48	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	24
-33	48	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	24
+33	48	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	0
 34	48	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	0
 35	48	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	0
 36	48	Metadata/Terrain/Act1/Area8/GroundTypes/climb_down_bottom.gt	3	0
@@ -2513,9 +2513,9 @@ x	y	ground	flags	height
 21	54	Metadata/Terrain/Act1/Area8/GroundTypes/climb_down_top.gt	3	48
 22	54	Metadata/Terrain/Act1/Area8/GroundTypes/climb_down_top.gt	3	48
 23	54	Metadata/Terrain/trims1.gt	3	48
-24	54	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	48
-25	54	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	48
-26	54	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	48
+24	54	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	24
+25	54	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	24
+26	54	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	24
 27	54	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	24
 28	54	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	24
 29	54	Metadata/Terrain/Beach/LargeCliffs/beach_inside_cliff.gt	3	24
