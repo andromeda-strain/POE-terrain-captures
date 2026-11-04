@@ -1106,15 +1106,15 @@ seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
 3557451710	The Riverways	tgr	MATCH			1886683244		4.3	room tiles 151/151; junction records 3/3; edge tiles 600/600; fill tiles 2098/2098; map cells 3041/3041; unknown picks 6 (0 long/absent); key misses 6
 1879983123	The Northern Forest	tgr	MATCH			600710478		2.1	room tiles 77/77; junction records 1/1; edge tiles 146/146; fill tiles 1239/1239; map cells 1552/1552; unknown picks 12 (0 long/absent); key misses 12
 210736477	The Crossroads	tgr	MATCH			2040921035		2.2	room tiles 135/135; junction records 6/6; edge tiles 210/210; fill tiles 1346/1346; map cells 1931/1931; unknown picks 12 (0 long/absent); key misses 12
-4263329148	Reef	tgr	PARTIAL			2986147481		3.8	room tiles 0/0; junction records 0/0; edge tiles 10/22; fill tiles 13/4480; map cells 25/2173; unknown picks 74 (12 long/absent); key misses 56
+4263329148	Reef	tgr	MATCH			2986147481		2.3	room tiles 26/26; junction records 0/0; edge tiles 152/152; fill tiles 1950/1950; map cells 2173/2173
 1067106885	Forbidden Chamber	dgr	MATCH	0	35x43	2401337058	2401337058	1.4	
-1695748030	Ghetto	dgr	CELLS	5576	119x113	1017690687	2687791997	4.2	first draw-stage not OK: graph; first mismatch: sim 0x142105ee9 sub_142105A70+0x479 room chooser draw(100) = 49 [word 4798] subgraph 1 graph stage vs log 0x142105ee9 draw(1) = 0
+1695748030	Ghetto	dgr	MATCH	0	119x113	1017690687	1017690687	5.1	
 3122595398	The Northern Forest	tgr	MATCH			515511589		3.2	room tiles 52/52; junction records 1/1; edge tiles 194/194; fill tiles 1303/1303; map cells 1642/1642; unknown picks 8 (0 long/absent); key misses 8
 1370493402	The Western Forest	tgr	MATCH			2962963985		4.5	room tiles 116/116; junction records 2/2; edge tiles 207/207; fill tiles 1388/1388; map cells 1842/1842; unknown picks 14 (0 long/absent); key misses 14
 2586840265	The Southern Forest	tgr	MATCH			1593346562		2.5	room tiles 127/127; junction records 0/0; edge tiles 88/88; fill tiles 1276/1276; map cells 1566/1566; unknown picks 4 (0 long/absent); key misses 4
 3569618039	The Northern Forest	tgr	MATCH			3527937857		2.4	room tiles 78/78; junction records 3/3; edge tiles 138/138; fill tiles 1451/1451; map cells 1753/1753; unknown picks 9 (0 long/absent); key misses 9
 1012305918	The Crossroads	tgr	MATCH			1021925876		2.6	room tiles 135/135; junction records 6/6; edge tiles 251/251; fill tiles 1416/1416; map cells 2054/2054; unknown picks 10 (0 long/absent); key misses 10
-2739861283	The Fellshrine Ruins	tgr	ERROR			2064371444		0.3	RuntimeError: Could not permute edges: 9 @ permute.py:269 permute
+2739861283	The Fellshrine Ruins	tgr	MATCH			2064371444		2.4	room tiles 140/140; junction records 3/3; edge tiles 579/579; fill tiles 3010/3010; map cells 3872/3872; unknown picks 4 (0 long/absent); key misses 4
 2865193284	The Northern Forest	tgr	MATCH			3060813057		2.8	room tiles 74/74; junction records 1/1; edge tiles 117/117; fill tiles 4092/4092; map cells 4374/4374; unknown picks 2 (0 long/absent); key misses 2
 2054789169	The Ashen Fields	tgr	MATCH			3378197410		1.9	room tiles 68/68; junction records 4/4; edge tiles 148/148; fill tiles 1099/1099; map cells 1470/1470; unknown picks 8 (0 long/absent); key misses 8
 268953775	The Crossroads	tgr	MATCH			1542874368		2.3	room tiles 135/135; junction records 6/6; edge tiles 257/257; fill tiles 1479/1479; map cells 2110/2110; unknown picks 4 (0 long/absent); key misses 4

@@ -61,11 +61,11 @@ sub	arm	x	y	o	src	tags
 0	Metadata/Terrain/EndGame/MapSlumGhetto/Rooms/Fill/slums_building_2.arm	25	43	2	node	
 0	Metadata/Terrain/EndGame/MapSlumGhetto/Rooms/Fill/slums_building_2.arm	49	37	2	node	
 0	Metadata/Terrain/EndGame/MapSlumGhetto/Rooms/Fill/slums.arm	13	43	5	node	
-0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_CursedTreasure_01.arm	33	24	0	fill	
-0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	22	18	0	fill	
-0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	42	25	0	fill	
-0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	42	13	0	fill	
-0	Metadata/Terrain/generic_shrine.arm	21	27	0	fill	
+0	Metadata/Terrain/Leagues/Expedition/encounter.arm	33	24	0	fill	
+0	Metadata/Terrain/Leagues/Mercenaries/TerrainFeatures/Witch1.arm	22	18	0	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_CursedTreasure_01.arm	42	25	0	fill	
+0	Metadata/Terrain/Leagues/Settlers/Node/ore_node.arm	42	13	0	fill	
+0	Metadata/Terrain/vaal_side_area.arm	21	27	0	fill	
 0	Metadata/Terrain/Act3/Area2/Rooms/Fill/slum_fill_3.arm	33	12	2	fill	
 1	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_01_01.arm	88	24	0	node	accessible
 1	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_01_01.arm	100	24	0	node	accessible
