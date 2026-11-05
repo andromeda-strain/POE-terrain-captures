@@ -39,3 +39,4 @@ sub	arm	x	y	o	src	tags
 0	Metadata/Terrain/Leagues/Expedition/encounter.arm	35	19	0	pass	
 0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_CursedTreasure_01.arm	48	29	0	pass	
 0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	39	43	0	pass	
+1	Metadata/Terrain/Leagues/Harvest/NightGarden/Rooms/garden.arm	78	5	0	node	default link

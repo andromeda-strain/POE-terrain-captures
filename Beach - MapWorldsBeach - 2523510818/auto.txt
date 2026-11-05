@@ -1,0 +1,4 @@
+KNOWN Beach [MapWorldsBeach] seed 2523510818: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain endgame/mapbeach2/, tile hash 3986692384 (1 of 1 rows), last capture captures/Beach - MapWorldsBeach - 2523510818/stages_20261105_150225.csv (DIFF)
+   this load's tile hash 3986692384 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Beach - MapWorldsBeach - 2523510818\truth_4d42d9aebf0.tsv): captures\Beach - MapWorldsBeach - 2523510818\minimap.png

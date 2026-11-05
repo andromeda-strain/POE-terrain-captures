@@ -1,0 +1,848 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	204	458	1.571 rad	2448909918	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	363	209	2.405 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	358	208	0.859 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	363	214	4.246 rad	1156710060	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	364	219	4.271 rad	1156710060	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	373	217	2.528 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	371	228	2.553 rad	537885310	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	318	276	6.113 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	343	298	1.877 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	298	316	0.613 rad	316014466	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	366	339	2.921 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	364	323	3.952 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	366	344	2.503 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	354	322	4.663 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	359	328	6.160 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	349	339	3.755 rad	1367822281	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	357	342	0.255 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	342	367	4.812 rad	316014466	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	354	363	0.221 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	354	356	0.098 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	334	373	0.466 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	340	379	2.111 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	355	385	0.123 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	354	392	5.792 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	346	391	2.332 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	349	400	3.510 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	355	398	4.197 rad	3407511774	MapSideArea1_3					
+Monster: Daemon [Metadata/Monsters/Daemon/Archnemesis/ChargeGeneratorDaemon@83]	354	392	6.038 rad	4185824250	MapSideArea1_3					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	201	455	3.510 rad	1792897079	MapSideArea1_3					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	208	455	2.184 rad	1570723376	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	366	451	2.283 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	352	453	2.528 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	349	446	0.736 rad	1138446790	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/AreaTransition	196	460	4.712 rad	726109394	MapSideArea1_3	14	-114.820	3	62685	Beach
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	364	460	1.104 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	361	478	0.147 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	366	484	3.289 rad	1138446790	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	328	550	3.706 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	335	540	1.473 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	346	545	5.792 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	352	543	2.749 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	347	539	1.522 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	365	551	1.276 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	360	539	1.178 rad	1635345509	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	345	544	5.483 rad	316014466	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	327	555	0.098 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	337	555	5.473 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	356	552	5.817 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	349	558	2.921 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	356	560	2.798 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	365	556	2.577 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	362	561	0.393 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	350	552	6.160 rad	1635345509	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	378	217	6.087 rad	1851647726	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	388	225	1.963 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	377	211	0.982 rad	537885310	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	372	225	5.449 rad	316014466	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	401	226	0.663 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	385	234	4.860 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	377	230	1.497 rad	537885310	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	381	239	4.246 rad	1156710060	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	379	261	3.878 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	380	267	2.626 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	385	260	4.491 rad	1367822281	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	374	256	1.356 rad	316014466	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	403	272	1.325 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	398	267	0.491 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	413	266	3.485 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	394	272	5.326 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	429	273	3.093 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	417	271	2.233 rad	3407511774	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	428	259	5.333 rad	316014466	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	394	291	4.025 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	399	290	5.301 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	391	286	2.700 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	411	293	4.295 rad	3407511774	MapSideArea1_3					
+Metadata/Chests/Barrel5old	378	307	3.445 rad	2116127741	MapSideArea1_3					
+Metadata/Chests/Barrel4old	384	312	3.625 rad	2804926028	MapSideArea1_3					
+Metadata/Chests/Barrel2old	383	305	2.023 rad	3707287636	MapSideArea1_3					
+Metadata/Chests/Barrel2old	376	302	0.015 rad	3707287636	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	400	313	2.553 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	381	342	0.589 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	372	343	2.283 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	374	333	0.049 rad	3407511774	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	388	344	0.971 rad	316014466	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	391	344	4.050 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	413	328	3.731 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	409	322	1.031 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	398	337	0.638 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	408	329	3.534 rad	537885310	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	396	332	0.884 rad	1156710060	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	404	329	3.734 rad	316014466	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	423	322	1.963 rad	1851647726	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	384	348	2.332 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	378	349	3.829 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	435	353	0.810 rad	537885310	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	421	347	5.915 rad	1156710060	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	427	352	3.682 rad	1851647726	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	370	374	0.859 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	372	369	5.424 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	435	381	0.393 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	429	377	4.614 rad	537885310	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	370	391	2.332 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	379	394	3.166 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	368	401	5.841 rad	3407511774	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	387	433	4.203 rad	316014466	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	379	443	4.516 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	388	451	4.393 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	391	443	1.743 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	389	461	5.301 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	388	474	3.853 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	381	464	5.228 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	376	477	2.528 rad	1138446790	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	387	461	2.609 rad	316014466	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	371	486	4.123 rad	1138446790	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	413	488	1.245 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	430	495	3.718 rad	316014466	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	372	543	3.510 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	373	549	2.823 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	382	561	2.945 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	373	555	0.393 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	377	560	3.952 rad	1635345509	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	438	262	1.635 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	448	320	5.027 rad	316014466	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	457	353	2.209 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	456	360	3.927 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	449	351	6.062 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	444	350	3.142 rad	1156710060	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	439	376	0.221 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	453	386	2.847 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	456	375	3.313 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	449	377	0.417 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	442	369	3.534 rad	2423643823	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	441	388	5.057 rad	316014466	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	455	391	5.890 rad	1367822281	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	442	453	1.956 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	439	504	0.949 rad	316014466	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	457	552	4.148 rad	1367822281	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	251	472	0.000 rad	1450012487	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	475	232	1.546 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	468	233	3.019 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	470	341	3.191 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	462	365	2.872 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	462	347	5.841 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	476	357	4.050 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	475	365	0.957 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	466	359	3.019 rad	537885310	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	465	350	6.256 rad	316014466	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	472	390	5.694 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	462	389	3.215 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	472	373	1.350 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	479	382	5.326 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	462	410	2.749 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	460	397	5.522 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	480	391	2.062 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	465	416	2.872 rad	1367822281	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	481	437	4.778 rad	316014466	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	476	469	2.086 rad	2423643823	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	478	463	5.958 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	482	463	2.988 rad	316014466	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	476	485	2.405 rad	537885310	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	478	543	0.466 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	467	535	1.325 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	476	534	0.515 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	479	556	3.804 rad	3407511774	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	270	475	0.000 rad	1450012487	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	488	242	2.700 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	490	233	1.841 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	505	319	6.210 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	505	342	6.062 rad	1635345509	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	499	336	2.773 rad	1851647726	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	491	352	5.007 rad	1635345509	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	321	464	1.272 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	321	464	4.734 rad	3875590990	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	484	362	4.369 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	505	352	1.865 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	492	358	1.522 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	493	345	3.853 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	486	357	2.381 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	504	347	2.921 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	488	369	5.670 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	484	377	3.510 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	483	400	4.172 rad	3407511774	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	338	481	3.183 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	338	481	4.817 rad	3875590990	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	483	482	5.670 rad	1156710060	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	491	468	5.424 rad	1156710060	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	483	491	1.890 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	490	497	0.491 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	503	493	0.785 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	492	492	0.982 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	492	511	4.123 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	485	513	0.000 rad	537885310	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	485	548	1.006 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	483	535	1.939 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	487	543	2.872 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	495	545	2.602 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	493	534	5.301 rad	1367822281	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	488	544	2.400 rad	316014466	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	489	555	4.393 rad	3407511774	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	308	459	4.712 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	320	468	4.712 rad	3875590990	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	295	479	0.000 rad	1450012487	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	343	476	4.712 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	354	459	4.492 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	354	459	4.712 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	356	471	3.410 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	356	471	4.712 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	343	404	4.429 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	368	480	1.002 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	368	480	4.675 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	373	452	1.364 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	373	452	2.280 rad	1418889786	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	517	292	0.589 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	516	305	1.129 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	526	316	5.547 rad	1156710060	MapSideArea1_3					
+Metadata/NPC/Info/VaalLetters/VaalLetter_01	514	367	1.352 rad	1266079176	MapSideArea1_3	12	-97.826			
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	528	353	5.522 rad	1635345509	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	524	380	1.523 rad	316014466	MapSideArea1_3					
+Metadata/Chests/SideArea/SideAreaChest	528	412	1.571 rad	1048892336	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	515	474	4.295 rad	316014466	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	510	495	4.295 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	516	501	3.412 rad	1156710060	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	527	499	4.271 rad	1851647726	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	506	512	5.964 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	512	538	6.259 rad	3407511774	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	313	519	5.847 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	321	521	5.498 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	331	510	5.498 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	313	531	5.847 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	347	527	5.486 rad	3875590990	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	316	482	0.000 rad	1450012487	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	356	526	5.466 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	362	525	5.961 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	336	547	5.498 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	346	534	5.498 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	348	545	5.498 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	361	539	5.450 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	345	552	5.903 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	348	537	5.498 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	349	549	5.498 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	340	557	5.535 rad	3875590990	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	537	248	2.356 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	545	241	0.319 rad	537885310	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	541	230	1.154 rad	1156710060	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	538	240	1.546 rad	1851647726	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	551	277	3.985 rad	316014466	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	550	344	4.246 rad	1635345509	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	363	549	5.398 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	364	536	5.498 rad	3875590990	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	533	330	4.835 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	540	351	3.804 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	532	363	5.866 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	545	350	3.559 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	548	358	6.259 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	551	375	3.215 rad	1635345509	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	372	535	5.498 rad	3875590990	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	538	377	1.963 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	539	369	0.491 rad	1635345509	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	541	481	5.145 rad	316014466	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	543	488	0.221 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	547	512	0.147 rad	1138446790	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	372	552	5.743 rad	3875590990	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	332	485	0.000 rad	1450012487	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	378	464	3.441 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	378	464	4.712 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	346	457	0.768 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	346	457	4.332 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	384	474	4.712 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	384	469	1.327 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	385	459	1.413 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	385	459	2.550 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	385	459	4.712 rad	3875590990	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	311	483	0.000 rad	1450012487	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	305	480	0.000 rad	1450012487	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	551	277	3.985 rad	316014466	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	550	344	4.246 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	533	330	4.835 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	540	351	3.804 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	532	363	5.866 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	545	350	3.559 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	548	358	6.259 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	551	375	3.215 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	538	377	1.963 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	539	369	0.491 rad	1635345509	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	541	481	5.145 rad	316014466	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	543	488	0.221 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	547	512	0.147 rad	1138446790	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	554	297	6.053 rad	316014466	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	565	338	2.062 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	562	343	0.491 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	553	351	3.583 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	555	360	3.534 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	573	348	5.326 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	564	371	4.050 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	557	369	5.890 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	564	378	5.228 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	569	375	4.025 rad	1635345509	MapSideArea1_3					
+Monster: Perquil the Lucky [Metadata/Monsters/Cannibal/CannibalBossSideAreaLowbie@83]	554	428	1.571 rad	2306636788	MapSideArea1_3					
+Monster: Boss Daemon [Metadata/Monsters/Daemon/NemesisDaemonStormCallBoss@83]	554	428	4.933 rad	1163876795	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	556	431	2.887 rad	316014466	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	559	474	5.621 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	571	476	2.651 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	564	504	4.222 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	565	499	0.491 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	566	491	1.178 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	568	484	1.522 rad	1138446790	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	338	518	5.498 rad	3875590990	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	567	521	3.804 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	553	513	4.222 rad	1138446790	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	556	515	4.862 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	559	549	0.517 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	587	395	5.571 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	590	418	6.043 rad	316014466	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	577	475	0.172 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	577	495	4.001 rad	1138446790	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	576	513	5.645 rad	1138446790	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	379	261	3.878 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	380	267	2.626 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	385	260	4.491 rad	1367822281	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	374	256	1.356 rad	316014466	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	403	272	1.325 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	398	267	0.491 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	413	266	3.485 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	394	272	5.326 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	429	273	3.093 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	417	271	2.233 rad	3407511774	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	428	259	5.333 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	438	262	1.635 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	614	290	0.927 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	615	329	3.294 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	598	470	4.190 rad	316014466	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	385	234	4.860 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	377	230	1.497 rad	537885310	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	381	239	4.246 rad	1156710060	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	475	232	1.546 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	468	233	3.019 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	488	242	2.700 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	490	233	1.841 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	537	248	2.356 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	545	241	0.319 rad	537885310	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	541	230	1.154 rad	1156710060	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	538	240	1.546 rad	1851647726	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	553	249	0.123 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	553	238	0.025 rad	537885310	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	377	488	0.000 rad	1450012487	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	633	316	5.403 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	627	374	4.281 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	623	418	5.525 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	625	476	1.544 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	431	492	4.712 rad	3875590990	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	499	502	4.771 rad	4222833082	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	442	485	0.000 rad	1450012487	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	437	486	4.249 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	448	481	4.432 rad	3875590990	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	490	502	4.771 rad	4222833082	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	459	527	5.498 rad	3875590990	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	480	501	4.771 rad	4222833082	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	469	501	4.712 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	468	527	5.498 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	474	506	4.712 rad	3875590990	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	470	501	4.771 rad	4222833082	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	479	484	4.686 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	480	489	4.712 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	473	504	4.771 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	474	523	5.176 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	483	496	4.712 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	460	536	5.407 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	485	477	4.429 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	491	491	4.832 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	474	536	5.498 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	487	532	5.284 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	479	543	4.931 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	482	548	1.571 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	470	548	5.498 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	500	496	4.780 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	502	501	4.712 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	498	511	2.009 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	498	511	4.762 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	489	540	5.176 rad	3875590990	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	434	481	0.000 rad	1450012487	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	446	424	3.927 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	485	488	4.712 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	444	414	3.522 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	469	545	0.427 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	447	396	3.661 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	495	530	4.865 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	444	386	3.682 rad	3875590990	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	495	530	0.000 rad	1450012487	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	530	513	4.669 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	544	502	4.332 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	543	490	4.004 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	543	496	4.249 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	540	521	0.387 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	540	521	4.671 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	557	483	3.747 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	555	497	0.719 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	555	497	4.286 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	553	514	4.613 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	318	276	6.113 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	343	298	1.877 rad	316014466	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	394	291	4.025 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	399	290	5.301 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	391	286	2.700 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	411	293	4.295 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	517	292	0.589 rad	2423643823	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	551	277	3.985 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	554	297	6.053 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	614	290	0.927 rad	316014466	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	554	506	5.813 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	563	508	3.836 rad	3875590990	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	379	261	3.878 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	380	267	2.626 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	385	260	4.491 rad	1367822281	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	374	256	1.356 rad	316014466	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	403	272	1.325 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	398	267	0.491 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	413	266	3.485 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	394	272	5.326 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	429	273	3.093 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	417	271	2.233 rad	3407511774	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	428	259	5.333 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	438	262	1.635 rad	316014466	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	385	234	4.860 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	377	230	1.497 rad	537885310	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	381	239	4.246 rad	1156710060	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	475	232	1.546 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	468	233	3.019 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	488	242	2.700 rad	1635345509	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	525	494	5.802 rad	147346500	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	525	494	0.402 rad	147346500	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	490	233	1.841 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	537	248	2.356 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	545	241	0.319 rad	537885310	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	541	230	1.154 rad	1156710060	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	538	240	1.546 rad	1851647726	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	553	249	0.123 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	553	238	0.025 rad	537885310	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	528	478	0.000 rad	1450012487	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	504	521	3.363 rad	147346500	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	504	521	2.676 rad	147346500	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	298	316	0.613 rad	316014466	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	516	507	5.722 rad	147346500	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	516	507	4.768 rad	147346500	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	385	234	4.860 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	377	230	1.497 rad	537885310	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	381	239	4.246 rad	1156710060	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	475	232	1.546 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	468	233	3.019 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	488	242	2.700 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	490	233	1.841 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	537	248	2.356 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	545	241	0.319 rad	537885310	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	541	230	1.154 rad	1156710060	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	538	240	1.546 rad	1851647726	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	553	249	0.123 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	553	238	0.025 rad	537885310	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	544	484	1.604 rad	147346500	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	544	484	2.755 rad	147346500	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	544	422	3.142 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	552	414	3.546 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	382	2.636 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	550	382	3.500 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	559	384	3.578 rad	3875590990	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	363	209	2.405 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	358	208	0.859 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	363	214	4.246 rad	1156710060	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	364	219	4.271 rad	1156710060	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	373	217	2.528 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	371	228	2.553 rad	537885310	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	378	217	6.087 rad	1851647726	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	388	225	1.963 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	377	211	0.982 rad	537885310	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	372	225	5.449 rad	316014466	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	401	226	0.663 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	482	214	0.736 rad	1635345509	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	558	371	2.034 rad	3875590990	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	462	216	3.191 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	482	209	6.038 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	469	228	5.301 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	477	219	4.786 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	502	223	2.037 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	495	226	1.374 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	488	224	4.541 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	498	212	4.663 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	509	209	4.958 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	549	218	3.387 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	555	208	3.313 rad	2423643823	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	541	368	2.839 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	572	460	0.633 rad	147346500	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	572	460	2.606 rad	147346500	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	588	449	0.000 rad	1450012487	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	533	366	2.751 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	567	371	3.142 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	572	379	3.142 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	588	449	3.920 rad	147346500	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	588	449	2.410 rad	147346500	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	363	209	2.405 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	358	208	0.859 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	363	214	4.246 rad	1156710060	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	364	219	4.271 rad	1156710060	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	373	217	2.528 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	371	228	2.553 rad	537885310	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	378	217	6.087 rad	1851647726	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	388	225	1.963 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	377	211	0.982 rad	537885310	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	372	225	5.449 rad	316014466	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	401	226	0.663 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	482	214	0.736 rad	1635345509	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	578	464	2.978 rad	147346500	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	578	464	5.281 rad	147346500	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	462	216	3.191 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	482	209	6.038 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	469	228	5.301 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	477	219	4.786 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	502	223	2.037 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	495	226	1.374 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	488	224	4.541 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	498	212	4.663 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	509	209	4.958 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	549	218	3.387 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	555	208	3.313 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	376	202	5.694 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	372	195	0.393 rad	537885310	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	381	198	2.405 rad	1851647726	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	393	199	5.670 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	503	196	2.013 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	489	199	1.718 rad	1635345509	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	490	430	1.571 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	534	487	0.891 rad	147346500	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	534	487	2.065 rad	147346500	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	546	397	3.142 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	551	399	3.142 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	567	403	3.345 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	560	400	3.162 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	569	391	2.783 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	575	387	2.570 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	553	374	4.051 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	560	368	2.863 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	543	356	2.428 rad	3875590990	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	363	209	2.405 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	358	208	0.859 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	363	214	4.246 rad	1156710060	MapSideArea1_3					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	364	219	4.271 rad	1156710060	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	367	321	5.820 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	362	325	1.571 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	356	330	4.515 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	351	333	3.266 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	359	335	1.571 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	364	334	0.000 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	354	340	4.712 rad	3407511774	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	357	342	0.255 rad	316014466	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	532	456	5.610 rad	147346500	MapSideArea1_3					
+Metadata/Effects/SleepableServerEffect	532	456	4.927 rad	147346500	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	463	2.747 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	463	1.917 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	463	2.181 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	551	463	1.395 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	463	0.418 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	551	463	3.201 rad	1418889786	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	347	407	2.111 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	354	402	0.278 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	349	401	1.571 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	366	397	4.441 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	363	436	2.554 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	348	417	3.387 rad	1367822281	MapSideArea1_3					
+Monster: Daemon [Metadata/Monsters/Daemon/Archnemesis/ChargeGeneratorDaemon@83]	363	436	6.038 rad	4185824250	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	354	459	4.492 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	346	457	0.768 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	356	471	3.410 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	345	544	5.483 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	513	395	2.761 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	502	399	2.356 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	501	387	2.498 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	507	378	1.571 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	506	383	2.531 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	342	197	6.037 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	343	298	1.877 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	342	367	4.812 rad	316014466	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	342	407	2.897 rad	1367822281	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	344	412	1.571 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	340	421	2.395 rad	3407511774	MapSideArea1_3					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	324	452	3.142 rad	1367822281	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	338	481	3.183 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	509	429	2.388 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	490	420	1.599 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	483	426	2.316 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	318	276	6.113 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	481	409	2.034 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	479	414	2.266 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	469	417	1.816 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	496	381	2.007 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	476	401	1.862 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	462	415	0.644 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	500	376	6.144 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	500	376	2.356 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	504	362	3.142 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	492	360	2.498 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	514	351	2.011 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	480	368	2.423 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	484	362	2.396 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	494	354	2.897 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	486	352	2.601 rad	3875590990	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	522	332	2.809 rad	4222833082	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	298	316	0.613 rad	316014466	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	527	347	2.809 rad	4222833082	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	532	360	2.809 rad	4222833082	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	536	372	2.809 rad	4222833082	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	540	385	2.809 rad	4222833082	MapSideArea1_3					
+Object: Metadata/Effects/ServerEffect	546	396	0.000 rad	2646652649	MapSideArea1_3	19	-150.000			
+Metadata/Effects/Spells/shatter/ShatterLarge	453	452	1.849 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	447	443	2.034 rad	3875590990	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	518	481	0.000 rad	1450012487	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	470	451	1.153 rad	3875590990	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	518	463	0.000 rad	1450012487	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	501	382	2.388 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	522	405	3.387 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	538	411	3.142 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	503	370	3.868 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	342	197	6.037 rad	316014466	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	376	202	5.694 rad	2423643823	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	372	195	0.393 rad	537885310	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	381	198	2.405 rad	1851647726	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	393	199	5.670 rad	537885310	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	503	196	2.013 rad	1635345509	MapSideArea1_3					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickBloodMapSideArea@83]	489	199	1.718 rad	1635345509	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	531	361	2.869 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	531	361	3.652 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	472	373	3.631 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	472	373	2.806 rad	3875590990	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	532	368	0.000 rad	1450012487	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	476	397	2.679 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	476	397	2.356 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	461	391	2.356 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	475	366	2.356 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	455	377	2.309 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	530	337	0.977 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	530	337	3.165 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	520	333	2.976 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	463	367	2.678 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	467	361	2.882 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	467	361	2.773 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	459	372	1.210 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	459	372	1.879 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	483	353	2.642 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	483	353	2.495 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	483	353	3.890 rad	3875590990	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	420	343	2.000 rad	4222833082	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	439	352	2.000 rad	4222833082	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	451	357	2.000 rad	4222833082	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	463	363	2.000 rad	4222833082	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	475	368	2.000 rad	4222833082	MapSideArea1_3					
+Object: Metadata/Effects/ServerEffect	482	373	0.000 rad	2646652649	MapSideArea1_3	19	-150.000			
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	527	320	0.000 rad	1450012487	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	546	264	3.605 rad	4222833082	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	541	273	3.605 rad	4222833082	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	545	287	3.680 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	545	287	3.617 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	535	287	3.230 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	545	265	2.962 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	530	269	1.008 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	530	269	3.199 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	552	271	0.879 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	552	271	3.762 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	545	250	3.444 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	540	246	4.135 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	540	246	3.287 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	530	304	6.273 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	530	304	4.313 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	530	304	3.605 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	499	250	2.356 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	502	242	2.915 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	510	228	2.761 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	494	229	2.737 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	503	226	2.976 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	497	218	2.652 rad	3875590990	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	513	263	0.000 rad	1450012487	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	482	333	1.951 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	463	345	1.571 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	440	322	1.736 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	298	316	0.613 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	419	343	2.191 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	495	267	2.428 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	484	244	2.356 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	491	238	2.554 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	484	235	2.356 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	494	222	2.697 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	490	229	2.297 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	504	220	2.940 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	492	211	2.764 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	474	210	2.423 rad	3875590990	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	470	233	0.000 rad	1450012487	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	446	284	1.571 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	435	270	0.785 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	429	259	1.571 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	426	279	1.571 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	427	322	1.571 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	415	274	1.571 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	410	266	4.885 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	410	266	1.077 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	409	257	0.240 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	409	257	1.373 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	409	281	1.391 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	402	274	3.269 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	402	274	0.857 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	400	290	1.249 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	399	266	1.326 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	394	261	1.190 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	385	263	0.540 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	413	488	1.245 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	430	495	3.718 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	439	504	0.949 rad	316014466	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	536	490	3.904 rad	1138446790	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	555	497	0.719 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	425	226	2.237 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/AreaTransition	196	460	4.712 rad	726109394	MapSideArea1_3	14	-114.820	3	62685	Beach
+Metadata/Effects/Spells/shatter/ShatterLarge	414	228	1.571 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	414	218	1.571 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	401	228	1.571 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	411	209	2.111 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	403	233	1.571 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	403	222	1.713 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	401	213	1.571 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	400	241	1.543 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	395	245	2.356 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	396	203	2.166 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	390	222	1.642 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	396	208	2.052 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	382	231	1.571 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	379	236	1.571 rad	3875590990	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	404	270	0.000 rad	1450012487	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	414	223	2.786 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	408	203	2.402 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	407	293	6.212 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	498	511	2.009 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	540	521	0.387 rad	1418889786	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	546	506	4.588 rad	1138446790	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	556	515	4.862 rad	316014466	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	554	506	5.813 rad	1418889786	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	552	507	4.556 rad	1138446790	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	386	318	1.158 rad	3875590990	MapSideArea1_3					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@83]	383	305	4.393 rad	2336477418	MapSideArea1_3					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@83]	376	302	1.571 rad	2336477418	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	377	321	0.381 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	384	328	0.785 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	371	305	0.000 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	361	313	0.464 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	369	318	1.030 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	366	327	1.030 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	375	337	0.322 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	371	330	0.142 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	378	344	0.738 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	358	332	0.245 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	365	337	0.165 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	373	349	5.961 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	587	395	5.571 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	590	418	6.043 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	413	488	1.245 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	430	495	3.718 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	439	504	0.949 rad	316014466	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	536	490	3.904 rad	1138446790	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	555	497	0.719 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	498	511	2.009 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	540	521	0.387 rad	1418889786	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	546	506	4.588 rad	1138446790	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	345	544	5.483 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	488	544	2.400 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	343	391	6.038 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	323	395	5.015 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	352	395	5.847 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	336	405	4.887 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	337	411	5.034 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	348	407	5.980 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	354	412	6.159 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	337	418	0.000 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	344	422	0.000 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	349	422	0.000 rad	3875590990	MapSideArea1_3					
+Metadata/NPC/Info/VaalLetters/VaalLetter_01	514	367	1.352 rad	1266079176	MapSideArea1_3	12	-97.826			
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	524	380	1.523 rad	316014466	MapSideArea1_3					
+Metadata/Chests/SideArea/SideAreaChest	528	412	1.571 rad	1048892336	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	515	474	4.295 rad	316014466	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	540	246	4.135 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	530	269	1.008 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	551	277	3.985 rad	316014466	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	545	287	3.680 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	530	304	6.273 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	530	304	4.313 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	530	337	0.977 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	531	361	2.869 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	382	2.636 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	541	481	5.145 rad	316014466	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	463	2.747 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	463	1.917 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	463	2.181 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	551	463	1.395 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	550	463	0.418 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	551	463	3.201 rad	1418889786	MapSideArea1_3					
+Monster: Perquil the Lucky [Metadata/Monsters/Cannibal/CannibalBossSideAreaLowbie@83]	550	463	1.218 rad	2306636788	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	536	490	3.904 rad	1138446790	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	540	521	0.387 rad	1418889786	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	546	506	4.588 rad	1138446790	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	552	271	0.879 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	554	297	6.053 rad	316014466	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	561	393	5.002 rad	1851647726	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	556	431	2.887 rad	316014466	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	555	497	0.719 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	556	515	4.862 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	322	457	0.000 rad	3875590990	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	554	506	5.813 rad	1418889786	MapSideArea1_3					
+Monster: Spectral Corsair [Metadata/Monsters/GhostPirates/GhostPirateGreen@83]	552	507	4.556 rad	1138446790	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	559	549	0.517 rad	316014466	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	339	423	0.707 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	339	423	0.989 rad	1418889786	MapSideArea1_3					
+Metadata/Effects/Spells/shatter/ShatterLarge	339	423	0.000 rad	3875590990	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	355	411	0.000 rad	1450012487	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	339	432	0.000 rad	1450012487	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	587	395	5.571 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	590	418	6.043 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	614	290	0.927 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	615	329	3.294 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	598	470	4.190 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	633	316	5.403 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	627	374	4.281 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	623	418	5.525 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	625	476	1.544 rad	316014466	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	448	459	0.000 rad	1450012487	MapSideArea1_3					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	463	464	0.000 rad	1450012487	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	372	225	5.449 rad	316014466	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	342	197	6.037 rad	316014466	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	575	430	4.745 rad	4222833082	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	559	430	4.745 rad	4222833082	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	546	429	4.745 rad	4222833082	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	533	429	4.745 rad	4222833082	MapSideArea1_3					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	519	428	4.745 rad	4222833082	MapSideArea1_3					
+Object: Metadata/Effects/ServerEffect	514	431	0.000 rad	2646652649	MapSideArea1_3	21	-165.625			
+Object: Metadata/MiscellaneousObjects/WorldItem	536	414	4.326 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	535	415	0.959 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	535	415	3.687 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	534	415	2.544 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	534	415	1.530 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	534	415	0.000 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	534	415	3.902 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	534	415	2.894 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	534	415	0.651 rad	1418889786	MapSideArea1_3					
+Object: Metadata/MiscellaneousObjects/VaalSideAreaReturnPortal	508	432	0.000 rad	1553559060	MapSideArea1_3			8	62685	Beach
+Metadata/Effects/Spells/shatter/ShatterLarge	584	444	5.240 rad	3875590990	MapSideArea1_3					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	298	316	0.613 rad	316014466	MapSideArea1_3					

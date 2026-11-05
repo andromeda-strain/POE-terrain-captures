@@ -34,3 +34,5 @@ sub	arm	x	y	o	src	tags
 0	Metadata/Terrain/Act9/Area4/Rooms/Fills/blank_tent1.arm	20	58	6	fill	
 0	Metadata/Terrain/Act9/Area4/Rooms/Fills/knoll_1_2.arm	39	59	5	fill	
 0	Metadata/Terrain/Act9/Area4/Rooms/Fills/trees_1_1.arm	39	64	6	fill	
+1	Metadata/Terrain/Missions/Hideouts/Oasis/Rooms/hideout_claim.arm	100	0	0	node	link
+2	Metadata/Terrain/Leagues/Betrayal/StoryVault/Rooms/story_vault.arm	104	35	0	node	link

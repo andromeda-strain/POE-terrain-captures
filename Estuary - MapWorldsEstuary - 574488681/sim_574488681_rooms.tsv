@@ -70,3 +70,146 @@ sub	arm	x	y	o	src	tags
 0	Metadata/Terrain/Leagues/Settlers/Node/ore_node.arm	60	35	0	pass	
 0	Metadata/Terrain/Leagues/Settlers/Node/ore_node.arm	63	34	0	pass	
 0	Metadata/Terrain/vaal_side_area.arm	38	61	0	pass	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_01_01.arm	12	115	0	node	accessible
+1	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_01_01.arm	24	115	0	node	accessible
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Features/fill_tombs_past.arm	12	103	0	node	telepad1
+1	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_02_01.arm	6	103	1	node	accessible
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	0	91	3	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	36	91	5	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	36	121	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	0	121	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	6	91	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	12	91	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	18	91	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	24	91	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	30	91	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	0	97	3	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	30	121	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	24	121	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	18	121	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	12	121	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	6	121	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	36	97	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	0	103	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	36	115	5	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	36	103	5	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	0	109	3	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	0	115	3	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	36	109	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	18	115	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	6	115	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	30	115	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	30	103	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	30	109	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	12	97	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	18	97	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	24	97	3	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	6	97	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	30	97	5	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_01_01.arm	56	115	0	node	accessible
+2	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_01_01.arm	68	115	0	node	accessible
+2	Metadata/Terrain/Leagues/Incursion/Rooms/Features/breeding_past_1.arm	56	103	0	node	telepad1
+2	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_01_01.arm	56	97	2	node	accessible
+2	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_01_01.arm	68	97	2	node	accessible
+2	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_02_01.arm	74	103	3	node	accessible
+2	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_02_01.arm	50	103	1	node	accessible
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	44	91	3	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	80	91	5	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	80	121	1	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	44	121	7	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	50	91	0	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	56	91	0	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	62	91	4	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	68	91	0	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	74	91	0	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	44	97	7	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	74	121	2	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	68	121	6	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	62	121	2	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	80	97	5	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	44	103	7	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	80	103	1	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	44	109	7	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	80	109	1	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	44	115	7	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	56	121	6	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	50	121	6	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	80	115	1	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	62	115	4	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	50	115	5	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	74	115	7	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	62	97	6	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	50	97	4	node	
+2	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	74	97	2	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_01_01.arm	24	153	0	node	accessible
+3	Metadata/Terrain/Leagues/Incursion/Rooms/Features/currency_past_1.arm	12	141	0	node	telepad1
+3	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_01_01.arm	12	135	2	node	accessible
+3	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_01_01.arm	24	135	2	node	accessible
+3	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_02_01.arm	30	141	3	node	accessible
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	0	129	4	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	36	129	5	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	36	159	6	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	0	159	2	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	6	129	0	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	12	129	0	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	18	129	0	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	24	129	4	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	30	129	0	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	0	135	7	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	30	159	6	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	24	159	2	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	18	159	2	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	36	135	5	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	0	141	3	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	12	159	2	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	36	141	1	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	0	147	3	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	6	159	2	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	36	147	1	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	0	153	7	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	36	153	1	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	30	153	7	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	18	153	3	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	12	153	0	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	6	141	5	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	6	147	7	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	18	135	6	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	6	135	5	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	30	135	1	node	
+3	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	6	153	3	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_01_01.arm	68	153	0	node	accessible
+4	Metadata/Terrain/Leagues/Incursion/Rooms/Features/drawbackB_past_1.arm	56	141	0	node	telepad1
+4	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_01_01.arm	56	135	2	node	accessible
+4	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_01_01.arm	68	135	2	node	accessible
+4	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_past_02_01.arm	74	141	3	node	accessible
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	44	129	4	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	80	129	0	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	80	159	1	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	44	159	7	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	50	129	4	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	56	129	4	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	62	129	4	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	68	129	0	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	74	129	4	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	44	135	3	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	74	159	6	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	68	159	2	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	62	159	2	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	80	135	5	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	44	141	7	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	56	159	2	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	80	141	5	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	44	147	7	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	50	159	6	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	80	147	1	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	44	153	3	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	80	153	1	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	74	153	7	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	62	153	3	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	56	153	4	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	50	141	3	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	50	147	4	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	62	135	1	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	50	135	1	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	74	135	4	node	
+4	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	50	153	2	node	
