@@ -1,0 +1,4 @@
+KNOWN Cold River [MapWorldsColdRiver_] seed 1726265647: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain endgame/mapcoldriver/, tile hash 2818220640 (1 of 1 rows), last capture captures/Cold River - MapWorldsColdRiver_ - 1726265647/stages_20261104_230154.csv (DIFF)
+   this load's tile hash 2818220640 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Cold River - MapWorldsColdRiver_ - 1726265647\truth_5338a7a43f0.tsv): captures\Cold River - MapWorldsColdRiver_ - 1726265647\minimap.png

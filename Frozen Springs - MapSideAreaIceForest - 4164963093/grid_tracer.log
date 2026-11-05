@@ -1,0 +1,22 @@
+--- 2026-11-04 23:16:49.691 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_9276_3.go --parent-pid 9276
+standby: go file seen 5 ms ago -> captures\stages_20261104_231649.csv
+23:16:49.701 (the attach call took 4 ms)
+attached to pid 20704, image base 0x7ff6f8570000 (dump base 0x140000000); DR0 generator 0x7ff6fa5bd820 (then the draw 0x7ff6fa569720 on its thread)  DR1 permute 0x7ff6fa695790  DR3 dungeon 0x7ff6fa5ac900 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+level generator on tid 19124: draws traced on this thread
+permute stage on tid 19124; tracing continues for 10.0 s
+outdoor pipeline: switching to the stage dumps
+permute grid 45x51 written to captures\stages_20261104_231649.grid.tsv
+edge tiliser started on tid 19124: post-pass placements will be logged
+    corner grid 58x64: 6 ground table entries, 376 unwalkable corners -> captures\Frozen Springs - MapSideAreaIceForest - 4164963093\truth_prefill_corners_53388da33f0.tsv
+    corner grid 58x64: 6 ground table entries, 376 unwalkable corners -> captures\Frozen Springs - MapSideAreaIceForest - 4164963093\truth_postfill_corners_53388da33f0.tsv
+    corner grid 58x64: 6 ground table entries, 376 unwalkable corners -> captures\Frozen Springs - MapSideAreaIceForest - 4164963093\truth_reheight_corners_53388da33f0.tsv
+level generator returned
+--- TileMap T=0x53388da33f0 57x63: 3591 cells with a tile, 47 distinct tiles -> captures\Frozen Springs - MapSideAreaIceForest - 4164963093\truth_53388da33f0.tsv
+    corner grid 58x64: 6 ground table entries, 1872 unwalkable corners -> captures\Frozen Springs - MapSideAreaIceForest - 4164963093\truth_corners_53388da33f0.tsv
+    tile hash over 731 origin cells = 727240134
+trace window after the marker elapsed
+clear before detach: all 60 threads verified clear
+clear after detach: all 60 threads verified clear
+detached; client keeps running
+13970 events written to captures\stages_20261104_231649.csv

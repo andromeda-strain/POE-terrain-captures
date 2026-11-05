@@ -1,0 +1,425 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Leagues/Incursion/Rooms/Features/sacrificialchamber_present_1.arm	19	79	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/Features/healing_present_2.arm	43	79	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_open_02_01.arm	85	79	1	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_02_01.arm	61	79	1	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_02_01.arm	37	79	1	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/Features/fill_antichamber_present.arm	91	79	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/Features/chests_present_1.arm	67	79	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/Features/strongbox_present_2.arm	31	97	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_02_01.arm	49	97	1	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/Features/fill_halls_present.arm	55	97	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_02_01.arm	73	97	1	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/Features/queenschamber_present_2.arm	79	97	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_open_01_01.arm	31	91	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_01_01.arm	43	91	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_01_01.arm	55	91	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_01_01.arm	67	91	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_open_01_01.arm	79	91	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_open_01_01.arm	91	91	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_open_01_01.arm	43	109	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_01_01.arm	55	109	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_open_01_01.arm	67	109	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_open_01_01.arm	79	109	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/Features/legion_present_2.arm	43	115	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/Features/empowering_present_3.arm	67	115	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_open_02_01.arm	61	115	1	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_01_01.arm	55	127	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_open_01_01.arm	67	127	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/boss_main.arm	55	139	0	node	accessible telepad1 teleport2-%areaname% zone=2
+0	Metadata/Terrain/Leagues/Incursion/Rooms/Features/explosives_present_1.arm	31	61	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/entrance_01.arm	55	61	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/Features/fill_banquet_present.arm	79	61	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_open_01_01.arm	91	73	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_open_02_01.arm	73	61	1	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_02_01.arm	49	61	1	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_01_01.arm	79	73	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_01_01.arm	67	73	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_01_01.arm	55	73	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_01_01.arm	43	73	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/door_closed_01_01.arm	31	73	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_joiner.arm	55	55	0	node	accessible
+0	Metadata/Terrain/Leagues/Incursion/Rooms/boss_entry.arm	55	133	0	node	accessible teleport1-Arena telepad2 zone=1
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	1	145	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	121	145	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	1	49	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	121	55	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	115	145	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	109	145	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	103	145	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	97	145	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	91	145	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	85	145	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	79	145	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	73	145	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	49	145	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	43	145	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	37	145	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	31	145	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	25	145	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	19	145	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	13	145	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	7	145	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	121	139	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	1	139	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	121	133	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	1	133	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	121	127	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	1	127	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	121	121	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	1	121	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	121	115	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	1	115	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	121	109	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	1	109	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	121	103	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	1	103	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	121	97	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	1	97	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	121	91	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	1	91	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	121	85	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	1	85	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	121	79	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	1	79	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	121	73	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	1	73	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	121	67	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	1	67	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	7	49	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	13	49	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	19	49	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	25	49	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	31	49	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	37	49	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	43	49	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_concave.arm	49	49	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	121	61	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	1	61	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	115	55	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	109	55	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	103	55	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	97	55	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	91	55	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	85	55	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	79	55	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	73	55	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_convex.arm	49	55	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/border_straight.arm	1	55	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	19	91	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	25	91	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	13	79	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	13	85	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	19	73	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	25	73	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	49	91	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	49	73	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	85	91	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	85	73	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	61	91	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	61	73	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	37	91	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	37	73	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	109	79	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	109	85	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	97	91	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	103	91	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	97	73	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	103	73	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	73	91	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	73	73	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	31	109	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	37	109	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	25	97	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	25	103	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	49	109	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	61	109	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	73	109	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	97	97	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	97	103	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	85	109	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	91	109	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	43	127	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	49	127	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	37	115	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	37	121	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	85	115	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	85	121	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	73	127	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	79	127	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	61	127	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	25	61	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	25	67	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	31	55	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	37	55	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	43	55	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	97	61	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	97	67	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	73	133	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	49	133	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	115	139	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	109	139	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	103	139	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	97	139	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	91	139	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	85	139	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	79	139	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	73	139	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	49	139	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	43	139	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	37	139	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	31	139	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	25	139	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	19	139	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	13	139	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	7	139	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	115	133	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	7	133	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	115	127	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	7	127	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	115	121	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	7	121	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	115	115	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	7	115	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	115	109	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	7	109	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	115	103	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	7	103	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	115	97	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	7	97	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	115	91	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	7	91	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	115	85	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	7	85	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	115	79	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	7	79	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	115	73	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	7	73	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	115	67	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	7	67	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	7	55	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	13	55	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	19	55	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	25	55	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	115	61	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	7	61	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	109	61	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	103	61	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	19	97	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	13	91	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	13	73	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	19	67	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	109	73	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	109	91	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	103	97	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	103	67	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	31	115	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	25	109	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	19	103	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	103	103	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	97	109	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	91	115	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	43	133	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	37	127	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	31	121	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	91	121	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	85	127	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	79	133	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	19	61	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	109	133	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	103	133	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	97	133	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	91	133	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	85	133	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	37	133	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	31	133	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	25	133	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	19	133	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	13	133	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	109	127	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	13	127	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	109	121	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	13	121	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	109	115	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	13	115	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	109	109	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	13	109	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	109	103	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	13	103	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	109	97	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	13	97	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	109	67	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	13	67	3	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	13	61	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	25	115	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	19	109	1	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	103	109	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	97	115	5	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	31	127	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	25	121	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	97	121	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	91	127	2	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	103	127	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	97	127	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	25	127	4	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	19	127	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	103	121	7	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	19	121	6	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	103	115	0	node	
+0	Metadata/Terrain/Leagues/Incursion/Rooms/insidefill.arm	19	115	5	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Unique/entrance.arm	37	7	0	node	default
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Unique/exit.arm	55	37	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/2_4_1.arm	55	25	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/cliff_seperator_end.arm	49	43	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/cliff_seperator_end.arm	1	43	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/cliff_seperator_end.arm	85	43	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/cliff_seperator_end.arm	121	43	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/2_8_1.arm	43	19	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/1_4_1.arm	55	19	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/cliff_seperator.arm	115	43	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/cliff_seperator.arm	109	43	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/cliff_seperator.arm	103	43	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/cliff_seperator.arm	97	43	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/cliff_seperator.arm	91	43	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/cliff_seperator.arm	43	43	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/cliff_seperator.arm	37	43	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/cliff_seperator.arm	31	43	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/cliff_seperator.arm	25	43	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/cliff_seperator.arm	19	43	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/cliff_seperator.arm	13	43	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/cliff_seperator.arm	7	43	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	49	7	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	49	13	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	37	19	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	31	7	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	31	13	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	37	1	3	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	43	1	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	67	31	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	73	31	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	79	31	3	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	67	25	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	49	31	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	61	19	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	49	37	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	1	37	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	85	37	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	121	37	3	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	43	31	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	37	25	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	55	13	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	115	37	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	109	37	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	103	37	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	97	37	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	91	37	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	43	37	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	37	37	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	31	37	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	25	37	3	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	19	37	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	13	37	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	7	37	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	55	7	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	49	1	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	31	19	5	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	25	7	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	31	1	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	25	13	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	73	25	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	85	31	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	79	25	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	67	19	5	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	61	13	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	1	31	3	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	121	31	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	37	31	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	31	25	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	115	31	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	109	31	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	103	31	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	97	31	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	91	31	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	31	31	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	25	31	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	19	31	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	13	31	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	7	31	3	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	61	7	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	55	1	3	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	25	19	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	19	7	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	25	1	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	19	13	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	73	19	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	85	25	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	79	19	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	67	13	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	1	25	5	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	121	25	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	25	25	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	115	25	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	109	25	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	103	25	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	97	25	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	91	25	3	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	19	25	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	13	25	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	7	25	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	67	7	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	61	1	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	19	19	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	13	7	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	19	1	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	13	13	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	73	13	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	85	19	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	79	13	5	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	1	19	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	121	19	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	115	19	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	109	19	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	103	19	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	97	19	3	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	91	19	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	13	19	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	7	19	5	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	73	7	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	67	1	5	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	7	7	5	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	13	1	5	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	7	13	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	85	13	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	79	7	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	1	13	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	121	13	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	115	13	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	109	13	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	103	13	5	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	97	13	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	91	13	3	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	73	1	5	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	1	7	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	7	1	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	85	7	6	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	79	1	3	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	121	7	0	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	115	7	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	109	7	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	103	7	5	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	97	7	5	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	91	7	5	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	1	1	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	85	1	2	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	121	1	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	115	1	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	109	1	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	103	1	4	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	97	1	7	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/cliff_fill.arm	91	1	1	node	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/jungle_fill_01.arm	46	22	2	fill	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/ruin_fill_03.arm	48	21	2	fill	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/ruin_fill_03.arm	53	21	6	fill	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/ruin_fill_03.arm	55	24	5	fill	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/ruin_fill_01.arm	55	27	2	fill	
+1	Metadata/Terrain/Leagues/Incursion/Rooms/Outdoor/Fills/jungle_fill_02.arm	57	21	6	fill	
