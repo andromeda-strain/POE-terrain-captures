@@ -1,0 +1,7 @@
+pass1: 2061 .tdt path buffers
+pass2: 728 tiledef wstrings, 26823 cell sites
+pass3: runs 6715@0x33dcac60010 3182@0x33dcacbf290 3182@0x33dcacec5c0
+  TileMap T=0x33daa8b43f0 cols=87 rows=155 cells@0x33dcac60010 (~6715 placed in run)
+--- TileMap T=0x33daa8b43f0 87x155: 13079 cells with a tile, 165 distinct tiles -> captures\Chateau - MapWorldsChateau - 2062010714\truth_33daa8b43f0.tsv
+    corner grid 88x156: 12 ground table entries, 3729 unwalkable corners -> captures\Chateau - MapWorldsChateau - 2062010714\truth_corners_33daa8b43f0.tsv
+    tile hash over 12345 origin cells = 1661422923; Client.txt last generation MapWorldsChateau seed 2062010714 -> 1661422923 MATCH

@@ -1,0 +1,5 @@
+   client tile hash 1661422923 doodad hash 953405558 (CLI_ACTIVATE_MAP)
+AUTO seed 2062010714 Chateau: the tracer saw no generation (it attached after the level was built; the capture has no node stages)
+   tile grid: captures\Chateau - MapWorldsChateau - 2062010714\truth_33daa8b43f0.tsv (87x155, 13079 cells) VERIFIED against tile hash 1661422923
+   walkable field: captures\Chateau - MapWorldsChateau - 2062010714\walkable_33daa8b43f0_melee.png (10.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.970; 2 layer(s) read; stored for the grid as walkable_33daa8b43f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Chateau - MapWorldsChateau - 2062010714\minimap.png

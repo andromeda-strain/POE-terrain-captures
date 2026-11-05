@@ -1,0 +1,29 @@
+# POE-terrain-captures: the level-generator corpus of the POESniffer work tree, mounted as the
+# submodule `captures/` of https://github.com/andromeda-strain/POESniffer.
+#
+# Tracked: one folder per captured load (`<Area name> - <internal id> - <seed>/`: the tracer's
+# stage csv, the truth grid, the sim exports, the walkability dumps and renders), the September
+# `_unfiled/` captures, and `cases/` (index.tsv, sim_report.tsv, the harvest tables, post_session.log).
+# Ignored: the capture loop's regenerable top-level summaries and renders.
+
+# the automatic capture loop: generated layouts and summaries are regenerable; the stage captures (.csv) are corpus data
+/*.png
+/*.tsv
+/auto_*.txt
+/cases/*/grid_read.log
+/*.log
+/*_truth_*.tsv
+/pipeline_*.json
+/walk_*
+/terrain_*
+/cases/*/walk_*.png
+
+# sniffer / tracer side files
+*.bak
+*.bak[0-9]
+*.bak-*
+*.bak_*
+session_*.json
+__pycache__/
+*.py[cod]
+*.zip
