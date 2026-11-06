@@ -1,0 +1,7 @@
+pass1: 872 .tdt path buffers
+pass2: 241 tiledef wstrings, 7763 cell sites
+pass3: runs 3133@0x3972f590010
+  TileMap T=0x3976ac1b3f0 cols=47 rows=71 cells@0x3972f590010 (~3133 placed in run)
+--- TileMap T=0x3976ac1b3f0 47x71: 3133 cells with a tile, 98 distinct tiles -> captures\Vaal Temple - ExpeditionVaalTemple - 3963095592\truth_3976ac1b3f0.tsv
+    corner grid 48x72: 4 ground table entries, 1889 unwalkable corners -> captures\Vaal Temple - ExpeditionVaalTemple - 3963095592\truth_corners_3976ac1b3f0.tsv
+    tile hash over 3067 origin cells = 4156690744; Client.txt last generation ExpeditionVaalTemple seed 3963095592 -> 4156690744 MATCH

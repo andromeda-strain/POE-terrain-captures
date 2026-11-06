@@ -1,0 +1,23 @@
+--- 2026-11-06 23:01:34.254 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_19152_9.go --parent-pid 19152
+standby: go file seen 1 ms ago -> captures\stages_20261106_230133.csv
+address map: the client is not the decompiled build; 145956 functions paired (tools/exe_align.py)
+23:01:34.267 (the attach call took 4 ms)
+attached to pid 24816, image base 0x7ff6f1fe0000 (dump base 0x140000000); DR0 generator 0x7ff6f4034070 (then the draw 0x7ff6f3fdff70 on its thread)  DR1 permute 0x7ff6f410c090  DR3 dungeon 0x7ff6f4023150 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+level generator on tid 15300: draws traced on this thread
+permute stage on tid 15300; tracing continues for 10.0 s
+outdoor pipeline: switching to the stage dumps
+permute grid 69x69 written to captures\stages_20261106_230133.grid.tsv
+edge tiliser started on tid 15300: post-pass placements will be logged
+    corner grid 118x82: 8 ground table entries, 544 unwalkable corners -> captures\Dunes - MapWorldsDunes - 2742219255\truth_prefill_corners_34aee88bbf0.tsv
+    corner grid 118x82: 8 ground table entries, 544 unwalkable corners -> captures\Dunes - MapWorldsDunes - 2742219255\truth_postfill_corners_34aee88bbf0.tsv
+    corner grid 118x82: 8 ground table entries, 544 unwalkable corners -> captures\Dunes - MapWorldsDunes - 2742219255\truth_reheight_corners_34aee88bbf0.tsv
+level generator returned
+--- TileMap T=0x34aee88bbf0 117x81: 7786 cells with a tile, 85 distinct tiles -> captures\Dunes - MapWorldsDunes - 2742219255\truth_34aee88bbf0.tsv
+    corner grid 118x82: 10 ground table entries, 3521 unwalkable corners -> captures\Dunes - MapWorldsDunes - 2742219255\truth_corners_34aee88bbf0.tsv
+    tile hash over 2304 origin cells = 1070125662
+trace window after the marker elapsed
+clear before detach: all 61 threads verified clear
+clear after detach: all 61 threads verified clear
+detached; client keeps running
+31253 events written to captures\stages_20261106_230133.csv

@@ -1,0 +1,10 @@
+seq,time,tid,kind,caller,bound_or_min,max,result,data
+0,285454.8940255,28956,DUNGEON,-0x7c5ec5fcbef0,0,0,0,dungeon pipeline entry (generator entry missed: ctx 0x0 recovered here)
+1,285454.8962658,28956,DUNGEON,-0x7c5ec5fcbef0,0,0,0,dungeon pipeline entry (generator entry missed: ctx 0x1 recovered here)
+2,285454.8965173,28956,DUNGEON,-0x7c5ec5fcbef0,0,0,0,dungeon pipeline entry
+3,285454.8967371,28956,DUNGEON,-0x7c5ec5fcbef0,0,0,0,dungeon pipeline entry
+4,285454.8969377,28956,DUNGEON,-0x7f6707c61ff0,0,0,0,dungeon pipeline entry
+5,285454.8971168,28956,DUNGEON,-0x7f6707c61ff0,0,0,0,dungeon pipeline entry
+6,285454.8972962,28956,DUNGEON,-0x7f6707c61ff0,0,0,0,dungeon pipeline entry
+7,285454.8974571,28956,DUNGEON,-0x7f6707c61ff0,0,0,0,dungeon pipeline entry
+8,285464.9592473,0,GRID,,0,0,0,no tile map at ctx 0x1 (T 0x0)
