@@ -1,0 +1,4 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act1/SideCliff1/Rooms/entrance1.arm	6	6	1	node	default sideentrance
+0	Metadata/Terrain/Act1/SideCliff1/Rooms/boss.arm	6	54	1	node	
+0	Metadata/Terrain/Beach/LargeCliffs/Rooms/fill_cliff_island_4a.arm	9	48	0	fill	

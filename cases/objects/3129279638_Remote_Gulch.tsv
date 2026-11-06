@@ -1,0 +1,889 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	273	288	3.142 rad	2448909918	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/AreaTransition	275	260	4.712 rad	726109394	MapSideArea1_6	20	-157.628	3	53116	Dunes
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	270	285	0.834 rad	1792897079	MapSideArea1_6					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	274	284	0.295 rad	1570723376	MapSideArea1_6					
+Metadata/Chests/Chest2v2	257	417	0.035 rad	3722740639	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	205	449	2.896 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	219	447	4.811 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	210	459	2.405 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	231	453	2.233 rad	997121104	MapSideArea1_6					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	357	458	1.104 rad	1367822281	MapSideArea1_6					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	361	449	0.785 rad	1367822281	MapSideArea1_6					
+Monster: Daemon [Metadata/Monsters/Daemon/Archnemesis/ChargeGeneratorDaemon@83]	357	458	0.025 rad	4185824250	MapSideArea1_6					
+Metadata/Chests/Crate1	370	446	1.245 rad	1993491399	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	218	476	3.608 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	222	469	0.368 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	209	467	2.626 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	210	477	4.909 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	229	470	0.344 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	237	467	4.246 rad	997121104	MapSideArea1_6					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	344	476	3.976 rad	3407511774	MapSideArea1_6					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	358	471	2.111 rad	1367822281	MapSideArea1_6					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	351	475	0.295 rad	1367822281	MapSideArea1_6					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	362	477	2.503 rad	3407511774	MapSideArea1_6					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	348	470	4.246 rad	3407511774	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	229	486	2.921 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	221	484	0.491 rad	997121104	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	316	485	4.639 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	321	493	1.129 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	307	496	6.087 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	315	490	3.461 rad	537885310	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	312	503	0.074 rad	1851647726	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	324	504	4.442 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	334	496	3.534 rad	537885310	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	328	497	2.037 rad	537885310	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	323	498	1.374 rad	537885310	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	332	504	5.817 rad	1156710060	MapSideArea1_6					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	361	483	5.179 rad	1367822281	MapSideArea1_6					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	354	497	1.841 rad	1367822281	MapSideArea1_6					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	361	489	4.516 rad	1367822281	MapSideArea1_6					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	360	494	5.621 rad	1367822281	MapSideArea1_6					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	349	485	0.687 rad	1367822281	MapSideArea1_6					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@83]	350	490	2.994 rad	3407511774	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	327	524	1.914 rad	1156710060	MapSideArea1_6					
+Metadata/Chests/Chest2v3	336	563	1.507 rad	1813572401	MapSideArea1_6					
+Metadata/Chests/Crate1	340	593	3.752 rad	1993491399	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	278	376	0.000 rad	1450012487	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	283	372	0.000 rad	1450012487	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	278	367	0.000 rad	1450012487	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	310	619	1.178 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	315	615	1.080 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	316	620	1.890 rad	4098938526	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	251	414	2.087 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	251	414	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	251	414	0.000 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	264	417	4.017 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	264	417	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	264	417	0.231 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	243	413	0.320 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	243	413	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	243	413	0.142 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	236	415	4.815 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	236	415	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	236	415	0.785 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	266	434	2.027 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	266	434	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	266	434	0.042 rad	2647986052	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	291	627	5.571 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	289	637	0.908 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	313	630	0.638 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	305	642	3.804 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	305	621	1.203 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	318	629	0.736 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	328	624	1.522 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	331	639	5.252 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	329	631	3.485 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	324	642	0.565 rad	4098938526	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	235	451	4.573 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	235	451	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	235	451	0.785 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	218	460	3.409 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	218	460	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	218	460	0.785 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	231	472	5.094 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	231	472	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	231	472	0.153 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	223	474	2.485 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	223	474	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	223	474	0.666 rad	2647986052	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	298	657	3.853 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	294	645	5.866 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	320	654	2.626 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	312	646	3.608 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	314	651	2.381 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	307	647	1.424 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	319	645	3.068 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	314	660	3.952 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	299	646	2.013 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	330	654	0.147 rad	4098938526	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	193	684	3.878 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	196	671	0.614 rad	3300912012	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	249	453	0.000 rad	1450012487	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	229	461	4.109 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	229	461	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	229	461	0.927 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	243	464	5.966 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	243	464	1.432 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	243	464	0.233 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	248	460	1.290 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	243	464	0.076 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	243	464	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	243	464	0.381 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	236	469	3.834 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	236	469	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	236	469	0.000 rad	2647986052	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	197	697	4.712 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	196	703	5.547 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	205	701	5.621 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	197	708	0.589 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	213	691	5.105 rad	3300912012	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	234	491	0.000 rad	1450012487	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	280	465	4.749 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	288	475	5.215 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	296	486	5.329 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	291	491	5.093 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	310	485	4.957 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	311	490	4.712 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	298	497	4.892 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	314	497	6.038 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	318	502	4.712 rad	3875590990	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	198	724	3.019 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	196	716	2.258 rad	3300912012	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	193	733	6.111 rad	1156710060	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	214	721	5.424 rad	3300912012	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	220	730	4.344 rad	537885310	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	208	734	5.031 rad	1851647726	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	314	507	4.789 rad	3875590990	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	320	727	1.424 rad	3300912012	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	335	489	5.065 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	350	496	4.854 rad	3875590990	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	198	745	4.246 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	202	751	5.301 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	191	748	1.914 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	211	749	5.866 rad	537885310	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	310	737	2.773 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	308	748	0.245 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	301	749	5.964 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	308	743	1.473 rad	3300912012	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	251	527	0.000 rad	1450012487	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	202	759	5.940 rad	1156710060	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	216	765	2.307 rad	537885310	MapSideArea1_6					
+Metadata/Chests/Chest2v2	243	761	5.286 rad	3722740639	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	294	763	4.761 rad	1851647726	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	308	760	2.356 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	310	767	4.025 rad	3300912012	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	306	779	5.694 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	300	777	5.326 rad	537885310	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	290	800	1.890 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	301	785	3.632 rad	537885310	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	310	793	1.963 rad	1156710060	MapSideArea1_6					
+Metadata/Chests/Chest4	340	804	1.393 rad	1679736977	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	328	801	3.215 rad	537885310	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	289	573	0.278 rad	3875590990	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	295	805	6.210 rad	2423643823	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	319	806	3.510 rad	3300912012	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	313	805	0.442 rad	1156710060	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	329	821	3.952 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	339	826	5.007 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	331	816	2.847 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	334	810	1.129 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	342	820	4.590 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	333	826	1.914 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	336	816	3.657 rad	3300912012	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	301	587	6.034 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	301	587	5.820 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	288	599	0.204 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	289	612	0.349 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	300	600	5.820 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	283	625	0.194 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	296	619	0.000 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	301	617	5.498 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	314	607	0.000 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	309	609	5.748 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	323	615	5.407 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	294	632	5.903 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	303	632	5.878 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	315	621	5.874 rad	3875590990	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	319	836	0.908 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	342	831	5.130 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	325	837	5.743 rad	3300912012	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	291	633	5.985 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	304	628	5.535 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	310	620	5.206 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	323	622	5.133 rad	3875590990	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	252	861	1.301 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	271	872	1.227 rad	3300912012	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	275	866	0.785 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	274	856	3.559 rad	537885310	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	260	868	4.565 rad	1156710060	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	289	870	0.589 rad	537885310	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	297	864	0.614 rad	1156710060	MapSideArea1_6					
+Metadata/Chests/Chest26	347	856	2.404 rad	634639336	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	289	652	0.000 rad	1450012487	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	247	878	4.050 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	249	884	0.515 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	265	892	1.914 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	258	886	1.424 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	268	883	4.320 rad	3300912012	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	275	893	4.737 rad	537885310	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	256	878	3.927 rad	537885310	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	279	884	2.307 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	286	880	0.196 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	286	890	6.259 rad	1156710060	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	277	875	3.240 rad	1851647726	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	305	895	1.203 rad	537885310	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	306	620	5.232 rad	3875590990	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	285	632	2.163 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	285	632	4.038 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	285	640	3.927 rad	3875590990	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	264	901	3.093 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	269	909	2.872 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	253	906	0.147 rad	3300912012	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	275	907	3.780 rad	1851647726	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	283	898	4.442 rad	2423643823	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	295	648	4.193 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	315	642	5.098 rad	3875590990	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	272	689	0.000 rad	1450012487	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	252	651	0.369 rad	1418889786	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	252	651	1.571 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	259	660	2.200 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	250	669	1.951 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	280	701	6.098 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	290	702	5.630 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	291	708	4.712 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	305	709	6.233 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	288	713	0.019 rad	2647986052	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	289	747	6.000 rad	4222833082	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	293	729	5.617 rad	2647986052	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	286	738	6.000 rad	4222833082	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	296	747	0.000 rad	2647986052	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	293	935	4.688 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	286	937	5.989 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	307	932	0.221 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	312	937	0.515 rad	4098938526	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	290	762	5.903 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	303	760	5.764 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	281	713	6.000 rad	3875590990	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	251	707	0.000 rad	1450012487	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	236	743	0.519 rad	3875590990	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	241	622	5.874 rad	1418889786	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	241	622	2.356 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	288	764	0.000 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	284	774	5.498 rad	3875590990	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	233	640	0.714 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	257	692	3.142 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	283	790	6.005 rad	3875590990	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	246	664	3.000 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	230	662	1.654 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	240	664	0.000 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	257	683	3.142 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	234	721	0.831 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	235	726	1.571 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	231	731	0.700 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	234	737	0.785 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	215	729	1.571 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	197	735	1.043 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	217	751	0.662 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	218	724	0.880 rad	3875590990	MapSideArea1_6					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@83]	312	437	4.712 rad	1367822281	MapSideArea1_6					
+Metadata/Chests/Crate1	370	446	1.245 rad	1993491399	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	256	671	0.000 rad	1450012487	MapSideArea1_6					
+Metadata/Chests/Chest2v2	257	417	0.035 rad	3722740639	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	264	901	3.093 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	269	909	2.872 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	253	906	0.147 rad	3300912012	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	275	907	3.780 rad	1851647726	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	283	898	4.442 rad	2423643823	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	194	683	0.000 rad	1450012487	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	293	935	4.688 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	286	937	5.989 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	307	932	0.221 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	312	937	0.515 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	274	954	4.271 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	267	960	4.884 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	294	959	4.344 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	282	964	2.503 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	293	952	0.491 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	276	961	3.166 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	321	962	1.865 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	319	953	5.792 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	299	959	3.191 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	304	948	4.933 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	325	951	0.638 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	244	970	3.019 rad	537885310	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	264	969	0.638 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	260	978	5.449 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	261	987	6.038 rad	537885310	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	270	972	0.982 rad	537885310	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	254	976	4.516 rad	1156710060	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	256	970	5.424 rad	1156710060	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	266	982	0.147 rad	1851647726	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	288	981	4.761 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	300	976	6.185 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	309	984	3.853 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	310	966	1.203 rad	4098938526	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	247	724	4.141 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	255	734	5.176 rad	3875590990	MapSideArea1_6					
+Metadata/Chests/Barrel3old	275	999	0.724 rad	3865749632	MapSideArea1_6					
+Metadata/Chests/Barrel1old	271	994	5.208 rad	1528648667	MapSideArea1_6					
+Metadata/Chests/Barrel2old	285	996	5.806 rad	3707287636	MapSideArea1_6					
+Metadata/Chests/Barrel2old	276	994	3.761 rad	3707287636	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	230	783	0.000 rad	1450012487	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	298	1016	0.368 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	280	1027	4.393 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	285	1019	0.859 rad	537885310	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	291	1016	0.270 rad	537885310	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	287	1024	1.055 rad	1156710060	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	312	1017	4.982 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	300	1023	1.865 rad	537885310	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	325	1028	4.025 rad	1851647726	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	295	1039	3.436 rad	1156710060	MapSideArea1_6					
+Metadata/Chests/Chest2v1	360	1055	4.117 rad	4023569337	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	268	861	5.815 rad	4222833082	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	264	852	5.815 rad	4222833082	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	259	843	5.815 rad	4222833082	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	255	835	5.815 rad	4222833082	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	251	826	5.815 rad	4222833082	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	253	828	0.000 rad	2646652649	MapSideArea1_6	19	-150.000			
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	270	898	6.084 rad	4222833082	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	289	826	0.000 rad	1450012487	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	267	884	6.084 rad	4222833082	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	264	871	6.084 rad	4222833082	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	262	858	6.084 rad	4222833082	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	238	825	6.038 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	255	819	5.604 rad	1418889786	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	255	819	0.896 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	261	822	2.678 rad	2647986052	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	259	845	6.084 rad	4222833082	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	266	818	1.976 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	267	826	0.876 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	246	839	6.246 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	234	834	5.961 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	252	837	5.608 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	277	829	5.695 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	277	834	4.712 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	250	855	0.068 rad	3875590990	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	259	854	0.000 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	268	857	0.177 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	275	858	5.758 rad	3875590990	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	270	862	0.000 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	259	866	5.695 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	280	861	4.712 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	283	856	0.160 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	279	866	4.712 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	287	867	5.588 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	291	858	5.517 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	271	880	0.180 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	285	873	0.000 rad	3875590990	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	272	823	2.237 rad	1418889786	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	272	823	2.897 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	280	824	5.117 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	289	821	1.571 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	277	819	4.712 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	290	837	4.092 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	260	838	6.084 rad	3875590990	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	311	1101	1.963 rad	3300912012	MapSideArea1_6					
+Metadata/Chests/Barrel3old	333	1095	5.652 rad	3865749632	MapSideArea1_6					
+Metadata/Chests/Barrel3old	333	1100	1.391 rad	3865749632	MapSideArea1_6					
+Metadata/Chests/Barrel3old	338	1096	6.271 rad	3865749632	MapSideArea1_6					
+Metadata/Chests/Barrel3old	329	1090	5.310 rad	3865749632	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	290	875	0.000 rad	1450012487	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	296	830	1.658 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	282	882	0.040 rad	3875590990	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	278	821	0.219 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	285	818	5.610 rad	1418889786	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	285	818	2.678 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	293	912	0.000 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	301	914	6.098 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	288	920	6.259 rad	3875590990	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	281	1124	1.816 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	298	1112	3.436 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	280	1119	2.013 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	286	1118	5.621 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	304	1119	3.240 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	300	1125	4.614 rad	3300912012	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	296	924	5.608 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	306	926	6.166 rad	3875590990	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	318	1122	4.148 rad	3300912012	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	278	931	0.000 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	292	936	6.200 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	283	936	6.184 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	279	780	3.142 rad	3875590990	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	275	954	0.091 rad	4222833082	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	269	934	0.000 rad	3875590990	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	276	944	0.091 rad	4222833082	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	196	1143	5.817 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	224	1141	0.540 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	208	1138	3.780 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	209	1146	2.528 rad	997121104	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	277	1134	2.430 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	296	1130	0.344 rad	3300912012	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	274	937	0.422 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	287	936	0.105 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	297	943	0.000 rad	3875590990	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	289	1127	6.136 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	323	1133	0.712 rad	3300912012	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	341	1130	4.344 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	333	1141	4.909 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	336	1132	0.589 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	343	1142	3.583 rad	537885310	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	313	942	0.000 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	268	950	0.142 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	303	946	0.000 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	308	944	0.091 rad	3875590990	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	358	1131	5.964 rad	537885310	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	352	1141	3.902 rad	537885310	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	358	1144	2.823 rad	1156710060	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	305	914	0.000 rad	1450012487	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	256	947	0.499 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	273	954	0.412 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	261	953	0.470 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	288	955	0.059 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	318	947	0.000 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	283	963	0.105 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	299	963	3.605 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	263	964	0.529 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	296	969	5.407 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	265	978	0.753 rad	3875590990	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	198	1151	2.209 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	195	1160	5.522 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	221	1166	6.013 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	208	1163	1.571 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	223	1150	0.515 rad	997121104	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	344	1150	5.498 rad	537885310	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	342	1155	2.356 rad	1851647726	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	352	1164	5.400 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	350	1158	2.945 rad	1156710060	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	282	915	1.770 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	282	915	0.091 rad	3875590990	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	203	1174	1.154 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	196	1174	0.098 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	196	1181	0.442 rad	997121104	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	348	1191	1.448 rad	4098938526	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	306	964	0.000 rad	1450012487	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	292	987	0.000 rad	3875590990	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	309	1018	6.222 rad	4222833082	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	308	998	6.222 rad	4222833082	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	307	985	6.222 rad	4222833082	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	306	972	6.222 rad	4222833082	MapSideArea1_6					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@83]	271	994	3.215 rad	2336477418	MapSideArea1_6					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@83]	276	994	3.559 rad	2336477418	MapSideArea1_6					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@83]	285	996	4.737 rad	2336477418	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	205	1196	1.669 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	196	1213	5.031 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	205	1201	3.657 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	222	1212	2.013 rad	4098938526	MapSideArea1_6					
+Monster: Daemon [Metadata/Monsters/Daemon/Archnemesis/HexPoleSpawnerDaemon@83]	222	1212	3.976 rad	2123062686	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	318	1213	5.252 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	299	1211	4.172 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	313	1213	0.638 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	308	1211	5.645 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	323	1209	2.675 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	329	1213	0.000 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	337	1204	3.068 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	331	1204	1.939 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	332	1218	1.301 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	334	1198	2.283 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	322	1218	3.461 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	346	1218	3.289 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	352	1204	5.670 rad	4098938526	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	297	986	0.245 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	290	999	0.332 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	289	1016	0.223 rad	3875590990	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	293	1003	0.000 rad	1450012487	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	303	1000	0.081 rad	3875590990	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	308	957	4.510 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	308	957	6.222 rad	3875590990	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	202	1229	0.196 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	204	1237	1.301 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	196	1234	0.687 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	194	1224	1.301 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	201	1219	4.344 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	225	1225	1.473 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	209	1225	0.712 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	224	1236	5.031 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	217	1233	5.007 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	211	1240	3.117 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	210	1233	5.866 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	310	1228	2.454 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	302	1219	0.785 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	317	1226	4.418 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	308	1219	4.541 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	305	1224	0.049 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	332	1230	4.860 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	328	1224	3.289 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	191	1250	0.957 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	197	1245	5.866 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	202	1243	0.491 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	224	1246	3.387 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	207	1251	2.135 rad	4098938526	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireMapSideArea@83]	217	1249	1.718 rad	4098938526	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	296	968	2.962 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	296	968	3.246 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	295	1024	0.159 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	300	1026	4.712 rad	3875590990	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	272	1264	2.847 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	266	1257	6.234 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	287	1258	1.006 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	298	1258	5.130 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	287	1251	1.252 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	306	1253	5.228 rad	997121104	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	276	891	5.654 rad	3875590990	MapSideArea1_6					
+Metadata/Chests/Chest2v2	198	1286	5.263 rad	3722740639	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	271	1273	3.632 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	270	1280	4.148 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	279	1278	2.626 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	289	1273	2.528 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	279	1267	5.081 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	298	1274	2.823 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	288	1285	1.448 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	354	1272	5.670 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	360	1283	4.761 rad	997121104	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	295	1053	0.000 rad	1450012487	MapSideArea1_6					
+Monster: Hex Pole [Metadata/Monsters/LeagueArchnemesis/HexPole@83]	225	1184	3.093 rad	627131831	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	175	1305	3.559 rad	537885310	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	168	1308	6.062 rad	1156710060	MapSideArea1_6					
+Metadata/Chests/Crate1	193	1307	1.991 rad	1993491399	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	184	1306	1.325 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	188	1298	1.939 rad	2423643823	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	276	1059	0.026 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	233	1126	2.156 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	233	1126	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	233	1126	0.697 rad	2647986052	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	182	1322	4.688 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistDaggersFireSextantMap@83]	177	1324	4.271 rad	2423643823	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	194	1329	5.326 rad	537885310	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	206	1314	2.994 rad	537885310	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	190	1321	2.381 rad	537885310	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	197	1320	3.976 rad	1156710060	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	189	1328	3.510 rad	1851647726	MapSideArea1_6					
+Monster: Vaal Fanatic [Metadata/Monsters/KitavaCultist/VaalCultistSpearFireSextantMap@83]	208	1323	4.565 rad	1156710060	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	340	1105	0.000 rad	1450012487	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	333	1100	5.364 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	338	1110	1.571 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	345	1103	5.961 rad	3875590990	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	335	1105	0.037 rad	1418889786	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	335	1105	0.785 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	340	1115	0.695 rad	3875590990	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	330	1105	1.571 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	329	1110	1.571 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	344	1121	6.080 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	353	1114	5.368 rad	3875590990	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	330	1085	1.976 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	315	1112	1.071 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	350	1125	5.961 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	342	1128	6.200 rad	3875590990	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	332	1100	0.289 rad	1418889786	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	332	1100	1.571 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	354	1143	5.890 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	359	1148	0.000 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	350	1150	5.987 rad	3875590990	MapSideArea1_6					
+Metadata/Chests/Barrel2old	183	1340	5.385 rad	3707287636	MapSideArea1_6					
+Monster: Vaal Zealot [Metadata/Monsters/KitavaCultist/VaalCultistKnifestickFireSextantMap@83]	203	1340	6.038 rad	537885310	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionSextantMap@83]	194	1339	2.332 rad	1851647726	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	258	1346	5.375 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	267	1344	1.178 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	274	1346	6.111 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	284	1345	5.326 rad	997121104	MapSideArea1_6					
+Metadata/Chests/SideArea/SideAreaChest	295	1347	1.571 rad	1048892336	MapSideArea1_6					
+Metadata/NPC/Info/VaalLetters/VaalLetter_02	321	1344	1.352 rad	1425521154	MapSideArea1_6	36	-282.609			
+Object: Metadata/Effects/Spells/shatter/Shatter	320	1100	3.142 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	328	1096	3.463 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	321	1110	1.736 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	334	1107	0.276 rad	1418889786	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	334	1107	2.498 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	243	1130	4.563 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	243	1130	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	243	1130	0.785 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	339	1208	0.142 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	331	1209	0.395 rad	3875590990	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	316	1105	4.747 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	237	1145	1.151 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	237	1145	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	237	1145	0.588 rad	2647986052	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	340	1137	0.000 rad	1450012487	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	248	1369	1.694 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	258	1372	5.719 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	266	1366	1.424 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	274	1366	2.994 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	263	1358	1.644 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	268	1373	4.811 rad	997121104	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	256	1359	5.154 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	256	1378	5.768 rad	3300912012	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	277	1358	1.816 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	284	1371	4.761 rad	997121104	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	236	1125	5.699 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	236	1125	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	236	1125	0.857 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	334	1147	0.133 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	347	1167	6.061 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	342	1187	6.267 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	347	1186	6.144 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	352	1184	6.038 rad	3875590990	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	249	1389	4.860 rad	997121104	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	245	1395	2.135 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	242	1381	0.687 rad	3300912012	MapSideArea1_6					
+Monster: Sheaq, Maker of Floods [Metadata/Monsters/Goatman/GoatmanShamanBossSideAreaLowbie@83]	275	1381	1.571 rad	80723397	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	256	1391	0.049 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	264	1388	5.866 rad	997121104	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	267	1382	2.258 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	270	1387	2.356 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	258	1383	5.719 rad	3300912012	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	287	1382	2.209 rad	997121104	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	277	1388	4.393 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	296	1385	1.178 rad	3300912012	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	334	1202	0.219 rad	3875590990	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	293	1392	5.964 rad	3300912012	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	340	1203	0.027 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	329	1205	3.142 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	343	1215	0.291 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	332	1214	0.785 rad	3875590990	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	350	1171	0.000 rad	1450012487	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	336	1214	0.559 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	321	1208	1.951 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	323	1231	1.571 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	323	1211	0.637 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	324	1220	0.451 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	313	1218	0.245 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	321	1226	1.004 rad	3875590990	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	282	915	1.770 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	307	1217	0.464 rad	3875590990	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	321	1235	0.756 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	321	1235	3.093 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	321	1235	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	321	1235	0.951 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	307	1235	0.455 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	307	1235	3.467 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	307	1235	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	307	1235	0.658 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	297	1234	2.980 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	297	1234	5.841 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	297	1234	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	297	1234	0.197 rad	2647986052	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	335	1107	0.000 rad	1450012487	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	307	1127	0.284 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	307	1127	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	307	1127	0.841 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	296	1121	3.570 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	296	1121	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	296	1121	1.723 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	285	1134	1.988 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	285	1134	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	285	1134	1.571 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	281	1127	0.203 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	281	1127	0.676 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	281	1127	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	281	1127	1.571 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	275	1134	2.816 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	275	1134	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	275	1134	1.499 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	262	1126	5.803 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	262	1126	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	262	1126	1.571 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	252	1119	2.803 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	252	1119	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	252	1119	1.571 rad	2647986052	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	248	1369	1.694 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	258	1372	5.719 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	266	1366	1.424 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	274	1366	2.994 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	263	1358	1.644 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	268	1373	4.811 rad	997121104	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	256	1359	5.154 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	256	1378	5.768 rad	3300912012	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	277	1358	1.816 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	284	1371	4.761 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	249	1389	4.860 rad	997121104	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	245	1395	2.135 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	242	1381	0.687 rad	3300912012	MapSideArea1_6					
+Monster: Sheaq, Maker of Floods [Metadata/Monsters/Goatman/GoatmanShamanBossSideAreaLowbie@83]	275	1381	1.571 rad	80723397	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	256	1391	0.049 rad	997121104	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	264	1388	5.866 rad	997121104	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	267	1382	2.258 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	270	1387	2.356 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	258	1383	5.719 rad	3300912012	MapSideArea1_6					
+Monster: Flame Hellion [Metadata/Monsters/Hellion/Hellion2@83]	287	1382	2.209 rad	997121104	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	277	1388	4.393 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	296	1385	1.178 rad	3300912012	MapSideArea1_6					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@83]	293	1392	5.964 rad	3300912012	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	306	1238	0.000 rad	1450012487	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	311	1238	0.000 rad	1450012487	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	312	1244	2.077 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	312	1244	2.787 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	312	1244	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	312	1244	0.464 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	295	1245	4.933 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	295	1245	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	295	1245	1.222 rad	2647986052	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	312	1244	0.000 rad	1450012487	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	336	1266	3.324 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	336	1266	2.512 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	336	1266	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	336	1266	5.498 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	289	1253	0.350 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	289	1253	4.322 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	289	1253	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	289	1253	1.488 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	284	1242	0.369 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	284	1242	1.004 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	284	1242	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	284	1242	1.268 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	282	1249	2.931 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	282	1249	3.708 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	282	1249	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	282	1249	0.709 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	291	1265	1.111 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	291	1265	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	291	1265	4.957 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	257	1234	1.571 rad	3875590990	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	279	1267	5.813 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	279	1267	5.118 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	279	1267	4.318 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	279	1267	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	279	1267	5.081 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	289	1273	5.987 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	289	1273	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	289	1273	2.528 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	282	1274	1.806 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	282	1274	6.161 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	282	1274	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	282	1274	1.052 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	297	1276	2.728 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	297	1276	4.713 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	297	1276	3.741 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	297	1276	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	297	1276	0.245 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	261	1228	1.571 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	235	1224	1.670 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	236	1250	1.571 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	225	1230	3.142 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	230	1230	1.373 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	232	1243	1.571 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	223	1225	1.571 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	223	1248	1.571 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	224	1218	1.571 rad	3875590990	MapSideArea1_6					
+Monster: Invisible [Metadata/Monsters/InvisibleCurse/InvisibleElementalWeaknessArchnemesis_@83]	191	1218	6.259 rad	245755231	MapSideArea1_6					
+Monster: Invisible [Metadata/Monsters/InvisibleCurse/InvisibleEnfeebleArchnemesis@83]	208	1218	2.135 rad	2377646074	MapSideArea1_6					
+Monster: Invisible [Metadata/Monsters/InvisibleCurse/InvisiblePunishmentArchnemesis_@83]	211	1220	2.798 rad	778816322	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	330	1288	3.930 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	330	1288	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	330	1288	4.007 rad	2647986052	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	270	1277	0.000 rad	1450012487	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	286	1292	2.949 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	291	1288	4.608 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	286	1292	2.943 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	286	1292	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	286	1292	0.381 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	258	1229	2.356 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	260	1243	1.571 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	244	1243	2.191 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	241	1222	1.571 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	237	1214	1.666 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	227	1237	2.090 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	212	1239	1.571 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	209	1223	1.831 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	276	1314	4.655 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	276	1314	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	276	1314	0.490 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	203	1234	1.571 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	200	1242	2.601 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	265	1315	1.467 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	265	1315	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	265	1315	0.105 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	279	1327	3.694 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	279	1327	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	279	1327	0.418 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	263	1331	4.409 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	263	1331	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	263	1331	0.942 rad	2647986052	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	197	1336	0.847 rad	4222833082	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	272	1310	0.000 rad	1450012487	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	206	1328	0.847 rad	4222833082	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	209	1244	5.106 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	209	1244	5.376 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	209	1244	4.479 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	209	1244	1.571 rad	3875590990	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	208	1218	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	211	1220	0.000 rad	2646652649	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	216	1319	0.847 rad	4222833082	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	226	1310	0.847 rad	4222833082	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	236	1301	0.847 rad	4222833082	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	226	1300	1.537 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	233	1304	1.460 rad	3875590990	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	210	1325	0.940 rad	4222833082	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	211	1308	0.785 rad	3875590990	MapSideArea1_6					
+Monster: Shadestalker [Metadata/Monsters/VaalWraith/VaalWraithChampionMinion@83]	218	1319	0.940 rad	4222833082	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	216	1312	1.466 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	202	1298	1.287 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	213	1322	0.938 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	194	1302	1.571 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	205	1323	1.391 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	205	1312	1.571 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	198	1314	0.165 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	205	1328	1.521 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	248	1296	0.847 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	179	1322	1.081 rad	3875590990	MapSideArea1_6					
+Metadata/Effects/Spells/shatter/ShatterLarge	246	1304	0.940 rad	3875590990	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	270	1330	3.515 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	270	1330	5.427 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	270	1330	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	270	1330	0.180 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	257	1322	0.185 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	251	1322	5.819 rad	1418889786	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	251	1322	0.153 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	252	1330	5.800 rad	1418889786	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	252	1330	0.464 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	245	1322	5.972 rad	1418889786	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	245	1322	0.322 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	258	1335	1.219 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	258	1335	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	258	1335	0.588 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	263	1343	2.488 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	263	1343	4.869 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	263	1343	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	263	1343	0.000 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	277	1341	4.399 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	277	1341	4.703 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	277	1341	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	277	1341	0.000 rad	2647986052	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	252	1330	0.000 rad	1450012487	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	251	1345	0.068 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	251	1345	0.498 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	251	1345	6.146 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	251	1345	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	251	1345	0.000 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	245	1341	0.124 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	260	1350	1.911 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	260	1350	1.811 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	260	1350	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	260	1350	4.712 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	270	1342	4.817 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	270	1342	5.764 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	270	1342	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	270	1342	0.000 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	265	1357	0.464 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	250	1358	3.177 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	250	1358	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	250	1358	0.142 rad	2647986052	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	257	1360	2.069 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	257	1360	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	257	1360	0.100 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	285	1338	4.166 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	285	1338	0.546 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	285	1338	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	285	1338	0.165 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	283	1344	0.147 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	283	1344	6.071 rad	1418889786	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	283	1344	5.498 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	275	1349	2.071 rad	1418889786	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	275	1349	0.322 rad	2647986052	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	272	1355	5.498 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	281	1353	5.782 rad	1418889786	MapSideArea1_6					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	281	1353	2.746 rad	316014466	MapSideArea1_6					
+Object: Metadata/Effects/ServerEffect	281	1353	0.000 rad	2646652649	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	281	1353	0.000 rad	2647986052	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	269	1362	3.920 rad	1418889786	MapSideArea1_6					
+Object: Metadata/Effects/Spells/shatter/Shatter	269	1362	4.712 rad	2647986052	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	238	1356	0.000 rad	1450012487	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	302	1372	0.000 rad	1450012487	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	280	1377	6.108 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	275	1381	1.493 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	275	1381	2.986 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	275	1381	1.327 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	275	1381	4.301 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	275	1381	6.101 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	275	1381	6.120 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	280	1380	0.049 rad	1418889786	MapSideArea1_6					
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	321	1385	0.000 rad	1450012487	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	281	1127	0.203 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	295	1353	1.555 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	299	1354	2.316 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	291	1356	4.940 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	295	1352	6.114 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	295	1352	3.152 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	295	1352	0.903 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	295	1352	2.667 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/WorldItem	295	1352	0.338 rad	1418889786	MapSideArea1_6					
+Object: Metadata/MiscellaneousObjects/VaalSideAreaReturnPortal	275	1367	0.000 rad	1553559060	MapSideArea1_6			8	53116	Dunes
+Monster: Brinesoul Crustacean [Metadata/Monsters/Totems/CrabTotem@70]	257	1349	0.000 rad	1450012487	MapSideArea1_6					

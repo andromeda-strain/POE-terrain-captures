@@ -1,0 +1,24 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/StrInt/StrInt	347	485	3.142 rad	2448909918	DeepwaterHub					
+Metadata/Terrain/Doodads/Leagues/Deepwater/BlankSocket	248	383	0.000 rad	621096378	DeepwaterHub	59	-465.000			
+Metadata/Terrain/Leagues/Deepwater/Objects/ChartPortal	261	383	0.000 rad	3067986052	DeepwaterHub	9	-75.000			
+Metadata/Terrain/Doodads/Leagues/Deepwater/BlankSocket	274	383	0.000 rad	621096378	DeepwaterHub	59	-465.000			
+Metadata/Terrain/Doodads/Leagues/Deepwater/ChartPortalLocator	261	384	0.000 rad	633975723	DeepwaterHub	59	-465.000			
+Metadata/Effects/SleepableServerBeamEffect	261	383	0.000 rad	978925438	DeepwaterHub					
+Metadata/Effects/SleepableServerBeamEffect	261	383	0.000 rad	978925438	DeepwaterHub					
+Metadata/NPC/League/Deepwater/ValeriePlacerThree	289	430	5.265 rad	3204894410	DeepwaterHub					
+Metadata/Terrain/Leagues/Deepwater/Objects/CollectionChest	319	435	4.517 rad	642742479	DeepwaterHub					
+Metadata/Terrain/Leagues/Deepwater/Objects/GhostflameExhaust	308	424	0.000 rad	3216472513	DeepwaterHub					
+Metadata/MiscellaneousObjects/Deepwater/ChartLocker	231	442	1.574 rad	3318270638	DeepwaterHub					
+Metadata/Terrain/Leagues/Deepwater/Objects/BoatZoom	265	459	1.571 rad	3653389344	DeepwaterHub					
+Metadata/NPC/League/Deepwater/ValeriePlacerOne	313	457	1.571 rad	2182973823	DeepwaterHub					
+Metadata/Terrain/Leagues/Deepwater/Objects/CorpseBattery	364	459	0.000 rad	1242996222	DeepwaterHub					
+Metadata/Terrain/Leagues/Deepwater/Objects/GhostflamePipes	276	460	0.000 rad	3581060028	DeepwaterHub	0	-0.000			
+Metadata/NPC/League/Deepwater/ValeriePlacerTwo	303	471	0.279 rad	285796685	DeepwaterHub					
+Monster: Lightning Golem [Metadata/Monsters/LightningGolem/LightningGolemSummoned@70]	344	482	4.025 rad	1792897079	DeepwaterHub					
+Monster: Stone Golem [Metadata/Monsters/RockGolem/RockGolemSummoned@70]	348	481	5.719 rad	1570723376	DeepwaterHub					
+Metadata/MiscellaneousObjects/Deepwater/Boat_AreaTransition_Animate	259	489	1.571 rad	1179491121	DeepwaterHub	38	-296.875	1	50	
+Object: Metadata/MiscellaneousObjects/Stash	306	494	6.021 rad	2817685266	DeepwaterHub					
+Object: Metadata/MiscellaneousObjects/Waypoint	347	485	3.142 rad	552129418	DeepwaterHub	72	-570.000			
+Metadata/NPC/League/Deepwater/ValeriePostStory	303	471	0.279 rad	386099609	DeepwaterHub					
+Metadata/NPC/League/Deepwater/VesperLiving	303	471	0.279 rad	639794723	DeepwaterHub					

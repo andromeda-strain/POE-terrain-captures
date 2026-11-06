@@ -1,6 +1,6 @@
 type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
-Metadata/Characters/Int/Int	829	836	2.034 rad	2621544766	2_11_endgame_town					
 Metadata/Characters/StrInt/StrInt	810	831	2.269 rad	2448909918	2_11_endgame_town					
+Metadata/Characters/Int/Int	788	842	5.093 rad	2621544766	2_11_endgame_town					
 Metadata/Characters/StrInt/StrInt	810	831	2.269 rad	2448909918	2_11_endgame_town					
 Metadata/NPC/League/Metamorphosis/MetamorphosisNPC	934	618	4.995 rad	4195779126	2_11_endgame_town					
 Metadata/NPC/League/Delve/DelveMiner	728	637	5.299 rad	2089339921	2_11_endgame_town					
@@ -18,7 +18,6 @@ Metadata/NPC/League/Bestiary/Einhar	710	807	0.381 rad	3494584835	2_11_endgame_to
 Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	701	835	0.005 rad	688764747	2_11_endgame_town					
 Object: Metadata/MiscellaneousObjects/NoticeBoard	747	841	6.175 rad	1669564304	2_11_endgame_town					
 Metadata/NPC/League/Kalguur/VillageFaustusTown	778	838	1.287 rad	3922154524	2_11_endgame_town					
-Metadata/Pet/Weta/Basic	799	831	0.000 rad	3511765868	2_11_endgame_town					
 Object: Metadata/MiscellaneousObjects/Waypoint	810	831	5.498 rad	552129418	2_11_endgame_town					
 Object: Metadata/MiscellaneousObjects/Stash	835	839	5.498 rad	2817685266	2_11_endgame_town					
 Metadata/NPC/League/Kalguur/VillageMayorTown	778	851	0.830 rad	168633771	2_11_endgame_town					
@@ -27,18 +26,48 @@ Object: Metadata/QuestObjects/MapRoom/Orrery	977	862	0.000 rad	850933355	2_11_en
 Object: Metadata/MiscellaneousObjects/MapDevice	953	862	0.000 rad	561515709	2_11_endgame_town	-28	220.307			
 Metadata/NPC/Epilogue/Weylam	793	876	5.404 rad	154974220	2_11_endgame_town					
 Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolGoalMarkerCentre	966	917	2.862 rad	3525269677	2_11_endgame_town					
-Monster: Atlas Militia [Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69]	983	917	1.874 rad	1794140149	2_11_endgame_town					
 Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolActivationMarker	957	932	2.251 rad	1460769265	2_11_endgame_town					
-Monster: Atlas Militia [Metadata/Monsters/Epilogue/AtlasMilitiaSword@69]	971	933	2.853 rad	1963442362	2_11_endgame_town					
 Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolMapPortal	968	924	6.021 rad	2708616267	2_11_endgame_town					
 Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolGoalMarkerRight	1003	925	3.840 rad	4055946376	2_11_endgame_town					
 Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolMapPortal	998	931	0.750 rad	2708616267	2_11_endgame_town					
 Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolGoalMarkerLeft	939	945	1.745 rad	3517923225	2_11_endgame_town					
-Monster: Atlas Militia [Metadata/Monsters/Epilogue/AtlasMilitiaSword@69]	952	948	1.803 rad	1963442362	2_11_endgame_town					
 Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolMapPortal	946	947	4.887 rad	2708616267	2_11_endgame_town					
 Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolMapDevice	977	954	0.733 rad	277486716	2_11_endgame_town					
-Metadata/Characters/StrDex/StrDex	810	831	2.269 rad	2810334424	2_11_endgame_town					
-Metadata/Characters/DexInt/DexInt	810	831	2.269 rad	3989868005	2_11_endgame_town					
-Metadata/Characters/Dex/Dex	810	831	2.269 rad	2287107054	2_11_endgame_town					
-Metadata/Characters/StrDexInt/StrDexInt	946	855	2.269 rad	1086455624	2_11_endgame_town					
-Metadata/Characters/StrInt/StrInt	946	855	2.269 rad	2448909918	2_11_endgame_town					
+Metadata/Characters/Int/Int	810	831	2.269 rad	2621544766	2_11_endgame_town					
+Metadata/Characters/StrInt/StrInt	810	831	2.269 rad	2448909918	2_11_endgame_town					
+Metadata/NPC/League/Metamorphosis/MetamorphosisNPC	934	618	4.995 rad	4195779126	2_11_endgame_town					
+Metadata/NPC/League/Delve/DelveMiner	728	637	5.299 rad	2089339921	2_11_endgame_town					
+Metadata/Chests/AtlasPass/AtlasPassChest_01	1046	626	0.000 rad	2231727392	2_11_endgame_town					
+Metadata/NPC/League/Blight/BlightBuilder	852	661	1.533 rad	2306110952	2_11_endgame_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	807	707	4.708 rad	1285951471	2_11_endgame_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	808	691	4.681 rad	1285951471	2_11_endgame_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	807	721	4.743 rad	1285951471	2_11_endgame_town					
+Metadata/NPC/League/Betrayal/BetrayalNinjaCop	832	750	0.871 rad	4157275625	2_11_endgame_town					
+Metadata/NPC/League/Incursion/TreasureHunter	843	738	4.147 rad	4064182530	2_11_endgame_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	762	780	4.712 rad	2564365857	2_11_endgame_town					
+Metadata/NPC/Epilogue/Kirac	878	767	3.962 rad	3612673795	2_11_endgame_town					
+Metadata/NPC/Epilogue/Helena	863	788	0.564 rad	2371224320	2_11_endgame_town					
+Metadata/NPC/League/Bestiary/Einhar	710	807	0.381 rad	3494584835	2_11_endgame_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	701	835	0.005 rad	688764747	2_11_endgame_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	747	841	6.175 rad	1669564304	2_11_endgame_town					
+Metadata/NPC/League/Kalguur/VillageFaustusTown	778	838	1.287 rad	3922154524	2_11_endgame_town					
+Metadata/Pet/BlackDragon/BlackDragon	789	832	0.000 rad	2338794651	2_11_endgame_town					
+Object: Metadata/MiscellaneousObjects/Waypoint	810	831	5.498 rad	552129418	2_11_endgame_town					
+Object: Metadata/MiscellaneousObjects/Stash	835	839	5.498 rad	2817685266	2_11_endgame_town					
+Metadata/NPC/League/Kalguur/VillageMayorTown	778	851	0.830 rad	168633771	2_11_endgame_town					
+Metadata/NPC/Epilogue/Lani	804	870	5.928 rad	1169943186	2_11_endgame_town					
+Object: Metadata/QuestObjects/MapRoom/Orrery	977	862	0.000 rad	850933355	2_11_endgame_town	-40	312.500			
+Object: Metadata/MiscellaneousObjects/MapDevice	953	862	0.000 rad	561515709	2_11_endgame_town	-28	220.307			
+Metadata/NPC/Epilogue/Weylam	793	876	5.404 rad	154974220	2_11_endgame_town					
+Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolGoalMarkerCentre	966	917	2.862 rad	3525269677	2_11_endgame_town					
+Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolActivationMarker	957	932	2.251 rad	1460769265	2_11_endgame_town					
+Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolMapPortal	968	924	6.021 rad	2708616267	2_11_endgame_town					
+Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolGoalMarkerRight	1003	925	3.840 rad	4055946376	2_11_endgame_town					
+Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolMapPortal	998	931	0.750 rad	2708616267	2_11_endgame_town					
+Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolGoalMarkerLeft	939	945	1.745 rad	3517923225	2_11_endgame_town					
+Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolMapPortal	946	947	4.887 rad	2708616267	2_11_endgame_town					
+Metadata/Terrain/Act11/Camp/Objects/AtlasPatrolMapDevice	977	954	0.733 rad	277486716	2_11_endgame_town					
+Metadata/MiscellaneousObjects/MultiplexPortal	1008	844	1.047 rad	1600303822	2_11_endgame_town					
+Metadata/MiscellaneousObjects/MultiplexPortal	946	880	4.189 rad	1600303822	2_11_endgame_town					
+Metadata/MiscellaneousObjects/MultiplexPortal	1008	880	2.094 rad	1600303822	2_11_endgame_town					
+Metadata/MiscellaneousObjects/MultiplexPortal	977	898	3.142 rad	1600303822	2_11_endgame_town					
