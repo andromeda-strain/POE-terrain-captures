@@ -1,0 +1,49 @@
+sub	arm	x	y	o	src	tags
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Unique/entrance_corner_1.arm	0	24	5	node	entrance1 default
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Unique/exit_corner_1_2.arm	0	0	1	node	teleport1 telepad2
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Border/corner_balcony_1.arm	24	24	3	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_2.arm	30	12	3	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Border/corner_balcony_2.arm	24	0	2	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Border/side_balcony_2.arm	12	30	0	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_1_2.arm	0	12	1	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_1_2.arm	12	0	6	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/1x2/room_2_7.arm	18	12	6	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/1x2/open_1.arm	12	6	7	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/1x2/open_1.arm	12	24	7	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/2x2/room_6_3.arm	6	12	5	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Fills/abyss_1.arm	24	12	1	node	
+1	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Fills/abyss_1.arm	24	18	4	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Unique/entrance_corner_1_2.arm	42	0	6	node	teleport2 telepad1
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Unique/exit_corner_1.arm	66	0	2	node	teleport3 telepad4
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Unique/brasstube_1.arm	54	12	0	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Unique/side_tower_entrance_1.arm	60	18	0	node	sidearea1 accessible
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Border/corner_balcony_1_boss.arm	42	24	0	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Border/side_balcony_2.arm	54	30	0	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/corner_2_1_1.arm	66	24	4	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_1_2.arm	42	12	1	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_2_2.arm	54	0	6	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Border/side_balcony_1.arm	72	12	3	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/1x2/open_1.arm	54	18	6	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/1x2/open_1.arm	60	12	3	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/1x2/room_3_6.arm	48	12	4	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/1x2/room_3_8.arm	54	6	5	node	
+2	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Fills/abyss_1.arm	60	24	2	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Unique/entrance_corner_1_2.arm	84	0	6	node	teleport4 telepad3
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Unique/exit_tower_1.arm	114	12	7	node	teleport5-ArenaNameDominus telepad6
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Unique/brasstube_paragon_1.arm	90	12	0	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/corner_2_1_1.arm	84	24	5	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_2.arm	96	30	0	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/corner_2_1_1.arm	108	24	4	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_2_2.arm	84	12	1	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Border/side_2_2.arm	96	0	6	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Border/corner_balcony_2.arm	108	0	7	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/1x2/room_3_8.arm	102	12	1	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Fills/abyss_1.arm	108	18	0	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Fills/abyss_1.arm	90	18	0	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Fills/abyss_1.arm	96	18	6	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Fills/abyss_1.arm	96	24	2	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Fills/abyss_1.arm	102	24	5	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Fills/abyss_1.arm	102	18	7	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Fills/abyss_1.arm	96	6	1	node	
+3	Metadata/Terrain/RuinedCity/Sceptre/Rooms_abyss/Fills/abyss_1.arm	102	6	2	node	
+4	Metadata/Terrain/RuinedCity/Sceptre/Rooms/Unique/city_tower.arm	140	7	0	node	teleport6-%areaname% telepad5 entrance2disabled zone=2

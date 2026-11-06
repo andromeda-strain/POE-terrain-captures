@@ -1,0 +1,51 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Unique/entrance_1.arm	21	105	3	node	default
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Unique/boss_2.arm	33	21	4	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Ledge/ledge_straight_2.arm	45	69	7	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Connections/boss_deadend.arm	45	9	3	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Ledge/ledge_convex_2.arm	21	21	0	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Ledge/ledge_straight_2.arm	21	33	3	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Ledge/ledge_convex_1.arm	21	45	3	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Ledge/ledge_concave_2.arm	33	45	7	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Ledge/2x2/2x2_concave_1.arm	33	93	3	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Ledge/ledge_convex_2.arm	33	57	6	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Ledge/ledge_concave_1.arm	45	57	7	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Ledge/ledge_straight_3.arm	45	81	3	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	9	105	4	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	9	117	2	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	21	93	6	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	33	69	0	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	21	57	1	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	33	81	1	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	9	93	2	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	21	81	6	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	21	69	1	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	9	57	1	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	9	81	6	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	9	69	3	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/black_fill.arm	45	45	3	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	33	9	1	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	9	21	6	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	21	9	6	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	9	33	7	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	9	45	1	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/black_fill.arm	33	117	5	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/black_fill.arm	45	117	1	node	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/blank_fill.arm	9	9	7	node	
+0	Metadata/Terrain/Leagues/Expedition/encounter.arm	51	111	0	fill	
+0	Metadata/Terrain/Labyrinth/RoomSets/LabyrinthTrial.arm	35	108	3	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_CursedTreasure_01.arm	39	48	0	fill	
+0	Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm	48	95	0	fill	
+0	Metadata/Terrain/Leagues/Betrayal/Rooms/betrayal_feature_laboratory.arm	36	96	0	fill	
+0	Metadata/Terrain/EndGame/MapPromenade/Rooms/Fills/tree_1.arm	51	101	7	fill	
+1	Metadata/Terrain/Leagues/Harvest/NightGarden/Rooms/garden.arm	5	144	0	node	default link
+2	Metadata/Terrain/Leagues/Betrayal/Laboratories/Basement/Rooms/Unique/entrance_01.arm	42	153	0	node	default link link
+2	Metadata/Terrain/Leagues/Betrayal/Laboratories/Basement/Rooms/Unique/boss_01.arm	62	145	3	node	unique1
+2	Metadata/Terrain/Leagues/Betrayal/Laboratories/Basement/Rooms/1x2/3open_bend_03.arm	54	153	4	node	
+2	Metadata/Terrain/Leagues/Betrayal/Laboratories/Basement/Rooms/2x2/4open_bend_01.arm	50	145	2	node	
+2	Metadata/Terrain/Leagues/Betrayal/Laboratories/Basement/Rooms/1x1/3open_01.arm	50	157	4	node	
+2	Metadata/Terrain/Leagues/Betrayal/Laboratories/Basement/Rooms/1x1/3open_02.arm	58	145	6	node	
+2	Metadata/Terrain/Leagues/Betrayal/Laboratories/Basement/Rooms/1x1/1open_02.arm	58	157	4	node	
+2	Metadata/Terrain/Leagues/Betrayal/Laboratories/Basement/Rooms/1x2/6open_03.arm	58	149	4	node	
+2	Metadata/Terrain/Leagues/Betrayal/Laboratories/Basement/Rooms/1x1/2open_straight_03.arm	50	153	5	node	
+2	Metadata/Terrain/Leagues/Betrayal/Laboratories/Basement/Rooms/1x1/1open_02.arm	62	153	7	node	

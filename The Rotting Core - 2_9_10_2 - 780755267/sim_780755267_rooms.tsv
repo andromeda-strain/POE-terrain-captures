@@ -1,0 +1,36 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act9/Area10Level2/Rooms/IntroRooms/Unique/entrance_1.arm	86	6	4	node	default entrance1
+0	Metadata/Terrain/Act9/Area10Level2/Rooms/IntroRooms/Unique/core_entrance_1.arm	70	22	3	node	teleport1-MalachaiArenaName1 telepad2 zone=1
+0	Metadata/Terrain/Act9/Area10Level2/Rooms/IntroRooms/Unique/boss_2.arm	54	38	0	node	telepad6 telepad7 telepad8 telepad1 teleport2-%areaname% teleport3-UnholySubBossDomainDoedre teleport4-UnholySubBossDomainMaligaro teleport5-UnholySubBossDomainShavronne teleport15-MalachaiArenaName2 zone=5
+0	Metadata/Terrain/Act9/Area10Level2/Rooms/IntroRooms/Unique/weylam.arm	110	38	3	node	telepad16 zone=7 entrance2
+0	Metadata/Terrain/Act9/Area10Level2/Rooms/IntroRooms/Unique/boss_3.arm	78	38	0	node	telepad15 zone=6
+0	Metadata/Terrain/Act9/Area10Level2/Rooms/IntroRooms/1x1/var_3.arm	70	6	6	node	
+0	Metadata/Terrain/Act9/Area10Level2/Rooms/IntroRooms/1x1/var_5_1.arm	54	22	1	node	
+0	Metadata/Terrain/Act9/Area10Level2/Rooms/IntroRooms/1x1/var_5_3.arm	86	22	0	node	
+0	Metadata/Terrain/Act9/Area10Level2/Rooms/IntroRooms/1x1/var_2_4.arm	78	22	2	node	
+0	Metadata/Terrain/Act9/Area10Level2/Rooms/IntroRooms/1x1/var_5_3.arm	62	6	2	node	
+0	Metadata/Terrain/Act9/Area10Level2/Rooms/IntroRooms/1x1/var_3_4.arm	78	6	2	node	
+0	Metadata/Terrain/Act9/Area10Level2/Rooms/IntroRooms/Unique/mission_2.arm	62	22	1	node	
+0	Metadata/Terrain/Act9/Area10Level2/Rooms/IntroRooms/1x1/var_5_4.arm	86	14	6	node	
+0	Metadata/Terrain/Act9/Area10Level2/Rooms/IntroRooms/1x1/var_5.arm	78	14	4	node	
+0	Metadata/Terrain/Act9/Area10Level2/Rooms/IntroRooms/1x1/var_3_2.arm	70	14	1	node	
+0	Metadata/Terrain/Act9/Area10Level2/Rooms/IntroRooms/Unique/mission_1.arm	62	14	3	node	
+0	Metadata/Terrain/Act9/Area10Level2/Rooms/IntroRooms/1x1/var_5_3.arm	54	14	2	node	
+0	Metadata/Terrain/Leagues/Mercenaries/TerrainFeatures/Witch1.arm	66	24	0	fill	
+0	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_CursedTreasure_01.arm	64	18	0	fill	
+1	Metadata/Terrain/Act9/Area10Level2/Rooms/Doedre/Unique/gauntlet_telepad.arm	54	76	0	node	acessible telepad3 zone=4
+1	Metadata/Terrain/Act9/Area10Level2/Rooms/Doedre/Unique/organ_1.arm	114	70	3	node	telepad9 teleport9-DoedreArenaName teleport6-MalachaiArenaName1 telepad12 zone=4
+1	Metadata/Terrain/Act9/Area10Level2/Rooms/Doedre/Path/path_1_2.arm	60	70	2	node	
+1	Metadata/Terrain/Act9/Area10Level2/Rooms/Doedre/Path/path_1_2.arm	78	70	6	node	
+1	Metadata/Terrain/Act9/Area10Level2/Rooms/Doedre/Path/path_2_2.arm	96	70	2	node	
+1	Metadata/Terrain/vaal_side_area.arm	90	76	0	fill	
+2	Metadata/Terrain/Act9/Area10Level2/Rooms/Shavronne/Unique/gauntlet_telepad.arm	12	6	0	node	acessible telepad5 zone=3
+2	Metadata/Terrain/Act9/Area10Level2/Rooms/Shavronne/Unique/organ_3.arm	6	66	0	node	telepad11 teleport11-ShavronneArenaName teleport8-MalachaiArenaName1 telepad14 zone=3
+2	Metadata/Terrain/Act9/Area10Level2/Rooms/Shavronne/Path/var_2_2_1.arm	6	48	4	node	
+2	Metadata/Terrain/Act9/Area10Level2/Rooms/Shavronne/Path/var_2_2_3.arm	6	12	2	node	
+2	Metadata/Terrain/Act9/Area10Level2/Rooms/Shavronne/Path/var_2_2_3.arm	6	30	6	node	
+3	Metadata/Terrain/Act9/Area10Level2/Rooms/Maligaro/Unique/gauntlet_telepad.arm	30	6	4	node	acessible telepad4 zone=2
+3	Metadata/Terrain/Act9/Area10Level2/Rooms/Maligaro/Unique/organ_2.arm	36	72	0	node	telepad10 teleport10-MaligaroArenaName teleport7-MalachaiArenaName1 telepad13 zone=2
+3	Metadata/Terrain/Act9/Area10Level2/Rooms/Maligaro/Path/var_1_2_4.arm	30	18	0	node	
+3	Metadata/Terrain/Act9/Area10Level2/Rooms/Maligaro/Path/var_2_2_3.arm	30	36	6	node	
+3	Metadata/Terrain/Act9/Area10Level2/Rooms/Maligaro/Path/var_1_2_4.arm	30	54	2	node	
