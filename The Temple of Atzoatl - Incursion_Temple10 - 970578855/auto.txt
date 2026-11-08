@@ -1,0 +1,7 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3070584336 doodad hash 1965212775 (CLI_ACTIVATE_MAP)
+AUTO seed 970578855 The Temple of Atzoatl: dungeon area (capture captures/The Temple of Atzoatl - Incursion_Temple10 - 970578855/stages_20261107_224832.csv)
+   dungeon (.dgr) pipeline: 0 draws in 0 call sites (0 generator draws before it, 0 after it - the post passes); no generator model yet
+   tile grid: captures\The Temple of Atzoatl - Incursion_Temple10 - 970578855\truth_5f215a363f0.tsv (129x153, 19737 cells) VERIFIED against tile hash 3070584336
+   walkable field: captures\The Temple of Atzoatl - Incursion_Temple10 - 970578855\walkable_5f215a363f0_melee.png (11.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.972; 2 layer(s) read; stored for the grid as walkable_5f215a363f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Temple of Atzoatl - Incursion_Temple10 - 970578855\minimap.png

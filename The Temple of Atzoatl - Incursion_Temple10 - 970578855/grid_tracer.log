@@ -1,0 +1,18 @@
+--- 2026-11-07 22:48:33.331 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_27536_2.go --parent-pid 27536
+standby: go file seen 1 ms ago -> captures\stages_20261107_224832.csv
+address map: the client is not the decompiled build; 145956 functions paired (tools/exe_align.py)
+22:48:33.352 (the attach call took 4 ms)
+attached to pid 20772, image base 0x7ff77d6f0000 (dump base 0x140000000); DR0 generator 0x7ff77f744070 (then the draw 0x7ff77f6eff70 on its thread)  DR1 permute 0x7ff77f81c090  DR3 dungeon 0x7ff77f733150 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+level generator entry was missed; its context recovered at the dungeon entry
+dungeon pipeline on tid 16780; tracing continues for 10.0 s or until it returns
+dungeon pipeline returned
+trace window after the marker elapsed
+final grid taken at the window's end (the generator's return was not traced)
+--- TileMap T=0x5f215a363f0 129x153: 19737 cells with a tile, 181 distinct tiles -> captures\The Temple of Atzoatl - Incursion_Temple10 - 970578855\truth_5f215a363f0.tsv
+    corner grid 130x154: 14 ground table entries, 1450 unwalkable corners -> captures\The Temple of Atzoatl - Incursion_Temple10 - 970578855\truth_corners_5f215a363f0.tsv
+    tile hash over 13926 origin cells = 3070584336; Client.txt last generation Incursion_Temple10 seed 970578855 -> 3070584336 MATCH
+clear before detach: all 60 threads verified clear
+clear after detach: all 60 threads verified clear
+detached; client keeps running
+99 events written to captures\stages_20261107_224832.csv

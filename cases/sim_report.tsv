@@ -1148,3 +1148,19 @@ seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail
 770087294	The Sovereign	depths	MATCH	0	36x36	2791570765	2791570765	3.4	
 3975598427	The Fathomless Depths	depths	MATCH	0	73x36	1684355827	1684355827	12.9	
 1987620857	The Fathomless Depths	depths	MATCH	0	73x36	1266619727	1266619727	12.9	
+970578855	The Temple of Atzoatl	dgr	CELLS	10494	129x153	3070584336	2128167184	5.6	first draw-stage not OK: graph
+1187143223	The Sovereign	depths	MATCH	0	36x36	3524512389	3524512389	6.0	
+2892252356	The Fathomless Depths	depths	MATCH	0	73x36	982640987	982640987	15.2	first draw-stage not OK: seed
+2220475313	The Fathomless Depths	depths	MATCH	0	73x36	861421350	861421350	15.2	
+3281330780	The Fathomless Depths	depths	MATCH	0	73x36	2218403180	2218403180	11.2	
+570622075	The Fathomless Depths	depths	MATCH	0	73x36	264212399	264212399	4.2	
+311867103	The Fathomless Depths	depths	MATCH	0	73x36	3629417221	3629417221	9.0	
+4005840979	The Sovereign	depths	MATCH	0	36x36	3018108306	3018108306	0.6	
+3387855707	The Fathomless Depths	depths	MATCH	0	73x36	477887515	477887515	4.2	
+18777301	The Fathomless Depths	depths	MATCH	0	73x36	4260211224	4260211224	5.3	
+3509865920	The Fathomless Depths	depths	MATCH	0	73x36	3484091144	3484091144	5.4	
+448947263	The Fathomless Depths	depths	MATCH	0	73x36	2528138418	2528138418	4.0	
+363471880	The Fathomless Depths	depths	MATCH	0	73x36	252050507	252050507	5.3	
+3190115169	The Fathomless Depths	depths	MATCH	0	73x36	1156041899	1156041899	4.8	
+2373357588	The Fathomless Depths	depths	MATCH	0	73x36	1290541556	1290541556	4.8	
+85726749	The Fathomless Depths	depths	MATCH	0	133x96	3700192490	3700192490	17.7	first draw-stage not OK: plugin; first mismatch: sim 0x141f2cb29 sub_141F2CC70 cell connection tiling draw(10) = 2 [word 1869] connection (78,33) 1x1 fill for - vs log 0x141f2cb29 draw(0) = 0

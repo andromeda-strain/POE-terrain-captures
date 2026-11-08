@@ -1,0 +1,20 @@
+--- 2026-11-07 23:03:14.777 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_27536_4.go --parent-pid 27536
+standby: go file seen 3 ms ago -> captures\stages_20261107_230313.csv
+address map: the client is not the decompiled build; 145956 functions paired (tools/exe_align.py)
+23:03:14.794 (the attach call took 5 ms)
+attached to pid 20772, image base 0x7ff77d6f0000 (dump base 0x140000000); DR0 generator 0x7ff77f744070 (then the draw 0x7ff77f6eff70 on its thread)  DR1 permute 0x7ff77f81c090  DR3 dungeon 0x7ff77f733150 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+level generator entry was missed; its context recovered at the dungeon entry
+dungeon pipeline on tid 25908; tracing continues for 10.0 s or until it returns
+dungeon pipeline returned
+dungeon pipeline returned
+dungeon pipeline returned
+trace window after the marker elapsed
+final grid taken at the window's end (the generator's return was not traced)
+--- TileMap T=0x5f1cc02f3f0 73x36: 2592 cells with a tile, 48 distinct tiles -> captures\stages_20261107_230313_truth_5f1cc02f3f0.tsv
+    corner grid 74x37: 10 ground table entries, 1379 unwalkable corners -> captures\stages_20261107_230313_truth_corners_5f1cc02f3f0.tsv
+    tile hash over 872 origin cells = 982640987; Client.txt last generation DeepwaterEncounter seed 2892252356 -> 982640987 MATCH
+clear before detach: all 60 threads verified clear
+clear after detach: all 60 threads verified clear
+detached; client keeps running
+103 events written to captures\stages_20261107_230313.csv
