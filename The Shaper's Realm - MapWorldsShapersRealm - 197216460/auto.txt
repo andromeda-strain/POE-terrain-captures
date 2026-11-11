@@ -1,0 +1,25 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3997537545 doodad hash 470222762 (CLI_ACTIVATE_MAP)
+AUTO seed 197216460 The Shaper's Realm: dungeon area (capture captures/The Shaper's Realm - MapWorldsShapersRealm - 197216460/stages_20261108_211336.csv)
+   dungeon (.dgr) pipeline: 10618 draws in 18 call sites (1 generator draws before it, 33520 after it - the post passes); no generator model yet
+   0x14203a8e0: 18 draws, bounds 100
+   0x142105ee9: 14 draws, bounds 1
+   0x1420efc0c: 2120 draws, bounds 1,2,4,8,20,40,100,200,340,400,600,640,...
+   0x1420f6875: 360 draws, bounds 1,2,4
+   0x141febf93: 3933 draws, bounds 1,20,100,360
+   0x141febfcf: 3933 draws, bounds 8
+   0x14203c5d6: 12 draws, bounds 5,6,7,12,13,14,15,16
+   0x1420fd32a: 35 draws, bounds 128
+   0x142012839: 2 draws, bounds 1
+   0x1420fd640: 109 draws, bounds 562,1200
+   0x142001ee5: 24 draws, bounds 1,2,3
+   0x1420fc763: 2 draws, bounds 1
+   0x14210862e: 22 draws, bounds 2,50,205,412,36100,180550,300300
+   0x14210871c: 22 draws, bounds 840
+   0x142108799: 5 draws, bounds 412,300300
+   0x1421087b9: 5 draws, bounds 840
+   0x1420fcc6c: 1 draws, bounds 6
+   0x1420fce8c: 1 draws, bounds 100
+   tile grid: captures\The Shaper's Realm - MapWorldsShapersRealm - 197216460\truth_476eeae53f0.tsv (99x129, 12771 cells) VERIFIED against tile hash 3997537545
+   walkable field: captures\The Shaper's Realm - MapWorldsShapersRealm - 197216460\walkable_476eeae53f0_melee.png (14.9% of the sub-cells walkable, matches the tiles' hull field at IoU 0.915; 2 layer(s) read; stored for the grid as walkable_476eeae53f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Shaper's Realm - MapWorldsShapersRealm - 197216460\minimap.png

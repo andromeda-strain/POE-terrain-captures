@@ -306,3 +306,13 @@
    area_content.py (3 s, exit 0): 5160 area loads -> captures\cases\area_content.tsv
    lab_layouts.py (1482 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
    done in 1485 s
+== post_session 2026-11-08 21:28:51
+   area_content.py (7 s, exit 0): 5164 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py (3575 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
+   incursion_rooms.py (1 s, exit 0): 0 IncursionTemplePlugin loads harvested -> D:\repos\POE 3.29.3b\Work\captures\cases\incursion_temple.tsv (4 rows)
+   done in 3584 s
+== post_session 2026-11-11 16:35:35
+   area_content.py (33 s, exit 0): 5166 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py (1389 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
+   incursion_rooms.py (2 s, exit 0): 0 IncursionTemplePlugin loads harvested -> D:\repos\POE 3.29.3b\Work\captures\cases\incursion_temple.tsv (4 rows)
+   done in 1424 s
