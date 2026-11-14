@@ -1,0 +1,11 @@
+--- 2026-11-12 22:05:50.087 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_4804_7.go --parent-pid 4804
+standby: go file seen 1 ms ago -> captures\stages_20261112_220547.csv
+address map: the client is not the decompiled build; 145956 functions paired (tools/exe_align.py)
+22:05:50.103 (the attach call took 4 ms)
+attached to pid 20420, image base 0x7ff708c30000 (dump base 0x140000000); DR0 generator 0x7ff70ac84070 (then the draw 0x7ff70ac2ff70 on its thread)  DR1 permute 0x7ff70ad5c090  DR3 dungeon 0x7ff70ac73150 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+deadline reached
+clear before detach: all 60 threads verified clear
+clear after detach: all 60 threads verified clear
+detached; client keeps running
+0 events written to captures\stages_20261112_220547.csv

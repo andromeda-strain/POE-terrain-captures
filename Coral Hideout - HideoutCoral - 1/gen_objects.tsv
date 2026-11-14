@@ -1,0 +1,13 @@
+type	X	Y	rotation	z	height_step	origin	src	who
+Metadata/Terrain/Tools/AudioTools/General/ShoreDistant/ShoreDistant	609	268	0.0000	50.785	-6	tile	beach_cliffsm_to_ocean_v01_03.tdt	client
+Metadata/Terrain/Tools/AudioTools/General/ShoreDistant/ShoreDistant	691	277	1.5708	0.001	0	tile	beach_walkablelargecliffwater_low_v02_01.tdt	client
+Metadata/MiscellaneousObjects/AreaTransition	370	382	1.5708	-121.000	15	tile	beach_sidearea_cave_v01.tdt	server
+Metadata/Terrain/Tools/AudioTools/General/ShoreDistant/ShoreDistant	700	363	4.7124	-0.000	0	tile	beach_walkablelargecliffwater_low_v06_02.tdt	client
+Metadata/MiscellaneousObjects/Waypoint	516	515	1.5708	0.000	0	room	hideout_coral.arm	server
+Metadata/Terrain/Missions/Hideouts/Objects/StrDexIntMappingDevice	275	551	2.5307	0.000	0	room	hideout_coral.arm	server
+Metadata/MiscellaneousObjects/Stash	548	524	4.4917	0.000	0	room	hideout_coral.arm	server
+Metadata/MiscellaneousObjects/GuildStash	549	536	4.6211	0.000	0	room	hideout_coral.arm	server
+Metadata/Terrain/Missions/Hideouts/Objects/HideoutCraftingBench	555	483	5.9720	0.000	0	room	hideout_coral.arm	server
+Metadata/MiscellaneousObjects/Expedition/ExpeditionStash_Hideout	508	581	0.1222	0.000	0	room	hideout_coral.arm	server
+Metadata/MiscellaneousObjects/Heist/HeistStash_Hideout	480	572	0.6283	0.000	0	room	hideout_coral.arm	server
+Metadata/MiscellaneousObjects/Harvest/CraftingSilo_Hideout	533	458	1.1519	0.000	0	room	hideout_coral.arm	server

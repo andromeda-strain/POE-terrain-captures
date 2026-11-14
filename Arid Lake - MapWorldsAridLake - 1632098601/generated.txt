@@ -1,0 +1,17 @@
+GENERATED Arid Lake [MapWorldsAridLake] seed 1632098601
+   grid: captures\Arid Lake - MapWorldsAridLake - 1632098601\sim_1632098601.tsv (generator tgr, terrain endgame/mapsaltflats/, capture status "DIFF")
+   layers: 48x102 cells -> 1104x2346 sub-cells; tile hull planes + 258 client doodads (the doodad stage DIFFERS from the logged draws) + 2 server objects' hulls
+   walkability gen_melee.png/.bin (24.6% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -26 .. 104 levels (-203.1 .. 812.5 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 139 specified by the level's files - tile .tmd records 63, room .arm lines 76; server (sent) 11, server-internal 2, client 126; 258 stage doodads in gen_doodads.tsv
+   server types: AngeredBird x3, AreaTransition x2, MapReturnPortal x1, CraftRecipeUnlockMarker x1, ExpeditionDetonator x1, CursedTreasureChestEncounter x1, CursedTreasureChestEncounterLamp x1, LabyrinthTrialPortal x1
+   client scatter: 0 decals in gen_decals.tsv, 0 critters in gen_critters.tsv (positions on the level seed; which line each takes is not seeded)
+      decals: 1088 attempts, 0 placed; DIFFERS from the log at ('row 8267', 'x', 805, 57, ('0x14152eb38', 512, 151))
+      critters: 61 attempts, 0 placed; DIFFERS from the log at ('row 9503', 'x', 805, 25, ('0x14154526b', 256, 8))
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_4a19de7a3f0.tsv: tiles 3024/3378 equal (path + orientation), 1156 client cells outside the generated grid; cell heights 3024/3024 equal
+   vs the client's melee layer walkable_4a19de7a3f0_melee.bin: 94.0410% equal, IoU 0.8051 (0 sub-cells more open here, 154338 more blocked; the generated tiles differ from the client's, and so do the layers)
+   vs the client's ranged layer walkable_4a19de7a3f0_ranged.bin: 83.4600% equal, IoU 0.6403 (187266 sub-cells more open here, 241118 more blocked; the generated tiles differ from the client's, and so do the layers)
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 6 s

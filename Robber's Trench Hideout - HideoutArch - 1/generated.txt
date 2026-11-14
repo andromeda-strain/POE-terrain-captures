@@ -1,0 +1,17 @@
+GENERATED Robber's Trench Hideout [HideoutArch] seed 1
+   tgr simulator: == map cells: 142/960 equal the truth (6 s)
+   grid: captures\Robber's Trench Hideout - HideoutArch - 1\sim_1.tsv (generator tgr, terrain missions/hideouts/archaeological/, capture status "PASS")
+   layers: 39x39 cells -> 897x897 sub-cells; tile hull planes + 21 client doodads (no draw log: the stage run from the terrain's last word) + 3 server objects' hulls
+   walkability gen_melee.png/.bin (10.0% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -96 .. 105 levels (-750.0 .. 820.3 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 32 specified by the level's files - tile .tmd records 3, room .arm lines 29; server (sent) 10, server-internal 0, client 22; 21 stage doodads in gen_doodads.tsv
+   server types: AreaTransition x2, Waypoint x1, HideoutCraftingBench x1, Stash x1, GuildStash x1, StrDexIntMappingDevice x1, CraftingSilo_Hideout x1, HeistStash_Hideout x1
+   client passes after the doodads: 1600 corner ground materials in gen_materials.tsv, 0 decals in gen_decals.tsv, 0 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+      ground materials: 1600 corners, 1244 of them drawn; no draw log to check against
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_30b99a0e3f0.tsv: tiles 423/1521 equal (path + orientation); cell heights 423/423 equal
+   vs the client's melee layer walkable_30b99a0e3f0_melee.bin: 95.6492% equal, IoU 0.7646 (33324 sub-cells more open here, 1683 more blocked; the generated tiles differ from the client's, and so do the layers)
+   vs the client's ranged layer walkable_30b99a0e3f0_ranged.bin: 97.6661% equal, IoU 0.9745 (13388 sub-cells more open here, 5391 more blocked; the generated tiles differ from the client's, and so do the layers)
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 12 s

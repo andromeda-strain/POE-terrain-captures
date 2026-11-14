@@ -1,0 +1,19 @@
+GENERATED The Temple of Atzoatl [Incursion_Temple10] seed 10810662
+   dgr simulator: GRID 129x153: 19737 cells with a tile -> D:\repos\POE 3.29.3b\Work\captures/The Temple of Atzoatl - Incursion_Temple10 - 10810662\sim_108106 | vs truth grid: 16526 differing cells; first: (0,0) sim forestthick_fill_v01_01.tdt o6 h0 (0,0) truth forestthick_fill_v01_01.tdt o7 h0 (0,0) (10 s)
+   grid: captures\The Temple of Atzoatl - Incursion_Temple10 - 10810662\sim_10810662.tsv (generator dgr, terrain -, capture status "dungeon trace")
+   layers: 129x153 cells -> 2967x3519 sub-cells; tile hull planes + 323 client doodads (the doodad stage DIFFERS from the logged draws) + 36 server objects' hulls
+   walkability gen_melee.png/.bin (15.0% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -91 .. 37 levels (-710.9 .. 289.1 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 547 specified by the level's files - tile .tmd records 167, room .arm lines 380; server (sent) 112, server-internal 36, client 399; 323 stage doodads in gen_doodads.tsv
+   server types: IncaTorchLightMulti x28, TempleInternalDoor x26, WallTurret1 x18, VaalSaucerRoomSpiderSpawner1 x9, VaalSaucerRoomSpiderSpawner2 x9, VaalSaucerMovementMarker x8, ModularLight_MedRed_Trigg x8, TreeMonkeySpawner x7
+   client passes after the doodads: 20020 corner ground materials in gen_materials.tsv, 1486 decals in gen_decals.tsv, 0 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+      ground materials: 20020 corners, 5882 of them drawn; DIFFERS from the log at ('row 35012', "material at corner (15,1) ground 'ThickForestInterior'", 130, 23, ('0x141530658', 160, 23))
+      decals: 16033 attempts, 1486 placed; DIFFERS from the log at ('row 41021', 'angle', 512, 167, ('0x14152e730', 2967, 1724))
+      critters: 210 attempts, 0 placed; DIFFERS from the log at ('row 73287', 'x', 2921, 322, ('0x14154526b', 256, 9))
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_30b99dc6bf0.tsv: tiles 3234/19737 equal (path + orientation); cell heights 3211/3234 equal
+   vs the client's melee layer walkable_30b99dc6bf0_melee.bin: 93.4791% equal, IoU 0.7126 (602289 sub-cells more open here, 78549 more blocked; the generated tiles differ from the client's, and so do the layers)
+   vs the client's ranged layer walkable_30b99dc6bf0_ranged.bin: 95.4372% equal, IoU 0.8407 (407939 sub-cells more open here, 68454 more blocked; the generated tiles differ from the client's, and so do the layers)
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 48 s

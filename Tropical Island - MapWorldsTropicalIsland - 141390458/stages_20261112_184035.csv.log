@@ -1,0 +1,23 @@
+--- 2026-11-12 18:40:35.875 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_13152_6.go --parent-pid 13152
+standby: go file seen 2 ms ago -> captures\stages_20261112_184035.csv
+address map: the client is not the decompiled build; 145956 functions paired (tools/exe_align.py)
+18:40:35.886 (the attach call took 3 ms)
+attached to pid 22384, image base 0x7ff69be90000 (dump base 0x140000000); DR0 generator 0x7ff69dee4070 (then the draw 0x7ff69de8ff70 on its thread)  DR1 permute 0x7ff69dfbc090  DR3 dungeon 0x7ff69ded3150 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+level generator on tid 21324: draws traced on this thread
+permute stage on tid 21324; tracing continues for 10.0 s
+outdoor pipeline: switching to the stage dumps
+permute grid 120x36 written to captures\stages_20261112_184035.grid.tsv
+edge tiliser started on tid 21324: post-pass placements will be logged
+    corner grid 345x49: 11 ground table entries, 586 unwalkable corners -> captures\stages_20261112_184035_truth_prefill_corners_563a92093f0.tsv
+    corner grid 345x49: 11 ground table entries, 586 unwalkable corners -> captures\stages_20261112_184035_truth_postfill_corners_563a92093f0.tsv
+    corner grid 345x49: 11 ground table entries, 586 unwalkable corners -> captures\stages_20261112_184035_truth_reheight_corners_563a92093f0.tsv
+level generator returned
+--- TileMap T=0x563a92093f0 344x48: 13925 cells with a tile, 197 distinct tiles -> captures\stages_20261112_184035_truth_563a92093f0.tsv
+    corner grid 345x49: 15 ground table entries, 5149 unwalkable corners -> captures\stages_20261112_184035_truth_corners_563a92093f0.tsv
+    tile hash over 13411 origin cells = 3249906785
+trace window after the marker elapsed
+clear before detach: all 60 threads verified clear
+clear after detach: all 60 threads verified clear
+detached; client keeps running
+82282 events written to captures\stages_20261112_184035.csv

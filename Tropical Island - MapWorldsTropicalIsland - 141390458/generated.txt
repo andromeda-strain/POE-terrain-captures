@@ -1,0 +1,18 @@
+GENERATED Tropical Island [MapWorldsTropicalIsland] seed 141390458
+   grid: captures\Tropical Island - MapWorldsTropicalIsland - 141390458\sim_141390458.tsv (generator tgr, terrain endgame/mapforest/, capture status "PASS")
+   layers: 344x48 cells -> 7912x1104 sub-cells; tile hull planes + 140 client doodads (the doodad stage DIFFERS from the logged draws) + 0 server objects' hulls
+   walkability gen_melee.png/.bin (14.1% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -25 .. 84 levels (-195.3 .. 656.2 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 1191 specified by the level's files - tile .tmd records 941, room .arm lines 250; server (sent) 148, server-internal 170, client 873; 140 stage doodads in gen_doodads.tsv
+   server types: TreeMonkeySpawner x72, TreeMonkeySpawnerParasite x70, ClosedDoorPast_Floor x24, ClosedDoorPast x24, OshabiRootCreator x15, OshabiVinePathEndMarker x15, Extractor x14, Irrigator x14
+   client passes after the doodads: 14501 corner ground materials in gen_materials.tsv, 488 decals in gen_decals.tsv, 14 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+      ground materials: 14501 corners, 1989 of them drawn; DIFFERS from the log at ('row 25418', "material at corner (62,7) ground 'TreeTrim'", 20, 17, ('0x141530658', 40, 17))
+      decals: 7601 attempts, 488 placed; DIFFERS from the log at ('row 27478', 'angle', 512, 183, ('0x14152e730', 3036, 531))
+      critters: 124 attempts, 14 placed; DIFFERS from the log at ('row 43242', 'angle', 256, 240, ('0x14154529b', 256, 80))
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_563a92093f0.tsv: tiles 4754/13925 equal (path + orientation); cell heights 4744/4754 equal
+   vs the client's melee layer walkable_563a92093f0_melee.bin: 96.7440% equal, IoU 0.8547 (243027 sub-cells more open here, 41377 more blocked; the generated tiles differ from the client's, and so do the layers)
+   vs the client's ranged layer walkable_563a92093f0_ranged.bin: 98.0301% equal, IoU 0.9747 (137876 sub-cells more open here, 34195 more blocked; the generated tiles differ from the client's, and so do the layers)
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 48 s

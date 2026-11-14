@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 542952023 doodad hash 3979428392 (CLI_ACTIVATE_MAP)
+AUTO seed 1 Robber's Trench Hideout: terrain missions/hideouts/archaeological/ graph hideout_01.tgr (2 locked nodes match; capture 4 nodes, graph 3)
+   typed nodes never placed by the client (untilised): [0]
+   node pipeline: pre-pick words 0, vaal_pending False, hideout_claim False: free nodes 0/0 match
+   pre-pick words not pinned by the capture: no offset in [1, 4001] replays the first 12 draws (0 on the first 3)
+   tile grid: captures\Robber's Trench Hideout - HideoutArch - 1\truth_30b99a0e3f0.tsv (39x39, 1521 cells) VERIFIED against tile hash 542952023
+   walkable field: captures\Robber's Trench Hideout - HideoutArch - 1\walkable_30b99a0e3f0_melee.png (7.8% of the sub-cells walkable, matches the tiles' hull field at IoU 0.772; 2 layer(s) read; stored for the grid as walkable_30b99a0e3f0_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Robber's Trench Hideout - HideoutArch - 1\minimap.png
+   PASS: permute-in 2/2, permute-out 2/2, rounder-in-1 2/2, rounder-in-2 2/2, rounder-in-3 2/2
+   layout: captures\Robber's Trench Hideout - HideoutArch - 1\layout.png; minimap captures\Robber's Trench Hideout - HideoutArch - 1\minimap.png
+   corpus row already present
