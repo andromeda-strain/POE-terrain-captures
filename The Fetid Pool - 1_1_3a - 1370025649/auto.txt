@@ -1,0 +1,27 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 16333883 doodad hash 2823836464 (CLI_ACTIVATE_MAP)
+AUTO seed 1370025649 The Fetid Pool: dungeon area (capture captures/The Fetid Pool - 1_1_3a - 1370025649/stages_20261115_204810.csv)
+   dungeon (.dgr) pipeline: 860 draws in 20 call sites (1 generator draws before it, 9170 after it - the post passes); no generator model yet
+   0x14203a8e0: 6 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 100
+   0x1420fd32a: 8 draws, bounds 128
+   0x142012839: 1 draws, bounds 2
+   0x1420fd640: 13 draws, bounds 3900
+   0x142001ee5: 6 draws, bounds 1
+   0x1420fd610: 1 draws, bounds 1
+   0x14210862e: 4 draws, bounds 8200,1083000
+   0x14210871c: 4 draws, bounds 840
+   0x142109942: 6 draws, bounds 100
+   0x142109cdf: 6 draws, bounds 100
+   0x142109cf6: 6 draws, bounds 840
+   0x14200e580: 219 draws, bounds 1,2,4,8
+   0x142015298: 32 draws, bounds 1,2
+   0x141febf93: 261 draws, bounds 1,148
+   0x141febfcf: 232 draws, bounds 8
+   0x141fec0ea: 23 draws, bounds 132,139,141,142,144,146
+   0x141fec1d8: 17 draws, bounds 8
+   0x141ff54ab: 12 draws, bounds 840
+   0x14202795d: 1 draws, bounds 1
+   tile grid: captures\The Fetid Pool - 1_1_3a - 1370025649\truth_516d69d3448.tsv (60x51, 3060 cells) VERIFIED against tile hash 16333883
+   walkable field: captures\The Fetid Pool - 1_1_3a - 1370025649\walkable_516d69d3448_melee.png (13.2% of the sub-cells walkable, matches the tiles' hull field at IoU 0.961; 4 layer(s) read; stored for the grid as walkable_516d69d3448_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Fetid Pool - 1_1_3a - 1370025649\minimap.png

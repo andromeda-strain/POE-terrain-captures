@@ -1,0 +1,13 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 909825742 doodad hash 815199721 (CLI_ACTIVATE_MAP)
+AUTO seed 138167816 The Twilight Strand: terrain act1/area1/ graph macro_beach4.tgr (10 locked nodes match; capture 25 nodes, graph 17)
+   typed nodes never placed by the client (untilised): [0, 1, 13]
+   node pipeline: pre-pick words 0, vaal_pending False, hideout_claim False: free nodes 4/4 match
+   tile grid: captures\stages_20261114_182824_truth_350278b9c48.tsv (96x30, 2880 cells) VERIFIED against tile hash 909825742
+   walkable field: captures\The Twilight Strand - 1_1_1 - 138167816\walkable_stages_20261114_182824_truth_350278b9c48_melee.png (18.5% of the sub-cells walkable, matches the tiles' hull field at IoU 0.748; 2 layer(s) read; stored for the grid as walkable_stages_20261114_182824_truth_350278b9c48_{melee,ranged}.png/.bin/.tsv)
+   minimap render failed: .py", line 171, in main
+    rows = [l.rstrip('\n').split('\t') for l in io.open(a.tsv, encoding='utf-8')]
+                                                ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'captures\\stages_20261114_182824_truth_350278b9c48.tsv'
+   FAIL:  ERROR FileNotFoundError: [Errno 2] No such file or directory: 'captures\\stages_20261114_182824_truth_350278b9c48.tsv'
+   layout: captures\The Twilight Strand - 1_1_1 - 138167816\layout.png; minimap captures\The Twilight Strand - 1_1_1 - 138167816\minimap.png

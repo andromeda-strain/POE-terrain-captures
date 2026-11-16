@@ -326,3 +326,53 @@
    lab_layouts.py (3230 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
    incursion_rooms.py (1 s, exit 0): 3 IncursionTemplePlugin loads harvested -> D:\repos\POE 3.29.3b\Work\captures\cases\incursion_temple.tsv (7 rows)
    done in 3236 s
+== post_session 2026-11-14 20:10:36
+   area_content.py (7 s, exit 0): 5207 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py (2314 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
+   incursion_rooms.py (4 s, exit 0): 3 IncursionTemplePlugin loads harvested -> E:\repos\POE Work\captures\cases\incursion_temple.tsv (7 rows)
+   done in 2325 s
+== post_session 2026-11-15 07:02:45
+   area_content.py (1 s, exit 0): 5209 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py (2355 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
+   incursion_rooms.py (2 s, exit 0): 0 IncursionTemplePlugin loads harvested -> E:\repos\POE Work\captures\cases\incursion_temple.tsv (7 rows)
+   done in 2358 s
+== post_session 2026-11-15 07:21:28
+   area_content.py (47 s, exit 0): 5211 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py (2177 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
+   incursion_rooms.py (0 s, exit 0): 0 IncursionTemplePlugin loads harvested -> E:\repos\POE Work\captures\cases\incursion_temple.tsv (7 rows)
+   done in 2224 s
+== post_session 2026-11-15 11:54:53
+   area_content.py (1 s, exit 0): 5211 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py (1703 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
+   incursion_rooms.py (2 s, exit 0): 0 IncursionTemplePlugin loads harvested -> E:\repos\POE Work\captures\cases\incursion_temple.tsv (7 rows)
+   done in 1706 s
+== post_session 2026-11-15 13:41:39
+   area_content.py (1 s, exit 0): 5213 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py (1537 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
+   incursion_rooms.py (0 s, exit 0): 0 IncursionTemplePlugin loads harvested -> E:\repos\POE Work\captures\cases\incursion_temple.tsv (7 rows)
+   done in 1539 s
+== post_session 2026-11-15 19:06:22
+   area_content.py (3 s, exit 0): 5215 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py (1642 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
+   incursion_rooms.py (2 s, exit 0): 0 IncursionTemplePlugin loads harvested -> E:\repos\POE Work\captures\cases\incursion_temple.tsv (7 rows)
+   done in 1647 s
+== post_session 2026-11-15 20:33:05
+   area_content.py (1 s, exit 0): 5217 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py (3494 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
+   incursion_rooms.py (19 s, exit 0): 0 IncursionTemplePlugin loads harvested -> E:\repos\POE Work\captures\cases\incursion_temple.tsv (7 rows)
+   done in 3514 s
+== post_session 2026-11-15 20:49:45
+   area_content.py (20 s, exit 0): 5221 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py (3170 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
+   incursion_rooms.py (0 s, exit 0): 0 IncursionTemplePlugin loads harvested -> E:\repos\POE Work\captures\cases\incursion_temple.tsv (7 rows)
+   done in 3191 s
+== post_session 2026-11-16 08:06:16
+   area_content.py (3 s, exit 0): 5222 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py (1423 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
+   incursion_rooms.py (3 s, exit 0): 0 IncursionTemplePlugin loads harvested -> E:\repos\POE Work\captures\cases\incursion_temple.tsv (7 rows)
+   done in 1429 s
+== post_session 2026-11-16 09:12:46
+   area_content.py (2 s, exit 0): 5223 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py (37 s, exit 1): FileNotFoundError: [Errno 2] No such file or directory: 'E:\\repos\\POE Work\\ExileSniffer\\x64\\Release\\Logs\\session_2026-09-06_07-17-24.json'
+   incursion_rooms.py (0 s, exit 0): 0 IncursionTemplePlugin loads harvested -> E:\repos\POE Work\captures\cases\incursion_temple.tsv (7 rows)
+   done in 39 s

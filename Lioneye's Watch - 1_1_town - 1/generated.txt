@@ -1,0 +1,14 @@
+GENERATED Lioneye's Watch [1_1_town] seed 1
+   grid: captures\Lioneye's Watch - 1_1_town - 1\sim_1.tsv (generator dgr, terrain -, capture status "dungeon trace")
+   layers: 30x18 cells -> 690x414 sub-cells; tile hull planes + 42 client doodads (no draw log: the stage run from the terrain's last word) + 2 server objects' hulls
+   walkability gen_melee.png/.bin (6.9% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -48 .. 72 levels (-375.0 .. 562.5 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 80 specified by the level's files - tile .tmd records 17, room .arm lines 63; server (sent) 18, server-internal 6, client 56; 42 stage doodads in gen_doodads.tsv
+   server types: TownPortal x6, MercenaryMarker x3, AreaTransition x1, AreaTransitionMapMarker x1, Waypoint x1, Nessa x1, Tarkleigh x1, Bestel x1
+   client passes after the doodads: 0 corner ground materials in gen_materials.tsv, 0 decals in gen_decals.tsv, 0 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_20d9df073f0.tsv: tiles 540/540 equal (path + orientation); cell heights 540/540 equal
+   vs the client's ranged layer walkable_20d9df073f0_ranged.bin: EXACT
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 8 s

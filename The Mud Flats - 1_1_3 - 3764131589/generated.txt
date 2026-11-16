@@ -1,0 +1,19 @@
+GENERATED The Mud Flats [1_1_3] seed 3764131589
+   tgr simulator: == map cells: 932/932 equal the truth (2 s)
+   grid: captures\The Mud Flats - 1_1_3 - 3764131589\sim_3764131589.tsv (generator tgr, terrain act1/area3/, capture status "DIFF")
+   layers: 63x63 cells -> 1449x1449 sub-cells; tile hull planes + 529 client doodads (the doodad stage replayed draw for draw) + 0 server objects' hulls
+   walkability gen_melee.png/.bin (23.5% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -36 .. 85 levels (-281.2 .. 664.1 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 52 specified by the level's files - tile .tmd records 11, room .arm lines 41; server (sent) 9, server-internal 0, client 43; 529 stage doodads in gen_doodads.tsv
+   server types: RhoaChest x3, AreaTransition x2, WaterCaveAreaTransition x1, GlyphWall x1, Stone3 x1, WaterTransition x1
+   client passes after the doodads: 4096 corner ground materials in gen_materials.tsv, 61 decals in gen_decals.tsv, 0 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+      ground materials: 4096 corners, 817 of them drawn; every draw equals the log (817, the generator running on from the pass before)
+      decals: 595 attempts, 61 placed; every draw equals the log (1251, the generator running on from the pass before)
+      critters: 79 attempts, 0 placed; DIFFERS from the log at ('row 29912', 'x', 1449, 109, ('0x1415bdcba', 256, 34))
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_5164be61c48.tsv: tiles 3969/3969 equal (path + orientation); cell heights 3969/3969 equal
+   vs the client's melee layer walkable_5164be61c48_melee.bin: EXACT
+   vs the client's ranged layer walkable_5164be61c48_ranged.bin: EXACT
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 11 s
