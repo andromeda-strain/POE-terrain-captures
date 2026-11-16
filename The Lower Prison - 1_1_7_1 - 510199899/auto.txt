@@ -1,0 +1,23 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1003416990 doodad hash 213021885 (CLI_ACTIVATE_MAP)
+AUTO seed 510199899 The Lower Prison: dungeon area (capture captures/The Lower Prison - 1_1_7_1 - 510199899/stages_20261116_221231.csv)
+   dungeon (.dgr) pipeline: 1537 draws in 16 call sites (2 generator draws before it, 9444 after it - the post passes); no generator model yet
+   0x14203a8e0: 11 draws, bounds 100
+   0x142105ee9: 4 draws, bounds 1,10
+   0x142107272: 3 draws, bounds 50,73
+   0x1420fd32a: 40 draws, bounds 128
+   0x142012839: 1 draws, bounds 6
+   0x1420fd640: 86 draws, bounds 1,73
+   0x142001ee5: 10 draws, bounds 1,3
+   0x14210862e: 4 draws, bounds 5,74,166,507
+   0x14210871c: 4 draws, bounds 840
+   0x14200e5b0: 396 draws, bounds 1,4,100,200,400,540,600,800,1000,1200,1600
+   0x1420152c8: 128 draws, bounds 100,200,1000,1600
+   0x14201300c: 8 draws, bounds 1,2
+   0x142013216: 4 draws, bounds 1
+   0x142013245: 8 draws, bounds 400,540
+   0x141febf93: 415 draws, bounds 1,20
+   0x141febfcf: 415 draws, bounds 8
+   tile grid: captures\The Lower Prison - 1_1_7_1 - 510199899\truth_549547f1448.tsv (51x59, 3009 cells) VERIFIED against tile hash 1003416990
+   walkable field: captures\The Lower Prison - 1_1_7_1 - 510199899\walkable_549547f1448_melee.png (10.6% of the sub-cells walkable, matches the tiles' hull field at IoU 0.957; 2 layer(s) read; stored for the grid as walkable_549547f1448_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Lower Prison - 1_1_7_1 - 510199899\minimap.png

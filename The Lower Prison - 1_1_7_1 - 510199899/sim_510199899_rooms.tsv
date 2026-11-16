@@ -1,0 +1,9 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Prison/Rooms/Unique/transitiondown_low_unique.arm	13	33	2	node	default entrance1 waypoint
+0	Metadata/Terrain/Leagues/Augury/Act1_LowerPrison/transitionup_unique_4a.arm	13	5	3	node	entrance2
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/Unique/axiom_intro.arm	33	21	7	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/Unique/axiom_intro_end.arm	33	33	0	node	
+0	Metadata/Terrain/Prison/Rooms/3x3/cell_torture_8a.arm	5	21	3	node	
+0	Metadata/Terrain/Prison/Rooms/1x1/cell_4a.arm	29	25	3	node	
+0	Metadata/Terrain/Prison/Rooms/2x3/open_torture_2b.arm	17	25	1	node	
+0	Metadata/Terrain/Prison/Rooms/2x3/open_3a.arm	5	13	7	node	

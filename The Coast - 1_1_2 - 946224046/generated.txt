@@ -1,5 +1,4 @@
 GENERATED The Coast [1_1_2] seed 946224046
-   tgr simulator: == map cells: 1170/1170 equal the truth (3 s)
    grid: captures\The Coast - 1_1_2 - 946224046\sim_946224046.tsv (generator tgr, terrain -, capture status "unidentified")
    layers: 90x54 cells -> 2070x1242 sub-cells; tile hull planes + 194 client doodads (the doodad stage DIFFERS from the logged draws) + 1 server objects' hulls
    walkability gen_melee.png/.bin (15.1% of the sub-cells walkable), projectile gen_ranged.png/.bin
@@ -16,4 +15,4 @@ GENERATED The Coast [1_1_2] seed 946224046
    vs the client's ranged layer walkable_3503108c448_ranged.bin: EXACT
    the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
    minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
-   built in 13 s
+   built in 10 s
