@@ -1,0 +1,24 @@
+--- 2026-11-16 21:24:24.038 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_5564_3.go --parent-pid 5564
+standby: go file seen 1 ms ago -> captures\stages_20261116_212423.csv
+address map: the client is not the decompiled build; 169827 functions paired (tools/exe_align.py)
+21:24:24.053 (the attach call took 4 ms)
+attached to pid 15428, image base 0x7ff735460000 (dump base 0x140000000); DR0 generator 0x7ff7374ca450 (then the draw 0x7ff737462090 on its thread)  DR1 permute 0x7ff737586bc0  DR3 dungeon 0x7ff7374b96a0 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+level generator on tid 26152: draws traced on this thread
+permute stage on tid 26152; tracing continues for 10.0 s
+outdoor pipeline: switching to the stage dumps
+permute grid 45x39 written to captures\stages_20261116_212423.grid.tsv
+edge tiliser started on tid 26152: post-pass placements will be logged
+    corner grid 58x52: 16 ground table entries, 426 unwalkable corners -> captures\The Mud Flats - 1_1_3 - 2539931720\truth_prefill_corners_5490b8f8c48.tsv
+    corner grid 58x52: 16 ground table entries, 426 unwalkable corners -> captures\The Mud Flats - 1_1_3 - 2539931720\truth_postfill_corners_5490b8f8c48.tsv
+    corner grid 58x52: 16 ground table entries, 426 unwalkable corners -> captures\The Mud Flats - 1_1_3 - 2539931720\truth_reheight_corners_5490b8f8c48.tsv
+level generator returned
+--- TileMap T=0x5490b8f8c48 57x51: 2907 cells with a tile, 72 distinct tiles -> captures\The Mud Flats - 1_1_3 - 2539931720\truth_5490b8f8c48.tsv
+    corner grid 58x52: 17 ground table entries, 1737 unwalkable corners -> captures\The Mud Flats - 1_1_3 - 2539931720\truth_corners_5490b8f8c48.tsv
+    tile hash over 1064 origin cells = 3806335994
+trace window after the marker elapsed
+clear before detach: all 68 threads verified clear
+clear after detach: all 68 threads verified clear
+detached; client keeps running
+27411 events written to captures\stages_20261116_212423.csv
+WARNING: 165 logged caller(s) lie in functions the address map does not pair; those rows carry the plain rebase

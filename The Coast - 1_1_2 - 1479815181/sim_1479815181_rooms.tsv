@@ -1,0 +1,33 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Leagues/Augury/Act1_Coast/town_entrance_exclude.arm	6	57	3	node	default entrance1
+0	Metadata/Terrain/Act1/Area2/Rooms/toisland.arm	60	9	3	node	entrance2 entrance3
+0	Metadata/Terrain/Act1/Area2/Rooms/stairs_high2.arm	42	39	1	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/lgcliff_smcliff_2.arm	45	51	1	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/stairs_high.arm	33	51	3	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/stairs_high.arm	33	42	7	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/scavenger_camp_2a.arm	48	39	0	node	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire1.arm	50	35	3	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire4.arm	56	39	1	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire4.arm	42	42	5	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire3.arm	55	42	7	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire4.arm	30	45	4	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire2.arm	40	45	5	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	49	45	7	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	52	45	5	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	58	46	5	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire5.arm	52	47	0	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire4.arm	37	48	7	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	47	48	5	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	56	48	1	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	60	48	6	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire2.arm	29	49	4	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	35	49	5	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	41	49	2	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	49	49	5	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	53	51	0	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	56	52	5	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/bonfire6.arm	64	54	3	fill	
+0	Metadata/Terrain/Act1/Area2/Rooms/Overlays/beach_shore_Cc_01.arm	72	21	7	overlay	
+0	Metadata/Terrain/Act1/Area2/Rooms/Overlays/beach_shore_Cc_01.arm	42	27	0	overlay	
+0	Metadata/Terrain/Act1/Area2/Rooms/Overlays/beach_shore_Cc_01.arm	54	27	0	overlay	
+0	Metadata/Terrain/Act1/Area2/Rooms/Overlays/beach_shore_Cc_01.arm	48	27	4	overlay	

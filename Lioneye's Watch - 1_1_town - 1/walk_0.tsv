@@ -1,11 +1,11 @@
-base	0x2bd34000000
-origin	0x3160010
+base	0x54924000000
+origin	0x4c50010
 stride	345
 width	690
 height	414
-nibble	0	265829
-nibble	1	1774
-nibble	2	1763
-nibble	3	1745
-nibble	4	1596
-nibble	5	12953
+nibble	0	75697
+nibble	1	1850
+nibble	2	1892
+nibble	3	1926
+nibble	4	1956
+nibble	5	202339

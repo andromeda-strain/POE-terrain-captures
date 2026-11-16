@@ -1,0 +1,24 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 4011401519 doodad hash 672843709 (CLI_ACTIVATE_MAP)
+AUTO seed 1044308751 The Flooded Depths: dungeon area (capture captures/The Flooded Depths - 1_1_4_0 - 1044308751/stages_20261116_214338.csv)
+   dungeon (.dgr) pipeline: 1174 draws in 17 call sites (2 generator draws before it, 10904 after it - the post passes); no generator model yet
+   0x14203a8e0: 8 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 100
+   0x142107272: 5 draws, bounds 226,1626
+   0x1420fd32a: 31 draws, bounds 128
+   0x142012839: 1 draws, bounds 4
+   0x1420fd640: 100 draws, bounds 1,1626
+   0x142001ee5: 16 draws, bounds 1
+   0x1420fcc6c: 1 draws, bounds 3
+   0x1420fce8c: 1 draws, bounds 100
+   0x14210862e: 15 draws, bounds 1,30,34,116,5890,22500,186100
+   0x14210871c: 15 draws, bounds 840
+   0x142108799: 2 draws, bounds 116
+   0x1421087b9: 2 draws, bounds 840
+   0x14200e5b0: 340 draws, bounds 1,2,4,8,10,12,16,48,568
+   0x1420152c8: 139 draws, bounds 2,4,10,12
+   0x141febf93: 248 draws, bounds 1,100,120
+   0x141febfcf: 248 draws, bounds 8
+   tile grid: captures\The Flooded Depths - 1_1_4_0 - 1044308751\truth_5490a979448.tsv (41x41, 1681 cells) VERIFIED against tile hash 4011401519
+   walkable field: captures\The Flooded Depths - 1_1_4_0 - 1044308751\walkable_5490a979448_melee.png (16.0% of the sub-cells walkable, matches the tiles' hull field at IoU 0.966; 4 layer(s) read; stored for the grid as walkable_5490a979448_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Flooded Depths - 1_1_4_0 - 1044308751\minimap.png

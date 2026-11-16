@@ -11,4 +11,4 @@ GENERATED Lioneye's Watch [1_1_town] seed 1
    vs the client's ranged layer walkable_20d9df073f0_ranged.bin: EXACT
    the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
    minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
-   built in 8 s
+   built in 2 s

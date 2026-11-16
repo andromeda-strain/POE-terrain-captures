@@ -1,0 +1,6 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1241619359 doodad hash 2484083024 (CLI_ACTIVATE_MAP)
+AUTO seed 2445454242 The Coast: no graph matches the capture (best 9 nodes, 0.53)
+   tile grid: captures\The Coast - 1_1_2 - 2445454242\truth_5490ae21c48.tsv (81x63, 5103 cells) VERIFIED against tile hash 1241619359
+   walkable field: captures\The Coast - 1_1_2 - 2445454242\walkable_5490ae21c48_melee.png (22.3% of the sub-cells walkable, matches the tiles' hull field at IoU 0.821; 2 layer(s) read; stored for the grid as walkable_5490ae21c48_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Coast - 1_1_2 - 2445454242\minimap.png
