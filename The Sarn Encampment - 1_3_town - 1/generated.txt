@@ -1,0 +1,15 @@
+GENERATED The Sarn Encampment [1_3_town] seed 1
+   grid: captures\The Sarn Encampment - 1_3_town - 1\sim_1.tsv (generator dgr, terrain -, capture status "dungeon trace")
+   layers: 39x35 cells -> 897x805 sub-cells; tile hull planes + 72 client doodads (no draw log: the stage run from the terrain's last word) + 3 server objects' hulls
+   walkability gen_melee.png/.bin (5.9% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -90 .. 112 levels (-703.1 .. 875.0 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 124 specified by the level's files - tile .tmd records 32, room .arm lines 92; server (sent) 22, server-internal 6, client 96; 72 stage doodads in gen_doodads.tsv
+   server types: TownPortal x6, AreaTransition x3, MercenaryMarker x3, LabyrinthTownTransition x1, LabyrinthPlaqueTown x1, NoticeBoard x1, LabyrinthStatueTown x1, Waypoint x1
+   client passes after the doodads: 0 corner ground materials in gen_materials.tsv, 0 decals in gen_decals.tsv, 0 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_4f329f66bf0.tsv: tiles 1365/1365 equal (path + orientation); cell heights 1365/1365 equal
+   vs the client's melee layer walkable_4f329f66bf0_melee.bin: 99.9661% equal, IoU 0.9982 (0 sub-cells more open here, 245 more blocked; the tiles are equal: the rest is the doodad stage and the server objects' hulls, which only the client's layer holds)
+   vs the client's ranged layer walkable_4f329f66bf0_ranged.bin: EXACT
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 4 s

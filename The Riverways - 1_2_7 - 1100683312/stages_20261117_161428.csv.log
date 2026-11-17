@@ -1,0 +1,24 @@
+--- 2026-11-17 16:14:28.208 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_2104_24.go --parent-pid 2104
+standby: go file seen 1 ms ago -> captures\stages_20261117_161428.csv
+address map: the client is not the decompiled build; 169827 functions paired (tools/exe_align.py)
+16:14:28.222 (the attach call took 3 ms)
+attached to pid 7300, image base 0x7ff778e80000 (dump base 0x140000000); DR0 generator 0x7ff77aeea450 (then the draw 0x7ff77ae82090 on its thread)  DR1 permute 0x7ff77afa6bc0  DR3 dungeon 0x7ff77aed96a0 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+level generator on tid 12336: draws traced on this thread
+permute stage on tid 12336; tracing continues for 10.0 s
+outdoor pipeline: switching to the stage dumps
+permute grid 84x84 written to captures\stages_20261117_161428.grid.tsv
+edge tiliser started on tid 12336: post-pass placements will be logged
+    corner grid 97x97: 19 ground table entries, 1386 unwalkable corners -> captures\stages_20261117_161428_truth_prefill_corners_4477f9fec48.tsv
+    corner grid 97x97: 19 ground table entries, 1386 unwalkable corners -> captures\stages_20261117_161428_truth_postfill_corners_4477f9fec48.tsv
+    corner grid 97x97: 19 ground table entries, 1386 unwalkable corners -> captures\stages_20261117_161428_truth_reheight_corners_4477f9fec48.tsv
+level generator returned
+--- TileMap T=0x4477f9fec48 96x96: 9216 cells with a tile, 145 distinct tiles -> captures\stages_20261117_161428_truth_4477f9fec48.tsv
+    corner grid 97x97: 19 ground table entries, 3841 unwalkable corners -> captures\stages_20261117_161428_truth_corners_4477f9fec48.tsv
+    tile hash over 3955 origin cells = 1531905149
+trace window after the marker elapsed
+clear before detach: all 61 threads verified clear
+clear after detach: all 61 threads verified clear
+detached; client keeps running
+82049 events written to captures\stages_20261117_161428.csv
+WARNING: 717 logged caller(s) lie in functions the address map does not pair; those rows carry the plain rebase

@@ -1,0 +1,18 @@
+truth	truth_4477fdc3448.tsv
+layer	melee
+source	walk_3
+read	2026-11-17 16:47:04
+width	1035
+height	2001
+stride	518
+base	0x4478e5f0000
+origin	0x20010
+score	0.9932
+iou_melee	0.9932
+iou_ranged	0.2383
+nibble	0	1738650
+nibble	1	14914
+nibble	2	14906
+nibble	3	15081
+nibble	4	14999
+nibble	5	272485

@@ -1,0 +1,17 @@
+GENERATED The Wetlands [1_2_12] seed 2884219180
+   tgr simulator: == map cells: 1671/1671 equal the truth (2 s)
+   grid: captures\The Wetlands - 1_2_12 - 2884219180\sim_2884219180.tsv (generator tgr, terrain act2/area12/, capture status "DIFF")
+   layers: 69x69 cells -> 1587x1587 sub-cells; tile hull planes + 1161 client doodads (the doodad stage replayed draw for draw) + 17 server objects' hulls
+   walkability gen_melee.png/.bin (26.5% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -25 .. 150 levels (-195.3 .. 1171.9 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 676 specified by the level's files - tile .tmd records 320, room .arm lines 356; server (sent) 37, server-internal 247, client 392; 1161 stage doodads in gen_doodads.tsv
+   server types: TreeMonkeySpawner x118, TreeMonkeySpawnerParasite x118, BanditAmbushPoint x11, BanditGuardMeleeWarlordsMark x9, TentBanditSpawner3 x9, TentBanditSpawner2 x6, BanditGuardBow x5, AreaTransition x2
+   client passes after the doodads: 4900 corner ground materials in gen_materials.tsv, 63 decals in gen_decals.tsv, 0 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+      ground materials: 4900 corners, 1492 of them drawn; every draw equals the log (1492, the generator running on from the pass before)
+      decals: 1309 attempts, 63 placed; every draw equals the log (2681, the generator running on from the pass before)
+      critters: 48 attempts, 0 placed; DIFFERS from the log at ('row 17995', 'x', 1587, 552, ('0x1415bde2a', 256, 152))
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_4475b355448.tsv: tiles 4761/4761 equal (path + orientation); cell heights 4761/4761 equal
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 12 s

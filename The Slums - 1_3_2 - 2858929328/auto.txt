@@ -1,0 +1,4 @@
+KNOWN The Slums [1_3_2] seed 2858929328: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 265984567 (1 of 1 rows), last capture captures/The Slums - 1_3_2 - 2858929328/stages_20261117_170450.csv (dungeon trace)
+   this load's tile hash 265984567 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\The Slums - 1_3_2 - 2858929328\truth_45dbb739c48.tsv): captures\The Slums - 1_3_2 - 2858929328\minimap.png

@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 4277022588 doodad hash 1345955853 (CLI_ACTIVATE_MAP)
+AUTO seed 3167237847 The Wetlands: terrain act2/area12/ graph pools_and_streams2.tgr (14 locked nodes match; capture 55 nodes, graph 36)
+   typed nodes never placed by the client (untilised): [0, 2, 5, 10, 11, 12, 16, 25, 26, 27, 31]
+   node pipeline: pre-pick words 2, vaal_pending False, hideout_claim False: free nodes 13/13 match
+   tile grid: captures\The Wetlands - 1_2_12 - 3167237847\truth_447401a2448.tsv (63x75, 4725 cells) VERIFIED against tile hash 4277022588
+   walkable field: captures\The Wetlands - 1_2_12 - 3167237847\walkable_447401a2448_melee.png (25.5% of the sub-cells walkable, matches the tiles' hull field at IoU 0.665; 4 layer(s) read; stored for the grid as walkable_447401a2448_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Wetlands - 1_2_12 - 3167237847\minimap.png
+   FAIL: permute-in 29/29, permute-out 29/29, rounder-in-1 29/29, rounder-in-2 29/29, rounder-in-3 40/40, rounder-in-4 40/40, rounder-in-5 13/40, rounder-in-7 28/40
+   layout: captures\The Wetlands - 1_2_12 - 3167237847\layout.png; minimap captures\The Wetlands - 1_2_12 - 3167237847\minimap.png
+   corpus row appended

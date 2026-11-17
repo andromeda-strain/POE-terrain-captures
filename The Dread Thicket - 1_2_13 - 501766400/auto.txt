@@ -1,0 +1,24 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2975075366 doodad hash 1968865802 (CLI_ACTIVATE_MAP)
+AUTO seed 501766400 The Dread Thicket: dungeon area (capture captures/The Dread Thicket - 1_2_13 - 501766400/stages_20261117_162510.csv)
+   dungeon (.dgr) pipeline: 2062 draws in 17 call sites (6 generator draws before it, 5644 after it - the post passes); no generator model yet
+   0x14203a8e0: 2 draws, bounds 100
+   0x142105ee9: 3 draws, bounds 1,100
+   0x1420fd32a: 45 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 126 draws, bounds 1,2980
+   0x142001ee5: 10 draws, bounds 1,2,3
+   0x1420fcc6c: 2 draws, bounds 3,12
+   0x1420fce8c: 2 draws, bounds 100
+   0x14210862e: 9 draws, bounds 200,4480,84000,204800,403200
+   0x14210871c: 9 draws, bounds 840
+   0x142108799: 2 draws, bounds 200,4480
+   0x1421087b9: 2 draws, bounds 840
+   0x14200e5b0: 546 draws, bounds 1,2,4,8,18,20,22,100,200
+   0x1420152c8: 159 draws, bounds 4,18,20,22
+   0x141febf93: 570 draws, bounds 1,100,400
+   0x141febfcf: 570 draws, bounds 8
+   0x14202795d: 4 draws, bounds 100
+   tile grid: captures\The Dread Thicket - 1_2_13 - 501766400\truth_4476ba42c48.tsv (81x39, 2922 cells) VERIFIED against tile hash 2975075366
+   walkable field: captures\The Dread Thicket - 1_2_13 - 501766400\walkable_4476ba42c48_melee.png (20.4% of the sub-cells walkable, matches the tiles' hull field at IoU 0.965; 4 layer(s) read; stored for the grid as walkable_4476ba42c48_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Dread Thicket - 1_2_13 - 501766400\minimap.png

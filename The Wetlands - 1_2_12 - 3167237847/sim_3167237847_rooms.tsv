@@ -1,0 +1,27 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act2/Area12/Rooms/exit_1.arm	18	51	0	node	entrance2 killzone=5
+0	Metadata/Terrain/Act2/Area12/Rooms/flow_sink_1.arm	15	6	5	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/flow_source_5.arm	42	12	3	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/bandit_boss_dune_pool_1a.arm	21	33	5	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/ledgefall_blocker_1.arm	33	24	0	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/pool_river_2.arm	26	8	0	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/flow_source_4.arm	6	45	0	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/bridge_transition.arm	36	6	1	node	default entrance1
+0	Metadata/Terrain/Act2/Area12/Rooms/flow_sink_riverwater_1.arm	56	57	3	node	
+0	Metadata/Terrain/Act2/Area12/Rooms/Fill/pool_3.arm	46	6	6	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent3.arm	52	6	0	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent2.arm	42	7	6	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent1.arm	36	12	4	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent2.arm	21	24	3	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/Fill/pool_1.arm	39	33	2	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/Fill/pool_2.arm	40	37	3	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent2.arm	47	39	4	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/Fill/pool_1.arm	40	42	0	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent2.arm	16	43	6	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent3.arm	19	43	6	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent_camp_1b.arm	28	44	4	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/Fill/pool_1.arm	35	46	0	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent2.arm	33	48	1	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/Fill/pool_2.arm	12	49	2	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent2.arm	36	51	1	fill	
+0	Metadata/Terrain/Act2/Area12/Rooms/tent2.arm	24	52	1	fill	

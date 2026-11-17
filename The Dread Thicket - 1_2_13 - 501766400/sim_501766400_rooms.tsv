@@ -1,0 +1,13 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act2/Area13/Rooms/Unique/boss.arm	7	19	0	node	link subarea=hideout
+0	Metadata/Terrain/Act2/Area13/Rooms/Unique/entrance.arm	35	3	0	node	default entrance1
+0	Metadata/Terrain/Act2/Area13/Rooms/3x3/room6.arm	19	15	4	node	
+0	Metadata/Terrain/Act2/Area13/Rooms/3x3/room6.arm	23	3	5	node	
+0	Metadata/Terrain/Act2/Area13/Rooms/2x2/room11.arm	27	27	0	node	
+0	Metadata/Terrain/Act2/Area13/Rooms/3x3/room13.arm	11	3	4	node	
+0	Metadata/Terrain/Act2/Area13/Rooms/2x2/room8.arm	3	11	5	node	
+0	Metadata/Terrain/Act2/Area13/Rooms/1x1/room5.arm	11	15	7	node	
+0	Metadata/Terrain/Act2/Area13/Rooms/1x1/room1.arm	15	15	5	node	
+0	Metadata/Terrain/Act2/Area13/Rooms/3x3/room13.arm	31	15	7	node	
+0	Metadata/Terrain/Act2/Area13/Rooms/2x2/room6.arm	19	27	2	node	
+1	Metadata/Terrain/Missions/Hideouts/Forest/Rooms/hideout_claim.arm	54	6	0	node	link

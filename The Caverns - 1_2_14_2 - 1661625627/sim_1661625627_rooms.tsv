@@ -1,0 +1,25 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/ForestCave/Rooms/Unique/pyramid_access.arm	3	3	1	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/Unique/forest_cave_entrance_1a.arm	59	43	0	node	default entrance1
+0	Metadata/Terrain/ForestCave/Rooms_new/Unique/height_1a.arm	59	19	3	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/LowWater/Unique/height_1a.arm	59	27	3	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/LowWater/1x2/type_4a.arm	35	3	3	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/LowWater/2x2/type_8a.arm	51	3	3	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/LowWater/1x1/corner_2a.arm	35	11	6	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/LowWater/1x2/type_8a.arm	43	11	6	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/LowWater/1x1/straight_2a.arm	59	35	7	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/LowWater/2x2/type_1a.arm	19	3	7	node	
+1	Metadata/Terrain/Dungeon/Rooms/Unique/sewer_connection.arm	4	20	0	node	default
+1	Metadata/Terrain/Dungeon/Rooms/Unique/exit_stairs_1a.arm	28	28	0	node	entrance2
+1	Metadata/Terrain/Dungeon/Rooms/Unique/recipe_passage.arm	16	44	1	node	teleport1 telepad2
+1	Metadata/Terrain/Dungeon/Rooms/Unique/recipe_deadend.arm	4	44	3	node	teleport2 telepad1
+1	Metadata/Terrain/Leagues/Augury/Act2_Caverns/special_mapboss.arm	12	36	0	node	
+1	Metadata/Terrain/Dungeon/Rooms/3x3/passage_rooms_4b.arm	16	20	5	node	
+1	Metadata/Terrain/Dungeon/Rooms/1x2/blocked_1b.arm	20	44	3	node	
+1	Metadata/Terrain/Dungeon/Rooms/3x3/open_ruin_4b.arm	4	24	0	node	
+1	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1a.arm	20	40	3	node	
+1	Metadata/Terrain/Dungeon/Rooms/1x2/open_5a.arm	20	32	7	node	
+1	Metadata/Terrain/Dungeon/Rooms/1x1/straight_1b.arm	24	32	0	node	
+1	Metadata/Terrain/Dungeon/Rooms/2x2/abyss_2a.arm	28	20	2	node	
+1	Metadata/Terrain/Dungeon/Rooms/1x1/end_2a.arm	16	32	0	node	
+1	Metadata/Terrain/Dungeon/Rooms/2x2/abyss_2b.arm	4	36	3	node	

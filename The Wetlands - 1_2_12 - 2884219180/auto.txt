@@ -1,0 +1,5 @@
+KNOWN The Wetlands [1_2_12] seed 2884219180: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain act2/area12/, tile hash 651265413 (1 of 1 rows), last capture captures/The Wetlands - 1_2_12 - 2884219180/stages_20261117_161325.csv (DIFF)
+   this load's tile hash 651265413 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   walkable field: captures\The Wetlands - 1_2_12 - 2884219180\walkable_4475b355448_melee.png (26.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.701; 2 layer(s) read; stored for the grid as walkable_4475b355448_{melee,ranged}.png/.bin/.tsv)
+   minimap (rendered from the stored grid captures\The Wetlands - 1_2_12 - 2884219180\truth_4475b355448.tsv with the walkable field walkable_4475b355448_melee.png (matches the tiles' hull field at IoU 0.701)): captures\The Wetlands - 1_2_12 - 2884219180\minimap.png

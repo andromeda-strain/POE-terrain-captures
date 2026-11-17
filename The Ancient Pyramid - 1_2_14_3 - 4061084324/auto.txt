@@ -1,0 +1,29 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 856062 doodad hash 1294327513 (CLI_ACTIVATE_MAP)
+AUTO seed 4061084324 The Ancient Pyramid: dungeon area (capture captures/The Ancient Pyramid - 1_2_14_3 - 4061084324/stages_20261117_164208.csv)
+   dungeon (.dgr) pipeline: 3375 draws in 22 call sites (3 generator draws before it, 8359 after it - the post passes); no generator model yet
+   0x1421055f1: 3 draws, bounds 3,4
+   0x14203a8e0: 12 draws, bounds 100
+   0x142105ee9: 7 draws, bounds 100
+   0x142107272: 8 draws, bounds 7913,29913
+   0x1420fd32a: 74 draws, bounds 128
+   0x142012839: 3 draws, bounds 2,4
+   0x1420fd640: 256 draws, bounds 1,29913,30113
+   0x142001ee5: 62 draws, bounds 1,2
+   0x1420fcc6c: 7 draws, bounds 1,3,4,9
+   0x1420fce8c: 7 draws, bounds 100
+   0x14210862e: 44 draws, bounds 71,181,263,700,1411,2700,14500,15000,18900,28793,42300,54600,...
+   0x14210871c: 44 draws, bounds 840
+   0x142108799: 3 draws, bounds 181,263,28793
+   0x1421087b9: 3 draws, bounds 840
+   0x14200e5b0: 686 draws, bounds 1,2,4,6,8,10,12,14,16,560,800
+   0x1420152c8: 515 draws, bounds 1,2,4,6,12,14,16
+   0x142015c87: 1 draws, bounds 2
+   0x14201300c: 58 draws, bounds 1,2
+   0x142013216: 14 draws, bounds 1,2
+   0x142013245: 58 draws, bounds 8,16
+   0x141febf93: 755 draws, bounds 1
+   0x141febfcf: 755 draws, bounds 8
+   tile grid: captures\The Ancient Pyramid - 1_2_14_3 - 4061084324\truth_447405c5448.tsv (111x39, 4329 cells) VERIFIED against tile hash 856062
+   walkable field: captures\The Ancient Pyramid - 1_2_14_3 - 4061084324\walkable_447405c5448_melee.png (24.8% of the sub-cells walkable, matches the tiles' hull field at IoU 0.990; 3 layer(s) read; stored for the grid as walkable_447405c5448_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Ancient Pyramid - 1_2_14_3 - 4061084324\minimap.png

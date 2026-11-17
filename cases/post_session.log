@@ -407,3 +407,8 @@
    lab_layouts.py (2092 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
    incursion_rooms.py (1 s, exit 0): 0 IncursionTemplePlugin loads harvested -> E:\repos\POE Work\captures\cases\incursion_temple.tsv (7 rows)
    done in 2238 s
+== post_session 2026-11-17 16:53:02
+   area_content.py (3 s, exit 0): 5324 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py (1543 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
+   incursion_rooms.py (2 s, exit 0): 0 IncursionTemplePlugin loads harvested -> E:\repos\POE Work\captures\cases\incursion_temple.tsv (7 rows)
+   done in 1548 s

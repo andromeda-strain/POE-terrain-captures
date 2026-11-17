@@ -1,0 +1,4 @@
+KNOWN The Sewers [1_3_10_1] seed 1723382551: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 1125638502 (1 of 1 rows), last capture captures/The Sewers - 1_3_10_1 - 1723382551/stages_20261117_172343.csv (dungeon trace)
+   this load's tile hash 1125638502 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\The Sewers - 1_3_10_1 - 1723382551\truth_45e03504448.tsv): captures\The Sewers - 1_3_10_1 - 1723382551\minimap.png
