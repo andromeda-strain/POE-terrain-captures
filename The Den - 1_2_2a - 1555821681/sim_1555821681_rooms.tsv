@@ -1,0 +1,18 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/ForestCave/Rooms_new/Unique/fields_cave_entrance_1a.arm	37	45	0	node	entrance1 default
+0	Metadata/Terrain/ForestCave/Rooms_new/Unique/fields_cave_treasure_1a.arm	29	21	0	node	entrance2
+0	Metadata/Terrain/ForestCave/Rooms_new/Unique/side_cave_entrance_1.arm	5	37	3	node	sidearea1 accessible
+0	Metadata/Terrain/Act7/Area6/Rooms/den_closed_exit_maligaro.arm	5	5	5	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/1x1/corner_1a.arm	45	45	5	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/1x1/tri_1a.arm	45	29	1	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/1x1/tri_1a.arm	29	29	0	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/1x1/corner_1a.arm	29	45	3	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/1x1/tri_1a.arm	5	21	6	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/1x1/tri_1a.arm	5	29	0	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/1x1/corner_1a.arm	13	29	2	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/1x2/type_20a.arm	21	13	0	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/1x1/tri_1a.arm	13	21	1	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/1x1/straight_1a.arm	45	37	5	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/1x1/straight_2a.arm	29	37	5	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/1x2/type_7a.arm	37	29	2	node	
+0	Metadata/Terrain/ForestCave/Rooms_new/1x1/corner_1a.arm	29	13	1	node	

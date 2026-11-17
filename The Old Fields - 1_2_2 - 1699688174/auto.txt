@@ -1,0 +1,4 @@
+KNOWN The Old Fields [1_2_2] seed 1699688174: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain leagues/augury/act2_oldfields/, tile hash 1584861934 (1 of 1 rows), last capture captures/The Old Fields - 1_2_2 - 1699688174/stages_20261117_094732.csv (generator failed)
+   this load's tile hash 1584861934 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\The Old Fields - 1_2_2 - 1699688174\truth_2819f684448.tsv): captures\The Old Fields - 1_2_2 - 1699688174\minimap.png

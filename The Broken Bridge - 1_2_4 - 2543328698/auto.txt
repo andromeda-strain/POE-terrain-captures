@@ -1,0 +1,11 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2843447103 doodad hash 3040785150 (CLI_ACTIVATE_MAP)
+AUTO seed 2543328698 The Broken Bridge: terrain act2/area4/ graph macro_broken_bridge1_2.tgr (14 locked nodes match; capture 46 nodes, graph 40)
+   typed nodes never placed by the client (untilised): [1, 2, 8, 12, 13, 14, 15, 16, 25, 27, 30, 31, 32, 35, 38, 39]
+   node pipeline: pre-pick words 3, vaal_pending False, hideout_claim False: free nodes 20/20 match
+   tile grid: captures\The Broken Bridge - 1_2_4 - 2543328698\truth_28183212c48.tsv (78x78, 6084 cells) VERIFIED against tile hash 2843447103
+   walkable field: captures\The Broken Bridge - 1_2_4 - 2543328698\walkable_28183212c48_melee.png (24.3% of the sub-cells walkable, matches the tiles' hull field at IoU 0.730; 4 layer(s) read; stored for the grid as walkable_28183212c48_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Broken Bridge - 1_2_4 - 2543328698\minimap.png
+   FAIL: permute-in 19/19, permute-out 19/19, rounder-in-1 19/19, rounder-in-2 19/19, rounder-in-3 22/25, rounder-in-4 22/25, rounder-in-5 7/25, rounder-in-6 17/25
+   layout: captures\The Broken Bridge - 1_2_4 - 2543328698\layout.png; minimap captures\The Broken Bridge - 1_2_4 - 2543328698\minimap.png
+   corpus row appended

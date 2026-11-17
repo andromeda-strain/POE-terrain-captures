@@ -1,0 +1,27 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1678169797 doodad hash 3933801832 (CLI_ACTIVATE_MAP)
+AUTO seed 2391520672 Covered-up Hollow: dungeon area (capture captures/Covered-up Hollow - 1_SideArea2_3 - 2391520672/stages_20261117_095546.csv)
+   dungeon (.dgr) pipeline: 890 draws in 20 call sites (2 generator draws before it, 8233 after it - the post passes); no generator model yet
+   0x14203a8e0: 1 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 100
+   0x1420fd32a: 15 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 26 draws, bounds 1,3700
+   0x142001ee5: 8 draws, bounds 1
+   0x1420fcc6c: 1 draws, bounds 4
+   0x1420fce8c: 1 draws, bounds 100
+   0x14210862e: 7 draws, bounds 100,1200,26700
+   0x14210871c: 7 draws, bounds 840
+   0x142108799: 1 draws, bounds 1200
+   0x1421087b9: 1 draws, bounds 840
+   0x14200e5b0: 124 draws, bounds 1,2,4,6,8
+   0x1420152c8: 51 draws, bounds 2,6,8
+   0x141febf93: 316 draws, bounds 1,237
+   0x141febfcf: 303 draws, bounds 8
+   0x141ff54db: 11 draws, bounds 840
+   0x141fec0ea: 8 draws, bounds 167,187,207,217,227
+   0x141fec1d8: 2 draws, bounds 8
+   0x14202795d: 4 draws, bounds 2,3
+   tile grid: captures\Covered-up Hollow - 1_SideArea2_3 - 2391520672\truth_28178a2dc48.tsv (43x35, 1505 cells) VERIFIED against tile hash 1678169797
+   walkable field: captures\Covered-up Hollow - 1_SideArea2_3 - 2391520672\walkable_28178a2dc48_melee.png (15.4% of the sub-cells walkable, matches the tiles' hull field at IoU 0.963; 4 layer(s) read; stored for the grid as walkable_28178a2dc48_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Covered-up Hollow - 1_SideArea2_3 - 2391520672\minimap.png
