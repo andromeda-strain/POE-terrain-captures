@@ -1,0 +1,14 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2247551098 doodad hash 1656747358 (CLI_ACTIVATE_MAP)
+AUTO seed 581647887 The Fellshrine Ruins: terrain act2/area15/ graph macro_ruins2.tgr (12 locked nodes match; capture 54 nodes, graph 31)
+   truth offset (0, 18) (the .tgr subgraph rect inside the level)
+   typed nodes never placed by the client (untilised): [2, 8, 9, 10, 11, 14, 15, 18, 19, 20, 23, 24, 25, 26, 27, 28, 29]
+   node pipeline: pre-pick words 13, vaal_pending False, hideout_claim False: free nodes 4/9 match
+   node pipeline kept on a PARTIAL fit (4/9): the capture pins the pre-pick words
+   pre-pick words 13 -> 243 by the capture (first pipeline word: client 244, sim 14; 12 draws replayed)
+   tile grid: captures\The Fellshrine Ruins - 1_2_15 - 581647887\truth_4475b91c448.tsv (111x87, 9657 cells) VERIFIED against tile hash 2247551098
+   walkable field: captures\The Fellshrine Ruins - 1_2_15 - 581647887\walkable_4475b91c448_melee.png (32.1% of the sub-cells walkable, matches the tiles' hull field at IoU 0.608; 2 layer(s) read; stored for the grid as walkable_4475b91c448_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Fellshrine Ruins - 1_2_15 - 581647887\minimap.png
+   FAIL: permute-in 27/27, permute-out 27/27, rounder-in-1 27/27, rounder-in-2 27/27, rounder-in-3 37/37, rounder-in-4 37/37, rounder-in-5 21/37, rounder-in-6 36/37
+   layout: captures\The Fellshrine Ruins - 1_2_15 - 581647887\layout.png; minimap captures\The Fellshrine Ruins - 1_2_15 - 581647887\minimap.png
+   corpus row appended

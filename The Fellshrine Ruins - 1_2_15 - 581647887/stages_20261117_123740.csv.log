@@ -1,0 +1,25 @@
+--- 2026-11-17 12:37:40.754 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_2104_3.go --parent-pid 2104
+standby: go file seen 1 ms ago -> captures\stages_20261117_123740.csv
+address map: the client is not the decompiled build; 169827 functions paired (tools/exe_align.py)
+12:37:40.767 (the attach call took 5 ms)
+attached to pid 7300, image base 0x7ff778e80000 (dump base 0x140000000); DR0 generator 0x7ff77aeea450 (then the draw 0x7ff77ae82090 on its thread)  DR1 permute 0x7ff77afa6bc0  DR3 dungeon 0x7ff77aed96a0 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+level generator on tid 23644: draws traced on this thread
+dungeon pipeline on tid 23644; tracing continues for 10.0 s or until it returns
+dungeon pipeline returned
+outdoor pipeline: switching to the stage dumps
+permute grid 105x63 written to captures\stages_20261117_123740.grid.tsv
+edge tiliser started on tid 23644: post-pass placements will be logged
+    corner grid 112x88: 16 ground table entries, 2170 unwalkable corners -> captures\stages_20261117_123740_truth_prefill_corners_4475b91c448.tsv
+    corner grid 112x88: 17 ground table entries, 2170 unwalkable corners -> captures\stages_20261117_123740_truth_postfill_corners_4475b91c448.tsv
+    corner grid 112x88: 17 ground table entries, 2170 unwalkable corners -> captures\stages_20261117_123740_truth_reheight_corners_4475b91c448.tsv
+level generator returned
+--- TileMap T=0x4475b91c448 111x87: 9657 cells with a tile, 183 distinct tiles -> captures\stages_20261117_123740_truth_4475b91c448.tsv
+    corner grid 112x88: 17 ground table entries, 4603 unwalkable corners -> captures\stages_20261117_123740_truth_corners_4475b91c448.tsv
+    tile hash over 7047 origin cells = 2247551098
+trace window after the marker elapsed
+clear before detach: all 68 threads verified clear
+clear after detach: all 68 threads verified clear
+detached; client keeps running
+36453 events written to captures\stages_20261117_123740.csv
+WARNING: 1250 logged caller(s) lie in functions the address map does not pair; those rows carry the plain rebase
