@@ -1,0 +1,31 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Leagues/Augury/Act1_CavernOfWrath/river_exit_2a.arm	48	32	7	node	entrance2
+0	Metadata/Terrain/Cave/Rooms/Unique/river_entrance_waypoint_2a.arm	4	8	0	node	default entrance1
+0	Metadata/Terrain/Cave/Rooms/River_2x2/river4.arm	24	28	0	node	
+0	Metadata/Terrain/Cave/Rooms/River_1x1/river_crossing_1a.arm	32	40	7	node	
+0	Metadata/Terrain/Cave/Rooms/River_1x1/river1.arm	44	36	7	node	
+0	Metadata/Terrain/Cave/Rooms/River_1x2/river_crossing_1b.arm	40	36	2	node	
+0	Metadata/Terrain/Cave/Rooms/River_1x2/river_crossing_1d.arm	36	36	4	node	
+0	Metadata/Terrain/Cave/Rooms/River_1x2/river_crossing_2e.arm	28	36	6	node	
+0	Metadata/Terrain/Cave/Rooms/River_1x2/river_crossing_4a.arm	20	24	4	node	
+0	Metadata/Terrain/Cave/Rooms/River_1x1/river1.arm	20	20	4	node	
+0	Metadata/Terrain/Cave/Rooms/River_1x2/river_crossing_2c.arm	20	12	6	node	
+0	Metadata/Terrain/Cave/Rooms/River_1x2/river9.arm	20	8	7	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/open_2a.arm	44	28	6	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/low_1a.arm	44	20	5	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/type_4a.arm	32	20	4	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/type_3a.arm	16	4	2	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/passage_8c.arm	24	4	7	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/low_18a.arm	24	20	2	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/type_3a.arm	36	16	4	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/type_3a.arm	32	12	1	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/passage_27a.arm	24	12	0	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/open_2a.arm	28	8	6	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/type_9a.arm	44	32	5	node	
+0	Metadata/Terrain/Cave/Rooms/1x1/type_13a.arm	12	4	0	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/shrine_01.arm	32	4	0	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/low_24a.arm	36	28	3	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/passage_8d.arm	52	24	4	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/passage_8d.arm	36	24	3	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/open_1a.arm	32	24	7	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/passage_8c.arm	44	16	3	node	

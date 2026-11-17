@@ -1,0 +1,21 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Cave/Rooms/Unique/river_exit_to_boss_1a.arm	48	20	7	node	teleport1-MerveilArenaName telepad2
+0	Metadata/Terrain/Cave/Rooms/Unique/river_entrance_1a.arm	4	8	0	node	default entrance1
+0	Metadata/Terrain/Cave/Rooms/River_1x2/river_crossing_1e.arm	28	12	6	node	
+0	Metadata/Terrain/Cave/Rooms/River_1x2/river_crossing_5a.arm	40	24	5	node	
+0	Metadata/Terrain/Cave/Rooms/River_2x2/river_crossing_3a.arm	40	16	6	node	
+0	Metadata/Terrain/Cave/Rooms/River_1x2/river_crossing_1b.arm	36	12	6	node	
+0	Metadata/Terrain/Cave/Rooms/River_1x2/river_crossing_3a.arm	32	12	2	node	
+0	Metadata/Terrain/Cave/Rooms/River_1x1/river1.arm	24	12	3	node	
+0	Metadata/Terrain/Cave/Rooms/River_1x2/river_crossing_1b.arm	20	8	4	node	
+0	Metadata/Terrain/Cave/Rooms/River_1x1/river_crossing_2b.arm	16	8	7	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/type_3a.arm	32	20	5	node	
+0	Metadata/Terrain/Cave/Rooms/2x2/passage_27a.arm	24	20	1	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/type_3a.arm	16	20	4	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/passage_8b.arm	20	16	7	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/type_3a.arm	16	12	3	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/shrine_01.arm	32	28	0	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/passage_8a.arm	28	28	6	node	
+0	Metadata/Terrain/Cave/Rooms/1x2/passage_8d.arm	16	24	5	node	
+0	Metadata/Terrain/Cave/Rooms/Unique/special_seawitchboss2b.arm	48	16	0	node	
+1	Metadata/Terrain/Cave/Rooms/Unique/river_boss_1a.arm	48	36	0	node	AutoWaypoint telepad1 teleport2-%areaname% entrance2

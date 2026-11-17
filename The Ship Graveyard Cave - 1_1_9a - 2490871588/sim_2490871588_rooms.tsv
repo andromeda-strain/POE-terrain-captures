@@ -1,0 +1,15 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Cave/Rooms_new/Unique/entrance1a.arm	4	10	0	node	default entrance1
+0	Metadata/Terrain/Cave/Rooms_new/Unique/treasure1a.arm	28	28	1	node	entrance2
+0	Metadata/Terrain/Cave/Rooms_new/1x1/type2a.arm	4	4	4	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x1/type1a.arm	10	4	5	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x2/open.arm	22	22	6	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x2/open.arm	16	16	4	node	
+0	Metadata/Terrain/Cave/Rooms_new/Unique/shrine_01.arm	10	10	0	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x1/type1a.arm	16	10	0	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x1/type4a.arm	16	4	4	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x1/type2a.arm	22	34	1	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x1/type4a.arm	16	28	7	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x2/type1a.arm	28	22	1	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x2/type2a.arm	4	16	7	node	
+0	Metadata/Terrain/Cave/Rooms_new/1x2/type5a.arm	10	22	6	node	
