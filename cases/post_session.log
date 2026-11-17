@@ -376,3 +376,24 @@
    lab_layouts.py (37 s, exit 1): FileNotFoundError: [Errno 2] No such file or directory: 'E:\\repos\\POE Work\\ExileSniffer\\x64\\Release\\Logs\\session_2026-09-06_07-17-24.json'
    incursion_rooms.py (0 s, exit 0): 0 IncursionTemplePlugin loads harvested -> E:\repos\POE Work\captures\cases\incursion_temple.tsv (7 rows)
    done in 39 s
+== post_session 2026-11-16 22:12:54
+   area_content.py (6 s, exit 0): 5236 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py FAILED: TimeoutExpired(['C:\\Python314\\python.exe', 'E:\\repos\\POE Work\\tools\\lab_layouts.py', '--new'], 3600)
+   incursion_rooms.py (288 s, exit 0): 0 IncursionTemplePlugin loads harvested -> E:\repos\POE Work\captures\cases\incursion_temple.tsv (7 rows)
+   done in 3894 s
+
+== post_session 2026-11-16 22:30:18
+   area_content.py (8 s, exit 0): 5240 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py FAILED: TimeoutExpired(['C:\\Python314\\python.exe', 'E:\\repos\\POE Work\\tools\\lab_layouts.py', '--new'], 3600)
+   incursion_rooms.py (17 s, exit 0): 0 IncursionTemplePlugin loads harvested -> E:\repos\POE Work\captures\cases\incursion_temple.tsv (7 rows)
+   done in 3625 s
+== post_session 2026-11-16 22:49:41
+   area_content.py (30 s, exit 0): 5242 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py FAILED: TimeoutExpired(['C:\\Python314\\python.exe', 'E:\\repos\\POE Work\\tools\\lab_layouts.py', '--new'], 3600)
+   incursion_rooms.py (26 s, exit 0): 0 IncursionTemplePlugin loads harvested -> E:\repos\POE Work\captures\cases\incursion_temple.tsv (7 rows)
+   done in 3655 s
+== post_session 2026-11-16 23:31:20
+   area_content.py (16 s, exit 0): 5252 area loads -> captures\cases\area_content.tsv
+   lab_layouts.py (2208 s, exit 0): 118 labyrinth area loads -> captures\cases\lab_layouts.tsv
+   incursion_rooms.py (0 s, exit 0): 0 IncursionTemplePlugin loads harvested -> E:\repos\POE Work\captures\cases\incursion_temple.tsv (7 rows)
+   done in 2224 s

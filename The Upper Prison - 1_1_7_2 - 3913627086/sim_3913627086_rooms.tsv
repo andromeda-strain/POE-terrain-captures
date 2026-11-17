@@ -1,0 +1,46 @@
+sub	arm	x	y	o	src	tags
+1	Metadata/Terrain/Prison/Rooms/Unique/transitiondown_unique_3a.arm	17	17	0	node	default entrance1
+1	Metadata/Terrain/Prison/Rooms/Unique/transitionup_unique_5a.arm	45	29	3	node	teleport1-BrutusAreaName telepad2
+1	Metadata/Terrain/Prison/Rooms/Unique/strongbox_surgery.arm	29	5	4	node	
+1	Metadata/Terrain/Prison/Rooms/2x2/living_low_7a.arm	5	13	7	node	
+1	Metadata/Terrain/Prison/Rooms/2x3/open_4a.arm	25	29	1	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/living_2a.arm	25	5	6	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/living_2b.arm	45	37	4	node	
+1	Metadata/Terrain/Prison/Rooms/2x2/living_open_5c.arm	9	5	5	node	
+1	Metadata/Terrain/Prison/Rooms/2x2/living_open_5a.arm	17	5	3	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/type_2b.arm	41	37	0	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/living_2b.arm	37	37	0	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/type_2a.arm	33	37	4	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/open_torture_1e.arm	41	29	2	node	
+1	Metadata/Terrain/Prison/Rooms/Unique/special_necroboss1.arm	37	29	0	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/torture_3a.arm	37	25	2	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/living_2b.arm	33	25	5	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/open_1c.arm	29	25	3	node	
+1	Metadata/Terrain/Prison/Rooms/2x2/living_torture_3a.arm	37	17	4	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/open_1a.arm	13	17	6	node	
+1	Metadata/Terrain/Prison/Rooms/2x3/low_open_torture_1a.arm	25	17	5	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/torture_6a.arm	5	5	7	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/type_2a.arm	49	37	7	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/torture_3a.arm	5	9	4	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/torture_6a.arm	25	9	1	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/torture_3a.arm	13	13	1	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/living_3a.arm	17	13	6	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/torture_6b.arm	21	13	2	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/living_3a.arm	25	13	1	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/torture_6a.arm	29	37	4	node	
+1	Metadata/Terrain/Prison/Rooms/2x3/open_torture_2a.arm	5	21	1	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/open_torture_1d.arm	25	37	5	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/torture_6a.arm	41	33	3	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/torture_3a.arm	25	25	1	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/type_2b.arm	37	33	3	node	
+1	Metadata/Terrain/Prison/Rooms/2x3/type_4a.arm	13	33	7	node	
+1	Metadata/Terrain/Prison/Rooms/1x1/torture_3a.arm	21	29	0	node	
+2	Metadata/Terrain/Prison/Rooms/Unique/boss_transition_1a.arm	59	29	3	node	telepad1 teleport2-%areaname%
+2	Metadata/Terrain/Prison/Rooms/Unique/boss_exit.arm	103	9	7	node	telepad3 teleport4-BrutusAreaName accessible entrance2 AutoWaypoint
+2	Metadata/Terrain/Prison/Rooms/Unique/Piety.arm	55	17	1	node	
+2	Metadata/Terrain/Prison/Rooms/Unique/boss_cells_2a.arm	83	21	0	node	telepad4 teleport3disabled-BrutusArenaName
+2	Metadata/Terrain/Prison/Rooms/Unique/boss_cells_3a.arm	55	5	7	node	
+2	Metadata/Terrain/Prison/Rooms/1x1/wardenpath_2b.arm	71	21	4	node	
+2	Metadata/Terrain/Prison/Rooms/1x1/wardenpath_2c.arm	79	25	5	node	
+2	Metadata/Terrain/Prison/Rooms/1x1/wardenpath_2a.arm	75	25	6	node	
+2	Metadata/Terrain/Prison/Rooms/1x1/wardenpath_2b.arm	71	25	3	node	

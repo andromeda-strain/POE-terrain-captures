@@ -1,0 +1,12 @@
+type	X	Y	rotation	z	height_step	origin	src	who
+Metadata/MiscellaneousObjects/AreaTransition	260	276	3.1416	-157.628	20	tile	beach_toswamp2_v03_02.tdt	server
+Metadata/MiscellaneousObjects/Doodad	271	276	2.9403	0.000	0	room	entrance1.arm	client
+Metadata/MiscellaneousObjects/Doodad	268	277	3.1608	-5.435	0	room	entrance1.arm	client
+Metadata/MiscellaneousObjects/Doodad	248	277	4.7115	0.000	0	room	entrance1.arm	client
+Metadata/MiscellaneousObjects/Doodad	289	277	4.7115	0.000	0	room	entrance1.arm	client
+Metadata/MiscellaneousObjects/Doodad	313	280	4.7115	0.000	0	room	entrance1.arm	client
+Metadata/MiscellaneousObjects/Doodad	341	284	4.7115	0.000	0	room	entrance1.arm	client
+Metadata/NPC/Info/VaalLetters/VaalLetter_02	1344	230	6.0641	-282.609	36	room	boss.arm	server
+Metadata/MiscellaneousObjects/Doodad	1349	232	0.0000	-282.609	36	room	boss.arm	client
+Metadata/MiscellaneousObjects/Doodad	1345	227	4.7124	-187.500	24	room	boss.arm	client
+Metadata/Chests/SideArea/SideAreaChest	1347	256	0.0000	-187.500	24	room	boss.arm	server

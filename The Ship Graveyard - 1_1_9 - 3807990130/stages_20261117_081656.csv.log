@@ -1,0 +1,24 @@
+--- 2026-11-17 08:16:56.344 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_23628_2.go --parent-pid 23628
+standby: go file seen 1 ms ago -> captures\stages_20261117_081656.csv
+address map: the client is not the decompiled build; 169827 functions paired (tools/exe_align.py)
+08:16:56.358 (the attach call took 3 ms)
+attached to pid 17420, image base 0x7ff654740000 (dump base 0x140000000); DR0 generator 0x7ff6567aa450 (then the draw 0x7ff656742090 on its thread)  DR1 permute 0x7ff656866bc0  DR3 dungeon 0x7ff6567996a0 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+level generator on tid 4396: draws traced on this thread
+permute stage on tid 4396; tracing continues for 10.0 s
+outdoor pipeline: switching to the stage dumps
+permute grid 60x66 written to captures\stages_20261117_081656.grid.tsv
+edge tiliser started on tid 4396: post-pass placements will be logged
+    corner grid 67x73: 14 ground table entries, 496 unwalkable corners -> captures\stages_20261117_081656_truth_prefill_corners_5918b7d5448.tsv
+    corner grid 67x73: 14 ground table entries, 496 unwalkable corners -> captures\stages_20261117_081656_truth_postfill_corners_5918b7d5448.tsv
+    corner grid 67x73: 14 ground table entries, 496 unwalkable corners -> captures\stages_20261117_081656_truth_reheight_corners_5918b7d5448.tsv
+level generator returned
+--- TileMap T=0x5918b7d5448 66x72: 4752 cells with a tile, 76 distinct tiles -> captures\stages_20261117_081656_truth_5918b7d5448.tsv
+    corner grid 67x73: 14 ground table entries, 1536 unwalkable corners -> captures\stages_20261117_081656_truth_corners_5918b7d5448.tsv
+    tile hash over 1842 origin cells = 2784996601
+trace window after the marker elapsed
+clear before detach: all 65 threads verified clear
+clear after detach: all 65 threads verified clear
+detached; client keeps running
+43537 events written to captures\stages_20261117_081656.csv
+WARNING: 1 logged caller(s) lie in functions the address map does not pair; those rows carry the plain rebase

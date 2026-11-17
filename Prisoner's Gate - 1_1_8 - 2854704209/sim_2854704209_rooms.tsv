@@ -1,0 +1,22 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act1/Area8/Rooms/prison_front.arm	15	6	7	node	default entrance1disabled
+0	Metadata/Terrain/Act1/Area8/Rooms/lgcliff_valley_smcliff_2_stairs.arm	24	15	7	node	
+0	Metadata/Terrain/Act1/Area8/Rooms/lgcliff_valley_smcliff_2_stairs.arm	30	42	3	node	
+0	Metadata/Terrain/Act1/Area8/Rooms/lgcliff_valley_smcliff_3_stairs.arm	27	30	7	node	
+0	Metadata/Terrain/Act1/Area8/Rooms/lgcliff_valley_smcliff_7.arm	36	30	5	node	
+0	Metadata/Terrain/Act1/Area8/Rooms/lgcliff_valley_smcliff_8_stairs.arm	42	39	2	node	
+0	Metadata/Terrain/Act1/Area8/Rooms/lgcliff_valley_smcliff_6_stairs.arm	45	21	4	node	
+0	Metadata/Terrain/Act1/Area8/Rooms/blocked_passage.arm	24	54	0	node	entrance3
+0	Metadata/Terrain/Act1/Area8/Rooms/lgcliff_valley_smcliff_1.arm	54	45	0	node	
+0	Metadata/Terrain/Act1/Area8/Rooms/exit.arm	66	33	6	node	entrance2
+0	Metadata/Terrain/Act1/Area8/Rooms/lgcliff_valley_smcliff_6_stairs.arm	66	45	2	node	
+0	Metadata/Terrain/Act1/Area6/Rooms/side_valley_entrance_1.arm	57	15	5	node	sidearea1 accessible
+0	Metadata/Terrain/Leagues/Augury/Act1_PrisonersGate/boss_ungulath_2.arm	57	36	4	node	
+0	Metadata/Shrines/beach_01.arm	47	28	3	pass	
+0	Metadata/Terrain/Act1/Area8/Rooms/Overlays/goatman_spawner_cv_01.arm	30	36	7	overlay	
+0	Metadata/Terrain/Act1/Area8/Rooms/Overlays/goatman_spawner_st_01.arm	33	33	4	overlay	
+0	Metadata/Terrain/Act1/Area8/Rooms/Overlays/goatman_spawner_stsmall_01.arm	54	27	2	overlay	
+0	Metadata/Terrain/Act1/Area8/Rooms/Overlays/goatman_spawner_st_02.arm	18	51	5	overlay	
+0	Metadata/Terrain/Act1/Area8/Rooms/Overlays/goatman_spawner_stsmallmed_01.arm	18	54	5	overlay	
+0	Metadata/Terrain/Act1/Area8/Rooms/Overlays/goatman_spawner_stmedlarge_01.arm	36	39	1	overlay	
+0	Metadata/Terrain/Act1/Area8/Rooms/Overlays/goatman_spawner_stmedlarge_01.arm	60	48	4	overlay	

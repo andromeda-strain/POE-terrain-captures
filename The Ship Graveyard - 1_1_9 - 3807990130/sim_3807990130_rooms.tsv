@@ -1,0 +1,9 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act1/Area9/Rooms/entrance_beach3.arm	45	48	7	node	entrance1 default
+0	Metadata/Terrain/Act1/Area9/Rooms/exit.arm	15	9	0	node	entrance4 killzone=4
+0	Metadata/Terrain/Act1/Area9/Rooms/shipdungeon_entrance.arm	44	18	2	node	unique1 entrance2 killzone=0
+0	Metadata/Terrain/Act1/Area9/Rooms/glyph_valley_end.arm	51	15	5	node	
+0	Metadata/Terrain/Act1/Area9/Rooms/cliff_beach_sea3.arm	15	45	0	node	
+0	Metadata/Terrain/Act1/Area9/Rooms/intact_ship.arm	27	54	2	node	killzone=0 entrance3
+0	Metadata/Terrain/Act1/Area9/Rooms/waypoint.arm	42	55	0	node	
+0	Metadata/Terrain/Act1/Area9/Rooms/treasure_ship_open.arm	23	32	6	node	
