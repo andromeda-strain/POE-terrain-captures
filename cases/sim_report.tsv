@@ -1204,5 +1204,4 @@ seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail	version
 1699688174	The Old Fields	tgr	MATCH			1584861934		1.8	room tiles 144/144; junction records 6/6; edge tiles 103/103; fill tiles 1142/1142; map cells 1495/1495; unknown picks 15 (0 long/absent); key misses 15	3.30
 1555821681	The Den	dgr	MATCH	0	59x59	288201704	288201704	1.9	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
 2391520672	Covered-up Hollow	dgr	MATCH	0	43x35	1678169797	1678169797	1.6	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-3970848597	The Crossroads	tgr	NOINST			2131346891		0.0	no outdoor instance for this seed (index status: no stages)	3.30
 2543328698	The Broken Bridge	tgr	MATCH			2843447103		2.6	room tiles 116/116; junction records 6/6; edge tiles 231/231; fill tiles 2584/2584; map cells 3171/3171	3.30

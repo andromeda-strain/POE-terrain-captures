@@ -1,5 +1,0 @@
-   client tile hash 2131346891 doodad hash 2737306688 (CLI_ACTIVATE_MAP)
-AUTO seed 3970848597 The Crossroads: the tracer saw no generation (it attached after the level was built; the capture has no node stages)
-   tile grid: captures\The Crossroads - 1_2_3 - 3970848597\truth_28178b17c48.tsv (81x78, 6318 cells) VERIFIED against tile hash 2131346891
-   walkable field: captures\The Crossroads - 1_2_3 - 3970848597\walkable_28178b17c48_melee.png (24.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.647; 3 layer(s) read; stored for the grid as walkable_28178b17c48_{melee,ranged}.png/.bin/.tsv)
-   minimap (the client's grid): captures\The Crossroads - 1_2_3 - 3970848597\minimap.png
