@@ -1,0 +1,4 @@
+KNOWN The Chamber of Sins Level 2 [1_2_6_2] seed 4116737633: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 3146227666 (1 of 1 rows), last capture captures/The Chamber of Sins Level 2 - 1_2_6_2 - 4116737633/stages_20261117_134818.csv (dungeon trace)
+   this load's tile hash 3146227666 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\The Chamber of Sins Level 2 - 1_2_6_2 - 4116737633\truth_4475b47e448.tsv): captures\The Chamber of Sins Level 2 - 1_2_6_2 - 4116737633\minimap.png

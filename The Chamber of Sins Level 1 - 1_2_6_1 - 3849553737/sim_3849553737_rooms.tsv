@@ -1,0 +1,33 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Unique/entrance_waypoint_1a.arm	17	41	0	node	default entrance1
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Unique/exit_strairsdown_1a.arm	25	5	0	node	entrance2
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Unique/exit_hallwayclear_false_3a.arm	41	25	1	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Unique/exit_hallwayclear_false_1a.arm	5	17	3	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Unique/hallway_4way_1a.arm	21	21	0	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/hall_blocked.arm	25	33	0	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/2x2/room_high_1a.arm	17	33	4	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/open_1a.arm	33	33	6	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/room_2a.arm	13	33	3	node	unique2
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/hallway_straight_1a.arm	25	37	4	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/hallway_crossing2_open2_1a.arm	37	25	3	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/hallway_crossing2_open2_1a.arm	33	25	5	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/hallway_straight_1a.arm	17	25	3	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/hallway_crossing2_open2_1a.arm	13	25	5	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/hallwayclear_crossing2_open2_1a.arm	25	17	6	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/hallwayclear_straight_1a.arm	25	13	0	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/open_1a.arm	37	33	5	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/straight_1a.arm	29	33	0	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/straight_1a.arm	37	29	5	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/straight_1a.arm	33	29	7	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/2x3/open_1a.arm	13	13	2	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/straight_1a.arm	13	29	3	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/straight_1a.arm	29	17	2	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/2x3/open_1a.arm	33	13	0	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/straight_1a.arm	21	17	6	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/corner_1a.arm	37	37	5	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/room_2a.arm	33	37	5	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/straight_1a.arm	41	21	2	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/room_2a.arm	41	17	2	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/corner_1a.arm	41	13	2	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/room_2a.arm	29	13	3	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/1x1/corner_1a.arm	37	9	7	node	

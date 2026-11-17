@@ -1,0 +1,21 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3848218760 doodad hash 247387738 (CLI_ACTIVATE_MAP)
+AUTO seed 2172444517 Entombed Alcove: dungeon area (capture captures/Entombed Alcove - 1_SideArea2_5 - 2172444517/stages_20261117_131853.csv)
+   dungeon (.dgr) pipeline: 887 draws in 14 call sites (2 generator draws before it, 2223 after it - the post passes); no generator model yet
+   0x14203a8e0: 3 draws, bounds 100
+   0x142105ee9: 2 draws, bounds 1
+   0x1420fd32a: 18 draws, bounds 128
+   0x142012839: 1 draws, bounds 1
+   0x1420fd640: 53 draws, bounds 1,494
+   0x142001ee5: 3 draws, bounds 1
+   0x14210862e: 2 draws, bounds 167,7244
+   0x14210871c: 2 draws, bounds 840
+   0x14200e5b0: 195 draws, bounds 2,100,200,400,800,1000,1400,1600
+   0x1420152c8: 18 draws, bounds 100,200,400,1400,2800
+   0x14201300c: 3 draws, bounds 1
+   0x142013245: 3 draws, bounds 800
+   0x141febf93: 292 draws, bounds 1
+   0x141febfcf: 292 draws, bounds 8
+   tile grid: captures\Entombed Alcove - 1_SideArea2_5 - 2172444517\truth_44741fe5c48.tsv (43x39, 1677 cells) VERIFIED against tile hash 3848218760
+   walkable field: captures\Entombed Alcove - 1_SideArea2_5 - 2172444517\walkable_44741fe5c48_melee.png (7.7% of the sub-cells walkable, matches the tiles' hull field at IoU 0.981; 2 layer(s) read; stored for the grid as walkable_44741fe5c48_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Entombed Alcove - 1_SideArea2_5 - 2172444517\minimap.png

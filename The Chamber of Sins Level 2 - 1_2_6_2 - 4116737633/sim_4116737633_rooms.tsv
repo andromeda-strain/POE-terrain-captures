@@ -1,0 +1,24 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Unique/entrance_1a.arm	35	35	3	node	default entrance1
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Unique/boss_1a.arm	5	17	3	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/hallway_open_1a.arm	23	5	2	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Unique/side_lab_entrance_lower_1.arm	11	47	4	node	sidearea1 accessible
+0	Metadata/Terrain/Labyrinth/RoomSets/RuinedTemple/Rooms/Unique/intro.arm	41	17	3	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/RuinedTemple/Rooms/Unique/intro_end.arm	59	23	1	node	
+0	Metadata/Terrain/Act2/Area6Level3/Rooms/virtue_chamber.arm	47	35	6	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_2x3/open_1a.arm	23	35	5	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/open_1a.arm	35	17	0	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_2x3/abyss_1a.arm	23	23	6	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/hallway_straight_1a.arm	11	11	6	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/hallway_corner_1b.arm	11	5	5	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/hallway_straight_1b.arm	17	5	7	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/open_1a.arm	47	47	0	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_2x2/open_1a.arm	29	5	6	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/straight_1a.arm	41	47	7	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/corner_1a.arm	35	47	0	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/tri_blocked_1a.arm	17	47	6	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/straight_blocked_1a.arm	29	17	2	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/straight_1b.arm	41	5	7	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/straight_1b.arm	23	17	0	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/tri_blocked_1a.arm	23	11	4	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/corner_1b.arm	17	11	1	node	

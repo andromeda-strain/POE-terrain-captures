@@ -1,0 +1,17 @@
+GENERATED The Chamber of Sins Level 1 [1_2_6_1] seed 1336597324
+   dgr simulator: GRID 55x55: 3025 cells with a tile -> E:\repos\POE Work\captures/The Chamber of Sins Level 1 - 1_2_6_1 - 1336597324\sim_1336597324.tsv; tile | vs truth grid: 0 differing cells | HASH MATCH (2 s)
+   grid: captures\The Chamber of Sins Level 1 - 1_2_6_1 - 1336597324\sim_1336597324.tsv (generator dgr, terrain -, capture status "dungeon trace")
+   layers: 55x55 cells -> 1265x1265 sub-cells; tile hull planes + 984 client doodads (the doodad stage replayed draw for draw) + 0 server objects' hulls
+   walkability gen_melee.png/.bin (24.8% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -32 .. 46 levels (-250.0 .. 359.4 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 486 specified by the level's files - tile .tmd records 51, room .arm lines 435; server (sent) 4, server-internal 11, client 471; 984 stage doodads in gen_doodads.tsv
+   server types: SpiderSpawner x10, AreaTransition x2, Waypoint x1, MapDeviceOld x1, ProphecyMonsterLocator x1
+   client passes after the doodads: 3136 corner ground materials in gen_materials.tsv, 0 decals in gen_decals.tsv, 0 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+      ground materials: 3136 corners, 0 of them drawn; the log ends before this pass - unchecked
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_4470f95ac48.tsv: tiles 3025/3025 equal (path + orientation); cell heights 3025/3025 equal
+   vs the client's melee layer walkable_4470f95ac48_melee.bin: EXACT
+   vs the client's ranged layer walkable_4470f95ac48_ranged.bin: EXACT
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 8 s

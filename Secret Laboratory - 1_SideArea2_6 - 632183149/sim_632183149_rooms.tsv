@@ -1,0 +1,8 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Unique/inside_entrance_1.arm	23	5	0	node	default sideentrance
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Unique/side_area_boss.arm	5	17	3	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/corner_1a.arm	35	17	4	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/open_blocked_1a.arm	29	17	1	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_1x1/corner_1b.arm	35	5	6	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Lower_2x2/type_4a.arm	17	17	5	node	
+0	Metadata/Terrain/RuinedTempleForest/Rooms/Unique/lower_shrine_02.arm	35	11	0	node	
