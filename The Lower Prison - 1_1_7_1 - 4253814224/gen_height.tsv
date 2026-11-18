@@ -1,0 +1,7 @@
+source	layout_generated (walk_layer.build_heights)
+grid	sim_4253814224.tsv
+width	1357
+height	989
+format	i16 LE, row-major, levels of 7.8125 world units
+min	-52
+max	48
