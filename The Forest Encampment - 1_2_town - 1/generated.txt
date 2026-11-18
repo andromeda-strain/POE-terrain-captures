@@ -12,4 +12,4 @@ GENERATED The Forest Encampment [1_2_town] seed 1
    vs the client's ranged layer walkable_3dbc0f173f0_ranged.bin: EXACT
    the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
    minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
-   built in 3 s
+   built in 5 s

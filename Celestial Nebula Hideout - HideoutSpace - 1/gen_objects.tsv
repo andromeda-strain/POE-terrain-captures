@@ -1,0 +1,9 @@
+type	X	Y	rotation	z	height_step	origin	src	who
+Metadata/MiscellaneousObjects/Waypoint	357	357	0.0000	0.000	0	room	hideout.arm	server
+Metadata/Terrain/Missions/Hideouts/Objects/StrDexIntMappingDevice	299	357	6.2832	0.000	0	room	hideout.arm	server
+Metadata/Terrain/Missions/Hideouts/Objects/HideoutCraftingBench	414	357	6.2832	0.000	0	room	hideout.arm	server
+Metadata/MiscellaneousObjects/Stash	362	414	6.2832	0.000	0	room	hideout.arm	server
+Metadata/MiscellaneousObjects/GuildStash	352	414	6.2832	0.000	0	room	hideout.arm	server
+Metadata/MiscellaneousObjects/Harvest/CraftingSilo_Hideout	414	389	4.7124	0.000	0	room	hideout.arm	server
+Metadata/MiscellaneousObjects/Heist/HeistStash_Hideout	396	414	0.0000	0.000	0	room	hideout.arm	server
+Metadata/MiscellaneousObjects/Expedition/ExpeditionStash_Hideout	381	415	0.0000	0.000	0	room	hideout.arm	server

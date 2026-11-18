@@ -1176,69 +1176,80 @@ seed	area	kind	verdict	cells	dims	client_hash	sim_hash	secs	detail	version
 1	Robber's Trench Hideout	tgr	PARTIAL			542952023		1.4	room tiles 40/134; junction records 0/0; edge tiles 1/2; fill tiles 101/824; map cells 142/960	3.29
 1315717821	The Temple of Atzoatl	dgr	CELLS	16372	129x177	2253744365	480554160	13.7	first draw-stage not OK: graph; first mismatch: sim 0x1420fd640 ? draw(300) = 13 [word 355] subgraph 0 graph stage vs log 0x1420fd32a draw(128) = 61	3.29
 10810662	The Temple of Atzoatl	dgr	CELLS	16256	129x177	1022327800	1684175506	13.2	first draw-stage not OK: graph; first mismatch: sim 0x1420fd640 ? draw(300) = 149 [word 357] subgraph 0 graph stage vs log 0x1420fd32a draw(128) = 97	3.29
-138167816	The Twilight Strand	tgr	MATCH			909825742		2.4	overlay tiles 10/10; tile heights 99/99; room tiles 23/23; junction records 4/4; edge tiles 37/37; fill tiles 278/278; map cells 377/377; unknown picks 0 (0 long/absent); key misses 2	3.30
-946224046	The Coast	tgr	MATCH			662455276		3.2	overlay tiles 3/3; tile heights 196/196; room tiles 81/81; junction records 2/2; edge tiles 66/66; fill tiles 974/974; map cells 1170/1170	3.30
-1479815181	The Coast	tgr	MATCH			2265239309		4.0	overlay tiles 4/4; tile heights 218/218; room tiles 83/83; junction records 7/7; edge tiles 78/78; fill tiles 2177/2177; map cells 2395/2395; unknown picks 0 (0 long/absent); key misses 6	3.30
-1888354000	The Coast	tgr	MATCH			2007978326		3.2	overlay tiles 3/3; tile heights 205/205; room tiles 81/81; junction records 2/2; edge tiles 63/63; fill tiles 979/979; map cells 1184/1184; unknown picks 0 (0 long/absent); key misses 8	3.30
-2643267032	The Coast	tgr	MATCH			1807753951		3.8	overlay tiles 2/2; tile heights 210/210; room tiles 83/83; junction records 7/7; edge tiles 83/83; fill tiles 2150/2150; map cells 2360/2360; unknown picks 0 (0 long/absent); key misses 4	3.30
-3764131589	The Mud Flats	tgr	MATCH			639321954		1.9	room tiles 64/64; junction records 3/3; edge tiles 94/94; fill tiles 722/722; map cells 932/932; unknown picks 2 (0 long/absent); key misses 2	3.30
-1370025649	The Fetid Pool	dgr	MATCH	0	60x51	16333883	16333883	1.5	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd610 draw(1) = 0	3.30
-2445454242	The Coast	tgr	MATCH			1241619359		2.9	overlay tiles 2/2; tile heights 245/245; room tiles 91/91; junction records 2/2; edge tiles 82/82; fill tiles 797/797; map cells 1042/1042; unknown picks 0 (0 long/absent); key misses 12	3.30
-2539931720	The Mud Flats	tgr	MATCH			3806335994		1.7	room tiles 64/64; junction records 4/4; edge tiles 94/94; fill tiles 402/402; map cells 632/632	3.30
-141185249	The Fetid Pool	dgr	MATCH	0	51x60	424452623	424452623	1.6	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-1072437021	The Submerged Passage	dgr	MATCH	0	49x65	300607505	300607505	2.1	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-1044308751	The Flooded Depths	dgr	MATCH	0	41x41	4011401519	4011401519	2.2	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-3902614280	The Ledge	tgr	MATCH			505003396		2.4	room tiles 68/68; junction records 0/0; edge tiles 108/108; fill tiles 967/967; map cells 1244/1244; unknown picks 75 (0 long/absent); key misses 75	3.30
-2887174563	The Climb	tgr	MATCH			3662791978		1.8	room tiles 65/65; junction records 2/2; edge tiles 36/36; fill tiles 486/486; map cells 635/635; unknown picks 4 (0 long/absent); key misses 4	3.30
-510199899	The Lower Prison	dgr	MATCH	0	51x59	1003416990	1003416990	1.7	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-3913627086	The Upper Prison	dgr	MATCH	0	125x55	1561506868	1561506868	3.4	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 1 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-2908459167	The Upper Prison	dgr	MATCH	0	125x55	2153752234	2153752234	3.4	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 1 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-2854704209	Prisoner's Gate	tgr	MATCH			3763392108		3.7	overlay tiles 7/7; tile heights 308/308; room tiles 63/63; junction records 0/0; edge tiles 110/112; fill tiles 662/662; map cells 970/970; unknown picks 0 (0 long/absent); key misses 6	3.30
-1800781028	The Ship Graveyard	tgr	MATCH			890538610		2.4	room tiles 44/44; junction records 0/0; edge tiles 62/62; fill tiles 1775/1775; map cells 1918/1918; unknown picks 6 (0 long/absent); key misses 6	3.30
-1837269200	Remote Gulch	tgr	MATCH			544120884		1.3	room tiles 24/24; junction records 0/0; edge tiles 15/15; fill tiles 98/98; map cells 152/152; unknown picks 2 (0 long/absent); key misses 2	3.30
-3807990130	The Ship Graveyard	tgr	MATCH			2784996601		2.0	room tiles 68/68; junction records 0/0; edge tiles 101/101; fill tiles 1121/1121; map cells 1322/1322; unknown picks 2 (0 long/absent); key misses 2	3.30
-2490871588	The Ship Graveyard Cave	dgr	MATCH	0	45x45	169945692	169945692	1.6	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-2308063206	The Cavern of Wrath	dgr	MATCH	0	69x49	1143567395	1143567395	2.6	first draw-stage not OK: graph; first mismatch: sim 0x1420038a1 ? draw(100) = 77 [word 13] subgraph 0 graph stage vs log 0x14200c0e1 draw(100) = 77	3.30
-1754731425	The Cavern of Anger	dgr	MATCH	0	69x61	840011906	840011906	2.8	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(2) = 1 [word 334] subgraph 0 graph stage vs log 0x1420fd640 draw(2) = 1	3.30
-498019520	The Southern Forest	tgr	MATCH			4216159431		2.0	room tiles 127/127; junction records 0/0; edge tiles 115/115; fill tiles 1003/1003; map cells 1350/1350; unknown picks 2 (0 long/absent); key misses 2	3.30
-1699688174	The Old Fields	tgr	MATCH			1584861934		2.0	room tiles 144/144; junction records 6/6; edge tiles 103/103; fill tiles 1142/1142; map cells 1495/1495; unknown picks 15 (0 long/absent); key misses 15	3.30
-1555821681	The Den	dgr	MATCH	0	59x59	288201704	288201704	2.0	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-2391520672	Covered-up Hollow	dgr	MATCH	0	43x35	1678169797	1678169797	1.6	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-2543328698	The Broken Bridge	tgr	MATCH			2843447103		2.8	room tiles 116/116; junction records 6/6; edge tiles 231/231; fill tiles 2584/2584; map cells 3171/3171	3.30
-830314845	The Crossroads	tgr	MATCH			3867021691		2.8	room tiles 135/135; junction records 6/6; edge tiles 249/249; fill tiles 1479/1479; map cells 2110/2110; unknown picks 8 (0 long/absent); key misses 8	3.30
-581647887	The Fellshrine Ruins	tgr	MATCH			2247551098		3.3	room tiles 145/145; junction records 3/3; edge tiles 627/627; fill tiles 3093/3093; map cells 4049/4049; unknown picks 8 (0 long/absent); key misses 8	3.30
-1787486923	The Crypt Level 1	dgr	MATCH	0	59x59	2698013078	2698013078	1.9	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-1246223437	The Crypt Level 1	dgr	MATCH	0	59x59	534924816	534924816	2.2	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-2172444517	Entombed Alcove	dgr	MATCH	0	43x39	3848218760	3848218760	1.6	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-234559393	The Crypt Level 2	dgr	MATCH	0	59x59	262126847	262126847	1.9	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-3567373615	The Crossroads	tgr	MATCH			3002916827		2.5	room tiles 135/135; junction records 6/6; edge tiles 231/231; fill tiles 1359/1359; map cells 1987/1987; unknown picks 11 (0 long/absent); key misses 11	3.30
-3849553737	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	2867196858	2867196858	1.8	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(3) = 2 [word 442] subgraph 0 graph stage vs log 0x1420fd640 draw(3) = 2	3.30
-4116737633	The Chamber of Sins Level 2	dgr	MATCH	0	71x59	3146227666	3146227666	2.4	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(3) = 1 [word 207] subgraph 0 graph stage vs log 0x1420fd640 draw(3) = 1	3.30
-632183149	Secret Laboratory	dgr	MATCH	0	47x35	1848391944	1848391944	1.7	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-1336597324	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	1677239530	1677239530	1.8	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(3) = 2 [word 395] subgraph 0 graph stage vs log 0x1420fd640 draw(3) = 2	3.30
-2311162374	The Riverways	tgr	MATCH			837104575		3.5	room tiles 172/172; junction records 3/3; edge tiles 575/575; fill tiles 2135/2135; map cells 3082/3082; unknown picks 8 (0 long/absent); key misses 8	3.30
-3167237847	The Wetlands	tgr	MATCH			4277022588		2.4	room tiles 142/142; junction records 6/6; edge tiles 165/165; fill tiles 1526/1526; map cells 2009/2009; unknown picks 2 (0 long/absent); key misses 2	3.30
-332467618	The Western Forest	tgr	MATCH			715281676		2.7	room tiles 116/116; junction records 2/2; edge tiles 209/209; fill tiles 1466/1466; map cells 1924/1924; unknown picks 12 (0 long/absent); key misses 12	3.30
-4032626246	The Weaver's Chambers	dgr	MATCH	0	47x47	4229069133	4229069133	1.7	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-2884219180	The Wetlands	tgr	MATCH			651265413		2.4	room tiles 154/154; junction records 1/1; edge tiles 171/171; fill tiles 1191/1191; map cells 1671/1671; unknown picks 4 (0 long/absent); key misses 4	3.30
-1100683312	The Riverways	tgr	MATCH			1531905149		4.4	room tiles 172/172; junction records 3/3; edge tiles 612/612; fill tiles 2199/2199; map cells 3184/3184; unknown picks 4 (0 long/absent); key misses 4	3.30
-2327360235	The Vaal Ruins	dgr	MATCH	0	59x75	208342738	208342738	2.3	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-3294471347	The Northern Forest	tgr	MATCH			1714448442		2.6	room tiles 52/52; junction records 1/1; edge tiles 182/182; fill tiles 1244/1244; map cells 1577/1577; unknown picks 12 (0 long/absent); key misses 12	3.30
-501766400	The Dread Thicket	dgr	MATCH	0	81x39	2975075366	2975075366	4.1	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-1661625627	The Caverns	dgr	MATCH	0	71x63	8102963	8102963	3.0	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-4061084324	The Ancient Pyramid	dgr	MATCH	0	111x39	856062	856062	2.9	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 1 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-716441323	The City of Sarn	tgr	MATCH			111734192		2.1	room tiles 54/54; junction records 2/2; edge tiles 73/73; fill tiles 1095/1095; map cells 1244/1244; unknown picks 10 (0 long/absent); key misses 10	3.30
-2858929328	The Slums	dgr	MATCH	0	75x75	265984567	265984567	2.1	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(2) = 1 [word 296] subgraph 0 graph stage vs log 0x1420fd640 draw(2) = 1	3.30
-2456802257	The Crematorium	dgr	MATCH	0	59x43	1654999726	1654999726	2.2	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-1723382551	The Sewers	dgr	MATCH	0	59x109	1125638502	1125638502	7.4	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
-483666826	The Marketplace	dgr	MATCH	0	69x69	2195128286	2195128286	3.0	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(7) = 4 [word 994] subgraph 0 graph stage vs log 0x1420fd640 draw(7) = 4	3.30
-1488630331	The Sewers	dgr	MATCH	0	59x109	2308300459	2308300459	7.8		3.30
-3393329573	The Catacombs	dgr	MATCH	0	59x59	833854238	833854238	2.3		3.30
-962876456	The Sewers	dgr	MATCH	0	59x109	1770382877	1770382877	7.4		3.30
-355599829	The Battlefront	dgr	MATCH	0	84x78	1497882746	1497882746	5.2	first draw-stage not OK: fill; first mismatch: sim 0x141fed087 ? draw(8) = 0 [word 2965] subgraph 0 fill cell (29,58) city_ground.gt vs log 0x141fed2bd draw(8) = 0	3.30
-2788032082	The Solaris Temple Level 1	dgr	MATCH	0	65x65	3300433815	3300433815	25.0		3.30
-3813431315	The Solaris Temple Level 2	dgr	MATCH	0	87x117	3596524480	3596524480	7.8		3.30
-921034783	The Docks	dgr	MATCH	0	87x77	779862378	779862378	3.5	first draw-stage not OK: fill; first mismatch: sim 0x141feddbe sub_141FED640 edge-combination ground fill: mixed list pick draw(100) = 63 [word 929] subgraph 0 fill cell (54,39) default vs log 0x141ff6688 draw(100) = 63	3.30
-2071147071	The Solaris Temple Level 2	dgr	MATCH	0	87x117	716083367	716083367	8.1		3.30
-2539005652	The Sewers	dgr	MATCH	0	59x109	1716355656	1716355656	7.0		3.30
-2505070637	The Ebony Barracks	dgr	MATCH	0	75x120	1922294556	1922294556	4.4		3.30
+138167816	The Twilight Strand	tgr	MATCH			909825742		2.3	overlay tiles 10/10; tile heights 99/99; room tiles 23/23; junction records 4/4; edge tiles 37/37; fill tiles 278/278; map cells 377/377; unknown picks 0 (0 long/absent); key misses 2	3.30
+946224046	The Coast	tgr	MATCH			662455276		2.9	overlay tiles 3/3; tile heights 196/196; room tiles 81/81; junction records 2/2; edge tiles 66/66; fill tiles 974/974; map cells 1170/1170	3.30
+1479815181	The Coast	tgr	MATCH			2265239309		3.6	overlay tiles 4/4; tile heights 218/218; room tiles 83/83; junction records 7/7; edge tiles 78/78; fill tiles 2177/2177; map cells 2395/2395; unknown picks 0 (0 long/absent); key misses 6	3.30
+1888354000	The Coast	tgr	MATCH			2007978326		2.9	overlay tiles 3/3; tile heights 205/205; room tiles 81/81; junction records 2/2; edge tiles 63/63; fill tiles 979/979; map cells 1184/1184; unknown picks 0 (0 long/absent); key misses 8	3.30
+2643267032	The Coast	tgr	MATCH			1807753951		3.4	overlay tiles 2/2; tile heights 210/210; room tiles 83/83; junction records 7/7; edge tiles 83/83; fill tiles 2150/2150; map cells 2360/2360; unknown picks 0 (0 long/absent); key misses 4	3.30
+3764131589	The Mud Flats	tgr	MATCH			639321954		1.7	room tiles 64/64; junction records 3/3; edge tiles 94/94; fill tiles 722/722; map cells 932/932; unknown picks 2 (0 long/absent); key misses 2	3.30
+1370025649	The Fetid Pool	dgr	MATCH	0	60x51	16333883	16333883	1.3	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd610 draw(1) = 0	3.30
+2445454242	The Coast	tgr	MATCH			1241619359		2.6	overlay tiles 2/2; tile heights 245/245; room tiles 91/91; junction records 2/2; edge tiles 82/82; fill tiles 797/797; map cells 1042/1042; unknown picks 0 (0 long/absent); key misses 12	3.30
+2539931720	The Mud Flats	tgr	MATCH			3806335994		1.6	room tiles 64/64; junction records 4/4; edge tiles 94/94; fill tiles 402/402; map cells 632/632	3.30
+141185249	The Fetid Pool	dgr	MATCH	0	51x60	424452623	424452623	1.5	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+1072437021	The Submerged Passage	dgr	MATCH	0	49x65	300607505	300607505	1.9	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+1044308751	The Flooded Depths	dgr	MATCH	0	41x41	4011401519	4011401519	2.0	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+3902614280	The Ledge	tgr	MATCH			505003396		2.2	room tiles 68/68; junction records 0/0; edge tiles 108/108; fill tiles 967/967; map cells 1244/1244; unknown picks 75 (0 long/absent); key misses 75	3.30
+2887174563	The Climb	tgr	MATCH			3662791978		1.7	room tiles 65/65; junction records 2/2; edge tiles 36/36; fill tiles 486/486; map cells 635/635; unknown picks 4 (0 long/absent); key misses 4	3.30
+510199899	The Lower Prison	dgr	MATCH	0	51x59	1003416990	1003416990	1.6	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+3913627086	The Upper Prison	dgr	MATCH	0	125x55	1561506868	1561506868	3.1	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 1 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+2908459167	The Upper Prison	dgr	MATCH	0	125x55	2153752234	2153752234	3.1	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 1 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+2854704209	Prisoner's Gate	tgr	MATCH			3763392108		3.3	overlay tiles 7/7; tile heights 308/308; room tiles 63/63; junction records 0/0; edge tiles 110/112; fill tiles 662/662; map cells 970/970; unknown picks 0 (0 long/absent); key misses 6	3.30
+1800781028	The Ship Graveyard	tgr	MATCH			890538610		2.1	room tiles 44/44; junction records 0/0; edge tiles 62/62; fill tiles 1775/1775; map cells 1918/1918; unknown picks 6 (0 long/absent); key misses 6	3.30
+1837269200	Remote Gulch	tgr	MATCH			544120884		1.2	room tiles 24/24; junction records 0/0; edge tiles 15/15; fill tiles 98/98; map cells 152/152; unknown picks 2 (0 long/absent); key misses 2	3.30
+3807990130	The Ship Graveyard	tgr	MATCH			2784996601		1.8	room tiles 68/68; junction records 0/0; edge tiles 101/101; fill tiles 1121/1121; map cells 1322/1322; unknown picks 2 (0 long/absent); key misses 2	3.30
+2490871588	The Ship Graveyard Cave	dgr	MATCH	0	45x45	169945692	169945692	1.4	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+2308063206	The Cavern of Wrath	dgr	MATCH	0	69x49	1143567395	1143567395	2.3	first draw-stage not OK: graph; first mismatch: sim 0x1420038a1 ? draw(100) = 77 [word 13] subgraph 0 graph stage vs log 0x14200c0e1 draw(100) = 77	3.30
+1754731425	The Cavern of Anger	dgr	MATCH	0	69x61	840011906	840011906	2.5	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(2) = 1 [word 334] subgraph 0 graph stage vs log 0x1420fd640 draw(2) = 1	3.30
+498019520	The Southern Forest	tgr	MATCH			4216159431		1.8	room tiles 127/127; junction records 0/0; edge tiles 115/115; fill tiles 1003/1003; map cells 1350/1350; unknown picks 2 (0 long/absent); key misses 2	3.30
+1699688174	The Old Fields	tgr	MATCH			1584861934		1.8	room tiles 144/144; junction records 6/6; edge tiles 103/103; fill tiles 1142/1142; map cells 1495/1495; unknown picks 15 (0 long/absent); key misses 15	3.30
+1555821681	The Den	dgr	MATCH	0	59x59	288201704	288201704	1.8	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+2391520672	Covered-up Hollow	dgr	MATCH	0	43x35	1678169797	1678169797	1.3	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+2543328698	The Broken Bridge	tgr	MATCH			2843447103		2.4	room tiles 116/116; junction records 6/6; edge tiles 231/231; fill tiles 2584/2584; map cells 3171/3171	3.30
+830314845	The Crossroads	tgr	MATCH			3867021691		2.5	room tiles 135/135; junction records 6/6; edge tiles 249/249; fill tiles 1479/1479; map cells 2110/2110; unknown picks 8 (0 long/absent); key misses 8	3.30
+581647887	The Fellshrine Ruins	tgr	MATCH			2247551098		2.9	room tiles 145/145; junction records 3/3; edge tiles 627/627; fill tiles 3093/3093; map cells 4049/4049; unknown picks 8 (0 long/absent); key misses 8	3.30
+1787486923	The Crypt Level 1	dgr	MATCH	0	59x59	2698013078	2698013078	1.7	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+1246223437	The Crypt Level 1	dgr	MATCH	0	59x59	534924816	534924816	1.9	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+2172444517	Entombed Alcove	dgr	MATCH	0	43x39	3848218760	3848218760	1.5	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+234559393	The Crypt Level 2	dgr	MATCH	0	59x59	262126847	262126847	1.8	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+3567373615	The Crossroads	tgr	MATCH			3002916827		2.2	room tiles 135/135; junction records 6/6; edge tiles 231/231; fill tiles 1359/1359; map cells 1987/1987; unknown picks 11 (0 long/absent); key misses 11	3.30
+3849553737	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	2867196858	2867196858	1.6	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(3) = 2 [word 442] subgraph 0 graph stage vs log 0x1420fd640 draw(3) = 2	3.30
+4116737633	The Chamber of Sins Level 2	dgr	MATCH	0	71x59	3146227666	3146227666	2.2	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(3) = 1 [word 207] subgraph 0 graph stage vs log 0x1420fd640 draw(3) = 1	3.30
+632183149	Secret Laboratory	dgr	MATCH	0	47x35	1848391944	1848391944	1.5	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+1336597324	The Chamber of Sins Level 1	dgr	MATCH	0	55x55	1677239530	1677239530	1.6	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(3) = 2 [word 395] subgraph 0 graph stage vs log 0x1420fd640 draw(3) = 2	3.30
+2311162374	The Riverways	tgr	MATCH			837104575		3.1	room tiles 172/172; junction records 3/3; edge tiles 575/575; fill tiles 2135/2135; map cells 3082/3082; unknown picks 8 (0 long/absent); key misses 8	3.30
+3167237847	The Wetlands	tgr	MATCH			4277022588		2.1	room tiles 142/142; junction records 6/6; edge tiles 165/165; fill tiles 1526/1526; map cells 2009/2009; unknown picks 2 (0 long/absent); key misses 2	3.30
+332467618	The Western Forest	tgr	MATCH			715281676		2.5	room tiles 116/116; junction records 2/2; edge tiles 209/209; fill tiles 1466/1466; map cells 1924/1924; unknown picks 12 (0 long/absent); key misses 12	3.30
+4032626246	The Weaver's Chambers	dgr	MATCH	0	47x47	4229069133	4229069133	1.5	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+2884219180	The Wetlands	tgr	MATCH			651265413		2.1	room tiles 154/154; junction records 1/1; edge tiles 171/171; fill tiles 1191/1191; map cells 1671/1671; unknown picks 4 (0 long/absent); key misses 4	3.30
+1100683312	The Riverways	tgr	MATCH			1531905149		3.6	room tiles 172/172; junction records 3/3; edge tiles 612/612; fill tiles 2199/2199; map cells 3184/3184; unknown picks 4 (0 long/absent); key misses 4	3.30
+2327360235	The Vaal Ruins	dgr	MATCH	0	59x75	208342738	208342738	2.0	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+3294471347	The Northern Forest	tgr	MATCH			1714448442		2.2	room tiles 52/52; junction records 1/1; edge tiles 182/182; fill tiles 1244/1244; map cells 1577/1577; unknown picks 12 (0 long/absent); key misses 12	3.30
+501766400	The Dread Thicket	dgr	MATCH	0	81x39	2975075366	2975075366	3.4	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+1661625627	The Caverns	dgr	MATCH	0	71x63	8102963	8102963	2.6	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+4061084324	The Ancient Pyramid	dgr	MATCH	0	111x39	856062	856062	2.5	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 1 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+716441323	The City of Sarn	tgr	MATCH			111734192		1.7	room tiles 54/54; junction records 2/2; edge tiles 73/73; fill tiles 1095/1095; map cells 1244/1244; unknown picks 10 (0 long/absent); key misses 10	3.30
+2858929328	The Slums	dgr	MATCH	0	75x75	265984567	265984567	1.8	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(2) = 1 [word 296] subgraph 0 graph stage vs log 0x1420fd640 draw(2) = 1	3.30
+2456802257	The Crematorium	dgr	MATCH	0	59x43	1654999726	1654999726	2.0	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+1723382551	The Sewers	dgr	MATCH	0	59x109	1125638502	1125638502	6.1	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420fd640 draw(1) = 0	3.30
+483666826	The Marketplace	dgr	MATCH	0	69x69	2195128286	2195128286	2.6	first draw-stage not OK: graph; first mismatch: sim 0x1420fc763 ? draw(7) = 4 [word 994] subgraph 0 graph stage vs log 0x1420fd640 draw(7) = 4	3.30
+1488630331	The Sewers	dgr	MATCH	0	59x109	2308300459	2308300459	6.0		3.30
+3393329573	The Catacombs	dgr	MATCH	0	59x59	833854238	833854238	2.4		3.30
+962876456	The Sewers	dgr	MATCH	0	59x109	1770382877	1770382877	6.1		3.30
+355599829	The Battlefront	dgr	MATCH	0	84x78	1497882746	1497882746	3.9	first draw-stage not OK: fill; first mismatch: sim 0x141fed087 ? draw(8) = 0 [word 2965] subgraph 0 fill cell (29,58) city_ground.gt vs log 0x141fed2bd draw(8) = 0	3.30
+2788032082	The Solaris Temple Level 1	dgr	MATCH	0	65x65	3300433815	3300433815	21.3		3.30
+3813431315	The Solaris Temple Level 2	dgr	MATCH	0	87x117	3596524480	3596524480	6.0		3.30
+921034783	The Docks	dgr	MATCH	0	87x77	779862378	779862378	3.0	first draw-stage not OK: fill; first mismatch: sim 0x141feddbe sub_141FED640 edge-combination ground fill: mixed list pick draw(100) = 63 [word 929] subgraph 0 fill cell (54,39) default vs log 0x141ff6688 draw(100) = 63	3.30
+2071147071	The Solaris Temple Level 2	dgr	MATCH	0	87x117	716083367	716083367	6.2		3.30
+2539005652	The Sewers	dgr	MATCH	0	59x109	1716355656	1716355656	5.9		3.30
+2505070637	The Ebony Barracks	dgr	MATCH	0	75x120	1922294556	1922294556	3.8		3.30
+4253814224	The Lower Prison	dgr	MATCH	0	59x43	3186783365	3186783365	2.1		3.30
+2783455370	The Ebony Barracks	dgr	MATCH	0	75x120	840806707	840806707	4.2		3.30
+3958312689	The Imperial Gardens	dgr	MATCH	0	87x93	2937240278	2937240278	4.9	first draw-stage not OK: graph; first mismatch: sim 0x1420038a1 ? draw(100) = 54 [word 63] subgraph 0 graph stage vs log 0x14200c0e1 draw(100) = 54	3.30
+768656490	The Library	dgr	MATCH	0	67x67	4289100559	4289100559	2.6	first draw-stage not OK: graph; first mismatch: sim 0x1420ff7b0 ? draw(1) = 0 [word None] subgraph 0 graph stage vs log 0x1420ff7b1 draw(1) = 0	3.30
+2703805725	The Archives	dgr	MATCH	0	55x55	396312874	396312874	1.8		3.30
+3424963339	The Docks	dgr	MATCH	0	87x77	3726151832	3726151832	3.2	first draw-stage not OK: fill; first mismatch: sim 0x141feddbe sub_141FED640 edge-combination ground fill: mixed list pick draw(100) = 64 [word 2940] subgraph 0 fill cell (54,39) default vs log 0x141ff6688 draw(100) = 64	3.30
+109281436	The Ebony Barracks	dgr	MATCH	0	75x120	1543175302	1543175302	3.8		3.30
+3491918489	The Lunaris Temple Level 1	dgr	MATCH	0	55x109	3138434048	3138434048	11.0		3.30
+658967304	Arcane Chambers	dgr	MATCH	0	47x35	1065147264	1065147264	1.6		3.30
+3148882554	The Lunaris Temple Level 2	dgr	MATCH	0	173x71	2872893574	2872893574	5.8	first draw-stage not OK: fill; first mismatch: sim 0x141feddbe sub_141FED640 edge-combination ground fill: mixed list pick draw(64) = 11 [word 6006] subgraph 0 fill cell (141,30) temple_bloodpool.gt vs log 0x141ff6688 draw(64) = 11	3.30
+2165560989	Arcane Chambers	dgr	MATCH	0	47x35	1235300962	1235300962	1.5		3.30

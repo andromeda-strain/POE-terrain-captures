@@ -1,0 +1,5 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Temple/Rooms_Bloodpool/Unique/inside_entrance_1.arm	29	17	0	node	default sideentrance
+0	Metadata/Terrain/Temple/Rooms_Bloodpool/Unique/side_area_boss.arm	5	5	4	node	
+0	Metadata/Terrain/Temple/Rooms_Bloodpool/2x2/hall_1.arm	17	5	2	node	
+0	Metadata/Terrain/Temple/Rooms_Bloodpool/2x2/template_2.arm	17	17	1	node	

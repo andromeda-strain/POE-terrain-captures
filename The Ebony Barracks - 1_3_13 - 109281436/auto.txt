@@ -1,0 +1,23 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1543175302 doodad hash 1498250103 (CLI_ACTIVATE_MAP)
+AUTO seed 109281436 The Ebony Barracks: dungeon area (capture captures/The Ebony Barracks - 1_3_13 - 109281436/stages_20261118_113214.csv)
+   dungeon (.dgr) pipeline: 6559 draws in 16 call sites (4 generator draws before it, 7515 after it - the post passes); no generator model yet
+   0x14203a8e0: 5 draws, bounds 100
+   0x142105ee9: 9 draws, bounds 100,200,300
+   0x1420fd32a: 9 draws, bounds 128
+   0x142012839: 1 draws, bounds 2
+   0x142001ee5: 2 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x142109942: 10 draws, bounds 100
+   0x142109cdf: 10 draws, bounds 100
+   0x142109cf6: 10 draws, bounds 840
+   0x1420efc0c: 959 draws, bounds 1,2,100,200,400,480,800,1600
+   0x1420f6875: 47 draws, bounds 200
+   0x141febf93: 2630 draws, bounds 1,2,100
+   0x141febfcf: 2433 draws, bounds 8
+   0x141fec0ea: 197 draws, bounds 1
+   0x141fec1d8: 197 draws, bounds 8
+   0x14202795d: 39 draws, bounds 100
+   tile grid: captures\The Ebony Barracks - 1_3_13 - 109281436\truth_3288459b448.tsv (75x120, 9000 cells) VERIFIED against tile hash 1543175302
+   walkable field: captures\The Ebony Barracks - 1_3_13 - 109281436\walkable_3288459b448_melee.png (17.4% of the sub-cells walkable, matches the tiles' hull field at IoU 0.931; 2 layer(s) read; stored for the grid as walkable_3288459b448_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Ebony Barracks - 1_3_13 - 109281436\minimap.png

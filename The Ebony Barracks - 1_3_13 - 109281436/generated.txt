@@ -1,0 +1,17 @@
+GENERATED The Ebony Barracks [1_3_13] seed 109281436
+   dgr simulator: GRID 75x120: 9000 cells with a tile -> E:\repos\POE Work\captures/The Ebony Barracks - 1_3_13 - 109281436\sim_109281436.tsv; tile hash over  | vs truth grid: 0 differing cells | HASH MATCH (6 s)
+   grid: captures\The Ebony Barracks - 1_3_13 - 109281436\sim_109281436.tsv (generator dgr, terrain -, capture status "dungeon trace")
+   layers: 75x120 cells -> 1725x2760 sub-cells; tile hull planes + 568 client doodads (the doodad stage replayed draw for draw) + 10 server objects' hulls
+   walkability gen_melee.png/.bin (17.4% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -128 .. 343 levels (-1000.0 .. 2679.7 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 464 specified by the level's files - tile .tmd records 35, room .arm lines 429; server (sent) 24, server-internal 1, client 439; 568 stage doodads in gen_doodads.tsv
+   server types: ModularLight_WideOrange_Static x10, AreaTransition x4, AxisEliteSoldierGuardShieldGravicius x4, AxisCasterGuardGravicius x4, GraffitiWarehouse x1, Waypoint x1, ProphecyMonsterLocator x1
+   client passes after the doodads: 9196 corner ground materials in gen_materials.tsv, 0 decals in gen_decals.tsv, 0 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+      ground materials: 9196 corners, 1240 of them drawn; every draw equals the log (1240, the generator running on from the pass before)
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_3288459b448.tsv: tiles 9000/9000 equal (path + orientation); cell heights 9000/9000 equal
+   vs the client's melee layer walkable_3288459b448_melee.bin: 99.9798% equal, IoU 0.9998 (0 sub-cells more open here, 964 more blocked; the tiles are equal: the rest is the doodad stage and the server objects' hulls, which only the client's layer holds)
+   vs the client's ranged layer walkable_3288459b448_ranged.bin: EXACT
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 24 s

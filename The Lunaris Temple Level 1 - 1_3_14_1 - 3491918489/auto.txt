@@ -1,0 +1,4 @@
+KNOWN The Lunaris Temple Level 1 [1_3_14_1] seed 3491918489: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 3138434048 (1 of 1 rows), last capture captures/The Lunaris Temple Level 1 - 1_3_14_1 - 3491918489/stages_20261118_113652.csv (dungeon trace)
+   this load's tile hash 3138434048 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\The Lunaris Temple Level 1 - 1_3_14_1 - 3491918489\truth_328a830d448.tsv): captures\The Lunaris Temple Level 1 - 1_3_14_1 - 3491918489\minimap.png
