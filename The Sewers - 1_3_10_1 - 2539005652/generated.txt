@@ -1,0 +1,17 @@
+GENERATED The Sewers [1_3_10_1] seed 2539005652
+   dgr simulator: GRID 59x109: 5502 cells with a tile -> E:\repos\POE Work\captures/The Sewers - 1_3_10_1 - 2539005652\sim_2539005652.tsv; tile hash over 5274 | vs truth grid: 0 differing cells | HASH MATCH (6 s)
+   grid: captures\The Sewers - 1_3_10_1 - 2539005652\sim_2539005652.tsv (generator dgr, terrain -, capture status "dungeon trace")
+   layers: 59x109 cells -> 1357x2507 sub-cells; tile hull planes + 417 client doodads (the doodad stage replayed draw for draw) + 0 server objects' hulls
+   walkability gen_melee.png/.bin (9.6% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -8 .. 37 levels (-62.5 .. 289.1 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 358 specified by the level's files - tile .tmd records 215, room .arm lines 143; server (sent) 12, server-internal 2, client 344; 417 stage doodads in gen_doodads.tsv
+   server types: AreaTransition x5, Waypoint x1, Stash3 x1, BioWall x1, CraftRecipeUnlockMarker x1, Stash2 x1, Stash1 x1, BlightPump x1
+   client passes after the doodads: 5700 corner ground materials in gen_materials.tsv, 0 decals in gen_decals.tsv, 0 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+      ground materials: 5700 corners, 0 of them drawn; the log ends before this pass - unchecked
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_52f353e6448.tsv: tiles 5502/5502 equal (path + orientation); cell heights 5502/5502 equal
+   vs the client's melee layer walkable_52f353e6448_melee.bin: EXACT
+   vs the client's ranged layer walkable_52f353e6448_ranged.bin: EXACT
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 18 s

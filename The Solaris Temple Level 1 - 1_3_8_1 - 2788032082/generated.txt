@@ -1,0 +1,17 @@
+GENERATED The Solaris Temple Level 1 [1_3_8_1] seed 2788032082
+   dgr simulator: GRID 65x65: 4225 cells with a tile -> E:\repos\POE Work\captures/The Solaris Temple Level 1 - 1_3_8_1 - 2788032082\sim_2788032082.tsv; tile  | vs truth grid: 1368 differing cells; first: (5,5) sim black.tdt o0 h0 (0,0) truth black.tdt o7 h0 (0,0); (6,5) sim black.tdt o3 h0 (0,0) tru (5 s)
+   grid: captures\The Solaris Temple Level 1 - 1_3_8_1 - 2788032082\sim_2788032082.tsv (generator dgr, terrain -, capture status "dungeon trace")
+   layers: 65x65 cells -> 1495x1495 sub-cells; tile hull planes + 172 client doodads (the doodad stage DIFFERS from the logged draws) + 8 server objects' hulls
+   walkability gen_melee.png/.bin (12.2% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -91 .. 32 levels (-710.9 .. 250.0 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 319 specified by the level's files - tile .tmd records 132, room .arm lines 187; server (sent) 51, server-internal 9, client 259; 172 stage doodads in gen_doodads.tsv
+   server types: Door x11, Spawner_GoldStatueMaleSword x8, ModularLight_WideOrange_Static x8, AmbushPointSmall x7, Spawner_GoldStatueFemaleSword x6, Spawner_GoldStatueFemaleBow x5, Spawner_GoldStatueMaleMaul x4, Spawner_GoldStatueFemaleMaul x3
+   client passes after the doodads: 4356 corner ground materials in gen_materials.tsv, 0 decals in gen_decals.tsv, 0 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+      ground materials: 4356 corners, 0 of them drawn; the log holds no draw of this pass - unchecked
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_52f200aec48.tsv: tiles 2857/4225 equal (path + orientation); cell heights 2857/2857 equal
+   vs the client's melee layer walkable_52f200aec48_melee.bin: 99.9339% equal, IoU 0.9987 (1030 sub-cells more open here, 447 more blocked; the generated tiles differ from the client's, and so do the layers)
+   vs the client's ranged layer walkable_52f200aec48_ranged.bin: 99.9636% equal, IoU 0.9998 (814 sub-cells more open here, 0 more blocked; the generated tiles differ from the client's, and so do the layers)
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 14 s

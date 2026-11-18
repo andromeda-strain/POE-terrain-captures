@@ -1,0 +1,4 @@
+KNOWN The Battlefront [1_3_7] seed 355599829: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 1497882746 (1 of 1 rows), last capture captures/The Battlefront - 1_3_7 - 355599829/stages_20261117_215145.csv (dungeon trace)
+   this load's tile hash 1497882746 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\The Battlefront - 1_3_7 - 355599829\truth_52f20737448.tsv): captures\The Battlefront - 1_3_7 - 355599829\minimap.png
