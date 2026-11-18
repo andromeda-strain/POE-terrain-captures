@@ -1,0 +1,11 @@
+sub	arm	x	y	o	src	tags
+1	Metadata/Terrain/Temple/Rooms_Cloister/Inner/inner_1.arm	6	42	7	node	
+1	Metadata/Terrain/Temple/Rooms_Cloister/Middle/middle_1.arm	6	24	1	node	
+1	Metadata/Terrain/Temple/Rooms_Cloister/Outer/room_2.arm	6	12	1	node	
+1	Metadata/Terrain/Temple/Rooms_Cloister/Outer/entrance_1.arm	6	0	7	node	default entrance1
+1	Metadata/Terrain/Temple/Rooms_Cloister/1x1/var_1.arm	12	6	7	node	
+2	Metadata/Terrain/Temple/Rooms_Bloodpool/Unique/special_brute_1.arm	24	48	4	node	
+2	Metadata/Terrain/Temple/Rooms_Bloodpool/Unique/transition_down_1b.arm	36	90	1	node	entrance2
+2	Metadata/Terrain/Temple/Rooms_Bloodpool/1x2/hall_3.arm	42	60	4	node	
+2	Metadata/Terrain/Temple/Rooms_Bloodpool/2x2/template_6b.arm	30	66	4	node	
+2	Metadata/Terrain/Temple/Rooms_Bloodpool/2x2/rooms_1.arm	36	78	7	node	

@@ -1,0 +1,42 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 3805130764 doodad hash 1957912576 (CLI_ACTIVATE_MAP)
+AUTO seed 3935235506 The Imperial Gardens: dungeon area (capture captures/The Imperial Gardens - 1_3_15 - 3935235506/stages_20261118_161225.csv)
+   dungeon (.dgr) pipeline: 8377 draws in 35 call sites (5 generator draws before it, 27541 after it - the post passes); no generator model yet
+   0x14203a8e0: 39 draws, bounds 100
+   0x142105ee9: 16 draws, bounds 1,100
+   0x14200c0e1: 17 draws, bounds 100,120,140,150,170
+   0x142107272: 8 draws, bounds 1300,1424,2700,4200
+   0x1420fd32a: 722 draws, bounds 128
+   0x142012839: 10 draws, bounds 1,3,5,13
+   0x1420fd640: 750 draws, bounds 410,462,952,1300,1302,1424,1504,4200
+   0x142001ee5: 91 draws, bounds 1,2
+   0x1420fc763: 1 draws, bounds 8
+   0x142100f13: 40 draws, bounds 0,1,2
+   0x142101086: 6 draws, bounds 100
+   0x14210862e: 50 draws, bounds 2,11,41,110,200,300,410,1000,2500,3600,4100,5100,...
+   0x14210871c: 50 draws, bounds 840
+   0x142108799: 2 draws, bounds 1000,2500
+   0x1421087b9: 2 draws, bounds 840
+   0x142109942: 34 draws, bounds 100
+   0x142109cdf: 34 draws, bounds 100
+   0x142109cf6: 34 draws, bounds 840
+   0x142101b93: 4 draws, bounds 2,4,6
+   0x1420ff711: 6 draws, bounds 1,8,9,12,13
+   0x1420ff72b: 6 draws, bounds 1,2
+   0x1421029c7: 1 draws, bounds 5
+   0x142102c41: 1 draws, bounds 840
+   0x1420efc0c: 1100 draws, bounds 100,200,400,800,1000,1400,1600,1980
+   0x141d8b5ab: 1 draws, bounds 1
+   0x141fe9a73: 9 draws, bounds 800
+   0x1420f6875: 551 draws, bounds 100,200,400
+   0x1420f45dc: 45 draws, bounds 1,2,3
+   0x1420f47d8: 42 draws, bounds 1
+   0x1420f4807: 45 draws, bounds 400
+   0x141febf93: 2224 draws, bounds 1,5,100
+   0x141febfcf: 2038 draws, bounds 8
+   0x141fec0ea: 186 draws, bounds 1
+   0x141fec1d8: 186 draws, bounds 8
+   0x14202795d: 26 draws, bounds 100
+   tile grid: captures\The Imperial Gardens - 1_3_15 - 3935235506\truth_39b5156ec48.tsv (81x93, 7533 cells) VERIFIED against tile hash 3805130764
+   walkable field: captures\The Imperial Gardens - 1_3_15 - 3935235506\walkable_39b5156ec48_melee.png (18.6% of the sub-cells walkable, matches the tiles' hull field at IoU 0.967; 2 layer(s) read; stored for the grid as walkable_39b5156ec48_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Imperial Gardens - 1_3_15 - 3935235506\minimap.png

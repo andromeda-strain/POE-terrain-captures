@@ -4,14 +4,11 @@ sub	arm	x	y	o	src	tags
 1	Metadata/Terrain/Temple/Rooms_Cloister/Outer/room_2.arm	30	12	1	node	
 1	Metadata/Terrain/Temple/Rooms_Cloister/Outer/entrance_1.arm	30	0	7	node	default entrance1
 1	Metadata/Terrain/Temple/Rooms_Cloister/1x1/var_1.arm	36	6	3	node	
-1	Metadata/Terrain/Leagues/Deepwater/TerrainFeatures/DeepwaterEncounter_GiantCoral_01.arm	36	16	0	fill	
+1	Metadata/Terrain/vaal_side_area.arm	36	16	0	fill	
 2	Metadata/Terrain/Temple/Rooms_Bloodpool/Unique/special_brute_1.arm	18	48	0	node	
 2	Metadata/Terrain/Temple/Rooms_Bloodpool/Unique/transition_down_1b.arm	6	90	1	node	entrance2
-2	Metadata/Terrain/Temple/Rooms_Bloodpool/1x1/template_3.arm	6	60	3	node	
-2	Metadata/Terrain/Temple/Rooms_Bloodpool/1x2/template_4b.arm	18	66	6	node	
-2	Metadata/Terrain/Temple/Rooms_Bloodpool/2x2/template_4.arm	6	48	5	node	
-2	Metadata/Terrain/Temple/Rooms_Bloodpool/1x1/template_3.arm	12	60	4	node	
-2	Metadata/Terrain/Temple/Rooms_Bloodpool/1x2/template_4b.arm	18	84	6	node	
-2	Metadata/Terrain/Temple/Rooms_Bloodpool/1x1/template_3.arm	12	66	6	node	
-2	Metadata/Terrain/Temple/Rooms_Bloodpool/1x1/template_3.arm	12	84	7	node	
-2	Metadata/Terrain/Temple/Rooms_Bloodpool/2x2/rooms_2.arm	18	72	6	node	
+2	Metadata/Terrain/Temple/Rooms_Bloodpool/1x2/template_7.arm	6	60	3	node	
+2	Metadata/Terrain/Temple/Rooms_Bloodpool/2x2/template_6b.arm	18	66	0	node	
+2	Metadata/Terrain/Temple/Rooms_Bloodpool/1x2/hall_4.arm	18	78	5	node	
+2	Metadata/Terrain/Temple/Rooms_Bloodpool/2x2/template_4.arm	6	78	4	node	
+2	Metadata/Terrain/Temple/Rooms_Bloodpool/1x1/template_2.arm	12	66	2	node	

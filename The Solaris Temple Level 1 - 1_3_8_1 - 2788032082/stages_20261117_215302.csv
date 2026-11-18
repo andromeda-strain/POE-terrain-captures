@@ -1,7 +1,7 @@
 seq,time,tid,kind,caller,bound_or_min,max,result,data
 0,344669.5648431,8960,FASTDRAWS,,0,0,0,null flag unreadable: entry + return per draw
 1,344669.5648431,8960,GEN,0x14152d94c,0,0,0,level generator entry ctx 0xf51d3ff790
-2,344669.565378,8960,draw,0x142067a14,100,0,52,
+2,344669.565378,8960,draw,0x14204ad87,100,0,52,
 3,344669.5656944,8960,draw,0x142054a6b,100,0,53,
 4,344669.565997,8960,draw,0x142046a9d,4294967295,0,656034865,
 5,344669.5790519,8960,DUNGEON,0x1420455ab,0,0,0,dungeon pipeline entry

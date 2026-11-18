@@ -22,3 +22,4 @@ clear after detach: all 61 threads verified clear
 detached; client keeps running
 32902 events written to captures\stages_20261117_162352.csv
 WARNING: 441 logged caller(s) lie in functions the address map does not pair; those rows carry the plain rebase
+--- 2026-11-18 16:44:50 tools/site_pairs.py --fix-csv: unpaired callers renamed to their trace-space sites: 0x142067a14 -> 0x14204ad87 x1
