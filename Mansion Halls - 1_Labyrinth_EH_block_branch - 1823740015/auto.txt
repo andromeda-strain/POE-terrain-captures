@@ -1,0 +1,28 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 2142377277 doodad hash 25682721 (CLI_ACTIVATE_MAP)
+AUTO seed 1823740015 Mansion Halls: dungeon area (capture captures/Mansion Halls - 1_Labyrinth_EH_block_branch - 1823740015/stages_20261118_215031.csv)
+   dungeon (.dgr) pipeline: 2691 draws in 21 call sites (2 generator draws before it, 6498 after it - the post passes); no generator model yet
+   0x14204f329: 1 draws, bounds 2
+   0x14203a8e0: 13 draws, bounds 100
+   0x142105ee9: 6 draws, bounds 1,2,800
+   0x14200c0e1: 9 draws, bounds 100,200,300
+   0x142107272: 4 draws, bounds 2957
+   0x1420fd32a: 34 draws, bounds 128
+   0x142012839: 1 draws, bounds 11
+   0x1420fd640: 42 draws, bounds 2957
+   0x142001ee5: 19 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x142100f13: 14 draws, bounds 0,1,2
+   0x142101086: 1 draws, bounds 100
+   0x14210862e: 11 draws, bounds 2860,18245,20910,23810
+   0x14210871c: 11 draws, bounds 840
+   0x142108799: 1 draws, bounds 2860
+   0x1421087b9: 1 draws, bounds 840
+   0x1420efc0c: 917 draws, bounds 1,2,8,12,100,200,400,600,800,1000,1200,1600,...
+   0x1420f6875: 50 draws, bounds 200,1000
+   0x141febf93: 777 draws, bounds 100
+   0x141febfcf: 777 draws, bounds 8
+   0x14202795d: 1 draws, bounds 11
+   tile grid: captures\Mansion Halls - 1_Labyrinth_EH_block_branch - 1823740015\truth_39b93426448.tsv (73x65, 4745 cells) VERIFIED against tile hash 2142377277
+   walkable field: captures\Mansion Halls - 1_Labyrinth_EH_block_branch - 1823740015\walkable_39b93426448_melee.png (17.0% of the sub-cells walkable, matches the tiles' hull field at IoU 0.986; 2 layer(s) read; stored for the grid as walkable_39b93426448_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Mansion Halls - 1_Labyrinth_EH_block_branch - 1823740015\minimap.png

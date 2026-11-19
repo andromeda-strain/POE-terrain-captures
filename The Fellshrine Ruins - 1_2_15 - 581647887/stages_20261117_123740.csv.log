@@ -25,3 +25,4 @@ detached; client keeps running
 WARNING: 1250 logged caller(s) lie in functions the address map does not pair; those rows carry the plain rebase
 --- 2026-11-18 14:01:07 tools/site_pairs.py --fix-csv: unpaired callers renamed to their trace-space sites: 0x141ff145b -> 0x141fe90a5 x221, 0x141ff1527 -> 0x141fe9173 x201, 0x141ff1574 -> 0x141fe91c1 x6, 0x141ff16ba -> 0x141fe930a x16
 --- 2026-11-18 16:44:49 tools/site_pairs.py --fix-csv: unpaired callers renamed to their trace-space sites: 0x142067a14 -> 0x14204ad87 x1, 0x142068868 -> 0x14204bac4 x1
+--- 2026-11-18 21:51:56 tools/site_pairs.py --fix-csv: unpaired callers renamed to their trace-space sites: 0x1415bdb1c -> 0x141544f0c x153, 0x1415bdb26 -> 0x141544f16 x153, 0x1415bde2a -> 0x14154526b x54, 0x1415bde5d -> 0x14154529b x54, 0x1415bde7f -> 0x1415452bd x54

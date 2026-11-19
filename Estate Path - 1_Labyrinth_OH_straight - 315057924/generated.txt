@@ -1,0 +1,17 @@
+GENERATED Estate Path [1_Labyrinth_OH_straight] seed 315057924
+   dgr simulator: GRID 85x73: 6205 cells with a tile -> E:\repos\POE Work\captures/Estate Path - 1_Labyrinth_OH_straight - 315057924\sim_315057924.tsv; tile h | vs truth grid: 2241 differing cells; first: (28,0) sim black.tdt o0 h16 (0,0) truth black.tdt o0 h0 (0,0); (29,0) sim black.tdt o0 h16 (0,0) (4 s)
+   grid: captures\Estate Path - 1_Labyrinth_OH_straight - 315057924\sim_315057924.tsv (generator dgr, terrain -, capture status "dungeon trace")
+   layers: 85x73 cells -> 1955x1679 sub-cells; tile hull planes + 381 client doodads (the doodad stage DIFFERS from the logged draws) + 2 server objects' hulls
+   walkability gen_melee.png/.bin (12.4% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: 0 .. 66 levels (0.0 .. 515.6 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 554 specified by the level's files - tile .tmd records 153, room .arm lines 401; server (sent) 48, server-internal 14, client 492; 381 stage doodads in gen_doodads.tsv
+   server types: AmbushPoint x14, Rail_Invisible x7, Spawner_LabyrinthStatueLargeFemaleSpear x6, Spawner_LabyrinthStatueLargeMaleSpear x5, Spawner_LabyrinthStatueLargeFemaleUnarmed x5, Spawner_LabyrinthStatueLargeMaleSword x3, LabyrinthRollerTrap_03 x3, LabyrinthRollerTrap_02 x3
+   client passes after the doodads: 6364 corner ground materials in gen_materials.tsv, 0 decals in gen_decals.tsv, 0 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+      ground materials: 6364 corners, 450 of them drawn; DIFFERS from the log at ('row 1063', 'material at corner (32,9) ground None', 73, 38, ('0x141530658', 50, 7))
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_39b93403c48.tsv: tiles 4251/6205 equal (path + orientation); cell heights 3964/4251 equal
+   vs the client's melee layer walkable_39b93403c48_melee.bin: 94.3630% equal, IoU 0.7284 (92135 sub-cells more open here, 92895 more blocked; the generated tiles differ from the client's, and so do the layers)
+   vs the client's ranged layer walkable_39b93403c48_ranged.bin: 94.9285% equal, IoU 0.8205 (73837 sub-cells more open here, 92632 more blocked; the generated tiles differ from the client's, and so do the layers)
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 15 s

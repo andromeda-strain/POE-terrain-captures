@@ -1,0 +1,18 @@
+GENERATED The Aqueduct [1_4_1] seed 4140871691
+   dgr simulator: GRID 48x168: 8064 cells with a tile -> E:\repos\POE Work\captures/The Aqueduct - 1_4_1 - 4140871691\sim_4140871691.tsv; tile hash over 1981  | vs truth grid: 0 differing cells | HASH MATCH (4 s)
+   grid: captures\The Aqueduct - 1_4_1 - 4140871691\sim_4140871691.tsv (generator dgr, terrain -, capture status "dungeon trace")
+   layers: 48x168 cells -> 1104x3864 sub-cells; tile hull planes + 300 client doodads (no draw log: the stage run from the terrain's last word) + 0 server objects' hulls
+   walkability gen_melee.png/.bin (6.8% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -40 .. 66 levels (-312.5 .. 515.6 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 389 specified by the level's files - tile .tmd records 87, room .arm lines 302; server (sent) 6, server-internal 0, client 383; 300 stage doodads in gen_doodads.tsv
+   server types: Waypoint x1, SewersGrateTransition x1, SewersGrate x1, AreaTransition x1, HighgateNote x1, DiallaAqueduct x1
+   client passes after the doodads: 8281 corner ground materials in gen_materials.tsv, 0 decals in gen_decals.tsv, 0 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+      ground materials: 8281 corners, 13186 of them drawn; no draw log to check against
+      decals: 2419 attempts, 0 placed; no draw log to check against
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_39b9341ec48.tsv: tiles 8064/8064 equal (path + orientation); cell heights 8064/8064 equal
+   vs the client's melee layer walkable_39b9341ec48_melee.bin: EXACT
+   vs the client's ranged layer walkable_39b9341ec48_ranged.bin: EXACT
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 21 s

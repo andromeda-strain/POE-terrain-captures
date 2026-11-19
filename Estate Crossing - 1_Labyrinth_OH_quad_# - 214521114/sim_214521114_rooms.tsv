@@ -1,0 +1,20 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/Unique/entrance_main.arm	36	12	0	node	entrance1 default
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/2x2/outdoor_entry_concave_var2_2.arm	18	18	0	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/2x2/outdoor_entry_straight_var4_1.arm	30	30	3	node	secret1
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/Unique/rooms_entrance_01.arm	12	30	0	node	entrance2
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/Unique/rooms_entrance_03.arm	54	36	3	node	entrance4 accessible
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/Unique/rooms_entrance_01.arm	30	42	0	node	entrance3
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/Unique/secret_01.arm	12	6	2	node	secret
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/2x2/outdoor_entry_straight_var4_1.arm	42	30	3	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/Unique/secret_01.arm	36	42	0	node	secret
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/Unique/lore_override_blank.arm	30	24	0	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/1x1/outdoor_wall_concave_01.arm	54	30	0	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/2x2/outdoor_wall_concave_02.arm	48	18	4	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/2x2/Trap/2x2_trap_05.arm	6	18	1	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/1x1/outdoor_gardenfill_var2_1.arm	36	24	5	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/1x1/int_cap_01.arm	24	12	0	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/2x2/outdoor_wall_concave_01.arm	18	30	6	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/1x1/Trap/indoor_trap_var2_2.arm	48	42	0	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/1x1/outdoor_wall_straight_01.arm	30	18	2	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/OutdoorHouse/1x1/outdoor_gardenfill_var2_4.arm	42	24	5	node	

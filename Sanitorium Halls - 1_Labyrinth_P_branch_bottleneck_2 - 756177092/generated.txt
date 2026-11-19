@@ -1,0 +1,19 @@
+GENERATED Sanitorium Halls [1_Labyrinth_P_branch_bottleneck_2] seed 756177092
+   dgr simulator: GRID 47x47: 2209 cells with a tile -> E:\repos\POE Work\captures/Sanitorium Halls - 1_Labyrinth_P_branch_bottleneck_2 - 756177092\sim_756177 | vs truth grid: 746 differing cells; first: (13,0) sim black.tdt o0 h16 (0,0) truth black.tdt o0 h0 (0,0); (14,0) sim black.tdt o0 h16 (0,0)  (3 s)
+   grid: captures\Sanitorium Halls - 1_Labyrinth_P_branch_bottleneck_2 - 756177092\sim_756177092.tsv (generator dgr, terrain -, capture status "dungeon trace")
+   layers: 47x47 cells -> 1081x1081 sub-cells; tile hull planes + 32 client doodads (the doodad stage DIFFERS from the logged draws) + 4 server objects' hulls
+   walkability gen_melee.png/.bin (11.5% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -3 .. 23 levels (-23.4 .. 179.7 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 137 specified by the level's files - tile .tmd records 51, room .arm lines 86; server (sent) 68, server-internal 2, client 67; 32 stage doodads in gen_doodads.tsv
+   server types: LabyrinthCascadeSpikeTrap x30, Door x13, LabyrinthAbyssEdgeBlade x7, LabyrinthSpikeTrap_Pressure x6, AreaTransitionToggleable x3, LabyrinthMap x3, Trigger_Delay_4_2WG x2, Trigger_Delay_4_0WG x2
+   client passes after the doodads: 2304 corner ground materials in gen_materials.tsv, 127 decals in gen_decals.tsv, 0 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+      ground materials: 2304 corners, 344 of them drawn; every draw equals the log (344, the generator set on the log)
+      decals: 1546 attempts, 127 placed; DIFFERS from the log at ('row 3333', 'x', 1081, 765, ('0x14152eb38', 512, 222))
+      critters: 442 attempts, 0 placed; DIFFERS from the log at ('row 3333', 'x', 1081, 765, ('0x14152eb38', 512, 222))
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_39b51568c48.tsv: tiles 1514/2209 equal (path + orientation); cell heights 1463/1514 equal
+   vs the client's melee layer walkable_39b51568c48_melee.bin: 91.7405% equal, IoU 0.5533 (52412 sub-cells more open here, 44105 more blocked; the generated tiles differ from the client's, and so do the layers)
+   vs the client's ranged layer walkable_39b51568c48_ranged.bin: 91.1697% equal, IoU 0.6780 (46852 sub-cells more open here, 56336 more blocked; the generated tiles differ from the client's, and so do the layers)
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 11 s

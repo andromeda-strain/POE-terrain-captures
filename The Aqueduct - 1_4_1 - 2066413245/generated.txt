@@ -1,0 +1,16 @@
+GENERATED The Aqueduct [1_4_1] seed 2066413245
+   dgr simulator: GRID 48x168: 8064 cells with a tile -> E:\repos\POE Work\captures/The Aqueduct - 1_4_1 - 2066413245\sim_2066413245.tsv; tile hash over 2014  | vs truth grid: 0 differing cells | HASH MATCH (3 s)
+   grid: captures\The Aqueduct - 1_4_1 - 2066413245\sim_2066413245.tsv (generator dgr, terrain -, capture status "dungeon trace")
+   layers: 48x168 cells -> 1104x3864 sub-cells; tile hull planes + 308 client doodads (no draw log: the stage run from the terrain's last word) + 0 server objects' hulls
+   walkability gen_melee.png/.bin (7.7% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -115 .. 66 levels (-898.4 .. 515.6 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 375 specified by the level's files - tile .tmd records 65, room .arm lines 310; server (sent) 4, server-internal 0, client 371; 308 stage doodads in gen_doodads.tsv
+   server types: Waypoint x1, AreaTransition x1, HighgateNote x1, DiallaAqueduct x1
+   client passes after the doodads: 8281 corner ground materials in gen_materials.tsv, 0 decals in gen_decals.tsv, 0 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+      ground materials: 8281 corners, 12915 of them drawn; no draw log to check against
+      decals: 2419 attempts, 0 placed; no draw log to check against
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_39b92d36448.tsv: tiles 8064/8064 equal (path + orientation); cell heights 8064/8064 equal
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 13 s
