@@ -1,0 +1,145 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/Int/Int	998	229	4.800 rad	2621544766	1_Labyrinth_boss_2_end					
+Metadata/NPC/Labyrinth/LabyrinthGlyph4	851	216	0.000 rad	582432008	1_Labyrinth_boss_2_end					
+Monster: Plumed Chimeral [Metadata/Monsters/GemMonster/Iguana@42]	998	229	3.559 rad	20135628	1_Labyrinth_boss_2_end					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	998	229	0.933 rad	4014866653	1_Labyrinth_boss_2_end					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	998	229	4.835 rad	4014866653	1_Labyrinth_boss_2_end					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	998	229	1.424 rad	4014866653	1_Labyrinth_boss_2_end					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	998	229	3.362 rad	4014866653	1_Labyrinth_boss_2_end					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	998	229	4.614 rad	4014866653	1_Labyrinth_boss_2_end					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	998	229	1.963 rad	4014866653	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	998	229	0.209 rad	2646652649	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1021	230	4.712 rad	726109394	1_Labyrinth_boss_2_end	36	-287.200	5	19515	Estate Crossing
+Monster: Lieutenant of Rage [Metadata/Monsters/Labyrinth/LabyrinthLieutenantSkeletonMeleeIce2@33]	771	291	0.785 rad	1663308421	1_Labyrinth_boss_2_end					
+Monster: Daemon [Metadata/Monsters/Daemon/ProjectileRetaliationDaemon@33]	771	291	5.179 rad	1661579240	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/Stash	850	294	0.000 rad	2817685266	1_Labyrinth_boss_2_end					
+Object: Metadata/Terrain/Labyrinth/Objects/IzaroSpeech/BossPrefight	850	282	0.000 rad	2533565343	1_Labyrinth_boss_2_end					
+Metadata/NPC/Labyrinth/WeylinGlyph5	907	293	6.104 rad	4146856745	1_Labyrinth_boss_2_end					
+Monster: Lieutenant of the Mace [Metadata/Monsters/Labyrinth/LabyrinthLieutenantSkeletonMelee2@33]	771	309	0.785 rad	1836860953	1_Labyrinth_boss_2_end					
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthIzaroArenaTransition	850	368	0.000 rad	2191327818	1_Labyrinth_boss_2_end	51	-399.193	1	50	Stairs (ClientStrings 50)
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthIzaroDoor	850	368	0.000 rad	2749829868	1_Labyrinth_boss_2_end	27	-215.949			
+Object: Metadata/MiscellaneousObjects/AreaTransition	712	285	0.000 rad	726109394	1_Labyrinth_boss_2_end	36	-287.200	5	37321	Mansion Passage
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthIzaroArenaDoor	885	720	0.000 rad	330337242	1_Labyrinth_boss_2_end	-5	44.497			
+Object: Metadata/Terrain/Labyrinth/Objects/BossObjectiveBlocker	964	793	4.712 rad	1130831964	1_Labyrinth_boss_2_end	4	-34.324			
+Monster: Izaro [Metadata/Monsters/Labyrinth/LabyrinthBossOneHandAndShield@33]	897	827	0.000 rad	813208571	1_Labyrinth_boss_2_end					
+Object: Metadata/Terrain/Labyrinth/Objects/Elevator_Izaro	897	827	0.000 rad	3232749252	1_Labyrinth_boss_2_end	0	0.000			
+Monster: Goddess of Justice [Metadata/Monsters/Labyrinth/GoddessOfJustice@33]	897	827	5.571 rad	640377063	1_Labyrinth_boss_2_end					
+Monster: Lieutenant of the Mace [Metadata/Monsters/Labyrinth/LabyrinthLieutenantSkeletonMelee2@33]	965	869	5.266 rad	1836860953	1_Labyrinth_boss_2_end					
+Object: Metadata/Terrain/Labyrinth/Objects/BossObjectiveBlocker	964	885	4.712 rad	1130831964	1_Labyrinth_boss_2_end	4	-34.324			
+Monster: Lieutenant of Rage [Metadata/Monsters/Labyrinth/LabyrinthLieutenantSkeletonMeleeIce2@33]	974	885	5.358 rad	1663308421	1_Labyrinth_boss_2_end					
+Monster: Daemon [Metadata/Monsters/Daemon/ProjectileRetaliationDaemon@33]	974	885	5.203 rad	1661579240	1_Labyrinth_boss_2_end					
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthIzaroArenaDoor	885	953	0.000 rad	330337242	1_Labyrinth_boss_2_end	0	-0.000			
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	884	807	3.017 rad	90915766	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	884	807	3.017 rad	90915766	1_Labyrinth_boss_2_end					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	884	808	3.387 rad	605215126	1_Labyrinth_boss_2_end					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	887	807	3.706 rad	605215126	1_Labyrinth_boss_2_end					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	872	821	4.590 rad	605215126	1_Labyrinth_boss_2_end					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	874	818	5.130 rad	605215126	1_Labyrinth_boss_2_end					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	870	815	5.375 rad	605215126	1_Labyrinth_boss_2_end					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	873	815	5.473 rad	605215126	1_Labyrinth_boss_2_end					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	867	822	0.565 rad	605215126	1_Labyrinth_boss_2_end					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	875	821	4.369 rad	605215126	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	884	808	3.387 rad	2646652649	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	897	799	1.212 rad	2646652649	1_Labyrinth_boss_2_end					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	868	812	2.209 rad	605215126	1_Labyrinth_boss_2_end					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	876	815	0.565 rad	605215126	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	875	818	1.107 rad	2646652649	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	884	807	3.017 rad	90915766	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	885	807	2.897 rad	90915766	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	885	807	2.897 rad	90915766	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	885	807	2.897 rad	90915766	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	885	807	2.897 rad	90915766	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	884	806	3.000 rad	90915766	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	885	807	2.897 rad	90915766	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	884	807	3.017 rad	90915766	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	884	807	3.017 rad	90915766	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	884	807	3.017 rad	90915766	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	884	807	3.017 rad	90915766	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	884	807	3.017 rad	90915766	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	914	804	2.090 rad	90915766	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	914	805	2.191 rad	90915766	1_Labyrinth_boss_2_end					
+Monster: Guardian of the Goddess [Metadata/Monsters/Skeletons/IzaroSummonSkeletonGhostflame@33]	872	880	5.719 rad	645389967	1_Labyrinth_boss_2_end					
+Monster: Guardian of the Goddess [Metadata/Monsters/Skeletons/IzaroSummonSkeletonGhostflame@33]	867	875	2.430 rad	645389967	1_Labyrinth_boss_2_end					
+Monster: Guardian of the Goddess [Metadata/Monsters/Skeletons/IzaroSummonSkeletonGhostflame@33]	837	890	5.645 rad	645389967	1_Labyrinth_boss_2_end					
+Monster: Guardian of the Goddess [Metadata/Monsters/Skeletons/IzaroSummonSkeletonGhostflame@33]	832	885	2.626 rad	645389967	1_Labyrinth_boss_2_end					
+Monster: Guardian of the Goddess [Metadata/Monsters/Skeletons/IzaroSummonSkeletonGhostflame@33]	882	847	0.123 rad	645389967	1_Labyrinth_boss_2_end					
+Monster: Guardian of the Goddess [Metadata/Monsters/Skeletons/IzaroSummonSkeletonGhostflame@33]	877	842	1.595 rad	645389967	1_Labyrinth_boss_2_end					
+Monster: Guardian of the Goddess [Metadata/Monsters/Skeletons/IzaroSummonSkeletonGhostflame@33]	896	882	2.602 rad	645389967	1_Labyrinth_boss_2_end					
+Monster: Guardian of the Goddess [Metadata/Monsters/Skeletons/IzaroSummonSkeletonGhostflame@33]	891	877	3.682 rad	645389967	1_Labyrinth_boss_2_end					
+Monster: Guardian of the Goddess [Metadata/Monsters/Skeletons/IzaroSummonSkeletonGhostflame@33]	867	879	0.736 rad	645389967	1_Labyrinth_boss_2_end					
+Monster: Guardian of the Goddess [Metadata/Monsters/Skeletons/IzaroSummonSkeletonGhostflame@33]	862	874	3.632 rad	645389967	1_Labyrinth_boss_2_end					
+Monster: Guardian of the Goddess [Metadata/Monsters/Skeletons/IzaroSummonSkeletonGhostflame@33]	831	879	4.541 rad	645389967	1_Labyrinth_boss_2_end					
+Monster: Guardian of the Goddess [Metadata/Monsters/Skeletons/IzaroSummonSkeletonGhostflame@33]	836	879	3.485 rad	645389967	1_Labyrinth_boss_2_end					
+Monster: Guardian of the Goddess [Metadata/Monsters/Skeletons/IzaroSummonSkeletonGhostflame@33]	842	908	5.571 rad	645389967	1_Labyrinth_boss_2_end					
+Monster: Guardian of the Goddess [Metadata/Monsters/Skeletons/IzaroSummonSkeletonGhostflame@33]	837	903	2.970 rad	645389967	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	884	835	0.983 rad	2646652649	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	889	841	1.212 rad	2646652649	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	872	858	6.086 rad	2646652649	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	883	861	0.644 rad	2646652649	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	890	861	6.065 rad	2646652649	1_Labyrinth_boss_2_end					
+Metadata/Effects/SleepableServerEffect	902	792	2.956 rad	147346500	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	885	854	3.142 rad	2646652649	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	884	846	4.249 rad	2646652649	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	880	853	4.038 rad	2646652649	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	925	840	5.176 rad	2646652649	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	925	840	5.176 rad	2646652649	1_Labyrinth_boss_2_end					
+Metadata/Effects/SleepableServerEffect	914	842	2.030 rad	147346500	1_Labyrinth_boss_2_end					
+Metadata/Effects/SleepableServerEffect	914	842	5.149 rad	147346500	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	867	857	2.601 rad	2646652649	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	883	788	2.266 rad	90915766	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	866	848	1.893 rad	2646652649	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	867	859	0.165 rad	2646652649	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	865	849	2.034 rad	2646652649	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	876	862	5.034 rad	2646652649	1_Labyrinth_boss_2_end					
+Object: Metadata/Effects/ServerEffect	875	856	5.820 rad	2646652649	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	916	833	5.843 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	919	831	2.931 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	916	833	1.819 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	916	833	4.320 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	916	833	0.104 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/AreaTransition	885	732	0.000 rad	726109394	1_Labyrinth_boss_2_end	4	-33.095	1	50	Stairs (ClientStrings 50)
+Object: Metadata/MiscellaneousObjects/WorldItem	904	792	3.527 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	904	792	0.086 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	904	792	3.078 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	908	789	3.127 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	904	792	0.633 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	904	792	0.836 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	904	792	6.169 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	904	792	3.429 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	904	792	0.166 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	904	792	4.811 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/AreaTransition	885	954	0.000 rad	726109394	1_Labyrinth_boss_2_end	24	-192.090	1	2680447732	
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	926	800	3.661 rad	90915766	1_Labyrinth_boss_2_end					
+Metadata/Effects/SleepableServerEffect	914	842	4.900 rad	147346500	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	920	838	5.567 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	923	836	2.851 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	923	839	1.413 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	920	841	1.751 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	920	838	0.485 rad	1418889786	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	920	839	2.090 rad	90915766	1_Labyrinth_boss_2_end					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	908	855	0.405 rad	90915766	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/AreaTransition	241	916	0.000 rad	726109394	1_Labyrinth_boss_2_end	4	-33.095	1	50	Stairs (ClientStrings 50)
+Object: Metadata/Terrain/Labyrinth/Objects/IzaroSpeech/LabyrinthComplete	241	934	3.142 rad	892751913	1_Labyrinth_boss_2_end					
+Metadata/Chests/Labyrinth/Izaro/IzaroChestBase	224	958	1.571 rad	3395972932	1_Labyrinth_boss_2_end					
+Metadata/Chests/Labyrinth/Izaro/IzaroChestBase	258	958	4.712 rad	3395972932	1_Labyrinth_boss_2_end					
+Metadata/Chests/Labyrinth/Izaro/IzaroChestBase	202	983	3.142 rad	3395972932	1_Labyrinth_boss_2_end					
+Metadata/Chests/Labyrinth/Izaro/IzaroChestBase	224	980	1.571 rad	3395972932	1_Labyrinth_boss_2_end					
+Metadata/Chests/Labyrinth/Izaro/IzaroChestBase	258	980	4.712 rad	3395972932	1_Labyrinth_boss_2_end					
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthBlessingBench	308	1000	4.712 rad	4014230380	1_Labyrinth_boss_2_end					
+Metadata/Chests/Labyrinth/Izaro/IzaroChestBase	202	1017	0.000 rad	3395972932	1_Labyrinth_boss_2_end					
+Metadata/Chests/Labyrinth/Izaro/IzaroChestBase	224	1020	1.571 rad	3395972932	1_Labyrinth_boss_2_end					
+Metadata/Chests/Labyrinth/Izaro/IzaroChestBase	258	1020	4.712 rad	3395972932	1_Labyrinth_boss_2_end					
+Metadata/Chests/Labyrinth/Izaro/IzaroChestBase	224	1042	1.571 rad	3395972932	1_Labyrinth_boss_2_end					
+Metadata/Chests/Labyrinth/Izaro/IzaroChestBase	258	1042	4.712 rad	3395972932	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/Stash	298	1046	5.236 rad	2817685266	1_Labyrinth_boss_2_end					
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthReturnPortal	172	1137	0.000 rad	1691509929	1_Labyrinth_boss_2_end	0	5.435			
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthAscendancyDevice	255	1129	5.498 rad	592560892	1_Labyrinth_boss_2_end	0	-0.000			
+Object: Metadata/MiscellaneousObjects/WorldItem	230	977	0.455 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	230	977	4.836 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	230	977	2.630 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	230	977	3.951 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	230	977	2.796 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	231	977	2.187 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	230	977	5.653 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	230	977	1.315 rad	1418889786	1_Labyrinth_boss_2_end					
+Object: Metadata/MiscellaneousObjects/WorldItem	231	977	3.232 rad	1418889786	1_Labyrinth_boss_2_end					

@@ -1,0 +1,1015 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/Int/Int	993	345	4.451 rad	2621544766	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1021	344	4.712 rad	726109394	1_Labyrinth_OH_quad_#	36	-287.200	5	24410	Mansion Halls
+Monster: Plumed Chimeral [Metadata/Monsters/GemMonster/Iguana@42]	993	345	1.252 rad	20135628	1_Labyrinth_OH_quad_#					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	993	345	5.301 rad	4014866653	1_Labyrinth_OH_quad_#					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	993	345	0.712 rad	4014866653	1_Labyrinth_OH_quad_#					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	993	345	0.491 rad	4014866653	1_Labyrinth_OH_quad_#					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	993	345	3.485 rad	4014866653	1_Labyrinth_OH_quad_#					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	993	345	5.817 rad	4014866653	1_Labyrinth_OH_quad_#					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	993	345	2.577 rad	4014866653	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	993	345	5.118 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthMap	996	383	4.712 rad	743524113	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1157	502	6.087 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	865	519	4.295 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	856	527	3.412 rad	1871906559	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest19	926	518	1.484 rad	2183838137	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest12	1025	510	4.712 rad	2121128972	1_Labyrinth_OH_quad_#					
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	1085	527	2.970 rad	1179189375	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1142	527	4.663 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1154	523	2.749 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1170	528	2.356 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1195	506	2.135 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1201	520	5.473 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1208	526	0.982 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1219	515	0.491 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	857	537	2.700 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	868	536	2.332 rad	1871906559	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/Female/Spawner_LabyrinthStatueFemaleMaul	954	540	0.000 rad	699825383	1_Labyrinth_OH_quad_#	0	-0.000			
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleUnarmed	977	535	0.000 rad	1043451851	1_Labyrinth_OH_quad_#	0	-0.000			
+Object: Metadata/Monsters/Statue/Male/Spawner_LabyrinthStatueMaleMaul	1000	540	0.000 rad	823135795	1_Labyrinth_OH_quad_#	0	-0.000			
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	1068	551	5.670 rad	1179189375	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1065	535	5.473 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1072	546	2.994 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1071	537	0.712 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Maze Needleback [Metadata/Monsters/Spiker/SpikerLabyrinth@33]	1093	536	1.178 rad	1053852943	1_Labyrinth_OH_quad_#					
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	1103	541	4.884 rad	1179189375	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1087	542	2.577 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1093	549	4.614 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1165	533	3.019 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1196	530	3.362 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1208	534	2.823 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Daemon [Metadata/Monsters/Daemon/Archnemesis/FlameWalkerDaemon@33]	1196	530	5.130 rad	3805191838	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	799	573	2.970 rad	4170033176	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel4old	820	569	5.715 rad	2804926028	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel1old	817	558	3.500 rad	1528648667	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel2old	815	570	0.707 rad	3707287636	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	829	572	0.875 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel4old	772	596	1.028 rad	2804926028	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	786	596	1.191 rad	2116127741	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	801	592	1.497 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	797	586	3.338 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	799	580	5.228 rad	4170033176	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	820	595	5.716 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	815	595	5.842 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	825	593	3.616 rad	2116127741	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	825	577	2.183 rad	2116127741	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	809	597	2.553 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	809	588	0.982 rad	4170033176	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest11	1080	579	3.142 rad	3940991968	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleSpear	1092	591	3.142 rad	392910442	1_Labyrinth_OH_quad_#	0	-0.000			
+Metadata/Chests/Barrel5old	1124	591	1.636 rad	2116127741	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1134	590	0.789 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	1128	596	6.283 rad	2116127741	1_Labyrinth_OH_quad_#					
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	1160	577	4.295 rad	1179189375	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	1208	586	3.142 rad	1891618283	1_Labyrinth_OH_quad_#	0	0.000			
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1196	530	2.330 rad	316014466	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	745	503	4.565 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	750	513	2.773 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	742	546	3.731 rad	3534738420	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	742	573	2.249 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	745	568	2.567 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	750	567	1.881 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel4old	737	575	2.892 rad	2804926028	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	743	581	0.177 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	776	601	4.330 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	791	600	4.290 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	822	600	6.275 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	827	598	3.412 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	817	600	3.593 rad	3865749632	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	826	620	2.773 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	878	612	5.179 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	896	619	4.860 rad	1871906559	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/Female/Spawner_LabyrinthStatueFemaleBow	885	609	3.142 rad	4263431463	1_Labyrinth_OH_quad_#	0	-0.000			
+Metadata/Chests/Barrel3old	939	605	4.515 rad	3865749632	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	942	615	5.817 rad	1871906559	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/Female/Spawner_LabyrinthStatueFemaleUnarmed	931	609	3.142 rad	1213317737	1_Labyrinth_OH_quad_#	0	-0.000			
+Metadata/Chests/Barrel5old	943	600	6.263 rad	2116127741	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1099	609	5.351 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Daemon [Metadata/Monsters/Daemon/FireProjectileRetaliationDaemon@33]	1099	609	0.687 rad	403938103	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1132	601	0.152 rad	3865749632	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/Male/Spawner_LabyrinthStatueMaleMaul	1138	609	1.571 rad	823135795	1_Labyrinth_OH_quad_#	0	-0.000			
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	1153	600	3.412 rad	1179189375	1_Labyrinth_OH_quad_#					
+Monster: Maze Needleback [Metadata/Monsters/Spiker/SpikerLabyrinth@33]	1162	600	5.424 rad	1053852943	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Objects/Puzzle_Parts/PressurePlate_Reset	1192	602	3.142 rad	3803920392	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthRoomba	1209	617	0.000 rad	711189295	1_Labyrinth_OH_quad_#					
+Metadata/NPC/Labyrinth/WeylinGlyph3	780	643	0.797 rad	2093138758	1_Labyrinth_OH_quad_#	0	-5.435			
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	862	626	3.755 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	884	643	5.841 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	885	630	1.448 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	874	643	3.829 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	925	631	5.473 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	951	635	3.608 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	966	623	2.381 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Tormented Warlord [Metadata/Monsters/Spirit/TormentedWarlord@33]	1000	621	0.049 rad	145954077	1_Labyrinth_OH_quad_#					
+Monster: Torment Daemon [Metadata/Monsters/Daemon/TormentDaemonWarlordsMark@33]	1000	621	6.234 rad	1028324433	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	1042	639	0.319 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	1054	623	4.344 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	1051	642	0.123 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	1041	633	4.001 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1055	636	5.400 rad	4170033176	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1078	639	0.212 rad	3865749632	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1062	637	0.859 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1076	633	4.418 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Daemon [Metadata/Monsters/Daemon/Archnemesis/LightningWalkerDaemon@33]	1062	637	4.393 rad	2882537949	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1062	637	2.840 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1086	642	0.359 rad	3865749632	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1097	634	1.939 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1165	624	3.780 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1154	630	2.184 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1165	630	1.055 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1169	637	0.638 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1166	642	2.528 rad	969370502	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Objects/Puzzle_Parts/PressurePlate_Reset	1156	640	1.571 rad	3803920392	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	736	661	3.412 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	879	652	1.890 rad	1836746460	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/Female/Spawner_LabyrinthStatueFemaleUnarmed	885	655	0.000 rad	1213317737	1_Labyrinth_OH_quad_#	0	-0.000			
+Object: Metadata/Monsters/Statue/Female/Spawner_LabyrinthStatueFemaleBow	931	655	0.000 rad	4263431463	1_Labyrinth_OH_quad_#	0	-0.000			
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	1034	653	2.798 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1057	648	5.989 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1055	657	3.902 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1048	654	5.277 rad	4170033176	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1078	654	0.880 rad	3865749632	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1059	664	6.087 rad	4170033176	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel2old	1081	649	0.172 rad	3707287636	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1081	644	5.553 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel4old	1083	654	5.656 rad	2804926028	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1102	646	4.099 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1096	654	2.062 rad	1836746460	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	1138	661	5.142 rad	2211595643	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	1133	664	0.265 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	1128	663	5.504 rad	3468315289	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	1147	656	3.142 rad	1891618283	1_Labyrinth_OH_quad_#	0	0.000			
+Object: Metadata/Monsters/Statue/Male/Spawner_LabyrinthStatueMaleSword	1138	655	1.571 rad	2980447345	1_Labyrinth_OH_quad_#	0	-0.000			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthRoomba	1166	656	4.712 rad	711189295	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	1208	655	3.142 rad	1891618283	1_Labyrinth_OH_quad_#	0	0.000			
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	1201	656	3.142 rad	1891618283	1_Labyrinth_OH_quad_#	0	0.000			
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	737	682	5.056 rad	4170033176	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleSpear	1092	673	0.000 rad	392910442	1_Labyrinth_OH_quad_#	0	-0.000			
+Metadata/Chests/Chest18	1104	686	0.000 rad	2444280933	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1045	712	2.700 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	740	732	1.473 rad	1871906559	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleSpear	816	729	3.142 rad	392910442	1_Labyrinth_OH_quad_#	0	-0.000			
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleSpear	862	729	3.142 rad	392910442	1_Labyrinth_OH_quad_#	0	-0.000			
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	960	729	5.522 rad	1179189375	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1018	722	4.246 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1025	734	0.466 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1032	726	3.804 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1037	733	0.221 rad	969370502	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleUnarmed	1092	729	3.142 rad	1043451851	1_Labyrinth_OH_quad_#	0	-0.000			
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1141	734	2.945 rad	1836746460	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleSword	1138	728	3.142 rad	1535430632	1_Labyrinth_OH_quad_#	0	-0.000			
+Monster: Overgrown Colossus [Metadata/Monsters/Statue/LabyrinthStatueLargeFemaleUnarmed@33]	977	535	0.000 rad	3390002701	1_Labyrinth_OH_quad_#					
+Monster: Maul Statue [Metadata/Monsters/Statue/LabyrinthStatueFemaleMaul@33]	954	540	0.000 rad	4062883794	1_Labyrinth_OH_quad_#					
+Monster: Maul Statue [Metadata/Monsters/Statue/LabyrinthStatueMaleMaul@33]	1000	540	0.000 rad	2448732850	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	740	739	5.621 rad	1871906559	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	895	752	2.506 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel1old	900	752	4.229 rad	1528648667	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel2old	897	747	2.524 rad	3707287636	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	900	757	4.757 rad	2116127741	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	916	746	4.592 rad	3865749632	1_Labyrinth_OH_quad_#					
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	936	738	1.743 rad	1179189375	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	954	758	1.952 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	952	753	3.820 rad	2211595643	1_Labyrinth_OH_quad_#					
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	958	750	6.087 rad	1179189375	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1010	740	3.780 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1123	746	3.608 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1115	741	1.055 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1123	739	5.375 rad	1836746460	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel1old	1171	747	3.100 rad	1528648667	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1176	749	4.008 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel2old	1176	754	4.125 rad	3707287636	1_Labyrinth_OH_quad_#					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	980	512	1.212 rad	90915766	1_Labyrinth_OH_quad_#					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	980	512	1.212 rad	90915766	1_Labyrinth_OH_quad_#					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	980	512	1.212 rad	90915766	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1013	524	5.763 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	980	512	1.212 rad	90915766	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	984	532	4.774 rad	1418889786	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1062	637	6.016 rad	316014466	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1070	538	5.604 rad	1418889786	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1109	636	2.793 rad	2646652649	1_Labyrinth_OH_quad_#					
+Monster: Daemon [Metadata/Monsters/Daemon/FireProjectileRetaliationDaemon@33]	1109	636	2.037 rad	403938103	1_Labyrinth_OH_quad_#					
+Monster: Daemon [Metadata/Monsters/Daemon/FireProjectileRetaliationDaemon@33]	1109	636	2.577 rad	403938103	1_Labyrinth_OH_quad_#					
+Monster: Daemon [Metadata/Monsters/Daemon/FireProjectileRetaliationDaemon@33]	1109	636	0.589 rad	403938103	1_Labyrinth_OH_quad_#					
+Monster: Daemon [Metadata/Monsters/Daemon/FireProjectileRetaliationDaemon@33]	1109	636	1.276 rad	403938103	1_Labyrinth_OH_quad_#					
+Monster: Torment Daemon [Metadata/Monsters/Daemon/TormentDaemonMassEndurance@33]	1109	636	2.356 rad	3749582645	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1016	528	1.819 rad	1418889786	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1055	640	6.254 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1043	642	0.140 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1046	654	5.992 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1055	657	2.252 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1055	657	5.062 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1058	650	4.884 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1054	658	5.355 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1055	664	5.419 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1055	664	0.505 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1047	660	3.911 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1038	661	5.071 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1034	662	6.220 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1041	654	4.488 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1034	650	2.261 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1043	648	4.627 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1048	645	4.829 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1051	646	6.126 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1056	653	4.817 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1053	642	5.276 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1052	648	3.791 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1052	648	3.607 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1042	642	5.801 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1042	642	4.219 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1039	648	4.678 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1039	648	1.787 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1039	648	0.158 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1049	655	5.074 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1057	654	5.485 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1059	654	2.312 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1054	642	4.074 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	905	761	4.560 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	959	759	1.488 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel1old	1178	761	5.862 rad	1528648667	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1219	515	0.491 rad	1836746460	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	1231	758	4.071 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	1226	755	0.343 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	1231	753	0.015 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	1225	760	3.373 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1047	653	2.233 rad	316014466	1_Labyrinth_OH_quad_#					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	1008	531	1.571 rad	90915766	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	745	503	4.565 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	750	513	2.773 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	742	546	3.731 rad	3534738420	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	742	573	2.249 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	745	568	2.567 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	750	567	1.881 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel4old	737	575	2.892 rad	2804926028	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	743	581	0.177 rad	3865749632	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	736	661	3.412 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	737	682	5.056 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	740	732	1.473 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	740	739	5.621 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1219	515	0.491 rad	1836746460	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	1231	758	4.071 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	1226	755	0.343 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	1231	753	0.015 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	1225	760	3.373 rad	866946829	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	745	503	4.565 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	750	513	2.773 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	742	546	3.731 rad	3534738420	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	742	573	2.249 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	745	568	2.567 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	750	567	1.881 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel4old	737	575	2.892 rad	2804926028	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	743	581	0.177 rad	3865749632	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	736	661	3.412 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	737	682	5.056 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	740	732	1.473 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	740	739	5.621 rad	1871906559	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1050	645	4.850 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1053	642	4.964 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1053	642	5.595 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1056	642	2.629 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1059	649	5.955 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1053	654	0.226 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1050	656	0.596 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1040	648	3.859 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1036	639	0.505 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1024	633	3.555 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1032	624	0.712 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1035	615	5.333 rad	316014466	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1219	515	0.491 rad	1836746460	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	1231	758	4.071 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	1226	755	0.343 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	1231	753	0.015 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	905	761	4.560 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	959	759	1.488 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel1old	1178	761	5.862 rad	1528648667	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	1225	760	3.373 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1035	615	2.557 rad	316014466	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	1267	545	5.081 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	1277	532	5.522 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	1268	552	1.939 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	1275	598	0.834 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	1277	711	5.130 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1301	518	4.958 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	1295	543	5.252 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1308	542	3.853 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1298	550	0.785 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	1305	594	3.289 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1295	611	4.099 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1294	603	0.098 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1290	609	5.547 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1291	616	1.595 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1310	599	2.626 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	1301	605	5.252 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1300	627	1.988 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	1288	655	5.915 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	1310	658	5.596 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	1292	645	5.252 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	1291	667	5.719 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	1289	716	1.473 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	1298	721	6.160 rad	1871906559	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1035	621	4.811 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1035	630	1.459 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1037	637	3.290 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1189	534	5.040 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1183	534	1.328 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1044	637	5.459 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1175	534	0.847 rad	316014466	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1153	520	3.459 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1112	806	1.252 rad	4170033176	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1038	634	0.477 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1038	634	5.876 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1174	540	4.978 rad	316014466	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/Female/Spawner_LabyrinthStatueFemaleMaul	954	540	0.000 rad	699825383	1_Labyrinth_OH_quad_#	0	-0.000			
+Monster: Maul Statue [Metadata/Monsters/Statue/LabyrinthStatueFemaleMaul@33]	965	534	0.559 rad	4062883794	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	943	600	6.263 rad	2116127741	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	951	635	3.608 rad	1871906559	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	954	758	1.952 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	952	753	3.820 rad	2211595643	1_Labyrinth_OH_quad_#					
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	958	750	6.087 rad	1179189375	1_Labyrinth_OH_quad_#					
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	948	737	2.783 rad	1179189375	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	959	759	1.488 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1174	540	5.084 rad	316014466	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1104	843	4.172 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1104	833	5.940 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Overgrown Colossus [Metadata/Monsters/Statue/LabyrinthStatueLargeFemaleSpear@33]	1092	673	0.000 rad	3449098822	1_Labyrinth_OH_quad_#					
+Monster: Maul Statue [Metadata/Monsters/Statue/LabyrinthStatueMaleMaul@33]	1138	609	1.571 rad	2448732850	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1093	862	1.497 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1092	853	1.458 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel2old	1097	851	3.408 rad	3707287636	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1097	856	1.593 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	1099	863	5.333 rad	2116127741	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest13	1137	860	4.887 rad	2545718021	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthMap	996	383	4.712 rad	743524113	1_Labyrinth_OH_quad_#					
+Monster: Overgrown Colossus [Metadata/Monsters/Statue/LabyrinthStatueLargeFemaleSpear@33]	1092	591	3.142 rad	3449098822	1_Labyrinth_OH_quad_#					
+Monster: Fencer Statue [Metadata/Monsters/Statue/LabyrinthStatueMaleSword@33]	1138	655	1.571 rad	3183420864	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1021	344	4.712 rad	726109394	1_Labyrinth_OH_quad_#	36	-287.200	5	24410	Mansion Halls
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	1184	565	0.245 rad	90915766	1_Labyrinth_OH_quad_#					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	1184	565	0.245 rad	90915766	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1035	625	1.972 rad	316014466	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1169	529	4.528 rad	1418889786	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1178	541	1.944 rad	316014466	1_Labyrinth_OH_quad_#					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	1262	545	1.571 rad	90915766	1_Labyrinth_OH_quad_#					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	1262	545	1.571 rad	90915766	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1180	543	3.968 rad	316014466	1_Labyrinth_OH_quad_#					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	1262	545	1.571 rad	90915766	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1186	543	1.265 rad	316014466	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1263	550	4.835 rad	605215126	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1272	545	2.773 rad	605215126	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1194	544	1.206 rad	316014466	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1273	551	4.860 rad	605215126	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1263	553	4.172 rad	605215126	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1200	544	3.193 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1208	544	1.936 rad	316014466	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1277	532	0.449 rad	1418889786	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1276	542	2.587 rad	1418889786	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1214	544	2.355 rad	316014466	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1112	806	1.252 rad	4170033176	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1220	543	5.348 rad	316014466	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1294	593	3.682 rad	605215126	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1294	596	3.264 rad	605215126	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1228	543	0.509 rad	316014466	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1104	843	4.172 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1104	833	5.940 rad	4170033176	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1236	541	4.061 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1093	862	1.497 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1092	853	1.458 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel2old	1097	851	3.408 rad	3707287636	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1097	856	1.593 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	1099	863	5.333 rad	2116127741	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest13	1137	860	4.887 rad	2545718021	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest12	1323	865	3.229 rad	2121128972	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1242	542	3.568 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1242	542	5.878 rad	316014466	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1290	578	0.356 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1101	889	3.043 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1121	877	0.319 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1108	895	4.565 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Daemon [Metadata/Monsters/Daemon/Archnemesis/MirrorImageDaemon@33]	1121	877	1.522 rad	1376455405	1_Labyrinth_OH_quad_#					
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1142	895	6.136 rad	1570945712	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1219	889	1.424 rad	1631808031	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	1298	894	5.816 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1250	543	0.942 rad	316014466	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1295	610	2.911 rad	2646652649	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1304	670	4.074 rad	605215126	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1301	667	4.467 rad	605215126	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1258	544	6.250 rad	316014466	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1290	597	3.463 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1292	611	2.737 rad	2646652649	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1298	665	0.810 rad	605215126	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1298	668	2.086 rad	605215126	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1085	917	3.387 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1101	901	3.829 rad	1294125390	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleSpear	1097	908	1.571 rad	392910442	1_Labyrinth_OH_quad_#	16	-125.000			
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1123	916	0.589 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Maze Crusher [Metadata/Monsters/Skeletons/SkeletonMeleeLargeLabyrinth@33]	1131	919	1.914 rad	1957375494	1_Labyrinth_OH_quad_#					
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1127	910	4.099 rad	1570945712	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleSpear	1133	908	4.712 rad	392910442	1_Labyrinth_OH_quad_#	16	-125.000			
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1158	913	4.786 rad	1570945712	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	1187	916	0.776 rad	2211595643	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	1192	914	2.748 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	1192	919	6.219 rad	2211595643	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	1197	911	0.509 rad	866946829	1_Labyrinth_OH_quad_#					
+Monster: Shadow Lurker [Metadata/Monsters/Grappler/GrapplerLabyrinth@33]	1213	917	1.816 rad	176833555	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1218	916	2.823 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1217	901	0.098 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1226	908	6.259 rad	1631808031	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	1303	898	3.963 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	1303	903	4.769 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	1298	899	6.017 rad	3468315289	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthMap	1311	897	4.712 rad	743524113	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1366	897	4.712 rad	726109394	1_Labyrinth_OH_quad_#	52	-412.200	5	37321	Mansion Passage
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1046	526	4.332 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1042	538	4.588 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	1045	607	0.611 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	1039	601	2.944 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	1057	613	2.356 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	1052	621	1.373 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1056	638	1.454 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1051	647	1.869 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1037	646	2.897 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1035	715	1.571 rad	969370502	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1039	917	4.062 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1040	909	6.282 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel1old	1044	915	5.837 rad	1528648667	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1039	922	3.743 rad	3865749632	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1037	935	2.037 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1110	925	1.104 rad	1570945712	1_Labyrinth_OH_quad_#					
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1140	927	3.485 rad	1570945712	1_Labyrinth_OH_quad_#					
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1151	924	4.369 rad	1570945712	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1218	933	1.227 rad	1631808031	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1279	927	3.751 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel2old	1284	925	5.667 rad	3707287636	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel4old	1274	922	0.215 rad	2804926028	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1289	924	6.090 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1289	929	4.880 rad	3865749632	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1265	553	5.743 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1276	646	3.123 rad	2646652649	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1277	722	0.761 rad	605215126	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1274	719	2.847 rad	605215126	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1291	666	3.142 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1288	668	3.142 rad	2646652649	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1277	719	1.252 rad	605215126	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1280	717	4.761 rad	605215126	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1042	945	2.233 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1035	947	3.215 rad	1294125390	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest12	1231	946	4.538 rad	2121128972	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	1283	952	3.761 rad	2116127741	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1285	959	2.396 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	1279	957	0.085 rad	2116127741	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel4old	1278	952	2.275 rad	2804926028	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1274	957	5.927 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1290	953	3.551 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	1301	960	4.209 rad	2211595643	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	1300	965	1.866 rad	2211595643	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	1296	959	3.439 rad	3468315289	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthRollerTrap_03	1299	943	1.571 rad	1699633583	1_Labyrinth_OH_quad_#	32	-250.000			
+Metadata/Chests/Chest12	1290	974	5.323 rad	2121128972	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest12	1025	510	4.712 rad	2121128972	1_Labyrinth_OH_quad_#					
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	1013	524	4.712 rad	1179189375	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1016	528	4.957 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastWhirlingBladesLabyrinth@33]	1034	607	5.333 rad	3534738420	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1031	641	3.142 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1032	631	3.836 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1034	624	5.498 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Daemon [Metadata/Monsters/Daemon/Archnemesis/LightningWalkerDaemon@33]	1034	624	4.393 rad	2882537949	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1020	730	3.927 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1033	720	1.144 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1023	736	4.796 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1016	890	4.516 rad	1631808031	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel2old	1034	914	1.072 rad	3707287636	1_Labyrinth_OH_quad_#					
+Monster: Shadow Lurker [Metadata/Monsters/Grappler/GrapplerLabyrinth@33]	1019	917	4.442 rad	176833555	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1025	907	6.111 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1017	904	6.136 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1023	942	0.785 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1024	927	5.007 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	1007	520	4.588 rad	1179189375	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/Male/Spawner_LabyrinthStatueMaleMaul	1000	540	0.000 rad	823135795	1_Labyrinth_OH_quad_#	0	-0.000			
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	1009	529	4.712 rad	1179189375	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1011	729	4.768 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1010	740	3.780 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1005	930	2.062 rad	1631808031	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest12	1290	974	5.323 rad	2121128972	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleUnarmed	977	535	0.000 rad	1043451851	1_Labyrinth_OH_quad_#	0	-0.000			
+Monster: Overgrown Colossus [Metadata/Monsters/Statue/LabyrinthStatueLargeFemaleUnarmed@33]	977	535	0.349 rad	3390002701	1_Labyrinth_OH_quad_#					
+Monster: Maul Statue [Metadata/Monsters/Statue/LabyrinthStatueMaleMaul@33]	984	532	5.176 rad	2448732850	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	966	623	2.381 rad	1871906559	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/Female/Spawner_LabyrinthStatueFemaleMaul	954	540	0.000 rad	699825383	1_Labyrinth_OH_quad_#	0	-0.000			
+Monster: Maul Statue [Metadata/Monsters/Statue/LabyrinthStatueFemaleMaul@33]	965	534	0.559 rad	4062883794	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	943	600	6.263 rad	2116127741	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	951	635	3.608 rad	1871906559	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	954	758	1.952 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	952	753	3.820 rad	2211595643	1_Labyrinth_OH_quad_#					
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	958	750	6.087 rad	1179189375	1_Labyrinth_OH_quad_#					
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	948	737	2.783 rad	1179189375	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	959	759	1.488 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest20	955	955	4.538 rad	1315527116	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest10	943	955	0.349 rad	208860067	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest19	926	518	1.484 rad	2183838137	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	939	605	4.515 rad	3865749632	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	942	615	5.817 rad	1871906559	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/Female/Spawner_LabyrinthStatueFemaleUnarmed	931	609	3.142 rad	1213317737	1_Labyrinth_OH_quad_#	0	-0.000			
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	925	631	5.473 rad	1871906559	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/Female/Spawner_LabyrinthStatueFemaleBow	931	655	0.000 rad	4263431463	1_Labyrinth_OH_quad_#	0	-0.000			
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	936	738	1.743 rad	1179189375	1_Labyrinth_OH_quad_#					
+Monster: Shadow Lurker [Metadata/Monsters/Grappler/GrapplerLabyrinth@33]	921	937	3.240 rad	176833555	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	924	942	3.485 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	928	932	3.952 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Overgrown Colossus [Metadata/Monsters/Statue/LabyrinthStatueLargeFemaleUnarmed@33]	1092	729	3.142 rad	3390002701	1_Labyrinth_OH_quad_#					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1033	623	5.062 rad	316014466	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel1old	900	752	4.229 rad	1528648667	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel2old	897	747	2.524 rad	3707287636	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	900	757	4.757 rad	2116127741	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	916	746	4.592 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	905	761	4.560 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	916	918	3.845 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	914	912	4.704 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	919	908	2.285 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	919	913	0.204 rad	866946829	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	897	939	4.786 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	908	947	5.841 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Overgrown Colossus [Metadata/Monsters/Statue/LabyrinthStatueLargeFemaleSword@33]	1138	728	3.142 rad	2860895847	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1154	750	6.181 rad	1418889786	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1267	710	4.854 rad	2646652649	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1133	740	5.989 rad	605215126	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1131	743	1.546 rad	605215126	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1281	708	0.620 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1281	718	4.570 rad	2646652649	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1125	751	1.595 rad	605215126	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1128	751	2.970 rad	605215126	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1097	851	1.862 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@33]	1097	851	5.866 rad	3274702746	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	1161	1011	0.002 rad	2116127741	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	1162	1006	0.782 rad	2116127741	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel2old	1167	1006	5.192 rad	3707287636	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel4old	1166	1011	5.995 rad	2804926028	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	1194	1006	6.265 rad	2116127741	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1189	1006	4.545 rad	3865749632	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	896	619	4.860 rad	1871906559	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/Female/Spawner_LabyrinthStatueFemaleBow	885	609	3.142 rad	4263431463	1_Labyrinth_OH_quad_#	0	-0.000			
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	883	641	2.678 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	888	641	4.712 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	875	634	2.129 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	888	650	4.547 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	879	646	1.571 rad	1836746460	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/Female/Spawner_LabyrinthStatueFemaleUnarmed	885	655	0.000 rad	1213317737	1_Labyrinth_OH_quad_#	0	-0.000			
+Metadata/Chests/Barrel3old	895	752	2.506 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel4old	1203	1008	1.010 rad	2804926028	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulseLabyrinth@33]	874	1030	6.136 rad	2289886460	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	957	1032	1.031 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1054	1025	2.675 rad	1570945712	1_Labyrinth_OH_quad_#					
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1060	1031	3.583 rad	1570945712	1_Labyrinth_OH_quad_#					
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1100	1033	2.283 rad	1570945712	1_Labyrinth_OH_quad_#					
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1095	1032	5.252 rad	1570945712	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1159	1018	3.551 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1204	1017	2.895 rad	3865749632	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	884	1055	5.571 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	878	1035	6.185 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	894	1042	5.547 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Shadow Lurker [Metadata/Monsters/Grappler/GrapplerLabyrinth@33]	980	1039	0.172 rad	176833555	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	981	1053	5.424 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	998	1038	4.958 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1036	1047	2.724 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Shadow Lurker [Metadata/Monsters/Grappler/GrapplerLabyrinth@33]	1058	1054	4.050 rad	176833555	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1069	1055	1.669 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Maze Crusher [Metadata/Monsters/Skeletons/SkeletonMeleeLargeLabyrinth@33]	1074	1037	5.989 rad	1957375494	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1144	1056	0.614 rad	1631808031	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthSmashableDoor	1212	1046	4.712 rad	1845753741	1_Labyrinth_OH_quad_#	44	-351.241			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthTrapKeyDelivery	908	1066	3.142 rad	2543810013	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Visible	908	1069	0.000 rad	2886190665	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1064	1074	2.405 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1058	1077	5.596 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Shadow Lurker [Metadata/Monsters/Grappler/GrapplerLabyrinth@33]	1163	1064	6.234 rad	176833555	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1157	1059	5.203 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1163	1069	3.019 rad	1631808031	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleSpear	1184	1064	0.000 rad	392910442	1_Labyrinth_OH_quad_#	32	-250.000			
+Object: Metadata/MiscellaneousObjects/AreaTransition	1366	897	4.712 rad	726109394	1_Labyrinth_OH_quad_#	52	-412.200	5	37321	Mansion Passage
+Object: Metadata/Terrain/Labyrinth/Objects/Puzzle_Parts/Door_Closed	1046	1103	0.000 rad	2458022534	1_Labyrinth_OH_quad_#	29	-228.261			
+Metadata/Chests/Basket3old	1066	1090	1.311 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	1061	1091	4.861 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	1071	1089	1.258 rad	3468315289	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	927	1105	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	948	1119	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	995	1120	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest14	1022	1124	1.571 rad	3089877171	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	1021	1113	1.574 rad	2211595643	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	1026	1113	0.564 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	1021	1118	3.940 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1056	1113	1.980 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1051	1113	2.561 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1061	1113	1.754 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1066	1115	5.996 rad	3865749632	1_Labyrinth_OH_quad_#					
+Monster: Overgrown Colossus [Metadata/Monsters/Statue/LabyrinthStatueLargeFemaleSpear@33]	1133	908	4.712 rad	3449098822	1_Labyrinth_OH_quad_#					
+Monster: Overgrown Colossus [Metadata/Monsters/Statue/LabyrinthStatueLargeFemaleSpear@33]	1097	908	1.571 rad	3449098822	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Visible	977	1138	3.142 rad	2886190665	1_Labyrinth_OH_quad_#	32	-250.679			
+Metadata/Chests/Labyrinth/LabyrinthTreasureKey	1046	1136	0.000 rad	2407949183	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest20	1070	1145	4.625 rad	1315527116	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1169	917	0.123 rad	605215126	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1166	916	0.908 rad	605215126	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1163	912	1.178 rad	605215126	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	1164	909	4.001 rad	605215126	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1192	919	2.353 rad	1418889786	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1193	914	4.332 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Daemon [Metadata/Monsters/Daemons/BloodlinesBearerSelfBeaconDaemonCold@33]	1118	865	0.393 rad	2678893836	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/Spells/monsters_effects/elemental_beacon_v2/ice/OTs/beacon	1118	865	4.921 rad	1126990490	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/Spells/monsters_effects/elemental_beacon_v2/ice/OTs/beacon_aoe	1118	865	0.000 rad	2002688798	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	948	1167	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthFlyingRoomba	974	1167	1.571 rad	860262680	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	996	1167	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Objects/Puzzle_Parts/Door_Closed	1046	1172	3.142 rad	2458022534	1_Labyrinth_OH_quad_#	29	-233.696			
+Monster: Daemon [Metadata/Monsters/Daemons/BloodlinesBearerSelfBeaconDaemonCold@33]	1128	882	1.031 rad	2678893836	1_Labyrinth_OH_quad_#					
+Monster: Daemon [Metadata/Monsters/Daemons/BloodlinesBearerSelfBeaconDaemonCold@33]	1119	881	4.909 rad	2678893836	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/Spells/monsters_effects/elemental_beacon_v2/ice/OTs/beacon	1128	882	6.160 rad	1126990490	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/Spells/monsters_effects/elemental_beacon_v2/ice/OTs/beacon_aoe	1128	882	0.000 rad	2002688798	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/Spells/monsters_effects/elemental_beacon_v2/ice/OTs/beacon	1119	882	4.129 rad	1126990490	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/Spells/monsters_effects/elemental_beacon_v2/ice/OTs/beacon_aoe	1119	882	0.000 rad	2002688798	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1130	896	1.904 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1130	896	4.138 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1130	896	4.644 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1130	896	3.774 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1130	896	0.514 rad	1294125390	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1118	865	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleSpear	1092	673	0.000 rad	392910442	1_Labyrinth_OH_quad_#	0	-0.000			
+Metadata/Chests/Chest18	1104	686	0.000 rad	2444280933	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	1291	667	5.719 rad	1871906559	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1125	883	3.760 rad	1418889786	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1132	886	4.455 rad	1418889786	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1128	882	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1152	897	0.000 rad	2646652649	1_Labyrinth_OH_quad_#	18	-140.625			
+Object: Metadata/Effects/ServerEffect	1265	903	0.000 rad	2646652649	1_Labyrinth_OH_quad_#	32	-250.000			
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1066	734	2.159 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1058	727	1.736 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1067	743	2.034 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1061	744	2.554 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Maze Crusher [Metadata/Monsters/Skeletons/SkeletonMeleeLargeLabyrinth@33]	1074	1037	2.678 rad	1957375494	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1065	1054	0.038 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1068	1037	3.420 rad	1570945712	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1066	1061	4.124 rad	1631808031	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	1066	1090	1.311 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	1061	1091	4.861 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	1071	1089	1.258 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1061	1113	1.754 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1066	1115	5.996 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest20	1070	1145	4.625 rad	1315527116	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleSpear	1092	673	0.000 rad	392910442	1_Labyrinth_OH_quad_#	0	-0.000			
+Metadata/Chests/Chest18	1104	686	0.000 rad	2444280933	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	1291	667	5.719 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1047	718	1.789 rad	969370502	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1039	917	4.062 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1040	909	6.282 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel1old	1044	915	5.837 rad	1528648667	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1039	922	3.743 rad	3865749632	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1035	947	3.215 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1052	1053	6.086 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Shadow Lurker [Metadata/Monsters/Grappler/GrapplerLabyrinth@33]	1046	1047	4.812 rad	176833555	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1048	1069	4.887 rad	1631808031	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Objects/Puzzle_Parts/Door_Closed	1046	1103	0.000 rad	2458022534	1_Labyrinth_OH_quad_#	29	-228.261			
+Metadata/Chests/Barrel3old	1056	1113	1.980 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1051	1113	2.561 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Labyrinth/LabyrinthTreasureKey	1046	1136	0.000 rad	2407949183	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel2old	1034	914	1.072 rad	3707287636	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1017	937	4.092 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Shadow Lurker [Metadata/Monsters/Grappler/GrapplerLabyrinth@33]	1030	936	2.737 rad	176833555	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1015	921	1.849 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1017	943	4.084 rad	1631808031	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest14	1022	1124	1.571 rad	3089877171	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	1021	1113	1.574 rad	2211595643	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	1026	1113	0.564 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	1021	1118	3.940 rad	3468315289	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Objects/Puzzle_Parts/Door_Closed	1046	1172	3.142 rad	2458022534	1_Labyrinth_OH_quad_#	29	-233.696			
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1005	930	2.062 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1006	938	4.249 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1011	944	4.823 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	997	1041	3.428 rad	1631808031	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	995	1120	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	996	1167	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1155	887	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1155	887	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	1020	1191	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel2old	1071	1183	4.953 rad	3707287636	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel4old	1066	1182	5.460 rad	2804926028	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel4old	1059	1182	4.690 rad	2804926028	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel4old	1066	1187	4.448 rad	2804926028	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1162	886	0.000 rad	2646652649	1_Labyrinth_OH_quad_#	27	-214.773			
+Object: Metadata/Effects/ServerEffect	1175	892	0.000 rad	2646652649	1_Labyrinth_OH_quad_#	32	-250.000			
+Monster: Shadow Lurker [Metadata/Monsters/Grappler/GrapplerLabyrinth@33]	986	1049	2.737 rad	176833555	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	981	1053	5.424 rad	1631808031	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Visible	977	1138	3.142 rad	2886190665	1_Labyrinth_OH_quad_#	32	-250.679			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthFlyingRoomba	974	1167	1.571 rad	860262680	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1171	908	1.290 rad	1418889786	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1171	897	1.020 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Daemon [Metadata/Monsters/Daemons/BloodlinesBearerSelfBeaconDaemonCold@33]	1171	908	5.670 rad	2678893836	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/Spells/monsters_effects/elemental_beacon_v2/ice/OTs/beacon	1172	908	2.669 rad	1126990490	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/Spells/monsters_effects/elemental_beacon_v2/ice/OTs/beacon_aoe	1172	908	0.000 rad	2002688798	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Visible	977	1207	0.000 rad	2886190665	1_Labyrinth_OH_quad_#	32	-250.679			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthFlyingRoomba	1020	1200	0.000 rad	860262680	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Visible	1046	1207	1.571 rad	2886190665	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1169	902	5.088 rad	1418889786	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	1020	1225	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1047	1223	1.892 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1042	1225	2.645 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1039	1220	1.991 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1046	1230	4.172 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1051	1228	5.217 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1036	1230	0.548 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	959	759	1.488 rad	3468315289	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1157	893	0.000 rad	2646652649	1_Labyrinth_OH_quad_#	23	-179.688			
+Metadata/Chests/Chest20	955	955	4.538 rad	1315527116	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest10	943	955	0.349 rad	208860067	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	957	1032	1.031 rad	1631808031	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	948	1119	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	948	1167	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	960	1226	0.290 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	960	1231	3.056 rad	2211595643	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	965	1223	1.245 rad	866946829	1_Labyrinth_OH_quad_#					
+Monster: Overgrown Colossus [Metadata/Monsters/Statue/LabyrinthStatueLargeFemaleSpear@33]	1184	1064	0.000 rad	3449098822	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1172	908	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Monster: Shadow Lurker [Metadata/Monsters/Grappler/GrapplerLabyrinth@33]	921	937	3.240 rad	176833555	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	924	942	3.485 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	928	932	3.952 rad	1631808031	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	927	1105	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1175	977	5.538 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1175	977	0.695 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1175	977	0.464 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1175	977	2.290 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1175	977	2.678 rad	1294125390	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	916	918	3.845 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	914	912	4.704 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	919	908	2.285 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	919	913	0.204 rad	866946829	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	897	939	4.786 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	908	947	5.841 rad	1631808031	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthTrapKeyDelivery	908	1066	3.142 rad	2543810013	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Visible	908	1069	0.000 rad	2886190665	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Visible	908	1138	0.000 rad	2886190665	1_Labyrinth_OH_quad_#	32	-250.679			
+Metadata/Chests/Basket3old	910	1195	5.788 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	912	1200	5.968 rad	2211595643	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	907	1201	4.515 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	905	1196	5.890 rad	866946829	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	898	1228	2.749 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	912	1226	2.135 rad	810541753	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthFlyingRoomba	897	1105	1.571 rad	860262680	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulseLabyrinth@33]	874	1030	6.136 rad	2289886460	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	884	1055	5.571 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	878	1035	6.185 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	894	1042	5.547 rad	1294125390	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	879	1105	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	880	1143	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	884	1229	2.086 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	893	1224	1.055 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	892	1229	0.098 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	883	1221	5.031 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	879	1228	5.743 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	857	916	4.811 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	864	916	0.270 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	851	916	1.031 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	851	901	0.123 rad	1294125390	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleUnarmed	857	908	4.712 rad	1043451851	1_Labyrinth_OH_quad_#	16	-125.000			
+Metadata/Chests/Chest14	851	932	6.196 rad	3089877171	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	853	924	4.467 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	863	929	1.497 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulseLabyrinth@33]	863	1052	4.246 rad	2289886460	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	858	1050	4.099 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	871	1040	1.644 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	862	1041	4.467 rad	1294125390	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	860	1164	0.268 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	860	1169	5.309 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	865	1162	2.160 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	860	1159	0.843 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	860	1232	3.588 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	865	1230	1.511 rad	2211595643	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	860	1227	2.329 rad	2211595643	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1077	1054	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1077	1054	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	828	903	4.860 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	843	932	2.577 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	835	926	5.621 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulseLabyrinth@33]	841	1051	0.147 rad	2289886460	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulseLabyrinth@33]	850	1063	5.179 rad	2289886460	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerFemaleFreezingPulseLabyrinth@33]	844	1066	1.424 rad	2289886460	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	821	856	4.426 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	816	860	1.072 rad	2116127741	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel1old	816	865	3.883 rad	1528648667	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel2old	816	870	3.908 rad	3707287636	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel1old	816	855	5.660 rad	1528648667	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	821	861	5.190 rad	3865749632	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	823	886	3.240 rad	1294125390	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/MaleLarge/Spawner_LabyrinthStatueLargeMaleSword	820	908	1.571 rad	897268457	1_Labyrinth_OH_quad_#	16	-125.000			
+Metadata/Chests/Basket2old	808	1006	2.654 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	813	1006	4.160 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest12	813	1047	4.800 rad	2121128972	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	782	929	4.074 rad	810541753	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	803	1001	1.762 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	791	1028	4.471 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	788	1023	3.841 rad	2116127741	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel4old	789	1033	1.362 rad	2804926028	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	794	1033	5.607 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	799	1031	2.841 rad	2116127741	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	796	1026	5.833 rad	2116127741	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1095	1044	5.088 rad	1418889786	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1172	952	0.000 rad	2646652649	1_Labyrinth_OH_quad_#	32	-250.000			
+Object: Metadata/Effects/ServerEffect	1175	958	0.000 rad	2646652649	1_Labyrinth_OH_quad_#	33	-257.812			
+Object: Metadata/Effects/ServerEffect	1164	967	0.000 rad	2646652649	1_Labyrinth_OH_quad_#	32	-250.000			
+Object: Metadata/Effects/ServerEffect	1164	988	0.000 rad	2646652649	1_Labyrinth_OH_quad_#	32	-250.000			
+Object: Metadata/Effects/ServerEffect	1092	1055	0.000 rad	2646652649	1_Labyrinth_OH_quad_#	32	-250.000			
+Metadata/Chests/Basket1old	763	917	5.301 rad	2211595643	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	768	915	1.938 rad	2211595643	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	763	912	1.956 rad	866946829	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	761	930	1.522 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	760	937	0.884 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	778	952	2.994 rad	810541753	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthMap	781	1035	0.000 rad	743524113	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/AreaTransition	781	1090	0.000 rad	726109394	1_Labyrinth_OH_quad_#	52	-412.200	5	21443	Aspirant's Trial
+Metadata/Chests/Basket1old	758	912	4.544 rad	2211595643	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	749	910	3.215 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	741	926	6.259 rad	810541753	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1033	1060	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1033	1060	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	717	1018	1.308 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	713	1025	3.209 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel2old	723	1027	1.404 rad	3707287636	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	718	1028	1.765 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	718	1023	5.083 rad	3865749632	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthRollerTrap_03	735	1023	3.142 rad	1699633583	1_Labyrinth_OH_quad_#	32	-250.000			
+Object: Metadata/Effects/ServerEffect	1073	1053	5.958 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	1073	1053	3.831 rad	2646652649	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest18	704	1014	0.611 rad	2444280933	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1050	1041	4.300 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1050	1041	3.447 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1050	1041	5.043 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1050	1041	0.689 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1050	1041	3.042 rad	1294125390	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	997	1071	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	997	1071	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	980	1053	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	980	1053	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	836	1053	3.461 rad	605215126	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	836	1056	0.049 rad	605215126	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	895	1042	4.111 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	847	1044	2.086 rad	605215126	1_Labyrinth_OH_quad_#					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	846	1039	5.719 rad	605215126	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	895	1042	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	895	1042	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	856	1028	0.519 rad	90915766	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	895	1042	2.214 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	895	1042	2.798 rad	2646652649	1_Labyrinth_OH_quad_#					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	857	1029	0.695 rad	90915766	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	937	1038	0.000 rad	2646652649	1_Labyrinth_OH_quad_#	32	-250.000			
+Object: Metadata/Effects/ServerEffect	932	1045	0.000 rad	2646652649	1_Labyrinth_OH_quad_#	32	-250.000			
+Object: Metadata/Effects/ServerEffect	937	1043	0.000 rad	2646652649	1_Labyrinth_OH_quad_#	32	-250.000			
+Object: Metadata/Effects/ServerEffect	896	1048	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	896	1048	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	894	1038	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	894	1038	0.000 rad	2646652649	1_Labyrinth_OH_quad_#					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	857	1029	0.695 rad	90915766	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	899	1056	3.177 rad	1418889786	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	894	1038	6.273 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1118	865	0.000 rad	1294125390	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1119	882	2.897 rad	1294125390	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1125	883	3.760 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1125	883	0.983 rad	1570945712	1_Labyrinth_OH_quad_#					
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1117	1033	3.927 rad	1570945712	1_Labyrinth_OH_quad_#					
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1121	1038	6.065 rad	1570945712	1_Labyrinth_OH_quad_#					
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1104	1038	0.983 rad	1570945712	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	896	1048	1.689 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	896	1048	6.019 rad	2646652649	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest13	1137	860	4.887 rad	2545718021	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1128	882	2.447 rad	1294125390	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1132	886	4.455 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1133	885	0.322 rad	1570945712	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleSpear	1133	908	4.712 rad	392910442	1_Labyrinth_OH_quad_#	16	-125.000			
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1131	898	0.000 rad	1294125390	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	889	1053	0.540 rad	2646652649	1_Labyrinth_OH_quad_#					
+Object: Metadata/Effects/ServerEffect	889	1053	0.540 rad	2646652649	1_Labyrinth_OH_quad_#					
+Monster: Maze Crusher [Metadata/Monsters/Skeletons/SkeletonMeleeLargeLabyrinth@33]	1127	1032	1.212 rad	1957375494	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	905	761	4.560 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	959	759	1.488 rad	3468315289	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1123	766	0.245 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1118	771	2.498 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	1128	766	0.000 rad	4170033176	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	892	1048	1.161 rad	1418889786	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	897	1044	0.639 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	672	747	5.989 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	667	747	2.503 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	740	739	5.621 rad	1871906559	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	895	752	2.506 rad	3865749632	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel1old	900	752	4.229 rad	1528648667	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel2old	897	747	2.524 rad	3707287636	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	900	757	4.757 rad	2116127741	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	916	746	4.592 rad	3865749632	1_Labyrinth_OH_quad_#					
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	936	738	1.743 rad	1179189375	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	954	758	1.952 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	952	753	3.820 rad	2211595643	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1067	743	2.034 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1061	744	2.554 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Overgrown Colossus [Metadata/Monsters/Statue/LabyrinthStatueLargeFemaleSword@33]	1120	756	3.266 rad	2860895847	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1147	744	1.471 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	667	723	1.374 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	728	730	4.786 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	740	732	1.473 rad	1871906559	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleSpear	816	729	3.142 rad	392910442	1_Labyrinth_OH_quad_#	0	-0.000			
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleSpear	862	729	3.142 rad	392910442	1_Labyrinth_OH_quad_#	0	-0.000			
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	960	728	0.091 rad	1179189375	1_Labyrinth_OH_quad_#					
+Monster: Maze Slitherer [Metadata/Monsters/Snake/SnakeScorpionIncaLabyrinth_@33]	943	732	1.751 rad	1179189375	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1047	718	1.789 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1066	734	2.159 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1058	727	1.736 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	1086	729	2.159 rad	969370502	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleUnarmed	1092	729	3.142 rad	1043451851	1_Labyrinth_OH_quad_#	0	-0.000			
+Monster: Overgrown Colossus [Metadata/Monsters/Statue/LabyrinthStatueLargeFemaleUnarmed@33]	1115	732	2.678 rad	3390002701	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleSword	1138	728	3.142 rad	1535430632	1_Labyrinth_OH_quad_#	0	-0.000			
+Object: Metadata/MiscellaneousObjects/WorldItem	897	1050	4.412 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	906	934	0.519 rad	90915766	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	890	936	4.977 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1150	735	2.498 rad	1836746460	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel1old	1171	747	3.100 rad	1528648667	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1158	738	4.038 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	1154	750	0.852 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1158	907	0.000 rad	1294125390	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1171	908	1.290 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@33]	816	870	0.663 rad	3274702746	1_Labyrinth_OH_quad_#					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@33]	816	865	0.295 rad	3274702746	1_Labyrinth_OH_quad_#					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@33]	816	855	2.896 rad	3274702746	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1171	897	1.020 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1171	897	2.423 rad	1570945712	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerMaleLabyrinth@33]	1172	908	1.849 rad	1294125390	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	1169	902	5.088 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Ancient Combatant [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth2@33]	1169	902	1.862 rad	1570945712	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	1161	1011	0.002 rad	2116127741	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	733	676	6.234 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	731	684	4.516 rad	4170033176	1_Labyrinth_OH_quad_#					
+Monster: Skulking Dweller [Metadata/Monsters/Undying/UndyingOutcastPunctureLabyrinth@33]	737	682	5.056 rad	4170033176	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleSpear	1092	673	0.000 rad	392910442	1_Labyrinth_OH_quad_#	0	-0.000			
+Metadata/Chests/Chest18	1104	686	0.000 rad	2444280933	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel5old	1162	1006	0.782 rad	2116127741	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel2old	1167	1006	5.192 rad	3707287636	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel4old	1166	1011	5.995 rad	2804926028	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel3old	1159	1018	3.551 rad	3865749632	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1157	1056	5.622 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1162	1071	3.661 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	667	723	1.374 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	672	747	5.989 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	667	747	2.503 rad	969370502	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	927	1044	1.081 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	905	896	4.957 rad	90915766	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	922	1047	3.883 rad	1418889786	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	660	725	0.761 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	651	722	2.405 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	661	741	2.553 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Skeleton Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer1H@33]	660	747	4.811 rad	969370502	1_Labyrinth_OH_quad_#					
+Monster: Overgrown Colossus [Metadata/Monsters/Statue/LabyrinthStatueLargeFemaleUnarmed@33]	857	908	4.712 rad	3390002701	1_Labyrinth_OH_quad_#					
+Monster: Overgrown Colossus [Metadata/Monsters/Statue/LabyrinthStatueLargeMaleSword@33]	820	908	1.571 rad	19990978	1_Labyrinth_OH_quad_#					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_LabyrinthStatueLargeFemaleUnarmed	609	673	0.000 rad	1043451851	1_Labyrinth_OH_quad_#	0	-0.000			
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	601	731	1.203 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	613	790	4.099 rad	1871906559	1_Labyrinth_OH_quad_#					
+Object: Metadata/MiscellaneousObjects/WorldItem	839	889	5.395 rad	1418889786	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	860	1164	0.268 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	860	1169	5.309 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	865	1162	2.160 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	860	1159	0.843 rad	3468315289	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	948	1167	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthFlyingRoomba	971	1167	1.571 rad	860262680	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	996	1167	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Objects/Puzzle_Parts/Door_Closed	1046	1172	3.142 rad	2458022534	1_Labyrinth_OH_quad_#	29	-233.696			
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	584	724	2.626 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	592	749	5.375 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	578	790	1.694 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	594	794	6.160 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	592	806	0.982 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Crushing Mass [Metadata/Monsters/MossMonster/MossMonsterEmergeRollLabyrinth@33]	579	810	2.503 rad	1871906559	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	571	745	0.540 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	562	815	2.184 rad	1836746460	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	910	1195	5.788 rad	3468315289	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	1020	1191	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	530	800	0.344 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	534	809	2.994 rad	1836746460	1_Labyrinth_OH_quad_#					
+Monster: Undead Engineer [Metadata/Monsters/Skeletons/SkeletonLabyrinthEngineer2H@33]	543	820	0.172 rad	1836746460	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	912	1200	5.968 rad	2211595643	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	907	1201	4.515 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	905	1196	5.890 rad	866946829	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Visible	977	1207	0.000 rad	2886190665	1_Labyrinth_OH_quad_#	32	-250.679			
+Metadata/Chests/Basket3old	860	1232	3.588 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	865	1230	1.511 rad	2211595643	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	860	1227	2.329 rad	2211595643	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	884	1226	0.000 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	884	1231	4.712 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	894	1226	3.605 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	885	1221	1.571 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	879	1228	5.743 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	905	1226	0.785 rad	810541753	1_Labyrinth_OH_quad_#					
+Monster: Eternal Servant [Metadata/Monsters/Undying/CityStalkerFemaleLabyrinth@33]	899	1223	4.712 rad	810541753	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	960	1226	0.290 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	960	1231	3.056 rad	2211595643	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket2old	965	1223	1.245 rad	866946829	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Barrel2old	1034	914	1.072 rad	3707287636	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1017	912	4.141 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1033	921	1.471 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1018	939	2.915 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Rime Servant [Metadata/Monsters/Undying/CityStalkerMaleFreezingPulseLabyrinth@33]	1017	921	1.571 rad	1631808031	1_Labyrinth_OH_quad_#					
+Monster: Shadow Lurker [Metadata/Monsters/Grappler/GrapplerLabyrinth@33]	1020	934	3.785 rad	176833555	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthFlyingRoomba	1020	1199	0.000 rad	860262680	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Chest14	1022	1124	1.571 rad	3089877171	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket1old	1021	1113	1.574 rad	2211595643	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	1026	1113	0.564 rad	3468315289	1_Labyrinth_OH_quad_#					
+Metadata/Chests/Basket3old	1021	1118	3.940 rad	3468315289	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	1020	1191	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					
+Object: Metadata/Terrain/Labyrinth/Traps/Rail_Invisible	1020	1225	0.000 rad	1891618283	1_Labyrinth_OH_quad_#					

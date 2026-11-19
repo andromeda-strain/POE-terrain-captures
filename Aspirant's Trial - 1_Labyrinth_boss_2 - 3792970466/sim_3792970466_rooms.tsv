@@ -1,0 +1,3 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/Unique/boss_lieutenants.arm	4	28	0	node	teleport2disabled entrance3disabled telepad1 killzone=0 secret1
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/Unique/boss_entry_2_2.arm	4	4	0	node	default entrance1 entrance2 teleport1 telepad2 killzone=4

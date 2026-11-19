@@ -1,0 +1,442 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/Int/Int	247	679	1.571 rad	2621544766	1_2_3					
+Object: Metadata/Monsters/Bandits/TentBanditSpawner2	186	591	5.847 rad	186986131	1_2_3					
+Object: Metadata/MiscellaneousObjects/AreaTransition	218	678	4.712 rad	726109394	1_2_3	20	-157.343	0	9731	The Old Fields
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@16]	247	679	0.663 rad	436659295	1_2_3					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@16]	247	679	5.547 rad	436659295	1_2_3					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@16]	247	679	4.050 rad	436659295	1_2_3					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@16]	247	679	1.890 rad	436659295	1_2_3					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@16]	247	679	3.313 rad	436659295	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeScythe@15]	464	740	5.179 rad	3391395027	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeSickleDual@15]	478	741	2.749 rad	4049338749	1_2_3					
+Metadata/Chests/Cairn3	416	760	0.818 rad	1943797426	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowMeleePitchfork__@15]	475	764	3.412 rad	1542580475	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeRake01@15]	465	768	0.025 rad	3980012832	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeSickle@15]	482	759	0.025 rad	638778293	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	367	787	4.663 rad	1737530156	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	342	822	0.295 rad	1737530156	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	337	818	4.860 rad	1737530156	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	364	805	2.479 rad	1737530156	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	350	807	2.307 rad	1737530156	1_2_3					
+Metadata/Chests/TribalChest3	457	803	1.513 rad	2948926915	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	255	679	1.571 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	255	679	1.571 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	255	679	1.571 rad	4100307802	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeScythe@15]	486	498	5.841 rad	3391395027	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	489	573	0.785 rad	3227000841	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	505	579	4.369 rad	3227000841	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeRake02@15]	489	754	5.890 rad	2310531236	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	499	744	1.104 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	503	751	5.326 rad	201777365	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeSickleDual@15]	506	482	0.761 rad	4049338749	1_2_3					
+Metadata/Chests/Cairn2	519	550	4.802 rad	2820696047	1_2_3					
+Metadata/Chests/TribalChest3	523	585	5.337 rad	2948926915	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	514	608	0.368 rad	3227000841	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	514	718	2.283 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	525	723	4.835 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	507	738	5.375 rad	201777365	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeRake01@15]	538	478	5.768 rad	3980012832	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeRake02@15]	535	487	5.670 rad	2310531236	1_2_3					
+Metadata/Chests/TribalChest2	546	545	0.461 rad	3802957179	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	530	726	2.135 rad	201777365	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeScythe@15]	593	606	2.135 rad	3391395027	1_2_3					
+Metadata/Chests/TribalChest2	596	734	0.488 rad	3802957179	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeSickle@15]	580	830	2.062 rad	638778293	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeSickleDual@15]	593	833	5.498 rad	4049338749	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeRake02@15]	587	858	1.914 rad	2310531236	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeRake02@15]	614	578	5.940 rad	2310531236	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeSickle@15]	619	624	5.351 rad	638778293	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeSickleDual@15]	636	601	3.927 rad	4049338749	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	635	795	1.890 rad	1737530156	1_2_3					
+Metadata/Chests/TribalChest1	634	887	1.744 rad	848307785	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	660	518	2.430 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	665	519	4.982 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	662	509	4.761 rad	3343398524	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	657	800	5.449 rad	1737530156	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	659	795	1.841 rad	1737530156	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	650	841	0.908 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	659	833	2.602 rad	201777365	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	675	484	3.436 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	687	530	1.767 rad	3343398524	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	671	795	4.786 rad	1737530156	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	681	842	4.271 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	674	847	0.196 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	674	854	2.307 rad	201777365	1_2_3					
+Metadata/Chests/TribalChest1	704	569	2.749 rad	848307785	1_2_3					
+Metadata/NPC/Info/CrossroadsLoreVilla2	694	758	6.143 rad	87227804	1_2_3					
+Metadata/NPC/Info/CrossroadsLoreVilla	713	733	4.148 rad	1816348058	1_2_3	2	-16.304			
+Metadata/Chests/Cairn2	750	531	1.293 rad	2820696047	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeRake01@15]	742	697	3.976 rad	3980012832	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	756	706	5.964 rad	3343398524	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowMeleePitchfork__@15]	758	715	1.522 rad	1542580475	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeSickle@15]	746	716	3.166 rad	638778293	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	758	732	3.412 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	738	844	1.767 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	742	867	2.184 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	744	862	4.712 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	772	700	4.074 rad	3343398524	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeScythe@15]	764	719	5.277 rad	3391395027	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeSickleDual@15]	762	746	5.915 rad	4049338749	1_2_3					
+Metadata/Chests/TribalChest1	770	817	6.226 rad	848307785	1_2_3					
+Metadata/Chests/Cairn1	783	493	5.737 rad	2382745926	1_2_3					
+Metadata/Chests/Cairn1	796	723	2.216 rad	2382745926	1_2_3					
+Metadata/Chests/TribalChest3	786	751	1.393 rad	2948926915	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	578	613	1.052 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	576	612	0.785 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	572	613	0.245 rad	4100307802	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	585	613	1.792 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	584	610	1.203 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	584	616	1.546 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	587	616	1.743 rad	3787604642	1_2_3					
+Metadata/Chests/TribalChest2	824	541	5.311 rad	3802957179	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	836	474	2.356 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	856	482	5.031 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	855	475	3.313 rad	201777365	1_2_3					
+Monster: Summoned Phantasm [Metadata/Monsters/SummonedPhantasm/SummonedPhantasm@16]	533	606	5.326 rad	3905503871	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	904	508	5.105 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	913	511	2.307 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	921	504	5.400 rad	201777365	1_2_3					
+Metadata/Chests/TribalChest2	947	849	4.657 rad	3802957179	1_2_3					
+Object: Metadata/MiscellaneousObjects/Waypoint	977	678	1.571 rad	552129418	1_2_3	1	-15.508			
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1011	506	3.657 rad	1737530156	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1015	476	2.724 rad	1737530156	1_2_3					
+Metadata/Chests/Cairn1	1019	504	2.800 rad	2382745926	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1013	499	4.688 rad	1737530156	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1016	491	6.013 rad	1737530156	1_2_3					
+Metadata/Chests/Cairn2	1017	510	0.176 rad	2820696047	1_2_3					
+Metadata/Chests/Cairn1	1016	515	4.180 rad	2382745926	1_2_3					
+Metadata/Chests/TribalChest1	1023	514	3.773 rad	848307785	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeRake02@15]	587	858	1.914 rad	2310531236	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	674	854	2.307 rad	201777365	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	742	867	2.184 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	744	862	4.712 rad	3343398524	1_2_3					
+Metadata/Chests/TribalChest1	634	887	1.744 rad	848307785	1_2_3					
+Monster: Dread Weaver [Metadata/Monsters/Augury/SpinningWheelHag@15]	834	888	3.142 rad	1101937820	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1147	506	0.025 rad	1737530156	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1148	629	3.338 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1129	634	4.344 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1143	634	4.099 rad	201777365	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1158	502	4.074 rad	1737530156	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1159	641	4.418 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1172	622	0.123 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1153	643	5.252 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1153	653	5.179 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1160	651	4.271 rad	201777365	1_2_3					
+Metadata/Chests/Cairn2	1169	699	3.333 rad	2820696047	1_2_3					
+Metadata/Chests/Cairn3	1164	695	1.770 rad	1943797426	1_2_3					
+Metadata/Chests/Cairn3	1160	700	5.761 rad	1943797426	1_2_3					
+Metadata/Chests/Cairn3	1150	859	3.511 rad	1943797426	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	778	916	5.743 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	803	914	4.737 rad	3343398524	1_2_3					
+Monster: Dread Weaver [Metadata/Monsters/Augury/SpinningWheelHag@15]	825	899	3.608 rad	1101937820	1_2_3					
+Monster: Dread Weaver [Metadata/Monsters/Augury/SpinningWheelHag@15]	864	919	4.099 rad	1101937820	1_2_3					
+Metadata/Chests/TribalChest1	888	906	2.959 rad	848307785	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1178	524	3.878 rad	1737530156	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1180	636	5.105 rad	201777365	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1209	856	0.736 rad	3343398524	1_2_3					
+Metadata/Chests/Boulder1	1208	895	3.511 rad	94048164	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1214	890	2.823 rad	3343398524	1_2_3					
+Metadata/Chests/Boulder3	1239	643	1.316 rad	3968314488	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1222	879	1.031 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1244	893	1.055 rad	3343398524	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1308	795	2.847 rad	3227000841	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1170	369	2.037 rad	3227000841	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1156	389	0.000 rad	3227000841	1_2_3					
+Metadata/Chests/Cairn3	1335	531	6.263 rad	1943797426	1_2_3					
+Monster: Bravalo [Metadata/Monsters/Skeletons/SkeletonMeleeBossCrossroads@15]	1356	632	5.672 rad	3421971703	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1341	780	4.884 rad	3227000841	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1336	797	3.093 rad	3227000841	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1349	802	3.780 rad	3227000841	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1115	605	1.446 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1115	605	1.446 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1115	605	1.446 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1115	605	1.446 rad	4100307802	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1118	643	6.038 rad	3787604642	1_2_3					
+Monster: Summoned Phantasm [Metadata/Monsters/SummonedPhantasm/SummonedPhantasm@16]	1113	628	2.823 rad	3905503871	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1117	646	2.970 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1123	649	0.368 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1126	648	2.037 rad	3787604642	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1112	639	0.000 rad	1418889786	1_2_3					
+Metadata/NPC/Info/CrossroadsLoreWindmill	1371	673	5.218 rad	2227733018	1_2_3	28	-218.750			
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1374	696	3.485 rad	201777365	1_2_3					
+Monster: Summoned Phantasm [Metadata/Monsters/SummonedPhantasm/SummonedPhantasm@16]	1104	642	4.639 rad	3905503871	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1161	367	5.670 rad	3227000841	1_2_3					
+Monster: Summoned Phantasm [Metadata/Monsters/SummonedPhantasm/SummonedPhantasm@16]	1116	610	4.860 rad	3905503871	1_2_3					
+Metadata/NPC/Info/CrossroadsLoreChapel	1399	425	5.541 rad	684178375	1_2_3	14	-113.791			
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1401	543	1.399 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1382	544	3.804 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1397	533	2.773 rad	201777365	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1425	460	0.638 rad	3343398524	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1409	543	1.620 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1403	533	0.074 rad	201777365	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeRake02@15]	1424	653	2.258 rad	2310531236	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeSickleDual@15]	1420	660	0.540 rad	4049338749	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1422	672	0.589 rad	201777365	1_2_3					
+Monster: Dread Weaver [Metadata/Monsters/Augury/SpinningWheelHag@15]	1420	677	2.700 rad	1101937820	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowMeleePitchfork__@15]	1423	696	2.921 rad	1542580475	1_2_3					
+Metadata/Terrain/Leagues/Augury/Objects/AuguryBossObject	1356	632	0.000 rad	1818787057	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1442	432	3.927 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1435	443	0.834 rad	3343398524	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeScythe@15]	1430	666	2.430 rad	3391395027	1_2_3					
+Monster: Dread Weaver [Metadata/Monsters/Augury/SpinningWheelHag@15]	1432	656	3.191 rad	1101937820	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeRake01@15]	1429	671	5.817 rad	3980012832	1_2_3					
+Monster: Scarecrow [Metadata/Monsters/Skeletons/Scarecrow/ScarecrowFarmerSkeletonMeleeSickle@15]	1434	672	1.276 rad	638778293	1_2_3					
+Monster: Dread Weaver [Metadata/Monsters/Augury/SpinningWheelHag@15]	1432	688	1.841 rad	1101937820	1_2_3					
+Monster: Dread Underling [Metadata/Monsters/Augury/AuguryUrchin__@15]	1440	709	2.332 rad	629873471	1_2_3					
+Monster: Dread Underling [Metadata/Monsters/Augury/AuguryUrchin__@15]	1433	710	3.731 rad	629873471	1_2_3					
+Metadata/Chests/TribalChest1	1467	384	5.737 rad	848307785	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1450	436	5.964 rad	3343398524	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1456	692	5.296 rad	3851279866	1_2_3					
+Monster: Dread Crone [Metadata/Monsters/Augury/PaleHag___@15]	1452	724	5.326 rad	3904060413	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1463	724	2.807 rad	3851279866	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1465	728	2.614 rad	3851279866	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1455	724	5.822 rad	3851279866	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1482	676	1.991 rad	3851279866	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1491	700	5.670 rad	1737530156	1_2_3					
+Metadata/Terrain/Leagues/Augury/Objects/AuguryCardObject	1474	704	5.522 rad	3829842526	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1494	702	1.100 rad	3851279866	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1489	721	0.834 rad	1737530156	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1491	727	1.595 rad	1737530156	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1476	719	5.358 rad	3851279866	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1478	723	3.656 rad	3851279866	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1503	709	0.663 rad	1737530156	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1504	701	2.850 rad	3851279866	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1502	692	1.857 rad	3851279866	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1504	708	5.894 rad	3851279866	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1500	711	1.183 rad	3851279866	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1510	720	1.149 rad	3851279866	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1392	547	5.670 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1391	544	3.142 rad	3787604642	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1371	549	1.326 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1371	549	1.326 rad	4100307802	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1308	795	2.847 rad	3227000841	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1336	797	3.093 rad	3227000841	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1349	802	3.780 rad	3227000841	1_2_3					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1655	563	3.142 rad	726109394	1_2_3	3	-31.080	0	47747	The Broken Bridge
+Monster: Summoned Phantasm [Metadata/Monsters/SummonedPhantasm/SummonedPhantasm@16]	1374	548	5.866 rad	3905503871	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1308	795	2.847 rad	3227000841	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1336	797	3.093 rad	3227000841	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1349	802	3.780 rad	3227000841	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1209	856	0.736 rad	3343398524	1_2_3					
+Metadata/Chests/Boulder1	1208	895	3.511 rad	94048164	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1214	890	2.823 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1222	879	1.031 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1244	893	1.055 rad	3343398524	1_2_3					
+Object: Metadata/Effects/ServerEffect	1436	651	0.000 rad	2646652649	1_2_3	-4	38.324			
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1440	675	2.783 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1446	669	1.789 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1446	669	1.789 rad	4100307802	1_2_3					
+Metadata/NPC/Info/CrossroadsLoreChapel	1399	425	5.541 rad	684178375	1_2_3	14	-113.791			
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1464	677	2.675 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1466	680	1.522 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1462	674	4.418 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1460	671	5.203 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1463	679	1.988 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1466	679	2.135 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1460	678	2.724 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1464	676	0.147 rad	3787604642	1_2_3					
+Object: Metadata/Effects/ServerEffect	1460	684	5.212 rad	2646652649	1_2_3					
+Object: Metadata/Effects/ServerEffect	1460	694	3.142 rad	2646652649	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1493	678	2.266 rad	4100307802	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1458	683	2.292 rad	1418889786	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1492	679	2.447 rad	4100307802	1_2_3					
+Metadata/NPC/Info/CrossroadsLoreChapel	1399	425	5.541 rad	684178375	1_2_3	14	-113.791			
+Metadata/Chests/Boulder3	1239	643	1.316 rad	3968314488	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1222	879	1.031 rad	3343398524	1_2_3					
+Metadata/Chests/TribalChest3	1234	939	2.195 rad	2948926915	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1454	701	2.820 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1455	699	2.498 rad	4100307802	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1496	711	2.949 rad	1418889786	1_2_3					
+Monster: Summoned Phantasm [Metadata/Monsters/SummonedPhantasm/SummonedPhantasm@16]	1493	694	2.651 rad	3905503871	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1454	701	2.820 rad	4100307802	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1209	856	0.736 rad	3343398524	1_2_3					
+Metadata/Chests/Boulder1	1208	895	3.511 rad	94048164	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1214	890	2.823 rad	3343398524	1_2_3					
+Monster: Summoned Phantasm [Metadata/Monsters/SummonedPhantasm/SummonedPhantasm@16]	1455	732	3.142 rad	3905503871	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1456	736	0.519 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1456	736	0.519 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1456	736	0.519 rad	4100307802	1_2_3					
+Monster: Summoned Phantasm [Metadata/Monsters/SummonedPhantasm/SummonedPhantasm@16]	1456	756	1.154 rad	3905503871	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1460	760	0.147 rad	1418889786	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1460	760	2.728 rad	1418889786	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1456	736	0.519 rad	4100307802	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1419	486	6.196 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1430	466	3.570 rad	3343398524	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1512	694	0.278 rad	4100307802	1_2_3					
+Metadata/Effects/SleepableServerBeamEffect	1474	704	0.000 rad	978925438	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1432	449	3.536 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1441	453	3.641 rad	3343398524	1_2_3					
+Metadata/NPC/Info/CrossroadsLoreChapel	1399	425	5.541 rad	684178375	1_2_3	14	-113.791			
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1508	653	0.405 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1508	653	0.405 rad	4100307802	1_2_3					
+Metadata/Chests/TribalChest1	1467	384	5.737 rad	848307785	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1341	780	4.884 rad	3227000841	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1460	760	0.147 rad	1418889786	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1460	760	2.728 rad	1418889786	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1460	760	6.106 rad	1737530156	1_2_3					
+Metadata/Chests/Boulder3	1239	643	1.316 rad	3968314488	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1465	508	5.764 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1464	508	5.663 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1464	508	5.663 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1436	489	5.663 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1441	488	0.000 rad	4100307802	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1446	494	1.644 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1449	493	4.909 rad	3787604642	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1446	491	0.785 rad	4100307802	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1446	485	0.006 rad	1418889786	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1447	491	0.876 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1449	491	1.012 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1448	492	1.052 rad	4100307802	1_2_3					
+Monster: Summoned Phantasm [Metadata/Monsters/SummonedPhantasm/SummonedPhantasm@16]	1436	468	4.295 rad	3905503871	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1440	472	3.404 rad	1418889786	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1368	690	3.770 rad	201777365	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1456	692	5.296 rad	3851279866	1_2_3					
+Metadata/Terrain/Leagues/Augury/Objects/AuguryCardObject	1474	704	5.522 rad	3829842526	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1494	702	1.100 rad	3851279866	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1496	711	2.356 rad	1737530156	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1497	698	5.176 rad	1737530156	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1504	701	2.850 rad	3851279866	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1502	692	1.857 rad	3851279866	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1504	708	5.894 rad	3851279866	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1500	711	1.183 rad	3851279866	1_2_3					
+Monster: Summoned Phantasm [Metadata/Monsters/SummonedPhantasm/SummonedPhantasm@16]	1421	500	6.234 rad	3905503871	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1425	504	5.892 rad	1418889786	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1464	723	5.992 rad	1737530156	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1463	724	2.807 rad	3851279866	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1465	728	2.614 rad	3851279866	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1455	724	5.822 rad	3851279866	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1476	719	5.358 rad	3851279866	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1478	723	3.656 rad	3851279866	1_2_3					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1510	720	1.149 rad	3851279866	1_2_3					
+Monster: Summoned Phantasm [Metadata/Monsters/SummonedPhantasm/SummonedPhantasm@16]	1488	472	4.099 rad	3905503871	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1490	476	2.464 rad	1418889786	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1161	367	5.670 rad	3227000841	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1170	369	2.037 rad	3227000841	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1156	389	0.000 rad	3227000841	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1155	534	3.406 rad	1737530156	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1151	551	3.024 rad	1737530156	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1152	529	3.252 rad	1737530156	1_2_3					
+Metadata/Chests/Cairn2	1169	699	3.333 rad	2820696047	1_2_3					
+Metadata/Chests/Cairn3	1164	695	1.770 rad	1943797426	1_2_3					
+Metadata/Chests/Cairn3	1160	700	5.761 rad	1943797426	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1341	780	4.884 rad	3227000841	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1460	760	0.147 rad	1418889786	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1460	760	2.728 rad	1418889786	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1460	760	6.106 rad	1737530156	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1308	795	2.847 rad	3227000841	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1336	797	3.093 rad	3227000841	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1349	802	3.780 rad	3227000841	1_2_3					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1655	563	3.142 rad	726109394	1_2_3	3	-31.080	0	47747	The Broken Bridge
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1209	856	0.736 rad	3343398524	1_2_3					
+Metadata/Chests/Boulder1	1208	895	3.511 rad	94048164	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1214	890	2.823 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1222	879	1.031 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1244	893	1.055 rad	3343398524	1_2_3					
+Metadata/Chests/TribalChest3	1234	939	2.195 rad	2948926915	1_2_3					
+Metadata/Chests/Boulder3	1239	643	1.316 rad	3968314488	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1222	879	1.031 rad	3343398524	1_2_3					
+Metadata/Chests/TribalChest3	1234	939	2.195 rad	2948926915	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1425	504	5.892 rad	1418889786	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1425	504	0.359 rad	3343398524	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1446	485	0.006 rad	1418889786	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1446	485	3.568 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1440	472	3.100 rad	3343398524	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1490	476	2.464 rad	1418889786	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1490	476	5.622 rad	3343398524	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1209	856	0.736 rad	3343398524	1_2_3					
+Metadata/Chests/Boulder1	1208	895	3.511 rad	94048164	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1214	890	2.823 rad	3343398524	1_2_3					
+Metadata/NPC/Info/CrossroadsLoreChapel	1399	425	5.541 rad	684178375	1_2_3	14	-113.791			
+Metadata/Chests/TribalChest1	1467	384	5.737 rad	848307785	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1161	367	5.670 rad	3227000841	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1170	369	2.037 rad	3227000841	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1156	389	0.000 rad	3227000841	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1155	534	3.406 rad	1737530156	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1151	551	3.024 rad	1737530156	1_2_3					
+Monster: Brittle Archer [Metadata/Monsters/Skeletons/SkeletonBowSplitArrow@15]	1152	529	3.252 rad	1737530156	1_2_3					
+Metadata/Chests/Cairn2	1169	699	3.333 rad	2820696047	1_2_3					
+Metadata/Chests/Cairn3	1164	695	1.770 rad	1943797426	1_2_3					
+Metadata/Chests/Cairn3	1160	700	5.761 rad	1943797426	1_2_3					
+Metadata/Chests/Cairn3	1150	859	3.511 rad	1943797426	1_2_3					
+Monster: Kraityn's Scout [Metadata/Monsters/Bandits/BanditBowBurningArrow@15]	1209	856	0.736 rad	3343398524	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1356	624	5.820 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1353	625	5.498 rad	4100307802	1_2_3					
+Monster: Daemon [Metadata/Monsters/Augury/Daemon/LightningLeylinesDaemon@15]	1356	632	0.736 rad	490324680	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1362	620	6.013 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1358	625	0.466 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1355	624	5.326 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1362	623	1.104 rad	3787604642	1_2_3					
+Monster: Summoned Phantasm [Metadata/Monsters/SummonedPhantasm/SummonedPhantasm@16]	1352	628	2.503 rad	3905503871	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1359	618	2.160 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1361	626	5.890 rad	3787604642	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1170	369	2.037 rad	3227000841	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1156	389	0.000 rad	3227000841	1_2_3					
+Metadata/Chests/TribalChest1	1467	384	5.737 rad	848307785	1_2_3					
+Metadata/Monsters/Daemon/Augury/LightningLeylinesFissureLine	1356	615	0.876 rad	3111910853	1_2_3					
+Metadata/Monsters/Daemon/Augury/LightningLeylinesFissureLine	1362	610	0.876 rad	3111910853	1_2_3					
+Metadata/Monsters/Daemon/Augury/LightningLeylinesFissureLine	1368	605	1.292 rad	3111910853	1_2_3					
+Metadata/Monsters/Daemon/Augury/LightningLeylinesFissureLine	1375	603	1.695 rad	3111910853	1_2_3					
+Metadata/Monsters/Daemon/Augury/LightningLeylinesFissureLineEnd	1383	604	1.589 rad	2216991877	1_2_3					
+Metadata/Monsters/Daemon/Augury/LightningLeylinesFissureLineStart	1356	631	3.017 rad	3232383150	1_2_3					
+Metadata/Monsters/Daemon/Augury/LightningLeylinesFissureLineStart	1356	631	6.159 rad	3232383150	1_2_3					
+Metadata/Monsters/Daemon/Augury/LightningLeylinesFissureLine	1355	623	0.124 rad	3111910853	1_2_3					
+Metadata/Monsters/Daemon/Augury/LightningLeylinesFissureLine	1357	639	3.546 rad	3111910853	1_2_3					
+Metadata/Monsters/Daemon/Augury/LightningLeylinesFissureLine	1354	646	3.017 rad	3111910853	1_2_3					
+Metadata/Monsters/Daemon/Augury/LightningLeylinesFissureLine	1355	654	2.447 rad	3111910853	1_2_3					
+Metadata/Monsters/Daemon/Augury/LightningLeylinesFissureLine	1360	660	2.622 rad	3111910853	1_2_3					
+Metadata/Monsters/Daemon/Augury/LightningLeylinesFissureLine	1364	667	3.266 rad	3111910853	1_2_3					
+Metadata/Monsters/Daemon/Augury/LightningLeylinesFissureLine	1363	675	2.622 rad	3111910853	1_2_3					
+Metadata/Monsters/Daemon/Augury/LightningLeylinesFissureLine	1367	682	2.863 rad	3111910853	1_2_3					
+Metadata/Monsters/Daemon/Augury/LightningLeylinesFissureLine	1369	689	2.737 rad	3111910853	1_2_3					
+Metadata/Monsters/Daemon/Augury/LightningLeylinesFissureLineEnd	1372	696	2.260 rad	2216991877	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1372	609	1.252 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1369	613	0.196 rad	3787604642	1_2_3					
+Object: Metadata/Effects/ServerEffect	1358	625	3.463 rad	2646652649	1_2_3					
+Object: Metadata/Effects/ServerEffect	1364	627	4.249 rad	2646652649	1_2_3					
+Monster: Summoned Phantasm [Metadata/Monsters/SummonedPhantasm/SummonedPhantasm@16]	1355	627	1.890 rad	3905503871	1_2_3					
+Monster: Summoned Phantasm [Metadata/Monsters/SummonedPhantasm/SummonedPhantasm@16]	1358	627	1.792 rad	3905503871	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1349	619	1.595 rad	3787604642	1_2_3					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@17]	1349	625	0.834 rad	3787604642	1_2_3					
+Object: Metadata/Effects/ServerEffect	1355	624	3.000 rad	2646652649	1_2_3					
+Object: Metadata/Effects/ServerEffect	1361	624	3.762 rad	2646652649	1_2_3					
+Monster: Summoned Phantasm [Metadata/Monsters/SummonedPhantasm/SummonedPhantasm@16]	1360	630	2.332 rad	3905503871	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1362	620	3.605 rad	4100307802	1_2_3					
+Monster: Summoned Phantasm [Metadata/Monsters/SummonedPhantasm/SummonedPhantasm@16]	1355	635	1.227 rad	3905503871	1_2_3					
+Object: Metadata/Effects/ServerEffect	1361	626	3.927 rad	2646652649	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1362	620	3.605 rad	4100307802	1_2_3					
+Monster: Summoned Phantasm [Metadata/Monsters/SummonedPhantasm/SummonedPhantasm@16]	1358	635	4.123 rad	3905503871	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1356	631	4.799 rad	1418889786	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1356	631	1.524 rad	1418889786	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1356	631	1.677 rad	1418889786	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1356	631	3.674 rad	1418889786	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1356	636	6.157 rad	1418889786	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1356	631	2.710 rad	1418889786	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1356	631	5.425 rad	1418889786	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1356	631	2.341 rad	1418889786	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1356	631	2.052 rad	1418889786	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1360	628	4.707 rad	1418889786	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1361	631	1.045 rad	1418889786	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1359	636	4.516 rad	1418889786	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1161	367	5.670 rad	3227000841	1_2_3					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1655	563	3.142 rad	726109394	1_2_3	3	-31.080	0	47747	The Broken Bridge
+Object: Metadata/Effects/ServerEffect	1351	610	1.571 rad	2646652649	1_2_3					
+Object: Metadata/Effects/ServerEffect	1358	619	3.964 rad	2646652649	1_2_3					
+Object: Metadata/Effects/ServerEffect	1362	607	1.089 rad	2646652649	1_2_3					
+Object: Metadata/Effects/ServerEffect	1364	594	0.588 rad	2646652649	1_2_3					
+Object: Metadata/Effects/ServerEffect	1353	603	4.910 rad	2646652649	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1366	543	0.000 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1367	548	4.069 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1361	541	2.944 rad	201777365	1_2_3					
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1376	552	1.326 rad	201777365	1_2_3					
+Metadata/NPC/Info/CrossroadsLoreWindmill	1371	673	5.218 rad	2227733018	1_2_3	28	-218.750			
+Monster: Kraityn's Aspirant [Metadata/Monsters/Bandits/BanditMeleeSwordKraitynSpecific@15]	1365	680	6.110 rad	201777365	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1588	546	4.837 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1586	544	5.004 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1586	544	5.004 rad	4100307802	1_2_3					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@28]	1586	544	5.004 rad	4100307802	1_2_3					
+Metadata/Chests/Cairn3	1335	531	6.263 rad	1943797426	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1356	631	1.524 rad	1418889786	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1356	631	1.677 rad	1418889786	1_2_3					
+Object: Metadata/MiscellaneousObjects/WorldItem	1356	631	3.674 rad	1418889786	1_2_3					
+Monster: Bravalo [Metadata/Monsters/Skeletons/SkeletonMeleeBossCrossroads@15]	1356	631	5.176 rad	3421971703	1_2_3					
+Monster: Hulking Titan [Metadata/Monsters/MossMonster/MossMonsterEmergeRoll@15]	1341	780	4.884 rad	3227000841	1_2_3					

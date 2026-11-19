@@ -1,0 +1,18 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/Unique/entrance.arm	20	4	0	node	default entrance1
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/Unique/bottleneck_02.arm	28	20	2	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/Unique/entrance.arm	52	52	1	node	entrance3
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/Unique/secret_hidden_rotated_1.arm	4	20	5	node	secret2
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/Unique/entrance.arm	28	52	7	node	entrance2
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/Unique/secret_puzzle.arm	52	36	7	node	secret1
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/1x1/var2_01.arm	12	4	2	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/1x1/var3_03.arm	20	20	5	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/1x1/var3_03.arm	28	36	1	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/1x1/var2_trap.arm	20	28	0	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/1x1/var2_10.arm	44	52	4	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/1x1/var2_09.arm	36	52	4	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/1x1/var2_12.arm	28	44	0	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/1x1/var2_09.arm	44	36	0	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/1x1/var2_12.arm	36	36	1	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/1x1/var3_03.arm	20	12	3	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/1x1/var3_05.arm	12	12	1	node	

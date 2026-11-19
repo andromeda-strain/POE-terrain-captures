@@ -1,0 +1,739 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/Int/Int	1324	769	4.712 rad	2621544766	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1114	529	2.405 rad	2509988227	1_3_8_2					
+Monster: Flame Sentinel [Metadata/Monsters/Guardians/GuardianFire@28]	1136	546	2.356 rad	2228051316	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1129	547	6.087 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1147	547	0.466 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1151	539	5.915 rad	2509988227	1_3_8_2					
+Monster: Dread Banshee [Metadata/Monsters/Augury/AuguryScreecher@28]	1205	542	0.687 rad	3593811913	1_3_8_2					
+Object: Metadata/Monsters/Statue/MaleLarge/Spawner_GoldStatueLargeMaleSword	1207	626	0.000 rad	93948362	1_3_8_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleMaul	1231	627	0.000 rad	1328406541	1_3_8_2	0	-0.000			
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@36]	1324	769	3.117 rad	937681074	1_3_8_2					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@36]	1324	769	2.037 rad	937681074	1_3_8_2					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@36]	1324	769	3.338 rad	937681074	1_3_8_2					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@36]	1324	769	5.056 rad	937681074	1_3_8_2					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@36]	1324	769	2.209 rad	937681074	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1365	775	4.712 rad	726109394	1_3_8_2	15	-124.651	0	61957	The Solaris Temple Level 1
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1212	544	1.117 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1212	538	1.480 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1201	540	4.285 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1202	549	1.803 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1228	541	4.564 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1255	543	5.713 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1245	548	2.032 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1245	546	5.771 rad	3851279866	1_3_8_2					
+Monster: Dread Underling [Metadata/Monsters/Augury/AuguryUrchin__@28]	1277	548	3.043 rad	3614645592	1_3_8_2					
+Monster: Dread Underling [Metadata/Monsters/Augury/AuguryUrchin__@28]	1282	549	5.743 rad	3614645592	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1128	554	4.958 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1149	552	4.516 rad	2509988227	1_3_8_2					
+Monster: Dread Banshee [Metadata/Monsters/Augury/AuguryScreecher@28]	1211	566	3.605 rad	3593811913	1_3_8_2					
+Monster: Dread Banshee [Metadata/Monsters/Augury/AuguryScreecher@28]	1224	557	0.405 rad	3593811913	1_3_8_2					
+Metadata/Terrain/Leagues/Augury/Objects/AuguryCardObject	1221	558	3.550 rad	3829842526	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1222	574	3.684 rad	3851279866	1_3_8_2					
+Monster: Dread Crone [Metadata/Monsters/Augury/PaleHag___@28]	1283	569	1.055 rad	2737744907	1_3_8_2					
+Monster: Dread Underling [Metadata/Monsters/Augury/AuguryUrchin__@28]	1279	564	4.418 rad	3614645592	1_3_8_2					
+Monster: Dread Underling [Metadata/Monsters/Augury/AuguryUrchin__@28]	1269	568	4.074 rad	3614645592	1_3_8_2					
+Monster: Dread Underling [Metadata/Monsters/Augury/AuguryUrchin__@28]	1267	571	4.712 rad	3614645592	1_3_8_2					
+Monster: Dread Underling [Metadata/Monsters/Augury/AuguryUrchin__@28]	1290	554	4.639 rad	3614645592	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1147	593	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1174	593	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1197	579	5.606 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1239	593	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1239	578	5.169 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1266	593	1.571 rad	2595699018	1_3_8_2					
+Monster: Dread Underling [Metadata/Monsters/Augury/AuguryUrchin__@28]	1291	596	5.670 rad	3614645592	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1098	608	3.215 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1086	613	0.270 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1081	619	5.866 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1122	616	3.731 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	1099	634	5.007 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1090	632	5.547 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1099	647	2.602 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1044	574	2.283 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1052	558	3.461 rad	2509988227	1_3_8_2					
+Metadata/Chests/GoldPot1	1042	596	5.329 rad	2724428440	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1044	591	1.522 rad	2509988227	1_3_8_2					
+Metadata/Chests/GoldPot4v1	1042	601	0.767 rad	315717410	1_3_8_2					
+Metadata/Chests/GoldPot4v1	1045	598	1.734 rad	315717410	1_3_8_2					
+Metadata/Chests/GoldPot2v1	1039	598	2.610 rad	2941014527	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1114	529	2.405 rad	2509988227	1_3_8_2					
+Monster: Flame Sentinel [Metadata/Monsters/Guardians/GuardianFire@28]	1136	546	2.356 rad	2228051316	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1129	547	6.087 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1147	547	0.466 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1151	539	5.915 rad	2509988227	1_3_8_2					
+Monster: Dread Banshee [Metadata/Monsters/Augury/AuguryScreecher@28]	1205	542	0.687 rad	3593811913	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1212	544	1.117 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1212	538	1.480 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1201	540	4.285 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1202	549	1.803 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1228	541	4.564 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1255	543	5.713 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1245	548	2.032 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	1245	546	5.771 rad	3851279866	1_3_8_2					
+Monster: Dread Underling [Metadata/Monsters/Augury/AuguryUrchin__@28]	1277	548	3.043 rad	3614645592	1_3_8_2					
+Monster: Dread Underling [Metadata/Monsters/Augury/AuguryUrchin__@28]	1282	549	5.743 rad	3614645592	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1126	472	3.093 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1135	468	6.185 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1141	466	0.933 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1135	474	6.259 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1117	443	3.682 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	1135	453	4.688 rad	3211517353	1_3_8_2					
+Metadata/Chests/GoldenChest2	1287	437	1.571 rad	2916066718	1_3_8_2					
+Metadata/Chests/GoldenChest3	1126	429	1.571 rad	902169173	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1027	571	6.038 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1014	565	5.915 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	1031	577	6.111 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1029	588	0.884 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1016	583	0.638 rad	2509988227	1_3_8_2					
+Metadata/Chests/GoldPot4v1	1034	601	5.212 rad	315717410	1_3_8_2					
+Monster: Auric Colossus [Metadata/Monsters/Statue/GoldStatueLargeMaleSword@28]	1207	626	0.000 rad	2052318846	1_3_8_2					
+Monster: Aurate Warrior [Metadata/Monsters/Statue/GoldStatueFemaleMaul@28]	1231	627	0.000 rad	1240271132	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1246	567	0.761 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1248	562	5.989 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1251	585	0.000 rad	2646652649	1_3_8_2	0	0.000			
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1238	551	4.417 rad	316014466	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1251	561	0.123 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1249	565	4.565 rad	2080364608	1_3_8_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	1215	534	4.982 rad	316014466	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1027	571	6.038 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1014	565	5.915 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	1031	577	6.111 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1029	588	0.884 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1016	583	0.638 rad	2509988227	1_3_8_2					
+Metadata/Chests/GoldPot4v1	1034	601	5.212 rad	315717410	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1244	568	5.799 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1244	568	5.799 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1268	505	5.031 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1265	503	5.351 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1266	568	1.107 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1266	568	1.107 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1257	513	1.644 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1257	516	1.055 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1252	520	1.914 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1251	523	1.399 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1250	595	2.622 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1249	517	2.307 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1252	517	5.228 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1267	511	3.142 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1274	563	0.464 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1252	520	2.675 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1251	523	5.473 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1258	513	1.976 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1269	508	3.546 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1264	523	2.553 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1258	516	2.214 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1268	521	4.001 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1254	530	1.052 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1264	520	3.019 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1258	523	0.464 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1267	524	2.430 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1255	529	3.605 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1267	551	0.000 rad	2646652649	1_3_8_2	0	0.000			
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1261	521	1.031 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1244	525	3.142 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1250	525	2.678 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1267	518	3.976 rad	2080364608	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1365	775	4.712 rad	726109394	1_3_8_2	15	-124.651	0	61957	The Solaris Temple Level 1
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1027	571	6.038 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1014	565	5.915 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	1031	577	6.111 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1029	588	0.884 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1016	583	0.638 rad	2509988227	1_3_8_2					
+Metadata/Chests/GoldPot4v1	1034	601	5.212 rad	315717410	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1027	571	6.038 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1014	565	5.915 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	1031	577	6.111 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1029	588	0.884 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1016	583	0.638 rad	2509988227	1_3_8_2					
+Metadata/Chests/GoldPot4v1	1034	601	5.212 rad	315717410	1_3_8_2					
+Monster: Flame Sentinel [Metadata/Monsters/Guardians/GuardianFire@28]	1002	539	3.853 rad	2228051316	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1002	551	4.442 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1008	536	4.712 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	994	532	4.491 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	995	560	1.522 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	992	566	2.773 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1258	562	5.720 rad	1418889786	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1180	527	4.771 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1219	540	2.798 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1225	540	1.252 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1249	562	1.571 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1216	537	2.209 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1222	538	5.277 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1248	571	2.930 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1266	560	4.467 rad	2646652649	1_3_8_2					
+Metadata/Effects/SleepableServerBeamEffect	1221	558	0.000 rad	978925438	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1202	524	0.736 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1205	520	3.142 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1232	544	5.107 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1247	548	1.212 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1199	522	6.259 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1199	525	5.841 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1205	542	4.712 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1249	551	0.785 rad	2646652649	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	978	690	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	955	598	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	965	677	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	965	703	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	952	690	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	942	585	0.000 rad	2595699018	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	925	684	0.957 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	928	705	3.338 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1365	775	4.712 rad	726109394	1_3_8_2	15	-124.651	0	61957	The Solaris Temple Level 1
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1147	549	5.547 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1145	546	1.644 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1167	539	4.391 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1166	536	4.069 rad	2646652649	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	910	684	5.424 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	902	670	1.154 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	907	708	6.185 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	906	690	2.062 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	882	553	1.203 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	876	556	4.123 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	879	566	2.503 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	893	689	4.909 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	895	684	5.007 rad	2509988227	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1124	488	1.963 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1122	494	4.074 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1147	537	4.957 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1145	532	6.242 rad	2646652649	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1132	435	1.309 rad	1418889786	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	910	684	5.424 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	902	670	1.154 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	925	684	0.957 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	965	677	0.000 rad	2595699018	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	882	553	1.203 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	876	556	4.123 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	879	566	2.503 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	893	689	4.909 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	895	684	5.007 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	907	708	6.185 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	906	690	2.062 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	928	705	3.338 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	965	703	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	952	690	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	978	690	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1365	775	4.712 rad	726109394	1_3_8_2	15	-124.651	0	61957	The Solaris Temple Level 1
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	910	684	5.424 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	902	670	1.154 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	907	708	6.185 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	906	690	2.062 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	882	553	1.203 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	876	556	4.123 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	879	566	2.503 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	893	689	4.909 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	895	684	5.007 rad	2509988227	1_3_8_2					
+Object: Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleSword	885	845	3.142 rad	2933365115	1_3_8_2	0	-0.000			
+Monster: Flame Sentinel [Metadata/Monsters/Guardians/GuardianFire@28]	868	552	5.105 rad	2228051316	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	869	572	4.737 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	862	552	5.498 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	864	563	4.565 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	868	581	4.786 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1124	615	2.962 rad	1418889786	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1134	491	4.332 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1130	536	2.597 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1099	615	0.761 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1102	617	2.184 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1144	512	2.583 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1127	555	2.850 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1110	623	3.068 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1113	621	2.160 rad	2080364608	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	840	575	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	840	690	0.000 rad	2595699018	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	832	830	3.191 rad	2509988227	1_3_8_2					
+Object: Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleMaul	839	845	3.142 rad	2579504709	1_3_8_2	0	-0.000			
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	827	562	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	827	588	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	814	575	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	827	677	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	827	703	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	814	690	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1153	510	6.141 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1163	527	0.719 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	981	546	2.651 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	978	540	2.013 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1150	520	3.024 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	978	537	4.001 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	975	543	5.670 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1080	606	5.498 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	884	555	2.626 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	881	553	4.982 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1058	587	4.712 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1064	591	0.000 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	884	548	5.277 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	884	551	3.927 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	997	538	5.034 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1060	589	5.458 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	884	555	1.030 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	884	555	1.030 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	881	553	5.093 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	881	553	5.093 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	884	548	2.034 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	884	548	2.034 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	884	551	5.498 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	884	551	5.498 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	871	545	6.013 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	871	549	3.338 rad	2080364608	1_3_8_2					
+Metadata/Chests/GoldPot2v2	808	821	4.712 rad	13096716	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	991	569	5.266 rad	1418889786	1_3_8_2					
+Metadata/Chests/GoldenChest3	1126	429	1.571 rad	902169173	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1126	503	3.605 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1124	615	2.962 rad	1418889786	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1124	615	0.540 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1111	607	1.876 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1125	606	3.142 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1110	617	3.142 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1114	620	5.820 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1119	621	1.012 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	1106	642	0.418 rad	3211517353	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	877	580	0.000 rad	2779517034	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	877	580	0.000 rad	2779517034	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	877	580	0.000 rad	2779517034	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	877	580	0.000 rad	2779517034	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	877	580	0.000 rad	2779517034	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	881	569	0.810 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	876	569	5.277 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	873	567	1.424 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	876	566	2.209 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	926	562	4.803 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	1026	557	1.153 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	876	556	4.837 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	876	556	4.837 rad	2646652649	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	815	839	0.736 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	832	830	3.191 rad	2509988227	1_3_8_2					
+Object: Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleMaul	839	845	3.142 rad	2579504709	1_3_8_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleSword	885	845	3.142 rad	2933365115	1_3_8_2	0	-0.000			
+Metadata/Chests/GoldenChest3	1126	429	1.571 rad	902169173	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1126	503	3.605 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1124	615	2.962 rad	1418889786	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1124	615	0.540 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1111	607	1.876 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1125	606	3.142 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	868	555	5.954 rad	1418889786	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	868	555	6.101 rad	1418889786	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	868	555	4.885 rad	1418889786	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1110	617	3.142 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1114	620	5.820 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1119	621	1.012 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	1106	642	0.418 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	815	865	1.227 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	832	858	5.424 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	840	855	4.320 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	846	860	2.479 rad	2509988227	1_3_8_2					
+Object: Metadata/Monsters/Statue/Male/Spawner_GoldStatueMaleBow	839	879	0.000 rad	842382914	1_3_8_2	0	-0.000			
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_GoldStatueLargeFemaleSpear	862	880	0.000 rad	3344840835	1_3_8_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleBow	886	880	0.000 rad	4048671462	1_3_8_2	0	-0.000			
+Metadata/Chests/GoldPot1	825	916	3.500 rad	2724428440	1_3_8_2					
+Metadata/Chests/GoldPot2v2	831	918	1.382 rad	13096716	1_3_8_2					
+Metadata/Chests/GoldPot2v2	834	917	0.806 rad	13096716	1_3_8_2					
+Metadata/Chests/GoldPot4v1	838	915	6.219 rad	315717410	1_3_8_2					
+Metadata/Chests/GoldPot4v2	828	916	0.995 rad	1825563821	1_3_8_2					
+Metadata/Chests/GoldPot3	837	908	0.826 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldPot3	839	905	0.904 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldPot1	834	905	4.691 rad	2724428440	1_3_8_2					
+Metadata/Chests/GoldPot2v1	832	914	0.939 rad	2941014527	1_3_8_2					
+Metadata/Chests/GoldPot2v1	834	908	4.880 rad	2941014527	1_3_8_2					
+Metadata/Chests/GoldPot4v1	834	911	2.605 rad	315717410	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	669	938	4.565 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	683	931	1.301 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	674	930	1.571 rad	2509988227	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	874	548	3.785 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	900	699	3.510 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	899	696	5.424 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	888	541	3.868 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	877	571	3.065 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	896	692	5.081 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	899	693	6.185 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	868	584	3.105 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	881	575	3.228 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	901	711	4.958 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	900	714	0.074 rad	2080364608	1_3_8_2					
+Metadata/Chests/GoldPot2v1	687	954	4.712 rad	2941014527	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	672	945	2.258 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	685	961	3.264 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	691	963	5.768 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	794	965	0.515 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	800	964	2.847 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	874	611	1.665 rad	1418889786	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	887	685	3.084 rad	1418889786	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	786	983	0.442 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	776	1009	4.197 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	797	989	2.553 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	802	1010	3.338 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Door	701	1023	3.142 rad	1399266459	1_3_8_2	0	0.001			
+Metadata/Chests/GoldPot2v1	814	1035	6.214 rad	2941014527	1_3_8_2					
+Metadata/Chests/GoldPot4v1	810	1040	1.347 rad	315717410	1_3_8_2					
+Metadata/Chests/GoldPot3	811	1035	3.643 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldPot1	807	1038	4.169 rad	2724428440	1_3_8_2					
+Metadata/Chests/GoldPot4v1	814	1046	3.875 rad	315717410	1_3_8_2					
+Metadata/Chests/GoldPot4v2	806	1035	2.017 rad	1825563821	1_3_8_2					
+Monster: Auric Champion [Metadata/Monsters/Statue/GoldStatueLargeFemaleSpear@28]	862	880	0.000 rad	1134518903	1_3_8_2					
+Object: Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleBow	706	1093	1.571 rad	4048671462	1_3_8_2	0	-0.000			
+Object: Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleBow	742	1091	4.712 rad	4048671462	1_3_8_2	0	-0.000			
+Monster: Aurate Archer [Metadata/Monsters/Statue/GoldStatueMaleBow@28]	839	879	0.000 rad	2539195097	1_3_8_2					
+Monster: Aurate Warrior [Metadata/Monsters/Statue/GoldStatueMaleSword@28]	885	845	3.142 rad	3356004323	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	849	885	1.571 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	846	882	4.050 rad	2080364608	1_3_8_2					
+Monster: Aurate Warrior [Metadata/Monsters/Statue/GoldStatueMaleMaul@28]	839	845	3.142 rad	1132813447	1_3_8_2					
+Monster: Aurate Archer [Metadata/Monsters/Statue/GoldStatueFemaleBow@28]	886	880	0.000 rad	596091581	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	843	878	2.749 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	845	875	5.866 rad	2080364608	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	848	881	0.719 rad	1418889786	1_3_8_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	840	883	0.077 rad	316014466	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	688	1109	2.332 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	708	1120	0.957 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	708	1110	3.853 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	735	1124	1.350 rad	2509988227	1_3_8_2					
+Metadata/Chests/GoldPot2v1	764	1110	3.749 rad	2941014527	1_3_8_2					
+Metadata/Chests/GoldPot3	764	1113	5.969 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldPot4v2	759	1114	6.212 rad	1825563821	1_3_8_2					
+Metadata/Chests/GoldPot3	767	1110	2.080 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldPot3	761	1107	3.663 rad	1213790216	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	714	1139	0.245 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	840	874	6.163 rad	1418889786	1_3_8_2					
+Metadata/Chests/GoldPot4v1	758	1155	4.121 rad	315717410	1_3_8_2					
+Metadata/Chests/GoldPot4v1	759	1151	5.112 rad	315717410	1_3_8_2					
+Metadata/Chests/GoldPot1	762	1158	0.836 rad	2724428440	1_3_8_2					
+Metadata/Chests/GoldPot4v2	767	1158	5.522 rad	1825563821	1_3_8_2					
+Metadata/Chests/GoldPot2v2	768	1155	1.146 rad	13096716	1_3_8_2					
+Metadata/Chests/GoldPot2v2	761	1155	6.071 rad	13096716	1_3_8_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	721	852	1.346 rad	316014466	1_3_8_2					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_GoldStatueLargeFemaleSpear	706	1184	1.571 rad	3344840835	1_3_8_2	0	-0.000			
+Object: Metadata/MiscellaneousObjects/WorldItem	826	868	5.057 rad	1418889786	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	679	986	1.031 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	682	984	3.264 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	854	868	0.464 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	686	979	5.866 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	682	979	3.436 rad	2080364608	1_3_8_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	835	872	2.636 rad	316014466	1_3_8_2					
+Metadata/Chests/GoldPot2v2	915	1222	0.000 rad	13096716	1_3_8_2					
+Monster: Dread Weaver [Metadata/Monsters/Augury/SpinningWheelHag@28]	792	1263	4.123 rad	23764846	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	838	880	0.670 rad	1418889786	1_3_8_2					
+Monster: Dread Weaver [Metadata/Monsters/Augury/SpinningWheelHag@28]	795	1279	0.491 rad	23764846	1_3_8_2					
+Monster: Dread Banshee [Metadata/Monsters/Augury/AuguryScreecher@28]	801	1284	2.111 rad	3593811913	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	896	1276	0.000 rad	2595699018	1_3_8_2					
+Metadata/Chests/GoldPot4v1	917	1286	0.499 rad	315717410	1_3_8_2					
+Metadata/Chests/GoldPot2v2	914	1285	5.871 rad	13096716	1_3_8_2					
+Metadata/Chests/GoldPot2v2	911	1286	5.316 rad	13096716	1_3_8_2					
+Metadata/Chests/GoldPot3	922	1286	0.517 rad	1213790216	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	731	1301	6.147 rad	3851279866	1_3_8_2					
+Metadata/Terrain/Leagues/Augury/Objects/AuguryCardObject	754	1307	3.085 rad	3829842526	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	756	1289	5.549 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	749	1288	1.337 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	746	1293	4.453 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	770	1291	5.752 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	781	1308	0.657 rad	3851279866	1_3_8_2					
+Monster: Dread Weaver [Metadata/Monsters/Augury/SpinningWheelHag@28]	782	1294	3.755 rad	23764846	1_3_8_2					
+Monster: Dread Banshee [Metadata/Monsters/Augury/AuguryScreecher@28]	797	1300	4.884 rad	3593811913	1_3_8_2					
+Monster: Dread Banshee [Metadata/Monsters/Augury/AuguryScreecher@28]	792	1303	1.914 rad	3593811913	1_3_8_2					
+Monster: Dread Banshee [Metadata/Monsters/Augury/AuguryScreecher@28]	815	1298	0.245 rad	3593811913	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	826	1296	0.540 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	828	1288	6.275 rad	3851279866	1_3_8_2					
+Monster: Dread Underling [Metadata/Monsters/Augury/AuguryUrchin__@28]	868	1307	1.963 rad	3614645592	1_3_8_2					
+Object: Metadata/Monsters/Statue/FemaleLarge/Spawner_GoldStatueLargeFemaleBoss	857	1299	4.712 rad	1984604294	1_3_8_2	0	-0.000			
+Object: Metadata/MiscellaneousObjects/ServerDoodad	851	1288	2.339 rad	3851279866	1_3_8_2					
+Metadata/Chests/GoldPot3	915	1289	1.423 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldPot2v1	913	1292	3.896 rad	2941014527	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	737	1330	3.102 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	772	1313	6.129 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	777	1321	1.554 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	767	1326	4.044 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	763	1331	2.873 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	783	1313	4.567 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	815	1312	5.077 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	818	1326	4.919 rad	3851279866	1_3_8_2					
+Metadata/Terrain/Leagues/Augury/Objects/AuguryCardObject	843	1311	1.857 rad	3829842526	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	831	1329	0.458 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	833	1332	0.475 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	845	1329	3.279 rad	3851279866	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	828	1321	5.026 rad	3851279866	1_3_8_2					
+Monster: Dread Crone [Metadata/Monsters/Augury/PaleHag___@28]	869	1314	4.222 rad	2737744907	1_3_8_2					
+Monster: Dread Underling [Metadata/Monsters/Augury/AuguryUrchin__@28]	871	1321	0.245 rad	3614645592	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	858	1330	1.774 rad	3851279866	1_3_8_2					
+Monster: Dread Underling [Metadata/Monsters/Augury/AuguryUrchin__@28]	878	1331	4.099 rad	3614645592	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	896	1323	0.000 rad	2595699018	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	719	1123	5.179 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	722	1122	1.694 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	716	990	1.571 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	725	1120	1.227 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	719	1120	5.498 rad	2080364608	1_3_8_2					
+Monster: Dismembered Thrall [Metadata/Monsters/Augury/DisemboweledVillager_@28]	741	1348	5.645 rad	2418482065	1_3_8_2					
+Monster: Dismembered Thrall [Metadata/Monsters/Augury/DisemboweledVillager_@28]	757	1344	5.179 rad	2418482065	1_3_8_2					
+Monster: Dismembered Thrall [Metadata/Monsters/Augury/DisemboweledVillager_@28]	768	1338	4.467 rad	2418482065	1_3_8_2					
+Monster: Dismembered Thrall [Metadata/Monsters/Augury/DisemboweledVillager_@28]	767	1335	4.074 rad	2418482065	1_3_8_2					
+Monster: Dismembered Thrall [Metadata/Monsters/Augury/DisemboweledVillager_@28]	766	1341	3.976 rad	2418482065	1_3_8_2					
+Monster: Dismembered Thrall [Metadata/Monsters/Augury/DisemboweledVillager_@28]	761	1344	3.019 rad	2418482065	1_3_8_2					
+Monster: Dismembered Thrall [Metadata/Monsters/Augury/DisemboweledVillager_@28]	791	1355	3.927 rad	2418482065	1_3_8_2					
+Monster: Dread Underling [Metadata/Monsters/Augury/AuguryUrchin__@28]	858	1338	3.313 rad	3614645592	1_3_8_2					
+Monster: Auric Champion [Metadata/Monsters/Statue/GoldStatueLargeFemaleSpear@28]	706	1184	1.571 rad	1134518903	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	781	1367	0.000 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	770	1357	0.000 rad	2595699018	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	962	1366	5.031 rad	2509988227	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	729	1202	2.283 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	726	1199	1.080 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	714	1101	6.173 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	724	1195	5.817 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	726	1192	2.258 rad	2080364608	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	721	1179	5.232 rad	2779517034	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	721	1179	5.232 rad	2779517034	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	719	1177	5.300 rad	2779517034	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	719	1177	5.300 rad	2779517034	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	720	1178	5.271 rad	2779517034	1_3_8_2					
+Metadata/Chests/GoldPot4v2	898	1431	0.000 rad	1825563821	1_3_8_2					
+Metadata/Chests/GoldPot3	975	1355	0.899 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldPot2v1	972	1352	2.630 rad	2941014527	1_3_8_2					
+Metadata/Chests/GoldPot4v1	979	1352	0.662 rad	315717410	1_3_8_2					
+Metadata/Chests/GoldPot2v1	975	1352	5.346 rad	2941014527	1_3_8_2					
+Metadata/Chests/GoldPot1	978	1355	0.871 rad	2724428440	1_3_8_2					
+Metadata/Chests/GoldenChest2	977	1337	3.142 rad	2916066718	1_3_8_2					
+Metadata/Chests/GoldPot3	977	1361	5.393 rad	1213790216	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	986	1375	1.129 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	974	1387	4.761 rad	2509988227	1_3_8_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	788	1283	4.812 rad	316014466	1_3_8_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	786	1298	0.301 rad	316014466	1_3_8_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	801	1281	2.759 rad	316014466	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	717	1153	2.976 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	713	1160	2.944 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	763	1272	3.878 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	761	1275	0.344 rad	2080364608	1_3_8_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	811	1305	3.017 rad	316014466	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	715	1180	2.911 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	743	1217	4.124 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	760	1271	0.736 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	763	1269	0.540 rad	2080364608	1_3_8_2					
+Object: Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleSword	999	1327	3.142 rad	2637297072	1_3_8_2	16	-125.000			
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1011	1345	3.142 rad	2595699018	1_3_8_2					
+Metadata/Chests/GoldPot1	998	1358	3.142 rad	2724428440	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	989	1383	1.816 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1034	1346	3.142 rad	2595699018	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1014	1372	5.424 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1022	1405	0.098 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	1026	1433	2.381 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1033	1432	0.589 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1029	1442	4.737 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1025	1449	6.087 rad	2509988227	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	784	1331	0.000 rad	2646652649	1_3_8_2	-16	125.000			
+Object: Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleBow	706	1093	1.571 rad	4048671462	1_3_8_2	0	-0.000			
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	724	1097	2.989 rad	2509988227	1_3_8_2					
+Object: Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleBow	742	1091	4.712 rad	4048671462	1_3_8_2	0	-0.000			
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	712	1080	2.911 rad	2509988227	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	729	1300	2.622 rad	2779517034	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	729	1300	2.622 rad	2779517034	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	773	1295	2.034 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	787	1300	3.142 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	746	1318	1.055 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	743	1316	1.767 rad	2080364608	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	780	1304	0.018 rad	1418889786	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	774	1296	1.571 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	779	1297	3.463 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	754	1325	0.982 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	754	1322	3.215 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	739	1305	3.952 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	738	1308	2.430 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	776	1299	1.713 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	769	1312	4.712 rad	2646652649	1_3_8_2					
+Metadata/Chests/GoldPot3	975	1355	0.899 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldPot2v1	972	1352	2.630 rad	2941014527	1_3_8_2					
+Metadata/Chests/GoldPot4v1	979	1352	0.662 rad	315717410	1_3_8_2					
+Metadata/Chests/GoldPot2v1	975	1352	5.346 rad	2941014527	1_3_8_2					
+Metadata/Chests/GoldPot1	978	1355	0.871 rad	2724428440	1_3_8_2					
+Metadata/Chests/GoldenChest2	977	1337	3.142 rad	2916066718	1_3_8_2					
+Metadata/Chests/GoldPot3	977	1361	5.393 rad	1213790216	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	986	1375	1.129 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	974	1387	4.761 rad	2509988227	1_3_8_2					
+Metadata/Chests/GoldPot2v1	814	1035	6.214 rad	2941014527	1_3_8_2					
+Metadata/Chests/GoldPot4v1	810	1040	1.347 rad	315717410	1_3_8_2					
+Metadata/Chests/GoldPot3	811	1035	3.643 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldPot1	807	1038	4.169 rad	2724428440	1_3_8_2					
+Metadata/Chests/GoldPot4v1	814	1046	3.875 rad	315717410	1_3_8_2					
+Metadata/Chests/GoldPot4v2	806	1035	2.017 rad	1825563821	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	766	1325	0.000 rad	2646652649	1_3_8_2	-16	125.000			
+Object: Metadata/Effects/ServerEffect	759	1320	3.142 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	759	1320	3.142 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	768	1319	0.427 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	768	1319	0.427 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	763	1319	0.785 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	763	1319	0.785 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	769	1327	1.429 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	769	1327	1.429 rad	2646652649	1_3_8_2					
+Object: Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleSword	999	1327	3.142 rad	2637297072	1_3_8_2	16	-125.000			
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1011	1345	3.142 rad	2595699018	1_3_8_2					
+Metadata/Chests/GoldPot1	998	1358	3.142 rad	2724428440	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	989	1383	1.816 rad	2509988227	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	787	1309	0.810 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	790	1307	2.675 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	778	1310	2.945 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	781	1309	2.823 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	739	1305	3.952 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	778	1307	2.034 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	775	1315	3.191 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	773	1318	3.976 rad	2080364608	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	776	1297	2.897 rad	2779517034	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1034	1346	3.142 rad	2595699018	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1014	1372	5.424 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1022	1405	0.098 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	1026	1433	2.381 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1033	1432	0.589 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1029	1442	4.737 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1025	1449	6.087 rad	2509988227	1_3_8_2					
+Metadata/Chests/GoldPot2v1	814	1035	6.214 rad	2941014527	1_3_8_2					
+Metadata/Chests/GoldPot4v1	810	1040	1.347 rad	315717410	1_3_8_2					
+Metadata/Chests/GoldPot3	811	1035	3.643 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldPot1	807	1038	4.169 rad	2724428440	1_3_8_2					
+Metadata/Chests/GoldPot4v1	814	1046	3.875 rad	315717410	1_3_8_2					
+Metadata/Chests/GoldPot4v2	806	1035	2.017 rad	1825563821	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	802	1298	1.963 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	799	1298	0.785 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	787	1301	4.712 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	784	1307	5.498 rad	2646652649	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	800	1279	3.017 rad	2779517034	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	799	1279	3.142 rad	2779517034	1_3_8_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	788	1297	3.796 rad	316014466	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	799	1279	3.142 rad	2779517034	1_3_8_2					
+Object: Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleBow	1045	1327	3.142 rad	4048671462	1_3_8_2	16	-125.000			
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1047	1432	3.215 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1039	1455	4.761 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1045	1452	2.675 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	795	1267	6.163 rad	1418889786	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	798	1265	1.241 rad	1418889786	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	795	1267	0.313 rad	1418889786	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	795	1267	4.264 rad	1418889786	1_3_8_2					
+Monster: The Goddess of Purity [Metadata/Monsters/Statue/GoldStatueLargeBossFemale@28]	857	1299	4.712 rad	3338080386	1_3_8_2					
+Metadata/Terrain/Leagues/Augury/Objects/AuguryBossObject	857	1299	0.000 rad	1818787057	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	849	1342	2.266 rad	2779517034	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	849	1342	2.266 rad	2779517034	1_3_8_2					
+Metadata/Chests/GoldPot4v2	1082	1323	3.142 rad	1825563821	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	720	1108	3.500 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	725	1116	2.034 rad	3211517353	1_3_8_2					
+Metadata/Chests/GoldPot2v1	764	1110	3.749 rad	2941014527	1_3_8_2					
+Metadata/Chests/GoldPot3	764	1113	5.969 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldPot4v2	759	1114	6.212 rad	1825563821	1_3_8_2					
+Metadata/Chests/GoldPot3	767	1110	2.080 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldPot3	761	1107	3.663 rad	1213790216	1_3_8_2					
+Object: Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleBow	706	1093	1.571 rad	4048671462	1_3_8_2	0	-0.000			
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	724	1097	2.989 rad	2509988227	1_3_8_2					
+Object: Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleBow	742	1091	4.712 rad	4048671462	1_3_8_2	0	-0.000			
+Metadata/Effects/SleepableServerBeamEffect	843	1311	0.000 rad	978925438	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	712	1080	2.911 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1034	1346	3.142 rad	2595699018	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1014	1372	5.424 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	1026	1433	2.381 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1033	1432	0.589 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1025	1449	6.087 rad	2509988227	1_3_8_2					
+Object: Metadata/Monsters/Statue/Female/Spawner_GoldStatueFemaleBow	1045	1327	3.142 rad	4048671462	1_3_8_2	16	-125.000			
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1035	1421	2.442 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1047	1432	3.215 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1035	1438	0.951 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1039	1455	4.761 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1045	1452	2.675 rad	2509988227	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	855	1291	1.326 rad	2779517034	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	855	1291	1.326 rad	2779517034	1_3_8_2					
+Metadata/Chests/GoldPot4v2	1082	1323	3.142 rad	1825563821	1_3_8_2					
+Metadata/Chests/GoldPot2v1	814	1035	6.214 rad	2941014527	1_3_8_2					
+Metadata/Chests/GoldPot4v1	810	1040	1.347 rad	315717410	1_3_8_2					
+Metadata/Chests/GoldPot3	811	1035	3.643 rad	1213790216	1_3_8_2					
+Metadata/Chests/GoldPot1	807	1038	4.169 rad	2724428440	1_3_8_2					
+Metadata/Chests/GoldPot4v1	814	1046	3.875 rad	315717410	1_3_8_2					
+Metadata/Chests/GoldPot4v2	806	1035	2.017 rad	1825563821	1_3_8_2					
+Monster: Daemon [Metadata/Monsters/Augury/Daemon/IcicleDartsDaemon@28]	857	1299	3.952 rad	1064594117	1_3_8_2					
+Monster: Daemon [Metadata/Monsters/Augury/Daemon/LightningOrbDaemon@28]	857	1299	3.632 rad	1923426875	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	875	1286	3.661 rad	2779517034	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	874	1285	3.836 rad	2779517034	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	824	1289	1.802 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	843	1304	1.429 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	872	1290	4.393 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	869	1289	3.240 rad	2080364608	1_3_8_2					
+Metadata/Monsters/Daemon/Augury/LightningOrbsObject	879	1279	3.632 rad	2144390255	1_3_8_2	10	-78.125			
+Object: Metadata/Effects/ServerEffect	778	1254	2.159 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	837	1279	2.509 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	870	1286	0.736 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	875	1289	1.154 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	754	1246	0.091 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	848	1299	1.571 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	871	1290	0.957 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	868	1289	1.792 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	869	1286	1.080 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	848	1299	1.571 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	860	1289	3.927 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	874	1290	3.731 rad	2080364608	1_3_8_2					
+Metadata/Effects/SleepableServerBeamEffect	879	1279	0.000 rad	978925438	1_3_8_2					
+Metadata/Effects/SleepableServerBeamEffect	879	1279	0.000 rad	978925438	1_3_8_2					
+Metadata/Effects/SleepableServerBeamEffect	879	1279	0.000 rad	978925438	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	859	1298	5.475 rad	1418889786	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	859	1298	2.783 rad	1418889786	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	862	1302	5.260 rad	1418889786	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	859	1302	1.112 rad	1418889786	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	859	1298	4.301 rad	1418889786	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	859	1298	4.756 rad	1418889786	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	859	1298	0.621 rad	1418889786	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	859	1298	3.140 rad	1418889786	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	859	1298	0.922 rad	1418889786	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	859	1298	5.088 rad	1418889786	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	712	1080	2.911 rad	2509988227	1_3_8_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@44]	870	1307	4.957 rad	2779517034	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	882	1309	3.083 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	839	1332	4.354 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1011	1427	1.865 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1009	1430	3.019 rad	2080364608	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	865	1266	2.467 rad	2646652649	1_3_8_2					
+Object: Metadata/Effects/ServerEffect	868	1272	4.434 rad	2646652649	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1020	1423	5.989 rad	2080364608	1_3_8_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@36]	1018	1420	6.136 rad	2080364608	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	999	1429	2.906 rad	1418889786	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1242	1401	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1242	1428	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1287	1401	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1287	1428	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1021	1419	5.825 rad	1418889786	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Waypoint	1368	1414	0.000 rad	552129418	1_3_8_2	2	-16.517			
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1463	1522	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1482	1403	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1482	1426	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/QuestObjects/MapRoom/DiallaMapTransition	1483	1527	3.142 rad	797474935	1_3_8_2	23	-184.783	1	1171213618	
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1504	1521	4.712 rad	2595699018	1_3_8_2					
+Metadata/NPC/Act3/Dialla	1529	1415	4.737 rad	845558679	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1543	1399	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1542	1430	4.712 rad	2595699018	1_3_8_2					
+Metadata/NPC/Info/MalachaiNoteDialla	1560	1527	0.524 rad	2600010702	1_3_8_2	13	-108.696			
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1287	1401	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1287	1428	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1287	1401	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1287	1428	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/QuestObjects/MapRoom/DiallaMapTransition	1483	1715	6.283 rad	797474935	1_3_8_2	23	-184.783	1	21610	The Solaris Temple Level 2
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1242	1401	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1242	1428	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1458	1771	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1507	1771	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1458	1817	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1507	1817	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1457	1863	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1510	1863	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1379	1942	1.571 rad	2595699018	1_3_8_2					
+Metadata/NPC/Info/MapDevice	1485	1943	1.571 rad	115171530	1_3_8_2	11	-92.193			
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1586	1941	1.571 rad	2595699018	1_3_8_2					
+Metadata/NPC/Info/MalachaiJournalLab	1595	1946	4.656 rad	1169533768	1_3_8_2	13	-108.696			
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1379	1990	1.571 rad	2595699018	1_3_8_2					
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockGoldenBookstand	1564	1991	5.760 rad	691227520	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1586	1991	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1457	2070	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1508	2070	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/QuestObjects/MapRoom/DiallaMapTransition	1483	1715	6.283 rad	797474935	1_3_8_2	23	-184.783	1	21610	The Solaris Temple Level 2
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1463	1522	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/QuestObjects/MapRoom/DiallaMapTransition	1483	1527	3.142 rad	797474935	1_3_8_2	23	-184.783	1	1171213618	
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1504	1521	4.712 rad	2595699018	1_3_8_2					
+Metadata/NPC/Info/MalachaiNoteDialla	1560	1527	0.524 rad	2600010702	1_3_8_2	13	-108.696			
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1516	1347	0.000 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1242	1401	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1287	1401	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1543	1399	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Waypoint	1368	1414	0.000 rad	552129418	1_3_8_2	2	-16.517			
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1482	1403	4.712 rad	2595699018	1_3_8_2					
+Metadata/NPC/Act3/Dialla	1529	1415	4.737 rad	845558679	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1242	1428	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1287	1428	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1482	1426	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1542	1430	4.712 rad	2595699018	1_3_8_2					
+Metadata/Chests/GoldPot4v2	1082	1323	3.142 rad	1825563821	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	1060	1466	5.654 rad	3211517353	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1543	1399	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1542	1430	4.712 rad	2595699018	1_3_8_2					
+Metadata/NPC/Info/MalachaiNoteDialla	1560	1527	0.524 rad	2600010702	1_3_8_2	13	-108.696			

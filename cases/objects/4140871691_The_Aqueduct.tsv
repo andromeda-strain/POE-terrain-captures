@@ -1,0 +1,6 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/Int/Int	221	111	0.000 rad	2621544766	1_4_1					
+Object: Metadata/MiscellaneousObjects/Waypoint	256	83	4.712 rad	552129418	1_4_1	45	-358.858			
+Monster: Plumed Chimeral [Metadata/Monsters/GemMonster/Iguana@42]	221	111	1.767 rad	20135628	1_4_1					
+Object: Metadata/Effects/ServerEffect	221	111	1.005 rad	2646652649	1_4_1					
+Metadata/NPC/Act4/DiallaAqueduct	255	116	5.473 rad	3811132936	1_4_1					

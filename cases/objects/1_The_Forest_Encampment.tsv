@@ -1,18 +1,912 @@
 type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
-Metadata/Characters/Dex/Dex	190	292	2.897 rad	2287107054	1_2_town					
+Metadata/Characters/Dex/Dex	162	332	4.124 rad	2287107054	1_2_town					
+Metadata/Characters/DexInt/DexInt	196	274	0.862 rad	3989868005	1_2_town					
+Metadata/Characters/StrInt/StrInt	195	261	2.290 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	181	262	5.593 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	190	218	0.437 rad	2621544766	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Dex/Dex	147	268	3.874 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	215	294	2.034 rad	2621544766	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	215	294	2.034 rad	1086455624	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	209	290	1.030 rad	1086455624	1_2_town					
+Metadata/Characters/Dex/Dex	254	253	1.644 rad	2287107054	1_2_town					
+Metadata/Characters/Dex/Dex	184	296	1.571 rad	2287107054	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	183	285	0.519 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	205	250	0.552 rad	2621544766	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	199	278	0.381 rad	1086455624	1_2_town					
+Metadata/Characters/StrDex/StrDex	153	327	3.142 rad	2810334424	1_2_town					
+Metadata/Characters/Int/Int	203	262	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/Dex/Dex	147	329	2.554 rad	2287107054	1_2_town					
+Metadata/Characters/StrInt/StrInt	176	300	0.363 rad	2448909918	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	153	327	3.142 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	188	177	3.142 rad	2621544766	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	188	165	4.712 rad	726109394	1_2_town	-43	338.041	0	50717	The Southern Forest
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.001 rad	688764747	1_2_town	-24	187.500			
+Object: Metadata/MiscellaneousObjects/Waypoint	188	208	4.712 rad	552129418	1_2_town	2	-16.813			
+Metadata/NPC/League/Bestiary/Einhar	153	246	2.672 rad	3494584835	1_2_town	2	-15.625			
+Object: Metadata/MiscellaneousObjects/AreaTransition	63	266	4.712 rad	726109394	1_2_town	2	-17.067	0	3474	The Riverways
+Metadata/Pet/PandemoniumSpider/PandemoniumSpider	147	257	4.286 rad	4149101123	1_2_town					
+Metadata/Pet/PandemoniumSpider/PandemoniumSpider	158	268	3.816 rad	4149101123	1_2_town					
+Metadata/NPC/Act2/Greust	203	268	5.905 rad	2302925468	1_2_town					
+Metadata/Pet/Cat/Black	192	263	5.961 rad	1697479544	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	311	264	4.712 rad	726109394	1_2_town	2	-16.645	0	9731	The Old Fields
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	107	276	0.000 rad	2169838976	1_2_town					
+Metadata/NPC/Act2/Eramir	159	278	0.470 rad	2330252191	1_2_town	2	-15.625			
+Object: Metadata/QuestObjects/DoodadNoDarkness	161	298	4.712 rad	708577821	1_2_town	-11	93.071			
+Object: Metadata/QuestObjects/DoodadNoDarkness	177	278	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/Stash	191	296	5.842 rad	2817685266	1_2_town					
+Metadata/Pet/Bear/DelveBear	195	294	1.571 rad	2637220562	1_2_town					
+Metadata/Pet/BabyChimera/BabyChimera	211	288	4.307 rad	1409154742	1_2_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	223	298	4.633 rad	2564365857	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	267	280	0.097 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	292	279	6.090 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	279	282	6.280 rad	1285951471	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	173	305	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	175	300	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	184	307	4.712 rad	1669564304	1_2_town	13	-105.697			
+Object: Metadata/QuestObjects/DoodadNoDarkness	185	321	4.712 rad	708577821	1_2_town	-2	16.644			
+Object: Metadata/QuestObjects/DoodadNoDarkness	208	307	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	217	320	4.712 rad	708577821	1_2_town					
+Metadata/NPC/Act2/Yeena	153	338	0.873 rad	3496506456	1_2_town					
+Metadata/NPC/Act2/Silk	179	338	5.585 rad	185275073	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	163	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	179	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	200	338	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	203	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	220	326	4.712 rad	708577821	1_2_town	-30	234.375			
+Object: Metadata/QuestObjects/DoodadNoDarkness	214	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	164	348	4.712 rad	708577821	1_2_town					
+Object: Metadata/Effects/ServerEffect	153	327	3.142 rad	2646652649	1_2_town					
 Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
-Metadata/Characters/Int/Int	184	296	1.571 rad	2621544766	1_2_town					
-Metadata/Characters/Dex/Dex	187	291	2.467 rad	2287107054	1_2_town					
-Metadata/Characters/Dex/Dex	163	334	4.332 rad	2287107054	1_2_town					
+Metadata/Pet/BlackDragon/BlackDragon	244	253	0.000 rad	2338794651	1_2_town					
+Metadata/Pet/Cat/EmpyreanCat	235	273	0.000 rad	2296770490	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Dex/Dex	229	268	4.712 rad	2287107054	1_2_town					
+Object: Metadata/Effects/ServerEffect	186	292	0.896 rad	2646652649	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/StrInt/StrInt	180	256	3.142 rad	2448909918	1_2_town					
+Metadata/Characters/Str/Str	229	268	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Object: Metadata/Effects/ServerEffect	169	274	4.332 rad	2646652649	1_2_town					
+Metadata/Characters/Str/Str	188	208	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/DexInt/DexInt	229	268	4.712 rad	3989868005	1_2_town					
+Metadata/Characters/StrDex/StrDex	188	177	3.142 rad	2810334424	1_2_town					
+Object: Metadata/Effects/ServerEffect	162	336	4.421 rad	2646652649	1_2_town					
+Metadata/Characters/DexInt/DexInt	229	268	4.712 rad	3989868005	1_2_town					
+Metadata/Characters/Dex/Dex	180	256	3.142 rad	2287107054	1_2_town					
+Metadata/Characters/Str/Str	229	268	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/Dex/Dex	229	268	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrDex/StrDex	188	208	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	188	208	4.712 rad	1086455624	1_2_town					
+Object: Metadata/Effects/ServerEffect	167	276	4.467 rad	2646652649	1_2_town					
+Metadata/Characters/DexInt/DexInt	188	208	4.712 rad	3989868005	1_2_town					
+Metadata/Pet/Cherub/AbyssCherub/AbyssCherub	196	200	0.000 rad	553309538	1_2_town					
+Metadata/Characters/DexInt/DexInt	229	268	4.712 rad	3989868005	1_2_town					
+Object: Metadata/Effects/ServerEffect	163	268	3.522 rad	2646652649	1_2_town					
+Object: Metadata/Effects/ServerEffect	163	268	3.522 rad	2646652649	1_2_town					
+Metadata/Characters/Str/Str	229	268	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/StrDex/StrDex	188	208	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/StrDex/StrDex	229	268	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/Dex/Dex	188	177	3.142 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Pet/BreachHandSpider/BreachHandSpider	173	248	0.000 rad	3695598681	1_2_town					
+Metadata/Pet/VerisiumParasitePet/VerisiumParasitePet	187	248	0.000 rad	2502315296	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/StrDex/StrDex	229	268	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/Dex/Dex	180	256	3.142 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/Str/Str	180	256	3.142 rad	3618279525	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrDex/StrDex	188	208	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/Str/Str	180	256	3.142 rad	3618279525	1_2_town					
+Metadata/Pet/Bear/DelveBear	171	246	0.000 rad	2637220562	1_2_town					
+Object: Metadata/Effects/ServerEffect	163	268	3.522 rad	2646652649	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	188	208	4.712 rad	1086455624	1_2_town					
 Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
+Object: Metadata/Effects/ServerEffect	169	274	4.332 rad	2646652649	1_2_town					
+Object: Metadata/Effects/ServerEffect	167	272	4.124 rad	2646652649	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/DexInt/DexInt	78	264	1.571 rad	3989868005	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/Str/Str	229	268	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/Dex/Dex	188	208	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	188	208	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Dex/Dex	180	256	3.142 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/Str/Str	229	268	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/StrInt/StrInt	180	256	3.142 rad	2448909918	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Object: Metadata/Effects/ServerEffect	153	327	3.142 rad	2646652649	1_2_town					
+Metadata/Characters/StrInt/StrInt	180	256	3.142 rad	2448909918	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/Str/Str	188	208	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Object: Metadata/Effects/ServerEffect	168	272	4.124 rad	2646652649	1_2_town					
+Metadata/Characters/StrDex/StrDex	188	177	3.142 rad	2810334424	1_2_town					
+Metadata/Characters/Str/Str	188	208	4.712 rad	3618279525	1_2_town					
+Metadata/Effects/Microtransactions/Aura/LostSouls/LostSoulApparition	173	255	1.107 rad	2821784142	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/Dex/Dex	229	268	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/Str/Str	180	256	3.142 rad	3618279525	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Dex/Dex	188	208	4.712 rad	2287107054	1_2_town					
+Object: Metadata/Effects/ServerEffect	165	269	3.730 rad	2646652649	1_2_town					
+Object: Metadata/Effects/ServerEffect	181	281	0.215 rad	2646652649	1_2_town					
+Metadata/Characters/Dex/Dex	229	268	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/StrDex/StrDex	229	268	4.712 rad	2810334424	1_2_town					
+Object: Metadata/Effects/ServerEffect	172	279	4.789 rad	2646652649	1_2_town					
+Metadata/Characters/Str/Str	229	268	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrDex/StrDex	180	256	3.142 rad	2810334424	1_2_town					
+Metadata/Characters/StrDex/StrDex	229	268	4.712 rad	2810334424	1_2_town					
+Object: Metadata/Effects/ServerEffect	169	274	4.332 rad	2646652649	1_2_town					
+Object: Metadata/Effects/ServerEffect	196	223	1.270 rad	2646652649	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Pet/FledglingBellcrow/FledglingBellcrow	173	248	0.000 rad	1990139760	1_2_town					
+Metadata/Pet/BetaKiwis/FaridunKiwi	187	248	0.000 rad	2620415687	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Pet/BreachHandSpider/BreachHandSpider	196	200	0.000 rad	3695598681	1_2_town					
+Metadata/Characters/StrDex/StrDex	188	177	3.142 rad	2810334424	1_2_town					
+Metadata/Characters/StrDex/StrDex	180	256	3.142 rad	2810334424	1_2_town					
+Metadata/Characters/Dex/Dex	188	208	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/Dex/Dex	188	208	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	180	256	3.142 rad	1086455624	1_2_town					
+Metadata/Characters/Str/Str	188	208	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/Dex/Dex	188	208	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	78	264	1.571 rad	2621544766	1_2_town					
+Metadata/Characters/Str/Str	180	256	3.142 rad	3618279525	1_2_town					
+Metadata/Characters/StrDex/StrDex	229	268	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	180	256	3.142 rad	2448909918	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	188	208	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/StrDex/StrDex	229	268	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	188	208	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/Str/Str	188	208	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	177	3.142 rad	2448909918	1_2_town					
+Metadata/Characters/Dex/Dex	180	256	3.142 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Pet/BreachHandSpider/BreachHandSpider	173	248	0.000 rad	3695598681	1_2_town					
+Metadata/Pet/VerisiumParasitePet/VerisiumParasitePet	187	248	0.000 rad	2502315296	1_2_town					
+Metadata/Characters/Dex/Dex	180	256	3.142 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/Str/Str	180	256	3.142 rad	3618279525	1_2_town					
+Metadata/Pet/NineTailedFox/NineTailedFox	169	244	0.000 rad	1364879625	1_2_town					
+Metadata/Pet/NineTailedFox/NineTailedFox	191	244	0.000 rad	1364879625	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Pet/OtterPet/GrayOtter	196	200	0.000 rad	1161189399	1_2_town					
+Metadata/Pet/FangtoothMoray/FangtoothMoray	196	215	0.000 rad	4111464647	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/Str/Str	180	256	3.142 rad	3618279525	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/DexInt/DexInt	229	268	4.712 rad	3989868005	1_2_town					
+Object: Metadata/Effects/ServerEffect	94	259	4.568 rad	2646652649	1_2_town					
+Metadata/Characters/Dex/Dex	180	256	3.142 rad	2287107054	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	180	256	3.142 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Pet/VaalToucan/VaalToucan	173	248	0.000 rad	3078709402	1_2_town					
+Metadata/Pet/BetaKiwis/VaalKiwi	187	248	0.000 rad	858497967	1_2_town					
+Metadata/Characters/StrDex/StrDex	180	256	3.142 rad	2810334424	1_2_town					
+Metadata/Characters/Str/Str	188	208	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/StrDex/StrDex	229	268	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/Str/Str	229	268	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/Int/Int	188	177	3.142 rad	2621544766	1_2_town					
+Object: Metadata/Effects/ServerEffect	183	220	0.395 rad	2646652649	1_2_town					
+Metadata/Characters/StrDex/StrDex	188	208	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Object: Metadata/Effects/ServerEffect	153	327	3.142 rad	2646652649	1_2_town					
+Metadata/Characters/Dex/Dex	229	268	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	188	177	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/DexInt/DexInt	78	264	1.571 rad	3989868005	1_2_town					
+Metadata/Characters/StrDex/StrDex	188	208	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	188	177	3.142 rad	1086455624	1_2_town					
+Metadata/Characters/Dex/Dex	180	256	3.142 rad	2287107054	1_2_town					
+Metadata/Pet/LightBringerCat/LightbringerCat	173	248	0.000 rad	2262956191	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/Dex/Dex	229	268	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/StrDex/StrDex	188	177	3.142 rad	2810334424	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Pet/Rhoa/EdictCorruptionRhoa/EdictCorruptionRhoa	200	196	0.000 rad	1281918852	1_2_town					
+Metadata/Characters/Str/Str	180	256	3.142 rad	3618279525	1_2_town					
+Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Object: Metadata/Effects/ServerEffect	175	284	0.322 rad	2646652649	1_2_town					
+Metadata/Characters/StrDex/StrDex	229	268	4.712 rad	2810334424	1_2_town					
+Object: Metadata/Effects/ServerEffect	162	332	4.124 rad	2646652649	1_2_town					
+Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/DexInt/DexInt	188	208	4.712 rad	3989868005	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/Dex/Dex	148	273	4.629 rad	2287107054	1_2_town					
+Metadata/Characters/StrInt/StrInt	175	267	5.999 rad	2448909918	1_2_town					
+Metadata/Characters/Dex/Dex	184	296	1.571 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	156	332	3.605 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	162	332	4.124 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	182	281	5.498 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	175	328	2.761 rad	2448909918	1_2_town					
+Metadata/Characters/StrDex/StrDex	153	327	3.142 rad	2810334424	1_2_town					
+Metadata/Characters/Str/Str	170	300	3.854 rad	3618279525	1_2_town					
+Metadata/Characters/StrDex/StrDex	158	332	2.356 rad	2810334424	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
 Object: Metadata/MiscellaneousObjects/AreaTransition	188	165	4.712 rad	726109394	1_2_town	-43	338.041	0	50717	The Southern Forest
 Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.001 rad	688764747	1_2_town	-24	187.500			
 Object: Metadata/MiscellaneousObjects/Waypoint	188	208	4.712 rad	552129418	1_2_town	2	-16.813			
 Metadata/NPC/League/Bestiary/Einhar	153	246	2.672 rad	3494584835	1_2_town	2	-15.625			
 Object: Metadata/MiscellaneousObjects/AreaTransition	63	266	4.712 rad	726109394	1_2_town	2	-17.067	0	3474	The Riverways
 Metadata/NPC/Act2/Greust	203	268	5.905 rad	2302925468	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	311	264	4.712 rad	726109394	1_2_town	2	-16.645	0	9731	The Old Fields
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	107	276	0.000 rad	2169838976	1_2_town					
+Metadata/NPC/Act2/Eramir	159	278	0.470 rad	2330252191	1_2_town	2	-15.625			
+Metadata/Pet/WispPet/WispPet	171	280	5.903 rad	2118900097	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	161	298	4.712 rad	708577821	1_2_town	-11	93.071			
+Object: Metadata/QuestObjects/DoodadNoDarkness	177	278	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/Stash	191	296	5.842 rad	2817685266	1_2_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	223	298	4.633 rad	2564365857	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	267	280	0.097 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	292	279	6.090 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	279	282	6.280 rad	1285951471	1_2_town					
+Metadata/Pet/MadcapHare/MadcapHare	167	321	3.463 rad	1381649359	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	173	305	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	175	300	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	184	307	4.712 rad	1669564304	1_2_town	13	-105.697			
+Object: Metadata/QuestObjects/DoodadNoDarkness	185	321	4.712 rad	708577821	1_2_town	-2	16.644			
+Object: Metadata/QuestObjects/DoodadNoDarkness	208	307	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	217	320	4.712 rad	708577821	1_2_town					
+Metadata/NPC/Act2/Yeena	153	338	0.873 rad	3496506456	1_2_town					
+Metadata/NPC/Act2/Silk	179	338	5.585 rad	185275073	1_2_town					
+Metadata/Pet/GlimmerwoodBeetle/GlimmerwoodBeetle	179	322	1.571 rad	2632604753	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	163	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	179	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	200	338	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	203	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	220	326	4.712 rad	708577821	1_2_town	-30	234.375			
+Object: Metadata/QuestObjects/DoodadNoDarkness	214	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	164	348	4.712 rad	708577821	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	188	177	3.142 rad	2621544766	1_2_town					
+Metadata/Pet/Cat/Celestial	194	169	0.000 rad	2549567644	1_2_town					
+Metadata/Characters/Str/Str	180	256	3.142 rad	3618279525	1_2_town					
+Object: Metadata/Effects/ServerEffect	166	270	3.860 rad	2646652649	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/DexInt/DexInt	229	268	4.712 rad	3989868005	1_2_town					
+Metadata/Pet/Vampire/VampirePet	235	273	0.000 rad	404646957	1_2_town					
+Metadata/Characters/StrDex/StrDex	229	268	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/StrInt/StrInt	297	259	5.061 rad	2448909918	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	180	256	3.142 rad	1086455624	1_2_town					
+Metadata/Characters/DexInt/DexInt	229	268	4.712 rad	3989868005	1_2_town					
+Metadata/Characters/StrInt/StrInt	180	256	3.142 rad	2448909918	1_2_town					
+Metadata/Characters/Str/Str	180	256	3.142 rad	3618279525	1_2_town					
+Metadata/Characters/Str/Str	188	208	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/StrDex/StrDex	188	208	4.712 rad	2810334424	1_2_town					
+Metadata/Pet/FangtoothMoray/FangtoothMoray	196	200	0.000 rad	4111464647	1_2_town					
+Metadata/Pet/VaalToucan/VaalToucan	196	215	0.000 rad	3078709402	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	180	256	3.142 rad	1086455624	1_2_town					
+Metadata/Characters/StrInt/StrInt	297	259	5.061 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
+Metadata/Pet/BreachHandSpider/BreachHandSpider	237	260	0.000 rad	3695598681	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Object: Metadata/Effects/ServerEffect	159	342	5.300 rad	2646652649	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrDex/StrDex	229	268	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/Int/Int	297	259	5.061 rad	2621544766	1_2_town					
+Object: Metadata/Effects/ServerEffect	184	296	1.571 rad	2646652649	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Pet/OrchidSpider/OrchidSpider	169	244	0.000 rad	455117034	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Object: Metadata/Effects/ServerEffect	175	292	0.322 rad	2646652649	1_2_town					
+Metadata/Characters/Dex/Dex	162	332	4.124 rad	2287107054	1_2_town					
+Metadata/Characters/DexInt/DexInt	196	274	0.862 rad	3989868005	1_2_town					
+Metadata/Characters/StrInt/StrInt	195	261	2.290 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	181	262	5.593 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	190	218	0.437 rad	2621544766	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Dex/Dex	173	255	1.107 rad	2287107054	1_2_town					
+Metadata/Characters/Dex/Dex	116	246	5.545 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	171	292	0.312 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	153	327	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	159	333	4.018 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	189	246	6.166 rad	2621544766	1_2_town					
+Metadata/Characters/DexInt/DexInt	162	332	4.124 rad	3989868005	1_2_town					
+Metadata/Characters/Dex/Dex	184	269	1.454 rad	2287107054	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	184	296	1.571 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	162	332	4.124 rad	2621544766	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	187	291	2.467 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	168	338	1.571 rad	2621544766	1_2_town					
+Metadata/Characters/Dex/Dex	180	256	3.142 rad	2287107054	1_2_town					
+Metadata/Characters/Str/Str	180	256	3.142 rad	3618279525	1_2_town					
+Metadata/Characters/Int/Int	297	259	5.061 rad	2621544766	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	188	165	4.712 rad	726109394	1_2_town	-43	338.041	0	50717	The Southern Forest
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.001 rad	688764747	1_2_town	-24	187.500			
+Object: Metadata/MiscellaneousObjects/Waypoint	188	208	4.712 rad	552129418	1_2_town	2	-16.813			
+Metadata/NPC/League/Bestiary/Einhar	153	246	2.672 rad	3494584835	1_2_town	2	-15.625			
+Object: Metadata/MiscellaneousObjects/AreaTransition	63	266	4.712 rad	726109394	1_2_town	2	-17.067	0	3474	The Riverways
+Metadata/Pet/PandemoniumSpider/PandemoniumSpider	161	254	0.211 rad	4149101123	1_2_town					
+Metadata/Pet/PandemoniumSpider/PandemoniumSpider	168	267	2.015 rad	4149101123	1_2_town					
+Metadata/NPC/Act2/Greust	203	268	5.905 rad	2302925468	1_2_town					
+Metadata/Pet/Cat/Black	192	263	5.961 rad	1697479544	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	311	264	4.712 rad	726109394	1_2_town	2	-16.645	0	9731	The Old Fields
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	107	276	0.000 rad	2169838976	1_2_town					
+Metadata/NPC/Act2/Eramir	159	278	0.470 rad	2330252191	1_2_town	2	-15.625			
+Metadata/Pet/Bear/DelveBear	173	291	5.564 rad	2637220562	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	161	298	4.712 rad	708577821	1_2_town	-11	93.071			
+Object: Metadata/QuestObjects/DoodadNoDarkness	177	278	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/Stash	191	296	5.842 rad	2817685266	1_2_town					
+Metadata/Pet/BabyChimera/BabyChimera	187	280	1.134 rad	1409154742	1_2_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	223	298	4.633 rad	2564365857	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	267	280	0.097 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	292	279	6.090 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	279	282	6.280 rad	1285951471	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	173	305	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	175	300	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	184	307	4.712 rad	1669564304	1_2_town	13	-105.697			
+Object: Metadata/QuestObjects/DoodadNoDarkness	185	321	4.712 rad	708577821	1_2_town	-2	16.644			
+Object: Metadata/QuestObjects/DoodadNoDarkness	208	307	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	217	320	4.712 rad	708577821	1_2_town					
+Metadata/NPC/Act2/Yeena	153	338	0.873 rad	3496506456	1_2_town					
+Metadata/NPC/Act2/Silk	179	338	5.585 rad	185275073	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	163	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	179	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	200	338	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	203	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	220	326	4.712 rad	708577821	1_2_town	-30	234.375			
+Object: Metadata/QuestObjects/DoodadNoDarkness	214	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	164	348	4.712 rad	708577821	1_2_town					
+Object: Metadata/Effects/ServerEffect	169	274	4.332 rad	2646652649	1_2_town					
+Metadata/Characters/Dex/Dex	229	268	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	188	177	3.142 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Pet/MountainGoat/MountainGoat	196	200	0.000 rad	1023231377	1_2_town					
+Metadata/Characters/DexInt/DexInt	188	208	4.712 rad	3989868005	1_2_town					
+Metadata/Pet/Vampire/VampirePet	196	215	0.000 rad	404646957	1_2_town					
+Metadata/Characters/Dex/Dex	229	268	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/Dex/Dex	162	332	4.124 rad	2287107054	1_2_town					
+Metadata/Characters/DexInt/DexInt	196	274	0.862 rad	3989868005	1_2_town					
+Metadata/Characters/StrInt/StrInt	195	261	2.290 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	181	262	5.593 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	190	218	0.437 rad	2621544766	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Dex/Dex	176	259	0.927 rad	2287107054	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	184	296	1.571 rad	1086455624	1_2_town					
+Metadata/Characters/Dex/Dex	198	240	0.024 rad	2287107054	1_2_town					
+Metadata/Characters/Dex/Dex	216	257	5.663 rad	2287107054	1_2_town					
+Metadata/Characters/DexInt/DexInt	194	274	0.983 rad	3989868005	1_2_town					
+Metadata/Characters/Str/Str	179	287	0.602 rad	3618279525	1_2_town					
+Metadata/Characters/Str/Str	191	289	3.142 rad	3618279525	1_2_town					
+Metadata/Characters/Int/Int	190	220	6.118 rad	2621544766	1_2_town					
+Metadata/Characters/Str/Str	218	265	4.957 rad	3618279525	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	188	165	4.712 rad	726109394	1_2_town	-43	338.041	0	50717	The Southern Forest
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.001 rad	688764747	1_2_town	-24	187.500			
+Metadata/Pet/CultDarkness/CultDarkness	183	228	5.454 rad	2090687062	1_2_town					
+Object: Metadata/MiscellaneousObjects/Waypoint	188	208	4.712 rad	552129418	1_2_town	2	-16.813			
+Metadata/NPC/League/Bestiary/Einhar	153	246	2.672 rad	3494584835	1_2_town	2	-15.625			
+Metadata/Pet/GoblinBand/GoblinBandLeader	198	251	0.100 rad	785117632	1_2_town					
+Metadata/Pet/BlackDragon/BlackDragon	205	236	1.571 rad	2338794651	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	63	266	4.712 rad	726109394	1_2_town	2	-17.067	0	3474	The Riverways
+Metadata/NPC/Act2/Greust	203	268	5.905 rad	2302925468	1_2_town					
+Metadata/Pet/Cat/Black	192	263	5.961 rad	1697479544	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	311	264	4.712 rad	726109394	1_2_town	2	-16.645	0	9731	The Old Fields
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	107	276	0.000 rad	2169838976	1_2_town					
+Metadata/NPC/Act2/Eramir	159	278	0.470 rad	2330252191	1_2_town	2	-15.625			
+Object: Metadata/QuestObjects/DoodadNoDarkness	161	298	4.712 rad	708577821	1_2_town	-11	93.071			
+Object: Metadata/QuestObjects/DoodadNoDarkness	177	278	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/Stash	191	296	5.842 rad	2817685266	1_2_town					
+Metadata/Pet/GoblinBand/GoblinBandDrums	206	297	2.034 rad	2304201140	1_2_town					
+Metadata/Pet/GoblinBand/GoblinBandLyre	203	287	1.249 rad	1324926429	1_2_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	223	298	4.633 rad	2564365857	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	267	280	0.097 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	292	279	6.090 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	279	282	6.280 rad	1285951471	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	173	305	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	175	300	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	184	307	4.712 rad	1669564304	1_2_town	13	-105.697			
+Object: Metadata/QuestObjects/DoodadNoDarkness	185	321	4.712 rad	708577821	1_2_town	-2	16.644			
+Object: Metadata/QuestObjects/DoodadNoDarkness	208	307	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	217	320	4.712 rad	708577821	1_2_town					
+Metadata/NPC/Act2/Yeena	153	338	0.873 rad	3496506456	1_2_town					
+Metadata/NPC/Act2/Silk	179	338	5.585 rad	185275073	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	163	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	179	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	200	338	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	203	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	220	326	4.712 rad	708577821	1_2_town	-30	234.375			
+Object: Metadata/QuestObjects/DoodadNoDarkness	214	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	164	348	4.712 rad	708577821	1_2_town					
+Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/Dex/Dex	162	332	4.124 rad	2287107054	1_2_town					
+Metadata/Characters/DexInt/DexInt	196	274	0.862 rad	3989868005	1_2_town					
+Metadata/Characters/StrInt/StrInt	195	261	2.290 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	181	262	5.593 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	190	218	0.437 rad	2621544766	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	210	206	2.013 rad	2621544766	1_2_town					
+Metadata/Characters/Dex/Dex	152	263	5.117 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	184	296	1.571 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	184	296	1.571 rad	2621544766	1_2_town					
+Metadata/Characters/StrDex/StrDex	184	296	1.571 rad	2810334424	1_2_town					
+Metadata/Characters/Str/Str	199	278	0.381 rad	3618279525	1_2_town					
+Metadata/Characters/Int/Int	175	328	2.761 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	175	328	2.761 rad	2448909918	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	197	263	1.107 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	214	268	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	163	268	3.522 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	188	165	4.712 rad	726109394	1_2_town	-43	338.041	0	50717	The Southern Forest
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.001 rad	688764747	1_2_town	-24	187.500			
+Object: Metadata/MiscellaneousObjects/Waypoint	188	208	4.712 rad	552129418	1_2_town	2	-16.813			
+Metadata/NPC/League/Bestiary/Einhar	153	246	2.672 rad	3494584835	1_2_town	2	-15.625			
+Object: Metadata/MiscellaneousObjects/AreaTransition	63	266	4.712 rad	726109394	1_2_town	2	-17.067	0	3474	The Riverways
+Metadata/NPC/Act2/Greust	203	268	5.905 rad	2302925468	1_2_town					
+Metadata/Pet/Cat/Black	192	263	5.961 rad	1697479544	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	311	264	4.712 rad	726109394	1_2_town	2	-16.645	0	9731	The Old Fields
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	107	276	0.000 rad	2169838976	1_2_town					
+Metadata/NPC/Act2/Eramir	159	278	0.470 rad	2330252191	1_2_town	2	-15.625			
+Object: Metadata/QuestObjects/DoodadNoDarkness	161	298	4.712 rad	708577821	1_2_town	-11	93.071			
+Object: Metadata/QuestObjects/DoodadNoDarkness	177	278	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/Stash	191	296	5.842 rad	2817685266	1_2_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	223	298	4.633 rad	2564365857	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	267	280	0.097 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	292	279	6.090 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	279	282	6.280 rad	1285951471	1_2_town					
+Metadata/Pet/ScavengerBat/ScavengerBat	167	321	5.093 rad	2240582022	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	173	305	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	175	300	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	184	307	4.712 rad	1669564304	1_2_town	13	-105.697			
+Object: Metadata/QuestObjects/DoodadNoDarkness	185	321	4.712 rad	708577821	1_2_town	-2	16.644			
+Object: Metadata/QuestObjects/DoodadNoDarkness	208	307	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	217	320	4.712 rad	708577821	1_2_town					
+Metadata/NPC/Act2/Yeena	153	338	0.873 rad	3496506456	1_2_town					
+Metadata/NPC/Act2/Silk	179	338	5.585 rad	185275073	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	163	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	179	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	200	338	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	203	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	220	326	4.712 rad	708577821	1_2_town	-30	234.375			
+Object: Metadata/QuestObjects/DoodadNoDarkness	214	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	164	348	4.712 rad	708577821	1_2_town					
+Metadata/Characters/StrDex/StrDex	229	268	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Pet/NineTailedFox/NineTailedFox	200	196	0.000 rad	1364879625	1_2_town					
+Metadata/Pet/WispPet/WispPet	196	215	0.000 rad	2118900097	1_2_town					
+Metadata/Characters/DexInt/DexInt	180	256	3.142 rad	3989868005	1_2_town					
+Metadata/Characters/Str/Str	229	268	4.712 rad	3618279525	1_2_town					
+Metadata/Pet/NineTailedFox/NineTailedFox	235	273	0.000 rad	1364879625	1_2_town					
+Metadata/Pet/NineTailedFox/NineTailedFox	241	256	0.000 rad	1364879625	1_2_town					
+Metadata/Characters/StrDex/StrDex	229	268	4.712 rad	2810334424	1_2_town					
+Object: Metadata/Effects/ServerEffect	169	282	5.093 rad	2646652649	1_2_town					
+Metadata/Characters/Int/Int	188	177	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Object: Metadata/Effects/ServerEffect	153	327	3.142 rad	2646652649	1_2_town					
+Metadata/Characters/StrDex/StrDex	229	268	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/StrDex/StrDex	229	268	4.712 rad	2810334424	1_2_town					
+Object: Metadata/Effects/ServerEffect	168	272	4.124 rad	2646652649	1_2_town					
+Object: Metadata/Effects/ServerEffect	163	268	3.522 rad	2646652649	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	188	208	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	188	208	4.712 rad	1086455624	1_2_town					
+Object: Metadata/Effects/ServerEffect	151	332	3.000 rad	2646652649	1_2_town					
+Object: Metadata/Effects/ServerEffect	160	311	5.695 rad	2646652649	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Pet/Rhoa/EdictRebirthRhoa/EdictRebirthRhoa	241	256	0.000 rad	3897977048	1_2_town					
+Metadata/Characters/Dex/Dex	162	332	4.124 rad	2287107054	1_2_town					
+Metadata/Characters/DexInt/DexInt	196	274	0.862 rad	3989868005	1_2_town					
+Metadata/Characters/StrInt/StrInt	195	261	2.290 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	190	218	0.437 rad	2621544766	1_2_town					
+Metadata/Characters/Dex/Dex	180	256	3.142 rad	2287107054	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	180	256	3.142 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	154	332	3.307 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	164	338	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrDex/StrDex	184	296	1.571 rad	2810334424	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	184	296	1.571 rad	1086455624	1_2_town					
+Metadata/Characters/StrInt/StrInt	193	264	1.951 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	196	259	4.957 rad	2621544766	1_2_town					
+Metadata/Characters/StrDex/StrDex	229	268	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/StrDex/StrDex	180	256	3.142 rad	2810334424	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	180	256	3.142 rad	1086455624	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	180	256	3.142 rad	1086455624	1_2_town					
+Metadata/Characters/Str/Str	180	256	3.142 rad	3618279525	1_2_town					
+Metadata/Characters/StrInt/StrInt	180	256	3.142 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	188	165	4.712 rad	726109394	1_2_town	-43	338.041	0	50717	The Southern Forest
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.001 rad	688764747	1_2_town	-24	187.500			
+Object: Metadata/MiscellaneousObjects/Waypoint	188	208	4.712 rad	552129418	1_2_town	2	-16.813			
+Metadata/NPC/League/Bestiary/Einhar	153	246	2.672 rad	3494584835	1_2_town	2	-15.625			
+Metadata/Pet/Bear/DelveBear	171	246	0.000 rad	2637220562	1_2_town					
+Metadata/Pet/WayfinderWolf/WayfinderWolf	191	244	0.000 rad	3271959429	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	63	266	4.712 rad	726109394	1_2_town	2	-17.067	0	3474	The Riverways
+Metadata/NPC/Act2/Greust	203	268	5.905 rad	2302925468	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	311	264	4.712 rad	726109394	1_2_town	2	-16.645	0	9731	The Old Fields
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	107	276	0.000 rad	2169838976	1_2_town					
+Metadata/NPC/Act2/Eramir	159	278	0.470 rad	2330252191	1_2_town	2	-15.625			
+Object: Metadata/QuestObjects/DoodadNoDarkness	161	298	4.712 rad	708577821	1_2_town	-11	93.071			
+Object: Metadata/QuestObjects/DoodadNoDarkness	177	278	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/Stash	191	296	5.842 rad	2817685266	1_2_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	223	298	4.633 rad	2564365857	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	267	280	0.097 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	292	279	6.090 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	279	282	6.280 rad	1285951471	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	173	305	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	175	300	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	184	307	4.712 rad	1669564304	1_2_town	13	-105.697			
+Object: Metadata/QuestObjects/DoodadNoDarkness	185	321	4.712 rad	708577821	1_2_town	-2	16.644			
+Object: Metadata/QuestObjects/DoodadNoDarkness	208	307	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	217	320	4.712 rad	708577821	1_2_town					
+Metadata/NPC/Act2/Yeena	153	338	0.873 rad	3496506456	1_2_town					
+Metadata/NPC/Act2/Silk	179	338	5.585 rad	185275073	1_2_town					
+Metadata/Pet/BreachHandSpider/BreachHandSpider	170	327	2.634 rad	3695598681	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	163	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	179	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	200	338	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	203	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	220	326	4.712 rad	708577821	1_2_town	-30	234.375			
+Object: Metadata/QuestObjects/DoodadNoDarkness	214	332	4.712 rad	708577821	1_2_town					
+Metadata/Pet/BetaKiwis/BaronKiwi	172	345	3.225 rad	997609594	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	164	348	4.712 rad	708577821	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	177	3.142 rad	2448909918	1_2_town					
+Metadata/Characters/Dex/Dex	162	332	4.124 rad	2287107054	1_2_town					
+Metadata/Characters/DexInt/DexInt	196	274	0.862 rad	3989868005	1_2_town					
+Metadata/Characters/StrInt/StrInt	195	261	2.290 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	190	218	0.437 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	159	247	5.853 rad	2621544766	1_2_town					
+Metadata/Characters/StrDex/StrDex	184	252	1.107 rad	2810334424	1_2_town					
+Metadata/Characters/Int/Int	194	290	3.605 rad	2621544766	1_2_town					
+Metadata/Characters/StrDex/StrDex	199	278	0.381 rad	2810334424	1_2_town					
+Metadata/Characters/Dex/Dex	183	294	1.816 rad	2287107054	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	179	258	0.250 rad	1086455624	1_2_town					
+Metadata/Characters/Dex/Dex	172	257	5.847 rad	2287107054	1_2_town					
+Metadata/Characters/Dex/Dex	163	334	4.332 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	154	328	3.241 rad	2621544766	1_2_town					
+Metadata/Characters/Str/Str	186	232	3.031 rad	3618279525	1_2_town					
+Metadata/Characters/StrInt/StrInt	172	295	0.215 rad	2448909918	1_2_town					
+Metadata/Characters/Str/Str	158	256	3.075 rad	3618279525	1_2_town					
+Metadata/Characters/StrInt/StrInt	180	256	3.142 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	188	165	4.712 rad	726109394	1_2_town	-43	338.041	0	50717	The Southern Forest
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.001 rad	688764747	1_2_town	-24	187.500			
+Object: Metadata/MiscellaneousObjects/Waypoint	188	208	4.712 rad	552129418	1_2_town	2	-16.813			
+Metadata/NPC/League/Bestiary/Einhar	153	246	2.672 rad	3494584835	1_2_town	2	-15.625			
+Metadata/Pet/Wolf/SunriseWolf	160	250	3.605 rad	570724640	1_2_town					
+Metadata/Pet/Dragon/Dragon	178	244	3.927 rad	2475147240	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	63	266	4.712 rad	726109394	1_2_town	2	-17.067	0	3474	The Riverways
+Metadata/NPC/Act2/Greust	203	268	5.905 rad	2302925468	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	311	264	4.712 rad	726109394	1_2_town	2	-16.645	0	9731	The Old Fields
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	107	276	0.000 rad	2169838976	1_2_town					
+Metadata/NPC/Act2/Eramir	159	278	0.470 rad	2330252191	1_2_town	2	-15.625			
+Object: Metadata/QuestObjects/DoodadNoDarkness	161	298	4.712 rad	708577821	1_2_town	-11	93.071			
+Object: Metadata/QuestObjects/DoodadNoDarkness	177	278	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/Stash	191	296	5.842 rad	2817685266	1_2_town					
+Metadata/Pet/Rat_Black/Rat_Black	200	289	1.326 rad	3034038619	1_2_town					
+Metadata/Pet/Rat_Black/Rat_Black	188	279	0.785 rad	3034038619	1_2_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	223	298	4.633 rad	2564365857	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	267	280	0.097 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	292	279	6.090 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	279	282	6.280 rad	1285951471	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	173	305	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	175	300	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	184	307	4.712 rad	1669564304	1_2_town	13	-105.697			
+Object: Metadata/QuestObjects/DoodadNoDarkness	185	321	4.712 rad	708577821	1_2_town	-2	16.644			
+Object: Metadata/QuestObjects/DoodadNoDarkness	208	307	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	217	320	4.712 rad	708577821	1_2_town					
+Metadata/NPC/Act2/Yeena	153	338	0.873 rad	3496506456	1_2_town					
+Metadata/NPC/Act2/Silk	179	338	5.585 rad	185275073	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	163	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	179	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	200	338	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	203	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	220	326	4.712 rad	708577821	1_2_town	-30	234.375			
+Object: Metadata/QuestObjects/DoodadNoDarkness	214	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	164	348	4.712 rad	708577821	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Pet/Copter/Copter	196	200	0.000 rad	2611502063	1_2_town					
+Metadata/Pet/Bear/DelveBear	198	217	0.000 rad	2637220562	1_2_town					
+Metadata/Characters/Int/Int	188	177	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Object: Metadata/Effects/ServerEffect	166	282	5.071 rad	2646652649	1_2_town					
+Object: Metadata/Effects/ServerEffect	187	293	2.214 rad	2646652649	1_2_town					
+Metadata/Characters/Dex/Dex	297	259	5.061 rad	2287107054	1_2_town					
+Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/Str/Str	188	177	3.142 rad	3618279525	1_2_town					
+Object: Metadata/Effects/ServerEffect	227	254	1.279 rad	2646652649	1_2_town					
+Metadata/Characters/Dex/Dex	162	332	4.124 rad	2287107054	1_2_town					
+Metadata/Characters/DexInt/DexInt	196	274	0.862 rad	3989868005	1_2_town					
+Metadata/Characters/StrInt/StrInt	195	261	2.290 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	190	218	0.437 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	159	247	5.853 rad	2621544766	1_2_town					
+Metadata/Characters/Str/Str	181	216	6.228 rad	3618279525	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	290	2.678 rad	2448909918	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	180	256	3.142 rad	1086455624	1_2_town					
+Metadata/Characters/Str/Str	184	296	1.571 rad	3618279525	1_2_town					
+Metadata/Characters/Dex/Dex	200	292	4.294 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	163	334	4.332 rad	2621544766	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	183	272	6.233 rad	1086455624	1_2_town					
+Metadata/Characters/Dex/Dex	104	262	4.467 rad	2287107054	1_2_town					
+Metadata/Characters/Dex/Dex	195	278	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	188	165	4.712 rad	726109394	1_2_town	-43	338.041	0	50717	The Southern Forest
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.001 rad	688764747	1_2_town	-24	187.500			
+Object: Metadata/MiscellaneousObjects/Waypoint	188	208	4.712 rad	552129418	1_2_town	2	-16.813			
+Metadata/Pet/LightBringerCat/LightbringerCat	189	223	0.115 rad	2262956191	1_2_town					
+Metadata/NPC/League/Bestiary/Einhar	153	246	2.672 rad	3494584835	1_2_town	2	-15.625			
+Object: Metadata/MiscellaneousObjects/AreaTransition	63	266	4.712 rad	726109394	1_2_town	2	-17.067	0	3474	The Riverways
+Metadata/NPC/Act2/Greust	203	268	5.905 rad	2302925468	1_2_town					
 Metadata/MiscellaneousObjects/MultiplexPortal	229	268	4.712 rad	1600303822	1_2_town					
 Object: Metadata/MiscellaneousObjects/AreaTransition	311	264	4.712 rad	726109394	1_2_town	2	-16.645	0	9731	The Old Fields
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	107	276	0.000 rad	2169838976	1_2_town					
+Metadata/NPC/Act2/Eramir	159	278	0.470 rad	2330252191	1_2_town	2	-15.625			
+Metadata/Pet/OrigamiPet/OrigamiPetBase	180	283	3.816 rad	730578149	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	161	298	4.712 rad	708577821	1_2_town	-11	93.071			
+Object: Metadata/QuestObjects/DoodadNoDarkness	177	278	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/Stash	191	296	5.842 rad	2817685266	1_2_town					
+Metadata/Pet/BellLizard/BellLizard	191	279	0.547 rad	3008361557	1_2_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	223	298	4.633 rad	2564365857	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	267	280	0.097 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	292	279	6.090 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	279	282	6.280 rad	1285951471	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	173	305	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	175	300	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	184	307	4.712 rad	1669564304	1_2_town	13	-105.697			
+Object: Metadata/QuestObjects/DoodadNoDarkness	185	321	4.712 rad	708577821	1_2_town	-2	16.644			
+Object: Metadata/QuestObjects/DoodadNoDarkness	208	307	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	217	320	4.712 rad	708577821	1_2_town					
+Metadata/NPC/Act2/Yeena	153	338	0.873 rad	3496506456	1_2_town					
+Metadata/NPC/Act2/Silk	179	338	5.585 rad	185275073	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	163	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	179	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	200	338	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	203	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	220	326	4.712 rad	708577821	1_2_town	-30	234.375			
+Object: Metadata/QuestObjects/DoodadNoDarkness	214	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	164	348	4.712 rad	708577821	1_2_town					
+Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrDex/StrDex	188	208	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/Str/Str	229	268	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	188	208	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Str/Str	229	268	4.712 rad	3618279525	1_2_town					
+Metadata/Pet/Wolf/SunriseWolf	239	258	0.000 rad	570724640	1_2_town					
+Metadata/Pet/Dragon/Dragon	235	273	0.000 rad	2475147240	1_2_town					
+Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
+Metadata/Pet/Rhoa/MediRhoa/MediRhoa	241	256	0.000 rad	2125633535	1_2_town					
+Metadata/Characters/Dex/Dex	78	264	1.571 rad	2287107054	1_2_town					
+Object: Metadata/Effects/ServerEffect	169	274	4.332 rad	2646652649	1_2_town					
+Metadata/Characters/Dex/Dex	229	268	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/StrInt/StrInt	180	256	3.142 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/Dex/Dex	162	332	4.124 rad	2287107054	1_2_town					
+Metadata/Characters/DexInt/DexInt	196	274	0.862 rad	3989868005	1_2_town					
+Metadata/Characters/StrInt/StrInt	195	261	2.290 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	190	218	0.437 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	159	247	5.853 rad	2621544766	1_2_town					
+Metadata/Characters/Str/Str	181	216	6.228 rad	3618279525	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	180	256	3.142 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	183	248	5.356 rad	2621544766	1_2_town					
+Metadata/Characters/DexInt/DexInt	206	254	0.882 rad	3989868005	1_2_town					
+Metadata/Characters/Dex/Dex	184	296	1.571 rad	2287107054	1_2_town					
+Metadata/Characters/StrDex/StrDex	184	296	1.571 rad	2810334424	1_2_town					
+Metadata/Characters/Int/Int	153	327	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	172	304	0.245 rad	2448909918	1_2_town					
+Metadata/Characters/Str/Str	153	327	3.142 rad	3618279525	1_2_town					
+Metadata/Characters/StrDex/StrDex	171	249	3.947 rad	2810334424	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/Dex/Dex	174	306	3.079 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	188	165	4.712 rad	726109394	1_2_town	-43	338.041	0	50717	The Southern Forest
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.001 rad	688764747	1_2_town	-24	187.500			
+Object: Metadata/MiscellaneousObjects/Waypoint	188	208	4.712 rad	552129418	1_2_town	2	-16.813			
+Metadata/Pet/LightBringerCat/LightbringerCat	189	223	0.115 rad	2262956191	1_2_town					
+Metadata/NPC/League/Bestiary/Einhar	153	246	2.672 rad	3494584835	1_2_town	2	-15.625			
+Object: Metadata/MiscellaneousObjects/AreaTransition	63	266	4.712 rad	726109394	1_2_town	2	-17.067	0	3474	The Riverways
+Metadata/NPC/Act2/Greust	203	268	5.905 rad	2302925468	1_2_town					
+Metadata/Pet/Raven/BloodGuard	195	253	0.159 rad	2970184459	1_2_town					
+Metadata/MiscellaneousObjects/MultiplexPortal	229	268	4.712 rad	1600303822	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	311	264	4.712 rad	726109394	1_2_town	2	-16.645	0	9731	The Old Fields
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	107	276	0.000 rad	2169838976	1_2_town					
+Metadata/NPC/Act2/Eramir	159	278	0.470 rad	2330252191	1_2_town	2	-15.625			
+Object: Metadata/QuestObjects/DoodadNoDarkness	161	298	4.712 rad	708577821	1_2_town	-11	93.071			
+Object: Metadata/QuestObjects/DoodadNoDarkness	177	278	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/Stash	191	296	5.842 rad	2817685266	1_2_town					
+Metadata/Pet/Mimic/Mimic	201	286	5.176 rad	1016802361	1_2_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	223	298	4.633 rad	2564365857	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	267	280	0.097 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	292	279	6.090 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	279	282	6.280 rad	1285951471	1_2_town					
+Metadata/Pet/FangtoothMoray/FangtoothMoray	147	318	4.193 rad	4111464647	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	173	305	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	175	300	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	184	307	4.712 rad	1669564304	1_2_town	13	-105.697			
+Object: Metadata/QuestObjects/DoodadNoDarkness	185	321	4.712 rad	708577821	1_2_town	-2	16.644			
+Object: Metadata/QuestObjects/DoodadNoDarkness	208	307	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	217	320	4.712 rad	708577821	1_2_town					
+Metadata/NPC/Act2/Yeena	153	338	0.873 rad	3496506456	1_2_town					
+Metadata/NPC/Act2/Silk	179	338	5.585 rad	185275073	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	163	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	179	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	200	338	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	203	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	220	326	4.712 rad	708577821	1_2_town	-30	234.375			
+Object: Metadata/QuestObjects/DoodadNoDarkness	214	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	164	348	4.712 rad	708577821	1_2_town					
+Object: Metadata/Effects/ServerEffect	173	313	0.322 rad	2646652649	1_2_town					
+Metadata/Characters/Str/Str	229	268	4.712 rad	3618279525	1_2_town					
+Metadata/Pet/Wolf/SunriseWolf	239	258	0.000 rad	570724640	1_2_town					
+Metadata/Pet/Dragon/Dragon	235	273	0.000 rad	2475147240	1_2_town					
+Metadata/Characters/StrDex/StrDex	188	208	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/Str/Str	229	268	4.712 rad	3618279525	1_2_town					
+Object: Metadata/Effects/ServerEffect	162	344	5.300 rad	2646652649	1_2_town					
+Metadata/Characters/Dex/Dex	180	256	3.142 rad	2287107054	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	188	208	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/DexInt/DexInt	188	208	4.712 rad	3989868005	1_2_town					
+Metadata/Pet/Rhoa/AshRhoa/AshRhoa	200	196	0.000 rad	2151676176	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	180	256	3.142 rad	2448909918	1_2_town					
+Object: Metadata/Effects/ServerEffect	184	296	1.571 rad	2646652649	1_2_town					
+Object: Metadata/Effects/ServerEffect	166	270	3.860 rad	2646652649	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Effects/Microtransactions/Aura/ScourgeApparition/ScourgeApparition	194	304	3.794 rad	4143369807	1_2_town					
+Object: Metadata/Effects/ServerEffect	168	338	3.785 rad	2646652649	1_2_town	2	-15.625			
+Metadata/Characters/StrInt/StrInt	180	256	3.142 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Object: Metadata/Effects/ServerEffect	163	334	4.332 rad	2646652649	1_2_town					
+Metadata/Characters/Dex/Dex	162	332	4.124 rad	2287107054	1_2_town					
+Metadata/Characters/DexInt/DexInt	196	274	0.862 rad	3989868005	1_2_town					
+Metadata/Characters/StrInt/StrInt	195	261	2.290 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	190	218	0.437 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	159	247	5.853 rad	2621544766	1_2_town					
+Metadata/Characters/DexInt/DexInt	206	254	0.882 rad	3989868005	1_2_town					
+Metadata/Characters/StrDex/StrDex	180	256	3.142 rad	2810334424	1_2_town					
+Metadata/Characters/Dex/Dex	184	296	1.571 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	197	294	4.391 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	210	260	3.860 rad	2621544766	1_2_town					
+Metadata/Characters/Str/Str	188	208	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/Dex/Dex	114	266	3.752 rad	2287107054	1_2_town					
+Metadata/Characters/StrDex/StrDex	112	264	3.536 rad	2810334424	1_2_town					
+Metadata/Characters/Str/Str	160	312	0.785 rad	3618279525	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	217	253	5.439 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	188	165	4.712 rad	726109394	1_2_town	-43	338.041	0	50717	The Southern Forest
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.001 rad	688764747	1_2_town	-24	187.500			
+Object: Metadata/MiscellaneousObjects/Waypoint	188	208	4.712 rad	552129418	1_2_town	2	-16.813			
+Metadata/NPC/League/Bestiary/Einhar	153	246	2.672 rad	3494584835	1_2_town	2	-15.625			
+Object: Metadata/MiscellaneousObjects/AreaTransition	63	266	4.712 rad	726109394	1_2_town	2	-17.067	0	3474	The Riverways
+Metadata/NPC/Act2/Greust	203	268	5.905 rad	2302925468	1_2_town					
+Metadata/Pet/Raven/BloodGuard	195	253	0.159 rad	2970184459	1_2_town					
+Metadata/MiscellaneousObjects/MultiplexPortal	229	268	4.712 rad	1600303822	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	311	264	4.712 rad	726109394	1_2_town	2	-16.645	0	9731	The Old Fields
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	107	276	0.000 rad	2169838976	1_2_town					
+Metadata/NPC/Act2/Eramir	159	278	0.470 rad	2330252191	1_2_town	2	-15.625			
+Object: Metadata/QuestObjects/DoodadNoDarkness	161	298	4.712 rad	708577821	1_2_town	-11	93.071			
+Object: Metadata/QuestObjects/DoodadNoDarkness	177	278	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/Stash	191	296	5.842 rad	2817685266	1_2_town					
+Metadata/Pet/Mimic/Mimic	201	286	5.176 rad	1016802361	1_2_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	223	298	4.633 rad	2564365857	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	267	280	0.097 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	292	279	6.090 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	279	282	6.280 rad	1285951471	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	173	305	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	175	300	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	184	307	4.712 rad	1669564304	1_2_town	13	-105.697			
+Object: Metadata/QuestObjects/DoodadNoDarkness	185	321	4.712 rad	708577821	1_2_town	-2	16.644			
+Object: Metadata/QuestObjects/DoodadNoDarkness	208	307	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	217	320	4.712 rad	708577821	1_2_town					
+Metadata/NPC/Act2/Yeena	153	338	0.873 rad	3496506456	1_2_town					
+Metadata/NPC/Act2/Silk	179	338	5.585 rad	185275073	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	163	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	179	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	200	338	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	203	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	220	326	4.712 rad	708577821	1_2_town	-30	234.375			
+Object: Metadata/QuestObjects/DoodadNoDarkness	214	332	4.712 rad	708577821	1_2_town					
+Metadata/NPC/Act2/HelenaTown	168	348	6.021 rad	1466794034	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	164	348	4.712 rad	708577821	1_2_town					
+Metadata/Characters/DexInt/DexInt	229	268	4.712 rad	3989868005	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	180	256	3.142 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/Str/Str	229	268	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Object: Metadata/Effects/ServerEffect	173	259	0.165 rad	2646652649	1_2_town					
+Metadata/Characters/Str/Str	188	208	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/Dex/Dex	188	177	3.142 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/Str/Str	229	268	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/Str/Str	188	208	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/Str/Str	180	256	3.142 rad	3618279525	1_2_town					
+Metadata/Characters/Str/Str	229	268	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Object: Metadata/Effects/ServerEffect	153	327	3.142 rad	2646652649	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/StrInt/StrInt	180	256	3.142 rad	2448909918	1_2_town					
+Metadata/Characters/Str/Str	229	268	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/Dex/Dex	188	177	3.142 rad	2287107054	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/Dex/Dex	180	256	3.142 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Pet/FledglingBellcrow/FledglingBellcrow	188	269	0.000 rad	1990139760	1_2_town					
+Metadata/Pet/BetaKiwis/BaronKiwi	185	284	0.000 rad	997609594	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Pet/OrigamiPet/OrigamiPetBase	196	200	0.000 rad	730578149	1_2_town					
+Object: Metadata/Effects/ServerEffect	164	284	5.588 rad	2646652649	1_2_town					
+Object: Metadata/Effects/ServerEffect	163	268	3.522 rad	2646652649	1_2_town					
+Metadata/Characters/Dex/Dex	180	256	3.142 rad	2287107054	1_2_town					
+Metadata/Pet/WayfinderWolf/WayfinderWolf	169	244	0.000 rad	3271959429	1_2_town					
+Metadata/Characters/Str/Str	188	208	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/Str/Str	180	256	3.142 rad	3618279525	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	180	256	3.142 rad	1086455624	1_2_town					
+Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Str/Str	180	256	3.142 rad	3618279525	1_2_town					
+Metadata/Characters/Dex/Dex	188	208	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/Dex/Dex	188	208	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Dex/Dex	148	273	4.629 rad	2287107054	1_2_town					
+Metadata/Characters/StrInt/StrInt	163	342	5.093 rad	2448909918	1_2_town					
+Metadata/Characters/Dex/Dex	185	333	4.018 rad	2287107054	1_2_town					
+Metadata/Characters/Dex/Dex	207	262	3.836 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/StrInt/StrInt	193	275	1.703 rad	2448909918	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	192	278	0.367 rad	1086455624	1_2_town					
+Metadata/Characters/StrDex/StrDex	197	294	4.391 rad	2810334424	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/Dex/Dex	197	293	4.249 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	199	278	0.381 rad	2621544766	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	184	278	5.421 rad	1086455624	1_2_town					
+Metadata/Characters/DexInt/DexInt	209	257	1.338 rad	3989868005	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	189	255	5.034 rad	1086455624	1_2_town					
+Metadata/Characters/Str/Str	162	332	4.124 rad	3618279525	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	188	165	4.712 rad	726109394	1_2_town	-43	338.041	0	50717	The Southern Forest
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.001 rad	688764747	1_2_town	-24	187.500			
+Object: Metadata/MiscellaneousObjects/Waypoint	188	208	4.712 rad	552129418	1_2_town	2	-16.813			
+Metadata/NPC/League/Bestiary/Einhar	153	246	2.672 rad	3494584835	1_2_town	2	-15.625			
+Metadata/Pet/VaalToucan/VaalToucan	173	248	0.000 rad	3078709402	1_2_town					
+Metadata/Pet/BetaKiwis/VaalKiwi	187	248	0.000 rad	858497967	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	63	266	4.712 rad	726109394	1_2_town	2	-17.067	0	3474	The Riverways
+Metadata/NPC/Act2/Greust	203	268	5.905 rad	2302925468	1_2_town					
+Metadata/MiscellaneousObjects/MultiplexPortal	229	268	4.712 rad	1600303822	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	311	264	4.712 rad	726109394	1_2_town	2	-16.645	0	9731	The Old Fields
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	107	276	0.000 rad	2169838976	1_2_town					
 Metadata/NPC/Act2/Eramir	159	278	0.470 rad	2330252191	1_2_town	2	-15.625			
 Object: Metadata/QuestObjects/DoodadNoDarkness	161	298	4.712 rad	708577821	1_2_town	-11	93.071			
 Object: Metadata/QuestObjects/DoodadNoDarkness	177	278	4.712 rad	708577821	1_2_town					
@@ -37,3 +931,195 @@ Object: Metadata/QuestObjects/DoodadNoDarkness	220	326	4.712 rad	708577821	1_2_t
 Object: Metadata/QuestObjects/DoodadNoDarkness	214	332	4.712 rad	708577821	1_2_town					
 Metadata/NPC/Act2/HelenaTown	168	348	6.021 rad	1466794034	1_2_town					
 Object: Metadata/QuestObjects/DoodadNoDarkness	164	348	4.712 rad	708577821	1_2_town					
+Metadata/Characters/Dex/Dex	188	208	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/DexInt/DexInt	229	268	4.712 rad	3989868005	1_2_town					
+Metadata/Characters/Str/Str	188	208	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	188	208	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Dex/Dex	188	208	4.712 rad	2287107054	1_2_town					
+Metadata/Pet/Rhoa/EdictSpearRhoabot/EdictSpearRhoabot	200	196	0.000 rad	1857759551	1_2_town					
+Metadata/Pet/Rhoa/EdictRebirthRhoa/EdictRebirthRhoa	200	219	0.000 rad	3897977048	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	188	208	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/DexInt/DexInt	229	268	4.712 rad	3989868005	1_2_town					
+Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/DexInt/DexInt	188	208	4.712 rad	3989868005	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	188	208	4.712 rad	1086455624	1_2_town					
+Object: Metadata/Effects/ServerEffect	163	268	3.522 rad	2646652649	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Object: Metadata/Effects/ServerEffect	180	273	0.172 rad	2646652649	1_2_town					
+Object: Metadata/Effects/ServerEffect	168	272	4.124 rad	2646652649	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrDex/StrDex	180	256	3.142 rad	2810334424	1_2_town					
+Metadata/Characters/Dex/Dex	229	268	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/DexInt/DexInt	229	268	4.712 rad	3989868005	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	188	208	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Dex/Dex	188	208	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Object: Metadata/Effects/ServerEffect	168	272	4.124 rad	2646652649	1_2_town					
+Metadata/Characters/Dex/Dex	162	332	4.124 rad	2287107054	1_2_town					
+Metadata/Characters/DexInt/DexInt	196	274	0.862 rad	3989868005	1_2_town					
+Metadata/Characters/StrInt/StrInt	195	261	2.290 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	190	218	0.437 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	159	247	5.853 rad	2621544766	1_2_town					
+Metadata/Characters/DexInt/DexInt	206	254	0.882 rad	3989868005	1_2_town					
+Metadata/Characters/Str/Str	188	208	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	178	275	3.605 rad	1086455624	1_2_town					
+Metadata/Characters/StrDex/StrDex	180	256	3.142 rad	2810334424	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/Dex/Dex	164	338	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/StrDex/StrDex	191	289	3.142 rad	2810334424	1_2_town					
+Metadata/Characters/StrDex/StrDex	180	256	3.142 rad	2810334424	1_2_town					
+Metadata/Characters/Dex/Dex	188	290	2.678 rad	2287107054	1_2_town					
+Metadata/Characters/StrDex/StrDex	188	291	2.601 rad	2810334424	1_2_town					
+Metadata/Characters/StrInt/StrInt	185	216	0.359 rad	2448909918	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	188	165	4.712 rad	726109394	1_2_town	-43	338.041	0	50717	The Southern Forest
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.001 rad	688764747	1_2_town	-24	187.500			
+Object: Metadata/MiscellaneousObjects/Waypoint	188	208	4.712 rad	552129418	1_2_town	2	-16.813			
+Metadata/NPC/League/Bestiary/Einhar	153	246	2.672 rad	3494584835	1_2_town	2	-15.625			
+Object: Metadata/MiscellaneousObjects/AreaTransition	63	266	4.712 rad	726109394	1_2_town	2	-17.067	0	3474	The Riverways
+Metadata/NPC/Act2/Greust	203	268	5.905 rad	2302925468	1_2_town					
+Metadata/Pet/Raven/BloodGuard	195	253	0.159 rad	2970184459	1_2_town					
+Metadata/MiscellaneousObjects/MultiplexPortal	229	268	4.712 rad	1600303822	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	311	264	4.712 rad	726109394	1_2_town	2	-16.645	0	9731	The Old Fields
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	107	276	0.000 rad	2169838976	1_2_town					
+Metadata/NPC/Act2/Eramir	159	278	0.470 rad	2330252191	1_2_town	2	-15.625			
+Object: Metadata/QuestObjects/DoodadNoDarkness	161	298	4.712 rad	708577821	1_2_town	-11	93.071			
+Object: Metadata/QuestObjects/DoodadNoDarkness	177	278	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/Stash	191	296	5.842 rad	2817685266	1_2_town					
+Metadata/Pet/Mimic/Mimic	201	286	5.176 rad	1016802361	1_2_town					
+Metadata/Pet/ThaumaturgyDogs/LabradorPet	186	296	1.326 rad	1643474496	1_2_town					
+Metadata/Pet/ThaumaturgyDogs/LabradorPet	193	284	1.046 rad	1643474496	1_2_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	223	298	4.633 rad	2564365857	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	267	280	0.097 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	292	279	6.090 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	279	282	6.280 rad	1285951471	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	173	305	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	175	300	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	184	307	4.712 rad	1669564304	1_2_town	13	-105.697			
+Object: Metadata/QuestObjects/DoodadNoDarkness	185	321	4.712 rad	708577821	1_2_town	-2	16.644			
+Object: Metadata/QuestObjects/DoodadNoDarkness	208	307	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	217	320	4.712 rad	708577821	1_2_town					
+Metadata/NPC/Act2/Yeena	153	338	0.873 rad	3496506456	1_2_town					
+Metadata/NPC/Act2/Silk	179	338	5.585 rad	185275073	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	163	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	179	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	200	338	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	203	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	220	326	4.712 rad	708577821	1_2_town	-30	234.375			
+Object: Metadata/QuestObjects/DoodadNoDarkness	214	332	4.712 rad	708577821	1_2_town					
+Metadata/NPC/Act2/HelenaTown	168	348	6.021 rad	1466794034	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	164	348	4.712 rad	708577821	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	188	208	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Int/Int	180	256	3.142 rad	2621544766	1_2_town					
+Metadata/Characters/DexInt/DexInt	229	268	4.712 rad	3989868005	1_2_town					
+Metadata/Characters/Dex/Dex	148	273	4.629 rad	2287107054	1_2_town					
+Metadata/Characters/StrInt/StrInt	163	342	5.093 rad	2448909918	1_2_town					
+Metadata/Characters/Dex/Dex	185	333	4.018 rad	2287107054	1_2_town					
+Metadata/Characters/Dex/Dex	207	262	3.836 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/StrInt/StrInt	193	275	1.703 rad	2448909918	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	192	278	0.367 rad	1086455624	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/StrDex/StrDex	174	332	2.447 rad	2810334424	1_2_town					
+Metadata/Characters/StrInt/StrInt	180	256	3.142 rad	2448909918	1_2_town					
+Metadata/Characters/StrInt/StrInt	178	282	0.405 rad	2448909918	1_2_town					
+Metadata/Characters/Dex/Dex	188	208	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	197	293	4.249 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	98	263	1.420 rad	2621544766	1_2_town					
+Metadata/Characters/StrInt/StrInt	186	236	0.410 rad	2448909918	1_2_town					
+Metadata/Characters/Str/Str	177	294	0.322 rad	3618279525	1_2_town					
+Metadata/Characters/StrInt/StrInt	180	256	3.142 rad	2448909918	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	188	165	4.712 rad	726109394	1_2_town	-43	338.041	0	50717	The Southern Forest
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.001 rad	688764747	1_2_town	-24	187.500			
+Object: Metadata/MiscellaneousObjects/Waypoint	188	208	4.712 rad	552129418	1_2_town	2	-16.813			
+Metadata/NPC/League/Bestiary/Einhar	153	246	2.672 rad	3494584835	1_2_town	2	-15.625			
+Object: Metadata/MiscellaneousObjects/AreaTransition	63	266	4.712 rad	726109394	1_2_town	2	-17.067	0	3474	The Riverways
+Metadata/NPC/Act2/Greust	203	268	5.905 rad	2302925468	1_2_town					
+Metadata/MiscellaneousObjects/MultiplexPortal	229	268	4.712 rad	1600303822	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	311	264	4.712 rad	726109394	1_2_town	2	-16.645	0	9731	The Old Fields
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	107	276	0.000 rad	2169838976	1_2_town					
+Metadata/NPC/Act2/Eramir	159	278	0.470 rad	2330252191	1_2_town	2	-15.625			
+Object: Metadata/MiscellaneousObjects/Stash	191	296	5.842 rad	2817685266	1_2_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	223	298	4.633 rad	2564365857	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	267	280	0.097 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	292	279	6.090 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	279	282	6.280 rad	1285951471	1_2_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	184	307	4.712 rad	1669564304	1_2_town	13	-105.697			
+Metadata/NPC/Act2/Yeena	153	338	0.873 rad	3496506456	1_2_town					
+Metadata/NPC/Act2/Silk	179	338	5.585 rad	185275073	1_2_town					
+Metadata/NPC/Act2/HelenaTown	168	348	6.021 rad	1466794034	1_2_town					
+Metadata/Characters/StrInt/StrInt	188	208	4.712 rad	2448909918	1_2_town					
+Metadata/Characters/StrDex/StrDex	188	208	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/Str/Str	180	256	3.142 rad	3618279525	1_2_town					
+Metadata/Characters/Int/Int	229	268	4.712 rad	2621544766	1_2_town					
+Object: Metadata/Effects/ServerEffect	169	274	4.332 rad	2646652649	1_2_town					
+Metadata/Characters/DexInt/DexInt	188	208	4.712 rad	3989868005	1_2_town					
+Metadata/Characters/Str/Str	78	264	1.571 rad	3618279525	1_2_town					
+Metadata/Characters/StrDex/StrDex	180	256	3.142 rad	2810334424	1_2_town					
+Metadata/Characters/Dex/Dex	188	208	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	162	332	4.124 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	188	290	2.678 rad	2621544766	1_2_town					
+Metadata/Characters/StrDex/StrDex	145	333	4.547 rad	2810334424	1_2_town					
+Metadata/Characters/Int/Int	174	270	5.387 rad	2621544766	1_2_town					
+Metadata/Characters/Dex/Dex	176	241	6.134 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	185	293	2.034 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	197	277	0.588 rad	2621544766	1_2_town					
+Metadata/Characters/Dex/Dex	184	296	1.571 rad	2287107054	1_2_town					
+Metadata/Characters/Int/Int	193	220	5.888 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	162	332	4.124 rad	2621544766	1_2_town					
+Metadata/Characters/StrDex/StrDex	153	327	3.142 rad	2810334424	1_2_town					
+Metadata/Characters/Int/Int	162	336	4.494 rad	2621544766	1_2_town					
+Metadata/Characters/StrDex/StrDex	165	330	0.346 rad	2810334424	1_2_town					
+Metadata/Characters/Int/Int	184	296	1.571 rad	2621544766	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	188	165	4.712 rad	726109394	1_2_town	-43	338.041	0	50717	The Southern Forest
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	142	224	0.001 rad	688764747	1_2_town	-24	187.500			
+Object: Metadata/MiscellaneousObjects/Waypoint	188	208	4.712 rad	552129418	1_2_town	2	-16.813			
+Metadata/NPC/League/Bestiary/Einhar	153	246	2.672 rad	3494584835	1_2_town	2	-15.625			
+Object: Metadata/MiscellaneousObjects/AreaTransition	63	266	4.712 rad	726109394	1_2_town	2	-17.067	0	3474	The Riverways
+Metadata/NPC/Act2/Greust	203	268	5.905 rad	2302925468	1_2_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	311	264	4.712 rad	726109394	1_2_town	2	-16.645	0	9731	The Old Fields
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	107	276	0.000 rad	2169838976	1_2_town					
+Metadata/NPC/Act2/Eramir	159	278	0.470 rad	2330252191	1_2_town	2	-15.625			
+Object: Metadata/QuestObjects/DoodadNoDarkness	161	298	4.712 rad	708577821	1_2_town	-11	93.071			
+Object: Metadata/QuestObjects/DoodadNoDarkness	177	278	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/Stash	191	296	5.842 rad	2817685266	1_2_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	223	298	4.633 rad	2564365857	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	267	280	0.097 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	292	279	6.090 rad	1285951471	1_2_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	279	282	6.280 rad	1285951471	1_2_town					
+Metadata/Pet/Wolf/SunriseWolf	146	316	4.391 rad	570724640	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	173	305	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	175	300	4.712 rad	708577821	1_2_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	184	307	4.712 rad	1669564304	1_2_town	13	-105.697			
+Object: Metadata/QuestObjects/DoodadNoDarkness	185	321	4.712 rad	708577821	1_2_town	-2	16.644			
+Object: Metadata/QuestObjects/DoodadNoDarkness	208	307	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	217	320	4.712 rad	708577821	1_2_town					
+Metadata/NPC/Act2/Yeena	153	338	0.873 rad	3496506456	1_2_town					
+Metadata/NPC/Act2/Silk	179	338	5.585 rad	185275073	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	163	332	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	179	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	200	338	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	203	335	4.712 rad	708577821	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	220	326	4.712 rad	708577821	1_2_town	-30	234.375			
+Object: Metadata/QuestObjects/DoodadNoDarkness	214	332	4.712 rad	708577821	1_2_town					
+Metadata/NPC/Act2/HelenaTown	168	348	6.021 rad	1466794034	1_2_town					
+Object: Metadata/QuestObjects/DoodadNoDarkness	164	348	4.712 rad	708577821	1_2_town					
+Metadata/Characters/Int/Int	188	208	4.712 rad	2621544766	1_2_town					
+Metadata/Characters/Dex/Dex	229	268	4.712 rad	2287107054	1_2_town					
+Metadata/Characters/StrDex/StrDex	188	208	4.712 rad	2810334424	1_2_town					
+Metadata/Characters/StrInt/StrInt	229	268	4.712 rad	2448909918	1_2_town					
+Object: Metadata/Effects/ServerEffect	169	282	5.093 rad	2646652649	1_2_town					
+Metadata/Characters/StrInt/StrInt	180	256	3.142 rad	2448909918	1_2_town					
+Metadata/Characters/StrDex/StrDex	180	256	3.142 rad	2810334424	1_2_town					
+Metadata/Characters/Str/Str	188	208	4.712 rad	3618279525	1_2_town					
+Metadata/Characters/StrDexInt/StrDexInt	229	268	4.712 rad	1086455624	1_2_town					
+Metadata/Characters/Dex/Dex	188	177	3.142 rad	2287107054	1_2_town					

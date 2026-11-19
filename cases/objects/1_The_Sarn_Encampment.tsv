@@ -1,39 +1,39 @@
 type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
-Metadata/Characters/Int/Int	287	374	4.249 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	287	382	5.176 rad	2448909918	1_3_town					
+Metadata/Characters/Str/Str	290	355	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/Str/Str	324	350	0.618 rad	3618279525	1_3_town					
 Metadata/Characters/StrDexInt/StrDexInt	328	398	3.927 rad	1086455624	1_3_town					
-Metadata/Characters/Str/Str	363	419	1.571 rad	3618279525	1_3_town					
-Metadata/Characters/StrInt/StrInt	385	191	3.142 rad	2448909918	1_3_town					
+Metadata/Characters/Dex/Dex	311	326	0.000 rad	2287107054	1_3_town					
+Metadata/Characters/Str/Str	339	337	0.785 rad	3618279525	1_3_town					
+Metadata/Characters/StrDex/StrDex	364	415	1.951 rad	2810334424	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	319	373	0.497 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	287	382	5.176 rad	2621544766	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	385	191	3.142 rad	2621544766	1_3_town					
 Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
 Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
 Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
-Metadata/Characters/Str/Str	244	435	2.761 rad	3618279525	1_3_town					
-Metadata/Characters/Int/Int	244	435	2.761 rad	2621544766	1_3_town					
+Metadata/Pet/NineTailedFox/NineTailedFox	299	403	4.610 rad	1364879625	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
 Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
 Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Characters/Dex/Dex	295	418	3.605 rad	2287107054	1_3_town					
 Metadata/Characters/StrDex/StrDex	287	419	2.034 rad	2810334424	1_3_town					
-Metadata/Characters/Int/Int	293	415	3.142 rad	2621544766	1_3_town					
-Metadata/Characters/StrInt/StrInt	297	427	5.608 rad	2448909918	1_3_town					
-Metadata/Characters/Dex/Dex	290	416	2.678 rad	2287107054	1_3_town					
-Metadata/Characters/Int/Int	296	416	3.605 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	296	416	3.605 rad	3618279525	1_3_town					
+Metadata/Characters/Str/Str	298	418	4.038 rad	3618279525	1_3_town					
+Metadata/Pet/Wolf/SunriseWolf	313	419	3.927 rad	570724640	1_3_town					
+Metadata/Characters/Int/Int	299	419	4.249 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	299	419	4.249 rad	3618279525	1_3_town					
 Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
-Metadata/Characters/DexInt/DexInt	370	429	0.381 rad	3989868005	1_3_town					
+Metadata/Characters/Str/Str	364	436	0.165 rad	3618279525	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	328	398	3.927 rad	1086455624	1_3_town					
 Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
 Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
 Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
 Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
 Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/Characters/Int/Int	366	462	2.554 rad	2621544766	1_3_town					
 Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
-Metadata/Characters/DexInt/DexInt	368	461	2.761 rad	3989868005	1_3_town					
-Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
-Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
-Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
-Metadata/Characters/DexInt/DexInt	368	461	2.761 rad	3989868005	1_3_town					
 Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
 Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
 Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
@@ -43,307 +43,1451 @@ Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 ra
 Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
 Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
 Object: Metadata/MiscellaneousObjects/AreaTransition	612	525	0.000 rad	726109394	1_3_town	77	-603.319	0	37655	The Slums
+Metadata/Characters/StrInt/StrInt	299	620	4.154 rad	2448909918	1_3_town					
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
 Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Characters/Dex/Dex	311	326	0.000 rad	2287107054	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	319	373	0.497 rad	1086455624	1_3_town					
+Metadata/Pet/NineTailedFox/NineTailedFox	299	403	4.610 rad	1364879625	1_3_town					
+Metadata/Pet/Wolf/SunriseWolf	313	419	3.927 rad	570724640	1_3_town					
+Metadata/Characters/Int/Int	299	419	4.249 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	299	419	4.249 rad	3618279525	1_3_town					
 Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
 Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
 Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
 Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/StrInt/StrInt	299	620	4.154 rad	2448909918	1_3_town					
 Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
-Metadata/Characters/Int/Int	287	374	4.249 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Characters/Dex/Dex	311	326	0.000 rad	2287107054	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	319	373	0.497 rad	1086455624	1_3_town					
+Metadata/Characters/Str/Str	301	375	3.266 rad	3618279525	1_3_town					
+Metadata/Pet/NineTailedFox/NineTailedFox	299	403	4.610 rad	1364879625	1_3_town					
+Metadata/Pet/Wolf/SunriseWolf	313	419	3.927 rad	570724640	1_3_town					
+Metadata/Characters/Int/Int	299	419	4.249 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	299	419	4.249 rad	3618279525	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/StrInt/StrInt	299	620	4.154 rad	2448909918	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/Str/Str	290	355	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/StrInt/StrInt	287	382	5.176 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	287	382	5.176 rad	2621544766	1_3_town					
 Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Characters/Str/Str	298	400	3.266 rad	3618279525	1_3_town					
 Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
 Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Characters/Dex/Dex	295	418	3.605 rad	2287107054	1_3_town					
 Metadata/Characters/StrDex/StrDex	287	419	2.034 rad	2810334424	1_3_town					
-Metadata/Characters/Int/Int	293	415	3.142 rad	2621544766	1_3_town					
-Metadata/Characters/Dex/Dex	290	416	2.678 rad	2287107054	1_3_town					
-Metadata/Characters/Int/Int	296	416	3.605 rad	2621544766	1_3_town					
-Metadata/Characters/Str/Str	244	435	2.761 rad	3618279525	1_3_town					
-Metadata/Characters/Int/Int	244	435	2.761 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	298	418	4.038 rad	3618279525	1_3_town					
 Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
 Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
 Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Metadata/Characters/Dex/Dex	311	326	0.000 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
 Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Metadata/Characters/StrDexInt/StrDexInt	300	422	4.712 rad	1086455624	1_3_town					
+Metadata/Characters/StrInt/StrInt	312	414	5.333 rad	2448909918	1_3_town					
+Metadata/Characters/StrInt/StrInt	334	428	5.498 rad	2448909918	1_3_town					
+Metadata/Characters/Dex/Dex	300	426	5.232 rad	2287107054	1_3_town					
+Metadata/Characters/Str/Str	311	400	5.903 rad	3618279525	1_3_town					
+Metadata/Characters/Dex/Dex	242	436	2.554 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	305	344	0.234 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	243	436	2.634 rad	2621544766	1_3_town					
+Metadata/Characters/StrDex/StrDex	301	395	1.429 rad	2810334424	1_3_town					
+Metadata/Characters/Dex/Dex	255	405	4.527 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	310	370	0.367 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	347	386	1.966 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	244	435	2.761 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	290	416	2.678 rad	2287107054	1_3_town					
+Metadata/Characters/Str/Str	218	491	3.142 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	263	485	6.148 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	364	415	1.951 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Metadata/Pet/Rhoa/EdictRebirthRhoa/EdictRebirthRhoa	360	399	5.550 rad	3897977048	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Pet/NineTailedFox/NineTailedFox	351	429	2.015 rad	1364879625	1_3_town					
+Metadata/Pet/Rhoa/EdictSpearRhoabot/EdictSpearRhoabot	348	419	2.802 rad	1857759551	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Metadata/Pet/WispPet/WispPet	335	441	3.777 rad	2118900097	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/StrDexInt/StrDexInt	502	523	1.669 rad	1086455624	1_3_town					
+Metadata/Characters/StrInt/StrInt	328	398	3.927 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Metadata/Pet/OrigamiPet/OrigamiPetBase	319	334	0.000 rad	730578149	1_3_town					
+Object: Metadata/Effects/ServerEffect	218	491	3.142 rad	2646652649	1_3_town					
+Object: Metadata/Effects/ServerEffect	319	382	5.648 rad	2646652649	1_3_town					
 Metadata/Characters/StrInt/StrInt	311	326	0.000 rad	2448909918	1_3_town					
-Metadata/Characters/StrDexInt/StrDexInt	311	326	0.000 rad	1086455624	1_3_town					
+Metadata/Characters/StrDex/StrDex	338	336	4.705 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	338	336	4.705 rad	2287107054	1_3_town					
+Metadata/Characters/Dex/Dex	385	191	3.142 rad	2287107054	1_3_town					
+Metadata/Characters/Dex/Dex	551	483	3.387 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/StrInt/StrInt	287	382	5.176 rad	2448909918	1_3_town					
+Metadata/Characters/Str/Str	324	350	0.618 rad	3618279525	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	328	398	3.927 rad	1086455624	1_3_town					
+Metadata/Characters/Dex/Dex	311	326	0.000 rad	2287107054	1_3_town					
+Metadata/Characters/StrInt/StrInt	299	620	4.154 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	299	419	4.249 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	293	415	3.142 rad	3618279525	1_3_town					
+Metadata/Characters/StrDex/StrDex	364	415	1.951 rad	2810334424	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	287	419	2.034 rad	1086455624	1_3_town					
+Metadata/Characters/StrDex/StrDex	287	420	1.893 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	296	416	3.605 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	242	447	1.406 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	287	419	2.034 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	312	373	0.185 rad	2621544766	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	290	416	2.678 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	244	435	2.761 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/OrigamiPet/OrigamiPetBase	291	406	6.086 rad	730578149	1_3_town					
+Metadata/Pet/NineTailedFox/NineTailedFox	299	403	4.610 rad	1364879625	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Pet/Wolf/SunriseWolf	313	419	3.927 rad	570724640	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
 Object: Metadata/MiscellaneousObjects/AreaTransition	612	525	0.000 rad	726109394	1_3_town	77	-603.319	0	37655	The Slums
-Metadata/Characters/StrInt/StrInt	322	383	2.976 rad	2448909918	1_3_town					
-Metadata/Characters/Str/Str	325	391	5.961 rad	3618279525	2_8_town					
-Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
-Metadata/Characters/Int/Int	369	461	2.761 rad	2621544766	2_8_town					
-Metadata/Characters/StrInt/StrInt	311	326	0.000 rad	2448909918	2_8_town					
-Object: Metadata/MiscellaneousObjects/AreaTransition	276	255	0.000 rad	726109394	2_8_town	67	-531.223	0	38868	The Sarn Ramparts
-Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	2_8_town	63	-493.478			
-Metadata/NPC/League/Expedition/TownDoodadDealer	350	366	3.903 rad	1558386669	2_8_town	75	-585.940			
-Metadata/NPC/League/Expedition/TownDoodadDealer	357	365	3.238 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/League/Expedition/TownDoodadDealer	354	367	4.417 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/Act8/SinTown	274	375	1.648 rad	252408322	2_8_town					
-Metadata/NPC/League/Expedition/Dealer	347	370	4.188 rad	1454344138	2_8_town					
-Object: Metadata/NPC/Blocker	347	370	4.188 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/Gambler	356	375	3.960 rad	13004121	2_8_town					
-Object: Metadata/NPC/Blocker	356	375	3.960 rad	1980547395	2_8_town					
-Object: Metadata/NPC/Blocker	365	388	4.290 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/TownStash	365	388	4.290 rad	3348576580	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadGwennen	362	372	0.716 rad	3935977174	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadGwennen	364	375	0.834 rad	3935977174	2_8_town	84	-664.000			
-Metadata/NPC/League/Expedition/TownDoodadGwennen	361	379	1.348 rad	3935977174	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadDealer	358	369	1.007 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/League/Expedition/TownDoodadGwennen	369	377	0.000 rad	3935977174	2_8_town	84	-664.000			
-Metadata/NPC/League/Expedition/TownDoodadHaggler	375	387	5.225 rad	500414267	2_8_town	75	-590.000			
-Metadata/NPC/League/Expedition/TownDoodadSaga	381	382	5.109 rad	1013622912	2_8_town	73	-577.570			
-Metadata/NPC/League/Expedition/TownDoodadSaga	369	383	1.828 rad	1013622912	2_8_town					
-Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	226	397	2.692 rad	2564365857	2_8_town					
-Metadata/NPC/League/Expedition/Saga	368	406	5.745 rad	2589473623	2_8_town					
-Object: Metadata/NPC/Blocker	368	406	5.745 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/Haggler	372	398	4.647 rad	20954719	2_8_town					
-Object: Metadata/NPC/Blocker	372	398	4.647 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadHaggler	384	393	3.858 rad	500414267	2_8_town	74	-582.000			
-Metadata/NPC/League/Expedition/TownDoodadSaga	376	404	5.176 rad	1013622912	2_8_town					
-Object: Metadata/MiscellaneousObjects/Stash	294	422	0.398 rad	2817685266	2_8_town					
-Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	2_8_town	76	-595.159			
-Metadata/NPC/Act8/Maramoa	373	418	4.921 rad	2132397824	2_8_town					
-Metadata/NPC/League/Kalguur/VillageFaustusTown	414	434	4.142 rad	3922154524	2_8_town					
-Metadata/NPC/Act8/ClarissaTown	239	451	5.794 rad	2084654684	2_8_town					
-Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	316	460	0.028 rad	688764747	2_8_town					
-Metadata/NPC/Act8/Hargan	373	471	5.791 rad	1895069522	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	393	464	0.040 rad	1285951471	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	403	464	5.983 rad	1285951471	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	413	462	5.669 rad	1285951471	2_8_town					
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	2_8_town	130	-1020.441	0	65071	Aspirants' Plaza
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	2_8_town	117	-920.092			
-Metadata/Terrain/Leagues/Affliction/Act8_DeliriumTown/Objects/BaseToRemove	299	503	0.000 rad	319389079	2_8_town	117	-920.092			
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	2_8_town	117	-920.092			
-Metadata/Characters/Str/Str	325	391	5.961 rad	3618279525	2_8_town					
-Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
-Metadata/Characters/Int/Int	227	438	3.584 rad	2621544766	2_8_town					
-Metadata/Characters/Dex/Dex	252	416	4.172 rad	2287107054	2_8_town					
-Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
-Object: Metadata/MiscellaneousObjects/AreaTransition	276	255	0.000 rad	726109394	2_8_town	67	-531.223	0	38868	The Sarn Ramparts
-Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	2_8_town	63	-493.478			
-Metadata/MiscellaneousObjects/MultiplexPortal	337	337	4.705 rad	1600303822	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadDealer	350	366	3.903 rad	1558386669	2_8_town	75	-585.940			
-Metadata/NPC/League/Expedition/TownDoodadDealer	357	365	3.238 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/League/Expedition/TownDoodadDealer	354	367	4.417 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/Act8/SinTown	274	375	1.648 rad	252408322	2_8_town					
-Metadata/NPC/League/Expedition/Dealer	347	370	4.188 rad	1454344138	2_8_town					
-Object: Metadata/NPC/Blocker	347	370	4.188 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/Gambler	356	375	3.960 rad	13004121	2_8_town					
-Object: Metadata/NPC/Blocker	356	375	3.960 rad	1980547395	2_8_town					
-Object: Metadata/NPC/Blocker	365	388	4.290 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/TownStash	365	388	4.290 rad	3348576580	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadGwennen	362	372	0.716 rad	3935977174	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadGwennen	364	375	0.834 rad	3935977174	2_8_town	84	-664.000			
-Metadata/NPC/League/Expedition/TownDoodadGwennen	361	379	1.348 rad	3935977174	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadDealer	358	369	1.007 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/League/Expedition/TownDoodadGwennen	369	377	0.000 rad	3935977174	2_8_town	84	-664.000			
-Metadata/NPC/League/Expedition/TownDoodadHaggler	375	387	5.225 rad	500414267	2_8_town	75	-590.000			
-Metadata/NPC/League/Expedition/TownDoodadSaga	381	382	5.109 rad	1013622912	2_8_town	73	-577.570			
-Metadata/NPC/League/Expedition/TownDoodadSaga	369	383	1.828 rad	1013622912	2_8_town					
-Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	226	397	2.692 rad	2564365857	2_8_town					
-Metadata/NPC/League/Expedition/Saga	368	406	5.745 rad	2589473623	2_8_town					
-Object: Metadata/NPC/Blocker	368	406	5.745 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/Haggler	372	398	4.647 rad	20954719	2_8_town					
-Object: Metadata/NPC/Blocker	372	398	4.647 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadHaggler	384	393	3.858 rad	500414267	2_8_town	74	-582.000			
-Metadata/NPC/League/Expedition/TownDoodadSaga	376	404	5.176 rad	1013622912	2_8_town					
-Object: Metadata/MiscellaneousObjects/Stash	294	422	0.398 rad	2817685266	2_8_town					
-Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	2_8_town	76	-595.159			
-Metadata/NPC/Act8/Maramoa	373	418	4.921 rad	2132397824	2_8_town					
-Metadata/NPC/League/Kalguur/VillageFaustusTown	414	434	4.142 rad	3922154524	2_8_town					
-Metadata/NPC/Act8/ClarissaTown	239	451	5.794 rad	2084654684	2_8_town					
-Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	316	460	0.028 rad	688764747	2_8_town					
-Metadata/NPC/Act8/Hargan	373	471	5.791 rad	1895069522	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	393	464	0.040 rad	1285951471	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	403	464	5.983 rad	1285951471	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	413	462	5.669 rad	1285951471	2_8_town					
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	2_8_town	130	-1020.441	0	65071	Aspirants' Plaza
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	2_8_town	117	-920.092			
-Metadata/Terrain/Leagues/Affliction/Act8_DeliriumTown/Objects/BaseToRemove	299	503	0.000 rad	319389079	2_8_town	117	-920.092			
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	2_8_town	117	-920.092			
-Metadata/Characters/Str/Str	325	391	5.961 rad	3618279525	2_8_town					
-Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
-Metadata/Characters/DexInt/DexInt	288	419	2.034 rad	3989868005	2_8_town					
-Metadata/Characters/Dex/Dex	328	398	3.927 rad	2287107054	2_8_town					
-Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
-Object: Metadata/MiscellaneousObjects/AreaTransition	276	255	0.000 rad	726109394	2_8_town	67	-531.223	0	38868	The Sarn Ramparts
-Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	2_8_town	63	-493.478			
-Metadata/MiscellaneousObjects/MultiplexPortal	337	337	4.705 rad	1600303822	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadDealer	350	366	3.903 rad	1558386669	2_8_town	75	-585.940			
-Metadata/NPC/League/Expedition/TownDoodadDealer	357	365	3.238 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/League/Expedition/TownDoodadDealer	354	367	4.417 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/Act8/SinTown	274	375	1.648 rad	252408322	2_8_town					
-Metadata/NPC/League/Expedition/Dealer	347	370	4.188 rad	1454344138	2_8_town					
-Object: Metadata/NPC/Blocker	347	370	4.188 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/Gambler	356	375	3.960 rad	13004121	2_8_town					
-Object: Metadata/NPC/Blocker	356	375	3.960 rad	1980547395	2_8_town					
-Object: Metadata/NPC/Blocker	365	388	4.290 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/TownStash	365	388	4.290 rad	3348576580	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadGwennen	362	372	0.716 rad	3935977174	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadGwennen	364	375	0.834 rad	3935977174	2_8_town	84	-664.000			
-Metadata/NPC/League/Expedition/TownDoodadGwennen	361	379	1.348 rad	3935977174	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadDealer	358	369	1.007 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/League/Expedition/TownDoodadGwennen	369	377	0.000 rad	3935977174	2_8_town	84	-664.000			
-Metadata/NPC/League/Expedition/TownDoodadHaggler	375	387	5.225 rad	500414267	2_8_town	75	-590.000			
-Metadata/NPC/League/Expedition/TownDoodadSaga	381	382	5.109 rad	1013622912	2_8_town	73	-577.570			
-Metadata/NPC/League/Expedition/TownDoodadSaga	369	383	1.828 rad	1013622912	2_8_town					
-Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	226	397	2.692 rad	2564365857	2_8_town					
-Metadata/NPC/League/Expedition/Saga	368	406	5.745 rad	2589473623	2_8_town					
-Object: Metadata/NPC/Blocker	368	406	5.745 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/Haggler	372	398	4.647 rad	20954719	2_8_town					
-Object: Metadata/NPC/Blocker	372	398	4.647 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadHaggler	384	393	3.858 rad	500414267	2_8_town	74	-582.000			
-Metadata/NPC/League/Expedition/TownDoodadSaga	376	404	5.176 rad	1013622912	2_8_town					
-Object: Metadata/MiscellaneousObjects/Stash	294	422	0.398 rad	2817685266	2_8_town					
-Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	2_8_town	76	-595.159			
-Metadata/NPC/Act8/Maramoa	373	418	4.921 rad	2132397824	2_8_town					
-Metadata/NPC/League/Kalguur/VillageFaustusTown	414	434	4.142 rad	3922154524	2_8_town					
-Metadata/NPC/Act8/ClarissaTown	239	451	5.794 rad	2084654684	2_8_town					
-Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	316	460	0.028 rad	688764747	2_8_town					
-Metadata/NPC/Act8/Hargan	373	471	5.791 rad	1895069522	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	393	464	0.040 rad	1285951471	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	403	464	5.983 rad	1285951471	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	413	462	5.669 rad	1285951471	2_8_town					
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	2_8_town	130	-1020.441	0	65071	Aspirants' Plaza
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	2_8_town	117	-920.092			
-Metadata/Terrain/Leagues/Affliction/Act8_DeliriumTown/Objects/BaseToRemove	299	503	0.000 rad	319389079	2_8_town	117	-920.092			
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	2_8_town	117	-920.092			
-Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	2_8_town					
-Metadata/Characters/Str/Str	325	391	5.961 rad	3618279525	2_8_town					
-Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
-Metadata/Characters/DexInt/DexInt	288	419	2.034 rad	3989868005	2_8_town					
-Metadata/Characters/Dex/Dex	328	398	3.927 rad	2287107054	2_8_town					
-Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
-Object: Metadata/MiscellaneousObjects/AreaTransition	276	255	0.000 rad	726109394	2_8_town	67	-531.223	0	38868	The Sarn Ramparts
-Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	2_8_town	63	-493.478			
-Metadata/MiscellaneousObjects/MultiplexPortal	337	337	4.705 rad	1600303822	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadDealer	350	366	3.903 rad	1558386669	2_8_town	75	-585.940			
-Metadata/NPC/League/Expedition/TownDoodadDealer	357	365	3.238 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/League/Expedition/TownDoodadDealer	354	367	4.417 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/Act8/SinTown	274	375	1.648 rad	252408322	2_8_town					
-Metadata/NPC/League/Expedition/Dealer	347	370	4.188 rad	1454344138	2_8_town					
-Object: Metadata/NPC/Blocker	347	370	4.188 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/Gambler	356	375	3.960 rad	13004121	2_8_town					
-Object: Metadata/NPC/Blocker	356	375	3.960 rad	1980547395	2_8_town					
-Object: Metadata/NPC/Blocker	365	388	4.290 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/TownStash	365	388	4.290 rad	3348576580	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadGwennen	362	372	0.716 rad	3935977174	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadGwennen	364	375	0.834 rad	3935977174	2_8_town	84	-664.000			
-Metadata/NPC/League/Expedition/TownDoodadGwennen	361	379	1.348 rad	3935977174	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadDealer	358	369	1.007 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/League/Expedition/TownDoodadGwennen	369	377	0.000 rad	3935977174	2_8_town	84	-664.000			
-Metadata/NPC/League/Expedition/TownDoodadHaggler	375	387	5.225 rad	500414267	2_8_town	75	-590.000			
-Metadata/NPC/League/Expedition/TownDoodadSaga	381	382	5.109 rad	1013622912	2_8_town	73	-577.570			
-Metadata/NPC/League/Expedition/TownDoodadSaga	369	383	1.828 rad	1013622912	2_8_town					
-Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	226	397	2.692 rad	2564365857	2_8_town					
-Metadata/NPC/League/Expedition/Saga	368	406	5.745 rad	2589473623	2_8_town					
-Object: Metadata/NPC/Blocker	368	406	5.745 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/Haggler	372	398	4.647 rad	20954719	2_8_town					
-Object: Metadata/NPC/Blocker	372	398	4.647 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadHaggler	384	393	3.858 rad	500414267	2_8_town	74	-582.000			
-Metadata/NPC/League/Expedition/TownDoodadSaga	376	404	5.176 rad	1013622912	2_8_town					
-Object: Metadata/MiscellaneousObjects/Stash	294	422	0.398 rad	2817685266	2_8_town					
-Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	2_8_town	76	-595.159			
-Metadata/NPC/Act8/Maramoa	373	418	4.921 rad	2132397824	2_8_town					
-Metadata/NPC/League/Kalguur/VillageFaustusTown	414	434	4.142 rad	3922154524	2_8_town					
-Metadata/NPC/Act8/ClarissaTown	239	451	5.794 rad	2084654684	2_8_town					
-Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	316	460	0.028 rad	688764747	2_8_town					
-Metadata/NPC/Act8/Hargan	373	471	5.791 rad	1895069522	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	393	464	0.040 rad	1285951471	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	403	464	5.983 rad	1285951471	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	413	462	5.669 rad	1285951471	2_8_town					
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	2_8_town	130	-1020.441	0	65071	Aspirants' Plaza
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	2_8_town	117	-920.092			
-Metadata/Terrain/Leagues/Affliction/Act8_DeliriumTown/Objects/BaseToRemove	299	503	0.000 rad	319389079	2_8_town	117	-920.092			
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	2_8_town	117	-920.092			
-Metadata/Characters/Str/Str	325	391	5.961 rad	3618279525	2_8_town					
-Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
-Metadata/Characters/DexInt/DexInt	288	419	2.034 rad	3989868005	2_8_town					
-Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
-Object: Metadata/MiscellaneousObjects/AreaTransition	276	255	0.000 rad	726109394	2_8_town	67	-531.223	0	38868	The Sarn Ramparts
-Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	2_8_town	63	-493.478			
-Metadata/MiscellaneousObjects/MultiplexPortal	337	337	4.705 rad	1600303822	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadDealer	350	366	3.903 rad	1558386669	2_8_town	75	-585.940			
-Metadata/NPC/League/Expedition/TownDoodadDealer	357	365	3.238 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/League/Expedition/TownDoodadDealer	354	367	4.417 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/Act8/SinTown	274	375	1.648 rad	252408322	2_8_town					
-Metadata/NPC/League/Expedition/Dealer	347	370	4.188 rad	1454344138	2_8_town					
-Object: Metadata/NPC/Blocker	347	370	4.188 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/Gambler	356	375	3.960 rad	13004121	2_8_town					
-Object: Metadata/NPC/Blocker	356	375	3.960 rad	1980547395	2_8_town					
-Object: Metadata/NPC/Blocker	365	388	4.290 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/TownStash	365	388	4.290 rad	3348576580	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadGwennen	362	372	0.716 rad	3935977174	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadGwennen	364	375	0.834 rad	3935977174	2_8_town	84	-664.000			
-Metadata/NPC/League/Expedition/TownDoodadGwennen	361	379	1.348 rad	3935977174	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadDealer	358	369	1.007 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/League/Expedition/TownDoodadGwennen	369	377	0.000 rad	3935977174	2_8_town	84	-664.000			
-Metadata/NPC/League/Expedition/TownDoodadHaggler	375	387	5.225 rad	500414267	2_8_town	75	-590.000			
-Metadata/NPC/League/Expedition/TownDoodadSaga	381	382	5.109 rad	1013622912	2_8_town	73	-577.570			
-Metadata/NPC/League/Expedition/TownDoodadSaga	369	383	1.828 rad	1013622912	2_8_town					
-Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	226	397	2.692 rad	2564365857	2_8_town					
-Metadata/NPC/League/Expedition/Saga	368	406	5.745 rad	2589473623	2_8_town					
-Object: Metadata/NPC/Blocker	368	406	5.745 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/Haggler	372	398	4.647 rad	20954719	2_8_town					
-Object: Metadata/NPC/Blocker	372	398	4.647 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadHaggler	384	393	3.858 rad	500414267	2_8_town	74	-582.000			
-Metadata/NPC/League/Expedition/TownDoodadSaga	376	404	5.176 rad	1013622912	2_8_town					
-Object: Metadata/MiscellaneousObjects/Stash	294	422	0.398 rad	2817685266	2_8_town					
-Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	2_8_town	76	-595.159			
-Metadata/NPC/Act8/Maramoa	373	418	4.921 rad	2132397824	2_8_town					
-Metadata/NPC/League/Kalguur/VillageFaustusTown	414	434	4.142 rad	3922154524	2_8_town					
-Metadata/NPC/Act8/ClarissaTown	239	451	5.794 rad	2084654684	2_8_town					
-Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	316	460	0.028 rad	688764747	2_8_town					
-Metadata/NPC/Act8/Hargan	373	471	5.791 rad	1895069522	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	393	464	0.040 rad	1285951471	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	403	464	5.983 rad	1285951471	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	413	462	5.669 rad	1285951471	2_8_town					
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	2_8_town	130	-1020.441	0	65071	Aspirants' Plaza
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	2_8_town	117	-920.092			
-Metadata/Terrain/Leagues/Affliction/Act8_DeliriumTown/Objects/BaseToRemove	299	503	0.000 rad	319389079	2_8_town	117	-920.092			
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	2_8_town	117	-920.092			
-Metadata/Characters/Str/Str	325	391	5.961 rad	3618279525	2_8_town					
-Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
-Metadata/Characters/Str/Str	309	336	0.197 rad	3618279525	2_8_town					
-Metadata/Characters/StrInt/StrInt	337	337	4.705 rad	2448909918	2_8_town					
-Object: Metadata/MiscellaneousObjects/AreaTransition	276	255	0.000 rad	726109394	2_8_town	67	-531.223	0	38868	The Sarn Ramparts
-Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	2_8_town	63	-493.478			
-Metadata/MiscellaneousObjects/MultiplexPortal	337	337	4.705 rad	1600303822	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadDealer	350	366	3.903 rad	1558386669	2_8_town	75	-585.940			
-Metadata/NPC/League/Expedition/TownDoodadDealer	357	365	3.238 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/League/Expedition/TownDoodadDealer	354	367	4.417 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/Act8/SinTown	274	375	1.648 rad	252408322	2_8_town					
-Metadata/NPC/League/Expedition/Dealer	347	370	4.188 rad	1454344138	2_8_town					
-Object: Metadata/NPC/Blocker	347	370	4.188 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/Gambler	356	375	3.960 rad	13004121	2_8_town					
-Object: Metadata/NPC/Blocker	356	375	3.960 rad	1980547395	2_8_town					
-Object: Metadata/NPC/Blocker	365	388	4.290 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/TownStash	365	388	4.290 rad	3348576580	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadGwennen	362	372	0.716 rad	3935977174	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadGwennen	364	375	0.834 rad	3935977174	2_8_town	84	-664.000			
-Metadata/NPC/League/Expedition/TownDoodadGwennen	361	379	1.348 rad	3935977174	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadDealer	358	369	1.007 rad	1558386669	2_8_town	84	-663.000			
-Metadata/NPC/League/Expedition/TownDoodadGwennen	369	377	0.000 rad	3935977174	2_8_town	84	-664.000			
-Metadata/NPC/League/Expedition/TownDoodadHaggler	375	387	5.225 rad	500414267	2_8_town	75	-590.000			
-Metadata/NPC/League/Expedition/TownDoodadSaga	381	382	5.109 rad	1013622912	2_8_town	73	-577.570			
-Metadata/NPC/League/Expedition/TownDoodadSaga	369	383	1.828 rad	1013622912	2_8_town					
-Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	226	397	2.692 rad	2564365857	2_8_town					
-Metadata/NPC/League/Expedition/Saga	368	406	5.745 rad	2589473623	2_8_town					
-Object: Metadata/NPC/Blocker	368	406	5.745 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/Haggler	372	398	4.647 rad	20954719	2_8_town					
-Object: Metadata/NPC/Blocker	372	398	4.647 rad	1980547395	2_8_town					
-Metadata/NPC/League/Expedition/TownDoodadHaggler	384	393	3.858 rad	500414267	2_8_town	74	-582.000			
-Metadata/NPC/League/Expedition/TownDoodadSaga	376	404	5.176 rad	1013622912	2_8_town					
-Object: Metadata/MiscellaneousObjects/Stash	294	422	0.398 rad	2817685266	2_8_town					
-Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	2_8_town	76	-595.159			
-Metadata/NPC/Act8/Maramoa	373	418	4.921 rad	2132397824	2_8_town					
-Metadata/NPC/League/Kalguur/VillageFaustusTown	414	434	4.142 rad	3922154524	2_8_town					
-Metadata/NPC/Act8/ClarissaTown	239	451	5.794 rad	2084654684	2_8_town					
-Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	316	460	0.028 rad	688764747	2_8_town					
-Metadata/NPC/Act8/Hargan	373	471	5.791 rad	1895069522	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	393	464	0.040 rad	1285951471	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	403	464	5.983 rad	1285951471	2_8_town					
-Metadata/MiscellaneousObjects/MercenaryMarker	413	462	5.669 rad	1285951471	2_8_town					
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	2_8_town	130	-1020.441	0	65071	Aspirants' Plaza
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	2_8_town	117	-920.092			
-Metadata/Terrain/Leagues/Affliction/Act8_DeliriumTown/Objects/BaseToRemove	299	503	0.000 rad	319389079	2_8_town	117	-920.092			
-Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	2_8_town	117	-920.092			
-Metadata/Characters/StrDex/StrDex	280	256	3.142 rad	2810334424	2_8_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Metadata/Pet/Copter/Copter	319	334	0.000 rad	2611502063	1_3_town					
+Metadata/Pet/Bear/DelveBear	302	336	0.000 rad	2637220562	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Metadata/Characters/StrDex/StrDex	364	415	1.951 rad	2810334424	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/Characters/Str/Str	324	350	0.618 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	325	390	5.903 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	328	398	3.927 rad	1086455624	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Characters/Dex/Dex	311	326	0.000 rad	2287107054	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	312	373	0.185 rad	2621544766	1_3_town					
+Metadata/Pet/NineTailedFox/NineTailedFox	299	403	4.610 rad	1364879625	1_3_town					
+Metadata/Pet/Bear/DelveBear	306	407	3.098 rad	2637220562	1_3_town					
+Metadata/Characters/Int/Int	304	413	3.408 rad	2621544766	1_3_town					
+Metadata/Pet/Wolf/SunriseWolf	313	419	3.927 rad	570724640	1_3_town					
+Metadata/Characters/Int/Int	299	419	4.249 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/StrInt/StrInt	299	620	4.154 rad	2448909918	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/StrInt/StrInt	287	382	5.176 rad	2448909918	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/OrigamiPet/OrigamiPetBase	291	406	6.086 rad	730578149	1_3_town					
+Metadata/Pet/Copter/Copter	289	408	3.444 rad	2611502063	1_3_town					
+Metadata/Characters/Int/Int	281	411	5.139 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Characters/StrDex/StrDex	287	420	1.893 rad	2810334424	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	287	419	2.034 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	296	416	3.605 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	293	415	3.142 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	287	419	2.034 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	296	416	3.605 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	287	419	2.034 rad	2621544766	1_3_town					
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Metadata/Characters/StrDexInt/StrDexInt	242	447	1.406 rad	1086455624	1_3_town					
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Metadata/Characters/StrInt/StrInt	311	326	0.000 rad	2448909918	1_3_town					
+Metadata/Characters/StrInt/StrInt	287	382	5.176 rad	2448909918	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Characters/Int/Int	312	373	0.185 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	318	370	0.175 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	325	390	5.903 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	319	345	6.095 rad	2448909918	1_3_town					
+Metadata/Characters/Str/Str	324	350	0.618 rad	3618279525	1_3_town					
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Characters/Dex/Dex	311	326	0.000 rad	2287107054	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	311	335	3.236 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	316	338	5.888 rad	2448909918	1_3_town					
+Metadata/Characters/StrDex/StrDex	338	336	4.705 rad	2810334424	1_3_town					
+Metadata/Characters/Dex/Dex	452	254	2.275 rad	2287107054	1_3_town					
+Metadata/Characters/Dex/Dex	472	277	2.518 rad	2287107054	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	612	525	0.000 rad	726109394	1_3_town	77	-603.319	0	37655	The Slums
+Metadata/Characters/StrDexInt/StrDexInt	300	422	4.712 rad	1086455624	1_3_town					
+Metadata/Characters/StrInt/StrInt	312	414	5.333 rad	2448909918	1_3_town					
+Metadata/Characters/StrInt/StrInt	334	428	5.498 rad	2448909918	1_3_town					
+Metadata/Characters/Dex/Dex	300	426	5.232 rad	2287107054	1_3_town					
+Metadata/Characters/Str/Str	311	400	5.903 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	305	344	0.234 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	243	436	2.634 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	313	385	0.820 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	212	499	2.034 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	287	419	2.034 rad	2287107054	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	296	416	3.605 rad	1086455624	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	314	399	1.476 rad	1086455624	1_3_town					
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Characters/StrDex/StrDex	299	419	4.249 rad	2810334424	1_3_town					
+Metadata/Characters/Dex/Dex	374	430	0.000 rad	2287107054	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	293	415	3.142 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	359	404	0.000 rad	2621544766	1_3_town					
+Metadata/Characters/DexInt/DexInt	495	310	2.484 rad	3989868005	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/MiscellaneousObjects/MultiplexPortal	338	336	4.705 rad	1600303822	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/SandWorm/SandWormBlue	328	382	0.000 rad	991720904	1_3_town					
+Metadata/Pet/Cat/Black	304	409	4.837 rad	1697479544	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Pet/LightBringerCat/LightbringerCat	309	424	4.222 rad	2262956191	1_3_town					
+Metadata/Pet/Rhoa/AshRhoa/AshRhoa	344	428	0.000 rad	2151676176	1_3_town					
+Metadata/Pet/NineTailedFox/NineTailedFox	351	429	2.015 rad	1364879625	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Metadata/Pet/WispPet/WispPet	335	441	3.777 rad	2118900097	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/StrDexInt/StrDexInt	502	523	1.669 rad	1086455624	1_3_town					
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Object: Metadata/MiscellaneousObjects/AreaTransition	612	525	0.000 rad	726109394	1_3_town	77	-603.319	0	37655	The Slums
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/StrInt/StrInt	311	326	0.000 rad	2448909918	1_3_town					
+Metadata/Pet/Rhoa/AshRhoa/AshRhoa	323	338	0.000 rad	2151676176	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	311	326	0.000 rad	2448909918	1_3_town					
+Metadata/Characters/Dex/Dex	328	398	3.927 rad	2287107054	1_3_town					
+Metadata/Pet/EdictSpearUtilityPet/EdictSpearUtilityPet	328	382	3.868 rad	2440504399	1_3_town					
+Metadata/Pet/Rhoa/EdictDivinityRhoa/EdictDivinityRhoa	344	398	0.000 rad	3346893790	1_3_town					
+Metadata/Characters/Dex/Dex	328	398	3.927 rad	2287107054	1_3_town					
+Metadata/Pet/GiantRat/GiantRat	328	382	0.000 rad	3860813969	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	385	191	3.142 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/Int/Int	316	338	5.888 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	326	419	4.845 rad	2287107054	1_3_town					
+Metadata/Characters/StrInt/StrInt	310	356	5.851 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	298	418	3.816 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	309	378	3.605 rad	1086455624	1_3_town					
+Metadata/Characters/Dex/Dex	287	382	5.176 rad	2287107054	1_3_town					
+Metadata/Characters/StrDex/StrDex	299	419	4.249 rad	2810334424	1_3_town					
+Metadata/Characters/StrInt/StrInt	311	339	0.000 rad	2448909918	1_3_town					
+Metadata/Characters/StrDex/StrDex	328	398	3.927 rad	2810334424	1_3_town					
+Metadata/Characters/StrInt/StrInt	244	435	2.761 rad	2448909918	1_3_town					
+Metadata/Characters/DexInt/DexInt	311	326	0.000 rad	3989868005	1_3_town					
+Metadata/Characters/Int/Int	532	357	2.542 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Pet/Pigeon/Light	304	334	0.000 rad	3362122708	1_3_town					
+Metadata/Pet/Weta/Basic	319	334	0.000 rad	3511765868	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/Cat/Black	303	409	6.038 rad	1697479544	1_3_town					
+Metadata/Pet/Cherub/Sin	337	413	6.076 rad	3540579431	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Pet/LightBringerCat/LightbringerCat	309	423	3.420 rad	2262956191	1_3_town					
+Metadata/Pet/Cherub/Sin	335	427	2.783 rad	3540579431	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/Int/Int	551	478	3.605 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Object: Metadata/MiscellaneousObjects/AreaTransition	612	525	0.000 rad	726109394	1_3_town	77	-603.319	0	37655	The Slums
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Characters/StrDex/StrDex	328	398	3.927 rad	2810334424	1_3_town					
+Metadata/Characters/Dex/Dex	338	336	4.705 rad	2287107054	1_3_town					
+Metadata/Characters/Str/Str	385	191	3.142 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Metadata/Characters/StrDex/StrDex	338	336	4.705 rad	2810334424	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	328	398	3.927 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Metadata/Characters/StrInt/StrInt	328	398	3.927 rad	2448909918	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/Int/Int	511	518	1.571 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	312	414	5.333 rad	2448909918	1_3_town					
+Metadata/Characters/StrInt/StrInt	334	428	5.498 rad	2448909918	1_3_town					
+Metadata/Characters/Dex/Dex	300	426	5.232 rad	2287107054	1_3_town					
+Metadata/Characters/Str/Str	311	400	5.903 rad	3618279525	1_3_town					
+Metadata/Characters/Str/Str	299	425	5.176 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	300	324	0.111 rad	2621544766	1_3_town					
+Metadata/Characters/StrDex/StrDex	268	526	3.142 rad	2810334424	1_3_town					
+Metadata/Characters/StrInt/StrInt	290	416	2.678 rad	2448909918	1_3_town					
+Metadata/Characters/Str/Str	371	397	0.165 rad	3618279525	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	313	366	5.356 rad	1086455624	1_3_town					
+Metadata/Characters/StrInt/StrInt	364	423	1.190 rad	2448909918	1_3_town					
+Metadata/Characters/StrDex/StrDex	364	415	1.951 rad	2810334424	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	343	426	5.608 rad	1086455624	1_3_town					
+Metadata/Characters/StrInt/StrInt	290	388	0.598 rad	2448909918	1_3_town					
+Metadata/Characters/StrDex/StrDex	342	387	0.000 rad	2810334424	1_3_town					
+Metadata/Characters/Dex/Dex	379	425	5.588 rad	2287107054	1_3_town					
+Metadata/Characters/DexInt/DexInt	244	435	2.761 rad	3989868005	1_3_town					
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Characters/StrDex/StrDex	244	435	2.761 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/MiscellaneousObjects/MultiplexPortal	338	336	4.705 rad	1600303822	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Metadata/Pet/Cherub/AbyssCherub/AbyssCherub	235	430	3.816 rad	553309538	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Pet/NineTailedFox/NineTailedFox	351	429	2.015 rad	1364879625	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Metadata/Pet/WispPet/WispPet	335	441	3.777 rad	2118900097	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/StrDexInt/StrDexInt	502	523	1.669 rad	1086455624	1_3_town					
+Metadata/Effects/Microtransactions/Aura/CrusaderApp/CrusaderApparition	364	415	1.951 rad	4140745159	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Metadata/Effects/Microtransactions/Aura/CrusaderApp/CrusaderApparition	333	411	4.878 rad	4140745159	1_3_town					
+Object: Metadata/Effects/ServerEffect	335	417	6.072 rad	2646652649	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Object: Metadata/Effects/ServerEffect	232	433	0.000 rad	2646652649	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	502	523	1.669 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Metadata/Characters/StrDexInt/StrDexInt	502	523	1.669 rad	1086455624	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Object: Metadata/MiscellaneousObjects/AreaTransition	612	525	0.000 rad	726109394	1_3_town	77	-603.319	0	37655	The Slums
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	334	428	5.498 rad	2448909918	1_3_town					
+Metadata/Characters/Dex/Dex	211	487	5.176 rad	2287107054	1_3_town					
+Metadata/Characters/StrDex/StrDex	368	445	5.498 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	290	416	2.678 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	244	435	2.761 rad	3618279525	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	299	419	4.249 rad	1086455624	1_3_town					
+Metadata/Characters/StrInt/StrInt	230	416	0.322 rad	2448909918	1_3_town					
+Metadata/Characters/StrInt/StrInt	300	422	4.712 rad	2448909918	1_3_town					
+Metadata/Characters/StrInt/StrInt	322	387	5.498 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	300	422	4.712 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	244	435	2.761 rad	3618279525	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	296	427	4.837 rad	1086455624	1_3_town					
+Metadata/Characters/StrInt/StrInt	299	419	4.249 rad	2448909918	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	299	425	5.176 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	293	408	3.142 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	300	440	3.889 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	242	436	2.554 rad	2287107054	1_3_town					
+Metadata/Characters/StrInt/StrInt	244	435	2.761 rad	2448909918	1_3_town					
+Metadata/Characters/StrInt/StrInt	554	380	6.005 rad	2448909918	1_3_town					
+Metadata/Characters/StrDex/StrDex	385	191	3.142 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/ScavengerBat/ScavengerBat	335	386	3.142 rad	2240582022	1_3_town					
+Metadata/Pet/GoblinBand/GoblinBandLyre	331	383	5.961 rad	1324926429	1_3_town					
+Metadata/Pet/Vampire/VampirePet	322	398	4.991 rad	404646957	1_3_town					
+Metadata/Pet/GoblinBand/GoblinBandDrums	342	394	1.019 rad	2304201140	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Pet/OrigamiPet/OrigamiPetBase	286	414	1.571 rad	730578149	1_3_town					
+Metadata/Pet/GoblinBand/GoblinBandLeader	309	414	4.038 rad	785117632	1_3_town					
+Metadata/Pet/Frog/Deepwater	309	421	5.107 rad	1042321446	1_3_town					
+Metadata/Pet/Frog/Fire	304	435	5.103 rad	554451016	1_3_town					
+Metadata/Pet/NineTailedFox/NineTailedFox	351	429	2.015 rad	1364879625	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Metadata/Pet/WispPet/WispPet	335	441	3.777 rad	2118900097	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Metadata/Pet/Rhoa/KaruiRhoa/KaruiRhoa	212	504	3.142 rad	3694348280	1_3_town					
+Metadata/Pet/Rhoa/DeliriumRhoa/DeliriumRhoa	223	485	2.304 rad	2899346195	1_3_town					
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/StrInt/StrInt	338	336	4.705 rad	2448909918	1_3_town					
+Object: Metadata/Effects/ServerEffect	228	458	0.373 rad	2646652649	1_3_town					
+Metadata/Characters/Dex/Dex	311	326	0.000 rad	2287107054	1_3_town					
+Metadata/Characters/StrDex/StrDex	551	470	3.708 rad	2810334424	1_3_town					
+Object: Metadata/Effects/ServerEffect	231	459	0.430 rad	2646652649	1_3_town					
+Metadata/Characters/StrInt/StrInt	551	482	3.339 rad	2448909918	1_3_town					
+Metadata/Characters/StrInt/StrInt	334	428	5.498 rad	2448909918	1_3_town					
+Metadata/Characters/Dex/Dex	211	487	5.176 rad	2287107054	1_3_town					
+Metadata/Characters/StrDex/StrDex	368	445	5.498 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	290	416	2.678 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	244	435	2.761 rad	3618279525	1_3_town					
+Metadata/Characters/StrInt/StrInt	300	422	4.712 rad	2448909918	1_3_town					
+Metadata/Characters/StrInt/StrInt	322	387	5.498 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	297	424	5.176 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	296	416	3.605 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	309	407	5.940 rad	2287107054	1_3_town					
+Metadata/Characters/StrInt/StrInt	287	419	2.034 rad	2448909918	1_3_town					
+Metadata/Characters/Str/Str	300	422	4.712 rad	3618279525	1_3_town					
+Metadata/Characters/Dex/Dex	290	416	2.678 rad	2287107054	1_3_town					
+Metadata/Characters/Dex/Dex	287	419	2.034 rad	2287107054	1_3_town					
+Metadata/Characters/Dex/Dex	299	419	4.249 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	299	425	5.176 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	328	398	3.927 rad	1086455624	1_3_town					
+Metadata/Characters/Dex/Dex	287	419	2.034 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	370	429	0.381 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/MiscellaneousObjects/MultiplexPortal	338	336	4.705 rad	1600303822	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/ScavengerBat/ScavengerBat	335	386	3.142 rad	2240582022	1_3_town					
+Metadata/Pet/OrigamiPet/OrigamiPetBase	292	406	3.986 rad	730578149	1_3_town					
+Metadata/Pet/Vampire/VampirePet	322	398	4.991 rad	404646957	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Pet/NineTailedFox/NineTailedFox	351	429	2.015 rad	1364879625	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Metadata/Pet/GolemBall/GolemBall	304	441	3.628 rad	711035683	1_3_town					
+Metadata/Pet/WispPet/WispPet	335	441	3.777 rad	2118900097	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Metadata/Pet/Rhoa/KaruiRhoa/KaruiRhoa	212	504	3.142 rad	3694348280	1_3_town					
+Metadata/Pet/Rhoa/DeliriumRhoa/DeliriumRhoa	223	485	2.304 rad	2899346195	1_3_town					
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Metadata/Characters/StrDexInt/StrDexInt	385	191	3.142 rad	1086455624	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	338	336	4.705 rad	1086455624	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/StrInt/StrInt	336	317	4.419 rad	2448909918	1_3_town					
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Metadata/Pet/Tiger/IceTiger	340	339	0.000 rad	3730697893	1_3_town					
+Metadata/Pet/FledglingBellcrow/FledglingBellcrow	339	332	0.000 rad	1990139760	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Pet/HuntsmanToad/HuntsmanToad	304	334	0.000 rad	1190441240	1_3_town					
+Metadata/Pet/MadcapToad/MadcapToad	319	334	0.000 rad	1615833424	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/StrDexInt/StrDexInt	328	398	3.927 rad	1086455624	1_3_town					
+Metadata/Pet/Pigeon/Light	328	387	0.000 rad	3362122708	1_3_town					
+Metadata/Pet/Pigeon/Light	339	398	0.000 rad	3362122708	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	338	336	4.705 rad	2448909918	1_3_town					
+Metadata/Characters/Dex/Dex	311	326	0.000 rad	2287107054	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Object: Metadata/MiscellaneousObjects/AreaTransition	612	525	0.000 rad	726109394	1_3_town	77	-603.319	0	37655	The Slums
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Metadata/Characters/StrInt/StrInt	311	326	0.000 rad	2448909918	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/StrDexInt/StrDexInt	311	326	0.000 rad	1086455624	1_3_town					
+Object: Metadata/Effects/ServerEffect	362	467	1.951 rad	2646652649	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	338	336	4.705 rad	1086455624	1_3_town					
+Metadata/Characters/Dex/Dex	328	398	3.927 rad	2287107054	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/StrDexInt/StrDexInt	311	326	0.000 rad	1086455624	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Object: Metadata/Effects/ServerEffect	231	441	0.442 rad	2646652649	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/StrInt/StrInt	334	428	5.498 rad	2448909918	1_3_town					
+Metadata/Characters/Dex/Dex	211	487	5.176 rad	2287107054	1_3_town					
+Metadata/Characters/StrDex/StrDex	368	445	5.498 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	290	416	2.678 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	244	435	2.761 rad	3618279525	1_3_town					
+Metadata/Characters/StrInt/StrInt	300	422	4.712 rad	2448909918	1_3_town					
+Metadata/Characters/StrInt/StrInt	322	387	5.498 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	296	416	3.605 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	287	419	2.034 rad	2448909918	1_3_town					
+Metadata/Characters/Str/Str	300	422	4.712 rad	3618279525	1_3_town					
+Metadata/Characters/Dex/Dex	299	419	4.249 rad	2287107054	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	238	449	1.190 rad	1086455624	1_3_town					
+Metadata/Characters/StrInt/StrInt	314	404	1.436 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	244	435	2.761 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	307	374	3.142 rad	2287107054	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	287	419	2.034 rad	1086455624	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	238	449	1.190 rad	1086455624	1_3_town					
+Metadata/Characters/Dex/Dex	310	525	1.618 rad	2287107054	1_3_town					
+Metadata/Characters/Str/Str	287	374	4.249 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/MiscellaneousObjects/MultiplexPortal	338	336	4.705 rad	1600303822	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/ScavengerBat/ScavengerBat	335	386	3.142 rad	2240582022	1_3_town					
+Metadata/Pet/OrigamiPet/OrigamiPetBase	292	406	3.986 rad	730578149	1_3_town					
+Metadata/Pet/Vampire/VampirePet	322	398	4.991 rad	404646957	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Metadata/Pet/FledglingBellcrow/FledglingBellcrow	235	430	3.831 rad	1990139760	1_3_town					
+Metadata/Pet/Tiger/IceTiger	243	429	2.678 rad	3730697893	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Pet/NineTailedFox/NineTailedFox	351	429	2.015 rad	1364879625	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Metadata/Pet/GolemBall/GolemBall	304	441	3.628 rad	711035683	1_3_town					
+Metadata/Pet/WispPet/WispPet	335	441	3.777 rad	2118900097	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Metadata/Pet/Rhoa/KaruiRhoa/KaruiRhoa	212	504	3.142 rad	3694348280	1_3_town					
+Metadata/Pet/Rhoa/DeliriumRhoa/DeliriumRhoa	223	485	2.304 rad	2899346195	1_3_town					
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/Int/Int	316	338	5.888 rad	2621544766	1_3_town					
+Metadata/Characters/StrDex/StrDex	299	425	5.176 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	305	334	0.588 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	294	367	3.578 rad	2287107054	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	349	428	5.300 rad	1086455624	1_3_town					
+Metadata/Characters/StrInt/StrInt	311	326	0.000 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	290	416	2.678 rad	2621544766	1_3_town					
+Metadata/Characters/DexInt/DexInt	322	389	5.760 rad	3989868005	1_3_town					
+Metadata/Characters/Int/Int	300	422	2.678 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	295	401	4.318 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	287	382	5.176 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	364	422	1.279 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	534	354	2.478 rad	1086455624	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	300	422	4.712 rad	1086455624	1_3_town					
+Metadata/Characters/Str/Str	287	419	2.034 rad	3618279525	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/Dex/Dex	313	325	4.391 rad	2287107054	1_3_town					
+Metadata/Characters/Str/Str	370	429	0.381 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	311	326	0.000 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Pet/OrigamiPet/OrigamiPetBase	295	375	5.799 rad	730578149	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/Cat/Orange	297	408	1.831 rad	259421817	1_3_town					
+Metadata/Pet/Tiger/IceTiger	283	408	6.184 rad	3730697893	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Metadata/Pet/BreachHandSpider/BreachHandSpider	350	405	5.300 rad	3695598681	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Pet/Crow/Crow	359	427	1.893 rad	3021265201	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Metadata/Pet/Pigeon/Light	363	437	5.716 rad	3362122708	1_3_town					
+Metadata/Pet/Eagle/FaithGuard	379	438	0.481 rad	202300764	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/Effects/ServerEffect	328	416	5.407 rad	2646652649	1_3_town					
+Metadata/Characters/Int/Int	316	338	5.888 rad	2621544766	1_3_town					
+Metadata/Characters/StrDex/StrDex	299	425	5.176 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	305	334	0.588 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	294	367	3.578 rad	2287107054	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	349	428	5.300 rad	1086455624	1_3_town					
+Metadata/Characters/StrInt/StrInt	311	326	0.000 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	293	418	3.142 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	287	382	5.176 rad	2448909918	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	290	416	2.678 rad	1086455624	1_3_town					
+Metadata/Characters/StrInt/StrInt	297	424	5.176 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	288	378	4.712 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	354	447	5.535 rad	2448909918	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	287	382	5.176 rad	1086455624	1_3_town					
+Metadata/Characters/StrDex/StrDex	365	425	0.983 rad	2810334424	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	212	466	0.785 rad	1086455624	1_3_town					
+Metadata/Characters/Dex/Dex	297	371	3.395 rad	2287107054	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	307	338	0.322 rad	1086455624	1_3_town					
+Metadata/Characters/StrDex/StrDex	292	393	4.570 rad	2810334424	1_3_town					
+Metadata/Characters/Dex/Dex	328	398	3.927 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Pet/GoblinBand/GoblinBandLeader	311	337	0.000 rad	785117632	1_3_town					
+Metadata/MiscellaneousObjects/MultiplexPortal	338	336	4.705 rad	1600303822	1_3_town					
+Metadata/Pet/GoblinBand/GoblinBandLyre	317	349	5.820 rad	1324926429	1_3_town					
+Metadata/Pet/GoblinBand/GoblinBandDrums	305	349	0.464 rad	2304201140	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/Cat/Orange	291	407	4.878 rad	259421817	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Pet/Tiger/IceTiger	283	419	3.142 rad	3730697893	1_3_town					
+Metadata/Pet/GraspingHands/BreachSpawner	354	425	1.418 rad	4137538775	1_3_town					
+Metadata/Pet/Raven/BloodGuard	365	436	1.720 rad	2970184459	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/StrDex/StrDex	328	398	3.927 rad	2810334424	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Object: Metadata/Effects/ServerEffect	225	453	0.257 rad	2646652649	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Metadata/Effects/Microtransactions/Aura/EyrieDemon/EyrieApparition	300	422	4.712 rad	84422266	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	612	525	0.000 rad	726109394	1_3_town	77	-603.319	0	37655	The Slums
+Object: Metadata/Effects/ServerEffect	218	491	3.142 rad	2646652649	1_3_town					
+Metadata/Characters/Int/Int	300	422	4.712 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	296	416	3.605 rad	1086455624	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	300	325	1.488 rad	1086455624	1_3_town					
+Metadata/Characters/Dex/Dex	328	398	3.927 rad	2287107054	1_3_town					
+Metadata/Characters/StrDex/StrDex	385	191	3.142 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/StygianSteed/HellSteedPet	294	403	4.154 rad	1357410216	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Pet/Frog/Deepwater	307	414	4.213 rad	1042321446	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/DexInt/DexInt	338	336	4.705 rad	3989868005	1_3_town					
+Metadata/Characters/Dex/Dex	311	326	0.000 rad	2287107054	1_3_town					
+Metadata/Characters/StrInt/StrInt	311	326	0.000 rad	2448909918	1_3_town					
+Object: Metadata/Effects/ServerEffect	218	491	3.142 rad	2646652649	1_3_town					
+Metadata/Characters/StrInt/StrInt	328	398	3.927 rad	2448909918	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	338	336	4.705 rad	1086455624	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/Str/Str	338	336	4.705 rad	3618279525	1_3_town					
+Metadata/Characters/StrDex/StrDex	528	353	3.142 rad	2810334424	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Metadata/Characters/StrDex/StrDex	551	471	3.494 rad	2810334424	1_3_town					
+Object: Metadata/Effects/ServerEffect	257	413	1.138 rad	2646652649	1_3_town					
+Metadata/Characters/Int/Int	300	422	4.712 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	296	416	3.605 rad	1086455624	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	300	325	1.488 rad	1086455624	1_3_town					
+Metadata/Characters/Dex/Dex	328	398	3.927 rad	2287107054	1_3_town					
+Metadata/Characters/StrInt/StrInt	312	522	1.672 rad	2448909918	1_3_town					
+Metadata/Characters/DexInt/DexInt	242	422	0.000 rad	3989868005	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	301	384	0.322 rad	1086455624	1_3_town					
+Metadata/Characters/Str/Str	244	435	2.761 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Pet/DarkShardFalcon/DarkShardFalcon	291	389	4.646 rad	483080584	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/StygianSteed/HellSteedPet	294	403	4.154 rad	1357410216	1_3_town					
+Metadata/Pet/GryffonPets/DarkShardGryffon	307	396	2.989 rad	2221730856	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Metadata/Pet/SinAndInnocenceSwords/SinInnocence2hSword	240	436	0.359 rad	3295934538	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Pet/Frog/Deepwater	307	414	4.213 rad	1042321446	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/Dex/Dex	338	336	4.705 rad	2287107054	1_3_town					
+Metadata/Characters/Dex/Dex	307	374	3.142 rad	2287107054	1_3_town					
+Metadata/Characters/StrInt/StrInt	299	425	5.176 rad	2448909918	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Characters/StrInt/StrInt	328	398	3.927 rad	2448909918	1_3_town					
+Metadata/Characters/StrInt/StrInt	289	417	2.467 rad	2448909918	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	324	382	6.212 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	222	454	0.165 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	298	383	0.829 rad	2448909918	1_3_town					
+Metadata/Characters/StrInt/StrInt	300	422	2.678 rad	2448909918	1_3_town					
+Metadata/Characters/StrInt/StrInt	328	398	3.927 rad	2448909918	1_3_town					
+Metadata/Characters/Str/Str	301	321	2.034 rad	3618279525	1_3_town					
+Metadata/Characters/DexInt/DexInt	287	386	3.142 rad	3989868005	1_3_town					
+Metadata/Characters/Str/Str	292	415	3.000 rad	3618279525	1_3_town					
+Metadata/Characters/StrDex/StrDex	347	395	1.249 rad	2810334424	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	230	436	0.588 rad	1086455624	1_3_town					
+Metadata/Characters/StrInt/StrInt	363	465	2.159 rad	2448909918	1_3_town					
+Metadata/Characters/Dex/Dex	225	477	3.578 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/MiscellaneousObjects/MultiplexPortal	338	336	4.705 rad	1600303822	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/BlackDragon/BlackDragon	328	377	0.000 rad	2338794651	1_3_town					
+Metadata/Pet/Cat/EmpyreanCat	339	398	0.000 rad	2296770490	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/Pet/Rhoa/AshRhoa/AshRhoa	225	448	3.551 rad	2151676176	1_3_town					
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Metadata/Pet/Rhoa/EdictSpearRhoabot/EdictSpearRhoabot	238	452	3.307 rad	1857759551	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/StrInt/StrInt	482	526	1.651 rad	2448909918	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Object: Metadata/Effects/ServerEffect	216	458	6.223 rad	2646652649	1_3_town					
+Object: Metadata/Effects/ServerEffect	351	447	5.421 rad	2646652649	1_3_town					
+Metadata/Effects/Microtransactions/Aura/BasiliskDemon/BasiliskDemon	238	441	1.951 rad	464624771	1_3_town					
+Metadata/Characters/Dex/Dex	328	398	3.927 rad	2287107054	1_3_town					
+Metadata/Pet/GraspingHands/BreachSpawner	328	387	0.000 rad	4137538775	1_3_town					
+Metadata/Pet/DarkShardFalcon/DarkShardFalcon	339	398	0.000 rad	483080584	1_3_town					
+Metadata/Effects/Microtransactions/Aura/BasiliskDemon/BasiliskDemon	287	419	2.034 rad	464624771	1_3_town					
+Object: Metadata/Effects/ServerEffect	242	436	2.554 rad	2646652649	1_3_town					
+Object: Metadata/Effects/ServerEffect	299	419	4.249 rad	2646652649	1_3_town					
+Metadata/Effects/Microtransactions/Aura/ScourgeApparition/ScourgeApparition	335	408	5.883 rad	4143369807	1_3_town					
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Characters/StrDex/StrDex	328	398	3.927 rad	2810334424	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/StrInt/StrInt	338	336	4.705 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Object: Metadata/Effects/ServerEffect	331	456	4.712 rad	2646652649	1_3_town					
+Metadata/Characters/StrDex/StrDex	328	398	3.927 rad	2810334424	1_3_town					
+Metadata/Effects/Microtransactions/Aura/ScourgeApparition/ScourgeApparition	354	433	5.644 rad	4143369807	1_3_town					
+Object: Metadata/Effects/ServerEffect	328	398	5.640 rad	2646652649	1_3_town	2	-15.625			
+Metadata/Characters/Dex/Dex	311	326	0.000 rad	2287107054	1_3_town					
+Metadata/Characters/Dex/Dex	580	530	1.703 rad	2287107054	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Pet/CultDarkness/CultDarkness	319	334	0.000 rad	2090687062	1_3_town					
+Metadata/Pet/MadcapToad/MadcapToad	304	334	0.000 rad	1615833424	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/StrInt/StrInt	338	336	4.705 rad	2448909918	1_3_town					
+Object: Metadata/Effects/ServerEffect	364	415	1.951 rad	2646652649	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/Int/Int	300	422	4.712 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	296	416	3.605 rad	1086455624	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	300	325	1.488 rad	1086455624	1_3_town					
+Metadata/Characters/Dex/Dex	328	398	3.927 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	301	389	5.903 rad	2621544766	1_3_town					
+Metadata/Characters/DexInt/DexInt	287	419	2.034 rad	3989868005	1_3_town					
+Metadata/Characters/Str/Str	290	416	2.678 rad	3618279525	1_3_town					
+Metadata/Characters/StrInt/StrInt	244	435	2.761 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	317	382	0.785 rad	2621544766	1_3_town					
+Metadata/Characters/DexInt/DexInt	294	417	3.339 rad	3989868005	1_3_town					
+Metadata/Characters/Dex/Dex	230	446	0.432 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/StygianSteed/HellSteedPet	294	403	4.154 rad	1357410216	1_3_town					
+Metadata/Pet/PandemoniumSpider/PandemoniumSpider	295	396	3.605 rad	4149101123	1_3_town					
+Metadata/Pet/PandemoniumSpider/PandemoniumSpider	311	393	0.540 rad	4149101123	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Pet/Frog/Deepwater	307	414	4.213 rad	1042321446	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Metadata/Characters/Int/Int	300	422	4.712 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	300	325	1.488 rad	1086455624	1_3_town					
+Metadata/Characters/DexInt/DexInt	287	419	2.034 rad	3989868005	1_3_town					
+Metadata/Characters/Str/Str	306	390	5.152 rad	3618279525	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	315	338	5.961 rad	1086455624	1_3_town					
+Metadata/Characters/Dex/Dex	311	326	0.000 rad	2287107054	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	368	424	0.983 rad	1086455624	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	362	385	1.571 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/MiscellaneousObjects/MultiplexPortal	338	336	4.705 rad	1600303822	1_3_town					
+Metadata/Pet/Rhoa/AshRhoa/AshRhoa	304	350	3.339 rad	2151676176	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Object: Metadata/Effects/ServerEffect	228	455	0.274 rad	2646652649	1_3_town					
+Object: Metadata/Effects/ServerEffect	228	455	0.274 rad	2646652649	1_3_town					
+Metadata/Characters/Int/Int	300	422	4.712 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	300	325	1.488 rad	1086455624	1_3_town					
+Metadata/Characters/DexInt/DexInt	287	419	2.034 rad	3989868005	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	264	370	0.000 rad	1086455624	1_3_town					
+Metadata/Characters/DexInt/DexInt	328	398	3.927 rad	3989868005	1_3_town					
+Metadata/Characters/Dex/Dex	328	398	3.927 rad	2287107054	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	330	3.142 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/MiscellaneousObjects/MultiplexPortal	338	336	4.705 rad	1600303822	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/FledglingBellcrow/FledglingBellcrow	328	387	0.000 rad	1990139760	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Metadata/Pet/CrueltyKillerBird/CrueltyKillerBird	350	398	4.712 rad	4044101934	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/StrDex/StrDex	551	482	3.387 rad	2810334424	1_3_town					
+Metadata/Characters/StrInt/StrInt	299	425	5.176 rad	2448909918	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	324	382	6.212 rad	1086455624	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	230	436	0.588 rad	1086455624	1_3_town					
+Metadata/Characters/Dex/Dex	297	423	4.957 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/DexInt/DexInt	299	419	4.249 rad	3989868005	1_3_town					
+Metadata/Characters/Int/Int	287	419	2.034 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	287	419	2.034 rad	2621544766	1_3_town					
+Metadata/Characters/StrDex/StrDex	299	419	4.249 rad	2810334424	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Characters/Dex/Dex	291	488	2.034 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	244	435	2.761 rad	2621544766	1_3_town					
+Metadata/Characters/DexInt/DexInt	364	415	1.951 rad	3989868005	1_3_town					
+Metadata/Characters/Dex/Dex	315	336	5.743 rad	2287107054	1_3_town					
+Metadata/Characters/Dex/Dex	311	326	0.000 rad	2287107054	1_3_town					
+Metadata/Characters/StrInt/StrInt	385	191	3.142 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/MiscellaneousObjects/MultiplexPortal	338	336	4.705 rad	1600303822	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/Cat/Celestial	305	399	4.232 rad	2549567644	1_3_town					
+Metadata/Pet/BetaKiwis/FaridunKiwi	300	408	4.754 rad	2620415687	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Metadata/Pet/Cat/Celestial	234	430	3.762 rad	2549567644	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Effects/Microtransactions/Aura/ReaperApparition/ReaperApparition	299	419	4.249 rad	283472077	1_3_town					
+Metadata/Pet/BetaKiwis/VaalKiwi	308	418	4.712 rad	858497967	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Characters/StrInt/StrInt	551	472	4.307 rad	2448909918	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	311	326	0.000 rad	1086455624	1_3_town					
+Object: Metadata/Effects/ServerEffect	338	436	5.407 rad	2646652649	1_3_town					
+Metadata/Characters/Int/Int	300	422	4.712 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	300	325	1.488 rad	1086455624	1_3_town					
+Metadata/Characters/DexInt/DexInt	287	419	2.034 rad	3989868005	1_3_town					
+Metadata/Characters/Str/Str	335	433	6.086 rad	3618279525	1_3_town					
+Metadata/Characters/StrDex/StrDex	368	410	2.554 rad	2810334424	1_3_town					
+Metadata/Characters/StrInt/StrInt	244	435	2.761 rad	2448909918	1_3_town					
+Metadata/Characters/StrInt/StrInt	338	441	5.268 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	290	416	2.678 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/MiscellaneousObjects/MultiplexPortal	338	336	4.705 rad	1600303822	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/StrInt/StrInt	311	326	0.000 rad	2448909918	1_3_town					
+Metadata/Pet/Kiwi/Silver	319	334	0.000 rad	3003572647	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	612	525	0.000 rad	726109394	1_3_town	77	-603.319	0	37655	The Slums
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Object: Metadata/MiscellaneousObjects/AreaTransition	612	525	0.000 rad	726109394	1_3_town	77	-603.319	0	37655	The Slums
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Pet/FledglingBellcrow/FledglingBellcrow	328	387	0.000 rad	1990139760	1_3_town					
+Metadata/Pet/Raven/BloodGuard	339	398	0.000 rad	2970184459	1_3_town					
+Metadata/Characters/Str/Str	338	336	4.705 rad	3618279525	1_3_town					
+Metadata/Pet/RenegadeImp/RenegadeImp	339	332	0.000 rad	4195378765	1_3_town					
+Metadata/Pet/OverseerSmallPet/OverseerSmallPet	340	339	0.000 rad	61598911	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	338	336	4.705 rad	2448909918	1_3_town					
+Metadata/Characters/Str/Str	481	281	5.532 rad	3618279525	1_3_town					
+Metadata/Pet/RenegadeImp/RenegadeImp	481	281	5.498 rad	4195378765	1_3_town					
+Metadata/Pet/OverseerSmallPet/OverseerSmallPet	482	297	5.575 rad	61598911	1_3_town					
+Object: Metadata/Effects/ServerEffect	221	462	0.107 rad	2646652649	1_3_town					
+Object: Metadata/Effects/ServerEffect	222	433	0.108 rad	2646652649	1_3_town					
+Metadata/Characters/Str/Str	385	191	3.142 rad	3618279525	1_3_town					
+Metadata/Pet/RenegadeImp/RenegadeImp	383	185	0.000 rad	4195378765	1_3_town					
+Metadata/Pet/OverseerSmallPet/OverseerSmallPet	391	184	0.000 rad	61598911	1_3_town					
+Metadata/Characters/Str/Str	482	529	4.636 rad	3618279525	1_3_town					
+Metadata/Pet/RenegadeImp/RenegadeImp	481	521	4.599 rad	4195378765	1_3_town					
+Metadata/Pet/OverseerSmallPet/OverseerSmallPet	481	532	4.578 rad	61598911	1_3_town					
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	300	422	4.712 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	300	325	1.488 rad	1086455624	1_3_town					
+Metadata/Characters/DexInt/DexInt	287	419	2.034 rad	3989868005	1_3_town					
+Metadata/Characters/Str/Str	299	345	6.159 rad	3618279525	1_3_town					
+Metadata/Characters/Str/Str	300	422	4.712 rad	3618279525	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	328	398	3.927 rad	1086455624	1_3_town					
+Metadata/Characters/DexInt/DexInt	287	382	5.176 rad	3989868005	1_3_town					
+Metadata/Characters/Int/Int	367	446	2.658 rad	2621544766	1_3_town					
+Metadata/Characters/DexInt/DexInt	312	423	5.755 rad	3989868005	1_3_town					
+Metadata/Characters/Int/Int	288	391	3.730 rad	2621544766	1_3_town					
+Metadata/Characters/DexInt/DexInt	244	435	2.761 rad	3989868005	1_3_town					
+Metadata/Characters/StrInt/StrInt	311	339	0.000 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	244	435	2.761 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	244	435	2.761 rad	3618279525	1_3_town					
+Metadata/Characters/StrDex/StrDex	368	461	2.761 rad	2810334424	1_3_town					
+Metadata/Characters/StrDex/StrDex	338	336	4.705 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Metadata/Pet/Pigeon/Dark	235	430	3.690 rad	3051653543	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	311	326	0.000 rad	1086455624	1_3_town					
+Metadata/Pet/Cat/HeistCalicoCatPet	304	334	0.000 rad	396993445	1_3_town					
+Metadata/Pet/Canary/Canary	319	334	0.000 rad	904785020	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/StrDex/StrDex	551	531	4.619 rad	2810334424	1_3_town					
+Object: Metadata/Effects/ServerEffect	219	448	0.025 rad	2646652649	1_3_town					
+Metadata/Characters/StrInt/StrInt	299	425	5.176 rad	2448909918	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	324	382	6.212 rad	1086455624	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	230	436	0.588 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	287	419	2.034 rad	2621544766	1_3_town					
+Metadata/Characters/StrDex/StrDex	338	419	5.498 rad	2810334424	1_3_town					
+Metadata/Characters/Dex/Dex	290	416	2.678 rad	2287107054	1_3_town					
+Metadata/Characters/StrInt/StrInt	240	444	1.789 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	343	446	5.300 rad	2448909918	1_3_town					
+Metadata/Characters/Dex/Dex	293	415	3.142 rad	2287107054	1_3_town					
+Metadata/Characters/StrDex/StrDex	300	422	4.712 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	296	416	3.605 rad	2621544766	1_3_town					
+Metadata/Characters/DexInt/DexInt	322	387	1.446 rad	3989868005	1_3_town					
+Metadata/Characters/Int/Int	293	415	3.142 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	259	467	0.000 rad	3618279525	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	239	451	0.983 rad	1086455624	1_3_town					
+Metadata/Characters/Str/Str	244	435	2.761 rad	3618279525	1_3_town					
+Metadata/Characters/StrDex/StrDex	287	419	2.034 rad	2810334424	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	328	398	3.927 rad	1086455624	1_3_town					
+Metadata/Characters/Str/Str	334	384	2.444 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/OrigamiPet/OrigamiPetBase	290	407	5.695 rad	730578149	1_3_town					
+Metadata/Pet/BabyChimera/BabyChimera	339	398	0.000 rad	1409154742	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Metadata/Pet/BetaKiwis/LumeriusKiwi	235	430	3.718 rad	2284640033	1_3_town					
+Metadata/Pet/BetaKiwis/FaridunKiwi	243	429	2.678 rad	2620415687	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Pet/BreachHandSpider/BreachHandSpider	328	423	3.142 rad	3695598681	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/Effects/ServerEffect	268	398	0.858 rad	2646652649	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Object: Metadata/MiscellaneousObjects/AreaTransition	612	525	0.000 rad	726109394	1_3_town	77	-603.319	0	37655	The Slums
+Metadata/Characters/StrInt/StrInt	311	326	0.000 rad	2448909918	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Metadata/Characters/StrInt/StrInt	308	350	0.484 rad	2448909918	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	225	477	3.578 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	313	389	5.253 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	244	435	2.761 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	368	461	2.761 rad	3618279525	1_3_town					
+Metadata/Characters/Dex/Dex	287	419	2.034 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/MiscellaneousObjects/MultiplexPortal	338	336	4.705 rad	1600303822	1_3_town					
+Metadata/Pet/LightBringerCat/LightbringerCat	298	353	0.278 rad	2262956191	1_3_town					
+Metadata/Pet/Cat/Celestial	311	360	0.487 rad	2549567644	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Metadata/Pet/ArcticFoxPet/ArcticFoxPet	235	430	3.649 rad	2341657714	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Object: Metadata/Effects/ServerEffect	231	441	0.509 rad	2646652649	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Object: Metadata/Effects/ServerEffect	368	461	2.761 rad	2646652649	1_3_town					
+Object: Metadata/Effects/ServerEffect	300	422	4.712 rad	2646652649	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	311	326	0.000 rad	1086455624	1_3_town					
+Metadata/Characters/DexInt/DexInt	338	336	4.705 rad	3989868005	1_3_town					
+Metadata/Characters/DexInt/DexInt	287	419	2.034 rad	3989868005	1_3_town					
+Metadata/Characters/Int/Int	236	393	0.000 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	300	331	5.743 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	296	416	3.605 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	324	386	1.869 rad	1086455624	1_3_town					
+Metadata/Characters/Dex/Dex	287	382	5.176 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	310	325	2.356 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	338	336	4.705 rad	2287107054	1_3_town					
+Metadata/Characters/Dex/Dex	218	491	3.142 rad	2287107054	1_3_town					
+Metadata/Characters/DexInt/DexInt	289	417	2.467 rad	3989868005	1_3_town					
+Metadata/Characters/Str/Str	240	438	2.290 rad	3618279525	1_3_town					
+Metadata/Characters/Str/Str	287	382	5.176 rad	3618279525	1_3_town					
+Metadata/Characters/Str/Str	296	416	3.605 rad	3618279525	1_3_town					
+Metadata/Characters/StrDex/StrDex	240	452	0.852 rad	2810334424	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	296	416	3.605 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	299	425	5.176 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/MiscellaneousObjects/MultiplexPortal	338	336	4.705 rad	1600303822	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/FangtoothMoray/FangtoothMoray	319	377	1.571 rad	4111464647	1_3_town					
+Metadata/Pet/OrigamiPet/OrigamiPetBase	292	406	4.096 rad	730578149	1_3_town					
+Metadata/Pet/Hound/BloodGuard	291	406	4.004 rad	4028000118	1_3_town					
+Metadata/Pet/VaalToucan/VaalToucan	315	391	2.214 rad	3078709402	1_3_town					
+Metadata/Pet/Cat/EmpyreanCat	339	398	0.000 rad	2296770490	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Metadata/Pet/Wolf/SunriseWolf	241	424	3.142 rad	570724640	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/Pet/CelestialTurtle/CelestialTurtle	229	437	3.682 rad	3411742305	1_3_town					
+Metadata/Pet/Dragon/TwilightNightfallDragon	219	454	0.373 rad	4101308173	1_3_town					
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Metadata/Effects/Microtransactions/Aura/ReaperApparition/ReaperApparition	240	438	2.290 rad	283472077	1_3_town					
+Metadata/Pet/Cat/Celestial	236	458	0.785 rad	2549567644	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Object: Metadata/Effects/ServerEffect	343	423	5.878 rad	2646652649	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/StrInt/StrInt	328	398	3.927 rad	2448909918	1_3_town					
+Metadata/Characters/StrDex/StrDex	338	336	4.705 rad	2810334424	1_3_town					
+Metadata/Pet/WispPet/WispPet	339	332	0.000 rad	2118900097	1_3_town					
+Metadata/Characters/Dex/Dex	338	336	4.705 rad	2287107054	1_3_town					
+Object: Metadata/Effects/ServerEffect	300	422	2.678 rad	2646652649	1_3_town					
+Object: Metadata/Effects/ServerEffect	299	419	4.249 rad	2646652649	1_3_town					
+Object: Metadata/Effects/ServerEffect	337	434	5.461 rad	2646652649	1_3_town					
+Object: Metadata/Effects/ServerEffect	337	434	5.461 rad	2646652649	1_3_town					
+Metadata/Characters/Dex/Dex	311	326	0.000 rad	2287107054	1_3_town					
+Metadata/Characters/Dex/Dex	338	336	4.705 rad	2287107054	1_3_town					
+Object: Metadata/Effects/ServerEffect	218	491	3.142 rad	2646652649	1_3_town					
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	328	398	3.927 rad	2448909918	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/Dex/Dex	311	326	0.000 rad	2287107054	1_3_town					
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Characters/Str/Str	385	191	3.142 rad	3618279525	1_3_town					
+Metadata/Characters/DexInt/DexInt	287	419	2.034 rad	3989868005	1_3_town					
+Metadata/Characters/Int/Int	236	393	0.000 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	300	331	5.743 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	296	416	3.605 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	324	386	1.869 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	310	325	2.356 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	338	336	4.705 rad	2287107054	1_3_town					
+Metadata/Characters/DexInt/DexInt	289	417	2.467 rad	3989868005	1_3_town					
+Metadata/Characters/Str/Str	287	419	2.034 rad	3618279525	1_3_town					
+Metadata/Characters/StrDex/StrDex	300	422	2.678 rad	2810334424	1_3_town					
+Metadata/Characters/StrInt/StrInt	290	416	2.678 rad	2448909918	1_3_town					
+Metadata/Characters/Str/Str	368	461	2.761 rad	3618279525	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	244	435	2.761 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	281	465	3.836 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	370	429	0.381 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	345	453	5.085 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	512	331	2.356 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	323	331	5.107 rad	2287107054	1_3_town					
+Metadata/Characters/Dex/Dex	243	432	2.850 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Pet/Rhoa/DeliriumRhoa/DeliriumRhoa	338	324	0.000 rad	2899346195	1_3_town					
+Metadata/Pet/Tumbleweed/Tumbleweed	328	341	4.547 rad	844487786	1_3_town					
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/FangtoothMoray/FangtoothMoray	319	377	1.571 rad	4111464647	1_3_town					
+Metadata/Pet/Dragon/TwilightNightfallDragon	270	412	4.939 rad	4101308173	1_3_town					
+Metadata/Pet/OrigamiPet/OrigamiPetBase	292	406	4.096 rad	730578149	1_3_town					
+Metadata/Pet/VaalToucan/VaalToucan	315	391	2.214 rad	3078709402	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Pet/Cat/Celestial	287	422	3.816 rad	2549567644	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/StrDexInt/StrDexInt	551	480	3.283 rad	1086455624	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	385	191	3.142 rad	1086455624	1_3_town					
+Metadata/Characters/StrDex/StrDex	328	398	3.927 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	328	398	3.927 rad	2448909918	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	299	647	0.000 rad	726109394	1_3_town	131	-1028.829	0	52994	Sarn Arena
+Object: Metadata/Effects/ServerEffect	225	465	0.264 rad	2646652649	1_3_town					
+Metadata/Characters/DexInt/DexInt	236	415	4.124 rad	3989868005	1_3_town					
+Metadata/Characters/Int/Int	236	393	0.000 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	300	331	5.743 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	296	416	3.605 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	338	336	4.705 rad	2287107054	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	311	326	0.000 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	287	382	5.176 rad	2621544766	1_3_town					
+Metadata/Characters/StrInt/StrInt	244	435	2.761 rad	2448909918	1_3_town					
+Metadata/Characters/DexInt/DexInt	303	391	0.494 rad	3989868005	1_3_town					
+Metadata/Characters/StrInt/StrInt	367	427	0.719 rad	2448909918	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	293	415	3.142 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	244	435	2.761 rad	2621544766	1_3_town					
+Metadata/Characters/StrDex/StrDex	316	411	1.604 rad	2810334424	1_3_town					
+Metadata/Characters/StrInt/StrInt	311	326	0.000 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	311	339	0.000 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	244	435	2.761 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	244	435	2.761 rad	2287107054	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	299	419	4.249 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/OrigamiPet/OrigamiPetBase	292	406	4.096 rad	730578149	1_3_town					
+Metadata/Pet/Tiger/IceTiger	322	407	1.529 rad	3730697893	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Metadata/Pet/Pigeon/Light	235	430	3.785 rad	3362122708	1_3_town					
+Metadata/Pet/AtlantisSirenPegasus/AtlantisSirenPegasus	252	418	4.069 rad	83686676	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/Pet/Tiger/IceTiger	337	417	1.664 rad	3730697893	1_3_town					
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Pet/Frog/Ice	304	334	0.000 rad	29743056	1_3_town					
+Metadata/Pet/Lion/Fire	319	334	0.000 rad	2596692090	1_3_town					
+Metadata/Characters/StrDex/StrDex	328	398	3.927 rad	2810334424	1_3_town					
+Metadata/Pet/Lion/Fire	328	387	0.000 rad	2596692090	1_3_town					
+Metadata/Pet/Frog/Ice	339	398	0.000 rad	29743056	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Pet/Raptor/Raptor	328	387	0.000 rad	1228870697	1_3_town					
+Metadata/Characters/StrInt/StrInt	338	336	4.705 rad	2448909918	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Metadata/Characters/StrDex/StrDex	328	398	3.927 rad	2810334424	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	328	398	3.927 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	338	336	4.705 rad	1086455624	1_3_town					
+Object: Metadata/Effects/ServerEffect	226	455	0.222 rad	2646652649	1_3_town					
+Metadata/Characters/StrInt/StrInt	299	425	5.176 rad	2448909918	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	230	436	0.588 rad	1086455624	1_3_town					
+Metadata/Characters/StrInt/StrInt	307	342	0.245 rad	2448909918	1_3_town					
+Metadata/Characters/Dex/Dex	307	400	1.805 rad	2287107054	1_3_town					
+Metadata/Characters/StrInt/StrInt	322	450	2.590 rad	2448909918	1_3_town					
+Metadata/Characters/StrInt/StrInt	300	422	2.678 rad	2448909918	1_3_town					
+Metadata/Characters/StrDex/StrDex	328	424	3.086 rad	2810334424	1_3_town					
+Metadata/Characters/StrDex/StrDex	261	408	0.965 rad	2810334424	1_3_town					
+Metadata/Characters/Str/Str	310	363	5.498 rad	3618279525	1_3_town					
+Metadata/Characters/Str/Str	306	422	3.605 rad	3618279525	1_3_town					
+Metadata/Characters/StrDex/StrDex	300	422	4.712 rad	2810334424	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	319	417	4.936 rad	1086455624	1_3_town					
+Metadata/Characters/Str/Str	348	408	1.681 rad	3618279525	1_3_town					
+Metadata/Characters/StrDex/StrDex	328	398	3.927 rad	2810334424	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	244	435	2.761 rad	1086455624	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	328	398	3.927 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	314	350	5.921 rad	2621544766	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	328	398	3.927 rad	2287107054	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Object: Metadata/MiscellaneousObjects/AreaTransition	398	184	0.000 rad	726109394	1_3_town	-15	120.690	0	20735	The City of Sarn
+Object: Metadata/MiscellaneousObjects/Waypoint	311	326	0.000 rad	552129418	1_3_town	-8	69.022			
+Metadata/Terrain/Missions/Hideouts/Objects/TownCraftingBench	279	378	1.571 rad	2564365857	1_3_town					
+Metadata/Pet/Rhoa/EdictCorruptionRhoa/EdictCorruptionRhoa	275	411	3.605 rad	1281918852	1_3_town					
+Metadata/Pet/Rhoa/AshRhoa/AshRhoa	261	397	2.356 rad	2151676176	1_3_town					
+Metadata/Terrain/Leagues/Augury/Objects/EffigyObject	359	391	4.189 rad	2169838976	1_3_town					
+Metadata/Effects/Microtransactions/Aura/ReaperApparition/ReaperApparition	348	408	1.681 rad	283472077	1_3_town					
+Object: Metadata/MiscellaneousObjects/Stash	293	422	0.406 rad	2817685266	1_3_town					
+Object: Metadata/MiscellaneousObjects/NoticeBoard	280	425	6.213 rad	1669564304	1_3_town	4	-32.659			
+Metadata/NPC/Act3/Maramoa	374	419	4.921 rad	1111821468	1_3_town	8	-62.500			
+Metadata/NPC/Act3/ClarissaTown	248	445	5.298 rad	2244179493	1_3_town	-7	54.688			
+Object: Metadata/MiscellaneousObjects/NoticeBoardPvP	315	460	0.028 rad	688764747	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	331	460	0.006 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	342	463	6.136 rad	1285951471	1_3_town					
+Metadata/MiscellaneousObjects/MercenaryMarker	352	463	6.138 rad	1285951471	1_3_town					
+Metadata/NPC/Act3/Hargan	372	471	5.791 rad	841377751	1_3_town	2	-18.343			
+Metadata/NPC/Act3/Grigor	218	502	5.923 rad	645884434	1_3_town	-7	54.688			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthTownTransition	299	492	0.000 rad	3005234655	1_3_town	58	-457.941	0	65071	Aspirants' Plaza
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthPlaqueTown	299	492	0.000 rad	496642123	1_3_town	45	-357.592			
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthStatueTown	299	503	0.000 rad	1055822872	1_3_town	45	-357.592			
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/StrDex/StrDex	338	336	4.705 rad	2810334424	1_3_town					
+Metadata/Characters/Dex/Dex	385	191	3.142 rad	2287107054	1_3_town					
+Metadata/Characters/Dex/Dex	573	445	4.712 rad	2287107054	1_3_town					
+Metadata/Effects/Microtransactions/Aura/ReaperApparition/ReaperApparition	367	426	2.593 rad	283472077	1_3_town					
+Metadata/Characters/StrInt/StrInt	328	398	3.927 rad	2448909918	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					
+Metadata/Pet/GiantRat/GiantRat	339	332	0.000 rad	3860813969	1_3_town					
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Pet/Raptor/Raptor	319	334	0.000 rad	1228870697	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Metadata/Pet/Butterfly/Angelic/Angelic_Moth	319	334	0.000 rad	2202355962	1_3_town					
+Object: Metadata/Effects/ServerEffect	368	461	2.761 rad	2646652649	1_3_town					
+Metadata/Characters/StrDex/StrDex	328	398	3.927 rad	2810334424	1_3_town					
+Metadata/Pet/Tiger/IceTiger	328	387	0.000 rad	3730697893	1_3_town					
+Metadata/Pet/Tiger/IceTiger	339	398	0.000 rad	3730697893	1_3_town					
+Metadata/Effects/Microtransactions/Aura/ReaperApparition/ReaperApparition	344	418	3.294 rad	283472077	1_3_town					
+Object: Metadata/Effects/ServerEffect	340	439	5.466 rad	2646652649	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Pet/Wolf/SunriseWolf	321	336	0.000 rad	570724640	1_3_town					
+Metadata/Characters/StrDex/StrDex	328	398	3.927 rad	2810334424	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	328	398	3.927 rad	1086455624	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Effects/Microtransactions/Aura/ReaperApparition/ReaperApparition	287	383	0.000 rad	283472077	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/Dex/Dex	311	326	0.000 rad	2287107054	1_3_town					
+Metadata/Effects/Microtransactions/Aura/ReaperApparition/ReaperApparition	305	388	1.107 rad	283472077	1_3_town					
+Metadata/Characters/DexInt/DexInt	338	336	4.705 rad	3989868005	1_3_town					
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Effects/Microtransactions/Aura/ReaperApparition/ReaperApparition	307	374	3.274 rad	283472077	1_3_town					
+Metadata/Characters/StrDex/StrDex	338	336	4.705 rad	2810334424	1_3_town					
+Metadata/Characters/Dex/Dex	338	336	4.705 rad	2287107054	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Pet/Cat/Sphynx/GiantSphynx/GiantSphynxPink__	328	382	0.000 rad	2691155048	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Metadata/Effects/Microtransactions/Aura/ReaperApparition/ReaperApparition	420	446	1.529 rad	283472077	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	338	336	4.705 rad	1086455624	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	338	336	4.705 rad	1086455624	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Characters/DexInt/DexInt	328	398	3.927 rad	3989868005	1_3_town					
+Metadata/Effects/Microtransactions/Aura/ReaperApparition/ReaperApparition	222	488	3.142 rad	283472077	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/Str/Str	338	336	4.705 rad	3618279525	1_3_town					
+Metadata/Characters/StrInt/StrInt	338	336	4.705 rad	2448909918	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	338	336	4.705 rad	1086455624	1_3_town					
+Object: Metadata/Effects/ServerEffect	218	461	0.000 rad	2646652649	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	328	398	3.927 rad	1086455624	1_3_town					
+Metadata/Effects/Microtransactions/Aura/ReaperApparition/ReaperApparition	372	399	1.623 rad	283472077	1_3_town					
+Metadata/Characters/StrInt/StrInt	311	326	0.000 rad	2448909918	1_3_town					
+Metadata/Characters/Str/Str	328	398	3.927 rad	3618279525	1_3_town					
+Metadata/Effects/Microtransactions/Aura/ReaperApparition/ReaperApparition	307	429	5.139 rad	283472077	1_3_town					
+Metadata/Characters/StrDexInt/StrDexInt	338	336	4.705 rad	1086455624	1_3_town					
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	311	326	0.000 rad	2621544766	1_3_town					
+Object: Metadata/Effects/ServerEffect	244	435	2.761 rad	2646652649	1_3_town					
+Metadata/Characters/Dex/Dex	311	326	0.000 rad	2287107054	1_3_town					
+Metadata/Characters/StrDex/StrDex	311	326	0.000 rad	2810334424	1_3_town					
+Object: Metadata/Effects/ServerEffect	244	435	2.761 rad	2646652649	1_3_town					
+Metadata/Characters/Int/Int	328	398	3.927 rad	2621544766	1_3_town					
+Metadata/Characters/StrDex/StrDex	385	191	3.142 rad	2810334424	1_3_town					
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Effects/Microtransactions/Aura/ReaperApparition/ReaperApparition	266	383	0.359 rad	283472077	1_3_town					
+Metadata/Characters/Str/Str	311	326	0.000 rad	3618279525	1_3_town					
+Metadata/Characters/Int/Int	338	336	4.705 rad	2621544766	1_3_town					

@@ -1,0 +1,81 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/Int/Int	1368	1414	4.712 rad	2621544766	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1136	1241	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1149	1228	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1162	1241	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1149	1254	1.571 rad	2595699018	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1149	1277	3.608 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1167	1282	5.719 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1242	1401	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1287	1401	4.712 rad	2595699018	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1196	1422	0.417 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1205	1421	5.351 rad	2509988227	1_3_8_2					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@36]	1368	1414	1.865 rad	937681074	1_3_8_2					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@36]	1368	1414	0.196 rad	937681074	1_3_8_2					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@36]	1368	1414	5.989 rad	937681074	1_3_8_2					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@36]	1368	1414	2.675 rad	937681074	1_3_8_2					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@36]	1368	1414	2.847 rad	937681074	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Waypoint	1368	1414	4.712 rad	552129418	1_3_8_2	2	-16.517			
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1482	1403	4.712 rad	2595699018	1_3_8_2					
+Metadata/NPC/Act3/Dialla	1529	1415	4.737 rad	845558679	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1242	1428	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1287	1428	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1482	1426	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1463	1522	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/QuestObjects/MapRoom/DiallaMapTransition	1483	1527	3.142 rad	797474935	1_3_8_2	23	-184.783	1	1171213618	
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1504	1521	4.712 rad	2595699018	1_3_8_2					
+Monster: Flame Sentinel [Metadata/Monsters/Guardians/GuardianFire@28]	1173	1285	4.369 rad	2228051316	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	1181	1286	5.056 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1173	1278	0.295 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1167	1289	3.313 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1163	1298	3.313 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1176	1292	5.645 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1181	1302	1.571 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1139	1356	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1543	1399	4.712 rad	2595699018	1_3_8_2					
+Monster: Flame Sentinel [Metadata/Monsters/Guardians/GuardianFire@28]	1185	1416	0.466 rad	2228051316	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1178	1421	5.498 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1173	1418	0.982 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1188	1409	3.461 rad	2509988227	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	1147	1445	0.884 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1141	1436	6.185 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1151	1431	0.712 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1166	1445	6.038 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1184	1434	0.245 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1173	1441	0.712 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1542	1430	4.712 rad	2595699018	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1139	1451	1.424 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1140	1456	5.547 rad	2509988227	1_3_8_2					
+Metadata/NPC/Info/MalachaiNoteDialla	1560	1527	0.524 rad	2600010702	1_3_8_2	13	-108.696			
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1287	1401	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1287	1428	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1242	1401	4.712 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1242	1428	4.712 rad	2595699018	1_3_8_2					
+Monster: Flame Sentinel [Metadata/Monsters/Guardians/GuardianFire@28]	1173	1285	4.369 rad	2228051316	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	1181	1286	5.056 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1173	1278	0.295 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1176	1292	5.645 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1181	1302	1.571 rad	2509988227	1_3_8_2					
+Monster: Flame Sentinel [Metadata/Monsters/Guardians/GuardianFire@28]	1185	1416	0.466 rad	2228051316	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1178	1421	5.498 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1173	1418	0.982 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1188	1409	3.461 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1195	1422	4.391 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1184	1434	0.245 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1173	1441	0.712 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1195	1435	3.641 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1162	1241	1.571 rad	2595699018	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1167	1282	5.719 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1167	1289	3.313 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1163	1298	3.313 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1151	1431	0.712 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1166	1445	6.038 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1136	1241	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1149	1228	1.571 rad	2595699018	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1149	1254	1.571 rad	2595699018	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1149	1277	3.608 rad	2509988227	1_3_8_2					
+Object: Metadata/MiscellaneousObjects/Lights/ModularLight_WideOrange_Static	1139	1356	1.571 rad	2595699018	1_3_8_2					
+Monster: Galvanic Ribbon [Metadata/Monsters/Guardians/GuardianLightning@28]	1147	1445	0.884 rad	3211517353	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1141	1436	6.185 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1139	1451	1.424 rad	2509988227	1_3_8_2					
+Monster: Assault Ribbon [Metadata/Monsters/Guardians/GuardianHead@28]	1140	1456	5.547 rad	2509988227	1_3_8_2					

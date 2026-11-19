@@ -1,0 +1,426 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/Int/Int	328	336	1.571 rad	2621544766	1_1_2					
+Object: Metadata/MiscellaneousObjects/AreaTransition	328	363	0.000 rad	726109394	1_1_2	24	-193.770	0	9052	Lioneye's Watch
+Monster: Wickerlight Giant [Metadata/Monsters/Augury/SavageGiantTutorial@2]	464	435	2.146 rad	1633799232	1_1_2					
+Monster: Wickerlight Hag [Metadata/Monsters/Augury/SavageWitchTutorial@2]	505	431	4.290 rad	1950339488	1_1_2					
+Metadata/Terrain/Leagues/Augury/Act1_Coast/Objects/TutorialWicker	443	438	0.813 rad	1893378803	1_1_2					
+Metadata/Terrain/Leagues/Augury/Act1_Coast/Objects/TutorialWicker	457	452	0.594 rad	1893378803	1_1_2					
+Metadata/Terrain/Leagues/Augury/Act1_Coast/Objects/TutorialBonfire	487	447	2.874 rad	1214848046	1_1_2					
+Metadata/Terrain/Leagues/Augury/Act1_Coast/Objects/TutorialWicker	524	458	5.838 rad	1893378803	1_1_2					
+Metadata/Terrain/Leagues/Augury/Act1_Coast/Objects/TutorialWicker	538	451	5.737 rad	1893378803	1_1_2					
+Metadata/Terrain/Leagues/Augury/Act1_Coast/Objects/TutorialBarrier	492	487	0.000 rad	1384701874	1_1_2					
+Metadata/Terrain/Leagues/Augury/Act1_Coast/Objects/TutorialWicker	463	510	2.218 rad	1893378803	1_1_2					
+Metadata/Terrain/Leagues/Augury/Act1_Coast/Objects/TutorialWicker	515	510	4.449 rad	1893378803	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	584	590	0.123 rad	2459938753	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeCoast@2]	607	593	1.522 rad	3660143649	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumCoast@2]	595	615	4.663 rad	2597634092	1_1_2					
+Monster: Spider Crab [Metadata/Monsters/CrabMonsters/CrabSpiderCoast@2]	595	601	5.596 rad	2506069549	1_1_2					
+Monster: Shore Crab [Metadata/Monsters/CrabMonsters/CrabNimbleCoast@2]	604	599	5.841 rad	1965029256	1_1_2					
+Monster: Kelp Crab [Metadata/Monsters/CrabMonsters/CrabKelpCoast@2]	625	610	3.240 rad	1140060578	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	516	633	0.810 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	526	627	0.687 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	545	623	3.436 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	564	636	6.087 rad	1842267084	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	656	638	0.442 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	679	628	2.602 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	678	633	4.467 rad	1258344372	1_1_2					
+Monster: Wickerlight Brute [Metadata/Monsters/Augury/SavageDagger@2]	706	639	4.541 rad	114691697	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemaleThrowFire@2]	528	662	3.264 rad	555523365	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	581	648	3.387 rad	748578266	1_1_2					
+Metadata/Terrain/Leagues/Augury/Objects/SavageWellWicker	654	652	1.342 rad	648910352	1_1_2					
+Monster: Wickerlight Brute [Metadata/Monsters/Augury/SavageDagger@2]	669	661	3.927 rad	114691697	1_1_2					
+Monster: Wickerlight Brute [Metadata/Monsters/Augury/SavageDagger@2]	686	660	3.240 rad	114691697	1_1_2					
+Metadata/NPC/Info/Karui/Stone1	703	657	0.000 rad	156494791	1_1_2	24	-187.500			
+Monster: Wickerlight Giant [Metadata/Monsters/Augury/SavageGiant@2]	691	661	0.295 rad	3411558828	1_1_2					
+Metadata/Terrain/Leagues/Augury/Objects/SavageWellWicker	634	680	2.969 rad	648910352	1_1_2					
+Metadata/Terrain/Leagues/Augury/Objects/AuguryCardObject	654	675	0.736 rad	3829842526	1_1_2					
+Monster: Wickerlight Brute [Metadata/Monsters/Augury/SavageDagger@2]	691	668	3.289 rad	114691697	1_1_2					
+Monster: Wickerlight Giant [Metadata/Monsters/Augury/SavageGiant@2]	693	700	6.038 rad	3411558828	1_1_2					
+Monster: Wickerlight Giant [Metadata/Monsters/Augury/SavageGiant@2]	706	711	0.295 rad	3411558828	1_1_2					
+Monster: Wickerlight Brute [Metadata/Monsters/Augury/SavageDagger@2]	711	694	5.375 rad	114691697	1_1_2					
+Monster: Wickerlight Brute [Metadata/Monsters/Augury/SavageDagger@2]	695	710	2.773 rad	114691697	1_1_2					
+Monster: Wickerlight Brute [Metadata/Monsters/Augury/SavageDagger@2]	703	692	5.743 rad	114691697	1_1_2					
+Monster: Wickerlight Hag [Metadata/Monsters/Augury/SavageWitch@2]	714	700	1.325 rad	3027270642	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeCoast@2]	332	726	0.344 rad	3660143649	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	344	725	3.166 rad	2459938753	1_1_2					
+Monster: Spider Crab [Metadata/Monsters/CrabMonsters/CrabSpiderCoast@2]	357	713	1.694 rad	2506069549	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	357	737	1.104 rad	2459938753	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemaleThrowFire@2]	425	740	4.884 rad	555523365	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	442	750	4.761 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	467	740	6.013 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	694	738	4.295 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	694	756	4.442 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	710	748	5.252 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	444	761	0.442 rad	748578266	1_1_2					
+Metadata/Chests/ProdWounded3	652	781	5.609 rad	1947217572	1_1_2					
+Metadata/Chests/Barrel3old	751	735	5.908 rad	3865749632	1_1_2					
+Metadata/Chests/Barrel5old	742	735	6.057 rad	2116127741	1_1_2					
+Metadata/Chests/Barrel3old	743	742	1.817 rad	3865749632	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	363	795	3.608 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	383	788	5.596 rad	748578266	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	739	826	3.682 rad	2459938753	1_1_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	528	606	4.547 rad	1418889786	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	528	606	5.871 rad	3875590990	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	516	612	0.000 rad	3875590990	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	532	607	5.725 rad	3875590990	1_1_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	132865	149760	0.008 rad	316014466	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	422	840	0.319 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	428	840	0.540 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	415	843	2.700 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	441	846	3.313 rad	1258344372	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeCoast@2]	758	833	4.074 rad	3660143649	1_1_2					
+Monster: Shore Crab [Metadata/Monsters/CrabMonsters/CrabNimbleCoast@2]	746	838	3.583 rad	1965029256	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	495	853	3.853 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	510	851	3.632 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	530	858	3.289 rad	1258344372	1_1_2					
+Monster: Shore Crab [Metadata/Monsters/CrabMonsters/CrabNimbleCoast@2]	661	869	3.534 rad	1965029256	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	667	868	5.694 rad	2459938753	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	688	863	4.516 rad	2459938753	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	763	629	4.418 rad	2459938753	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeCoast@2]	769	656	3.166 rad	3660143649	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumCoast@2]	760	662	4.688 rad	2597634092	1_1_2					
+Monster: Coconut Crab [Metadata/Monsters/CrabMonsters/CrabCoconutCoast@2]	775	653	0.761 rad	1993571493	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	552	613	4.354 rad	1713641240	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	555	615	4.527 rad	1713641240	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	638	890	1.448 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	658	887	4.761 rad	748578266	1_1_2					
+Monster: Coconut Crab [Metadata/Monsters/CrabMonsters/CrabCoconutCoast@2]	663	881	4.663 rad	1993571493	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumCoast@2]	671	890	3.338 rad	2597634092	1_1_2					
+Monster: Coconut Crab [Metadata/Monsters/CrabMonsters/CrabCoconutCoast@2]	801	619	3.313 rad	1993571493	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	790	667	2.528 rad	2459938753	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	792	775	3.166 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	798	770	5.105 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	797	776	5.596 rad	1258344372	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	823	597	0.319 rad	2459938753	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeCoast@2]	816	581	2.724 rad	3660143649	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	817	586	0.834 rad	2459938753	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	825	669	3.362 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	810	686	3.583 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	824	687	2.307 rad	1842267084	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	817	716	3.117 rad	1258344372	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	849	629	2.111 rad	2459938753	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	841	719	1.694 rad	1258344372	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMaleThrowFire@2]	630	909	2.062 rad	2592078767	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	624	912	3.510 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemaleThrowFire@2]	639	908	1.571 rad	555523365	1_1_2					
+Monster: Kelp Crab [Metadata/Monsters/CrabMonsters/CrabKelpCoast@2]	678	899	3.436 rad	1140060578	1_1_2					
+Monster: Shore Crab [Metadata/Monsters/CrabMonsters/CrabNimbleCoast@2]	853	632	4.025 rad	1965029256	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeCoast@2]	862	644	1.669 rad	3660143649	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	860	733	0.049 rad	1258344372	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	874	634	2.823 rad	1842267084	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	883	633	4.958 rad	2459938753	1_1_2					
+Object: Metadata/Effects/ServerEffect	635	691	0.000 rad	2646652649	1_1_2	48	-375.000			
+Object: Metadata/Effects/Spells/shatter/Shatter	636	681	2.159 rad	2647986052	1_1_2					
+Metadata/Monsters/LeagueAugury/SavageWitch/AugurySavageWitchEffigy	635	691	4.922 rad	3647127209	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	874	634	2.823 rad	1842267084	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	883	633	4.958 rad	2459938753	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	909	652	4.295 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	916	696	1.571 rad	748578266	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	686	650	4.249 rad	3875590990	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	933	716	2.307 rad	1842267084	1_1_2					
+Metadata/Chests/ProdWounded1	937	737	1.844 rad	3874165215	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemaleThrowFire@2]	445	751	3.879 rad	555523365	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	455	753	2.554 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	459	741	0.000 rad	748578266	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	441	846	3.313 rad	1258344372	1_1_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	685	647	0.405 rad	2647986052	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	433	736	6.005 rad	1842267084	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	422	840	0.319 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	428	840	0.540 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	415	843	2.700 rad	1258344372	1_1_2					
+Object: Metadata/Effects/ServerEffect	664	645	0.000 rad	2646652649	1_1_2	48	-375.000			
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	638	890	1.448 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	658	887	4.761 rad	748578266	1_1_2					
+Monster: Coconut Crab [Metadata/Monsters/CrabMonsters/CrabCoconutCoast@2]	663	881	4.663 rad	1993571493	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumCoast@2]	671	890	3.338 rad	2597634092	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMaleThrowFire@2]	630	909	2.062 rad	2592078767	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	624	912	3.510 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemaleThrowFire@2]	639	908	1.571 rad	555523365	1_1_2					
+Monster: Kelp Crab [Metadata/Monsters/CrabMonsters/CrabKelpCoast@2]	678	899	3.436 rad	1140060578	1_1_2					
+Metadata/Monsters/LeagueAugury/SavageWitch/AugurySavageWitchEffigy	664	645	5.590 rad	3647127209	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	689	927	1.055 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	686	941	4.467 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	694	934	3.043 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	874	634	2.823 rad	1842267084	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	883	633	4.958 rad	2459938753	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	664	1008	1.055 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	659	1002	1.104 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	656	990	4.811 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	909	652	4.295 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	916	696	1.571 rad	748578266	1_1_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	682	811	4.354 rad	2647986052	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	691	817	4.712 rad	1713641240	1_1_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	695	813	4.712 rad	2647986052	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	692	806	4.606 rad	3875590990	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	699	819	4.712 rad	1713641240	1_1_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	673	812	2.034 rad	2647986052	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	933	716	2.307 rad	1842267084	1_1_2					
+Metadata/Chests/ProdWounded1	937	737	1.844 rad	3874165215	1_1_2					
+Object: Metadata/Effects/ServerEffect	695	814	0.000 rad	2646652649	1_1_2	48	-375.000			
+Object: Metadata/MiscellaneousObjects/WorldItem	702	802	2.673 rad	1418889786	1_1_2					
+Metadata/Monsters/LeagueAugury/SavageWitch/AugurySavageWitchEffigy	695	814	3.339 rad	3647127209	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	495	853	3.853 rad	1258344372	1_1_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	720	755	3.011 rad	1418889786	1_1_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	706	738	6.118 rad	2647986052	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	710	718	3.485 rad	1713641240	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	731	736	5.820 rad	1713641240	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemaleThrowFire@2]	445	751	3.879 rad	555523365	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	455	753	2.554 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	459	741	0.000 rad	748578266	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	441	846	3.313 rad	1258344372	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	933	716	2.307 rad	1842267084	1_1_2					
+Metadata/Chests/ProdWounded1	937	737	1.844 rad	3874165215	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	612	921	3.463 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	620	920	3.241 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemaleThrowFire@2]	629	920	3.927 rad	555523365	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	685	934	3.874 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	688	923	2.761 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemaleThrowFire@2]	445	751	3.879 rad	555523365	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	455	753	2.554 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	459	741	0.000 rad	748578266	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	441	846	3.313 rad	1258344372	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	682	943	2.820 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	933	716	2.307 rad	1842267084	1_1_2					
+Metadata/Chests/ProdWounded1	937	737	1.844 rad	3874165215	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	664	1008	1.055 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	659	1002	1.104 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	656	990	4.811 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	664	1008	1.055 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	659	1002	1.104 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	656	990	4.811 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemaleThrowFire@2]	445	751	3.879 rad	555523365	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	455	753	2.554 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	459	741	0.000 rad	748578266	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	441	846	3.313 rad	1258344372	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	433	736	6.005 rad	1842267084	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	422	840	0.319 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	428	840	0.540 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	415	843	2.700 rad	1258344372	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeCoast@2]	815	574	5.498 rad	3660143649	1_1_2					
+Metadata/Effects/SleepableServerBeamEffect	654	675	0.000 rad	978925438	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	883	633	4.958 rad	2459938753	1_1_2					
+Monster: Shore Crab [Metadata/Monsters/CrabMonsters/CrabNimbleCoast@2]	874	629	1.081 rad	1965029256	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	883	633	4.958 rad	2459938753	1_1_2					
+Monster: Shore Crab [Metadata/Monsters/CrabMonsters/CrabNimbleCoast@2]	874	629	1.081 rad	1965029256	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	897	641	1.816 rad	1842267084	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	897	625	0.983 rad	2459938753	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeCoast@2]	898	632	5.093 rad	3660143649	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	909	652	4.295 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	916	696	1.571 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	433	736	6.005 rad	1842267084	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	422	840	0.319 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	428	840	0.540 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	415	843	2.700 rad	1258344372	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	613	905	0.464 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMaleThrowFire@2]	611	913	1.128 rad	2592078767	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	613	919	1.292 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	619	920	3.387 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemaleThrowFire@2]	624	922	4.712 rad	555523365	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	671	925	1.406 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	678	929	5.992 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	671	920	1.816 rad	1842267084	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	883	633	4.958 rad	2459938753	1_1_2					
+Monster: Shore Crab [Metadata/Monsters/CrabMonsters/CrabNimbleCoast@2]	874	629	1.081 rad	1965029256	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	664	1008	1.055 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	659	1002	1.104 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	656	990	4.811 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	897	641	1.816 rad	1842267084	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	897	625	0.983 rad	2459938753	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeCoast@2]	898	632	5.093 rad	3660143649	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	909	652	4.295 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	916	696	1.571 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	433	736	6.005 rad	1842267084	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	422	840	0.319 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	428	840	0.540 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	415	843	2.700 rad	1258344372	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	897	641	1.816 rad	1842267084	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	897	625	0.983 rad	2459938753	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeCoast@2]	898	632	5.093 rad	3660143649	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	909	652	4.295 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	916	696	1.571 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	933	716	2.307 rad	1842267084	1_1_2					
+Metadata/Chests/ProdWounded1	937	737	1.844 rad	3874165215	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	821	579	6.005 rad	2459938753	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeCoast@2]	831	580	6.012 rad	3660143649	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	854	585	3.927 rad	2459938753	1_1_2					
+Monster: Coconut Crab [Metadata/Monsters/CrabMonsters/CrabCoconutCoast@2]	856	580	5.378 rad	1993571493	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	983	535	5.645 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	967	523	3.976 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMaleThrowFire@2]	1002	509	5.890 rad	2592078767	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeCoast@2]	1053	734	4.172 rad	3660143649	1_1_2					
+Monster: Kelp Crab [Metadata/Monsters/CrabMonsters/CrabKelpCoast@2]	1049	715	1.473 rad	1140060578	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumCoast@2]	1043	737	2.356 rad	2597634092	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	998	489	2.233 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	996	504	0.663 rad	1842267084	1_1_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	841	719	0.160 rad	1418889786	1_1_2					
+Metadata/Chests/Cannibal6	1074	574	5.515 rad	4211009795	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	1060	721	5.817 rad	2459938753	1_1_2					
+Monster: Shore Crab [Metadata/Monsters/CrabMonsters/CrabNimbleCoast@2]	1071	734	4.418 rad	1965029256	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	1078	746	0.908 rad	2459938753	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	1095	564	4.369 rad	748578266	1_1_2					
+Metadata/Chests/Cannibal6	1082	579	4.974 rad	4211009795	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1103	721	4.786 rad	1258344372	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	998	489	2.233 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	996	504	0.663 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	1105	581	0.000 rad	1842267084	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumCoast@2]	1122	597	6.185 rad	2597634092	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	1125	630	4.467 rad	2459938753	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1105	708	2.675 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1106	718	2.724 rad	1258344372	1_1_2					
+Metadata/Chests/Barrel4old	1017	465	3.582 rad	2804926028	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	884	678	3.142 rad	3875590990	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	868	658	2.601 rad	1713641240	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	890	657	3.142 rad	1713641240	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	887	656	3.373 rad	1713641240	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1149	500	3.289 rad	1258344372	1_1_2					
+Metadata/Chests/Barrel5old	1139	549	4.524 rad	2116127741	1_1_2					
+Metadata/Chests/Barrel3old	1146	550	0.121 rad	3865749632	1_1_2					
+Metadata/Chests/Barrel3old	1148	545	2.288 rad	3865749632	1_1_2					
+Metadata/Chests/Barrel1old	1147	559	5.424 rad	1528648667	1_1_2					
+Metadata/Chests/Barrel3old	1137	589	4.483 rad	3865749632	1_1_2					
+Metadata/Chests/Barrel5old	1143	590	1.134 rad	2116127741	1_1_2					
+Metadata/Chests/Barrel1old	1142	585	2.778 rad	1528648667	1_1_2					
+Metadata/Chests/Barrel3old	1136	596	5.758 rad	3865749632	1_1_2					
+Monster: Fire Fury [Metadata/Monsters/Cannibal/CannibalFemaleBossWitch@2]	1135	583	5.149 rad	3090136476	1_1_2					
+Monster: Shore Crab [Metadata/Monsters/CrabMonsters/CrabNimbleCoast@2]	1130	601	0.074 rad	1965029256	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	1129	635	3.412 rad	2459938753	1_1_2					
+Monster: Coconut Crab [Metadata/Monsters/CrabMonsters/CrabCoconutCoast@2]	1132	641	5.547 rad	1993571493	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1137	785	0.270 rad	1258344372	1_1_2					
+Metadata/Terrain/Leagues/Augury/Objects/SavageWellWicker	654	652	1.342 rad	648910352	1_1_2					
+Metadata/Terrain/Leagues/Augury/Objects/AuguryCardObject	654	675	0.736 rad	3829842526	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	644	711	0.000 rad	748578266	1_1_2					
+Metadata/Chests/ProdWounded3	652	781	5.609 rad	1947217572	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	872	583	3.447 rad	1713641240	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	880	581	4.712 rad	1713641240	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	865	597	2.467 rad	1713641240	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	892	617	5.934 rad	3875590990	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	898	627	5.871 rad	3875590990	1_1_2					
+Metadata/Terrain/Leagues/Augury/Objects/SavageWellWicker	634	680	2.969 rad	648910352	1_1_2					
+Monster: Wickerlight Brute [Metadata/Monsters/Augury/SavageDagger@2]	634	672	3.017 rad	114691697	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	1105	581	0.000 rad	1842267084	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumCoast@2]	1122	597	6.185 rad	2597634092	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	1125	630	4.467 rad	2459938753	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1105	708	2.675 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1106	718	2.724 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1149	500	3.289 rad	1258344372	1_1_2					
+Metadata/Chests/Barrel5old	1139	549	4.524 rad	2116127741	1_1_2					
+Metadata/Chests/Barrel3old	1146	550	0.121 rad	3865749632	1_1_2					
+Metadata/Chests/Barrel3old	1148	545	2.288 rad	3865749632	1_1_2					
+Metadata/Chests/Barrel1old	1147	559	5.424 rad	1528648667	1_1_2					
+Metadata/Chests/Barrel3old	1137	589	4.483 rad	3865749632	1_1_2					
+Metadata/Chests/Barrel5old	1143	590	1.134 rad	2116127741	1_1_2					
+Metadata/Chests/Barrel1old	1142	585	2.778 rad	1528648667	1_1_2					
+Metadata/Chests/Barrel3old	1136	596	5.758 rad	3865749632	1_1_2					
+Monster: Fire Fury [Metadata/Monsters/Cannibal/CannibalFemaleBossWitch@2]	1135	583	5.149 rad	3090136476	1_1_2					
+Monster: Shore Crab [Metadata/Monsters/CrabMonsters/CrabNimbleCoast@2]	1130	601	0.074 rad	1965029256	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	1129	635	3.412 rad	2459938753	1_1_2					
+Monster: Coconut Crab [Metadata/Monsters/CrabMonsters/CrabCoconutCoast@2]	1132	641	5.547 rad	1993571493	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1162	492	2.184 rad	1258344372	1_1_2					
+Metadata/Chests/Cannibal1	1172	713	6.144 rad	233787956	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1184	488	2.847 rad	1258344372	1_1_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	241153	128000	2254720.000 rad	316014466	1_1_2					
+Monster: Drowned [Metadata/Monsters/ZombieDismember/ZombieDrowned2@2]	1215	674	4.982 rad	2129115118	1_1_2					
+Monster: Drowned [Metadata/Monsters/ZombieDismember/ZombieDrowned3@2]	1213	669	4.246 rad	376847429	1_1_2					
+Metadata/Chests/Barrel3old	743	742	1.817 rad	3865749632	1_1_2					
+Metadata/Chests/ProdWounded1	937	737	1.844 rad	3874165215	1_1_2					
+Monster: Kelp Crab [Metadata/Monsters/CrabMonsters/CrabKelpCoast@2]	1050	737	4.712 rad	1140060578	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	1050	741	2.747 rad	2459938753	1_1_2					
+Monster: Shore Crab [Metadata/Monsters/CrabMonsters/CrabNimbleCoast@2]	1062	740	4.533 rad	1965029256	1_1_2					
+Metadata/Terrain/Leagues/Augury/Objects/AuguryBossObject	1135	583	0.000 rad	1818787057	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	986	521	5.219 rad	3875590990	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	994	536	5.640 rad	3875590990	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	988	531	5.687 rad	3875590990	1_1_2					
+Monster: Drowned [Metadata/Monsters/ZombieDismember/ZombieDrowned1@2]	1220	656	5.130 rad	1142476727	1_1_2					
+Monster: Drowned [Metadata/Monsters/ZombieDismember/ZombieDrowned3@2]	1223	664	3.191 rad	376847429	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	798	770	5.105 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	786	776	5.847 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	796	775	5.498 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	854	762	3.605 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1152	771	4.148 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1162	781	1.350 rad	1258344372	1_1_2					
+Monster: Decaying Crow [Metadata/Monsters/Augury/RottenCrow@2]	1252	648	2.970 rad	2838156624	1_1_2					
+Monster: Drowned [Metadata/Monsters/ZombieDismember/ZombieDrowned2@2]	1242	702	1.595 rad	2129115118	1_1_2					
+Monster: Winged Monstrosity [Metadata/Monsters/Augury/ScarecrowBeast@2]	1270	662	1.154 rad	4251697792	1_1_2					
+Monster: Decaying Crow [Metadata/Monsters/Augury/RottenCrow@2]	1283	661	2.945 rad	2838156624	1_1_2					
+Monster: Decaying Crow [Metadata/Monsters/Augury/RottenCrow@2]	1265	646	1.104 rad	2838156624	1_1_2					
+Monster: Decaying Crow [Metadata/Monsters/Augury/RottenCrow@2]	1271	644	3.117 rad	2838156624	1_1_2					
+Metadata/Terrain/Leagues/Augury/Objects/SavageWellWicker	1274	654	0.741 rad	648910352	1_1_2					
+Monster: Decaying Crow [Metadata/Monsters/Augury/RottenCrow@2]	1270	682	4.418 rad	2838156624	1_1_2					
+Metadata/Terrain/Leagues/Augury/Objects/SavageWellWicker	1268	692	5.899 rad	648910352	1_1_2					
+Metadata/Terrain/Leagues/Augury/Objects/AuguryCardObject	1290	678	4.312 rad	3829842526	1_1_2					
+Metadata/Terrain/Leagues/Augury/Objects/SavageWellWicker	1309	699	4.958 rad	648910352	1_1_2					
+Monster: Decaying Crow [Metadata/Monsters/Augury/RottenCrow@2]	1292	722	1.669 rad	2838156624	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1137	785	0.270 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1137	785	0.270 rad	1258344372	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	1314	639	3.117 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	1314	623	3.093 rad	1842267084	1_1_2					
+Metadata/Terrain/Leagues/Augury/Objects/SavageWellWicker	1324	674	5.079 rad	648910352	1_1_2					
+Monster: Decaying Crow [Metadata/Monsters/Augury/RottenCrow@2]	1324	709	2.135 rad	2838156624	1_1_2					
+Monster: Decaying Crow [Metadata/Monsters/Augury/RottenCrow@2]	1330	703	6.259 rad	2838156624	1_1_2					
+Monster: Decaying Crow [Metadata/Monsters/Augury/RottenCrow@2]	1339	720	2.553 rad	2838156624	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1090	563	1.837 rad	3875590990	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1107	566	2.111 rad	3875590990	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	1106	571	1.249 rad	1713641240	1_1_2					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@2]	1142	585	1.669 rad	3923143429	1_1_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1133	572	0.559 rad	1418889786	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	1133	572	1.802 rad	1713641240	1_1_2					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@2]	1147	559	5.964 rad	3923143429	1_1_2					
+Monster: Daemon [Metadata/Monsters/Augury/Daemon/CrowBombDaemon@2]	1135	583	2.970 rad	3009394261	1_1_2					
+Metadata/Monsters/Daemon/Augury/CrowBombObject	1120	590	0.297 rad	577651047	1_1_2					
+Object: Metadata/Effects/ServerEffect	290561	149248	-0.005 rad	2646652649	1_1_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1154	581	0.369 rad	1418889786	1_1_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1157	579	4.252 rad	1418889786	1_1_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1153	581	2.556 rad	1418889786	1_1_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1153	581	3.527 rad	1418889786	1_1_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1153	581	3.902 rad	1418889786	1_1_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1154	581	2.550 rad	1418889786	1_1_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1154	586	3.091 rad	1418889786	1_1_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1154	581	5.149 rad	1418889786	1_1_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1154	581	1.032 rad	1418889786	1_1_2					
+Object: Metadata/Effects/ServerEffect	1120	590	0.000 rad	2646652649	1_1_2	48	-375.000			
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	885	604	1.571 rad	2459938753	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	885	656	3.349 rad	2459938753	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	890	711	4.957 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	953	506	5.431 rad	748578266	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeCoast@2]	1042	742	6.012 rad	3660143649	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	1048	745	3.142 rad	2459938753	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	1049	748	4.391 rad	2459938753	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumCoast@2]	1063	738	2.034 rad	2597634092	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1152	771	4.148 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1162	781	1.350 rad	1258344372	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1137	785	0.270 rad	1258344372	1_1_2					
+Metadata/Chests/ProdWounded1	937	737	1.844 rad	3874165215	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	953	506	5.431 rad	748578266	1_1_2					
+Metadata/Chests/ProdWounded1	937	737	1.844 rad	3874165215	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	885	604	1.571 rad	2459938753	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	885	656	3.349 rad	2459938753	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	890	711	4.957 rad	1842267084	1_1_2					
+Metadata/Chests/Barrel4old	1017	465	3.582 rad	2804926028	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1150	474	5.820 rad	1258344372	1_1_2					
+Metadata/Chests/ProdWounded1	937	737	1.844 rad	3874165215	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	1141	701	5.498 rad	1713641240	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1163	705	3.816 rad	3875590990	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterLarge	1165	699	2.034 rad	3875590990	1_1_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1135	732	0.025 rad	1418889786	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	1144	730	3.142 rad	1713641240	1_1_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1172	713	2.575 rad	1418889786	1_1_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1172	713	2.077 rad	1418889786	1_1_2					
+Metadata/Chests/Barrel4old	1017	465	3.582 rad	2804926028	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1150	474	5.820 rad	1258344372	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	1195	699	4.193 rad	1713641240	1_1_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	1171	707	0.049 rad	1418889786	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	1166	715	3.463 rad	1713641240	1_1_2					
+Object: Metadata/Effects/Spells/shatter/Shatter	1174	710	3.803 rad	2647986052	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	1163	713	4.446 rad	1713641240	1_1_2					
+Metadata/Chests/ProdWounded1	937	737	1.844 rad	3874165215	1_1_2					
+Metadata/Chests/Barrel4old	1017	465	3.582 rad	2804926028	1_1_2					
+Monster: Gravel Eater [Metadata/Monsters/SandSpitterEmerge/SandSpitterEmergeStandard@2]	1150	474	5.820 rad	1258344372	1_1_2					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1586	480	4.712 rad	726109394	1_1_2	18	-148.210	0	61641	The Tidal Island
+Object: Metadata/MiscellaneousObjects/Waypoint	1575	701	1.571 rad	552129418	1_1_2	2	-16.917			
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteSmallCoast_@2]	1089	566	1.571 rad	2459938753	1_1_2					
+Metadata/Chests/Cannibal6	1082	579	4.974 rad	4211009795	1_1_2					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1586	480	4.712 rad	726109394	1_1_2	18	-148.210	0	61641	The Tidal Island
+Object: Metadata/MiscellaneousObjects/Waypoint	1575	701	1.571 rad	552129418	1_1_2	2	-16.917			
+Object: Metadata/MiscellaneousObjects/WorldItem	1363	627	5.149 rad	1418889786	1_1_2					
+Metadata/Effects/Spells/shatter/ShatterSmall	1363	627	1.107 rad	1713641240	1_1_2					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1683	706	1.571 rad	726109394	1_1_2	15	-121.343	0	49149	The Mud Flats

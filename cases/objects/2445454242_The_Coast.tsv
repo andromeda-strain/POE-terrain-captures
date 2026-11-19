@@ -1,0 +1,14 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/Int/Int	1368	632	1.571 rad	2621544766	1_1_2					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1379	411	4.712 rad	726109394	1_1_2	18	-148.210	0	61641	The Tidal Island
+Object: Metadata/MiscellaneousObjects/Waypoint	1368	632	1.571 rad	552129418	1_1_2	2	-16.917			
+Object: Metadata/MiscellaneousObjects/AreaTransition	1476	637	1.571 rad	726109394	1_1_2	15	-121.343	0	49149	The Mud Flats
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemaleThrowFire@2]	1211	666	1.694 rad	555523365	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalMale@2]	1198	671	4.541 rad	748578266	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	1198	697	2.013 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	1213	691	1.988 rad	1842267084	1_1_2					
+Monster: Cannibal [Metadata/Monsters/Cannibal/CannibalFemale@2]	1137	738	3.878 rad	1842267084	1_1_2					
+Metadata/NPC/Info/Karui/Stone1	1255	749	0.000 rad	156494791	1_1_2	24	-187.500			
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteLargeCoast@2]	1133	815	1.154 rad	3660143649	1_1_2					
+Monster: Savage Crab [Metadata/Monsters/CrabParasite/CrabParasiteMediumCoast@2]	1147	823	2.970 rad	2597634092	1_1_2					
+Monster: Coconut Crab [Metadata/Monsters/CrabMonsters/CrabCoconutCoast@2]	1128	826	1.890 rad	1993571493	1_1_2					

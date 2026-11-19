@@ -1,0 +1,1762 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/Int/Int	1078	274	4.625 rad	2621544766	1_2_11					
+Metadata/Chests/Barrel3old	851	133	0.201 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel3old	862	133	5.786 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel4old	867	133	5.552 rad	2804926028	1_2_11					
+Metadata/Chests/Barrel4old	872	133	3.893 rad	2804926028	1_2_11					
+Metadata/Chests/Barrel3old	857	133	1.958 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel1old	877	133	2.863 rad	1528648667	1_2_11					
+Metadata/Chests/Chest6	901	147	3.142 rad	2224233642	1_2_11					
+Metadata/Chests/Pot4v2	946	204	4.564 rad	2954886560	1_2_11					
+Metadata/Chests/BonePile1	924	222	3.142 rad	219800169	1_2_11					
+Metadata/Chests/Pot4v2	961	223	3.586 rad	2954886560	1_2_11					
+Metadata/Chests/Pot3	946	209	4.154 rad	2356047353	1_2_11					
+Metadata/Chests/Pot3	960	226	2.207 rad	2356047353	1_2_11					
+Metadata/Chests/Pot4v2	945	212	3.353 rad	2954886560	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1094	221	3.142 rad	3094797593	1_2_11	70	-548.954			
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	954	264	1.571 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	958	275	1.571 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	950	253	1.571 rad	1130306758	1_2_11	24	-189.671			
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@28]	1078	274	1.424 rad	3609667123	1_2_11					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@28]	1078	274	2.184 rad	3609667123	1_2_11					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@28]	1078	274	1.154 rad	3609667123	1_2_11					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@28]	1078	274	2.749 rad	3609667123	1_2_11					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@28]	1078	274	3.608 rad	3609667123	1_2_11					
+Object: Metadata/MiscellaneousObjects/AreaTransition	1096	275	0.000 rad	726109394	1_2_11	59	-468.695	0	20334	The Wetlands
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1054	304	3.142 rad	1259749696	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	844	236	3.142 rad	1259749696	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	854	265	5.351 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	860	266	3.338 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	868	256	3.338 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	877	258	4.491 rad	3129808861	1_2_11					
+Metadata/Chests/Pot4v2	964	503	0.030 rad	2954886560	1_2_11					
+Metadata/Chests/Pot4v1	970	501	4.980 rad	1060404135	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1054	304	3.142 rad	1208694913	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	888	520	1.571 rad	1259749696	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	915	528	0.810 rad	3753231993	1_2_11					
+Metadata/Chests/Pot4v1	967	506	6.066 rad	1060404135	1_2_11					
+Metadata/Chests/Pot1	966	513	3.424 rad	1878789778	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1003	511	4.712 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	992	511	4.712 rad	3094797593	1_2_11	13	-104.234			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1089	511	1.571 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1100	511	1.571 rad	3094797593	1_2_11	13	-104.234			
+Metadata/Chests/Barrel5old	1120	514	2.885 rad	2116127741	1_2_11					
+Metadata/Chests/Barrel3old	1125	513	3.874 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel2old	1123	508	4.115 rad	3707287636	1_2_11					
+Metadata/Chests/Barrel3old	1130	511	4.464 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel3old	1130	506	3.388 rad	3865749632	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	789	291	3.142 rad	1259749696	1_2_11					
+Metadata/Chests/Pot3	800	351	3.142 rad	2356047353	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	767	252	1.031 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	779	248	0.957 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	774	252	4.344 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	761	261	4.148 rad	3753231993	1_2_11					
+Metadata/Chests/Pot4v2	769	278	3.142 rad	2954886560	1_2_11					
+Metadata/Chests/BonePile1	775	293	3.142 rad	219800169	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	760	308	3.657 rad	216515353	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	761	331	5.792 rad	1161705204	1_2_11					
+Object: Metadata/Chests/Sarcophagi/sarcophagus	771	334	3.142 rad	1652333390	1_2_11	0	0.000			
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	754	320	2.037 rad	1161705204	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	747	327	3.093 rad	216515353	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	751	340	5.277 rad	1161705204	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	749	520	3.142 rad	3094797593	1_2_11	22	-173.954			
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	728	147	2.528 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	729	164	4.982 rad	216515353	1_2_11					
+Object: Metadata/Chests/Sarcophagi/sarcophagus	723	173	4.712 rad	1652333390	1_2_11	0	0.000			
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	735	323	3.878 rad	216515353	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	733	334	2.921 rad	1161705204	1_2_11					
+Metadata/Chests/Chest4	708	384	3.142 rad	1679736977	1_2_11					
+Metadata/Chests/Pot2v1	667	133	5.327 rad	252085906	1_2_11					
+Metadata/Chests/Pot3	670	135	3.882 rad	2356047353	1_2_11					
+Metadata/Chests/Pot4v2	667	138	0.516 rad	2954886560	1_2_11					
+Metadata/Chests/Pot1	670	143	5.254 rad	1878789778	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	678	264	1.571 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	682	253	1.571 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	674	275	1.571 rad	1130306758	1_2_11	24	-189.671			
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	896	238	5.764 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	913	270	3.121 rad	1418889786	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	896	238	5.764 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	896	238	5.764 rad	4069290382	1_2_11					
+Metadata/Chests/Pot4v2	664	135	0.059 rad	2954886560	1_2_11					
+Metadata/Chests/Pot4v1	664	132	2.916 rad	1060404135	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	644	163	1.276 rad	216515353	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	894	264	2.704 rad	1418889786	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	658	340	3.412 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	657	352	5.719 rad	3129808861	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	896	269	1.942 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	844	236	3.142 rad	1208694913	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	637	163	4.344 rad	216515353	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	629	201	1.571 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	640	201	1.571 rad	3094797593	1_2_11	13	-104.234			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	629	235	1.571 rad	3094797593	1_2_11	-2	19.219			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	640	235	1.571 rad	3094797593	1_2_11	-2	20.766			
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	636	338	0.270 rad	3129808861	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	620	170	1.325 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	619	175	3.657 rad	216515353	1_2_11					
+Metadata/Chests/Chest3	616	394	6.283 rad	3172158140	1_2_11					
+Metadata/Chests/Pot4v2	964	503	0.030 rad	2954886560	1_2_11					
+Metadata/Chests/Pot4v1	970	501	4.980 rad	1060404135	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	583	143	1.571 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	594	143	1.571 rad	3094797593	1_2_11	13	-104.234			
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	586	264	4.712 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	582	253	4.712 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	590	275	4.712 rad	1130306758	1_2_11	24	-189.671			
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	811	271	4.193 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	811	270	4.307 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	789	291	3.142 rad	1208694913	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	553	251	3.142 rad	1259749696	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	553	297	5.964 rad	3129808861	1_2_11					
+Metadata/Chests/Pot2v2	556	488	3.142 rad	3943222399	1_2_11					
+Metadata/Chests/Pot2v1	531	155	4.708 rad	252085906	1_2_11					
+Metadata/Chests/Pot3	534	155	1.833 rad	2356047353	1_2_11					
+Metadata/Chests/Pot3	537	155	2.211 rad	2356047353	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	537	201	1.571 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	548	201	1.571 rad	3094797593	1_2_11	13	-104.234			
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	539	296	5.817 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	541	288	1.301 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	534	300	2.307 rad	3129808861	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	535	461	5.424 rad	3753231993	1_2_11					
+Metadata/Chests/Pot2v2	528	155	2.891 rad	3943222399	1_2_11					
+Metadata/Chests/Pot1	525	154	4.088 rad	1878789778	1_2_11					
+Metadata/Chests/Pot4v2	525	238	3.142 rad	2954886560	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	517	301	5.105 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	518	432	5.719 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	509	441	4.467 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	517	452	1.767 rad	3129808861	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	520	469	1.718 rad	3753231993	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	734	271	4.712 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	734	273	4.467 rad	4069290382	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	490	172	1.571 rad	1130306758	1_2_11	24	-190.485			
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	494	184	1.571 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	497	195	1.571 rad	1130306758	1_2_11	24	-190.514			
+Metadata/Chests/Pot2v2	486	326	4.712 rad	3943222399	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	484	363	4.418 rad	3753231993	1_2_11					
+Metadata/Chests/Barrel3old	462	202	1.334 rad	3865749632	1_2_11					
+Metadata/Chests/Pot3	463	269	3.188 rad	2356047353	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	479	338	5.277 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	474	352	4.786 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	480	354	6.062 rad	3753231993	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	461	369	4.712 rad	1259749696	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	473	424	0.000 rad	1259749696	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	474	457	2.381 rad	1366898242	1_2_11					
+Metadata/Chests/Barrel2old	452	201	1.853 rad	3707287636	1_2_11					
+Metadata/Chests/Barrel3old	457	202	3.763 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel1old	447	200	3.648 rad	1528648667	1_2_11					
+Metadata/Chests/Barrel3old	448	206	0.589 rad	3865749632	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	438	201	1.890 rad	3753231993	1_2_11					
+Metadata/Chests/Barrel4old	453	207	4.249 rad	2804926028	1_2_11					
+Metadata/Chests/Pot2v1	439	241	1.571 rad	252085906	1_2_11					
+Metadata/Chests/Barrel5old	442	249	0.453 rad	2116127741	1_2_11					
+Metadata/Chests/Barrel4old	443	243	0.621 rad	2804926028	1_2_11					
+Metadata/Chests/Barrel3old	437	249	4.731 rad	3865749632	1_2_11					
+Metadata/Chests/Pot3	445	266	1.571 rad	2356047353	1_2_11					
+Metadata/Chests/Barrel3old	441	254	1.683 rad	3865749632	1_2_11					
+Metadata/Chests/Pot4v2	451	268	4.221 rad	2954886560	1_2_11					
+Metadata/Chests/Pot4v1	454	269	5.796 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v1	453	273	4.602 rad	252085906	1_2_11					
+Metadata/Chests/Pot3	448	268	4.281 rad	2356047353	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	440	271	4.099 rad	1449870949	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	448	310	0.000 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	459	306	0.000 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	437	314	0.000 rad	1130306758	1_2_11	24	-189.671			
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	450	463	3.068 rad	1366898242	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	434	169	0.049 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	431	190	4.001 rad	3753231993	1_2_11					
+Metadata/Chests/Barrel2old	434	254	1.625 rad	3707287636	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	424	254	0.884 rad	1449870949	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	418	261	4.001 rad	1449870949	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	416	280	4.614 rad	1449870949	1_2_11					
+Metadata/Chests/Pot2v2	416	325	4.712 rad	3943222399	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	426	341	2.283 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	418	351	2.626 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	426	471	0.000 rad	1259749696	1_2_11					
+Metadata/Chests/Pot2v1	407	152	1.571 rad	252085906	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	403	230	1.571 rad	1259749696	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	407	261	6.185 rad	1449870949	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	396	344	3.976 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	408	342	0.834 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	402	344	1.571 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	405	333	1.571 rad	1130306758	1_2_11	24	-190.514			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	398	356	1.571 rad	1130306758	1_2_11	24	-190.485			
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	376	218	2.675 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	382	208	3.240 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	369	277	4.393 rad	1366898242	1_2_11					
+Metadata/Chests/Chest8old	385	323	2.880 rad	2399007008	1_2_11					
+Metadata/Chests/BonePile1	382	401	4.712 rad	219800169	1_2_11					
+Monster: Flame Salvager [Metadata/Monsters/VaalMonsters/Golems/GolemFire@20]	383	422	6.234 rad	2062205779	1_2_11					
+Monster: Daemon [Metadata/Monsters/VaalMonsters/Golems/Daemon/DaemonFireBeam@20]	383	422	1.595 rad	670827656	1_2_11					
+Monster: Flame Salvager [Metadata/Monsters/VaalMonsters/Golems/GolemFire@20]	379	443	5.890 rad	2062205779	1_2_11					
+Monster: Flame Salvager [Metadata/Monsters/VaalMonsters/Golems/GolemFire@20]	373	444	5.866 rad	2062205779	1_2_11					
+Monster: Flame Salvager [Metadata/Monsters/VaalMonsters/Golems/GolemFire@20]	381	451	1.743 rad	2062205779	1_2_11					
+Monster: Daemon [Metadata/Monsters/VaalMonsters/Golems/Daemon/DaemonFireBeam@20]	379	443	5.203 rad	670827656	1_2_11					
+Monster: Daemon [Metadata/Monsters/VaalMonsters/Golems/Daemon/DaemonFireBeam@20]	373	444	4.590 rad	670827656	1_2_11					
+Monster: Daemon [Metadata/Monsters/VaalMonsters/Golems/Daemon/DaemonFireBeam@20]	381	451	0.147 rad	670827656	1_2_11					
+Monster: Flame Salvager [Metadata/Monsters/VaalMonsters/Golems/GolemFire@20]	385	461	1.522 rad	2062205779	1_2_11					
+Monster: Daemon [Metadata/Monsters/VaalMonsters/Golems/Daemon/DaemonFireBeam@20]	385	461	3.706 rad	670827656	1_2_11					
+Metadata/Chests/Pot2v2	382	488	0.803 rad	3943222399	1_2_11					
+Metadata/Chests/Pot2v2	388	488	5.242 rad	3943222399	1_2_11					
+Metadata/Chests/Pot4v2	376	488	2.263 rad	2954886560	1_2_11					
+Metadata/Chests/Pot4v2	385	488	0.934 rad	2954886560	1_2_11					
+Metadata/Chests/Pot2v2	379	488	1.451 rad	3943222399	1_2_11					
+Metadata/Chests/Barrel3old	349	182	0.809 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel4old	349	187	5.039 rad	2804926028	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	357	262	2.773 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	358	365	1.571 rad	1259749696	1_2_11					
+Monster: Flame Salvager [Metadata/Monsters/VaalMonsters/Golems/GolemFire@20]	365	433	5.498 rad	2062205779	1_2_11					
+Monster: Daemon [Metadata/Monsters/VaalMonsters/Golems/Daemon/DaemonFireBeam@20]	365	433	4.639 rad	670827656	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	358	459	1.571 rad	1259749696	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	590	267	0.000 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	590	267	0.000 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	553	251	3.142 rad	1208694913	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	342	160	1.571 rad	1259749696	1_2_11					
+Metadata/Chests/Barrel4old	339	183	3.397 rad	2804926028	1_2_11					
+Metadata/Chests/Barrel4old	344	183	1.800 rad	2804926028	1_2_11					
+Metadata/Chests/Barrel3old	344	188	4.126 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel1old	335	188	1.003 rad	1528648667	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	342	276	1.571 rad	1259749696	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	306	401	0.834 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	305	418	5.203 rad	3753231993	1_2_11					
+Metadata/Chests/Pot4v1	304	473	4.825 rad	1060404135	1_2_11					
+Metadata/Chests/Pot4v1	304	478	3.499 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v2	304	481	3.529 rad	3943222399	1_2_11					
+Metadata/Chests/Pot4v2	301	473	3.716 rad	2954886560	1_2_11					
+Metadata/Chests/Pot2v1	302	470	3.780 rad	252085906	1_2_11					
+Metadata/Chests/Pot4v2	304	484	1.501 rad	2954886560	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	284	389	1.571 rad	1259749696	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	279	459	2.749 rad	3129808861	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	287	490	3.142 rad	1130306758	1_2_11	24	-190.485			
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	518	269	3.836 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	517	268	4.018 rad	4069290382	1_2_11					
+Object: Metadata/Chests/Sarcophagi/sarcophagus	265	424	1.571 rad	1652333390	1_2_11	0	0.000			
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	263	455	6.136 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	271	472	5.817 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	257	477	2.086 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	262	504	5.228 rad	3129808861	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	275	494	3.142 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	264	497	3.142 rad	1130306758	1_2_11	24	-190.514			
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	271	516	0.712 rad	3129808861	1_2_11					
+Metadata/Chests/Barrel3old	389	524	2.563 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel3old	394	524	0.608 rad	3865749632	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	447	515	4.099 rad	3129808861	1_2_11					
+Metadata/Chests/Pot1	707	527	5.980 rad	1878789778	1_2_11					
+Metadata/Chests/Pot3	707	523	1.920 rad	2356047353	1_2_11					
+Metadata/Chests/Pot4v1	710	523	0.940 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v2	710	526	3.923 rad	3943222399	1_2_11					
+Metadata/Chests/Pot3	713	523	2.500 rad	2356047353	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	235	405	0.000 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	235	394	0.000 rad	3094797593	1_2_11	13	-104.234			
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	246	522	5.424 rad	3129808861	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	453	273	0.227 rad	1418889786	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	462	279	5.117 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	461	284	4.467 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	461	284	4.467 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	442	287	5.878 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	445	286	0.000 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	425	243	5.567 rad	1418889786	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	438	291	5.117 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	437	292	4.957 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	437	291	5.071 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	437	292	4.957 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	446	302	3.017 rad	4069290382	1_2_11					
+Metadata/Chests/Barrel2old	389	529	4.257 rad	3707287636	1_2_11					
+Metadata/Chests/Barrel3old	370	531	0.689 rad	3865749632	1_2_11					
+Metadata/Chests/Chest3	432	534	4.712 rad	3172158140	1_2_11					
+Metadata/Chests/Pot2v2	431	547	4.712 rad	3943222399	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	448	536	4.884 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	438	538	1.497 rad	3129808861	1_2_11					
+Metadata/Chests/Barrel3old	551	534	5.699 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel5old	553	539	2.095 rad	2116127741	1_2_11					
+Metadata/Chests/Barrel1old	556	534	4.378 rad	1528648667	1_2_11					
+Metadata/Chests/Barrel3old	553	544	5.883 rad	3865749632	1_2_11					
+Metadata/Chests/Pot4v2	638	546	3.616 rad	2954886560	1_2_11					
+Metadata/Chests/Pot4v1	641	546	4.391 rad	1060404135	1_2_11					
+Metadata/Chests/Pot4v2	638	549	0.169 rad	2954886560	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	630	543	3.142 rad	3094797593	1_2_11	22	-173.954			
+Metadata/Chests/Pot4v2	644	546	4.882 rad	2954886560	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	450	327	2.923 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	448	323	3.142 rad	4069290382	1_2_11					
+Metadata/Chests/Pot2v1	346	571	4.712 rad	252085906	1_2_11					
+Metadata/Chests/Chest4	464	571	4.712 rad	1679736977	1_2_11					
+Metadata/Chests/BonePile1	554	554	4.712 rad	219800169	1_2_11					
+Metadata/Chests/Pot4v1	638	552	0.658 rad	1060404135	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	472	349	1.350 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	470	352	1.031 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	467	332	6.062 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	466	327	1.448 rad	3092391425	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	448	312	5.192 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	450	320	4.750 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	455	319	1.075 rad	1418889786	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	466	344	4.565 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	463	341	4.246 rad	3092391425	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	461	369	4.712 rad	1208694913	1_2_11					
+Metadata/Chests/Pot4v2	339	578	4.712 rad	2954886560	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	360	590	6.185 rad	216515353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	411	584	0.000 rad	3007162884	1_2_11	22	-178.684			
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	492	577	4.712 rad	3007162884	1_2_11	22	-178.684			
+Object: Metadata/MiscellaneousObjects/WorldItem	433	326	1.290 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	459	337	3.097 rad	1418889786	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	452	366	1.571 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	452	366	1.571 rad	4069290382	1_2_11					
+Metadata/Chests/Pot2v2	346	599	4.712 rad	3943222399	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	365	612	3.682 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	389	614	0.098 rad	216515353	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	457	615	3.338 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	455	608	2.823 rad	1161705204	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	449	609	4.712 rad	1259749696	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	465	619	1.178 rad	1161705204	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	630	600	4.712 rad	3007162884	1_2_11	22	-178.684			
+Metadata/Chests/Pot4v2	664	135	0.059 rad	2954886560	1_2_11					
+Metadata/Chests/Pot4v1	664	132	2.916 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v1	667	133	5.327 rad	252085906	1_2_11					
+Metadata/Chests/Pot3	670	135	3.882 rad	2356047353	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	438	349	0.124 rad	4069290382	1_2_11					
+Metadata/Chests/Pot4v2	339	578	4.712 rad	2954886560	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	360	590	6.185 rad	216515353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	411	584	0.000 rad	3007162884	1_2_11	22	-178.684			
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	492	577	4.712 rad	3007162884	1_2_11	22	-178.684			
+Metadata/Chests/Pot2v2	346	599	4.712 rad	3943222399	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	365	612	3.682 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	389	614	0.098 rad	216515353	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	457	615	3.338 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	455	608	2.823 rad	1161705204	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	449	609	4.712 rad	1259749696	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	465	619	1.178 rad	1161705204	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	630	600	4.712 rad	3007162884	1_2_11	22	-178.684			
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	455	631	3.878 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	463	624	5.277 rad	1161705204	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	586	632	1.571 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	590	643	1.571 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	582	621	1.571 rad	1130306758	1_2_11	24	-189.671			
+Metadata/Chests/Chest8old	318	647	4.712 rad	2399007008	1_2_11					
+Metadata/Chests/Pot4v1	333	648	4.712 rad	1060404135	1_2_11					
+Metadata/Chests/Basket3old	344	648	5.591 rad	3468315289	1_2_11					
+Metadata/Chests/Basket1old	339	644	0.781 rad	2211595643	1_2_11					
+Metadata/Chests/Basket2old	349	649	5.410 rad	866946829	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	354	664	4.712 rad	3007162884	1_2_11	22	-178.684			
+Object: Metadata/Chests/Sarcophagi/sarcophagus	518	654	1.571 rad	1652333390	1_2_11	0	0.000			
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	542	664	1.571 rad	3007162884	1_2_11	22	-178.684			
+Metadata/Chests/Pot4v1	637	663	4.245 rad	1060404135	1_2_11					
+Metadata/Chests/Pot3	638	666	0.120 rad	2356047353	1_2_11					
+Metadata/Chests/Pot4v2	644	666	0.546 rad	2954886560	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	678	264	1.571 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	682	253	1.571 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	674	275	1.571 rad	1130306758	1_2_11	24	-189.671			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	473	424	0.000 rad	1208694913	1_2_11					
+Metadata/Chests/Pot4v2	638	669	2.165 rad	2954886560	1_2_11					
+Metadata/Chests/Pot1	638	673	2.661 rad	1878789778	1_2_11					
+Metadata/Chests/Pot2v1	639	678	3.101 rad	252085906	1_2_11					
+Metadata/Chests/Pot4v1	652	673	1.125 rad	1060404135	1_2_11					
+Metadata/Chests/Pot1	659	685	4.177 rad	1878789778	1_2_11					
+Metadata/Chests/Pot1	658	680	2.609 rad	1878789778	1_2_11					
+Metadata/Chests/Pot3	661	682	4.479 rad	2356047353	1_2_11					
+Metadata/Chests/Pot3	661	679	3.190 rad	2356047353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	426	471	0.000 rad	1208694913	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	444	466	2.783 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	448	462	2.090 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	444	466	2.783 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	446	432	1.272 rad	1418889786	1_2_11					
+Metadata/Chests/Chest4	708	384	3.142 rad	1679736977	1_2_11					
+Metadata/Chests/Pot1	707	527	5.980 rad	1878789778	1_2_11					
+Metadata/Chests/Pot3	707	523	1.920 rad	2356047353	1_2_11					
+Metadata/Chests/Pot4v1	710	523	0.940 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v2	710	526	3.923 rad	3943222399	1_2_11					
+Metadata/Chests/Pot1	706	531	2.124 rad	1878789778	1_2_11					
+Metadata/Chests/Basket3old	707	689	1.470 rad	3468315289	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	726	293	5.202 rad	216515353	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	735	329	6.211 rad	1161705204	1_2_11					
+Metadata/Chests/Pot3	713	523	2.500 rad	2356047353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	725	652	4.712 rad	1259749696	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	732	686	1.080 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	729	677	5.571 rad	1161705204	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	626	704	0.000 rad	3094797593	1_2_11	29	-230.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	626	693	0.000 rad	3094797593	1_2_11	29	-229.234			
+Metadata/Chests/Basket2old	703	697	4.916 rad	866946829	1_2_11					
+Metadata/Chests/Basket1old	702	692	5.748 rad	2211595643	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	727	695	2.111 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	725	705	0.442 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	719	696	5.645 rad	1161705204	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	757	289	5.057 rad	216515353	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	743	293	3.744 rad	4069290382	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	742	302	6.076 rad	216515353	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	741	331	0.400 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	757	333	5.820 rad	1161705204	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	749	520	3.142 rad	3094797593	1_2_11	22	-173.954			
+Metadata/Chests/Pot4v1	742	531	4.712 rad	1060404135	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	756	607	0.000 rad	3007162884	1_2_11	38	-303.684			
+Object: Metadata/Chests/Sarcophagi/sarcophagus	265	424	1.571 rad	1652333390	1_2_11	0	0.000			
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	255	454	4.837 rad	3129808861	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	273	456	3.994 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	275	450	5.300 rad	3753231993	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	266	479	3.762 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	257	477	2.086 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	273	463	4.181 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	262	504	5.228 rad	3129808861	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	275	494	3.142 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	264	497	3.142 rad	1130306758	1_2_11	24	-190.514			
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	271	516	0.712 rad	3129808861	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	428	447	0.498 rad	1418889786	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	235	405	0.000 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	235	394	0.000 rad	3094797593	1_2_11	13	-104.234			
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	246	522	5.424 rad	3129808861	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	343	733	2.994 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	357	726	4.663 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	373	727	5.179 rad	1161705204	1_2_11					
+Metadata/Chests/Basket2old	456	735	1.949 rad	866946829	1_2_11					
+Metadata/Chests/Basket1old	461	735	3.496 rad	2211595643	1_2_11					
+Metadata/Chests/Basket2old	465	715	3.748 rad	866946829	1_2_11					
+Metadata/Chests/Basket1old	470	715	4.173 rad	2211595643	1_2_11					
+Metadata/Chests/Basket3old	462	720	5.350 rad	3468315289	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	451	453	6.273 rad	1418889786	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	363	740	0.442 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	353	737	0.884 rad	1161705204	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	445	753	1.571 rad	3094797593	1_2_11	-2	19.219			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	456	753	1.571 rad	3094797593	1_2_11	-2	20.766			
+Metadata/Chests/Basket2old	460	740	2.427 rad	866946829	1_2_11					
+Metadata/Chests/Basket2old	465	740	1.509 rad	866946829	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	675	753	1.571 rad	3094797593	1_2_11	29	-230.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	686	753	1.571 rad	3094797593	1_2_11	29	-229.234			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	449	609	4.712 rad	1208694913	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	454	612	3.387 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	454	612	3.387 rad	4069290382	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	266	479	3.762 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	257	477	2.086 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	273	463	4.181 rad	3129808861	1_2_11					
+Metadata/Chests/Pot4v1	304	473	4.825 rad	1060404135	1_2_11					
+Metadata/Chests/Pot4v1	304	478	3.499 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v2	304	481	3.529 rad	3943222399	1_2_11					
+Metadata/Chests/Pot4v2	301	473	3.716 rad	2954886560	1_2_11					
+Metadata/Chests/Pot2v1	302	470	3.780 rad	252085906	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	426	471	0.000 rad	1208694913	1_2_11					
+Monster: Flame Salvager [Metadata/Monsters/VaalMonsters/Golems/GolemFire@20]	431	461	1.292 rad	2062205779	1_2_11					
+Monster: Flame Salvager [Metadata/Monsters/VaalMonsters/Golems/GolemFire@20]	423	479	5.914 rad	2062205779	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	426	471	0.000 rad	1259749696	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	502	463	4.467 rad	3129808861	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	498	461	5.323 rad	3753231993	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	504	464	2.467 rad	3129808861	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	498	467	0.785 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	494	467	1.107 rad	4069290382	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	255	454	4.837 rad	3129808861	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	273	456	3.994 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	275	450	5.300 rad	3753231993	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	358	459	1.571 rad	1259749696	1_2_11					
+Monster: Flame Salvager [Metadata/Monsters/VaalMonsters/Golems/GolemFire@20]	402	449	1.612 rad	2062205779	1_2_11					
+Monster: Flame Salvager [Metadata/Monsters/VaalMonsters/Golems/GolemFire@20]	406	447	1.906 rad	2062205779	1_2_11					
+Monster: Daemon [Metadata/Monsters/VaalMonsters/Golems/Daemon/DaemonFireBeam@20]	402	449	3.706 rad	670827656	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	428	447	0.498 rad	1418889786	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	428	447	0.278 rad	3129808861	1_2_11					
+Monster: Flame Salvager [Metadata/Monsters/VaalMonsters/Golems/GolemFire@20]	418	450	1.434 rad	2062205779	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	453	453	0.675 rad	3129808861	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	454	452	4.894 rad	3753231993	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	451	453	6.273 rad	1418889786	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	451	453	1.571 rad	3129808861	1_2_11					
+Object: Metadata/Chests/Sarcophagi/sarcophagus	265	424	1.571 rad	1652333390	1_2_11	0	0.000			
+Monster: Flame Salvager [Metadata/Monsters/VaalMonsters/Golems/GolemFire@20]	393	419	0.153 rad	2062205779	1_2_11					
+Monster: Daemon [Metadata/Monsters/VaalMonsters/Golems/Daemon/DaemonFireBeam@20]	393	419	2.567 rad	670827656	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	446	432	0.405 rad	3129808861	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	473	424	0.000 rad	1208694913	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	473	424	0.000 rad	1259749696	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	464	714	3.791 rad	1418889786	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	235	405	0.000 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	235	394	0.000 rad	3094797593	1_2_11	13	-104.234			
+Metadata/Chests/BonePile1	382	401	4.712 rad	219800169	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	439	400	6.159 rad	1366898242	1_2_11					
+Metadata/Chests/Chest3	616	394	6.283 rad	3172158140	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	643	391	3.927 rad	3129808861	1_2_11					
+Metadata/Chests/Pot1	707	527	5.980 rad	1878789778	1_2_11					
+Metadata/Chests/Pot3	707	523	1.920 rad	2356047353	1_2_11					
+Metadata/Chests/Pot4v1	710	523	0.940 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v2	710	526	3.923 rad	3943222399	1_2_11					
+Metadata/Chests/Pot1	706	531	2.124 rad	1878789778	1_2_11					
+Metadata/Chests/Basket3old	707	689	1.470 rad	3468315289	1_2_11					
+Metadata/Chests/Basket2old	703	697	4.916 rad	866946829	1_2_11					
+Metadata/Chests/Basket1old	702	692	5.748 rad	2211595643	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	284	389	1.571 rad	1259749696	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	440	381	0.000 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	461	369	4.712 rad	1208694913	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	461	369	4.712 rad	1259749696	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	652	382	2.356 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	655	371	2.034 rad	3129808861	1_2_11					
+Metadata/Chests/Chest4	708	384	3.142 rad	1679736977	1_2_11					
+Metadata/Chests/Pot3	713	523	2.500 rad	2356047353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	725	652	4.712 rad	1259749696	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	732	686	1.080 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	729	677	5.571 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	727	695	2.111 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	725	705	0.442 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	719	696	5.645 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	714	720	3.731 rad	1161705204	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	749	520	3.142 rad	3094797593	1_2_11	22	-173.954			
+Metadata/Chests/Pot4v1	742	531	4.712 rad	1060404135	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	756	607	0.000 rad	3007162884	1_2_11	38	-303.684			
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	804	584	0.000 rad	1012101947	1_2_11	0	0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	795	587	0.000 rad	1130306758	1_2_11	24	-190.547			
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	800	629	0.908 rad	1161705204	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	436	629	4.916 rad	1418889786	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	813	538	4.712 rad	3094797593	1_2_11	22	-173.954			
+Metadata/Chests/Pot1	810	557	4.712 rad	1878789778	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	814	580	0.000 rad	1130306758	1_2_11	24	-190.345			
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	808	610	0.123 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	806	629	1.276 rad	1161705204	1_2_11					
+Metadata/Chests/Basket2old	869	593	1.795 rad	866946829	1_2_11					
+Metadata/Chests/Basket1old	869	598	2.700 rad	2211595643	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	862	724	1.571 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	866	713	1.571 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	858	735	1.571 rad	1130306758	1_2_11	24	-189.671			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	888	520	1.571 rad	1259749696	1_2_11					
+Metadata/Chests/Basket3old	874	593	0.889 rad	3468315289	1_2_11					
+Metadata/Chests/Basket2old	874	598	5.810 rad	866946829	1_2_11					
+Metadata/Chests/Chest3	882	754	4.712 rad	3172158140	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	915	528	0.810 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	919	550	0.933 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	910	573	4.590 rad	3753231993	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	909	674	0.074 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	902	677	1.006 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	915	679	3.853 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	915	671	2.970 rad	1161705204	1_2_11					
+Metadata/Chests/Pot4v1	916	698	3.924 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v2	915	706	1.820 rad	3943222399	1_2_11					
+Metadata/Chests/Pot4v2	918	707	5.799 rad	2954886560	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	917	693	3.289 rad	1161705204	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	919	702	4.712 rad	1259749696	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	439	400	6.159 rad	1366898242	1_2_11					
+Metadata/Chests/Chest3	616	394	6.283 rad	3172158140	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	643	391	3.927 rad	3129808861	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	926	540	0.540 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	921	539	6.210 rad	3753231993	1_2_11					
+Metadata/Chests/Pot4v1	924	570	1.571 rad	1060404135	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	928	560	1.571 rad	1259749696	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	932	663	6.234 rad	1161705204	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	920	654	4.712 rad	1259749696	1_2_11					
+Metadata/Chests/Pot4v2	923	700	2.727 rad	2954886560	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	725	652	4.712 rad	1208694913	1_2_11					
+Metadata/Chests/Pot4v2	964	503	0.030 rad	2954886560	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	960	538	3.510 rad	216515353	1_2_11					
+Metadata/Chests/BonePile1	963	595	3.142 rad	219800169	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	955	721	4.933 rad	216515353	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	731	629	1.816 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	731	630	1.930 rad	4069290382	1_2_11					
+Metadata/Chests/Pot4v1	970	501	4.980 rad	1060404135	1_2_11					
+Metadata/Chests/Pot4v1	967	506	6.066 rad	1060404135	1_2_11					
+Metadata/Chests/Pot1	966	513	3.424 rad	1878789778	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	982	532	4.761 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	981	545	3.142 rad	216515353	1_2_11					
+Metadata/Chests/Pot4v2	972	562	3.142 rad	2954886560	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	986	600	2.724 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	980	618	4.590 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	984	611	1.816 rad	3753231993	1_2_11					
+Metadata/Chests/Pot1	983	686	0.542 rad	1878789778	1_2_11					
+Metadata/Chests/Pot4v2	986	686	2.978 rad	2954886560	1_2_11					
+Metadata/Chests/Pot4v1	983	689	5.204 rad	1060404135	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	968	699	0.000 rad	3007162884	1_2_11	22	-178.684			
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	983	719	1.644 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	972	713	0.957 rad	216515353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	968	841	3.142 rad	3007162884	1_2_11	22	-178.684			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1003	511	4.712 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	992	511	4.712 rad	3094797593	1_2_11	13	-104.234			
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1000	536	2.651 rad	216515353	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1000	607	3.829 rad	3753231993	1_2_11					
+Metadata/Chests/Pot4v1	990	690	4.527 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v1	1016	594	3.142 rad	252085906	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	808	629	2.381 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	805	628	3.387 rad	3092391425	1_2_11					
+Metadata/Chests/Barrel3old	551	534	5.699 rad	3865749632	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	542	664	1.571 rad	3007162884	1_2_11	22	-178.684			
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	747	919	5.694 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	766	907	5.571 rad	1161705204	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	785	919	0.270 rad	216515353	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	799	629	2.280 rad	1418889786	1_2_11					
+Object: Metadata/Chests/Sarcophagi/sarcophagus	518	654	1.571 rad	1652333390	1_2_11	0	0.000			
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	753	922	5.915 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	753	930	2.209 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	759	930	6.087 rad	1161705204	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	778	935	3.902 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	773	935	5.007 rad	216515353	1_2_11					
+Metadata/Chests/Pot3	830	940	3.673 rad	2356047353	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	721	704	6.210 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	725	701	5.277 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	728	701	6.038 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	729	704	5.056 rad	3092391425	1_2_11					
+Object: Metadata/Effects/ServerEffect	803	626	4.712 rad	2646652649	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	729	707	0.540 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	732	702	3.362 rad	3092391425	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	792	628	4.473 rad	1418889786	1_2_11					
+Metadata/Chests/Pot2v2	751	948	0.000 rad	3943222399	1_2_11					
+Metadata/Chests/Pot2v1	835	951	0.194 rad	252085906	1_2_11					
+Metadata/Chests/Pot4v1	830	949	3.075 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v2	833	948	4.449 rad	3943222399	1_2_11					
+Metadata/Chests/Pot4v1	832	943	2.725 rad	1060404135	1_2_11					
+Metadata/Chests/Barrel3old	961	961	3.261 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel3old	966	961	4.463 rad	3865749632	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	492	577	4.712 rad	3007162884	1_2_11	22	-178.684			
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	499	641	4.695 rad	1161705204	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	731	690	0.381 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	726	695	0.350 rad	1418889786	1_2_11					
+Metadata/Chests/Pot4v1	970	501	4.980 rad	1060404135	1_2_11					
+Metadata/Chests/Pot4v1	967	506	6.066 rad	1060404135	1_2_11					
+Metadata/Chests/Pot1	966	513	3.424 rad	1878789778	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	982	532	4.761 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	981	545	3.142 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	966	543	2.271 rad	216515353	1_2_11					
+Metadata/Chests/Pot4v2	972	562	3.142 rad	2954886560	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	986	600	2.724 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	980	618	4.590 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	984	611	1.816 rad	3753231993	1_2_11					
+Metadata/Chests/Pot1	983	686	0.542 rad	1878789778	1_2_11					
+Metadata/Chests/Pot4v2	986	686	2.978 rad	2954886560	1_2_11					
+Metadata/Chests/Pot4v1	983	689	5.204 rad	1060404135	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	968	699	0.000 rad	3007162884	1_2_11	22	-178.684			
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	983	719	1.644 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	972	713	0.957 rad	216515353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	968	841	3.142 rad	3007162884	1_2_11	22	-178.684			
+Metadata/Chests/Barrel3old	966	961	4.463 rad	3865749632	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1003	511	4.712 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	992	511	4.712 rad	3094797593	1_2_11	13	-104.234			
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1000	536	2.651 rad	216515353	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1000	607	3.829 rad	3753231993	1_2_11					
+Metadata/Chests/Pot4v1	990	690	4.527 rad	1060404135	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1000	954	0.000 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1011	950	0.000 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	989	958	0.000 rad	1130306758	1_2_11	24	-189.671			
+Metadata/Chests/Pot2v1	1016	594	3.142 rad	252085906	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	716	708	0.817 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	738	705	2.685 rad	1418889786	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1049	569	4.712 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1038	569	4.712 rad	3094797593	1_2_11	13	-104.234			
+Metadata/Terrain/Act2/Area11Level1/Objects/CorruptionDevice	1045	770	3.142 rad	1219901755	1_2_11	16	-125.000			
+Metadata/Chests/Pot4v1	1056	959	0.446 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v1	1057	956	6.004 rad	252085906	1_2_11					
+Metadata/Chests/Pot4v1	1055	962	0.938 rad	1060404135	1_2_11					
+Metadata/Chests/Pot4v2	1053	958	1.277 rad	2954886560	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	1078	701	3.878 rad	1449870949	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	1079	696	2.700 rad	1449870949	1_2_11					
+Metadata/Chests/Pot4v2	1058	962	1.938 rad	2954886560	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1080	962	5.989 rad	3753231993	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1089	511	1.571 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1100	511	1.571 rad	3094797593	1_2_11	13	-104.234			
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1100	541	5.621 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1093	546	5.301 rad	1366898242	1_2_11					
+Metadata/Chests/Pot4v1	1095	557	3.030 rad	1060404135	1_2_11					
+Metadata/Chests/Pot1	1098	557	3.760 rad	1878789778	1_2_11					
+Metadata/Chests/Pot4v2	1101	557	6.147 rad	2954886560	1_2_11					
+Metadata/Chests/Pot3	1101	684	0.290 rad	2356047353	1_2_11					
+Metadata/Chests/Pot4v1	1100	687	2.976 rad	1060404135	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	1093	694	2.773 rad	1449870949	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1094	818	1.571 rad	1259749696	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1092	903	2.381 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1084	909	2.503 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1098	898	0.638 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1090	923	5.694 rad	3129808861	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1086	963	6.087 rad	3753231993	1_2_11					
+Metadata/Chests/Barrel5old	1120	514	2.885 rad	2116127741	1_2_11					
+Metadata/Chests/Barrel3old	1125	513	3.874 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel2old	1123	508	4.115 rad	3707287636	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1116	547	1.669 rad	1366898242	1_2_11					
+Metadata/Chests/Pot3	1104	557	1.149 rad	2356047353	1_2_11					
+Metadata/Chests/Pot4v1	1106	686	3.532 rad	1060404135	1_2_11					
+Metadata/Chests/Pot4v1	1109	684	4.597 rad	1060404135	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1106	700	2.356 rad	216515353	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	1107	707	3.731 rad	1449870949	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	1124	699	0.000 rad	3007162884	1_2_11	22	-178.684			
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1120	721	4.688 rad	216515353	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1122	821	3.755 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1123	807	2.037 rad	1366898242	1_2_11					
+Metadata/Chests/Barrel3old	1130	511	4.464 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel3old	1130	506	3.388 rad	3865749632	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1138	540	1.571 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1142	551	1.571 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1134	529	1.571 rad	1130306758	1_2_11	24	-189.671			
+Metadata/Chests/Pot1	1146	557	3.142 rad	1878789778	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1138	632	4.712 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1134	621	4.712 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1142	643	4.712 rad	1130306758	1_2_11	24	-189.671			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	919	702	4.712 rad	1208694913	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1128	723	4.369 rad	216515353	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	1145	722	4.222 rad	1449870949	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1138	724	4.712 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1134	735	4.712 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1142	713	4.712 rad	1130306758	1_2_11	24	-189.671			
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1148	809	3.927 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1128	821	5.473 rad	1366898242	1_2_11					
+Metadata/Chests/Chest4	1131	958	3.142 rad	1679736977	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1159	615	3.264 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1156	605	4.541 rad	216515353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1171	619	3.142 rad	1259749696	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	1165	721	0.515 rad	1449870949	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	1152	713	3.436 rad	1449870949	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	1155	728	0.295 rad	1449870949	1_2_11					
+Metadata/Chests/Pot1	1155	749	4.712 rad	1878789778	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1156	798	5.694 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1151	799	3.780 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1167	821	4.001 rad	1366898242	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1169	879	4.123 rad	3129808861	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1155	911	0.000 rad	3094797593	1_2_11	29	-230.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1155	900	0.000 rad	3094797593	1_2_11	29	-229.234			
+Object: Metadata/MiscellaneousObjects/WorldItem	923	700	3.250 rad	1418889786	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	919	672	2.970 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	924	671	3.461 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	927	672	4.001 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	927	669	3.706 rad	3092391425	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	924	690	5.878 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	920	654	4.712 rad	1208694913	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	675	753	1.571 rad	3094797593	1_2_11	29	-230.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	686	753	1.571 rad	3094797593	1_2_11	29	-229.234			
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1159	615	3.264 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1156	605	4.541 rad	216515353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1171	619	3.142 rad	1259749696	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	1165	721	0.515 rad	1449870949	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	1152	713	3.436 rad	1449870949	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	1155	728	0.295 rad	1449870949	1_2_11					
+Metadata/Chests/Pot1	1155	749	4.712 rad	1878789778	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1156	798	5.694 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1151	799	3.780 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1167	821	4.001 rad	1366898242	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1169	879	4.123 rad	3129808861	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	942	644	1.166 rad	4069290382	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1195	593	3.755 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1184	601	0.074 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1194	619	1.006 rad	216515353	1_2_11					
+Metadata/Chests/Chest7old	1193	703	4.712 rad	3339052811	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1192	696	1.374 rad	1161705204	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1173	698	4.712 rad	1259749696	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1192	719	4.320 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1175	725	0.147 rad	1161705204	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1182	785	6.087 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1184	806	3.412 rad	3129808861	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1184	862	0.000 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1195	858	0.000 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1173	866	0.000 rad	1130306758	1_2_11	24	-189.671			
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1211	707	6.111 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1200	717	0.859 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1205	720	4.295 rad	1161705204	1_2_11					
+Metadata/Chests/Barrel3old	1210	779	3.171 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel3old	1216	779	2.743 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel3old	1217	784	1.165 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel5old	1209	784	2.507 rad	2116127741	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1206	829	4.712 rad	1259749696	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	911	659	5.641 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	946	720	1.014 rad	1418889786	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	986	620	0.695 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	986	620	0.695 rad	4069290382	1_2_11					
+Metadata/Chests/Pot3	713	523	2.500 rad	2356047353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	725	652	4.712 rad	1208694913	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	725	652	4.712 rad	1259749696	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	731	690	0.381 rad	1418889786	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	731	690	6.118 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	721	700	2.993 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	726	695	3.307 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	725	705	1.347 rad	1161705204	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	716	708	0.817 rad	1418889786	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	716	708	1.141 rad	1161705204	1_2_11					
+Metadata/Chests/Pot1	707	527	5.980 rad	1878789778	1_2_11					
+Metadata/Chests/Pot3	707	523	1.920 rad	2356047353	1_2_11					
+Metadata/Chests/Pot4v1	710	523	0.940 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v2	710	526	3.923 rad	3943222399	1_2_11					
+Metadata/Chests/Pot1	706	531	2.124 rad	1878789778	1_2_11					
+Metadata/Chests/Basket3old	707	689	1.470 rad	3468315289	1_2_11					
+Metadata/Chests/Basket1old	702	692	5.748 rad	2211595643	1_2_11					
+Metadata/Chests/Basket2old	703	697	4.916 rad	866946829	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1169	879	4.123 rad	3129808861	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	747	919	5.694 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	766	907	5.571 rad	1161705204	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	785	919	0.270 rad	216515353	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1092	903	2.381 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1084	909	2.503 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1098	898	0.638 rad	3129808861	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1155	911	0.000 rad	3094797593	1_2_11	29	-230.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1155	900	0.000 rad	3094797593	1_2_11	29	-229.234			
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	753	922	5.915 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	753	930	2.209 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	759	930	6.087 rad	1161705204	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	778	935	3.902 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	773	935	5.007 rad	216515353	1_2_11					
+Metadata/Chests/Pot3	830	940	3.673 rad	2356047353	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1090	923	5.694 rad	3129808861	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1195	593	3.755 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1184	601	0.074 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1194	619	1.006 rad	216515353	1_2_11					
+Metadata/Chests/Chest7old	1193	703	4.712 rad	3339052811	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1192	696	1.374 rad	1161705204	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1173	698	4.712 rad	1259749696	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1192	719	4.320 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1175	725	0.147 rad	1161705204	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1182	785	6.087 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1184	806	3.412 rad	3129808861	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1184	862	0.000 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1195	858	0.000 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1173	866	0.000 rad	1130306758	1_2_11	24	-189.671			
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1188	896	0.417 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1174	876	1.301 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1185	918	5.522 rad	3129808861	1_2_11					
+Metadata/Chests/Pot2v2	751	948	0.000 rad	3943222399	1_2_11					
+Metadata/Chests/Pot2v1	835	951	0.194 rad	252085906	1_2_11					
+Metadata/Chests/Pot4v1	830	949	3.075 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v2	833	948	4.449 rad	3943222399	1_2_11					
+Metadata/Chests/Pot4v1	832	943	2.725 rad	1060404135	1_2_11					
+Metadata/Chests/Barrel3old	961	961	3.261 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel3old	966	961	4.463 rad	3865749632	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1000	954	0.000 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1011	950	0.000 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	989	958	0.000 rad	1130306758	1_2_11	24	-189.671			
+Metadata/Chests/Pot4v1	1056	959	0.446 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v1	1057	956	6.004 rad	252085906	1_2_11					
+Metadata/Chests/Pot4v1	1055	962	0.938 rad	1060404135	1_2_11					
+Metadata/Chests/Pot4v2	1053	958	1.277 rad	2954886560	1_2_11					
+Metadata/Chests/Pot4v2	1058	962	1.938 rad	2954886560	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1080	962	5.989 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1086	963	6.087 rad	3753231993	1_2_11					
+Metadata/Chests/Chest4	1131	958	3.142 rad	1679736977	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	913	580	5.782 rad	1418889786	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1211	707	6.111 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1200	717	0.859 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1205	720	4.295 rad	1161705204	1_2_11					
+Metadata/Chests/Barrel3old	1210	779	3.171 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel3old	1216	779	2.743 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel3old	1217	784	1.165 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel5old	1209	784	2.507 rad	2116127741	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1206	829	4.712 rad	1259749696	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1200	900	0.245 rad	3129808861	1_2_11					
+Metadata/Chests/BonePile1	1197	944	1.571 rad	219800169	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	804	987	6.111 rad	1366898242	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	911	971	4.712 rad	3094797593	1_2_11	29	-230.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	900	971	4.712 rad	3094797593	1_2_11	29	-229.234			
+Metadata/Chests/Barrel2old	961	966	1.441 rad	3707287636	1_2_11					
+Metadata/Chests/Barrel5old	962	971	5.508 rad	2116127741	1_2_11					
+Metadata/Chests/Barrel4old	966	966	5.193 rad	2804926028	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	990	985	3.927 rad	1161705204	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	994	980	0.000 rad	1366898242	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1106	981	0.270 rad	3753231993	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	765	997	0.442 rad	1366898242	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	799	1001	4.001 rad	216515353	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	792	1005	1.325 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	783	995	3.461 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	862	1000	4.712 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	858	1011	4.712 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	866	989	4.712 rad	1130306758	1_2_11	24	-189.671			
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	954	1000	4.712 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	950	1011	4.712 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	958	989	4.712 rad	1130306758	1_2_11	24	-189.671			
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	966	989	0.393 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	988	995	0.123 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	968	994	5.400 rad	1366898242	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	990	1009	4.418 rad	1161705204	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1039	995	5.743 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1043	1006	1.644 rad	3129808861	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1060	995	2.405 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1087	1004	1.767 rad	3753231993	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1086	1010	3.142 rad	1259749696	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1213	997	3.142 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1213	1008	3.142 rad	3094797593	1_2_11	13	-104.234			
+Metadata/Chests/Barrel4old	1222	782	5.195 rad	2804926028	1_2_11					
+Metadata/Chests/Barrel4old	1222	787	1.754 rad	2804926028	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	804	584	0.000 rad	1012101947	1_2_11	0	0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	795	587	0.000 rad	1130306758	1_2_11	24	-190.547			
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	791	630	4.676 rad	1161705204	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	799	629	2.280 rad	1418889786	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	799	629	3.811 rad	1161705204	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	792	628	4.473 rad	1418889786	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	791	629	3.998 rad	1161705204	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	785	919	0.270 rad	216515353	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	804	987	6.111 rad	1366898242	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	799	1001	4.001 rad	216515353	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	792	1005	1.325 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	783	995	3.461 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1049	708	3.103 rad	1418889786	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1037	758	0.785 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1035	757	0.519 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	888	520	1.571 rad	1259749696	1_2_11					
+Metadata/Chests/Pot4v1	967	506	6.066 rad	1060404135	1_2_11					
+Metadata/Chests/Pot1	966	513	3.424 rad	1878789778	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1003	511	4.712 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	992	511	4.712 rad	3094797593	1_2_11	13	-104.234			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1089	511	1.571 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1100	511	1.571 rad	3094797593	1_2_11	13	-104.234			
+Metadata/Chests/Barrel5old	1120	514	2.885 rad	2116127741	1_2_11					
+Metadata/Chests/Barrel3old	1125	513	3.874 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel2old	1123	508	4.115 rad	3707287636	1_2_11					
+Metadata/Chests/Barrel3old	1130	511	4.464 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel3old	1130	506	3.388 rad	3865749632	1_2_11					
+Metadata/Chests/Pot4v2	964	503	0.030 rad	2954886560	1_2_11					
+Metadata/Chests/Pot4v1	970	501	4.980 rad	1060404135	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1041	719	5.407 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1059	699	1.923 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1042	715	5.094 rad	1418889786	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1041	719	5.407 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1043	717	5.764 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1047	741	6.040 rad	1418889786	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	911	971	4.712 rad	3094797593	1_2_11	29	-230.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	900	971	4.712 rad	3094797593	1_2_11	29	-229.234			
+Metadata/Chests/Barrel2old	961	966	1.441 rad	3707287636	1_2_11					
+Metadata/Chests/Barrel5old	962	971	5.508 rad	2116127741	1_2_11					
+Metadata/Chests/Barrel4old	966	966	5.193 rad	2804926028	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	990	985	3.927 rad	1161705204	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	994	980	0.000 rad	1366898242	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1106	981	0.270 rad	3753231993	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	862	1000	4.712 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	858	1011	4.712 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	866	989	4.712 rad	1130306758	1_2_11	24	-189.671			
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	954	1000	4.712 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	950	1011	4.712 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	958	989	4.712 rad	1130306758	1_2_11	24	-189.671			
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	966	989	0.393 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	988	995	0.123 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	968	994	5.400 rad	1366898242	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	990	1009	4.418 rad	1161705204	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1039	995	5.743 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1043	1006	1.644 rad	3129808861	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1060	995	2.405 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1087	1004	1.767 rad	3753231993	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1086	1010	3.142 rad	1259749696	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1213	997	3.142 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1213	1008	3.142 rad	3094797593	1_2_11	13	-104.234			
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1058	766	2.737 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1058	766	2.737 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1061	764	2.266 rad	4069290382	1_2_11					
+Object: Metadata/Effects/ServerEffect	1043	759	2.761 rad	2646652649	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	809	1030	1.595 rad	216515353	1_2_11					
+Metadata/Chests/Pot4v1	963	1034	6.138 rad	1060404135	1_2_11					
+Metadata/Chests/Pot3	960	1033	0.382 rad	2356047353	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1005	1016	5.719 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1010	1027	2.651 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	993	1016	5.400 rad	1161705204	1_2_11					
+Metadata/Chests/Barrel3old	1018	1034	3.648 rad	3865749632	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1018	1013	2.724 rad	1161705204	1_2_11					
+Metadata/Chests/Barrel2old	1041	1033	2.560 rad	3707287636	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1059	1016	4.639 rad	3129808861	1_2_11					
+Metadata/Chests/Chest8old	1199	1032	1.571 rad	2399007008	1_2_11					
+Metadata/Chests/Pot3	870	1052	2.556 rad	2356047353	1_2_11					
+Metadata/Chests/Pot1	873	1052	2.966 rad	1878789778	1_2_11					
+Metadata/Chests/Pot4v2	868	1055	0.430 rad	2954886560	1_2_11					
+Metadata/Chests/Pot3	871	1055	5.437 rad	2356047353	1_2_11					
+Metadata/Chests/Pot3	960	1040	1.554 rad	2356047353	1_2_11					
+Metadata/Chests/Pot1	960	1036	4.756 rad	1878789778	1_2_11					
+Metadata/Chests/Pot4v2	964	1040	1.337 rad	2954886560	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1011	1046	0.000 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1000	1043	0.000 rad	1130306758	1_2_11	24	-190.514			
+Metadata/Chests/Barrel3old	1026	1037	5.836 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel4old	1018	1039	2.916 rad	2804926028	1_2_11					
+Metadata/Chests/Barrel3old	1031	1037	5.824 rad	3865749632	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1023	1050	0.000 rad	1130306758	1_2_11	24	-190.485			
+Metadata/Chests/Pot2v1	1051	1039	3.142 rad	252085906	1_2_11					
+Metadata/Chests/Barrel5old	1036	1037	0.369 rad	2116127741	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1184	1046	3.142 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1195	1050	3.142 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1173	1042	3.142 rad	1130306758	1_2_11	24	-189.671			
+Metadata/Chests/Pot3	895	1073	6.283 rad	2356047353	1_2_11					
+Metadata/Chests/Pot3	983	1074	6.283 rad	2356047353	1_2_11					
+Metadata/Chests/Pot3	1029	1067	6.283 rad	2356047353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1148	1067	4.712 rad	1259749696	1_2_11					
+Metadata/Chests/Pot1	982	1101	1.650 rad	1878789778	1_2_11					
+Metadata/Chests/Pot2v2	974	1099	4.036 rad	3943222399	1_2_11					
+Metadata/Chests/Pot2v1	982	1096	0.775 rad	252085906	1_2_11					
+Metadata/Chests/Pot2v2	977	1099	0.461 rad	3943222399	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	978	1103	0.000 rad	1259749696	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1094	818	1.571 rad	1208694913	1_2_11					
+Metadata/Chests/Basket1old	869	598	2.700 rad	2211595643	1_2_11					
+Metadata/Chests/Basket2old	874	598	5.810 rad	866946829	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	913	600	2.678 rad	3753231993	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1171	619	3.142 rad	1259749696	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1214	611	0.588 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1219	619	2.404 rad	216515353	1_2_11					
+Metadata/Chests/Basket3old	874	593	0.889 rad	3468315289	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	912	588	3.142 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	908	584	3.017 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	913	580	3.927 rad	3753231993	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	913	580	5.782 rad	1418889786	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	913	580	3.373 rad	3753231993	1_2_11					
+Metadata/Chests/BonePile1	963	595	3.142 rad	219800169	1_2_11					
+Metadata/Chests/Pot2v1	1016	594	3.142 rad	252085906	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1206	829	4.712 rad	1208694913	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1181	814	1.571 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1178	822	3.142 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1181	814	1.571 rad	4069290382	1_2_11					
+Metadata/Chests/Pot4v2	972	562	3.142 rad	2954886560	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1049	569	4.712 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1038	569	4.712 rad	3094797593	1_2_11	13	-104.234			
+Metadata/Chests/Pot4v1	1095	557	3.030 rad	1060404135	1_2_11					
+Metadata/Chests/Pot1	1098	557	3.760 rad	1878789778	1_2_11					
+Metadata/Chests/Pot4v2	1101	557	6.147 rad	2954886560	1_2_11					
+Metadata/Chests/Pot3	1104	557	1.149 rad	2356047353	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1110	555	2.034 rad	1366898242	1_2_11					
+Metadata/Chests/Pot1	1146	557	3.142 rad	1878789778	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	977	538	5.253 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	981	550	4.560 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	976	551	0.000 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	1001	551	6.038 rad	216515353	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1116	547	1.669 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1127	544	0.719 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1138	540	1.571 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1142	551	1.571 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1134	529	1.571 rad	1130306758	1_2_11	24	-189.671			
+Metadata/Chests/Pot4v1	967	506	6.066 rad	1060404135	1_2_11					
+Metadata/Chests/Pot1	966	513	3.424 rad	1878789778	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1003	511	4.712 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	992	511	4.712 rad	3094797593	1_2_11	13	-104.234			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1089	511	1.571 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1100	511	1.571 rad	3094797593	1_2_11	13	-104.234			
+Metadata/Chests/Barrel5old	1120	514	2.885 rad	2116127741	1_2_11					
+Metadata/Chests/Barrel3old	1125	513	3.874 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel2old	1123	508	4.115 rad	3707287636	1_2_11					
+Metadata/Chests/Barrel3old	1130	511	4.464 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel3old	1130	506	3.388 rad	3865749632	1_2_11					
+Metadata/Chests/BonePile1	963	595	3.142 rad	219800169	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	946	719	0.000 rad	216515353	1_2_11					
+Metadata/Chests/Barrel3old	961	961	3.261 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel2old	961	966	1.441 rad	3707287636	1_2_11					
+Metadata/Chests/Barrel5old	962	971	5.508 rad	2116127741	1_2_11					
+Metadata/Chests/Pot4v2	964	503	0.030 rad	2954886560	1_2_11					
+Metadata/Chests/Pot4v1	970	501	4.980 rad	1060404135	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1173	698	4.712 rad	1208694913	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1197	711	0.359 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1196	711	0.245 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1220	708	2.040 rad	1418889786	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1199	629	6.103 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1199	628	6.118 rad	4069290382	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1186	895	1.030 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1171	897	4.712 rad	3129808861	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1155	911	0.000 rad	3094797593	1_2_11	29	-230.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1155	900	0.000 rad	3094797593	1_2_11	29	-229.234			
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1181	906	0.507 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1187	911	3.375 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1191	899	5.663 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1110	934	5.232 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1112	939	6.118 rad	3129808861	1_2_11					
+Metadata/Chests/Barrel3old	966	961	4.463 rad	3865749632	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1000	954	0.000 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1011	950	0.000 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	989	958	0.000 rad	1130306758	1_2_11	24	-189.671			
+Metadata/Chests/Pot4v1	1056	959	0.446 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v1	1057	956	6.004 rad	252085906	1_2_11					
+Metadata/Chests/Pot4v1	1055	962	0.938 rad	1060404135	1_2_11					
+Metadata/Chests/Pot4v2	1053	958	1.277 rad	2954886560	1_2_11					
+Metadata/Chests/Pot4v2	1058	962	1.938 rad	2954886560	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1086	964	3.339 rad	3753231993	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1110	960	3.632 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1113	949	5.878 rad	3129808861	1_2_11					
+Metadata/Chests/Chest4	1131	958	3.142 rad	1679736977	1_2_11					
+Metadata/Chests/BonePile1	1197	944	1.571 rad	219800169	1_2_11					
+Metadata/Chests/Barrel4old	966	966	5.193 rad	2804926028	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	971	972	0.286 rad	1366898242	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1069	972	4.892 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1065	977	5.498 rad	3753231993	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	983	995	1.218 rad	1366898242	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	982	1007	4.018 rad	1161705204	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	975	989	3.500 rad	1366898242	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	990	1009	4.418 rad	1161705204	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1053	1006	2.266 rad	3129808861	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1060	995	2.405 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1085	989	4.249 rad	3753231993	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1086	1010	3.142 rad	1259749696	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1213	997	3.142 rad	3094797593	1_2_11	13	-105.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1213	1008	3.142 rad	3094797593	1_2_11	13	-104.234			
+Metadata/Chests/BonePile1	963	595	3.142 rad	219800169	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	946	719	0.000 rad	216515353	1_2_11					
+Metadata/Chests/Barrel3old	961	961	3.261 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel2old	961	966	1.441 rad	3707287636	1_2_11					
+Metadata/Chests/Barrel5old	962	971	5.508 rad	2116127741	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	963	994	4.712 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	954	1000	4.712 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	950	1011	4.712 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	958	989	4.712 rad	1130306758	1_2_11	24	-189.671			
+Metadata/Chests/Pot4v1	963	1034	6.138 rad	1060404135	1_2_11					
+Metadata/Chests/Pot3	960	1033	0.382 rad	2356047353	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	985	1013	5.176 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1005	1016	5.719 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1010	1027	2.651 rad	1161705204	1_2_11					
+Metadata/Chests/Barrel3old	1018	1034	3.648 rad	3865749632	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	1018	1013	2.724 rad	1161705204	1_2_11					
+Metadata/Chests/Barrel2old	1041	1033	2.560 rad	3707287636	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1037	1013	3.850 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1058	1017	3.868 rad	3129808861	1_2_11					
+Metadata/Chests/Chest8old	1199	1032	1.571 rad	2399007008	1_2_11					
+Metadata/Chests/Pot3	960	1040	1.554 rad	2356047353	1_2_11					
+Metadata/Chests/Pot1	960	1036	4.756 rad	1878789778	1_2_11					
+Metadata/Chests/Pot4v2	964	1040	1.337 rad	2954886560	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1011	1046	0.000 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1000	1043	0.000 rad	1130306758	1_2_11	24	-190.514			
+Metadata/Chests/Barrel3old	1026	1037	5.836 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel4old	1018	1039	2.916 rad	2804926028	1_2_11					
+Metadata/Chests/Barrel3old	1031	1037	5.824 rad	3865749632	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1023	1050	0.000 rad	1130306758	1_2_11	24	-190.485			
+Metadata/Chests/Pot2v1	1051	1039	3.142 rad	252085906	1_2_11					
+Metadata/Chests/Barrel5old	1036	1037	0.369 rad	2116127741	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1184	1046	3.142 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1195	1050	3.142 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1173	1042	3.142 rad	1130306758	1_2_11	24	-189.671			
+Metadata/Chests/Pot3	983	1074	6.283 rad	2356047353	1_2_11					
+Metadata/Chests/Pot3	1029	1067	6.283 rad	2356047353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1148	1067	4.712 rad	1259749696	1_2_11					
+Metadata/Chests/Pot1	982	1101	1.650 rad	1878789778	1_2_11					
+Metadata/Chests/Pot2v2	974	1099	4.036 rad	3943222399	1_2_11					
+Metadata/Chests/Pot2v1	982	1096	0.775 rad	252085906	1_2_11					
+Metadata/Chests/Pot2v2	977	1099	0.461 rad	3943222399	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	978	1103	0.000 rad	1259749696	1_2_11					
+Metadata/Chests/Pot4v2	982	1104	3.818 rad	2954886560	1_2_11					
+Metadata/Chests/Pot2v1	976	1107	5.770 rad	252085906	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	920	654	4.712 rad	1208694913	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	920	654	4.712 rad	1259749696	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	928	678	3.194 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	921	676	2.863 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	920	668	2.905 rad	1161705204	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	933	678	3.360 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	924	677	0.124 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	929	674	3.543 rad	3753231993	1_2_11					
+Metadata/Chests/Pot4v2	923	700	2.727 rad	2954886560	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	941	720	5.912 rad	216515353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	930	1104	0.000 rad	1259749696	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1109	1138	4.712 rad	1259749696	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1167	1146	6.160 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1158	1133	2.332 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1167	1136	0.614 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1177	1144	0.908 rad	3129808861	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1180	1138	4.712 rad	1259749696	1_2_11					
+Metadata/Chests/Pot2v2	1102	1188	5.945 rad	3943222399	1_2_11					
+Metadata/Chests/Pot2v1	1099	1185	6.041 rad	252085906	1_2_11					
+Metadata/Chests/Pot3	1102	1184	4.996 rad	2356047353	1_2_11					
+Metadata/Chests/Pot4v1	1097	1188	1.018 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v1	1096	1184	1.223 rad	252085906	1_2_11					
+Metadata/Chests/Pot1	1106	1194	4.600 rad	1878789778	1_2_11					
+Metadata/Chests/Barrel3old	1165	1192	1.140 rad	3865749632	1_2_11					
+Metadata/Chests/Chest3	1094	1204	4.712 rad	3172158140	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1101	1218	0.565 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1100	1206	2.651 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1081	1218	4.172 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1121	1214	1.031 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1146	1210	4.712 rad	1259749696	1_2_11					
+Metadata/Chests/Barrel1old	1169	1200	1.623 rad	1528648667	1_2_11					
+Metadata/Chests/Barrel2old	1164	1197	3.258 rad	3707287636	1_2_11					
+Metadata/Chests/Barrel2old	1164	1202	1.742 rad	3707287636	1_2_11					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@20]	1165	1207	0.589 rad	860062478	1_2_11					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@20]	1175	1206	0.368 rad	860062478	1_2_11					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@20]	1182	1212	3.878 rad	4282656249	1_2_11					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@20]	1189	1203	2.921 rad	4282656249	1_2_11					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@20]	1193	1212	1.890 rad	4282656249	1_2_11					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@20]	1184	1207	2.332 rad	4282656249	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1186	981	0.695 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1186	981	0.695 rad	4069290382	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	1184	985	5.547 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	1187	981	4.025 rad	3092391425	1_2_11					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@20]	1177	1219	3.461 rad	860062478	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1148	1067	4.712 rad	1208694913	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	930	1104	0.000 rad	1259749696	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	911	971	4.712 rad	3094797593	1_2_11	29	-230.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	900	971	4.712 rad	3094797593	1_2_11	29	-229.234			
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	1141	1118	0.491 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	1138	1115	3.166 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	1139	1087	4.271 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	1139	1084	5.890 rad	3092391425	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1142	1088	0.405 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1109	1138	4.712 rad	1208694913	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1146	1210	4.712 rad	1208694913	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	1142	1181	5.890 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	1140	1184	2.847 rad	3092391425	1_2_11					
+Object: Metadata/Effects/ServerEffect	1138	1152	3.605 rad	2646652649	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	1142	1199	5.031 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	1139	1198	2.062 rad	3092391425	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1137	1194	3.142 rad	4069290382	1_2_11					
+Metadata/Chests/Pot3	895	1073	6.283 rad	2356047353	1_2_11					
+Metadata/Chests/Barrel3old	874	1131	0.996 rad	3865749632	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	879	1175	4.099 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	896	1191	5.375 rad	1366898242	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1128	1222	2.897 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1145	1215	4.694 rad	1418889786	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1129	1221	2.737 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1140	1220	3.035 rad	1418889786	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1128	1222	2.897 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	862	1000	4.712 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	858	1011	4.712 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	866	989	4.712 rad	1130306758	1_2_11	24	-189.671			
+Metadata/Chests/Pot3	870	1052	2.556 rad	2356047353	1_2_11					
+Metadata/Chests/Pot1	873	1052	2.966 rad	1878789778	1_2_11					
+Metadata/Chests/Pot4v2	868	1055	0.430 rad	2954886560	1_2_11					
+Metadata/Chests/Pot3	871	1055	5.437 rad	2356047353	1_2_11					
+Metadata/Chests/Barrel5old	853	1145	4.824 rad	2116127741	1_2_11					
+Metadata/Chests/Barrel4old	869	1130	5.198 rad	2804926028	1_2_11					
+Metadata/Chests/Barrel4old	854	1150	2.501 rad	2804926028	1_2_11					
+Metadata/Chests/Barrel3old	854	1155	3.141 rad	3865749632	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	868	1182	1.055 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	862	1184	1.571 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	866	1173	1.571 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	858	1195	1.571 rad	1130306758	1_2_11	24	-189.671			
+Metadata/Chests/Barrel4old	855	1217	1.416 rad	2804926028	1_2_11					
+Metadata/Chests/Barrel5old	855	1223	4.953 rad	2116127741	1_2_11					
+Metadata/Chests/Barrel3old	850	1217	1.977 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel4old	850	1212	5.946 rad	2804926028	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	841	1210	5.326 rad	216515353	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	911	971	4.712 rad	3094797593	1_2_11	29	-230.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	900	971	4.712 rad	3094797593	1_2_11	29	-229.234			
+Metadata/Chests/Barrel2old	961	966	1.441 rad	3707287636	1_2_11					
+Metadata/Chests/Barrel5old	962	971	5.508 rad	2116127741	1_2_11					
+Metadata/Chests/Barrel4old	966	966	5.193 rad	2804926028	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	979	969	3.142 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	982	980	2.875 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	974	988	0.427 rad	1366898242	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1181	974	3.065 rad	3129808861	1_2_11					
+Metadata/Chests/Barrel3old	961	961	3.261 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel3old	966	961	4.463 rad	3865749632	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1000	954	0.000 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1011	950	0.000 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	989	958	0.000 rad	1130306758	1_2_11	24	-189.671			
+Metadata/Chests/Pot4v1	1056	959	0.446 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v1	1057	956	6.004 rad	252085906	1_2_11					
+Metadata/Chests/Pot4v1	1055	962	0.938 rad	1060404135	1_2_11					
+Metadata/Chests/Pot4v2	1053	958	1.277 rad	2954886560	1_2_11					
+Metadata/Chests/Pot4v2	1058	962	1.938 rad	2954886560	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1065	961	3.682 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1077	952	0.245 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1074	965	0.298 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1083	955	0.055 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1086	944	0.852 rad	3753231993	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1102	946	3.387 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1112	951	3.024 rad	3129808861	1_2_11					
+Metadata/Chests/Chest4	1131	958	3.142 rad	1679736977	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1182	947	2.962 rad	3129808861	1_2_11					
+Metadata/Chests/BonePile1	1197	944	1.571 rad	219800169	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1126	926	0.245 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1112	942	3.142 rad	3129808861	1_2_11					
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1155	911	0.000 rad	3094797593	1_2_11	29	-230.781			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLightSelfStarter	1155	900	0.000 rad	3094797593	1_2_11	29	-229.234			
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	1184	862	0.000 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1195	858	0.000 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	1173	866	0.000 rad	1130306758	1_2_11	24	-189.671			
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1183	865	0.675 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1181	870	1.571 rad	3129808861	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	968	841	3.142 rad	3007162884	1_2_11	22	-178.684			
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1199	844	0.702 rad	3129808861	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1206	829	4.712 rad	1208694913	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1206	829	4.712 rad	1259749696	1_2_11					
+Metadata/Chests/Pot3	895	1073	6.283 rad	2356047353	1_2_11					
+Metadata/Chests/Barrel3old	874	1131	0.996 rad	3865749632	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	879	1175	4.099 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	896	1191	5.375 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	862	1000	4.712 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	858	1011	4.712 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	866	989	4.712 rad	1130306758	1_2_11	24	-189.671			
+Metadata/Chests/Pot3	870	1052	2.556 rad	2356047353	1_2_11					
+Metadata/Chests/Pot1	873	1052	2.966 rad	1878789778	1_2_11					
+Metadata/Chests/Pot4v2	868	1055	0.430 rad	2954886560	1_2_11					
+Metadata/Chests/Pot3	871	1055	5.437 rad	2356047353	1_2_11					
+Metadata/Chests/Barrel5old	853	1145	4.824 rad	2116127741	1_2_11					
+Metadata/Chests/Barrel4old	869	1130	5.198 rad	2804926028	1_2_11					
+Metadata/Chests/Barrel4old	854	1150	2.501 rad	2804926028	1_2_11					
+Metadata/Chests/Barrel3old	854	1155	3.141 rad	3865749632	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	868	1182	1.055 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	862	1184	1.571 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	866	1173	1.571 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	858	1195	1.571 rad	1130306758	1_2_11	24	-189.671			
+Metadata/Chests/Barrel4old	855	1217	1.416 rad	2804926028	1_2_11					
+Metadata/Chests/Barrel5old	855	1223	4.953 rad	2116127741	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1094	818	1.571 rad	1208694913	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	1094	818	1.571 rad	1259749696	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1145	814	4.712 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1146	809	3.927 rad	3129808861	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1140	814	4.184 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1163	815	0.785 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1086	1010	3.142 rad	1208694913	1_2_11					
+Metadata/Chests/Barrel3old	1217	784	1.165 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel5old	1209	784	2.507 rad	2116127741	1_2_11					
+Metadata/Chests/Barrel4old	1222	782	5.195 rad	2804926028	1_2_11					
+Metadata/Chests/Barrel4old	1222	787	1.754 rad	2804926028	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1041	1033	1.720 rad	1418889786	1_2_11					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@20]	1041	1033	2.675 rad	1067186212	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1030	1036	1.690 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1025	1038	0.596 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1051	1039	1.684 rad	1418889786	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1078	1018	5.663 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1076	1020	5.333 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1078	1020	5.498 rad	4069290382	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1052	766	4.712 rad	1366898242	1_2_11					
+Metadata/Terrain/Act2/Area11Level1/Objects/CorruptionDevice	1045	770	3.142 rad	1219901755	1_2_11	16	-125.000			
+Metadata/Chests/Barrel3old	1210	779	3.171 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel3old	1216	779	2.743 rad	3865749632	1_2_11					
+Metadata/Chests/Chest3	882	754	4.712 rad	3172158140	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	1048	749	3.142 rad	1449870949	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	1045	744	5.176 rad	1449870949	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1043	752	2.034 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1047	741	0.000 rad	1366898242	1_2_11					
+Metadata/Chests/Pot1	1155	749	4.712 rad	1878789778	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1194	736	0.000 rad	1366898242	1_2_11					
+Metadata/Chests/Pot3	830	940	3.673 rad	2356047353	1_2_11					
+Metadata/Chests/Pot2v1	835	951	0.194 rad	252085906	1_2_11					
+Metadata/Chests/Pot4v1	830	949	3.075 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v2	833	948	4.449 rad	3943222399	1_2_11					
+Metadata/Chests/Pot4v1	832	943	2.725 rad	1060404135	1_2_11					
+Metadata/Chests/Barrel3old	850	1217	1.977 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel4old	850	1212	5.946 rad	2804926028	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	841	1210	5.326 rad	216515353	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1076	977	2.737 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1074	978	3.017 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1101	1022	0.123 rad	1418889786	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	809	1030	1.595 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	808	1186	0.393 rad	216515353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	827	1184	0.000 rad	1259749696	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	814	1208	5.228 rad	216515353	1_2_11					
+Metadata/Chests/Barrel5old	855	1223	4.953 rad	2116127741	1_2_11					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalMaul@20]	1140	1220	5.093 rad	860062478	1_2_11					
+Monster: Vaal Fallen [Metadata/Monsters/Skeletons/SkeletonMeleeKnightElementalSword@20]	1145	1220	5.271 rad	4282656249	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	1038	990	0.405 rad	4069290382	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	1044	1006	2.062 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	1042	1003	3.436 rad	3092391425	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1019	1026	3.730 rad	1418889786	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	785	919	0.270 rad	216515353	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	804	987	6.111 rad	1366898242	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	799	1001	4.001 rad	216515353	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	792	1005	1.325 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	783	995	3.461 rad	1366898242	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	804	1014	1.914 rad	216515353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	784	1209	3.142 rad	3007162884	1_2_11	22	-178.684			
+Metadata/Chests/Chest6	801	1223	0.000 rad	2224233642	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	766	907	5.571 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	759	930	6.087 rad	1161705204	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	778	935	3.902 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	773	935	5.007 rad	216515353	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	765	997	0.442 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	767	1014	0.000 rad	1259749696	1_2_11					
+Metadata/Chests/Pot3	770	1109	2.259 rad	2356047353	1_2_11					
+Metadata/Chests/Pot2v1	775	1108	3.185 rad	252085906	1_2_11					
+Metadata/Chests/Pot2v2	770	1105	3.914 rad	3943222399	1_2_11					
+Metadata/Chests/Pot3	767	1107	5.889 rad	2356047353	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	747	919	5.694 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	753	922	5.915 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	753	930	2.209 rad	1161705204	1_2_11					
+Metadata/Chests/Pot2v2	751	948	0.000 rad	3943222399	1_2_11					
+Metadata/Chests/BonePile1	739	1054	0.000 rad	219800169	1_2_11					
+Metadata/Chests/Chest6	751	1167	0.000 rad	2224233642	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	749	1152	1.571 rad	3007162884	1_2_11	22	-178.684			
+Metadata/Chests/Chest3	741	1210	0.000 rad	3172158140	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	969	1034	4.467 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1037	1013	0.295 rad	1418889786	1_2_11					
+Object: Metadata/Chests/Sarcophagi/sarcophagus	725	999	0.000 rad	1652333390	1_2_11	15	-125.000			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	713	1073	0.000 rad	1259749696	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	733	1209	5.841 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	719	1198	5.130 rad	3753231993	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1009	1009	2.028 rad	1418889786	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1052	766	4.712 rad	1366898242	1_2_11					
+Metadata/Terrain/Act2/Area11Level1/Objects/CorruptionDevice	1045	770	3.142 rad	1219901755	1_2_11	16	-125.000			
+Metadata/Chests/Barrel3old	1210	779	3.171 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel3old	1216	779	2.743 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel3old	1217	784	1.165 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel5old	1209	784	2.507 rad	2116127741	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1216	850	3.307 rad	3129808861	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	1206	829	4.712 rad	1208694913	1_2_11					
+Object: Metadata/Chests/Sarcophagi/sarcophagus	725	999	0.000 rad	1652333390	1_2_11	15	-125.000			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	713	1073	0.000 rad	1259749696	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	733	1209	5.841 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	719	1198	5.130 rad	3753231993	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1012	1023	5.530 rad	1418889786	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	710	1007	1.767 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	701	1000	0.000 rad	1259749696	1_2_11					
+Metadata/Chests/Pot3	696	1018	0.000 rad	2356047353	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	710	1191	0.982 rad	3753231993	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	705	1193	0.000 rad	1259749696	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	974	1016	3.005 rad	1418889786	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	679	990	5.571 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	671	989	3.166 rad	1366898242	1_2_11					
+Object: Metadata/Chests/Sarcophagi/sarcophagus	679	999	0.000 rad	1652333390	1_2_11	15	-125.000			
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	681	1020	5.301 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	674	1042	0.000 rad	1259749696	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	969	1017	4.092 rad	1418889786	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	912	1007	0.245 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	912	1007	0.245 rad	4069290382	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1052	766	4.712 rad	1366898242	1_2_11					
+Metadata/Terrain/Act2/Area11Level1/Objects/CorruptionDevice	1045	770	3.142 rad	1219901755	1_2_11	16	-125.000			
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	663	1151	1.203 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	644	1165	2.283 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	646	1160	6.062 rad	1161705204	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	624	1064	5.645 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	632	1059	1.743 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	632	1138	3.142 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	621	1142	3.142 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	643	1134	3.142 rad	1130306758	1_2_11	24	-189.671			
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	623	1162	0.295 rad	1161705204	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	638	1167	4.271 rad	1449870949	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	630	1162	1.104 rad	1449870949	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	633	1184	3.952 rad	1449870949	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	635	1190	0.368 rad	1449870949	1_2_11					
+Metadata/Chests/Basket2old	600	1053	3.338 rad	866946829	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	613	1075	5.670 rad	1366898242	1_2_11					
+Monster: Undead Vaal Guard [Metadata/Monsters/VaalMonsters/GuardSpear@20]	620	1171	5.203 rad	1449870949	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	994	1017	6.200 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	998	1014	5.825 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	994	1017	1.997 rad	1418889786	1_2_11					
+Metadata/Chests/Basket3old	595	1053	3.125 rad	3468315289	1_2_11					
+Metadata/Chests/Basket1old	578	1038	4.548 rad	2211595643	1_2_11					
+Metadata/Chests/Basket2old	595	1058	0.327 rad	866946829	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	592	1075	3.338 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	576	1104	6.275 rad	3851279866	1_2_11					
+Metadata/Chests/Pot4v1	592	1200	4.712 rad	1060404135	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	822	1026	0.000 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	814	1032	4.957 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	823	1013	4.743 rad	1418889786	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	569	1031	5.890 rad	239656317	1_2_11					
+Monster: Darktongue Broodwitch [Metadata/Monsters/Augury/CenobiteMother@20]	566	1036	1.325 rad	3451317329	1_2_11					
+Monster: Deformed Covenite [Metadata/Monsters/Augury/CenobiteFlathead__@20]	570	1044	6.210 rad	3143534078	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	562	1037	0.614 rad	239656317	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	564	1064	4.997 rad	3851279866	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	561	1072	4.044 rad	3851279866	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	564	1102	2.724 rad	3851279866	1_2_11					
+Metadata/Chests/Pot4v1	1056	959	0.446 rad	1060404135	1_2_11					
+Metadata/Chests/Pot2v1	1057	956	6.004 rad	252085906	1_2_11					
+Metadata/Chests/Pot4v1	1055	962	0.938 rad	1060404135	1_2_11					
+Metadata/Chests/Pot4v2	1053	958	1.277 rad	2954886560	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1042	994	3.142 rad	3129808861	1_2_11					
+Monster: Serpentine Construct [Metadata/Monsters/Snake/SnakeMeleeInca@20]	1053	1011	4.712 rad	3129808861	1_2_11					
+Metadata/Chests/Barrel2old	1041	1033	2.560 rad	3707287636	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1037	1013	0.295 rad	1418889786	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	1037	1013	4.991 rad	1366898242	1_2_11					
+Metadata/Chests/Pot2v1	1051	1039	3.142 rad	252085906	1_2_11					
+Metadata/Chests/Barrel5old	1036	1037	0.369 rad	2116127741	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	1051	1039	1.684 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	827	1184	0.000 rad	1208694913	1_2_11					
+Metadata/Chests/Pot4v2	1058	962	1.938 rad	2954886560	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1079	979	4.146 rad	3753231993	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	1079	1016	2.723 rad	3753231993	1_2_11					
+Metadata/Chests/Basket3old	595	1053	3.125 rad	3468315289	1_2_11					
+Metadata/Chests/Basket1old	578	1038	4.548 rad	2211595643	1_2_11					
+Metadata/Chests/Basket2old	595	1058	0.327 rad	866946829	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	592	1075	3.338 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	576	1104	6.275 rad	3851279866	1_2_11					
+Metadata/Chests/Pot4v1	592	1200	4.712 rad	1060404135	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	569	1031	5.890 rad	239656317	1_2_11					
+Monster: Darktongue Broodwitch [Metadata/Monsters/Augury/CenobiteMother@20]	566	1036	1.325 rad	3451317329	1_2_11					
+Monster: Deformed Covenite [Metadata/Monsters/Augury/CenobiteFlathead__@20]	570	1044	6.210 rad	3143534078	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	562	1037	0.614 rad	239656317	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	564	1064	4.997 rad	3851279866	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	561	1072	4.044 rad	3851279866	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	564	1102	2.724 rad	3851279866	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	789	1182	4.193 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	789	1181	4.307 rad	4069290382	1_2_11					
+Monster: Deformed Covenite [Metadata/Monsters/Augury/CenobiteFlathead__@20]	542	1054	1.497 rad	3143534078	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	538	1053	1.757 rad	3851279866	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	537	1084	3.927 rad	239656317	1_2_11					
+Metadata/Terrain/Leagues/Augury/Objects/AuguryCardObject	547	1082	4.008 rad	3829842526	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	540	1107	4.732 rad	3851279866	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	521	1045	0.000 rad	1259749696	1_2_11					
+Monster: Darktongue Sister [Metadata/Monsters/Augury/CenobiteWitch@20]	526	1069	2.135 rad	2885392843	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	520	1066	2.700 rad	239656317	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	527	1063	1.620 rad	239656317	1_2_11					
+Monster: Darktongue Familiar [Metadata/Monsters/Augury/WitchFamiliar@20]	516	1075	2.037 rad	4067348319	1_2_11					
+Monster: Darktongue Familiar [Metadata/Monsters/Augury/WitchFamiliar@20]	520	1083	2.872 rad	4067348319	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	705	1193	0.000 rad	1208694913	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	505	1073	0.638 rad	239656317	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	500	1089	4.443 rad	3851279866	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	496	1111	0.000 rad	1259749696	1_2_11					
+Metadata/Chests/Barrel3old	961	961	3.261 rad	3865749632	1_2_11					
+Metadata/Chests/Barrel2old	961	966	1.441 rad	3707287636	1_2_11					
+Metadata/Chests/Barrel5old	962	971	5.508 rad	2116127741	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	954	1000	4.712 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	950	1011	4.712 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	958	989	4.712 rad	1130306758	1_2_11	24	-189.671			
+Metadata/Chests/Pot4v1	963	1034	6.138 rad	1060404135	1_2_11					
+Metadata/Chests/Pot3	960	1033	0.382 rad	2356047353	1_2_11					
+Metadata/Chests/Pot3	960	1040	1.554 rad	2356047353	1_2_11					
+Metadata/Chests/Pot1	960	1036	4.756 rad	1878789778	1_2_11					
+Metadata/Chests/Pot4v2	964	1040	1.337 rad	2954886560	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	746	922	4.712 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	749	927	5.387 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	758	925	3.283 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	759	939	2.356 rad	1161705204	1_2_11					
+Metadata/Chests/Pot3	830	940	3.673 rad	2356047353	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	760	906	4.892 rad	1161705204	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	796	1199	4.651 rad	1418889786	1_2_11					
+Object: Metadata/QuestObjects/Inca/IncaDarknessRelease	437	1092	0.000 rad	1412254567	1_2_11	0	0.000			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	374	1076	0.000 rad	1259749696	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	609	1101	5.588 rad	4069290382	1_2_11					
+Metadata/Effects/SleepableServerBeamEffect	557	1058	0.000 rad	978925438	1_2_11					
+Monster: Broodwitch Puppet [Metadata/Monsters/Augury/SimulacrumGolem@20]	630	1108	2.405 rad	1428338235	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	609	1100	5.663 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	610	1100	5.764 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	353	1138	0.000 rad	1259749696	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	350	1273	4.820 rad	3851279866	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	344	1262	4.437 rad	3851279866	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	334	1256	2.209 rad	3851279866	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	325	1305	4.712 rad	1259749696	1_2_11					
+Monster: Darktongue Familiar [Metadata/Monsters/Augury/WitchFamiliar@20]	332	1329	1.865 rad	4067348319	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	554	1094	4.878 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	558	1091	5.820 rad	4069290382	1_2_11					
+Monster: Deformed Covenite [Metadata/Monsters/Augury/CenobiteFlathead__@20]	338	1340	3.755 rad	3143534078	1_2_11					
+Monster: Darktongue Familiar [Metadata/Monsters/Augury/WitchFamiliar@20]	346	1346	0.884 rad	4067348319	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	310	1092	4.712 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	306	1081	4.712 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	314	1103	4.712 rad	1130306758	1_2_11	24	-189.671			
+Metadata/Terrain/Leagues/Augury/Objects/AuguryCardObject	302	1260	1.777 rad	3829842526	1_2_11					
+Monster: Icali, Vaal Overseer [Metadata/Monsters/VaalMonsters/VaalOverseerAreaBoss@20]	304	1323	0.000 rad	3153893793	1_2_11					
+Monster: Deformed Covenite [Metadata/Monsters/Augury/CenobiteFlathead__@20]	311	1311	5.964 rad	3143534078	1_2_11					
+Monster: Deformed Covenite [Metadata/Monsters/Augury/CenobiteFlathead__@20]	321	1334	0.761 rad	3143534078	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	278	1070	6.160 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	295	1094	4.982 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	496	1111	0.000 rad	1208694913	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	283	1244	2.793 rad	3851279866	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	285	1267	5.159 rad	3851279866	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	526	1098	6.065 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	522	1100	5.575 rad	4069290382	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	760	906	4.892 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	759	939	2.356 rad	1161705204	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	761	981	0.000 rad	216515353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	767	1014	0.000 rad	1259749696	1_2_11					
+Metadata/Chests/Pot3	770	1109	2.259 rad	2356047353	1_2_11					
+Metadata/Chests/Pot2v1	775	1108	3.185 rad	252085906	1_2_11					
+Metadata/Chests/Pot2v2	770	1105	3.914 rad	3943222399	1_2_11					
+Metadata/Chests/Pot3	767	1107	5.889 rad	2356047353	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	772	1180	1.153 rad	3753231993	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	785	960	2.592 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	782	996	0.437 rad	216515353	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	783	1176	1.049 rad	3753231993	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaTorchLightMulti	784	1209	3.142 rad	3007162884	1_2_11	22	-178.684			
+Object: Metadata/MiscellaneousObjects/WorldItem	796	1199	4.651 rad	1418889786	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	795	1199	5.127 rad	216515353	1_2_11					
+Metadata/Chests/Chest6	801	1223	0.000 rad	2224233642	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	570	1110	0.695 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	570	1110	0.695 rad	4069290382	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	823	1006	0.785 rad	1366898242	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	808	1002	3.162 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	809	996	1.862 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	808	993	4.712 rad	216515353	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	823	1013	4.743 rad	1418889786	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	823	1013	0.519 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	810	1145	3.785 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	827	1184	0.000 rad	1208694913	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	806	1193	5.011 rad	216515353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	827	1184	0.000 rad	1259749696	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	579	1073	1.743 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	578	1070	2.135 rad	3092391425	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	584	1084	5.235 rad	1418889786	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	571	1079	4.663 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	574	1078	0.884 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	577	1079	3.461 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	569	1082	4.172 rad	3092391425	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	344	1262	4.437 rad	3851279866	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	334	1256	2.209 rad	3851279866	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	325	1305	4.712 rad	1259749696	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	573	1083	1.303 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaDoorLight	310	1092	4.712 rad	1012101947	1_2_11	0	-0.000			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	306	1081	4.712 rad	1130306758	1_2_11	24	-189.541			
+Metadata/MiscellaneousObjects/Lights/IncaTorchLight	314	1103	4.712 rad	1130306758	1_2_11	24	-189.671			
+Metadata/Terrain/Leagues/Augury/Objects/AuguryCardObject	302	1260	1.777 rad	3829842526	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	521	1045	0.000 rad	1208694913	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	278	1070	6.160 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	295	1094	4.982 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	283	1244	2.793 rad	3851279866	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	285	1267	5.159 rad	3851279866	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	760	906	4.892 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	759	939	2.356 rad	1161705204	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	761	981	0.000 rad	216515353	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	767	1014	0.000 rad	1259749696	1_2_11					
+Metadata/Chests/Pot3	770	1109	2.259 rad	2356047353	1_2_11					
+Metadata/Chests/Pot2v1	775	1108	3.185 rad	252085906	1_2_11					
+Metadata/Chests/Pot2v2	770	1105	3.914 rad	3943222399	1_2_11					
+Metadata/Chests/Pot3	767	1107	5.889 rad	2356047353	1_2_11					
+Monster: Undead Vaal Bladedancer [Metadata/Monsters/VaalMonsters/GuardDaggers@20]	772	1180	1.153 rad	3753231993	1_2_11					
+Metadata/Effects/SleepableServerBeamEffect	547	1082	0.000 rad	978925438	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	278	1070	6.160 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	295	1094	4.982 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	283	1244	2.793 rad	3851279866	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	285	1267	5.159 rad	3851279866	1_2_11					
+Metadata/Chests/Chest4	255	1082	1.484 rad	1679736977	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	264	1142	5.670 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	267	1127	4.393 rad	216515353	1_2_11					
+Monster: Undead Vaal Archer [Metadata/Monsters/VaalMonsters/GuardBowFire@20]	257	1132	2.847 rad	216515353	1_2_11					
+Metadata/Chests/Pot2v2	253	1151	2.930 rad	3943222399	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	264	1254	1.854 rad	3851279866	1_2_11					
+Monster: Darktongue Matron [Metadata/Monsters/Augury/CauldronCrone@20]	270	1273	5.179 rad	303786571	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	271	1276	0.810 rad	239656317	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	266	1276	5.399 rad	3851279866	1_2_11					
+Monster: Icali, Vaal Overseer [Metadata/Monsters/VaalMonsters/VaalOverseerAreaBoss@20]	304	1323	0.000 rad	3153893793	1_2_11					
+Monster: Deformed Covenite [Metadata/Monsters/Augury/CenobiteFlathead__@20]	311	1311	5.964 rad	3143534078	1_2_11					
+Monster: Darktongue Familiar [Metadata/Monsters/Augury/WitchFamiliar@20]	332	1329	1.865 rad	4067348319	1_2_11					
+Metadata/Chests/Pot4v2	250	1154	0.678 rad	2954886560	1_2_11					
+Metadata/Chests/Pot3	249	1151	1.218 rad	2356047353	1_2_11					
+Metadata/Chests/Pot1	251	1161	3.792 rad	1878789778	1_2_11					
+Metadata/Chests/Pot2v1	249	1157	1.797 rad	252085906	1_2_11					
+Metadata/Chests/Pot4v1	208	1169	3.162 rad	1060404135	1_2_11					
+Metadata/Chests/Pot3	202	1169	5.657 rad	2356047353	1_2_11					
+Metadata/Chests/Pot2v1	205	1169	2.461 rad	252085906	1_2_11					
+Metadata/Chests/Pot2v2	200	1172	2.776 rad	3943222399	1_2_11					
+Metadata/Chests/Pot2v1	197	1169	2.107 rad	252085906	1_2_11					
+Metadata/Chests/Pot4v2	196	1172	5.866 rad	2954886560	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	184	1208	3.461 rad	1366898242	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	183	1186	1.792 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	176	1198	1.571 rad	1259749696	1_2_11					
+Monster: Undead Vaal Commander [Metadata/Monsters/VaalMonsters/VaalOverseer@20]	179	1220	3.387 rad	1366898242	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	374	1076	0.000 rad	1208694913	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	148	1179	2.553 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	143	1183	2.503 rad	1161705204	1_2_11					
+Monster: Ancient Construct [Metadata/Monsters/incaminion/Fragment@20]	149	1185	3.485 rad	1161705204	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	275	1355	4.712 rad	1259749696	1_2_11					
+Monster: Deformed Covenite [Metadata/Monsters/Augury/CenobiteFlathead__@20]	321	1334	0.761 rad	3143534078	1_2_11					
+Monster: Deformed Covenite [Metadata/Monsters/Augury/CenobiteFlathead__@20]	338	1340	3.755 rad	3143534078	1_2_11					
+Monster: Darktongue Familiar [Metadata/Monsters/Augury/WitchFamiliar@20]	346	1346	0.884 rad	4067348319	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	275	1355	4.712 rad	1259749696	1_2_11					
+Monster: Deformed Covenite [Metadata/Monsters/Augury/CenobiteFlathead__@20]	321	1334	0.761 rad	3143534078	1_2_11					
+Monster: Deformed Covenite [Metadata/Monsters/Augury/CenobiteFlathead__@20]	338	1340	3.755 rad	3143534078	1_2_11					
+Monster: Darktongue Familiar [Metadata/Monsters/Augury/WitchFamiliar@20]	346	1346	0.884 rad	4067348319	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	292	1118	3.661 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	292	1118	3.661 rad	4069290382	1_2_11					
+Metadata/Terrain/Leagues/Augury/Objects/AuguryBossObject	304	1323	0.000 rad	1818787057	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	365	1402	4.712 rad	1259749696	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	274	1422	4.712 rad	1259749696	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	278	1159	0.859 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	277	1156	5.277 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	282	1145	0.957 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	284	1142	6.210 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	289	1261	4.811 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	288	1264	3.338 rad	3092391425	1_2_11					
+Object: Metadata/Effects/ServerEffect	283	1146	0.464 rad	2646652649	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	284	1258	5.547 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	287	1257	4.418 rad	3092391425	1_2_11					
+Object: Metadata/MiscellaneousObjects/AreaTransition	322	1487	1.571 rad	726109394	1_2_11	75	-593.695	0	47696	The Northern Forest
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	521	1045	0.000 rad	1208694913	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	521	1045	0.000 rad	1259749696	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	528	1103	3.000 rad	239656317	1_2_11					
+Monster: Darktongue Sister [Metadata/Monsters/Augury/CenobiteWitch@20]	524	1086	3.959 rad	2885392843	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	525	1104	3.142 rad	239656317	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	325	1305	4.712 rad	1208694913	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	532	1101	2.224 rad	239656317	1_2_11					
+Monster: Darktongue Familiar [Metadata/Monsters/Augury/WitchFamiliar@20]	540	1101	1.571 rad	4067348319	1_2_11					
+Metadata/Terrain/Leagues/Augury/Objects/AuguryCardObject	547	1082	4.008 rad	3829842526	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	540	1107	4.732 rad	3851279866	1_2_11					
+Object: Metadata/Effects/ServerEffect	287	1147	0.000 rad	2646652649	1_2_11					
+Object: Metadata/Effects/ServerEffect	288	1181	0.785 rad	2646652649	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	312	1314	5.449 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	311	1311	4.099 rad	3092391425	1_2_11					
+Object: Metadata/Effects/ServerEffect	279	1139	1.446 rad	2646652649	1_2_11					
+Object: Metadata/Effects/ServerEffect	288	1260	5.695 rad	2646652649	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	306	1309	5.522 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	301	1308	3.927 rad	3092391425	1_2_11					
+Object: Metadata/Effects/ServerEffect	258	1262	0.000 rad	2646652649	1_2_11	21	-170.938			
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	521	1045	0.000 rad	1208694913	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	521	1045	0.000 rad	1259749696	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	538	1053	1.757 rad	3851279866	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	288	1267	0.736 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	287	1270	3.853 rad	3092391425	1_2_11					
+Object: Metadata/Effects/ServerEffect	296	1276	3.605 rad	2646652649	1_2_11					
+Object: Metadata/Effects/ServerEffect	290	1272	3.927 rad	2646652649	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	305	1301	1.751 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	276	1258	2.808 rad	1418889786	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	281	1221	1.429 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/AreaTransition	322	1487	1.571 rad	726109394	1_2_11	75	-593.695	0	47696	The Northern Forest
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	279	1245	0.876 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	269	1235	0.559 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	335	1358	1.770 rad	1418889786	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	271	1236	3.829 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	279	1238	0.393 rad	3092391425	1_2_11					
+Object: Metadata/Effects/ServerEffect	318	1314	2.356 rad	2646652649	1_2_11					
+Object: Metadata/Effects/ServerEffect	323	1332	2.595 rad	2646652649	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	270	1239	0.983 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	521	1045	0.000 rad	1208694913	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	521	1045	0.000 rad	1259749696	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	528	1103	3.000 rad	239656317	1_2_11					
+Monster: Darktongue Sister [Metadata/Monsters/Augury/CenobiteWitch@20]	524	1086	3.959 rad	2885392843	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	525	1104	3.142 rad	239656317	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	274	1193	6.259 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	272	1197	4.541 rad	3092391425	1_2_11					
+Object: Metadata/Effects/ServerEffect	322	1319	2.138 rad	2646652649	1_2_11					
+Object: Metadata/Effects/ServerEffect	328	1348	3.463 rad	2646652649	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	269	1196	3.952 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	269	1199	0.466 rad	3092391425	1_2_11					
+Object: Metadata/Effects/ServerEffect	320	1313	1.893 rad	2646652649	1_2_11					
+Object: Metadata/Effects/ServerEffect	325	1336	5.725 rad	2646652649	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	273	1201	5.820 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	274	1201	5.961 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	279	1195	3.853 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	276	1197	4.559 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	276	1197	4.578 rad	1418889786	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	275	1198	6.173 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	268	1205	4.957 rad	4069290382	1_2_11					
+Object: Metadata/Effects/ServerEffect	275	1195	0.983 rad	2646652649	1_2_11					
+Object: Metadata/Effects/ServerEffect	281	1178	0.000 rad	2646652649	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	270	1208	0.049 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	273	1207	3.166 rad	3092391425	1_2_11					
+Object: Metadata/Effects/ServerEffect	275	1162	0.266 rad	2646652649	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	267	1205	0.393 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	270	1205	0.712 rad	3092391425	1_2_11					
+Object: Metadata/Effects/ServerEffect	267	1234	0.000 rad	2646652649	1_2_11					
+Object: Metadata/Effects/ServerEffect	280	1156	0.464 rad	2646652649	1_2_11					
+Object: Metadata/Effects/ServerEffect	288	1180	0.000 rad	2646652649	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	268	1213	3.093 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	266	1209	2.970 rad	3092391425	1_2_11					
+Object: Metadata/MiscellaneousObjects/AreaTransition	322	1487	1.571 rad	726109394	1_2_11	75	-593.695	0	47696	The Northern Forest
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePitSpawned	521	1045	0.000 rad	1208694913	1_2_11					
+Object: Metadata/MiscellaneousObjects/Lights/IncaFirePit	521	1045	0.000 rad	1259749696	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	528	1103	3.000 rad	239656317	1_2_11					
+Monster: Darktongue Sister [Metadata/Monsters/Augury/CenobiteWitch@20]	524	1086	3.959 rad	2885392843	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	525	1104	3.142 rad	239656317	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	294	1276	2.447 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	294	1276	2.447 rad	4069290382	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	538	1053	1.757 rad	3851279866	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	532	1101	2.224 rad	239656317	1_2_11					
+Monster: Darktongue Familiar [Metadata/Monsters/Augury/WitchFamiliar@20]	540	1101	1.571 rad	4067348319	1_2_11					
+Metadata/Terrain/Leagues/Augury/Objects/AuguryCardObject	547	1082	4.008 rad	3829842526	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	540	1107	4.732 rad	3851279866	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	307	1296	5.588 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	308	1294	5.820 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	304	1300	4.957 rad	4069290382	1_2_11					
+Monster: Daemon [Metadata/Monsters/Augury/Daemon/CorpseFissureDaemon@20]	304	1323	2.430 rad	538300155	1_2_11					
+Monster: Daemon [Metadata/Monsters/Augury/Daemon/BloodDonutDaemon@20]	304	1323	0.785 rad	1510359725	1_2_11					
+Object: Metadata/Effects/ServerEffect	186	1190	5.398 rad	2646652649	1_2_11					
+Object: Metadata/Effects/ServerEffect	259	1206	4.696 rad	2646652649	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	306	1302	2.037 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	303	1302	0.687 rad	3092391425	1_2_11					
+Object: Metadata/Effects/ServerEffect	165	1190	4.249 rad	2646652649	1_2_11					
+Object: Metadata/Effects/ServerEffect	279	1190	5.093 rad	2646652649	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	305	1307	0.442 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	309	1303	3.313 rad	3092391425	1_2_11					
+Object: Metadata/Effects/ServerEffect	170	1201	5.271 rad	2646652649	1_2_11					
+Object: Metadata/Effects/ServerEffect	225	1211	4.901 rad	2646652649	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	308	1306	3.338 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	311	1306	4.663 rad	3092391425	1_2_11					
+Object: Metadata/Effects/ServerEffect	271	1193	0.322 rad	2646652649	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	301	1303	2.823 rad	3092391425	1_2_11					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@29]	308	1309	5.081 rad	3092391425	1_2_11					
+Object: Metadata/Effects/ServerEffect	302	1308	3.142 rad	2646652649	1_2_11					
+Metadata/Monsters/Daemon/Augury/CorpseFissureDaemonFissureLineEnd	263	1257	6.155 rad	220907265	1_2_11					
+Metadata/Monsters/Daemon/Augury/CorpseFissureDaemonFissureLine	268	1264	5.663 rad	3467368040	1_2_11					
+Metadata/Monsters/Daemon/Augury/CorpseFissureDaemonFissureLine	273	1269	5.498 rad	3467368040	1_2_11					
+Metadata/Monsters/Daemon/Augury/CorpseFissureDaemonFissureLine	295	1274	5.300 rad	3467368040	1_2_11					
+Metadata/Monsters/Daemon/Augury/CorpseFissureDaemonFissureLine	289	1270	4.588 rad	3467368040	1_2_11					
+Metadata/Monsters/Daemon/Augury/CorpseFissureDaemonFissureLine	281	1271	4.957 rad	3467368040	1_2_11					
+Metadata/Monsters/Daemon/Augury/CorpseFissureDaemonFissureLine	304	1287	5.878 rad	3467368040	1_2_11					
+Metadata/Monsters/Daemon/Augury/CorpseFissureDaemonFissureLine	301	1280	5.498 rad	3467368040	1_2_11					
+Metadata/Monsters/Daemon/Augury/CorpseFissureDaemonFissureLine	305	1309	0.278 rad	3467368040	1_2_11					
+Metadata/Monsters/Daemon/Augury/CorpseFissureDaemonFissureLine	307	1302	5.878 rad	3467368040	1_2_11					
+Metadata/Monsters/Daemon/Augury/CorpseFissureDaemonFissureLine	304	1295	0.000 rad	3467368040	1_2_11					
+Metadata/Monsters/Daemon/Augury/CorpseFissureDaemonFissureLineStart	304	1317	0.124 rad	3981673882	1_2_11					
+Metadata/Monsters/Daemon/Augury/CorpseFissureDaemonFissureLineStart	304	1317	3.266 rad	3981673882	1_2_11					
+Metadata/Monsters/Daemon/Augury/CorpseFissureDaemonFissureLineEnd	304	1332	3.097 rad	220907265	1_2_11					
+Metadata/Monsters/Daemon/Augury/CorpseFissureDaemonFissureLine	303	1325	3.000 rad	3467368040	1_2_11					
+Object: Metadata/Effects/ServerEffect	304	1317	0.000 rad	2646652649	1_2_11	16	-125.000			
+Object: Metadata/Effects/ServerEffect	304	1317	0.000 rad	2646652649	1_2_11	16	-125.000			
+Object: Metadata/Effects/ServerEffect	305	1309	0.000 rad	2646652649	1_2_11	14	-109.375			
+Object: Metadata/Effects/ServerEffect	303	1325	0.000 rad	2646652649	1_2_11	16	-125.000			
+Object: Metadata/Effects/ServerEffect	307	1302	0.000 rad	2646652649	1_2_11	9	-70.312			
+Object: Metadata/Effects/ServerEffect	304	1332	0.000 rad	2646652649	1_2_11	16	-125.000			
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	314	1306	3.142 rad	4069290382	1_2_11					
+Object: Metadata/Effects/ServerEffect	304	1287	0.000 rad	2646652649	1_2_11	0	0.000			
+Object: Metadata/Effects/ServerEffect	301	1280	0.000 rad	2646652649	1_2_11	0	0.000			
+Object: Metadata/MiscellaneousObjects/WorldItem	304	1317	3.195 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	304	1317	1.524 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	304	1317	0.848 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	309	1313	0.080 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	309	1316	1.942 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	309	1319	1.579 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	309	1322	1.954 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	304	1317	1.837 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	304	1317	1.389 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	304	1317	1.751 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	304	1317	4.860 rad	1418889786	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	304	1317	1.389 rad	1418889786	1_2_11					
+Object: Metadata/Effects/ServerEffect	295	1274	0.000 rad	2646652649	1_2_11	0	0.000			
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	314	1306	3.142 rad	4069290382	1_2_11					
+Object: Metadata/Effects/ServerEffect	281	1271	0.000 rad	2646652649	1_2_11	0	0.000			
+Object: Metadata/Effects/ServerEffect	273	1269	0.000 rad	2646652649	1_2_11	0	0.000			
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	313	1306	3.266 rad	4069290382	1_2_11					
+Object: Metadata/Effects/ServerEffect	263	1257	0.000 rad	2646652649	1_2_11	0	0.000			
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	315	1306	3.017 rad	4069290382	1_2_11					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@36]	321	1332	3.017 rad	4069290382	1_2_11					
+Monster: Covenite Spawn [Metadata/Monsters/Augury/CenobitePawn@20]	556	1095	0.588 rad	239656317	1_2_11					
+Monster: Deformed Covenite [Metadata/Monsters/Augury/CenobiteFlathead__@20]	571	1085	1.713 rad	3143534078	1_2_11					
+Object: Metadata/MiscellaneousObjects/WorldItem	573	1083	1.303 rad	1418889786	1_2_11					
+Monster: Darktongue Broodwitch [Metadata/Monsters/Augury/CenobiteMother@20]	573	1083	2.111 rad	3451317329	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	564	1102	2.724 rad	3851279866	1_2_11					
+Monster: Darktongue Familiar [Metadata/Monsters/Augury/WitchFamiliar@20]	570	1112	4.831 rad	4067348319	1_2_11					
+Object: Metadata/MiscellaneousObjects/ServerDoodad	576	1104	6.275 rad	3851279866	1_2_11					
+Metadata/Chests/Pot4v1	592	1200	4.712 rad	1060404135	1_2_11					

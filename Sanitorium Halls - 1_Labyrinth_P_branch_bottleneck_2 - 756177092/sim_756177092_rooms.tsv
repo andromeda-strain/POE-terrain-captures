@@ -1,17 +1,19 @@
 sub	arm	x	y	o	src	tags
 0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/Unique/entrance_01.arm	17	5	7	node	default entrance1
 0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/Unique/entrance_01.arm	33	33	4	node	entrance3
-0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/Unique/secret_test.arm	29	9	3	node	
-0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/Unique/secret_test.arm	5	9	1	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/Unique/secret_hidden_rotated_again_1.arm	29	9	3	node	secret2
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/Unique/trinket.arm	5	9	1	node	secret1
 0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/Unique/entrance_01.arm	13	33	0	node	entrance2
-0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/Unique/lore_override_blank.arm	21	13	5	node	
-0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/Unique/bottleneck_03.arm	21	21	0	node	
-0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/1x1/turn_1_0.arm	13	29	4	node	
-0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/1x1/turn_1_0.arm	13	5	4	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/Unique/lore_override_weylin1.arm	21	13	5	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/Unique/bottleneck_02.arm	21	21	0	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/1x1/turn_1_0.arm	13	29	3	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/1x1/3way_1_2.arm	13	5	6	node	
 0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/1x1/3way_1_2.arm	17	13	4	node	
-0	Metadata/Terrain/Prison/Rooms/1x1/open_1c.arm	29	21	7	node	
-0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/1x1/spikepath_2_1.arm	37	29	6	node	
-0	Metadata/Terrain/Prison/Rooms/1x1/type_2b.arm	29	33	0	node	
-0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/1x1/straight_1_2_trap.arm	17	29	6	node	
-0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/2x2/spiketraps_4_2.arm	29	25	0	node	
-0	Metadata/Terrain/Prison/Rooms/Unique/shrine_04.arm	17	9	0	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/2x2/spiketraps_4_2.arm	29	21	4	node	
+0	Metadata/Terrain/Prison/Rooms/1x1/type_2b.arm	37	29	7	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/1x1/spikepath_2_1.arm	29	33	2	node	
+0	Metadata/Terrain/Prison/Rooms/Unique/shrine_04.arm	33	29	0	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/1x1/straight_1_2.arm	29	29	1	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/1x1/straight_1_2.arm	17	29	6	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/1x1/turn_1_0.arm	37	25	0	node	
+0	Metadata/Terrain/Labyrinth/RoomSets/Prison/Rooms/1x1/straight_1_2_trap.arm	17	9	7	node	

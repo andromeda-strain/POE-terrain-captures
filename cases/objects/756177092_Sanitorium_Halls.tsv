@@ -1,0 +1,531 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/Int/Int	432	162	4.712 rad	2621544766	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Chest8old	341	177	3.840 rad	2399007008	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Chest4	371	179	2.531 rad	1679736977	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Plumed Chimeral [Metadata/Monsters/GemMonster/Iguana@42]	432	162	0.196 rad	20135628	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	432	162	4.025 rad	4014866653	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	432	162	5.056 rad	4014866653	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	432	162	4.074 rad	4014866653	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	432	162	5.326 rad	4014866653	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	432	162	2.430 rad	4014866653	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@44]	432	162	4.393 rad	4014866653	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	432	162	1.586 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthMap	443	176	4.712 rad	743524113	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	356	218	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Object: Metadata/MiscellaneousObjects/Door	448	218	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthCascadeSpikeTrap	345	253	1.571 rad	1854554533	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthCascadeSpikeTrap	368	253	1.571 rad	1854554533	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthCascadeSpikeTrap	459	265	4.712 rad	1854554533	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthCascadeSpikeTrap	437	265	4.712 rad	1854554533	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Chest21	310	284	1.571 rad	3165843968	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	345	276	1.571 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	368	276	1.571 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	267	313	0.957 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthCascadeSpikeTrap	345	299	1.571 rad	1854554533	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthCascadeSpikeTrap	368	299	1.571 rad	1854554533	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/MiscellaneousObjects/Door	448	310	1.571 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Metadata/Chests/Barrel4old	535	316	0.813 rad	2804926028	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel5old	540	316	0.291 rad	2116127741	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel4old	545	316	5.866 rad	2804926028	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	550	317	0.736 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel1old	634	321	5.470 rad	1528648667	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel2old	629	316	3.465 rad	3707287636	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel1old	648	321	1.461 rad	1528648667	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy3Labyrinth@33]	241	328	1.963 rad	2673486424	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy1Labyrinth@33]	242	333	1.939 rad	3225674606	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy2Labyrinth@33]	257	340	1.129 rad	1531729137	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	296	340	2.896 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	341	343	3.436 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	346	339	3.780 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	526	332	0.466 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel3old	535	323	3.927 rad	3865749632	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	532	341	0.638 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel5old	639	325	4.179 rad	2116127741	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel2old	647	326	1.691 rad	3707287636	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel3old	651	331	3.309 rad	3865749632	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Labyrinth/LabyrinthTrinketChest	225	349	2.356 rad	3946590411	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel5old	251	353	2.912 rad	2116127741	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel5old	249	361	5.035 rad	2116127741	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Eternal Reanimator [Metadata/Monsters/Necromancer/NecromancerLabyrinth@33]	243	353	2.970 rad	2808115299	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	237	354	5.841 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	234	364	4.982 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy2Labyrinth@33]	243	366	3.780 rad	1531729137	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	236	347	0.123 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel3old	254	364	2.907 rad	3865749632	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel3old	259	365	2.526 rad	3865749632	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	268	360	3.976 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Eternal Reanimator [Metadata/Monsters/Necromancer/NecromancerLabyrinth@33]	278	355	4.516 rad	2808115299	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison3Labyrinth@33]	280	367	0.049 rad	4248719356	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	281	347	2.528 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	303	347	2.307 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Eternal Reanimator [Metadata/Monsters/Necromancer/NecromancerLabyrinth@33]	358	348	5.498 rad	2808115299	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy1Labyrinth@33]	363	349	4.982 rad	3225674606	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	402	356	0.000 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Metadata/Chests/Chest8old	463	350	0.698 rad	2399007008	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	494	356	3.142 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Metadata/NPC/Labyrinth/WeylinGlyph1	576	357	2.368 rad	1196906749	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Metadata/Chests/Barrel3old	640	366	5.044 rad	3865749632	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	643	358	3.608 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel4old	645	364	3.775 rad	2804926028	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	652	360	5.743 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	245	378	5.449 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	237	381	0.221 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy1Labyrinth@33]	249	390	4.050 rad	3225674606	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	251	382	1.252 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel3old	257	370	4.048 rad	3865749632	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	262	389	4.639 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	278	375	4.320 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Chest9	299	381	4.800 rad	324145545	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel3old	537	389	3.219 rad	3865749632	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel1old	544	389	3.943 rad	1528648667	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel2old	639	371	2.152 rad	3707287636	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel5old	649	369	4.810 rad	2116127741	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy2Labyrinth@33]	249	396	2.405 rad	1531729137	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel1old	541	396	2.152 rad	1528648667	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel2old	546	394	0.106 rad	3707287636	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel3old	556	393	1.266 rad	3865749632	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthCascadeSpikeTrap	345	414	1.571 rad	1854554533	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthCascadeSpikeTrap	368	414	1.571 rad	1854554533	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	345	437	1.571 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	368	437	1.571 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthCascadeSpikeTrap	345	460	1.571 rad	1854554533	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthCascadeSpikeTrap	368	460	1.571 rad	1854554533	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Effects/ServerEffect	368	276	1.571 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	572	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	598	572	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	602	586	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Metadata/Chests/Barrel1old	634	321	5.470 rad	1528648667	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel2old	629	316	3.465 rad	3707287636	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel5old	639	325	4.179 rad	2116127741	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel3old	640	366	5.044 rad	3865749632	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	643	358	3.608 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel2old	639	371	2.152 rad	3707287636	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade_Rhythm2	639	554	3.142 rad	3035758237	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade_Rhythm2	570	614	4.712 rad	3035758237	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	598	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	598	598	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	366	327	5.169 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade_Rhythm2	570	614	4.712 rad	3035758237	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	598	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	598	598	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade_Rhythm2	570	640	4.712 rad	3035758237	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	626	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	603	640	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	654	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	598	654	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Effects/ServerEffect	368	437	1.571 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	574	682	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	597	682	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	603	669	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	474	709	4.123 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	545	711	0.000 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	393	727	4.001 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	402	724	3.142 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	458	732	1.252 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy1Labyrinth@33]	464	735	1.350 rad	3225674606	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	494	724	0.000 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Metadata/NPC/Labyrinth/WeylinGlyph1	576	357	2.368 rad	1196906749	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	572	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	598	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	626	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	654	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	597	682	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	598	572	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	602	586	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	598	598	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	603	640	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	598	654	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	603	669	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/MiscellaneousObjects/Door	356	218	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Object: Metadata/MiscellaneousObjects/Door	448	218	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	598	572	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	602	586	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	598	598	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	603	640	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	598	654	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	603	669	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Effects/ServerEffect	368	437	1.571 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Chest8old	341	177	3.840 rad	2399007008	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Chest4	371	179	2.531 rad	1679736977	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthMap	443	176	4.712 rad	743524113	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	598	572	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	602	586	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	598	598	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Metadata/Chests/Barrel1old	634	321	5.470 rad	1528648667	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel2old	629	316	3.465 rad	3707287636	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel5old	639	325	4.179 rad	2116127741	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel3old	640	366	5.044 rad	3865749632	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	643	358	3.608 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel2old	639	371	2.152 rad	3707287636	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade_Rhythm2	639	554	3.142 rad	3035758237	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	357	344	3.866 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel1old	648	321	1.461 rad	1528648667	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel2old	647	326	1.691 rad	3707287636	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel3old	651	331	3.309 rad	3865749632	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel4old	645	364	3.775 rad	2804926028	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	652	360	5.743 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel5old	649	369	4.810 rad	2116127741	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	667	359	3.534 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	678	356	0.000 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	667	377	4.590 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	678	540	0.000 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Metadata/Chests/Barrel1old	693	363	4.038 rad	1528648667	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel1old	700	365	2.911 rad	1528648667	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel3old	695	368	4.807 rad	3865749632	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel3old	690	373	4.852 rad	3865749632	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel3old	705	375	1.409 rad	3865749632	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel5old	695	373	2.111 rad	2116127741	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Chest3	711	479	3.840 rad	3172158140	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	724	310	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Object: Metadata/MiscellaneousObjects/Door	724	494	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	602	586	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Monster: Eternal Reanimator [Metadata/Monsters/Necromancer/NecromancerLabyrinth@33]	758	410	0.712 rad	2808115299	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	751	403	5.130 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	758	418	3.142 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Chest6	741	475	4.800 rad	2224233642	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	737	545	3.436 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison3Labyrinth@33]	736	571	1.546 rad	4248719356	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	537	356	1.055 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	535	360	1.669 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	535	367	2.454 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	533	364	0.540 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	770	333	0.000 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Object: Metadata/MiscellaneousObjects/Door	770	379	0.000 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	780	418	3.068 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	763	425	3.706 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison1Labyrinth@33]	777	427	3.436 rad	1464090191	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	770	425	3.142 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison2Labyrinth@33]	763	544	2.209 rad	3419231554	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison3Labyrinth@33]	763	535	2.135 rad	4248719356	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison3Labyrinth@33]	761	556	2.847 rad	4248719356	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	801	527	0.319 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	826	548	4.025 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy1Labyrinth@33]	825	539	3.731 rad	3225674606	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	812	540	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy1Labyrinth@33]	809	553	5.645 rad	3225674606	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy1Labyrinth@33]	848	257	1.497 rad	3225674606	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison2Labyrinth@33]	843	279	0.344 rad	3419231554	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	843	303	3.166 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	845	367	5.547 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison1Labyrinth@33]	847	375	0.147 rad	1464090191	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy2Labyrinth@33]	846	382	1.841 rad	1531729137	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy3Labyrinth@33]	830	537	2.307 rad	2673486424	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	834	544	5.621 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	832	549	4.786 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	649	364	5.719 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	645	368	1.595 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	532	338	5.820 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	652	363	2.258 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	643	371	1.252 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison3Labyrinth@33]	855	274	3.485 rad	4248719356	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Objects/HiddenDoor_Short	862	321	4.712 rad	2686074354	1_Labyrinth_P_branch_bottleneck_2	16	-130.003			
+Object: Metadata/MiscellaneousObjects/WorldItem	640	366	5.874 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@33]	639	371	4.491 rad	3274702746	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Eternal Reanimator [Metadata/Monsters/Necromancer/NecromancerLabyrinth@33]	853	381	2.945 rad	2808115299	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison1Labyrinth@33]	866	372	4.982 rad	1464090191	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	639	359	3.078 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Objects/HiddenDoor_Switch	882	312	0.000 rad	3213752490	1_Labyrinth_P_branch_bottleneck_2	13	-108.696			
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	890	359	1.988 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	884	359	5.964 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	896	374	2.724 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	875	381	3.829 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthDarkshrineHidden	874	388	0.000 rad	1905094214	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	642	353	3.693 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	899	382	3.338 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@33]	693	363	1.129 rad	3274702746	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@33]	700	365	5.130 rad	3274702746	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade_Rhythm2	570	614	4.712 rad	3035758237	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	598	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	598	598	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	761	397	3.706 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	760	400	0.245 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	656	375	3.058 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	758	395	5.522 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	758	403	5.768 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade_Rhythm2	570	640	4.712 rad	3035758237	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	626	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	603	640	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison3Labyrinth@33]	825	629	2.037 rad	4248719356	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	812	632	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison1Labyrinth@33]	830	640	5.130 rad	1464090191	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	838	623	0.245 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	862	632	3.142 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	654	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	598	654	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Metadata/Chests/StrongBoxes/Arsenal	809	652	5.585 rad	1661206832	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	751	390	5.740 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	756	408	2.151 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	756	408	4.466 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	753	414	5.572 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	528	330	3.333 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	527	349	4.562 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	528	330	3.333 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	527	349	4.562 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	574	682	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	597	682	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	603	669	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/MiscellaneousObjects/Door	724	678	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Object: Metadata/MiscellaneousObjects/Door	908	678	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	781	428	4.386 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	736	425	2.587 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	494	356	3.142 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	574	682	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	597	682	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	603	669	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/MiscellaneousObjects/Door	724	678	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Object: Metadata/MiscellaneousObjects/Door	908	678	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	574	682	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	597	682	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	603	669	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/MiscellaneousObjects/Door	724	678	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Object: Metadata/MiscellaneousObjects/Door	908	678	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	545	711	0.000 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison3Labyrinth@33]	842	707	4.663 rad	4248719356	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy2Labyrinth@33]	830	709	3.657 rad	1531729137	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Chest8old	880	690	2.792 rad	2399007008	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison1Labyrinth@33]	894	709	1.767 rad	1464090191	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	494	724	0.000 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy1Labyrinth@33]	732	734	2.749 rad	3225674606	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy2Labyrinth@33]	739	720	1.104 rad	1531729137	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	827	732	1.694 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Shrines/Shrine	821	729	0.000 rad	2857838571	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Eternal Reanimator [Metadata/Monsters/Necromancer/NecromancerLabyrinth@33]	841	729	1.301 rad	2808115299	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy1Labyrinth@33]	841	716	3.976 rad	3225674606	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	834	731	5.351 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	836	724	4.884 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	847	713	5.866 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison2Labyrinth@33]	828	720	5.031 rad	3419231554	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	870	734	1.718 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy3Labyrinth@33]	851	732	1.865 rad	2673486424	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Eternal Reanimator [Metadata/Monsters/Necromancer/NecromancerLabyrinth@33]	725	736	0.614 rad	2808115299	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	713	748	3.264 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy3Labyrinth@33]	718	736	0.663 rad	2673486424	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	737	746	3.657 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison3Labyrinth@33]	820	738	6.160 rad	4248719356	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	812	744	1.006 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	823	754	2.994 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy1Labyrinth@33]	840	755	1.694 rad	3225674606	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	831	751	5.301 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	845	737	0.442 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Eternal Reanimator [Metadata/Monsters/Necromancer/NecromancerLabyrinth@33]	840	736	3.166 rad	2808115299	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	832	758	4.197 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	832	739	4.639 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison1Labyrinth@33]	838	750	2.798 rad	1464090191	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison2Labyrinth@33]	838	744	0.908 rad	3419231554	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy1Labyrinth@33]	871	743	4.811 rad	3225674606	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	861	739	3.043 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	852	748	2.209 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	856	739	2.651 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Chest8old	883	758	0.087 rad	2399007008	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Tormented Storm Cultist [Metadata/Monsters/Spirit/TormentedExperimenter@33]	893	753	2.405 rad	2448901145	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison2Labyrinth@33]	902	746	5.228 rad	3419231554	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	642	361	0.000 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	655	358	0.427 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	732	535	0.123 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	737	534	6.210 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	638	360	3.307 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	749	423	0.000 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	738	531	4.025 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	740	534	4.786 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	749	425	2.356 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	788	421	1.571 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	730	538	4.074 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	729	533	1.865 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	737	525	5.171 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	732	529	3.445 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	717	779	1.718 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	724	770	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Object: Metadata/MiscellaneousObjects/Door	816	770	1.571 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	726	545	1.976 rad	90915766	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	726	542	1.571 rad	90915766	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	758	526	5.679 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	754	531	0.086 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	726	542	1.571 rad	90915766	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Chest8old	463	350	0.698 rad	2399007008	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	474	709	4.123 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy1Labyrinth@33]	464	735	1.350 rad	3225674606	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy3Labyrinth@33]	460	741	0.785 rad	2673486424	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	737	544	4.332 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	737	544	6.151 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	448	310	1.571 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	458	732	1.252 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	789	529	1.186 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	790	531	6.106 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	693	800	3.976 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	703	791	4.271 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison3Labyrinth@33]	697	795	0.982 rad	4248719356	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	712	804	3.142 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	735	804	3.142 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	405	354	0.829 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	402	356	0.000 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	393	727	4.001 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	402	724	3.142 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	391	755	1.988 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	368	344	6.017 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthCascadeSpikeTrap	368	414	1.571 rad	1854554533	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	368	437	1.571 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthCascadeSpikeTrap	368	460	1.571 rad	1854554533	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	377	756	2.675 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy2Labyrinth@33]	388	744	5.203 rad	1531729137	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison1Labyrinth@33]	387	750	4.761 rad	1464090191	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	384	758	3.461 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	357	344	3.142 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	364	339	4.792 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy1Labyrinth@33]	363	346	3.105 rad	3225674606	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthCascadeSpikeTrap	345	414	1.571 rad	1854554533	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	345	437	1.571 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthCascadeSpikeTrap	345	460	1.571 rad	1854554533	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy1Labyrinth@33]	367	771	4.835 rad	3225674606	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthCascadeSpikeTrap	368	299	1.571 rad	1854554533	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/MiscellaneousObjects/Door	448	310	1.571 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Metadata/Chests/Barrel4old	545	316	5.866 rad	2804926028	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel4old	535	316	0.813 rad	2804926028	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel5old	540	316	0.291 rad	2116127741	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel1old	634	321	5.470 rad	1528648667	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel2old	629	316	3.465 rad	3707287636	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Barrel1old	648	321	1.461 rad	1528648667	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	724	310	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison1Labyrinth@33]	846	373	2.944 rad	1464090191	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy2Labyrinth@33]	847	388	2.090 rad	1531729137	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Eternal Reanimator [Metadata/Monsters/Necromancer/NecromancerLabyrinth@33]	845	395	4.556 rad	2808115299	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison1Labyrinth@33]	830	640	5.130 rad	1464090191	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison3Labyrinth@33]	850	708	1.695 rad	4248719356	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Eternal Reanimator [Metadata/Monsters/Necromancer/NecromancerLabyrinth@33]	841	729	1.301 rad	2808115299	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy1Labyrinth@33]	841	716	3.976 rad	3225674606	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	834	731	5.351 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	836	724	4.884 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	847	713	5.866 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison2Labyrinth@33]	828	720	5.031 rad	3419231554	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy2Labyrinth@33]	832	713	2.601 rad	1531729137	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy1Labyrinth@33]	840	755	1.694 rad	3225674606	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	831	751	5.301 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	845	737	0.442 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Eternal Reanimator [Metadata/Monsters/Necromancer/NecromancerLabyrinth@33]	840	736	3.166 rad	2808115299	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	832	758	4.197 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	832	739	4.639 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison1Labyrinth@33]	838	750	2.798 rad	1464090191	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison2Labyrinth@33]	838	744	0.908 rad	3419231554	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Objects/HiddenDoor_Short	862	321	4.712 rad	2686074354	1_Labyrinth_P_branch_bottleneck_2	16	-130.003			
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison1Labyrinth@33]	856	384	2.793 rad	1464090191	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	865	378	5.878 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	852	372	5.300 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	862	632	3.142 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	870	734	1.718 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy3Labyrinth@33]	851	732	1.865 rad	2673486424	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Contender [Metadata/Monsters/ZombieDismember/ZombieMoldy1Labyrinth@33]	871	743	4.811 rad	3225674606	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	861	739	3.043 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	852	748	2.209 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	856	739	2.651 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Objects/HiddenDoor_Switch	882	312	0.000 rad	3213752490	1_Labyrinth_P_branch_bottleneck_2	13	-108.696			
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonBowLabyrinth@33]	892	389	2.034 rad	580515950	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	892	377	2.459 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthDarkshrineHidden	874	388	0.000 rad	1905094214	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Chest8old	880	690	2.792 rad	2399007008	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison1Labyrinth@33]	894	713	3.142 rad	1464090191	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Chest8old	883	758	0.087 rad	2399007008	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Tormented Storm Cultist [Metadata/Monsters/Spirit/TormentedExperimenter@33]	893	753	2.405 rad	2448901145	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	897	375	4.675 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Ancient Contender [Metadata/Monsters/Skeletons/SkeletonMeleeLabyrinth@33]	897	380	1.571 rad	3328247911	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	908	678	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison2Labyrinth@33]	902	746	5.228 rad	3419231554	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	812	540	0.000 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	693	800	3.976 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Putrescent Contender [Metadata/Monsters/ZombieDismember/ZombieTarLabyrinth@33]	703	791	4.271 rad	3906739586	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Rotting Claimant [Metadata/Monsters/ZombieDismember/ZombieMoldyPoison3Labyrinth@33]	697	795	0.982 rad	4248719356	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	712	804	3.142 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	735	804	3.142 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/NPC/Labyrinth/WeylinGlyph1	576	357	2.368 rad	1196906749	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	572	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	598	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	626	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	654	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	597	682	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	712	827	3.142 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	735	827	3.142 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/AreaTransitionToggleable	827	820	1.571 rad	65050683	1_Labyrinth_P_branch_bottleneck_2	0	-0.000	5	25204	Aspirant's Trial
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthMap	812	811	0.000 rad	743524113	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	850	620	1.522 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	852	623	0.319 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	845	630	3.480 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	825	630	1.612 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	831	625	4.897 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	831	625	3.837 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	895	720	4.811 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	898	718	2.160 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	890	702	1.350 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	890	706	2.872 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	840	620	5.498 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	907	714	2.479 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	910	713	4.982 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	883	719	3.267 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	897	726	4.613 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	893	716	1.892 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	887	729	3.428 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade_Rhythm2	639	554	3.142 rad	3035758237	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/MiscellaneousObjects/Door	724	494	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	862	737	1.242 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade_Rhythm2	639	554	3.142 rad	3035758237	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	871	715	0.000 rad	90915766	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	853	742	2.211 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	878	721	1.976 rad	90915766	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Chest3	711	479	3.840 rad	3172158140	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Chests/Chest6	741	475	4.800 rad	2224233642	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	858	733	2.578 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	857	733	1.241 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	848	735	0.924 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	845	740	1.288 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	861	740	0.000 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	861	740	0.000 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	846	736	3.023 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	846	725	0.556 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade_Rhythm2	639	554	3.142 rad	3035758237	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	887	729	5.538 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	849	734	3.952 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	807	642	4.636 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	870	744	1.595 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	871	747	0.859 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	853	742	1.998 rad	316014466	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	854	731	5.333 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	849	738	2.356 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	873	740	2.160 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	877	740	2.896 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	846	730	0.000 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	853	728	4.991 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	876	731	1.031 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	875	736	5.081 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	846	726	2.704 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	851	733	5.663 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	850	740	2.847 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	853	740	3.706 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	859	738	4.712 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	861	731	4.516 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	864	731	5.105 rad	605215126	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	864	740	4.957 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/Effects/ServerEffect	878	736	0.606 rad	2646652649	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	776	732	0.412 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	776	732	0.731 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	780	729	5.720 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	780	732	1.751 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	780	735	5.684 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	776	732	2.329 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/WorldItem	776	732	4.055 rad	1418889786	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	724	494	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	598	572	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	602	586	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	598	598	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	603	640	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	598	654	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	603	669	1.571 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	572	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	598	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	626	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	575	654	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	597	682	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade_Rhythm2	570	614	4.712 rad	3035758237	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade_Rhythm2	570	640	4.712 rad	3035758237	1_Labyrinth_P_branch_bottleneck_2	0	-5.435			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthSpikeTrap_Pressure	574	682	0.000 rad	1966398854	1_Labyrinth_P_branch_bottleneck_2	1	-10.870			
+Object: Metadata/MiscellaneousObjects/Door	724	494	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	781	729	5.407 rad	90915766	1_Labyrinth_P_branch_bottleneck_2					
+Object: Metadata/MiscellaneousObjects/Door	724	494	4.712 rad	1399266459	1_Labyrinth_P_branch_bottleneck_2	0	0.000			
+Object: Metadata/Terrain/Labyrinth/Traps/LabyrinthAbyssEdgeBlade	545	711	0.000 rad	2414228518	1_Labyrinth_P_branch_bottleneck_2					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@48]	775	719	5.640 rad	90915766	1_Labyrinth_P_branch_bottleneck_2					

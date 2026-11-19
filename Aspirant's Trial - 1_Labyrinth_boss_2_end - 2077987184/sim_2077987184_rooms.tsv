@@ -1,0 +1,4 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/Unique/boss_end_notraps.arm	28	28	0	node	teleport2disabled teleport4disabled-AscendencyChamberDoor telepad1 telepad3 killzone=0
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/Unique/boss_ascendancy.arm	4	36	7	node	teleport3 telepad4 killzone=4
+0	Metadata/Terrain/Labyrinth/RoomSets/ElegantHouse/Rooms/Unique/boss_entry_2_3.arm	28	4	0	node	default entrance1 entrance2 teleport1 telepad2 killzone=4

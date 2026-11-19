@@ -1,0 +1,1544 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/Int/Int	209	422	3.142 rad	2621544766	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/AreaTransition	205	372	0.000 rad	726109394	1_SideArea4_4	13	-101.921	3	24086	The Dried Lake
+Monster: Plumed Chimeral [Metadata/Monsters/GemMonster/Iguana@42]	209	422	1.325 rad	20135628	1_SideArea4_4					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@48]	209	422	1.276 rad	1833384429	1_SideArea4_4					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@48]	209	422	5.940 rad	1833384429	1_SideArea4_4					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@48]	209	422	1.595 rad	1833384429	1_SideArea4_4					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@48]	209	422	4.001 rad	1833384429	1_SideArea4_4					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@48]	209	422	0.000 rad	1833384429	1_SideArea4_4					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@48]	209	422	1.104 rad	1833384429	1_SideArea4_4					
+Object: Metadata/Effects/ServerEffect	209	422	0.385 rad	2646652649	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	316	540	4.909 rad	3703550442	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	354	550	5.547 rad	2822426349	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	103	568	6.062 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	125	568	2.381 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	238	572	3.583 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	244	565	5.424 rad	158731904	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	250	573	6.234 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	314	569	0.417 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	335	565	2.577 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	342	568	5.301 rad	3703550442	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	346	562	4.246 rad	2822426349	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	124	585	0.785 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	127	577	0.834 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	137	584	5.449 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	148	575	1.767 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	218	577	5.179 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	222	597	0.785 rad	1515750506	1_SideArea4_4					
+Monster: Shrine Daemon [Metadata/Monsters/Daemon/ShrineDaemonCold@35]	214	591	0.000 rad	3288453580	1_SideArea4_4					
+Object: Metadata/Shrines/Shrine	214	591	5.617 rad	2857838571	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	234	594	3.780 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	234	580	1.473 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	240	597	1.276 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	247	591	0.810 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	241	581	1.154 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	240	589	6.038 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	233	586	0.098 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	330	577	5.645 rad	3703550442	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	338	575	1.914 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	350	596	5.105 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	351	578	1.865 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	346	577	5.203 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	177	599	4.614 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	164	604	4.860 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	198	620	2.994 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	227	613	5.301 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	217	610	2.307 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	229	608	1.154 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	222	609	3.264 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	207	604	4.590 rad	2822426349	1_SideArea4_4					
+Metadata/Chests/Barrel5old	249	617	2.382 rad	2116127741	1_SideArea4_4					
+Metadata/Chests/Barrel5old	248	608	0.034 rad	2116127741	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	234	612	6.234 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	234	602	4.811 rad	158731904	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	237	617	1.374 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	243	604	2.479 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Barrel3old	259	613	3.244 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel1old	264	615	6.072 rad	1528648667	1_SideArea4_4					
+Metadata/Chests/Chest14	253	601	1.920 rad	3089877171	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	256	608	3.461 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Basket3old	61	634	4.329 rad	3468315289	1_SideArea4_4					
+Metadata/Chests/Basket3old	58	629	4.886 rad	3468315289	1_SideArea4_4					
+Metadata/Chests/Basket1old	63	629	4.607 rad	2211595643	1_SideArea4_4					
+Metadata/Chests/Basket3old	66	634	6.182 rad	3468315289	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	164	629	4.418 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	192	625	4.835 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	233	625	2.283 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	402	629	1.178 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	410	660	3.338 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	400	657	3.559 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	403	648	2.430 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	424	656	0.123 rad	2822426349	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	2.633 rad	316014466	1_SideArea4_4					
+Metadata/Chests/Chest18	278	670	2.064 rad	2444280933	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	280	679	4.590 rad	1736121777	1_SideArea4_4					
+Metadata/Chests/Chest10	428	670	4.082 rad	208860067	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	415	672	3.952 rad	2822426349	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	1.966 rad	316014466	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	298	690	3.706 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	284	705	1.988 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	285	712	4.565 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	291	712	1.424 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	310	697	3.706 rad	1736121777	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	1.638 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	3.258 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	208	515	3.142 rad	2197041943	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	207	515	3.266 rad	2197041943	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	5.081 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	207	515	3.266 rad	2197041943	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	207	515	3.266 rad	2197041943	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	1.310 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	210	515	2.897 rad	2197041943	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	207	515	3.266 rad	2197041943	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	4.679 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	0.803 rad	316014466	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	384	792	5.179 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	398	799	6.087 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	406	788	1.497 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	394	788	5.351 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	420	794	0.000 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	432	790	1.571 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	425	803	1.841 rad	3703550442	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	0.440 rad	316014466	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	482	591	4.025 rad	2822426349	1_SideArea4_4					
+Metadata/Chests/Chest12	470	680	5.976 rad	2121128972	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	0.472 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	266	552	3.103 rad	1418889786	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	4.665 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	261	559	0.842 rad	1418889786	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	2.658 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	5.898 rad	316014466	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	482	591	4.025 rad	2822426349	1_SideArea4_4					
+Metadata/Chests/Chest12	470	680	5.976 rad	2121128972	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	0.076 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	243	623	0.405 rad	2197041943	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	206	580	4.805 rad	1418889786	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	243	594	2.919 rad	1418889786	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	1.779 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	242	622	0.245 rad	2197041943	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	6.160 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/AreaTransition	205	372	0.000 rad	726109394	1_SideArea4_4	13	-101.921	3	24086	The Dried Lake
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	6.166 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	214	591	6.159 rad	316014466	1_SideArea4_4					
+Monster: Shrine Daemon [Metadata/Monsters/Daemon/ShrineDaemonColdPlayer@35]	202	582	0.000 rad	2124617230	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	202	582	0.606 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	179	593	3.156 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	156	609	5.561 rad	316014466	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	402	629	1.178 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	410	660	3.338 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	408	666	1.849 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	403	648	2.430 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	412	791	0.785 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	404	790	3.142 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	394	788	5.351 rad	3703550442	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	180	632	2.488 rad	316014466	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	424	656	0.123 rad	2822426349	1_SideArea4_4					
+Metadata/Chests/Chest10	428	670	4.082 rad	208860067	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	415	672	3.952 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	420	794	0.000 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	432	790	1.571 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	425	803	1.841 rad	3703550442	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	201	657	5.392 rad	316014466	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	456	916	4.688 rad	2822426349	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	226	682	1.671 rad	316014466	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	482	591	4.025 rad	2822426349	1_SideArea4_4					
+Metadata/Chests/Chest12	470	680	5.976 rad	2121128972	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	476	917	0.000 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	447	920	6.111 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	457	927	0.466 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	461	920	4.541 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	461	938	5.719 rad	2822426349	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	251	707	1.247 rad	316014466	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	504	486	2.233 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	496	502	1.914 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	497	513	5.203 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	503	510	1.914 rad	158731904	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	500	734	4.737 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	504	741	5.817 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Chest12	484	798	5.564 rad	2121128972	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	495	804	2.062 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Chest14	454	953	4.122 rad	3089877171	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	507	591	4.860 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	517	585	4.050 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	509	601	4.516 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	520	603	3.117 rad	2822426349	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	275	732	4.633 rad	316014466	1_SideArea4_4					
+Monster: Knitted Horror [Metadata/Monsters/MassSkeleton/MassSkeleton@35]	511	733	2.749 rad	2297942902	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	525	724	3.510 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	523	746	1.595 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	523	793	3.510 rad	1515750506	1_SideArea4_4					
+Monster: Knitted Horror [Metadata/Monsters/MassSkeleton/MassSkeleton@35]	518	808	2.283 rad	2297942902	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	523	808	0.147 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	519	824	2.528 rad	1515750506	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	409	983	4.688 rad	1736121777	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	542	592	5.351 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	537	675	5.964 rad	1515750506	1_SideArea4_4					
+Monster: Shrine Daemon [Metadata/Monsters/Daemon/ShrineDaemonLightning@35]	545	682	0.000 rad	95214732	1_SideArea4_4					
+Object: Metadata/Shrines/Shrine	545	682	4.046 rad	2857838571	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	543	703	2.332 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	538	690	1.350 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	541	697	0.614 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	532	816	6.038 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	539	824	5.498 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	544	818	0.614 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Chest18	550	853	2.608 rad	2444280933	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	301	754	4.963 rad	316014466	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	372	1004	3.804 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	392	994	2.749 rad	1736121777	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	565	590	4.050 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	574	580	3.510 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	563	598	1.620 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	553	663	0.614 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	568	664	2.528 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	560	665	3.264 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	568	675	2.381 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	566	682	1.620 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	573	686	4.197 rad	1515750506	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	570	669	2.111 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	554	680	0.491 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	556	687	2.872 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	571	681	5.301 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	559	679	5.154 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	571	699	3.485 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	556	700	1.767 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	566	696	1.227 rad	1515750506	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	564	690	2.037 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	565	711	3.829 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	562	704	2.945 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	573	712	0.712 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	554	706	4.467 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	568	716	4.295 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	558	720	4.074 rad	1515750506	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	331	767	3.917 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	342	773	2.090 rad	2197041943	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	342	773	2.090 rad	2197041943	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	3.432 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	333	777	3.387 rad	2197041943	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	4.397 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	3.090 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	5.206 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	1.016 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	1.553 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	4.923 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	4.620 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	0.524 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	2.205 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	4.992 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	2.571 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	2.190 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	0.357 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	4.991 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	4.333 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	6.261 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	3.842 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	3.392 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	2.159 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	3.704 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	5.856 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	335	769	2.157 rad	316014466	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	585	587	2.283 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	577	596	2.209 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	595	593	1.374 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	592	665	1.399 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	591	676	5.081 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	585	678	5.351 rad	1515750506	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	589	671	0.147 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	580	678	0.614 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	580	684	3.878 rad	158731904	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	591	698	1.571 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	589	693	2.872 rad	1515750506	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	582	692	3.510 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	580	698	0.515 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	575	704	4.786 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	594	881	2.700 rad	2822426349	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	349	764	6.098 rad	316014466	1_SideArea4_4					
+Metadata/Chests/Chest10	603	623	1.273 rad	208860067	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	601	700	4.491 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Chest11	615	757	0.591 rad	3940991968	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	601	781	4.811 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	603	769	4.933 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	613	877	5.105 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	618	893	4.197 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	604	897	5.154 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	610	906	4.467 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	616	1009	6.013 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	611	1001	5.522 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	619	1002	3.043 rad	158731904	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	400	1014	3.632 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	396	1022	2.528 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	469	1032	0.908 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	485	1023	4.909 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	610	1015	1.816 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	615	1016	3.927 rad	3703550442	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	370	787	0.129 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	515	656	1.035 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	534	644	0.864 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	556	644	5.384 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	575	656	4.180 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	506	677	2.656 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	584	677	1.807 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	509	698	5.426 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	581	698	4.155 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	524	715	4.242 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	545	722	3.583 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	566	715	4.911 rad	316014466	1_SideArea4_4					
+Metadata/Chests/Barrel3old	333	1050	2.882 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Chest14	356	1035	2.909 rad	3089877171	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	470	1046	1.669 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	482	1051	1.473 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	477	1047	5.768 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	470	1037	5.841 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	492	1044	0.025 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	485	1044	0.785 rad	1736121777	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	377	819	4.230 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	515	656	4.454 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	534	644	1.768 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	556	644	1.338 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	575	656	4.567 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	506	677	5.960 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	584	677	5.465 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	509	698	1.305 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	581	698	0.925 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	524	715	5.919 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	545	722	4.320 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	566	715	1.130 rad	316014466	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	628	760	3.878 rad	2822426349	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	400	843	1.910 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	515	656	0.425 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	534	644	1.468 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	556	644	2.150 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	575	656	6.015 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	506	677	0.086 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	584	677	3.434 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	509	698	5.178 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	581	698	6.189 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	524	715	0.664 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	545	722	0.891 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	566	715	5.246 rad	316014466	1_SideArea4_4					
+Metadata/Chests/Basket1old	661	1073	4.582 rad	2211595643	1_SideArea4_4					
+Metadata/Chests/Basket2old	663	1068	6.202 rad	866946829	1_SideArea4_4					
+Metadata/Chests/Basket3old	663	1063	2.283 rad	3468315289	1_SideArea4_4					
+Metadata/Chests/Basket1old	656	1078	1.752 rad	2211595643	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	422	869	0.801 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	427	879	2.737 rad	2197041943	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	420	879	3.661 rad	2197041943	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	425	872	2.191 rad	316014466	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	679	621	2.405 rad	1515750506	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	688	894	4.663 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	675	896	2.700 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	682	905	0.393 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	677	907	4.860 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	616	1119	2.013 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	618	1125	5.228 rad	1515750506	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	440	893	6.133 rad	316014466	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	611	1138	0.319 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	608	1143	2.724 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	616	1135	2.332 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Barrel3old	649	1138	2.446 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel4old	644	1134	2.195 rad	2804926028	1_SideArea4_4					
+Metadata/Chests/Barrel2old	646	1143	3.417 rad	3707287636	1_SideArea4_4					
+Metadata/Chests/Barrel3old	651	1143	3.186 rad	3865749632	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	431	924	2.507 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	431	876	1.315 rad	1418889786	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	431	933	3.017 rad	2197041943	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	426	874	4.971 rad	1418889786	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	430	933	3.142 rad	2197041943	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	405	855	3.791 rad	1418889786	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	430	925	4.421 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	430	933	3.142 rad	2197041943	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	612	1194	1.080 rad	1515750506	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	688	894	4.663 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	675	896	2.700 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	682	905	0.393 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	677	907	4.860 rad	1736121777	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	436	945	1.856 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	422	886	4.836 rad	1418889786	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	610	1212	0.859 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	611	1201	5.031 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	631	1208	4.639 rad	1515750506	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	424	973	2.595 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	413	993	3.546 rad	2197041943	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	416	986	5.518 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	413	993	3.546 rad	2197041943	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	424	870	3.539 rad	1418889786	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	609	1240	1.301 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	613	1228	2.233 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	611	1221	2.184 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Barrel3old	631	1239	5.731 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel2old	636	1236	5.167 rad	3707287636	1_SideArea4_4					
+Metadata/Chests/Barrel3old	626	1236	3.431 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel5old	633	1231	1.434 rad	2116127741	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	404	1003	1.746 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	442	1018	4.737 rad	1418889786	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	467	1028	1.542 rad	1418889786	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	382	781	5.764 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	391	777	5.640 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	401	776	3.142 rad	158731904	1_SideArea4_4					
+Monster: Knitted Horror [Metadata/Monsters/MassSkeleton/MassSkeleton@35]	519	760	1.391 rad	2297942902	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	601	781	4.811 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	603	769	4.933 rad	2822426349	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	385	1008	4.085 rad	316014466	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	628	760	3.878 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	621	1004	2.356 rad	158731904	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	631	1208	4.639 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Barrel3old	631	1239	5.731 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel2old	636	1236	5.167 rad	3707287636	1_SideArea4_4					
+Metadata/Chests/Barrel3old	626	1236	3.431 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel5old	633	1231	1.434 rad	2116127741	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	402	1014	3.441 rad	1418889786	1_SideArea4_4					
+Metadata/Chests/Basket1old	661	1073	4.582 rad	2211595643	1_SideArea4_4					
+Metadata/Chests/Basket2old	663	1068	6.202 rad	866946829	1_SideArea4_4					
+Metadata/Chests/Basket3old	663	1063	2.283 rad	3468315289	1_SideArea4_4					
+Metadata/Chests/Basket1old	656	1078	1.752 rad	2211595643	1_SideArea4_4					
+Metadata/Chests/Barrel3old	649	1138	2.446 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel4old	644	1134	2.195 rad	2804926028	1_SideArea4_4					
+Metadata/Chests/Barrel2old	646	1143	3.417 rad	3707287636	1_SideArea4_4					
+Metadata/Chests/Barrel3old	651	1143	3.186 rad	3865749632	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	416	1003	5.924 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	434	1001	1.446 rad	2197041943	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	434	1002	3.679 rad	316014466	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	688	894	4.663 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	675	896	2.700 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	682	905	0.393 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	677	907	4.860 rad	1736121777	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	684	1213	0.638 rad	2822426349	1_SideArea4_4					
+Object: Metadata/Effects/ServerEffect	447	939	3.626 rad	2646652649	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	404	755	3.463 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	411	736	3.387 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	494	751	3.065 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	518	741	5.796 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	506	741	1.571 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Chest11	615	757	0.591 rad	3940991968	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	696	891	2.062 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	710	893	2.479 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	692	907	0.982 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	694	899	6.210 rad	1736121777	1_SideArea4_4					
+Metadata/Chests/Chest10	697	922	0.622 rad	208860067	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	459	984	4.305 rad	316014466	1_SideArea4_4					
+Metadata/Chests/Barrel3old	699	1011	3.993 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel2old	699	1019	0.717 rad	3707287636	1_SideArea4_4					
+Metadata/Chests/Barrel3old	696	1024	2.720 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel3old	707	1014	1.105 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel3old	694	1015	5.587 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel2old	704	1019	2.695 rad	3707287636	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	708	1071	5.890 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	709	1058	5.792 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	698	1093	6.136 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	710	1104	0.687 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	706	1123	5.105 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	708	1118	0.368 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	709	1145	0.491 rad	3703550442	1_SideArea4_4					
+Monster: Shrine Daemon [Metadata/Monsters/Daemon/ShrineDaemonLightning@35]	705	1133	0.000 rad	95214732	1_SideArea4_4					
+Object: Metadata/Shrines/Shrine	705	1133	2.475 rad	2857838571	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	698	1155	4.050 rad	158731904	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	700	1177	3.387 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	707	1181	3.191 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	700	1207	2.086 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	712	1200	3.313 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	413	728	3.605 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	497	735	5.820 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	572	713	0.862 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	558	720	4.074 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	585	713	1.571 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	452	942	2.111 rad	3703550442	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	469	954	5.741 rad	316014466	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	414	702	3.413 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	541	697	0.614 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	571	699	3.485 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	557	693	5.093 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	566	696	1.227 rad	1515750506	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	564	690	2.037 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	567	704	0.000 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	553	698	0.000 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	554	706	4.467 rad	158731904	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	552	693	1.616 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	574	705	3.816 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	594	698	1.107 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	593	690	5.663 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	580	698	0.515 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	601	700	4.491 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	451	943	2.356 rad	3703550442	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	481	924	4.228 rad	316014466	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	734	954	5.007 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	722	985	0.589 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	733	996	4.516 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	728	996	3.461 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	730	1079	2.921 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	716	1075	0.221 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	723	1075	0.221 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	724	1125	5.203 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	716	1117	3.755 rad	158731904	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	725	1146	5.105 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	723	1132	0.000 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	718	1135	5.400 rad	2822426349	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	273	676	5.837 rad	1736121777	1_SideArea4_4					
+Metadata/Chests/Chest18	278	670	2.064 rad	2444280933	1_SideArea4_4					
+Metadata/Chests/Chest10	428	670	4.082 rad	208860067	1_SideArea4_4					
+Metadata/Chests/Chest12	470	680	5.976 rad	2121128972	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	537	683	2.678 rad	1515750506	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	551	686	0.322 rad	1736121777	1_SideArea4_4					
+Monster: Shrine Daemon [Metadata/Monsters/Daemon/ShrineDaemonLightning@35]	545	682	0.000 rad	95214732	1_SideArea4_4					
+Object: Metadata/Shrines/Shrine	545	682	4.046 rad	2857838571	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	568	675	2.381 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	566	682	1.620 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	573	686	4.712 rad	1515750506	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	570	669	2.159 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	554	680	0.000 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	556	687	2.872 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	571	681	5.301 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	559	680	2.678 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	591	676	5.081 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	585	678	5.351 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	442	943	4.038 rad	3703550442	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	589	671	0.147 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	580	678	0.614 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	580	684	3.878 rad	158731904	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	584	689	0.644 rad	1736121777	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	584	677	1.807 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	584	677	5.465 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	584	677	3.434 rad	316014466	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	724	1138	2.945 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	714	1140	0.074 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	729	1141	1.644 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	729	1132	2.773 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	715	1147	4.491 rad	158731904	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	268	651	5.341 rad	1736121777	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	412	653	5.992 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	420	656	3.266 rad	2822426349	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	515	656	0.425 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	534	644	1.468 rad	316014466	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	553	663	0.614 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	568	664	2.528 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	560	665	3.264 rad	1515750506	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	556	644	5.384 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	556	644	1.338 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	556	644	2.150 rad	316014466	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	592	665	1.399 rad	1515750506	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	575	656	4.180 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	575	656	4.567 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	575	656	6.015 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	497	894	4.869 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	501	887	0.519 rad	2197041943	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	501	887	0.519 rad	2197041943	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	497	894	3.403 rad	316014466	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	754	914	4.541 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	750	938	2.994 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	756	945	3.289 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	742	963	0.638 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	749	1122	5.522 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	736	1124	1.203 rad	158731904	1_SideArea4_4					
+Metadata/Chests/Chest10	603	623	1.273 rad	208860067	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	679	621	2.405 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	712	622	5.743 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	702	631	5.940 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	697	630	2.307 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	759	911	4.761 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	764	902	0.834 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	772	933	3.755 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	771	957	1.694 rad	2822426349	1_SideArea4_4					
+Metadata/Chests/Barrel1old	773	994	0.140 rad	1528648667	1_SideArea4_4					
+Metadata/Chests/Barrel5old	769	989	2.537 rad	2116127741	1_SideArea4_4					
+Metadata/Chests/Barrel3old	774	999	3.607 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel4old	769	999	2.914 rad	2804926028	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	781	1089	4.344 rad	1515750506	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	549	889	2.077 rad	1418889786	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	549	886	1.161 rad	1418889786	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	590	877	2.447 rad	2197041943	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	590	877	2.447 rad	2197041943	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	628	1123	2.214 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	710	1104	0.687 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	706	1123	5.105 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	708	1118	0.368 rad	158731904	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	724	1125	5.203 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	716	1117	3.755 rad	158731904	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	749	1122	5.522 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	736	1124	1.203 rad	158731904	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	772	1109	0.982 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	772	1117	1.154 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	760	1115	4.614 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	794	1109	2.111 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	802	1120	1.816 rad	1515750506	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	520	843	0.584 rad	1418889786	1_SideArea4_4					
+Object: Metadata/Effects/ServerEffect	520	843	2.388 rad	2646652649	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	515	846	4.172 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	611	1138	0.319 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	608	1143	2.111 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	617	1142	2.843 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	622	1127	2.433 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Barrel3old	649	1138	2.446 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel4old	644	1134	2.195 rad	2804926028	1_SideArea4_4					
+Metadata/Chests/Barrel2old	646	1143	3.417 rad	3707287636	1_SideArea4_4					
+Metadata/Chests/Barrel3old	651	1143	3.186 rad	3865749632	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	709	1145	0.491 rad	3703550442	1_SideArea4_4					
+Monster: Shrine Daemon [Metadata/Monsters/Daemon/ShrineDaemonLightning@35]	705	1133	0.000 rad	95214732	1_SideArea4_4					
+Object: Metadata/Shrines/Shrine	705	1133	2.475 rad	2857838571	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	725	1146	5.105 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	723	1132	0.000 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	718	1135	5.400 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	724	1138	2.945 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	714	1140	0.074 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	729	1141	1.644 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	729	1132	2.773 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	715	1147	4.491 rad	158731904	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	748	1135	5.473 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	750	1144	0.810 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	741	1129	3.927 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	745	1141	4.295 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	525	839	0.896 rad	3703550442	1_SideArea4_4					
+Metadata/Chests/Chest11	862	1034	2.673 rad	3940991968	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	514	841	5.034 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	698	1155	4.050 rad	158731904	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	724	1152	5.498 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	731	1166	6.062 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	724	1171	6.062 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	714	1164	3.289 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	741	1158	4.123 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	751	1152	1.276 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	736	1155	4.467 rad	3703550442	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	881	1096	0.884 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	612	1194	1.080 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	700	1177	3.387 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	707	1181	3.191 rad	2822426349	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	776	1194	6.013 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	784	1183	0.712 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	787	1188	3.338 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	793	1184	4.001 rad	1736121777	1_SideArea4_4					
+Metadata/Chests/Barrel3old	859	1186	5.236 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel4old	868	1186	0.870 rad	2804926028	1_SideArea4_4					
+Metadata/Chests/Barrel4old	868	1181	4.145 rad	2804926028	1_SideArea4_4					
+Metadata/Chests/Barrel3old	877	1186	6.174 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel2old	882	1182	6.052 rad	3707287636	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	651	970	2.897 rad	2197041943	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	651	970	2.897 rad	2197041943	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	610	1212	0.859 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	611	1201	5.031 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	631	1208	4.639 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	684	1213	0.638 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	700	1207	2.086 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	712	1200	3.313 rad	2822426349	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	761	1213	5.351 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	767	1201	0.491 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	761	1203	4.639 rad	1736121777	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	652	956	1.813 rad	1418889786	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	4.604 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	1.539 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	6.209 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	1.736 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	2.836 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	6.062 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	5.269 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	2.499 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	2.821 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	2.733 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	5.878 rad	316014466	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	609	1240	1.301 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	613	1228	2.233 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	611	1221	2.184 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Barrel3old	631	1239	5.731 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel2old	636	1236	5.167 rad	3707287636	1_SideArea4_4					
+Metadata/Chests/Barrel3old	626	1236	3.431 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel5old	633	1231	1.434 rad	2116127741	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	693	1227	0.393 rad	2822426349	1_SideArea4_4					
+Metadata/NPC/Info/VaalLetters/VaalLetter_11	655	1259	6.064 rad	3387468833	1_SideArea4_4	12	-97.826			
+Monster: Quetzerxi [Metadata/Monsters/SandLeaper/SandLeaperBossSideArea@35]	690	1247	0.000 rad	3952975979	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	5.071 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	5.141 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	2.008 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	6.156 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	4.628 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	2.039 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	1.664 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	4.930 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	3.540 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	2.353 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	1.488 rad	316014466	1_SideArea4_4					
+Metadata/Chests/SideArea/SideAreaChest	690	1265	0.000 rad	1048892336	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	2.843 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	0.646 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	5.707 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	4.696 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	4.232 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	3.094 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	0.240 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	5.884 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	3.401 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	1.890 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	1.444 rad	316014466	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	901	1102	2.135 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	903	1108	5.989 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	909	1106	1.694 rad	2822426349	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	5.849 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	2.511 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	2.772 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	4.484 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	0.165 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	3.458 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	5.252 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	3.924 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	5.974 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	2.882 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	0.692 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	424	870	3.539 rad	1418889786	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	424	870	2.678 rad	2822426349	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	431	876	1.315 rad	1418889786	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	431	876	4.154 rad	2822426349	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	426	874	4.971 rad	1418889786	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	426	874	1.571 rad	2822426349	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	422	886	4.836 rad	1418889786	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	422	886	3.850 rad	2822426349	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	418	929	0.785 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	432	957	3.142 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	414	968	0.381 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	427	1001	5.530 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	423	1008	0.785 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	431	990	3.142 rad	1736121777	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	670	1013	1.653 rad	1418889786	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	1.408 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	5.373 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	1.063 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	5.411 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	5.071 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	1.961 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	3.077 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	0.168 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	3.457 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	2.318 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	2.398 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	633	1231	2.224 rad	1418889786	1_SideArea4_4					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@35]	636	1236	2.062 rad	2608891729	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	0.236 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	2.448 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	5.899 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	4.828 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	4.676 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	0.859 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	1.166 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	1.666 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	6.275 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	5.994 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	1.658 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	0.298 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	1.350 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	2.219 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	6.033 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	5.347 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	3.753 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	1.036 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	3.245 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	2.408 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	0.639 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	4.379 rad	316014466	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	901	1102	2.135 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	903	1108	5.989 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	909	1106	1.694 rad	2822426349	1_SideArea4_4					
+Monster: Daemon [Metadata/Monsters/Daemon/ChestDaemonBarrelExplode@35]	646	1143	0.834 rad	2608891729	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	2.835 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	1.452 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	2.582 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	3.891 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	3.838 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	2.240 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	4.426 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	1.714 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	0.449 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	2.592 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	0.081 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	677	1181	2.622 rad	2197041943	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	681	1141	4.313 rad	1418889786	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	0.396 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	5.353 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	0.623 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	4.856 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	1.218 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	1.465 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	1.918 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	0.582 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	5.799 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	2.281 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	5.531 rad	316014466	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	666	941	3.208 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	661	937	0.000 rad	2822426349	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	654	920	3.605 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	661	938	3.142 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	657	933	4.354 rad	1736121777	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	666	942	3.142 rad	2822426349	1_SideArea4_4					
+Metadata/Chests/Chest10	697	922	0.622 rad	208860067	1_SideArea4_4					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	752	1147	5.203 rad	605215126	1_SideArea4_4					
+Monster: Summoned Skeleton [Metadata/Monsters/RaisedSkeletons/RaisedSkeletonStandard@42]	759	1149	6.210 rad	605215126	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	1.425 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	0.032 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	5.523 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	4.786 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	2.993 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	5.394 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	3.344 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	6.265 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	1.933 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	6.282 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	3.570 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	686	1128	5.192 rad	1418889786	1_SideArea4_4					
+Object: Metadata/Effects/ServerEffect	679	1141	5.862 rad	2646652649	1_SideArea4_4					
+Object: Metadata/Effects/ServerEffect	752	1147	5.203 rad	2646652649	1_SideArea4_4					
+Object: Metadata/Effects/ServerEffect	759	1149	6.210 rad	2646652649	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	5.160 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	3.776 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	5.125 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	4.549 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	3.473 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	3.885 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	1.295 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	4.127 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	4.405 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	0.317 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	3.643 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	0.575 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	4.354 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	4.585 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	0.060 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	5.626 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	1.991 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	2.663 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	4.183 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	2.712 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	0.079 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	3.354 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	6.183 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	2.096 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	0.502 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	0.038 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	3.223 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	6.018 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	4.948 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	6.015 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	1.704 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	6.224 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	3.992 rad	316014466	1_SideArea4_4					
+Metadata/Characters/Int/Int	209	422	3.142 rad	2621544766	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/AreaTransition	205	372	0.000 rad	726109394	1_SideArea4_4	13	-101.921	3	24086	The Dried Lake
+Monster: Plumed Chimeral [Metadata/Monsters/GemMonster/Iguana@42]	209	422	3.534 rad	20135628	1_SideArea4_4					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@48]	209	422	1.546 rad	1833384429	1_SideArea4_4					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@48]	209	422	4.786 rad	1833384429	1_SideArea4_4					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@48]	209	422	1.841 rad	1833384429	1_SideArea4_4					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@48]	209	422	3.117 rad	1833384429	1_SideArea4_4					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@48]	209	422	0.859 rad	1833384429	1_SideArea4_4					
+Monster: Raised Zombie [Metadata/Monsters/RaisedZombies/RaisedZombieStandard@48]	209	422	4.123 rad	1833384429	1_SideArea4_4					
+Object: Metadata/Effects/ServerEffect	209	422	3.743 rad	2646652649	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	206	517	0.161 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	212	524	0.080 rad	2822426349	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	209	526	1.930 rad	1736121777	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	232	521	3.142 rad	2822426349	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	165	548	1.571 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	210	546	1.107 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	207	532	1.789 rad	1736121777	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	240	548	5.373 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	232	548	5.300 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	285	551	4.608 rad	3703550442	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	194	553	0.464 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	198	558	2.678 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	195	571	6.259 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	224	560	0.000 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	229	562	5.865 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	225	554	3.142 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	230	556	5.176 rad	158731904	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	232	570	4.712 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	237	572	0.999 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	237	567	4.849 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	235	556	3.100 rad	2822426349	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	266	552	3.103 rad	1418889786	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	266	552	4.533 rad	3703550442	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	261	559	0.842 rad	1418889786	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	261	559	3.687 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	260	574	4.712 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	283	561	4.669 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	293	560	4.332 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	180	582	2.356 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	169	583	5.083 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	204	585	4.547 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	206	580	3.042 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	218	582	5.333 rad	158731904	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	224	579	6.065 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	225	580	4.712 rad	3703550442	1_SideArea4_4					
+Object: Metadata/Shrines/Shrine	214	591	5.617 rad	2857838571	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	238	576	6.238 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	231	588	1.166 rad	3703550442	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	233	589	3.142 rad	2822426349	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	243	594	2.919 rad	1418889786	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	243	594	4.957 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	260	579	4.557 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	262	596	3.075 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	200	614	4.633 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	186	605	2.415 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Barrel5old	248	608	0.034 rad	2116127741	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	230	600	1.153 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	244	614	0.464 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Barrel5old	249	617	2.382 rad	2116127741	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	246	610	5.472 rad	1736121777	1_SideArea4_4					
+Metadata/Chests/Barrel1old	264	615	6.072 rad	1528648667	1_SideArea4_4					
+Metadata/Chests/Chest14	253	601	1.920 rad	3089877171	1_SideArea4_4					
+Metadata/Chests/Barrel3old	259	613	3.244 rad	3865749632	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	274	609	4.712 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Basket3old	61	634	4.329 rad	3468315289	1_SideArea4_4					
+Metadata/Chests/Basket3old	58	629	4.886 rad	3468315289	1_SideArea4_4					
+Metadata/Chests/Basket1old	63	629	4.607 rad	2211595643	1_SideArea4_4					
+Metadata/Chests/Basket3old	66	634	6.182 rad	3468315289	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	165	622	1.190 rad	1515750506	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	241	627	4.629 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	246	633	5.176 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	238	629	4.069 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	268	651	5.341 rad	1736121777	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	412	653	5.992 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	420	656	3.266 rad	2822426349	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	273	676	5.837 rad	1736121777	1_SideArea4_4					
+Metadata/Chests/Chest18	278	670	2.064 rad	2444280933	1_SideArea4_4					
+Metadata/Chests/Chest10	428	670	4.082 rad	208860067	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	414	702	3.413 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	413	728	3.605 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	404	755	3.463 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	411	736	3.387 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	482	591	4.025 rad	2822426349	1_SideArea4_4					
+Metadata/Chests/Chest12	470	680	5.976 rad	2121128972	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	382	781	5.764 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	391	777	5.640 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	401	776	3.142 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	391	791	0.000 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	395	790	5.034 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	399	784	5.034 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	404	793	4.332 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	504	486	2.233 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	496	502	1.914 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	497	513	5.203 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	503	510	1.914 rad	158731904	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	502	766	3.408 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	485	781	1.422 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	505	774	2.467 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Chest12	484	798	5.564 rad	2121128972	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	502	821	3.171 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	394	842	2.521 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	499	830	5.669 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	515	479	6.038 rad	3703550442	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	507	591	4.860 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	517	585	4.050 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	509	601	4.516 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	520	603	3.117 rad	2822426349	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	515	656	0.425 rad	316014466	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	513	780	2.356 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	509	823	3.373 rad	1515750506	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	520	843	0.584 rad	1418889786	1_SideArea4_4					
+Monster: Knitted Horror [Metadata/Monsters/MassSkeleton/MassSkeleton@35]	520	843	2.388 rad	2297942902	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	516	847	2.356 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	525	839	0.896 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	514	841	5.034 rad	3703550442	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	405	855	3.791 rad	1418889786	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	405	855	5.498 rad	2822426349	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	424	870	3.539 rad	1418889786	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	424	870	2.678 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	506	859	0.833 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	513	855	3.578 rad	1515750506	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	431	876	1.315 rad	1418889786	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	431	876	4.154 rad	2822426349	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	426	874	4.971 rad	1418889786	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	426	874	1.571 rad	2822426349	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	422	886	4.836 rad	1418889786	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	422	886	3.850 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	498	874	2.761 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	498	901	4.592 rad	2822426349	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	418	929	0.785 rad	1736121777	1_SideArea4_4					
+Monster: Knitted Horror [Metadata/Monsters/MassSkeleton/MassSkeleton@35]	447	939	3.626 rad	2297942902	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	452	942	2.111 rad	3703550442	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	432	957	3.142 rad	1736121777	1_SideArea4_4					
+Metadata/Chests/Chest14	454	953	4.122 rad	3089877171	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	451	943	2.356 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	442	943	4.038 rad	3703550442	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	542	592	5.351 rad	2822426349	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	534	644	1.468 rad	316014466	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	537	683	2.678 rad	1515750506	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	551	686	0.322 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	546	689	0.000 rad	1515750506	1_SideArea4_4					
+Monster: Shrine Daemon [Metadata/Monsters/Daemon/ShrineDaemonLightning@35]	545	682	0.000 rad	95214732	1_SideArea4_4					
+Object: Metadata/Shrines/Shrine	545	682	4.046 rad	2857838571	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	542	695	0.588 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	548	702	2.820 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	538	839	2.083 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Chest18	550	853	2.608 rad	2444280933	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	549	889	2.077 rad	1418889786	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	549	886	1.161 rad	1418889786	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	549	889	5.023 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	549	886	4.712 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	529	902	4.592 rad	2822426349	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	407	970	0.629 rad	1736121777	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	413	968	3.730 rad	2197041943	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	414	968	0.381 rad	1736121777	1_SideArea4_4					
+Metadata/Chests/Chest13	568	527	4.080 rad	2545718021	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	565	590	4.050 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	574	580	3.510 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	563	598	1.620 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	553	663	0.614 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	568	664	2.528 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	560	665	3.264 rad	1515750506	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	556	644	5.384 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	556	644	1.338 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	556	644	2.150 rad	316014466	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	568	675	2.381 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	566	682	1.620 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	573	686	4.712 rad	1515750506	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	570	669	2.159 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	554	680	0.000 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	556	687	2.872 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	571	681	5.301 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	559	680	2.678 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	557	693	5.093 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	569	691	0.000 rad	1515750506	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	564	690	2.037 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	574	691	0.000 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	553	701	4.712 rad	158731904	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	561	704	4.789 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	572	713	0.862 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	556	714	3.420 rad	158731904	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	572	847	3.605 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	570	860	2.761 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	559	878	0.960 rad	2822426349	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	395	1008	5.387 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	427	1001	5.530 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	423	1008	0.785 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	431	990	3.142 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	450	999	5.401 rad	1736121777	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	585	587	2.283 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	577	596	2.209 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	595	593	1.374 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	592	665	1.399 rad	1515750506	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	575	656	4.180 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	575	656	4.567 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	575	656	6.015 rad	316014466	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	591	676	5.081 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	585	678	5.351 rad	1515750506	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	589	671	0.147 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	580	678	0.614 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	580	684	3.878 rad	158731904	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	584	689	0.644 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	579	689	0.675 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	593	689	6.141 rad	1515750506	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	584	677	1.807 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	584	677	5.465 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	584	677	3.434 rad	316014466	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	594	698	1.107 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	583	708	4.004 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	579	703	5.743 rad	158731904	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	402	1014	4.712 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	442	1018	5.498 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	453	1028	5.860 rad	1736121777	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	467	1028	1.542 rad	1418889786	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	467	1028	5.992 rad	1736121777	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	371	792	2.266 rad	2197041943	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	371	793	2.356 rad	2197041943	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	371	793	2.356 rad	2197041943	1_SideArea4_4					
+Metadata/Chests/Chest10	603	623	1.273 rad	208860067	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	599	692	6.072 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Chest11	615	757	0.591 rad	3940991968	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	602	815	3.444 rad	2822426349	1_SideArea4_4					
+Metadata/Chests/Barrel3old	333	1050	2.882 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Chest14	356	1035	2.909 rad	3089877171	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	515	656	2.564 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	534	644	3.037 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	556	644	2.575 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	575	656	2.149 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	506	677	0.257 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	584	677	0.444 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	509	698	5.664 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	581	698	6.191 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	524	715	0.526 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	545	722	3.047 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	566	715	2.455 rad	316014466	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	641	975	2.356 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	634	970	0.405 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	637	974	5.924 rad	158731904	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	515	656	4.280 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	534	644	4.415 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	556	644	1.791 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	575	656	0.666 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	506	677	3.364 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	584	677	3.418 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	509	698	0.848 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	581	698	5.827 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	524	715	4.085 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	545	722	5.797 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	566	715	2.227 rad	316014466	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	660	915	5.820 rad	1736121777	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	666	941	3.208 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	661	937	0.000 rad	2822426349	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	654	920	3.605 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	661	938	3.142 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	657	933	4.354 rad	1736121777	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	666	942	3.142 rad	2822426349	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	658	949	3.218 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	652	956	3.605 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	647	954	3.142 rad	1736121777	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	653	945	5.191 rad	2822426349	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	653	945	5.176 rad	1736121777	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	659	959	4.453 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	659	985	3.196 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	649	979	2.863 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	661	1005	2.290 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	661	1028	0.644 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	650	1027	5.961 rad	158731904	1_SideArea4_4					
+Metadata/Chests/Basket3old	663	1063	2.283 rad	3468315289	1_SideArea4_4					
+Metadata/Chests/Basket1old	656	1078	1.752 rad	2211595643	1_SideArea4_4					
+Metadata/Chests/Basket1old	661	1073	4.582 rad	2211595643	1_SideArea4_4					
+Metadata/Chests/Basket2old	663	1068	6.202 rad	866946829	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	650	1101	3.328 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	664	1092	3.836 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	665	1097	6.038 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	679	621	2.405 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	670	1034	0.087 rad	158731904	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	670	1013	1.653 rad	1418889786	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	670	1013	5.847 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	682	1076	1.571 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	674	1072	4.501 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	669	1072	0.588 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	676	1096	2.521 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	671	1097	2.678 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	683	1096	0.137 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	676	1083	1.893 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	688	1094	3.307 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	680	1089	3.387 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	688	1089	3.042 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	669	1084	3.102 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	674	1102	5.961 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	629	1118	4.712 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	642	1126	0.785 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	672	1113	0.000 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	677	1115	5.498 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	669	1125	0.083 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	682	1118	4.712 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	682	1119	3.296 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	686	1122	2.678 rad	2822426349	1_SideArea4_4					
+Metadata/Chests/Chest10	697	922	0.622 rad	208860067	1_SideArea4_4					
+Metadata/Chests/Barrel3old	699	1011	3.993 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel2old	699	1019	0.717 rad	3707287636	1_SideArea4_4					
+Metadata/Chests/Barrel3old	696	1024	2.720 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel3old	707	1014	1.105 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel3old	694	1015	5.587 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel2old	704	1019	2.695 rad	3707287636	1_SideArea4_4					
+Metadata/Chests/Chest10	603	623	1.273 rad	208860067	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	679	621	2.405 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	712	622	5.743 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	702	631	5.940 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	697	630	2.307 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	750	1102	4.467 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Barrel1old	773	994	0.140 rad	1528648667	1_SideArea4_4					
+Metadata/Chests/Barrel5old	769	989	2.537 rad	2116127741	1_SideArea4_4					
+Metadata/Chests/Barrel3old	774	999	3.607 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel4old	769	999	2.914 rad	2804926028	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	506	795	0.326 rad	1418889786	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	629	1118	4.712 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	642	1126	0.785 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	672	1113	0.000 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	677	1115	5.498 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	669	1125	0.083 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	682	1118	4.712 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	682	1119	3.296 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	686	1122	2.678 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	756	1113	6.086 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	762	1113	5.176 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	773	1124	4.501 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Chest10	603	623	1.273 rad	208860067	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	679	621	2.405 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	712	622	5.743 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	702	631	5.940 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	697	630	2.307 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	629	1118	4.712 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	642	1126	0.785 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	672	1113	0.000 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	677	1115	5.498 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	669	1125	0.083 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	682	1118	4.712 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	682	1119	3.296 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	686	1122	2.678 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	756	1113	6.086 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	762	1113	5.176 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	773	1124	4.501 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	633	1139	1.326 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	630	1133	5.695 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	650	1139	1.571 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Barrel2old	646	1143	3.417 rad	3707287636	1_SideArea4_4					
+Metadata/Chests/Barrel3old	649	1138	2.446 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel4old	644	1134	2.195 rad	2804926028	1_SideArea4_4					
+Metadata/Chests/Barrel3old	651	1143	3.186 rad	3865749632	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	673	1147	1.571 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	682	1145	1.997 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	681	1132	6.166 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	686	1138	4.307 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	686	1133	3.605 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	677	1137	1.571 rad	158731904	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	681	1141	4.313 rad	1418889786	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	681	1141	3.142 rad	2822426349	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	686	1128	5.192 rad	1418889786	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	686	1142	5.498 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	686	1128	0.876 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	697	1145	0.000 rad	158731904	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	700	1140	3.142 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	705	1141	4.712 rad	1736121777	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	692	1142	1.816 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	706	1148	0.951 rad	158731904	1_SideArea4_4					
+Monster: Shrine Daemon [Metadata/Monsters/Daemon/ShrineDaemonLightning@35]	705	1133	0.000 rad	95214732	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	696	1134	4.588 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	694	1129	3.927 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	701	1142	4.588 rad	158731904	1_SideArea4_4					
+Object: Metadata/Shrines/Shrine	705	1133	2.475 rad	2857838571	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	724	1143	0.528 rad	1736121777	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	768	1131	6.038 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	763	1132	1.131 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	677	1156	3.785 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	705	1163	0.983 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	711	1150	4.712 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierSwordShield@35]	703	1157	1.670 rad	158731904	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	712	1160	5.776 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	696	1151	2.090 rad	3703550442	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	740	1156	4.354 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	747	1150	1.030 rad	1736121777	1_SideArea4_4					
+Metadata/Chests/Chest11	862	1034	2.673 rad	3940991968	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	630	948	2.622 rad	2197041943	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	629	948	2.737 rad	2197041943	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	631	946	2.356 rad	2197041943	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	629	948	2.737 rad	2197041943	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	624	1182	0.055 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	663	1179	1.107 rad	1515750506	1_SideArea4_4					
+Monster: Quetzerxi [Metadata/Monsters/SandLeaper/SandLeaperBossSideArea@35]	669	1183	4.957 rad	3952975979	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	713	1177	4.712 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	723	1176	0.785 rad	1736121777	1_SideArea4_4					
+Metadata/Chests/Barrel3old	859	1186	5.236 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel4old	868	1186	0.870 rad	2804926028	1_SideArea4_4					
+Metadata/Chests/Barrel4old	868	1181	4.145 rad	2804926028	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	631	1199	4.124 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	644	1198	4.931 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	647	1203	0.748 rad	1515750506	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	668	1006	3.877 rad	1418889786	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	2.488 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	2.257 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	2.335 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	2.094 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	2.781 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	1.456 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	3.916 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	5.976 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	0.086 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	3.104 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	5.919 rad	316014466	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	624	1223	5.820 rad	1515750506	1_SideArea4_4					
+Metadata/Chests/Barrel5old	633	1231	1.434 rad	2116127741	1_SideArea4_4					
+Metadata/Chests/Barrel3old	626	1236	3.431 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel2old	636	1236	5.167 rad	3707287636	1_SideArea4_4					
+Metadata/Chests/Barrel3old	631	1239	5.731 rad	3865749632	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	633	1231	2.224 rad	1418889786	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	645	1238	2.356 rad	1515750506	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	4.857 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	0.370 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	0.610 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	5.407 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	5.482 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	3.585 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	4.400 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	3.553 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	2.773 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	4.422 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	1.709 rad	316014466	1_SideArea4_4					
+Metadata/NPC/Info/VaalLetters/VaalLetter_11	655	1259	6.064 rad	3387468833	1_SideArea4_4	12	-97.826			
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	881	1096	0.884 rad	2822426349	1_SideArea4_4					
+Metadata/Chests/Barrel3old	877	1186	6.174 rad	3865749632	1_SideArea4_4					
+Metadata/Chests/Barrel2old	882	1182	6.052 rad	3707287636	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	663	1063	3.594 rad	1418889786	1_SideArea4_4					
+Metadata/Chests/SideArea/SideAreaChest	690	1265	0.000 rad	1048892336	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	5.934 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	5.169 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	1.260 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	3.968 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	2.040 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	1.276 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	5.502 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	1.407 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	4.153 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	5.172 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	0.896 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	4.953 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	6.101 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	3.436 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	2.777 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	2.328 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	1.007 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	2.199 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	1.858 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	3.938 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	0.184 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	1.895 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	665	1073	2.783 rad	2197041943	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	664	1073	2.897 rad	2197041943	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	1.849 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	4.212 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	3.133 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	1.551 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	0.517 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	2.157 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	5.119 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	4.214 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	6.179 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	3.032 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	1.773 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	666	1072	2.622 rad	2197041943	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	901	1102	2.135 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	903	1108	5.989 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	909	1106	1.694 rad	2822426349	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	2.494 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	4.262 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	0.463 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	4.227 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	1.068 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	2.985 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	5.428 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	3.285 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	5.704 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	5.485 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	3.357 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	634	1112	0.873 rad	1418889786	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	665	1081	3.287 rad	1418889786	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	1.484 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	1.314 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	1.534 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	3.217 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	4.593 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	6.141 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	3.188 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	4.123 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	1.114 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	2.712 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	1.413 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	631	1199	3.484 rad	1418889786	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	697	1115	3.017 rad	2197041943	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	708	1140	3.459 rad	1418889786	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	4.242 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	5.665 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	6.182 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	1.119 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	2.701 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	1.561 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	5.177 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	6.148 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	4.858 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	0.767 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	4.394 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	695	1115	3.266 rad	2197041943	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	693	1125	0.780 rad	1418889786	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	4.194 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	3.258 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	5.529 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	6.280 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	5.359 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	4.903 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	0.933 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	0.358 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	2.658 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	0.349 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	5.800 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	673	1114	2.077 rad	1418889786	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	668	1190	3.754 rad	1418889786	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	1.992 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	6.007 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	3.692 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	4.710 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	4.258 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	0.236 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	2.841 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	3.753 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	3.434 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	1.289 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	2.648 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	5.640 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	3.444 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	5.143 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	1.370 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	5.281 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	4.844 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	4.163 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	4.466 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	1.151 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	4.640 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	4.266 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	730	1114	1.665 rad	1418889786	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	1.238 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	5.675 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	3.303 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	3.430 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	1.736 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	1.323 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	1.504 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	5.123 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	1.427 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	4.245 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	3.317 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	780	1108	1.816 rad	2197041943	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	3.497 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	3.975 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	0.015 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	5.393 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	5.388 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	4.142 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	4.176 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	2.016 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	1.411 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	2.532 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	1.273 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	780	1108	1.816 rad	2197041943	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	739	1140	0.510 rad	1418889786	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	3.430 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	1.023 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	0.643 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	2.439 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	1.142 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	4.877 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	2.336 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	1.252 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	5.634 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	3.308 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	3.493 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	780	1108	1.816 rad	2197041943	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	780	1108	1.816 rad	2197041943	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	740	1080	4.270 rad	1418889786	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	740	1125	2.648 rad	1418889786	1_SideArea4_4					
+Metadata/Chests/Chest18	550	853	2.608 rad	2444280933	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	570	860	2.761 rad	2822426349	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	0.414 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	3.563 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	6.180 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	5.002 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	4.101 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	3.672 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	0.978 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	5.004 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	5.496 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	4.104 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	1.436 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	5.593 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	5.323 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	1.896 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	3.041 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	3.361 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	1.484 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	1.993 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	2.701 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	0.093 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	4.242 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	5.402 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	781	1089	3.927 rad	2197041943	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	783	1090	3.661 rad	2197041943	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	1.439 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	2.911 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	4.416 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	3.827 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	3.186 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	0.890 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	0.512 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	2.553 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	2.645 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	3.123 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	5.857 rad	316014466	1_SideArea4_4					
+Metadata/Chests/Chest18	550	853	2.608 rad	2444280933	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	549	889	5.023 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	549	886	4.712 rad	2822426349	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	529	902	4.592 rad	2822426349	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	538	839	2.083 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	572	847	3.605 rad	2822426349	1_SideArea4_4					
+Monster: Knitted Horror [Metadata/Monsters/MassSkeleton/MassSkeleton@35]	520	843	2.388 rad	2297942902	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	516	847	2.356 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	525	839	0.896 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Fallen [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierUnarmed@35]	514	841	5.034 rad	3703550442	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	506	859	0.833 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	513	855	3.578 rad	1515750506	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	4.940 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	3.887 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	1.797 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	0.111 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	1.661 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	2.047 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	3.389 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	3.050 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	3.555 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	1.817 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	1.813 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	741	1069	3.836 rad	2197041943	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	774	1094	2.587 rad	1418889786	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	774	1094	5.469 rad	1418889786	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	774	1094	1.653 rad	1418889786	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	774	1094	4.258 rad	1418889786	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	774	1094	4.252 rad	1418889786	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	779	1090	2.224 rad	1418889786	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	2.181 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	2.241 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	4.498 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	5.342 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	2.842 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	4.716 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	2.933 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	5.887 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	4.721 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	4.558 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	3.212 rad	316014466	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	499	830	5.669 rad	1515750506	1_SideArea4_4					
+Monster: Voll's Vanguard [Metadata/Monsters/SkeletonSoldier/SkeletonSoldierRangedTornadoShot@35]	498	874	2.761 rad	1515750506	1_SideArea4_4					
+Monster: Mindless Scavenger [Metadata/Monsters/VultureParasite/VultureParasite@35]	498	901	4.592 rad	2822426349	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	5.693 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	2.754 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	4.426 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	0.210 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	1.515 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	2.415 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	3.109 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	2.281 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	4.379 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	4.983 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	1.018 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	467	1028	1.542 rad	1418889786	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	467	1028	5.992 rad	1736121777	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	694	1095	4.445 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	716	1095	0.356 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	675	1107	0.068 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1107	2.593 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	666	1128	2.935 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	669	1149	1.620 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	741	1149	0.901 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	744	1128	1.579 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	684	1166	2.540 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	726	1166	4.653 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	705	1173	5.596 rad	316014466	1_SideArea4_4					
+Monster: Shrine Daemon [Metadata/Monsters/Daemon/ShrineDaemonLightningPlayer@35]	710	1119	0.000 rad	217503797	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	714	1123	5.944 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	729	1147	2.247 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	736	1176	3.017 rad	2197041943	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	735	1168	2.128 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	735	1176	3.142 rad	2197041943	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	731	1172	1.693 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	467	1028	1.542 rad	1418889786	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	467	1028	5.992 rad	1736121777	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	709	1194	6.100 rad	316014466	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	450	999	5.401 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	442	1018	5.498 rad	1736121777	1_SideArea4_4					
+Monster: Dust Scrabbler [Metadata/Monsters/SandLeaper/SandLeaper@35]	453	1028	5.860 rad	1736121777	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	690	1218	4.657 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	682	1241	3.546 rad	2197041943	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	685	1234	0.817 rad	316014466	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	682	1241	3.546 rad	2197041943	1_SideArea4_4					
+Monster: Raging Spirit [Metadata/Monsters/SummonedSkull/SummonedSkull@52]	682	1241	3.546 rad	2197041943	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	685	1234	6.061 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	678	1260	2.546 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	684	1262	3.336 rad	1418889786	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	684	1262	0.350 rad	1418889786	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	682	1264	2.015 rad	1418889786	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	684	1262	0.326 rad	1418889786	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	684	1262	5.020 rad	1418889786	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	682	1261	1.066 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/WorldItem	684	1262	3.146 rad	1418889786	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	682	1261	0.989 rad	316014466	1_SideArea4_4					
+Object: Metadata/MiscellaneousObjects/VaalSideAreaReturnPortal	670	1285	0.000 rad	1553559060	1_SideArea4_4			3	24086	The Dried Lake
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	682	1261	0.653 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	682	1261	5.049 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	682	1261	5.350 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	682	1261	3.300 rad	316014466	1_SideArea4_4					
+Metadata/Effects/Spells/ground_effects/FillGroundEffect	673	1281	1.827 rad	316014466	1_SideArea4_4					

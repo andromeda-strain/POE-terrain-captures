@@ -1,0 +1,7 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/Int/Int	290	643	3.142 rad	2621544766	1_1_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	300	661	4.823 rad	1418889786	1_1_1					
+Metadata/NPC/Act1/WoundedExile	329	660	6.282 rad	345635595	1_1_1	-5	39.062			
+Object: Metadata/Monsters/Zombies/BiteZombieSpawner	332	654	4.714 rad	3125779122	1_1_1	-5	39.062			
+Object: Metadata/Terrain/Act1/Area1/Objects/Tutorial_Blocker_1	358	706	5.459 rad	205463522	1_1_1					
+Monster: Sand Spitter [Metadata/Monsters/SandSpitters/SandSpitter12@1]	511	703	0.123 rad	3862787601	1_1_1					

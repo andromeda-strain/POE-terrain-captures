@@ -1,0 +1,11 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/Int/Int	355	235	3.229 rad	2621544766	Labyrinth_Airlock					
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthAirlockPortal	355	218	0.000 rad	1273044626	Labyrinth_Airlock					
+Monster: Plumed Chimeral [Metadata/Monsters/GemMonster/Iguana@42]	355	235	4.197 rad	20135628	Labyrinth_Airlock					
+Object: Metadata/Effects/ServerEffect	355	235	1.628 rad	2646652649	Labyrinth_Airlock					
+Object: Metadata/Terrain/Labyrinth/Objects/IzaroSpeech/AirlockEntered	356	262	0.000 rad	3175993918	Labyrinth_Airlock					
+Object: Metadata/MiscellaneousObjects/Waypoint	356	287	1.571 rad	552129418	Labyrinth_Airlock	73	-577.608			
+Metadata/NPC/Labyrinth/LabyrinthGlyph0	356	455	0.000 rad	1045634782	Labyrinth_Airlock					
+Object: Metadata/QuestObjects/Labyrinth/LabyrinthDifficultySelect	356	558	0.000 rad	3586192369	Labyrinth_Airlock					
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthAirlockDoor	356	584	0.000 rad	566232840	Labyrinth_Airlock	110	-866.848			
+Object: Metadata/Terrain/Labyrinth/Objects/LabyrinthAreaTransition	356	591	0.000 rad	3733365553	Labyrinth_Airlock	111	-869.532	5	38861	Estate Path

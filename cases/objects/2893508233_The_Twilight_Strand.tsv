@@ -1,0 +1,13 @@
+type	X	Y	rotation	typehash	area_id	height_step	world_z	tr_kind	tr_target	tr_name
+Metadata/Characters/Int/Int	428	229	3.142 rad	2621544766	1_1_1					
+Metadata/Chests/Barrel3old	624	186	3.306 rad	3865749632	1_1_1					
+Metadata/Chests/Barrel5old	629	187	4.198 rad	2116127741	1_1_1					
+Metadata/Chests/Barrel5old	634	190	2.679 rad	2116127741	1_1_1					
+Object: Metadata/MiscellaneousObjects/WorldItem	438	247	3.773 rad	1418889786	1_1_1					
+Metadata/NPC/Act1/WoundedExile	467	246	6.282 rad	345635595	1_1_1	-5	39.062			
+Object: Metadata/Monsters/Zombies/BiteZombieSpawner	470	240	4.714 rad	3125779122	1_1_1	-5	39.062			
+Object: Metadata/Terrain/Act1/Area1/Objects/Tutorial_Blocker_1	496	292	5.459 rad	205463522	1_1_1					
+Monster: Sand Spitter [Metadata/Monsters/SandSpitters/SandSpitter12@1]	586	359	4.344 rad	3862787601	1_1_1					
+Monster: Sand Spitter [Metadata/Monsters/SandSpitters/SandSpitter12@1]	594	349	3.387 rad	3862787601	1_1_1					
+Monster: Sand Spitter [Metadata/Monsters/SandSpitters/SandSpitter12@1]	635	412	5.498 rad	3862787601	1_1_1					
+Monster: Sand Spitter [Metadata/Monsters/SandSpitters/SandSpitter12@1]	623	420	4.909 rad	3862787601	1_1_1					
