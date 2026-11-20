@@ -1,0 +1,7 @@
+pass1: 1334 .tdt path buffers
+pass2: 112 tiledef wstrings, 11738 cell sites
+pass3: runs 9393@0x31f97b90010
+  TileMap T=0x31fddaf4448 cols=93 rows=101 cells@0x31f97b90010 (~9393 placed in run)
+--- TileMap T=0x31fddaf4448 93x101: 9393 cells with a tile, 60 distinct tiles -> captures\The Harvest - 1_4_6_3 - 1987180047\truth_31fddaf4448.tsv
+    corner grid 94x102: 10 ground table entries, 2877 unwalkable corners -> captures\The Harvest - 1_4_6_3 - 1987180047\truth_corners_31fddaf4448.tsv
+    tile hash over 7941 origin cells = 2528533873; Client.txt last generation 1_4_6_3 seed 1987180047 -> 2528533873 MATCH

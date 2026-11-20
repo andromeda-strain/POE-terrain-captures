@@ -1,0 +1,18 @@
+GENERATED The Ascent [1_4_7] seed 320756055
+   tgr simulator: == map cells: 1935/1935 equal the truth (6 s)
+   grid: captures\The Ascent - 1_4_7 - 320756055\sim_320756055.tsv (generator tgr, terrain act4/area7/, capture status "PASS")
+   layers: 57x105 cells -> 1311x2415 sub-cells; tile hull planes + 100 client doodads (the doodad stage replayed draw for draw) + 3 server objects' hulls
+   walkability gen_melee.png/.bin (21.1% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -96 .. 169 levels (-750.0 .. 1320.3 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 113 specified by the level's files - tile .tmd records 7, room .arm lines 106; server (sent) 8, server-internal 1, client 104; 100 stage doodads in gen_doodads.tsv
+   server types: AreaTransition x2, BridgeMarker x2, PortalDevice x1, PortalDeviceTransition x1, PortalDeviceLever x1, ResonatorInstructions x1, CraftRecipeUnlockMarker x1
+   client passes after the doodads: 6148 corner ground materials in gen_materials.tsv, 0 decals in gen_decals.tsv, 37 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+      ground materials: 6148 corners, 3422 of them drawn; every draw equals the log (3422, the generator running on from the pass before)
+      critters: 239 attempts, 37 placed; every draw equals the log (589, the generator running on from the pass before)
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_31fddb1cc48.tsv: tiles 5985/5985 equal (path + orientation); cell heights 5985/5985 equal
+   vs the client's melee layer walkable_31fddb1cc48_melee.bin: 99.8865% equal, IoU 0.9969 (1916 sub-cells more open here, 1679 more blocked; the tiles are equal: the rest is the doodad stage and the server objects' hulls, which only the client's layer holds)
+   vs the client's ranged layer walkable_31fddb1cc48_ranged.bin: 99.8951% equal, IoU 0.9991 (1537 sub-cells more open here, 1784 more blocked; the tiles are equal: the rest is the doodad stage and the server objects' hulls, which only the client's layer holds)
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 29 s

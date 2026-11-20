@@ -1,0 +1,14 @@
+GENERATED Overseer's Tower [1_5_town] seed 1
+   grid: captures\Overseer's Tower - 1_5_town - 1\sim_1.tsv (generator dgr, terrain -, capture status "dungeon trace")
+   layers: 37x31 cells -> 851x713 sub-cells; tile hull planes + 143 client doodads (the doodad stage replayed draw for draw) + 3 server objects' hulls
+   walkability gen_melee.png/.bin (2.3% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: 0 .. 106 levels (0.0 .. 828.1 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 169 specified by the level's files - tile .tmd records 9, room .arm lines 160; server (sent) 19, server-internal 6, client 144; 143 stage doodads in gen_doodads.tsv
+   server types: TownPortal x6, AreaTransitionMapMarker x3, MercenaryMarker x3, Waypoint x1, GuildStash x1, NoticeBoard x1, Utula x1, BannonTown x1
+   client passes after the doodads: 0 corner ground materials in gen_materials.tsv, 0 decals in gen_decals.tsv, 0 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_53db66273f0.tsv: tiles 1147/1147 equal (path + orientation); cell heights 1147/1147 equal
+   vs the client's ranged layer walkable_53db66273f0_ranged.bin: EXACT
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 10 s

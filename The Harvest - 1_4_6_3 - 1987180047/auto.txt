@@ -1,0 +1,5 @@
+   client tile hash 2528533873 doodad hash 628082966 (CLI_ACTIVATE_MAP)
+AUTO seed 1987180047 The Harvest: the tracer saw no generation (it attached after the level was built; the capture has no node stages)
+   tile grid: captures\The Harvest - 1_4_6_3 - 1987180047\truth_31fddaf4448.tsv (93x101, 9393 cells) VERIFIED against tile hash 2528533873
+   walkable field: captures\The Harvest - 1_4_6_3 - 1987180047\walkable_31fddaf4448_melee.png (5.0% of the sub-cells walkable, matches the tiles' hull field at IoU 0.964; 2 layer(s) read; stored for the grid as walkable_31fddaf4448_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Harvest - 1_4_6_3 - 1987180047\minimap.png

@@ -1,0 +1,23 @@
+--- 2026-11-19 18:10:25.499 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_20548_25.go --parent-pid 20548
+standby: go file seen 8 ms ago -> captures\stages_20261119_181025.csv
+address map: the client is not the decompiled build; 172360 functions paired (tools/exe_align.py)
+18:10:25.519 (the attach call took 9 ms)
+attached to pid 26968, image base 0x7ff6841b0000 (dump base 0x140000000); DR0 generator 0x7ff686219ae0 (then the draw 0x7ff6861b1720 on its thread)  DR1 permute 0x7ff6862d6250  DR3 dungeon 0x7ff686208d30 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+level generator on tid 5020: draws traced on this thread
+permute stage on tid 5020; tracing continues for 10.0 s
+outdoor pipeline: switching to the stage dumps
+permute grid 30x60 written to captures\stages_20261119_181025.grid.tsv
+edge tiliser started on tid 5020: post-pass placements will be logged
+    corner grid 37x67: 9 ground table entries, 352 unwalkable corners -> captures\Desolate Track - 1_SideArea4_7 - 3249933531\truth_prefill_corners_3203fd0b448.tsv
+    corner grid 37x67: 9 ground table entries, 352 unwalkable corners -> captures\Desolate Track - 1_SideArea4_7 - 3249933531\truth_postfill_corners_3203fd0b448.tsv
+    corner grid 37x67: 9 ground table entries, 352 unwalkable corners -> captures\Desolate Track - 1_SideArea4_7 - 3249933531\truth_reheight_corners_3203fd0b448.tsv
+level generator returned
+--- TileMap T=0x3203fd0b448 36x66: 2376 cells with a tile, 28 distinct tiles -> captures\Desolate Track - 1_SideArea4_7 - 3249933531\truth_3203fd0b448.tsv
+    corner grid 37x67: 9 ground table entries, 1086 unwalkable corners -> captures\Desolate Track - 1_SideArea4_7 - 3249933531\truth_corners_3203fd0b448.tsv
+    tile hash over 1449 origin cells = 3223667611
+trace window after the marker elapsed
+clear before detach: all 61 threads verified clear
+clear after detach: all 61 threads verified clear
+detached; client keeps running
+8825 events written to captures\stages_20261119_181025.csv

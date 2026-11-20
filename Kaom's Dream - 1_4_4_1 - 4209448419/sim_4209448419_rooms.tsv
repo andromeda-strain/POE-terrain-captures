@@ -1,0 +1,29 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/traverse_02.arm	45	12	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/entrance1_01.arm	9	9	5	node	default entrance1
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/entrance2_01.arm	39	60	0	node	entrance2
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Whale/NewKaomWhale_01.arm	24	12	3	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Whale/NewKaomWhale_01.arm	12	27	4	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/connection_02.arm	54	24	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/connection_01.arm	36	15	3	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/carving2_07.arm	60	9	5	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/traverse_04.arm	54	36	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/ramp_02.arm	42	42	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/ramp_03.arm	15	45	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/boss_02.arm	39	30	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/lava_01.arm	36	51	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/lava_02.arm	27	66	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/lava_01.arm	24	33	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/lava_04.arm	57	51	0	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/lava_03.arm	27	21	1	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Unique/boss_01.arm	24	54	5	node	unique1
+0	Metadata/Terrain/Mountain/Plateau/Rooms/NewKaom1/Whale/NewKaomWhale_07.arm	33	43	2	node	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/kaom1_rock_sparse_9.arm	60	16	5	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/kaom1_rock_sparse_1.arm	29	29	4	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/rock_clumps_7.arm	33	36	2	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/kaom1_rock_sparse_1.arm	30	54	5	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/rock_clumps_7.arm	42	56	5	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/kaom1_rock_sparse_7.arm	45	57	4	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/Fills/kaom1_rock_sparse_9.arm	25	60	2	fill	
+0	Metadata/Terrain/Mountain/Plateau/Rooms/lavafall_lake_unbounded1.arm	29	62	0	fill	
+0	Metadata/Terrain/vaal_side_area.arm	25	51	0	pass	

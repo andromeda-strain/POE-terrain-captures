@@ -1,0 +1,10 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Mountain/Mines/Rooms/Unique/side_area_entry.arm	36	12	2	node	default sideentrance
+0	Metadata/Terrain/Mountain/Mines/Rooms/Unique/side_area_boss.arm	12	36	3	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level1/2x2/var3_3.arm	4	4	7	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level1/2x2/var2_2.arm	20	4	1	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level1/1x1/var3_3.arm	36	4	1	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level1/1x1/var2_1.arm	4	36	6	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level1/1x1/var2_4.arm	12	20	0	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level1/1x1/var2_2.arm	4	28	5	node	
+0	Metadata/Terrain/Mountain/Mines/Rooms_Level1/1x1/var2_1.arm	12	28	5	node	

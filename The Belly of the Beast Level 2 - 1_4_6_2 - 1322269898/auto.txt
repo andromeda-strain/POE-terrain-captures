@@ -1,0 +1,5 @@
+   client tile hash 2511195913 doodad hash 2928019128 (CLI_ACTIVATE_MAP)
+AUTO seed 1322269898 The Belly of the Beast Level 2: the tracer saw no generation (it attached after the level was built; the capture has no node stages)
+   tile grid: captures\The Belly of the Beast Level 2 - 1_4_6_2 - 1322269898\truth_3203fea1c48.tsv (61x85, 5185 cells) VERIFIED against tile hash 2511195913
+   walkable field: captures\The Belly of the Beast Level 2 - 1_4_6_2 - 1322269898\walkable_3203fea1c48_melee.png (8.9% of the sub-cells walkable, matches the tiles' hull field at IoU 0.977; 2 layer(s) read; stored for the grid as walkable_3203fea1c48_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Belly of the Beast Level 2 - 1_4_6_2 - 1322269898\minimap.png

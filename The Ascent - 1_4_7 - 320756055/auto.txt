@@ -1,0 +1,4 @@
+KNOWN The Ascent [1_4_7] seed 320756055: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator tgr, terrain act4/area7/, tile hash 3097772699 (1 of 1 rows), last capture captures/The Ascent - 1_4_7 - 320756055/stages_20261119_180800.csv (PASS)
+   this load's tile hash 3097772699 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\The Ascent - 1_4_7 - 320756055\truth_31fddb1cc48.tsv): captures\The Ascent - 1_4_7 - 320756055\minimap.png

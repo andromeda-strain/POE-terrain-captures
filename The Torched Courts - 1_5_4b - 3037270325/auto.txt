@@ -1,0 +1,5 @@
+   client tile hash 2263273699 doodad hash 3321683831 (CLI_ACTIVATE_MAP)
+AUTO seed 3037270325 The Torched Courts: the tracer saw no generation (it attached after the level was built; the capture has no node stages)
+   tile grid: captures\The Torched Courts - 1_5_4b - 3037270325\truth_2a54ee08c48.tsv (77x77, 5929 cells) VERIFIED against tile hash 2263273699
+   walkable field: captures\The Torched Courts - 1_5_4b - 3037270325\walkable_2a54ee08c48_melee.png (12.8% of the sub-cells walkable, matches the tiles' hull field at IoU 0.920; 3 layer(s) read; stored for the grid as walkable_2a54ee08c48_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Torched Courts - 1_5_4b - 3037270325\minimap.png

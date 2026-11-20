@@ -1,0 +1,31 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act5/Area1/Rooms/Unique/entrance_01.arm	36	60	0	node	default entrance1
+0	Metadata/Terrain/Act5/Area1/Rooms/Unique/tower_01.arm	6	30	0	node	entrance2disabled
+0	Metadata/Terrain/Act5/Area1/Rooms/2x2/6open_straight_02.arm	12	12	5	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/2open_turn_03.arm	36	30	7	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/2open_turn_03.arm	36	12	6	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/3open_02.arm	12	24	5	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/4open_03.arm	36	54	0	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/3open_02.arm	24	12	6	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/3open_02.arm	30	12	6	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/Unique/shrine_08.arm	24	48	0	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/3open_04.arm	36	18	3	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/3open_03.arm	24	42	6	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/3open_04.arm	30	30	0	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/3open_02.arm	24	30	2	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/3open_03.arm	36	24	3	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/1open_cap_03.arm	54	72	6	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/2x2/8open_01.arm	24	18	3	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/2open_turn_03.arm	48	72	1	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/2open_straight_01.arm	48	66	7	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/3open_01.arm	48	60	7	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/3open_03.arm	18	24	0	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/2open_turn_03.arm	48	54	6	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/3open_03.arm	42	54	4	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/2open_turn_03.arm	42	48	3	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/3open_02.arm	36	48	6	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/1x1/2open_turn_02.arm	30	42	3	node	
+0	Metadata/Terrain/Act5/Area1/Rooms/Fills/1x1_upper_09.arm	8	31	1	fill	
+0	Metadata/Terrain/Act5/Area1/Rooms/Fills/1x1_upper_01.arm	8	42	1	fill	
+0	Metadata/Terrain/Act5/Area1/Rooms/Fills/1x1_upper_06.arm	12	31	3	fill	
+0	Metadata/Terrain/Act5/Area1/Rooms/Fills/1x1_upper_04.arm	35	44	4	fill	

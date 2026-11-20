@@ -1,0 +1,22 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/Unique/entrance_1.arm	38	14	2	node	default entrance1
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/Unique/entrance_tolevel2.arm	6	62	3	node	entrance2
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/1x1/regular_var_3_2.arm	6	46	1	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/Unique/boss_1.arm	6	30	7	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/1x1/regular_var_1_2.arm	22	6	7	node	unique1
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/1x1/door2.arm	38	30	7	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/1x1/door2.arm	30	30	5	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/Unique/to_arena.arm	6	14	7	node	shuffle1 teleport1-AreaTransitionCankerousSoreEntrance telepad2
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/1x1/regular_var_1.arm	22	30	2	node	shuffle1
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/1x1/regular_var_1.arm	22	38	0	node	unique3
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/Unique/arena_heart_1.arm	46	62	0	node	teleport2-AreaTransitionCankerousSoreExit telepad1
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/Unique/shrine_4_2.arm	22	14	0	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/1x1/door2.arm	30	46	0	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/1x1/regular_var_2_6.arm	22	46	2	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/1x1/regular_var_3_3.arm	30	38	6	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/1x1/door1.arm	14	46	2	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/1x1/door1.arm	38	22	3	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/1x1/door2.arm	14	22	3	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/1x1/regular_var_5_2.arm	6	22	4	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/1x1/door1.arm	30	14	2	node	
+0	Metadata/Terrain/Mountain/Belly/Rooms_Level1/1x1/var_2.arm	6	54	7	node	

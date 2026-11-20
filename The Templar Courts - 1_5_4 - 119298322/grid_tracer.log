@@ -1,0 +1,19 @@
+--- 2026-11-19 21:09:42.678 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_18100_3.go --parent-pid 18100
+standby: go file seen 1 ms ago -> captures\stages_20261119_210942.csv
+address map: the client is not the decompiled build; 172360 functions paired (tools/exe_align.py)
+21:09:42.692 (the attach call took 4 ms)
+attached to pid 9152, image base 0x7ff6841b0000 (dump base 0x140000000); DR0 generator 0x7ff686219ae0 (then the draw 0x7ff6861b1720 on its thread)  DR1 permute 0x7ff6862d6250  DR3 dungeon 0x7ff686208d30 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+level generator on tid 28056: draws traced on this thread
+dungeon pipeline on tid 28056; tracing continues for 10.0 s or until it returns
+dungeon pipeline returned
+level generator returned
+--- TileMap T=0x2a7ad2c1c48 77x77: 5929 cells with a tile, 79 distinct tiles -> captures\The Templar Courts - 1_5_4 - 119298322\truth_2a7ad2c1c48.tsv
+    corner grid 78x78: 4 ground table entries, 2718 unwalkable corners -> captures\The Templar Courts - 1_5_4 - 119298322\truth_corners_2a7ad2c1c48.tsv
+    tile hash over 5817 origin cells = 3371873726
+trace window after the marker elapsed
+clear before detach: all 60 threads verified clear
+clear after detach: all 60 threads verified clear
+detached; client keeps running
+9403 events written to captures\stages_20261119_210942.csv
+WARNING: 8 logged caller(s) lie in functions the address map does not pair; those rows carry the plain rebase

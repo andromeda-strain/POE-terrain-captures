@@ -1,0 +1,18 @@
+GENERATED The Ossuary [1_5_6] seed 2156717021
+   dgr simulator: GRID 53x53: 2809 cells with a tile -> E:\repos\POE Work\captures/The Ossuary - 1_5_6 - 2156717021\sim_2156717021.tsv; tile hash over 2713 or | vs truth grid: 0 differing cells | HASH MATCH (4 s)
+   grid: captures\The Ossuary - 1_5_6 - 2156717021\sim_2156717021.tsv (generator dgr, terrain -, capture status "dungeon trace")
+   layers: 53x53 cells -> 1219x1219 sub-cells; tile hull planes + 1042 client doodads (the doodad stage replayed draw for draw) + 12 server objects' hulls
+   walkability gen_melee.png/.bin (15.3% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -16 .. 28 levels (-125.0 .. 218.8 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 486 specified by the level's files - tile .tmd records 35, room .arm lines 451; server (sent) 47, server-internal 1, client 438; 1042 stage doodads in gen_doodads.tsv
+   server types: LightModularTrigger x24, WallChest x8, ModularLight_MedOrange_Prox x8, Shrine x2, PurityBox x1, Ossuary_HiddenDoor x1, AreaTransition x1, Ossuary_BossSwitch x1
+   client passes after the doodads: 2916 corner ground materials in gen_materials.tsv, 0 decals in gen_decals.tsv, 0 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+      ground materials: 2916 corners, 0 of them drawn; no draw, as in the log
+      critters: 112 attempts, 0 placed; every draw equals the log (224, the generator running on from the pass before)
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_2a54ffb4c48.tsv: tiles 2809/2809 equal (path + orientation); cell heights 2809/2809 equal
+   vs the client's melee layer walkable_2a54ffb4c48_melee.bin: 99.7341% equal, IoU 0.9897 (2218 sub-cells more open here, 1733 more blocked; the tiles are equal: the rest is the doodad stage and the server objects' hulls, which only the client's layer holds)
+   vs the client's ranged layer walkable_2a54ffb4c48_ranged.bin: 99.8625% equal, IoU 0.9962 (2043 sub-cells more open here, 0 more blocked; the tiles are equal: the rest is the doodad stage and the server objects' hulls, which only the client's layer holds)
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 11 s

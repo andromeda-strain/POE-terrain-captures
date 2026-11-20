@@ -1,0 +1,7 @@
+pass1: 816 .tdt path buffers
+pass2: 135 tiledef wstrings, 10456 cell sites
+pass3: runs 5929@0x2a7f16a0010
+  TileMap T=0x2a54ee08c48 cols=77 rows=77 cells@0x2a7f16a0010 (~5929 placed in run)
+--- TileMap T=0x2a54ee08c48 77x77: 5929 cells with a tile, 91 distinct tiles -> captures\The Torched Courts - 1_5_4b - 3037270325\truth_2a54ee08c48.tsv
+    corner grid 78x78: 4 ground table entries, 2718 unwalkable corners -> captures\The Torched Courts - 1_5_4b - 3037270325\truth_corners_2a54ee08c48.tsv
+    tile hash over 5798 origin cells = 2263273699; Client.txt last generation 1_5_4b seed 3037270325 -> 2263273699 MATCH

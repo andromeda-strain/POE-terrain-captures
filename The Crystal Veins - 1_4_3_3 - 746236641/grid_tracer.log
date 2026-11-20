@@ -1,0 +1,19 @@
+--- 2026-11-19 17:10:39.713 --exe PathOfExile.exe --auto --after-marker 10 --deadline 45 --quiet --auto-draws --keep-draws --standby captures\tracer_standby_20548_13.go --parent-pid 20548
+standby: go file seen 1 ms ago -> captures\stages_20261119_171039.csv
+address map: the client is not the decompiled build; 172360 functions paired (tools/exe_align.py)
+17:10:39.725 (the attach call took 3 ms)
+attached to pid 26968, image base 0x7ff6841b0000 (dump base 0x140000000); DR0 generator 0x7ff686219ae0 (then the draw 0x7ff6861b1720 on its thread)  DR1 permute 0x7ff6862d6250  DR3 dungeon 0x7ff686208d30 (auto: stage dumps after the permute)
+load the area now; Ctrl+C to stop and detach
+level generator on tid 30700: draws traced on this thread
+dungeon pipeline on tid 30700; tracing continues for 10.0 s or until it returns
+dungeon pipeline returned
+dungeon pipeline returned
+level generator returned
+--- TileMap T=0x31fdcc97c48 57x87: 4146 cells with a tile, 86 distinct tiles -> captures\The Crystal Veins - 1_4_3_3 - 746236641\truth_31fdcc97c48.tsv
+    corner grid 58x88: 6 ground table entries, 1559 unwalkable corners -> captures\The Crystal Veins - 1_4_3_3 - 746236641\truth_corners_31fdcc97c48.tsv
+    tile hash over 4043 origin cells = 3155135178
+trace window after the marker elapsed
+clear before detach: all 60 threads verified clear
+clear after detach: all 60 threads verified clear
+detached; client keeps running
+10297 events written to captures\stages_20261119_171039.csv

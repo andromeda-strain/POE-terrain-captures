@@ -1,0 +1,10 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act5/SideAreaTorchedCourts/Rooms/entrance_01.arm	44	14	2	node	default sideentrance
+0	Metadata/Terrain/Act5/SideAreaTorchedCourts/Rooms/boss_01.arm	14	38	1	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Archives/2x2/8open_03.arm	32	32	6	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Archives/1x1/2open_straight_02.arm	26	32	0	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Archives/1x1/2open_straight_01.arm	20	32	4	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Archives/1x1/2open_turn_01.arm	14	32	2	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Archives/1x1/2open_straight_01.arm	32	26	3	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Archives/1x1/2open_straight_02.arm	38	20	0	node	
+0	Metadata/Terrain/Act5/Area4b/Rooms/Archives/1x1/2open_turn_02.arm	32	20	5	node	

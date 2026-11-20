@@ -1,0 +1,24 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Colosseum/small_trapdoor_1_talk.arm	6	30	3	node	teleport2-GrandArenaInterior telepad1 teleport17-GrandArenaInterior telepad3 killzone=2 accessible
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Unique/entrance_1.arm	18	6	0	node	default entrance1
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Unique/waypoint_1.arm	18	12	0	node	
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Unique/colosseum_hallway_entrance_1.arm	12	18	1	node	teleport1-GrandArenaExterior telepad 17 killzone=2
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Unique/colosseum_hallway_entrance_1.arm	24	60	0	node	telepad2 teleport3-GrandArenaExterior killzone=2 accessible
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Unique/colosseum_hallway_entrance_2.arm	12	60	1	node	teleport7-GrandArenaExterior telepad5 killzone=2 accessible
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Colosseum/large_1_1.arm	6	72	3	node	telepad4 teleport5-GrandArenaInterior teleport6-GrandArenaInterior telepad7 killzone=2 accessible
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Unique/colosseum_hallway_entrance_2.arm	42	66	6	node	telepad6 teleport4-GrandArenaExterior killzone=2 accessible
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Unique/colosseum_hallway_entrance_1.arm	42	84	1	node	teleport10-GrandArenaExterior telepad 11 killzone=2 accessible
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Unique/merv2.arm	42	78	0	node	
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Unique/colosseum_hallway_entrance_1.arm	48	78	0	node	teleport8-GrandArenaExterior telepad9 killzone=2 accessible
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Colosseum/small_1_1.arm	60	66	0	node	telepad8 teleport9-GrandArenaInterior killzone=2 accessible
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Colosseum/gladiators.arm	36	96	0	node	telepad10 teleport11-GrandArenaInterior teleport12-GrandArenaInterior telepad13 killzone=2 accessible
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Unique/colosseum_hallway_entrance_1_talk.arm	72	120	0	node	telepad12 teleport13-GrandArenaExterior killzone=2 accessible
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Unique/colosseum_hallway_daressoentrance_1.arm	66	132	1	node	teleport15-DaressoArenaName telepad16 killzone=2
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Unique/boss_1.arm	48	6	1	node	telepad15 teleport16-GrandArenaInterior
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Unique/merv1.arm	18	60	0	node	
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Unique/merv3.arm	66	126	0	node	
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Hallway/1x1/var_2_2.arm	24	12	2	node	
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Hallway/1x1/final_var_2_2.arm	66	120	7	node	
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Hallway/1x1/var_2_1.arm	42	72	5	node	
+0	Metadata/Terrain/Mountain/Arena/Colosseum/Rooms/Hallway/1x1/var_2_2.arm	12	12	0	node	
+0	Metadata/Terrain/Leagues/Mercenaries/TerrainFeatures/Witch1.arm	71	79	0	fill	

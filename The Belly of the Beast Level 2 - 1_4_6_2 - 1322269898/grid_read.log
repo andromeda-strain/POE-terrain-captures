@@ -1,0 +1,19 @@
+pass1: 1202 .tdt path buffers
+pass2: 60 tiledef wstrings, 6801 cell sites
+pass3: runs 5185@0x31f97650010
+  TileMap T=0x3203fea1c48 cols=61 rows=85 cells@0x31f97650010 (~5185 placed in run)
+  TileMap T=0x31f97932c50 cols=87 rows=87 cells@0x31f97643cf0 (~5185 placed in run)
+  TileMap T=0x31f97938790 cols=88 rows=95 cells@0x31f97643350 (~5185 placed in run)
+  TileMap T=0x31f97934cd0 cols=118 rows=119 cells@0x31f97643190 (~5185 placed in run)
+--- TileMap T=0x3203fea1c48 61x85: 5185 cells with a tile, 35 distinct tiles -> captures\The Belly of the Beast Level 2 - 1_4_6_2 - 1322269898\truth_3203fea1c48.tsv
+    corner grid 62x86: 3 ground table entries, 2108 unwalkable corners -> captures\The Belly of the Beast Level 2 - 1_4_6_2 - 1322269898\truth_corners_3203fea1c48.tsv
+    tile hash over 4708 origin cells = 2511195913; Client.txt last generation 1_4_6_2 seed 1322269898 -> 2511195913 MATCH
+--- TileMap T=0x31f97932c50 87x87: 6158 cells with a tile, 579 distinct tiles -> captures\The Belly of the Beast Level 2 - 1_4_6_2 - 1322269898\truth_31f97932c50.tsv
+  T=0x31f97932c50: corner grid 2x2 at 0x0 does not fit 87x87
+    tile hash over 5442 origin cells = 581274646; Client.txt last generation 1_4_6_2 seed 1322269898 -> 2511195913 DIFFERS (is this the current area?)
+--- TileMap T=0x31f97938790 88x95: 6607 cells with a tile, 1006 distinct tiles -> captures\The Belly of the Beast Level 2 - 1_4_6_2 - 1322269898\truth_31f97938790.tsv
+  T=0x31f97938790: corner grid 2x2 at 0x0 does not fit 88x95
+    tile hash over 5597 origin cells = 3871440305; Client.txt last generation 1_4_6_2 seed 1322269898 -> 2511195913 DIFFERS (is this the current area?)
+--- TileMap T=0x31f97934cd0 118x119: 11080 cells with a tile, 4592 distinct tiles -> captures\The Belly of the Beast Level 2 - 1_4_6_2 - 1322269898\truth_31f97934cd0.tsv
+  T=0x31f97934cd0: corner grid 2x2 at 0x0 does not fit 118x119
+    tile hash over 6263 origin cells = 522659388; Client.txt last generation 1_4_6_2 seed 1322269898 -> 2511195913 DIFFERS (is this the current area?)

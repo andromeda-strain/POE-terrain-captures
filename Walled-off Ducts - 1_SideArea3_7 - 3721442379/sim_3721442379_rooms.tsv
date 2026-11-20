@@ -1,0 +1,8 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms/Unique/inside_entrance_1.arm	4	9	0	node	default sideentrance
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms/Unique/side_area_boss.arm	19	24	1	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms/Pipe_water_1x1/var_3.arm	4	4	6	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms/Unique/shrine_water_01.arm	9	4	0	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms/Pipe_water_2x2/var_3_6_2.arm	14	4	3	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms/Pipe_water_2x2/var_2_6_1_grass.arm	24	14	3	node	
+0	Metadata/Terrain/RuinedCity/Sewers/Rooms/Pipe_water_2x2/var_2_2.arm	14	14	7	node	

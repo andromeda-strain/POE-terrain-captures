@@ -1,0 +1,22 @@
+sub	arm	x	y	o	src	tags
+0	Metadata/Terrain/Act5/Area4/Rooms/Unique/entrance_01.arm	26	56	0	node	default entrance1
+0	Metadata/Terrain/Act5/Area4/Rooms/Unique/exit_01.arm	20	26	0	node	entrance2
+0	Metadata/Terrain/Act5/Area4/Rooms/Unique/boss_01.arm	50	20	0	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/Unique/office.arm	50	50	0	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/Windows/window_end_02.arm	56	44	7	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/2x2/6open_side_03.arm	38	38	5	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/Windows/window_T_04.arm	38	62	0	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/Windows/window_convex_02.arm	50	62	0	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/Windows/window_end_03.arm	50	56	3	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/Windows/window_T_04.arm	56	32	7	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/1x1/3open_02.arm	50	44	0	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/Windows/window_straight_03.arm	44	62	4	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/Windows/window_straight_03.arm	56	38	3	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/Archives/2x2/8open_04.arm	38	14	5	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/Archives/2x2/8open_01.arm	26	14	5	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/2x2/6open_corner_02.arm	38	50	5	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/1x1/3open_01.arm	50	38	7	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/1x1/3open_01.arm	50	32	2	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/Archives/1x1/1open_01.arm	38	26	7	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/Archives/1x1/1open_02.arm	32	26	1	node	
+0	Metadata/Terrain/Act5/Area4/Rooms/1x1/2open_turn_01.arm	44	32	2	node	

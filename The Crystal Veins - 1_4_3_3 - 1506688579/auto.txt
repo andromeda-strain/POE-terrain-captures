@@ -1,0 +1,25 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 1367618186 doodad hash 846264692 (CLI_ACTIVATE_MAP)
+AUTO seed 1506688579 The Crystal Veins: dungeon area (capture captures/The Crystal Veins - 1_4_3_3 - 1506688579/stages_20261119_163831.csv)
+   dungeon (.dgr) pipeline: 3272 draws in 18 call sites (6 generator draws before it, 8004 after it - the post passes); no generator model yet
+   0x142031e88: 1 draws, bounds 1
+   0x142031ea6: 1 draws, bounds 1
+   0x14203a8e0: 17 draws, bounds 100
+   0x142105ee9: 6 draws, bounds 1,100
+   0x142107272: 12 draws, bounds 1300,2060
+   0x1420fd32a: 34 draws, bounds 128
+   0x142012839: 1 draws, bounds 15
+   0x1420fd640: 27 draws, bounds 2060
+   0x142001ee5: 21 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 1
+   0x14210862e: 13 draws, bounds 3400,11600,50960
+   0x14210871c: 13 draws, bounds 840
+   0x142108799: 2 draws, bounds 3400,11600
+   0x1421087b9: 2 draws, bounds 840
+   0x1420efc0c: 922 draws, bounds 20,40,80,100,180,200,340,400,640,800,1200,1600,...
+   0x1420f6875: 95 draws, bounds 200,640,1200
+   0x141febf93: 1052 draws, bounds 100,110,300
+   0x141febfcf: 1052 draws, bounds 8
+   tile grid: captures\The Crystal Veins - 1_4_3_3 - 1506688579\truth_31fdcc64c48.tsv (87x65, 4666 cells) VERIFIED against tile hash 1367618186
+   walkable field: captures\The Crystal Veins - 1_4_3_3 - 1506688579\walkable_31fdcc64c48_melee.png (9.5% of the sub-cells walkable, matches the tiles' hull field at IoU 0.961; 2 layer(s) read; stored for the grid as walkable_31fdcc64c48_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Crystal Veins - 1_4_3_3 - 1506688579\minimap.png

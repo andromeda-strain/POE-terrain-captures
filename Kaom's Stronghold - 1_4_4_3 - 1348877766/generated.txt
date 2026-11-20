@@ -1,0 +1,19 @@
+GENERATED Kaom's Stronghold [1_4_4_3] seed 1348877766
+   tgr simulator: == map cells: 1329/1329 equal the truth (4 s)
+   grid: captures\Kaom's Stronghold - 1_4_4_3 - 1348877766\sim_1348877766.tsv (generator tgr, terrain act4/area4level3/, capture status "PASS")
+   layers: 84x117 cells -> 1932x2691 sub-cells; tile hull planes + 3022 client doodads (the doodad stage replayed draw for draw) + 4 server objects' hulls
+   walkability gen_melee.png/.bin (10.1% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -18 .. 255 levels (-140.6 .. 1992.2 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 1464 specified by the level's files - tile .tmd records 15, room .arm lines 1449; server (sent) 56, server-internal 12, client 1396; 3022 stage doodads in gen_doodads.tsv
+   server types: KaomBossSkullSpawnerHigh x20, KaomBossSkullSpawnerLow x11, KaomBossSkullSpawnerMedium x11, KaomBossArcherSpawner x9, kaom_volcano x3, AreaTransition x2, BridgeMarker x2, MercenarySpawnMarkerPartyMember x2
+   client passes after the doodads: 10030 corner ground materials in gen_materials.tsv, 105 decals in gen_decals.tsv, 12 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+      ground materials: 10030 corners, 94 of them drawn; every draw equals the log (94, the generator running on from the pass before)
+      decals: 2948 attempts, 105 placed; every draw equals the log (6001, the generator running on from the pass before)
+      critters: 393 attempts, 12 placed; every draw equals the log (822, the generator running on from the pass before)
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_32024876448.tsv: tiles 9828/9828 equal (path + orientation); cell heights 9828/9828 equal
+   vs the client's melee layer walkable_32024876448_melee.bin: 99.9700% equal, IoU 0.9987 (1056 sub-cells more open here, 502 more blocked; the tiles are equal: the rest is the doodad stage and the server objects' hulls, which only the client's layer holds)
+   vs the client's ranged layer walkable_32024876448_ranged.bin: 99.9709% equal, IoU 0.9999 (877 sub-cells more open here, 638 more blocked; the tiles are equal: the rest is the doodad stage and the server objects' hulls, which only the client's layer holds)
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 22 s

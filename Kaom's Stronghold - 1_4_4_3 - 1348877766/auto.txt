@@ -1,0 +1,12 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 703892690 doodad hash 2757291429 (CLI_ACTIVATE_MAP)
+AUTO seed 1348877766 Kaom's Stronghold: terrain act4/area4level3/ graph kaom3_4.tgr (9 locked nodes match; capture 54 nodes, graph 23)
+   typed nodes never placed by the client (untilised): [0, 2, 3, 4, 5, 6, 9, 10, 13, 14, 15, 16, 19, 20, 22]
+   node pipeline: pre-pick words 0, vaal_pending False, hideout_claim False: free nodes 1/1 match
+   pre-pick words 0 -> 3 by the capture (first pipeline word: client 4, sim 1; 12 draws replayed)
+   tile grid: captures\Kaom's Stronghold - 1_4_4_3 - 1348877766\truth_32024876448.tsv (84x117, 9828 cells) VERIFIED against tile hash 703892690
+   walkable field: captures\Kaom's Stronghold - 1_4_4_3 - 1348877766\walkable_32024876448_melee.png (10.1% of the sub-cells walkable, matches the tiles' hull field at IoU 0.872; 2 layer(s) read; stored for the grid as walkable_32024876448_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\Kaom's Stronghold - 1_4_4_3 - 1348877766\minimap.png
+   PASS: permute-in 28/28, permute-out 28/28, rounder-in-1 28/28, rounder-in-2 28/28, rounder-in-3 31/31, rounder-in-4 31/31, rounder-in-5 31/31
+   layout: captures\Kaom's Stronghold - 1_4_4_3 - 1348877766\layout.png; minimap captures\Kaom's Stronghold - 1_4_4_3 - 1348877766\minimap.png
+   corpus row appended

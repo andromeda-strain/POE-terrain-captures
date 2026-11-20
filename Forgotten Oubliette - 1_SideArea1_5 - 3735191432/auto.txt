@@ -1,0 +1,4 @@
+KNOWN Forgotten Oubliette [1_SideArea1_5] seed 3735191432: 1 verified case(s) - not traced, no debugger on the client (ini [AutoCapture] SkipKnown=1)
+   generator dgr, terrain -, tile hash 2994724848 (1 of 1 rows), last capture captures/Forgotten Oubliette - 1_SideArea1_5 - 3735191432/stages_20261119_171458.csv (dungeon trace)
+   this load's tile hash 2994724848 (CLI_ACTIVATE_MAP): the same level as the stored grid
+   minimap (the stored grid captures\Forgotten Oubliette - 1_SideArea1_5 - 3735191432\truth_31fddb5bc48.tsv): captures\Forgotten Oubliette - 1_SideArea1_5 - 3735191432\minimap.png

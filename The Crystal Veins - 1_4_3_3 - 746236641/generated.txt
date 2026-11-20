@@ -1,0 +1,18 @@
+GENERATED The Crystal Veins [1_4_3_3] seed 746236641
+   dgr simulator: GRID 57x87: 4146 cells with a tile -> E:\repos\POE Work\captures/The Crystal Veins - 1_4_3_3 - 746236641\sim_746236641.tsv; tile hash over 4 | vs truth grid: 0 differing cells | HASH MATCH (5 s)
+   grid: captures\The Crystal Veins - 1_4_3_3 - 746236641\sim_746236641.tsv (generator dgr, terrain -, capture status "dungeon trace")
+   layers: 57x87 cells -> 1311x2001 sub-cells; tile hull planes + 311 client doodads (the doodad stage replayed draw for draw) + 1 server objects' hulls
+   walkability gen_melee.png/.bin (10.1% of the sub-cells walkable), projectile gen_ranged.png/.bin
+   height gen_height.bin/.png: -16 .. 59 levels (-125.0 .. 460.9 world units) = the cell height word + the tile's sub-cell height map
+   objects gen_objects.tsv: 330 specified by the level's files - tile .tmd records 36, room .arm lines 294; server (sent) 42, server-internal 1, client 287; 311 stage doodads in gen_doodads.tsv
+   server types: ChaosElementalSpawner x27, AreaTransition x3, DreamPortal x2, Waypoint x1, BeastSkinDoor x1, RaptureTransition x1, BeastSkinDoorExplosion x1, BeastSkinDoorFX x1
+   client passes after the doodads: 4312 corner ground materials in gen_materials.tsv, 0 decals in gen_decals.tsv, 2 critters in gen_critters.tsv (all on the level seed; which line a decal / critter takes is not seeded)
+      ground materials: 4312 corners, 4302 of them drawn; every draw equals the log (4302, the generator running on from the pass before)
+      critters: 74 attempts, 2 placed; every draw equals the log (154, the generator running on from the pass before)
+   gen_objects.png: blue = server (sent), orange = server-internal, green = client object, small violet = stage doodad, olive point = decal, pink = critter
+   vs the client's grid truth_31fdcc97c48.tsv: tiles 4146/4146 equal (path + orientation); cell heights 4146/4146 equal
+   vs the client's melee layer walkable_31fdcc97c48_melee.bin: EXACT
+   vs the client's ranged layer walkable_31fdcc97c48_ranged.bin: EXACT
+   the height layer has no client array to compare with: the client computes it per query (sub_141D84B00)
+   minimap gen_minimap.png: the generated tiles, lit where the generated walkability is open, tinted by the generated height
+   built in 13 s

@@ -1,0 +1,28 @@
+   tile grid taken at the generator's return (no memory scan)
+   client tile hash 281602818 doodad hash 2822639142 (CLI_ACTIVATE_MAP)
+AUTO seed 2976104717 The Belly of the Beast Level 1: dungeon area (capture captures/The Belly of the Beast Level 1 - 1_4_6_1 - 2976104717/stages_20261119_172957.csv)
+   dungeon (.dgr) pipeline: 2404 draws in 21 call sites (3 generator draws before it, 6121 after it - the post passes); no generator model yet
+   0x14203a8e0: 18 draws, bounds 100
+   0x142030b2c: 1 draws, bounds 2
+   0x142030b45: 1 draws, bounds 2
+   0x142030de5: 3 draws, bounds 2
+   0x142105ee9: 11 draws, bounds 1,4,6
+   0x142105f65: 2 draws, bounds 4,6
+   0x142107272: 4 draws, bounds 31
+   0x1420fd32a: 64 draws, bounds 128
+   0x142012839: 2 draws, bounds 1,12
+   0x1420fd640: 49 draws, bounds 13,31
+   0x142001ee5: 19 draws, bounds 1
+   0x1420fc763: 1 draws, bounds 2
+   0x14210862e: 10 draws, bounds 22,100,287
+   0x14210871c: 10 draws, bounds 840
+   0x1420ff711: 1 draws, bounds 2
+   0x1420ff72b: 1 draws, bounds 1
+   0x1420efc0c: 361 draws, bounds 8,100,200,400,800
+   0x1420f6875: 47 draws, bounds 200,400
+   0x141febf93: 899 draws, bounds 100,300
+   0x141febfcf: 899 draws, bounds 8
+   0x14202795d: 1 draws, bounds 100
+   tile grid: captures\The Belly of the Beast Level 1 - 1_4_6_1 - 2976104717\truth_3200a600c48.tsv (61x77, 4697 cells) VERIFIED against tile hash 281602818
+   walkable field: captures\The Belly of the Beast Level 1 - 1_4_6_1 - 2976104717\walkable_3200a600c48_melee.png (7.9% of the sub-cells walkable, matches the tiles' hull field at IoU 0.934; 2 layer(s) read; stored for the grid as walkable_3200a600c48_{melee,ranged}.png/.bin/.tsv)
+   minimap (the client's grid): captures\The Belly of the Beast Level 1 - 1_4_6_1 - 2976104717\minimap.png
